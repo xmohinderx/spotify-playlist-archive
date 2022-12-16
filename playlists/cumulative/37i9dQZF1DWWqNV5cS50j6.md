@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,218 songs - 2 day 10 hr 59 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,219 songs - 2 day 11 hr 2 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Bad Hoe](https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sometimes Sorry Isn't Enough](https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n) | 3:27 | 2022-04-27 | 2022-07-19 |
 | [Bad Love](https://open.spotify.com/track/1tB5UEseYQt5vRZgcnPHAW) | [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [Bad Love](https://open.spotify.com/album/7C1SpkTFC1w0mfWhQ1ntsF) | 3:37 | 2021-01-30 | 2021-10-11 |
 | [BAD MOOD \(feat\. Brevin Kim\)](https://open.spotify.com/track/3TzVVsxmrAlpq7c8kZhRpv) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [PLASTIC WORLD](https://open.spotify.com/album/19YH2WSBWAJF2EmBmzCOIn) | 2:38 | 2021-06-12 | 2021-10-16 |
-| [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-11-11 |  |
+| [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-11-11 | 2022-12-16 |
 | [BAD THINGS](https://open.spotify.com/track/6eyUdM968eO48IdApLd6sx) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK), [Teardrop Estates](https://open.spotify.com/artist/4gbWsUOiySCFw50G8zNldr) | [BAD THINGS](https://open.spotify.com/album/3mtTSz7weLILKOaJ5aHyFI) | 2:46 | 2021-01-23 | 2021-06-16 |
 | [Bad Thoughts](https://open.spotify.com/track/3XBtJLG0SXBUrn8vBGSqOd) | [Séamus](https://open.spotify.com/artist/4UWTzao3I8dwpES32qyoEc) | [The Whole World's Burning](https://open.spotify.com/album/4BSV0HL8lfVUXH87dIxdWW) | 3:03 | 2022-02-28 | 2022-04-09 |
 | [Bad Thoughts](https://open.spotify.com/track/4a6Hb4ehtDp8h0pxIJLrle) | [Séamus](https://open.spotify.com/artist/4UWTzao3I8dwpES32qyoEc) | [The Whole World's Burning](https://open.spotify.com/album/70x3b8mv1oehu9M9ocaJ4Q) | 3:03 | 2022-02-11 | 2022-03-01 |
@@ -811,6 +811,7 @@
 | [philadelphia](https://open.spotify.com/track/7n1SLI92zzCUvAdBx6flyU) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [philadelphia](https://open.spotify.com/album/5P19jHuYj8fcWH9sc8HqPH) | 3:20 | 2021-12-10 | 2022-04-10 |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2020-10-13\* | 2020-11-03 |
 | [PHONE TALK](https://open.spotify.com/track/6sD12edAgVWg4GE1qOYC5d) | [Joe Saan](https://open.spotify.com/artist/18uWEJjNVCX7fBwUBokiIJ) | [PHONE TALK](https://open.spotify.com/album/0CKHV2YpQo6vsxIA2z8Ace) | 3:31 | 2021-05-15 | 2021-06-05 |
+| [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 |  |
 | [PIE](https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB) | 2:56 | 2022-01-21 | 2022-03-03 |
 | [PILOT](https://open.spotify.com/track/6p2RUPU8EUHfdNq4hnGX0B) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [JUST MY LUCK](https://open.spotify.com/album/71PRKOPWHQpHkIZim7bE99) | 3:51 | 2022-06-24 | 2022-11-09 |
 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 | 2022-11-30 |  |

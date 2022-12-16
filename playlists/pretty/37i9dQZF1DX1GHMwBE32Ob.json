@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: T.I Blaze",
-  "num_followers": 1947,
+  "num_followers": 1966,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGNlMjQxYzcxMTE1ZTBlNTU5NjVmMmM0NGEwYTg1MmZj",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDUyNTA0NjA0ZWQ3M2MyMGEyYjRhNGYxNjljYWJmMTY0",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -787,50 +787,6 @@
     {
       "added_at": "2022-06-29 06:30:37",
       "album": {
-        "name": "Legbegbe",
-        "url": "https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El"
-      },
-      "artists": [
-        {
-          "name": "Mr Real",
-          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
-        },
-        {
-          "name": "Obadice",
-          "url": "https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz"
-        },
-        {
-          "name": "Idowest",
-          "url": "https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0"
-        }
-      ],
-      "duration_ms": 262191,
-      "name": "Legbegbe",
-      "url": "https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV"
-    },
-    {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
-        "name": "Am I a Yahoo Boy",
-        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148820,
-      "name": "Am I a Yahoo Boy",
-      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
-    },
-    {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS"
       },
@@ -855,6 +811,50 @@
       "duration_ms": 188000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D"
+    },
+    {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
+        "name": "Am I a Yahoo Boy",
+        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148820,
+      "name": "Am I a Yahoo Boy",
+      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
+    },
+    {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
+        "name": "Legbegbe",
+        "url": "https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El"
+      },
+      "artists": [
+        {
+          "name": "Mr Real",
+          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
+        },
+        {
+          "name": "Obadice",
+          "url": "https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz"
+        },
+        {
+          "name": "Idowest",
+          "url": "https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0"
+        }
+      ],
+      "duration_ms": 262191,
+      "name": "Legbegbe",
+      "url": "https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV"
     },
     {
       "added_at": "2022-12-02 00:00:00",

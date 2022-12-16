@@ -4,7 +4,7 @@
 
 > Highlighting the best <a href="http://noteable.spotify.com">Noteable</a> songs from 2022 that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm?si=lkuzDoc2T8aKwvPlaf8M5Q&nd=1">KILLBOY.</a>
 
-445 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+446 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 | 2021-12-08 | 2022-01-06 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-11-09 | 2022-12-01 |
 | [I'll Be Fine](https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I'll Be Fine](https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB) | 3:37 | 2022-08-03 | 2022-09-09 |
-| [i'm in new york tonight](https://open.spotify.com/track/1v5TMcyf4gbhHFfBn0AIaE) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i'm in new york tonight](https://open.spotify.com/album/1gYOkI0tBNRbkZpueJAUlp) | 3:36 | 2022-01-05 |  |
+| [i'm in new york tonight](https://open.spotify.com/track/1v5TMcyf4gbhHFfBn0AIaE) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i'm in new york tonight](https://open.spotify.com/album/1gYOkI0tBNRbkZpueJAUlp) | 3:36 | 2022-01-05 | 2022-12-16 |
 | [ibtc](https://open.spotify.com/track/6QtBzhRBv5nrIDYIAiS2gh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [ibtc](https://open.spotify.com/album/6c0qrNtQaaRbefPkSQIOvw) | 2:03 | 2022-10-05 | 2022-11-10 |
 | [If He Wanted to He Would](https://open.spotify.com/track/7dORAUbJ8pGvB4SaH0KbUx) | [Sarah Catharine](https://open.spotify.com/artist/78iX5058y1HoOivCzmz8Av) | [If He Wanted to He Would](https://open.spotify.com/album/49fQeumi6IE0Dppm5JQbK6) | 3:47 | 2022-10-05 | 2022-11-10 |
 | [If I Could](https://open.spotify.com/track/2geVKWhDlHenRssVKIZz5O) | [Nina Moss](https://open.spotify.com/artist/2KtLFhGk11CrlkyLEiTr3r) | [If I Could](https://open.spotify.com/album/7p1ZFOdg7dcHUNdmsFIHkd) | 2:56 | 2022-09-07 | 2022-11-10 |
@@ -230,6 +230,7 @@
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2022-11-30 |  |
 | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/track/4xzCJ65pFTogCfav8IVqSw) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/album/2AU0XiCtjQEU55l846nraF) | 3:17 | 2022-02-02 | 2022-03-09 |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2022-01-05 | 2022-02-03 |
+| [i’m in new york tonight](https://open.spotify.com/track/6jsk7YgRClhzkg2XoxRTT0) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i’m in new york tonight](https://open.spotify.com/album/2MRPmkxKrbedvvQzuJDJKx) | 3:36 | 2022-12-01 |  |
 | [Jawbreaker](https://open.spotify.com/track/1H6Xf251qLvIiDM1BhSZDo) | [Boh Doran](https://open.spotify.com/artist/2JEPEniK4PhJZeKKN3Vrmg) | [Jawbreaker](https://open.spotify.com/album/6DLDZYCjpkjQ1w8RwETtfb) | 3:22 | 2022-06-01 | 2022-07-07 |
 | [Jazz In The Park W/Tea](https://open.spotify.com/track/2RrrZf7as7ZpilkOknbRFu) | [Jen Miller](https://open.spotify.com/artist/4G1fAATvPm48oMzez32icF) | [100% HER](https://open.spotify.com/album/4c8qCznUZNz4H5xoYrdA0B) | 3:30 | 2021-12-08 | 2022-01-06 |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-05-04 | 2022-06-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 17552,
+  "num_followers": 17586,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGRhYWFlOGNlYjgyZGNhZTkwNTRjNzE3MGQ1NDk3MTBj",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDczNWMyOWQyNGRjMTU3ZGQ3MWM1YjQxMjAxNWM3NGI5",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -27,22 +27,6 @@
       "duration_ms": 199734,
       "name": "Inflation",
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Telephone Song",
-      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -67,6 +51,22 @@
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
       "url": "https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Telephone Song",
+      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "I Always Get My Man",
-      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Live From The Archive",
         "url": "https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 590720,
       "name": "Black Cat Bone",
       "url": "https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "I Always Get My Man",
+      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Back To Bogalusa",
         "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
       },
@@ -527,6 +511,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Let's Roll",
+        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Lie No Better",
+      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "On Tap",
         "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 245826,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Come To Mama",
-      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Come To Mama",
+      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "That's What I Heard",
         "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 205586,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let's Roll",
-        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Lie No Better",
-      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 244623,
+      "name": "Same Ole Feeling",
+      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Let's Talk It Over",
         "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Stop On By",
+      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -655,18 +687,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 244623,
-      "name": "Same Ole Feeling",
-      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
+      "duration_ms": 225666,
+      "name": "Meet Me in Chicago",
+      "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -683,38 +715,6 @@
       "duration_ms": 199960,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Meet Me in Chicago",
-      "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Iceman",
-        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Put The Shoe On The Other Foot",
-      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Iceman",
+        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Put The Shoe On The Other Foot",
+      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Give It Back",
         "url": "https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 279460,
       "name": "Give It Back",
       "url": "https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "All The Way",
-        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Stop On By",
-      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -807,6 +807,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Shine Bright",
+        "url": "https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh"
+      },
+      "artists": [
+        {
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+        }
+      ],
+      "duration_ms": 273213,
+      "name": "Pots And Pans",
+      "url": "https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Break on Free",
+        "url": "https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Break on Free",
+      "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Iceman",
         "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 250333,
       "name": "I'm Beginning To Wonder",
       "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/4eg05LO0iG3uN248Bj8Gvj"
-      },
-      "artists": [
-        {
-          "name": "Raful Neal",
-          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
-        }
-      ],
-      "duration_ms": 290013,
-      "name": "You Been Sweet To Me",
-      "url": "https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "I Smell Smoke",
-      "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
     }
   ],
   "unique_name": "Funky Blues",

@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "The Old School Way",
+        "url": "https://open.spotify.com/album/7e4zPgziPQixuydmHlWAJc"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "The Old School Way",
+      "url": "https://open.spotify.com/track/4PDmSqrIbeSusqWxHzCafh"
+    },
+    {
+      "album": {
         "name": "Kill Your Own",
         "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
       },

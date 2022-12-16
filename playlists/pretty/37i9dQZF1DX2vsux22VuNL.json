@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 242577,
+  "num_followers": 242664,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg1MzQwMCwwMDAwMDAwMDFhNGUwYzJhMmJiZDc4MmU4OGEzM2M5OTZiZTQ0ODQ3",
+  "snapshot_id": "MTY3MDg1MzQwMCwwMDAwMDAwMGJhZDQ0NDBiMmIwNmVjZWM1Y2NjYzRmZmU0OTZiMDVi",
   "tracks": [
     {
       "added_at": "2022-12-12 13:56:40",
@@ -203,30 +203,6 @@
     {
       "added_at": "2022-12-12 13:56:40",
       "album": {
-        "name": "Aperta Start",
-        "url": "https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Aperta Start",
-      "url": "https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
         "name": "Puto de Luxo",
         "url": "https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5"
       },
@@ -247,6 +223,30 @@
       "duration_ms": 144186,
       "name": "Puto de Luxo",
       "url": "https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
+        "name": "Aperta Start",
+        "url": "https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Aperta Start",
+      "url": "https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-12-12 13:56:40",
       "album": {
+        "name": "Tocaia",
+        "url": "https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Tocaia",
+      "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
         "name": "jovemCARLOS",
         "url": "https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC"
       },
@@ -851,6 +871,22 @@
       "duration_ms": 175834,
       "name": "se voc\u00ea deixar",
       "url": "https://open.spotify.com/track/7orLIsrTqRdpxUtnAxIFYV"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
+        "name": "Dif\u00edcil Lembrar, n\u00e9?",
+        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "Dif\u00edcil Lembrar, n\u00e9?",
+      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -875,18 +911,18 @@
     {
       "added_at": "2022-12-12 13:56:40",
       "album": {
-        "name": "Dif\u00edcil Lembrar, n\u00e9?",
-        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
+        "name": "Posturada",
+        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
       },
       "artists": [
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
         }
       ],
-      "duration_ms": 155452,
-      "name": "Dif\u00edcil Lembrar, n\u00e9?",
-      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
+      "duration_ms": 176064,
+      "name": "Posturada",
+      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -915,42 +951,6 @@
       "duration_ms": 210429,
       "name": "Salserin #1 - Para",
       "url": "https://open.spotify.com/track/4803QEhCk7Oq6J6sJEY9GB"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
-        "name": "Posturada",
-        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        }
-      ],
-      "duration_ms": 176064,
-      "name": "Posturada",
-      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
-        "name": "Tocaia",
-        "url": "https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq"
-      },
-      "artists": [
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Tocaia",
-      "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-12-12 13:56:40",
       "album": {
-        "name": "Marrenta",
-        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "Marrenta",
-      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
         "name": "F\u00e9 Imensa",
         "url": "https://open.spotify.com/album/7lTIW8fNmbd1ioWTjSfk05"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 288400,
       "name": "F\u00e9 Imensa",
       "url": "https://open.spotify.com/track/7Ay3bqPd31lSVCN73EJvJe"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -1467,50 +1467,6 @@
     {
       "added_at": "2022-12-12 13:56:40",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
-        "name": "Tem Hist\u00f3ria N\u00e3o",
-        "url": "https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6"
-      },
-      "artists": [
-        {
-          "name": "Shark",
-          "url": "https://open.spotify.com/artist/1MIG0PfunDzHfQkTMiWsbY"
-        },
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Hector Marks",
-          "url": "https://open.spotify.com/artist/1UEYni0YwBH0Yax3CDhCda"
-        }
-      ],
-      "duration_ms": 230857,
-      "name": "Tem Hist\u00f3ria N\u00e3o",
-      "url": "https://open.spotify.com/track/0r69yZzvm9F96G1zve3lCv"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
       },
@@ -1531,6 +1487,22 @@
       "duration_ms": 160687,
       "name": "Ela",
       "url": "https://open.spotify.com/track/1xFt2EA1GMkU4vJfac124M"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -1563,6 +1535,34 @@
       "duration_ms": 276705,
       "name": "Ac\u00fastico Altamira #14 - Medo",
       "url": "https://open.spotify.com/track/4IfMGfaZCGFEfzFizozRco"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
+        "name": "Tem Hist\u00f3ria N\u00e3o",
+        "url": "https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6"
+      },
+      "artists": [
+        {
+          "name": "Shark",
+          "url": "https://open.spotify.com/artist/1MIG0PfunDzHfQkTMiWsbY"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Hector Marks",
+          "url": "https://open.spotify.com/artist/1UEYni0YwBH0Yax3CDhCda"
+        }
+      ],
+      "duration_ms": 230857,
+      "name": "Tem Hist\u00f3ria N\u00e3o",
+      "url": "https://open.spotify.com/track/0r69yZzvm9F96G1zve3lCv"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-12-12 13:56:40",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        }
+      ],
+      "duration_ms": 139480,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
         "name": "Sem Ca\u00f4",
         "url": "https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 234826,
       "name": "Sem Ca\u00f4",
       "url": "https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        }
-      ],
-      "duration_ms": 139480,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
     },
     {
       "added_at": "2022-12-12 13:56:40",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-12-12 13:56:40",
       "album": {
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
+    },
+    {
+      "added_at": "2022-12-12 13:56:40",
+      "album": {
         "name": "Meu Desejo",
         "url": "https://open.spotify.com/album/5GBRWMDuTTkVvBjvezwgAj"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 137931,
       "name": "Meu Desejo",
       "url": "https://open.spotify.com/track/4UqKWGj0prhKqRrLd4NsL2"
-    },
-    {
-      "added_at": "2022-12-12 13:56:40",
-      "album": {
-        "name": "Beija e Arranha",
-        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Beija e Arranha",
-      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2022-12-12 13:56:40",

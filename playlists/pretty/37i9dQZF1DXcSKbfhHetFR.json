@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7653,
+  "num_followers": 7656,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDE5ZjM5ZTM2MzQ1MGEwZTk4OTRhYWY2NDc3ZjE2MDBj",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGQ1YjU5NDU3Y2MxZGEzMGNjYTQxOTZiZjRjMDlkZTFk",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Chacun dans son espace",
-        "url": "https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX"
-      },
-      "artists": [
-        {
-          "name": "Vincent Valli\u00e8res",
-          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Le temps passe",
-      "url": "https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Danse sociale",
         "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 235440,
       "name": "J'ai oubli\u00e9",
       "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Chacun dans son espace",
+        "url": "https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le temps au point mort",
-        "url": "https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 229906,
       "name": "Si exceptionnel",
       "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le temps au point mort",
+        "url": "https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Sur quelle plan\u00e8te",
-        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
       },
       "artists": [
         {
-          "name": "V\u00e9nus 3",
-          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
         }
       ],
-      "duration_ms": 323400,
-      "name": "Dans les airs",
-      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,18 +655,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
       },
       "artists": [
         {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
         }
       ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Nombre",
-        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
-      },
-      "artists": [
-        {
-          "name": "Le Nombre",
-          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Laissez venir \u00e0 moi les grandes brunes",
-      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Vent fou",
         "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "l'amour la haine les animaux les automobiles",
-        "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
+        "name": "Le Nombre",
+        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
       },
       "artists": [
         {
-          "name": "Gwenwed",
-          "url": "https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT"
+          "name": "Le Nombre",
+          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Gwen et les rats",
-      "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
+      "duration_ms": 174000,
+      "name": "Laissez venir \u00e0 moi les grandes brunes",
+      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -763,6 +747,22 @@
       "duration_ms": 219800,
       "name": "Une araign\u00e9e au plafond",
       "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "l'amour la haine les animaux les automobiles",
+        "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
+      },
+      "artists": [
+        {
+          "name": "Gwenwed",
+          "url": "https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Gwen et les rats",
+      "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
     },
     {
       "added_at": "2020-06-23 14:47:30",

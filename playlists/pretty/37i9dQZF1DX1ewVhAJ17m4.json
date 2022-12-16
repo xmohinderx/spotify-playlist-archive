@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 536570,
+  "num_followers": 536708,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDJjNDFmYzE5MjlhMzZiOGU1NGNhOTk3NTA3ZGViM2Y4",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDkyZTJjNmFlN2I0MDg0MWZhOTE2ZGFiZTIwMDFkZDhk",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 199198,
       "name": "Ruin My Life (feat. Deryck Whibley)",
       "url": "https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Say It (To My Face)",
-        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Wishing You Hell",
         "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Dream Born Again",
-        "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 261058,
-      "name": "Dream Born Again",
-      "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
         "url": "https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Dream Born Again",
+        "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 261058,
+      "name": "Dream Born Again",
+      "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he"
       },
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 217989,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Groundhog Day",
-        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 217989,
-      "name": "Groundhog Day",
-      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "The King and Queen of Gasoline",
-      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Don't Fall In Love With Me",
         "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 148500,
       "name": "Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "The King and Queen of Gasoline",
+      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "SiCK ABOuT U",
         "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 188387,
       "name": "SiCK ABOuT U",
       "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz"
-      },
-      "artists": [
-        {
-          "name": "Crooked Teeth",
-          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
-        },
-        {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        },
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "sorry i'm a downer",
-        "url": "https://open.spotify.com/album/3pWZUapSZN36eiXNEdnM9z"
-      },
-      "artists": [
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        }
-      ],
-      "duration_ms": 170670,
-      "name": "sorry i'm a downer",
-      "url": "https://open.spotify.com/track/5HthgwQJXeulWos92AfIrg"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "WE'RE NOT STRANGERS",
         "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 138720,
       "name": "WE'RE NOT STRANGERS",
       "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "sorry i'm a downer",
+        "url": "https://open.spotify.com/album/3pWZUapSZN36eiXNEdnM9z"
+      },
+      "artists": [
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "duration_ms": 170670,
+      "name": "sorry i'm a downer",
+      "url": "https://open.spotify.com/track/5HthgwQJXeulWos92AfIrg"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 201612,
+      "name": "I Fell in Love With Someone I Shouldn't Have",
+      "url": "https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Birthright",
-        "url": "https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Birthright",
-      "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Birthright",
+        "url": "https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Birthright",
+      "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "SORRY 4 MYSELF",
         "url": "https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 200999,
       "name": "SORRY 4 MYSELF",
       "url": "https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 201612,
-      "name": "I Fell in Love With Someone I Shouldn't Have",
-      "url": "https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Sunsign",
-        "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 227507,
-      "name": "Sunsign",
-      "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "DOUBTS",
         "url": "https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 174657,
       "name": "DOUBTS (feat. Ryan Oakes)",
       "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Sunsign",
+        "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 227507,
+      "name": "Sunsign",
+      "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
     },
     {
       "added_at": "2022-11-10 17:53:01",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=b-Urtz3dTsCCO4iRJ6qBLQ\">Gerhard Steyn</a>",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG?si=c9OuKcphROy5gKDb49DkdA\">Jakkie Louw</a>",
   "name": "Nuwe Afrikaans",
   "published_playlist_ids": [
     "0RKP7WChEoliblztnGqALh"
@@ -81,6 +81,24 @@
       "duration_ms": 226045,
       "name": "Alledaags",
       "url": "https://open.spotify.com/track/6NpfpVIKxbOpkH4hEHgWmR"
+    },
+    {
+      "album": {
+        "name": "Alles",
+        "url": "https://open.spotify.com/album/3y6DJQFdkjfuLwKu2RhV43"
+      },
+      "artists": [
+        {
+          "name": "Dani Vill\u00e9",
+          "url": "https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222582,
+      "name": "Alles",
+      "url": "https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj"
     },
     {
       "album": {
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 252452,
       "name": "Bittereinder",
       "url": "https://open.spotify.com/track/4sQp6xzP0lGJs1B1oQ9WtU"
@@ -472,6 +490,24 @@
     },
     {
       "album": {
+        "name": "Dans Met Gevaar",
+        "url": "https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV"
+      },
+      "artists": [
+        {
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249506,
+      "name": "Dans Met Gevaar",
+      "url": "https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/79wXpGDlUEWsTpMsILSGcP"
       },
@@ -537,7 +573,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 214266,
       "name": "Die Son",
       "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
@@ -1117,7 +1153,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 215338,
       "name": "Kies Lewe",
       "url": "https://open.spotify.com/track/1aEna1nsDIATkKF76DZAmR"
@@ -2361,6 +2397,24 @@
       "duration_ms": 196701,
       "name": "Standbeelde",
       "url": "https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl"
+    },
+    {
+      "album": {
+        "name": "Suikerbos",
+        "url": "https://open.spotify.com/album/64pO3zEBukMDwyZ8bUSBqU"
+      },
+      "artists": [
+        {
+          "name": "Stefan Jansen",
+          "url": "https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Suikerbos",
+      "url": "https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy"
     },
     {
       "album": {

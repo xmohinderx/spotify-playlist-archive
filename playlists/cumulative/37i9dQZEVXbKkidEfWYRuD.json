@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 113519,
       "name": "Chronosphere",
       "url": "https://open.spotify.com/track/7vsAZNP2BZiHK8RHyTh7lC"
@@ -4287,7 +4287,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -8078,6 +8078,24 @@
     },
     {
       "album": {
+        "name": "THE STORY OF ALISHER",
+        "url": "https://open.spotify.com/album/25m9NO6UpyivvEtXRSAuK2"
+      },
+      "artists": [
+        {
+          "name": "Oxxxymiron",
+          "url": "https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437199,
+      "name": "THE STORY OF ALISHER",
+      "url": "https://open.spotify.com/track/7jg52iX5YV4aZSsHu30Mb6"
+    },
+    {
+      "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
       },
@@ -10069,7 +10087,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 136499,
       "name": "\u0411\u0456\u043b\u044f \u0441\u0435\u0440\u0446\u044f",
       "url": "https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6"
@@ -14279,7 +14297,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 143493,
       "name": "\u041e\u0439 \u043d\u0430 \u043e\u0439",
       "url": "https://open.spotify.com/track/73HVRUpTeY48oFcc1RMfVs"
@@ -17385,7 +17403,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 133305,
       "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T"

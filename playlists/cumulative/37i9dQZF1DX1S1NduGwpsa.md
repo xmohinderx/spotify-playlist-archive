@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Photo : André Manoukian
+> The best jazz new releases\. Photo : Samara Joy
 
-184 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+185 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Infant Eyes](https://open.spotify.com/track/49Qv1bSWp6czTQENrW3bP5) | [Victor Gould](https://open.spotify.com/artist/37MrIQfFRvlCAidwFyY8RY) | [In Our Time](https://open.spotify.com/album/6hDNnQWpJ8dlfpNw6XKifQ) | 5:36 | 2022-04-14 | 2022-05-27 |
 | [Intertwined](https://open.spotify.com/track/4iEcGcD063MCmTuCOt1oXq) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Shifting Sands](https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt) | 5:40 | 2022-08-18 | 2022-11-18 |
 | [It Don't Mean a Thing \- Rework](https://open.spotify.com/track/2VAyWXjHrKpMGivAO2w6SY) | [Nojazz](https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn) | [NOJAZZ PLAY JAZZ \(Rework\)](https://open.spotify.com/album/5BUyHOxpXi2twMN4j7idx4) | 3:01 | 2022-06-30 | 2022-11-11 |
+| [It's Okay](https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/58TrLsdIgPp57favQCVRmj) | 6:05 | 2022-12-15 |  |
 | [Jammin' Tonight](https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Jammin' Tonight](https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7) | 4:07 | 2022-08-25 | 2022-10-14 |
 | [Joy Song](https://open.spotify.com/track/4NwkPwcmLEI9HwAgNRJamy) | [Fiona Monbet](https://open.spotify.com/artist/1xIOPl8xFpFNMVx6PGjc9W) | [Maelström](https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz) | 4:50 | 2022-04-14 | 2022-05-06 |
 | [Just a friend of mine \- Version piano \- voix](https://open.spotify.com/track/5QhBRVaWlNYiPI6wY1MLCO) | [Vaya Con Dios](https://open.spotify.com/artist/0ODWsmNXtn928qhhEn87C8) | [Just a friend of mine \(Version piano \- voix\)](https://open.spotify.com/album/4B0Z2xiNwQJubhRrAlGqd7) | 3:06 | 2022-10-20 |  |
@@ -103,7 +104,7 @@
 | [Meva Festa](https://open.spotify.com/track/0ojt0cv7WeGO49b4Xg23Bb) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [Meva Festa](https://open.spotify.com/album/51a9GxQmKgfDPElbExhjdC) | 4:55 | 2022-04-14 | 2022-09-17 |
 | [Mille rivages](https://open.spotify.com/track/3RGbbFVz6LfyLdqTCuTffa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Mille rivages](https://open.spotify.com/album/6FNc6VIgy51x78oq812WKt) | 4:00 | 2022-06-16 | 2022-10-21 |
 | [Minor Steps](https://open.spotify.com/track/4Fp9AjTum16YyfrIj7KTPR) | [Sixun](https://open.spotify.com/artist/40sdgj5EVgaQEFFp1PPeFa) | [Unixsity](https://open.spotify.com/album/6KePYHM3ulBUqQiWYcnw0D) | 4:54 | 2022-11-10 |  |
-| [Missing Arrow](https://open.spotify.com/track/0YnIdW5G68sN1TrXnAw6g5) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Jazz Contenders](https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ) | 6:32 | 2022-09-08 |  |
+| [Missing Arrow](https://open.spotify.com/track/0YnIdW5G68sN1TrXnAw6g5) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Jazz Contenders](https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ) | 6:32 | 2022-09-08 | 2022-12-16 |
 | [Montsouris](https://open.spotify.com/track/2B3maaxBgIUZVGscNP3Mlq) | [Wajdi Riahi](https://open.spotify.com/artist/4KNhFrO2B7kgoeS1taeGVS), [Basile Rahola](https://open.spotify.com/artist/4OQVQ2Pa4AvFwGKvRzMIND), [Pierre Hurty](https://open.spotify.com/artist/2ag6TetFMxAK2kBxKUkfTQ) | [Montsouris](https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW) | 9:17 | 2022-04-14 | 2022-05-20 |
 | [Moonlight \- Live at The Pool](https://open.spotify.com/track/0AI8ybSIh5HGcxtKPlePNr) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/2OwMy6Pz2NyAyp5UtXS3N9) | 3:55 | 2022-12-08 |  |
 | [Moonlight \- Live at The Pool](https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6) | 3:55 | 2022-11-10 | 2022-12-11 |

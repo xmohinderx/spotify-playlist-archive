@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-221 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+222 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Male Hbibti Madjatch](https://open.spotify.com/track/1JrNnGXkmWeoXvzfTcHFp7) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Cheb Khaled, Double Best, 25 titres originaux remasterisés](https://open.spotify.com/album/6aPxtI5Sxk0MANK9O8XsG0) | 9:57 | 2022-06-06 | 2022-06-24 |
 | [Manich Kima Bakri](https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Manich Kima Bakri](https://open.spotify.com/album/5xB8IXMdACzciVvoujeLoO) | 5:40 | 2022-06-06 | 2022-06-24 |
 | [MASHALLAH](https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1) | [Fousey](https://open.spotify.com/artist/6GZUEdPWJRfQxTsgM9j120), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [MASHALLAH](https://open.spotify.com/album/7FQkB1MDucYaVEP2wnGc3X) | 2:34 | 2021-12-16 | 2022-02-23 |
-| [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 |  |
+| [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 | 2022-12-16 |
+| [MIA](https://open.spotify.com/track/6BoweqoW4UzDuTdNTXSdiv) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [MIA](https://open.spotify.com/album/1mRTMg98v92EJ2HMhOO3zv) | 3:33 | 2022-12-15 |  |
 | [Mirror A Dream](https://open.spotify.com/track/1dggnsaeC1YvX8njTczWPc) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/70NtCjv3g5kGSDohd1rqJC) | 3:27 | 2021-12-16 | 2022-07-29 |
 | [Mirror a Dream](https://open.spotify.com/track/5BlIOZm2busMAvV8jDN5b1) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/5VcSRDAkuMRgUn0ur6dV17) | 3:27 | 2022-07-28 | 2022-09-29 |
 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 | 2022-01-10 |  |

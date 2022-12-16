@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,751 likes - 129 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,772 likes - 129 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

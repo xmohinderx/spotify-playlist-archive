@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 169210,
       "name": "NEZUMI Scheme",
       "url": "https://open.spotify.com/track/7IWwWWak1Ebp7ni7PTfhMx"
@@ -3219,6 +3219,24 @@
       "duration_ms": 158307,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/20KIYq6fCX39NvcZeIFr7o"
+    },
+    {
+      "album": {
+        "name": "SINDERELLA",
+        "url": "https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "Wanted, Wasted",
+      "url": "https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON"
     },
     {
       "album": {
@@ -9676,6 +9694,28 @@
     },
     {
       "album": {
+        "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        },
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
+    },
+    {
+      "album": {
         "name": "\u7dba\u9e97\u3067\u75db\u3044 - From \u30e8\u30e0\u30aa\u30c8",
         "url": "https://open.spotify.com/album/4HL80kWdxvV6xvgdcZxYuX"
       },
@@ -10709,7 +10749,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 185497,
       "name": "\u98fd\u548c",
       "url": "https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs"

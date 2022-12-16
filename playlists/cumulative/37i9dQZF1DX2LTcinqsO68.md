@@ -4,7 +4,7 @@
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden
 
-209 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
+210 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Holy Diver \- 2016 Remaster](https://open.spotify.com/track/6zJ8axqwi1XQDfO5fMtanG) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver \(2016 Remaster\)](https://open.spotify.com/album/4SeV83magIxYBuQNLjrXFz) | 5:54 | 2022-10-25 | 2022-11-13 |
 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 | 2021-11-28 |  |
 | [I Love It Loud](https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:15 | 2021-11-28 | 2022-12-15 |
+| [I Love It Loud \- 2022 Remastered](https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:14 | 2022-10-25 |  |
 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 | 2021-11-28 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-07-14 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/395uj20WFZvffLXIGFD0u6) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/1wkHccuJCH8tFv8aE4YkOs) | 3:43 | 2021-11-28 | 2022-07-29 |
@@ -135,7 +136,7 @@
 | [One \(Remastered\)](https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 7:26 | 2022-07-14 |  |
 | [One \(Remastered\)](https://open.spotify.com/track/3sRZqCxbnwiKKPe57WoT6S) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered\)](https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t) | 7:26 | 2022-10-25 | 2022-11-13 |
 | [Only the Brave](https://open.spotify.com/track/5F4PRUrsZQ8zTppxd6OA9a) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [Tygers of Pan Tang](https://open.spotify.com/album/3amo8Qg9VoTutpiftk6oAO) | 5:03 | 2021-11-28 | 2022-11-13 |
-| [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 | 2021-11-28 |  |
+| [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 | 2021-11-28 | 2022-12-16 |
 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 | 2022-07-14 |  |
 | [Overkill](https://open.spotify.com/track/3fGFMkrNPkLDclY5zngqqW) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill](https://open.spotify.com/album/1hindeJXXIjo4qrTOOusGG) | 5:11 | 2022-10-25 | 2022-11-12 |
 | [Overkill](https://open.spotify.com/track/1Krtfh550kyhfWPcRp6SnD) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Deluxe Edition\)](https://open.spotify.com/album/3xqjaGS3zK0WQPLg6Qdb50) | 5:13 | 2021-11-28 | 2022-07-29 |

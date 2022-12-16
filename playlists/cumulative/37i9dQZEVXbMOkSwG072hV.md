@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-892 songs - 1 day 21 hr 51 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+893 songs - 1 day 21 hr 55 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 | 2022-06-20 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-04-12 | 2022-04-14 |
 | [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/0roEMqT0P7Z82rJTwcID3Z) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 2:45 | 2022-04-19 | 2022-05-02 |
-| [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 | 2022-10-18 |  |
+| [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 | 2022-10-18 | 2022-12-16 |
 | [Felina](https://open.spotify.com/track/0uXUzkR73X0SwgvuWuPtyE) | [WIU](https://open.spotify.com/artist/5ioBhDjPQLwgIuF0CpBWQO), [rarefireboy](https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8) | [Felina](https://open.spotify.com/album/5R3253JAwm6dlA0IIizTdi) | 2:38 | 2022-06-25 | 2022-07-01 |
 | [Felina](https://open.spotify.com/track/55Sytdl0QwLXOgedPXt8B2) | [Wiulzin](https://open.spotify.com/artist/7wRT7A9WNYbV8kZyo7fbfz) | [Wave](https://open.spotify.com/album/5lKuOSbSAVobXK4fAwRe0Q) | 2:41 | 2022-06-30 | 2022-07-20 |
 | [Festa do Bota](https://open.spotify.com/track/5x42g1S83XeLCfuuPHnq62) | [A Lancha](https://open.spotify.com/artist/2wbcjJhdaJj8Y5ImNdRwVK) | [Se Joga Novinha](https://open.spotify.com/album/5KU8MBz1vAAbWxB8GHsFfR) | 3:38 | 2022-01-17 | 2022-02-14 |
@@ -680,6 +680,7 @@
 | [SANTO AMARO](https://open.spotify.com/track/2W1otaX5yQF4fCijymlvoM) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:32 | 2022-11-22 | 2022-12-14 |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-03-20 | 2022-04-06 |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-03-01 | 2022-03-09 |
+| [Saquarema](https://open.spotify.com/track/12R6npsSMx8g0k5GN19poM) | [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui), [DJ Meek](https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK), [Boladinho DJ](https://open.spotify.com/artist/07h4iWmJmlrSz6odV2mJgq), [Mc G Talibã](https://open.spotify.com/artist/3WqjZ3slxmWPlsKxJcAPMc) | [Saquarema](https://open.spotify.com/album/6iag686lb0KoIgWFuNdMws) | 3:21 | 2022-12-15 |  |
 | [SARRA NOS MENOR QUE TA DE GLOCK NA CINTURA](https://open.spotify.com/track/2N8MJun4bBUDCG92sSlpsS) | [DJ GB DA DISNEY](https://open.spotify.com/artist/141A3MG7O4f3lkJTwhCiHc), [Dj Renan Valle](https://open.spotify.com/artist/25H4QTGqIQKQXi1xmA2kxm), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU) | [SARRA NOS MENOR QUE TA DE GLOCK NA CINTURA](https://open.spotify.com/album/7xQwkgNguN6SUKwTNZwNCE) | 2:53 | 2022-10-04 |  |
 | [Saxofone Irracional](https://open.spotify.com/track/3nZPkQKmLyXhSkX4cwnrew) | [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY), [MC Davi Cpr](https://open.spotify.com/artist/1BbkxbYi7VAMTrKiy8O2wY), [DJ VINI DA ZO](https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb) | [Saxofone Irracional](https://open.spotify.com/album/4PJ3xnPfC9V7oLTbTtIaeT) | 2:57 | 2022-10-25 | 2022-11-12 |
 | [Se a Saudade Bater](https://open.spotify.com/track/5WVsfMt8jKVuSGOr4iBFDu) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b) | [Se a Saudade Bater](https://open.spotify.com/album/51uHuAo732iQYayjGwXWj5) | 2:17 | 2022-01-17 | 2022-02-02 |

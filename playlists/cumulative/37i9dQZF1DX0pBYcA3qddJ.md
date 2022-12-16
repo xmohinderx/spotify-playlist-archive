@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-204 songs - 12 hr 51 min - not published yet
+205 songs - 12 hr 55 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-11-24 |  |
 | [Adoration \(Version for Solo Violin and String Orchestra\)](https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [America](https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ) | 3:52 | 2022-10-20 | 2022-12-14 |
 | [After Yang Main Theme \- Solo](https://open.spotify.com/track/7oUSWInt45VpluuZWOsygW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [After Yang Main Theme \(Solo\)](https://open.spotify.com/album/6RZKDe1h0m81vpKaDzkJLf) | 4:21 | 2022-10-20 | 2022-10-28 |
-| [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2022-11-24 |  |
+| [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2022-11-24 | 2022-12-16 |
 | [Antar \(After N\. Rimsky\-Korsakov\): No\. 7\. Ravel: Allegretto](https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Andre Dussollier](https://open.spotify.com/artist/4V1N8TlOwHVIw7INEEQnT3), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 5](https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr) | 1:05 | 2022-10-20 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-11-29 |  |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2022-10-20 | 2022-12-15 |
@@ -100,6 +100,7 @@
 | [Memorial \(feat\. Chelsea Wolfe\)](https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Memorial](https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp) | 3:45 | 2022-10-20 | 2022-11-30 |
 | [memories](https://open.spotify.com/track/5jwaNhyhxI7gKHz00a6SKW) | [mayo](https://open.spotify.com/artist/4elfKM7F8wjrq8XOGUDdMo) | [memories](https://open.spotify.com/album/04r704yWWAvWvDWVZGge9i) | 5:03 | 2022-10-27 | 2022-12-02 |
 | [Menuet \- Piano Version](https://open.spotify.com/track/2Dmx10bFEHDmzfK3XAOehj) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Menuet \(Piano Version\)](https://open.spotify.com/album/1getuZrn1FR7hL3UD54GO3) | 1:37 | 2022-12-01 |  |
+| [Mercy through the Clouds](https://open.spotify.com/track/5D6GPHLuelrjivumi4YWwt) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Mercy through the Clouds](https://open.spotify.com/album/4sU68bQNkqQrIZGtxCYYqb) | 4:39 | 2022-12-15 |  |
 | [Minamata Piano Theme](https://open.spotify.com/track/5QdtHx0McmGTyOajpBdS1O) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72I6rqsWERvOdFHx7UPKmQ) | 2:50 | 2022-12-01 |  |
 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 | 2022-10-20 | 2022-11-16 |
 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 | 2022-10-20 |  |

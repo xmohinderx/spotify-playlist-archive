@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUdsUUs0FzN4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUdsUUs0FzN4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUdsUUs0FzN4)
 
-### [Reggaetón Chakalón](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
+### [Reggaetón Bellakoso](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
 
 > Bienvenidxs al mundo del bellaqueo, con Bellakath.
 

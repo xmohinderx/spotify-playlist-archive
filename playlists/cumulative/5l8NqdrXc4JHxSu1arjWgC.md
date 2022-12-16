@@ -4,7 +4,7 @@
 
 > 
 
-660 songs - 1 day 20 hr 24 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+661 songs - 1 day 20 hr 29 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Sister, Do You Know My Name?](https://open.spotify.com/track/6xUwTW2NLLDUSCbbQEa09c) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3m67IYWE82EKX3nX9N7fhX) | 2:51 | 2019-03-13 |  |
 | [Sixteen Days](https://open.spotify.com/track/6iU4r1gv8YZmWWq4kJknNh) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 2:53 | 2019-03-14 |  |
 | [Skin Game](https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 4:25 | 2019-12-10 |  |
+| [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 | 2022-12-15 |  |
 | [Sloop John B \- Stereo / Remastered](https://open.spotify.com/track/4tDaOqJX4DRpASsXGZJKMP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(40th Anniversary / Stereo Mix\)](https://open.spotify.com/album/1yMPDqzYuQ4TI10ICKlbzW) | 2:59 | 2020-06-02 |  |
 | [Sneakin' Out The Hospital \- Remastered 2009](https://open.spotify.com/track/3Qd5Bv2bRJ7JbeVY8hidKV) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Version/Remastered 2009\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 2:45 | 2020-07-06 |  |
 | [So\. Central Rain](https://open.spotify.com/track/1Wx9GbtaQfvELps23BIiPt) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Reckoning \- Deluxe Edition](https://open.spotify.com/album/2tCxbYgt56pq18tpISvSoR) | 3:14 | 2019-10-06 |  |

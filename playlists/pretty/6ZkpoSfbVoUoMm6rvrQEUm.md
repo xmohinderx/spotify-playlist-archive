@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 4,623 likes - 20 songs - 1 hr 23 min
+[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 4,704 likes - 20 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

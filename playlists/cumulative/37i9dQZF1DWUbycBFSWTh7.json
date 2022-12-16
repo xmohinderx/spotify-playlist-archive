@@ -2612,6 +2612,24 @@
     },
     {
       "album": {
+        "name": "Yasuo",
+        "url": "https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa"
+      },
+      "artists": [
+        {
+          "name": "Gorge",
+          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410278,
+      "name": "Yasuo",
+      "url": "https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q"
+    },
+    {
+      "album": {
         "name": "Yipalo",
         "url": "https://open.spotify.com/album/7oPSQ8xywCGe14Jk2QBus9"
       },

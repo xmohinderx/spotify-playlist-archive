@@ -2,7 +2,7 @@
 
 ### [RADAR México](https://open.spotify.com/playlist/37i9dQZF1DXbpJNWtkXDpL)
 
-> ¡Presentamos a La Santa Grifa, nuestro artista Radar!
+> ¡Presentamos a nuestros artista Radar México 2022!
 
 206 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
 
@@ -74,7 +74,7 @@
 | [Feel It](https://open.spotify.com/track/1ubAvhXZgD7MT5aKtvNKzQ) | [Soundsuality](https://open.spotify.com/artist/0J9dBhhc6u4cBC66R3Rn9K), [Facy Sedated](https://open.spotify.com/artist/5t0SAmKeiNPoJ8sUkdJ0gw), [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [Feel It](https://open.spotify.com/album/3cUwG8b8iJhItf4VqxELSP) | 3:39 | 2021-10-01 | 2022-05-10 |
 | [Femme Fatale](https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Femme Fatale](https://open.spotify.com/album/4pvV8p2UmmlM5vGZw3nA6r) | 2:42 | 2022-05-13 | 2022-07-29 |
 | [Fuego](https://open.spotify.com/track/6UdltNPsNpVXOjeyYiT9yH) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [VAYU](https://open.spotify.com/album/6u3eUX1lYrI7siwwc10d4p) | 2:36 | 2021-10-01 | 2022-05-12 |
-| [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-25 |  |
+| [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-24 |  |
 | [Gloomy Afternoon 2021](https://open.spotify.com/track/2HJYx9tG5Yq7x36cHX7KaW) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Gloomy Afternoon 2021](https://open.spotify.com/album/76gCRBIi7hMB8VPvcNZ4si) | 3:36 | 2022-05-11 | 2022-07-27 |
 | [Hasta Que Me Quieras](https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Cenizas Quedaban](https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY) | 5:32 | 2022-05-13 | 2022-07-13 |
 | [Heroína](https://open.spotify.com/track/4YIX3ZVrM0S0fIQfOW8Hyp) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Contradicciones](https://open.spotify.com/album/0h9VfVGQbHAA40tK0Jc3m7) | 4:25 | 2022-05-11 | 2022-07-28 |

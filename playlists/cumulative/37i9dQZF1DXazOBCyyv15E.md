@@ -2,9 +2,9 @@
 
 ### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
-> The home of the best new alternative music\. Cover: Gorillaz
+> The home of the best new alternative music\. Cover: Ben Gregory
 
-1,219 songs - 3 day 0 hr 19 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,220 songs - 3 day 0 hr 23 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,7 +778,7 @@
 | [not like my friends](https://open.spotify.com/track/4vp5GAw3Eig4FTXJHmSi7Y) | [Jazmine Flowers](https://open.spotify.com/artist/24vkpuyIDXuQ1nGGPChhcA) | [adulting](https://open.spotify.com/album/2PiZrMjCpevh70sEt9vDL3) | 3:05 | 2021-10-16 | 2021-10-29 |
 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 | 2021-07-09 | 2021-09-10 |
 | [now rest.](https://open.spotify.com/track/7w2BFaIljW2VETno4xiwsr) | [Daisy George](https://open.spotify.com/artist/4HS2aOCR0Km1namVrjoP59), [Mohan Evans](https://open.spotify.com/artist/4lwPjcmi291GXEg8WGNhEJ) | [see me now](https://open.spotify.com/album/0iWIgSsPhn9UClzSQH7Dk2) | 5:56 | 2022-11-25 |  |
-| [Nu Me Nu Yu](https://open.spotify.com/track/2c78MPPO66QjzxdTrZSSUt) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [Nu Me Nu Yu](https://open.spotify.com/album/4CuqPBy6rYuJWhNkd8ZBFP) | 2:48 | 2022-10-13 |  |
+| [Nu Me Nu Yu](https://open.spotify.com/track/2c78MPPO66QjzxdTrZSSUt) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [Nu Me Nu Yu](https://open.spotify.com/album/4CuqPBy6rYuJWhNkd8ZBFP) | 2:48 | 2022-10-13 | 2022-12-16 |
 | [Nuclear Family \(Edit\)](https://open.spotify.com/track/4IdvDMc9NfoE0MSry7YnFq) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Nuclear Family](https://open.spotify.com/album/4GYXxKYGEqbGfKH5OWJLi5) | 3:55 | 2021-08-13 | 2021-10-08 |
 | [Nudge It](https://open.spotify.com/track/3wFSHrQG2DSSZbembkUuK2) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Amy Taylor](https://open.spotify.com/artist/46ta3MEnp9owNeoWTxbOzZ) | [Nudge It](https://open.spotify.com/album/5YFLedhIGPi5MV2GvhpD4h) | 3:43 | 2021-01-15 | 2021-02-12 |
 | [Numb \- teddy<3 version / edit](https://open.spotify.com/track/0F7QqLqBFNwiB6J1jYijLi) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Numb](https://open.spotify.com/album/1Ho3UkeW5DfE812uhE6Q9Q) | 2:51 | 2021-05-14 | 2021-07-23 |
@@ -1107,6 +1107,7 @@
 | [Titanic](https://open.spotify.com/track/0EUwAADV8ggf1CjB4uzZqE) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Titanic](https://open.spotify.com/album/099cD2kVOgBUnfUHnGAIXT) | 3:05 | 2021-08-20 | 2021-10-16 |
 | [To Carry \(On and On\)](https://open.spotify.com/track/664fHE7AIHGUjHC2WWtvmO) | [KOJI](https://open.spotify.com/artist/2YkHarpEDjDNHgqsIzklAs) | [To Carry \(On and On\)](https://open.spotify.com/album/2DWeyUoCGftGOifUTpF5el) | 3:05 | 2021-03-19 | 2021-05-21 |
 | [To Repel Ghosts](https://open.spotify.com/track/2mkZJYJmjrLYFEWn7q5kLx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [To Repel Ghosts](https://open.spotify.com/album/06B3ihAJGFAeMbpAOJWtQn) | 3:26 | 2022-10-20 |  |
+| [Today \(can't help but cry\)](https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Today \(can't help but cry\)](https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb) | 4:12 | 2022-12-16 |  |
 | [Tomorrow](https://open.spotify.com/track/2UJ0ZmLNpyLoAZxl5lLNjq) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Tomorrow](https://open.spotify.com/album/3iJPgO8XMWS2mh91Mxbfgp) | 3:22 | 2022-10-20 | 2022-11-25 |
 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 | 2021-07-30 | 2021-09-24 |
 | [Too Tired](https://open.spotify.com/track/2C06dtfULl3nDonxKgkRJP) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [CIRCLES](https://open.spotify.com/album/1Yt0Y5NkwGlkTxQwtFFZfC) | 3:14 | 2021-05-07 | 2021-07-23 |

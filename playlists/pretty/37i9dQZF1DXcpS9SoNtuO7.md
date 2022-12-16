@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,169 likes - 141 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,192 likes - 141 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 81 | [Starcast](https://open.spotify.com/track/1kXwbB3yb4Q1uH5qViNB6t) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starcast](https://open.spotify.com/album/1HYwwTJGLzhoi0RajLuGhx) | 4:05 |
 | 82 | [Dokidokitokidokitokimekiss?](https://open.spotify.com/track/1umqkFzdRAqcE2W1x7QSv6) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Toyful Basket](https://open.spotify.com/album/3sPrKf36F1RZtrOzL2OtQC) | 4:38 |
 | 83 | [シャイン](https://open.spotify.com/track/5JqwKzr9XLO1k4upBPUQma) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [シャイン](https://open.spotify.com/album/5Ut9dQBI7U6GhPXMQWuEZi) | 4:39 |
-| 84 | [遠いこの街で](https://open.spotify.com/track/3cFNzaAwCXjKtLdALoFG8n) | [皆谷尚美](https://open.spotify.com/artist/6a9dX5C57biSqChhn5Bg1F) | [カードキャプターさくら ソングコレクション 1999.4\~2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 5:01 |
+| 84 | [遠いこの街で](https://open.spotify.com/track/3cFNzaAwCXjKtLdALoFG8n) | [皆谷尚美](https://open.spotify.com/artist/6a9dX5C57biSqChhn5Bg1F) | [カードキャプターさくら ソングコレクション 1999.4\~2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 5:01 |
 | 85 | [Touch](https://open.spotify.com/track/1YgsafBW9O7vhTjeeSuapN) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/19XENSrORBPh2v5EVAOtI1) | 3:13 |
 | 86 | [sign](https://open.spotify.com/track/5w1L7Bj14oC7II12HdZP1k) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [sign](https://open.spotify.com/album/5tuOGEA8zB2GxrUgtkzP2e) | 4:47 |
 | 87 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 102 | [EVERYBODY! EVERYBODY!](https://open.spotify.com/track/019VApLcYSTlzDTVlUvtDA) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [EVERYBODY! EVERYBODY! / YOU YOU YOU](https://open.spotify.com/album/6iKqixctHE9MFc0JZFlUNt) | 4:41 |
 | 103 | [Bomb A Head!V](https://open.spotify.com/track/56A2HquYMTBQjx1XBCCO7E) | [m.c.A・T](https://open.spotify.com/artist/63Y91rXxT9bh4sLc0SGq41) | [m.c.A・T Best Singles+](https://open.spotify.com/album/3UFWewzTxmw6eGmA0a250n) | 4:08 |
 | 104 | [雨にキッスの花束を](https://open.spotify.com/track/4ydvnLC5X6YVibRcjp40j1) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [retour](https://open.spotify.com/album/4E81A7gM3qGwAK9cWFgWda) | 4:38 |
-| 105 | [euro nerv](https://open.spotify.com/track/7rRIdY02p9SRCE8y6hS9li) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 1:22 |
+| 105 | [euro nerv](https://open.spotify.com/track/7rRIdY02p9SRCE8y6hS9li) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 1:22 |
 | 106 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 |
 | 107 | [MAWARE SETSUGETSUKA](https://open.spotify.com/track/79V79k4i3e9n6thw2TUXB2) | [歌組雪月花](https://open.spotify.com/artist/26yiuGZXw2gyJhreN6bJMf) | [HIGECORE!](https://open.spotify.com/album/6rcrV8O10BZ8L4nLmiy56g) | 3:55 |
 | 108 | [さくらんぼキッス\~爆発だも\~ん\~ \(2022mix\)](https://open.spotify.com/track/2eDXclH340GEDRaeMNSXNF) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [すぅぃ\~とさいくろん\-☆いぇいっ☆\-](https://open.spotify.com/album/40UFF2n3AOPoYiogy1Nvi3) | 4:52 |

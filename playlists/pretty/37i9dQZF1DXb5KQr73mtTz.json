@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 7398,
+  "num_followers": 7419,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxODI5MCwwMDAwMDAwMDZlYzdkNzhlYWY5OGY2NDI3MTIxMGE3Y2ZlM2YwN2Rl",
+  "snapshot_id": "MTY3MDkxODI5MCwwMDAwMDAwMGY3NjhjNGQ5OWU0YzY1MTg3ZWJjODE0MmJkMTRjYjA1",
   "tracks": [
     {
       "added_at": "2022-12-13 07:58:10",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-13 07:58:10",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
-    },
-    {
-      "added_at": "2022-12-13 07:58:10",
-      "album": {
         "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
         "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2022-12-13 07:58:10",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2022-12-13 07:58:10",
@@ -431,6 +415,22 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2022-12-13 07:58:10",
+      "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2022-12-13 07:58:10",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-12-13 07:58:10",
       "album": {
-        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
-        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Living in the same time",
-      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
-    },
-    {
-      "added_at": "2022-12-13 07:58:10",
-      "album": {
         "name": "Despite it all",
         "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2022-12-13 07:58:10",
+      "album": {
+        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
+        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Living in the same time",
+      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
     },
     {
       "added_at": "2022-12-13 07:58:10",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-13 07:58:10",
       "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 261850,
-      "name": "How about you",
-      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
-    },
-    {
-      "added_at": "2022-12-13 07:58:10",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
+    },
+    {
+      "added_at": "2022-12-13 07:58:10",
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 261850,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
     },
     {
       "added_at": "2022-12-13 07:58:10",

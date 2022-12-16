@@ -8586,6 +8586,28 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/734KErFJszhXqsENb9IRiU"
+      },
+      "artists": [
+        {
+          "name": "KAZE",
+          "url": "https://open.spotify.com/artist/6OHqKdDMYupavebNP9azHD"
+        },
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175882,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5GdAVnwxzMNSRThQsawXsQ"
+    },
+    {
+      "album": {
         "name": "proof",
         "url": "https://open.spotify.com/album/2eH0mvujQc0kt3TRu9W980"
       },

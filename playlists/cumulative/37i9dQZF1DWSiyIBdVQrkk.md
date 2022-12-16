@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-373 songs - 1 day 0 hr 1 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
+374 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Love Alone](https://open.spotify.com/track/4ieXbToMBt4Cy0MU6Lf3av) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Alone](https://open.spotify.com/album/0MlJXgZuqRWqCXyY2qRDqM) | 3:29 | 2022-04-22 | 2022-11-13 |
 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 | 2021-10-18 |  |
 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 | 2022-06-20 |  |
-| [Love Is My Religion](https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:48 | 2022-10-13 |  |
+| [Love Is My Religion](https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:48 | 2022-10-13 | 2022-12-16 |
 | [Love Is My Religion \- Acoustic](https://open.spotify.com/track/2byTXyYqi3jeWdWqB6fiSq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu) | 3:59 | 2022-06-20 | 2022-10-13 |
 | [Love Me Browning](https://open.spotify.com/track/0bhwkOfM7yVI0fZmlS0d2t) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Mr Mention](https://open.spotify.com/album/30OprvPAmiCw2Nlt5FQMT7) | 3:47 | 2022-07-29 | 2022-08-19 |
 | [Love So Nice](https://open.spotify.com/track/3J4Chu7wi4onjN2OO8aaow) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Love So Nice](https://open.spotify.com/album/5QG9CrByyxYglSnIhYjzP8) | 3:49 | 2022-07-29 | 2022-08-19 |
@@ -371,6 +371,7 @@
 | [Wishes](https://open.spotify.com/track/6iRQXwzwaVMB59J7MuFloK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [Wishes](https://open.spotify.com/album/3WibF7LSkCvoyD1h6sLsc8) | 2:44 | 2021-10-18 | 2022-07-29 |
 | [Work It Out \(feat\. Melanie Fiona\)](https://open.spotify.com/track/62Ca3TqL7sfuthJWzNQjlv) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Royal Soldier](https://open.spotify.com/album/0rnKdoz1sPTCxhS2cpGv7a) | 4:23 | 2022-07-29 | 2022-08-19 |
 | [World A Reggae Music](https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB) | 3:44 | 2022-06-20 | 2022-11-24 |
+| [World A Reggae Music](https://open.spotify.com/track/4lE3rkBD6Ey1SQSd19XfY7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/01imgCzPh4MFp2S6PmpL3M) | 3:44 | 2022-10-13 |  |
 | [Yes Mi Friend \(feat\. Stephen Marley\)](https://open.spotify.com/track/32GzVsYZXAzkELRucEUDtz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 4:14 | 2021-10-18 | 2022-11-13 |
 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 2:38 | 2022-06-20 |  |
 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 | 2022-06-20 | 2022-07-27 |

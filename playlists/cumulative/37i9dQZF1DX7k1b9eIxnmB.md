@@ -4,7 +4,7 @@
 
 > Here comes the Maestro with his best of 90s!
 
-140 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/6gUA4OjKEmfJ6nVoh2VZGh)
+141 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/6gUA4OjKEmfJ6nVoh2VZGh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Maanam Idi Idikka](https://open.spotify.com/track/5zoMXQmH7wTXiazGWgaY2X) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Unna Ninachen Paatu Padichen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fmcVmUr4N7u5s4Pd3VZ5N) | 5:05 | 2021-11-13 |  |
 | [Maanam Idi Idikka](https://open.spotify.com/track/6bn39QzXuqc8m12ye7HAPW) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Unna Nenachen Pattu Padichen](https://open.spotify.com/album/0DJcJAoqMbJ5OjEwG4y0iE) | 5:06 | 2021-11-13 | 2022-07-29 |
 | [Maasi Masam Alana Ponnu](https://open.spotify.com/track/7mqVlAqdk16J7JACoUeAN3) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Dharma Durai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB) | 4:59 | 2021-11-13 |  |
-| [Maharajanodu](https://open.spotify.com/track/5AeO1JzZbeRUmTsQTLjB5S) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Sathi Leelavathi](https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b) | 5:16 | 2021-11-13 |  |
+| [Maharajanodu](https://open.spotify.com/track/3hZQglTkzY7iWtfSJhZ5XN) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Sathi Leelavathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wAlyGFdmDBM60YGknkTZF) | 5:13 | 2021-11-13 |  |
+| [Maharajanodu](https://open.spotify.com/track/5AeO1JzZbeRUmTsQTLjB5S) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Sathi Leelavathi](https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b) | 5:16 | 2021-11-13 | 2022-12-16 |
 | [Malare Thendral Paad](https://open.spotify.com/track/2jKgeQmhNumkJdPgbtxsUp) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Veetla Visheshanga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rRMU8NtOzDpT3rApHU6cz) | 5:08 | 2021-11-13 |  |
 | [Malare Thendral Paadum \- Female](https://open.spotify.com/track/2C3XYzOlt1Fw40KsWCyK5Q) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Veetla Visheshanga](https://open.spotify.com/album/2nTitERandpncDH6lwzzNM) | 5:07 | 2021-11-13 | 2022-07-29 |
 | [Malligai Mottu](https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Sakthivel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NJ0S5vBfJxkGvYRBhGvaZ) | 5:04 | 2021-11-13 |  |

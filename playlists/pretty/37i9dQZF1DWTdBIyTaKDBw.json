@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 37746,
+  "num_followers": 37832,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxODEyMywwMDAwMDAwMDczZWZiMDUxZTEyOGZjZTY3ZGE1YWM1NmY4ODdjNGYx",
+  "snapshot_id": "MTY3MDkxODEyMywwMDAwMDAwMDdjOGZjZmFhNDRlNmM2OTIwZmYxNjViMTQ5YWQ0NGVk",
   "tracks": [
     {
       "added_at": "2022-12-13 07:55:23",
@@ -87,6 +87,26 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+    },
+    {
+      "added_at": "2022-12-13 07:55:23",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2022-12-13 07:55:23",
-      "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2022-12-13 07:55:23",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2022-12-13 07:55:23",
+      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 237369,
       "name": "Da Ra Da",
       "url": "https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3"
-    },
-    {
-      "added_at": "2022-12-13 07:55:23",
-      "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2022-12-13 07:55:23",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
+        "name": "Junggigo Sings Brazil",
+        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
+      },
+      "artists": [
+        {
+          "name": "Junggigo Trio",
+          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Fairy Of Shampoo",
+      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
+    },
+    {
+      "added_at": "2022-12-13 07:55:23",
+      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
-        "name": "Junggigo Sings Brazil",
-        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
-      },
-      "artists": [
-        {
-          "name": "Junggigo Trio",
-          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Fairy Of Shampoo",
-      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
-    },
-    {
-      "added_at": "2022-12-13 07:55:23",
-      "album": {
         "name": "Spring Is You",
         "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
       },
@@ -631,18 +631,22 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
-        "name": "How Is It?",
-        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
+        "name": "cozy christmas",
+        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
       "artists": [
         {
-          "name": "Tarin",
-          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
         }
       ],
-      "duration_ms": 189800,
-      "name": "How Is It?",
-      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
+      "duration_ms": 123666,
+      "name": "Today and other days (Feat. Eily)",
+      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
     },
     {
       "added_at": "2022-12-13 07:55:23",
@@ -683,6 +687,22 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
+        "name": "How Is It?",
+        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
+      },
+      "artists": [
+        {
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "How Is It?",
+      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
+    },
+    {
+      "added_at": "2022-12-13 07:55:23",
+      "album": {
         "name": "Salt Rain (Prod. By Alfie Hole)",
         "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 217774,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
-    },
-    {
-      "added_at": "2022-12-13 07:55:23",
-      "album": {
-        "name": "cozy christmas",
-        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
-      },
-      "artists": [
-        {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Eily",
-          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
-        }
-      ],
-      "duration_ms": 123666,
-      "name": "Today and other days (Feat. Eily)",
-      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
     },
     {
       "added_at": "2022-12-13 07:55:23",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
+        "name": "Twenties = Love",
+        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
+      },
+      "artists": [
+        {
+          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
+          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Snow Sun",
+      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
+    },
+    {
+      "added_at": "2022-12-13 07:55:23",
+      "album": {
         "name": "No Worries",
         "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 203285,
       "name": "My Journey",
       "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
-    },
-    {
-      "added_at": "2022-12-13 07:55:23",
-      "album": {
-        "name": "Twenties = Love",
-        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
-      },
-      "artists": [
-        {
-          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
-          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Snow Sun",
-      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
     },
     {
       "added_at": "2022-12-13 07:55:23",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta"
+        "name": "LISH",
+        "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
       },
       "artists": [
         {
-          "name": "Kayla",
-          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "So Jung of LADIES\u2019 CODE",
+          "url": "https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
+      "duration_ms": 224778,
+      "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
+      "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
     },
     {
       "added_at": "2022-12-13 07:55:23",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
-        "name": "LISH",
-        "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta"
       },
       "artists": [
         {
-          "name": "JUNGKEY",
-          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
-        },
-        {
-          "name": "So Jung of LADIES\u2019 CODE",
-          "url": "https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ"
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
         }
       ],
-      "duration_ms": 224778,
-      "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
-      "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
+      "duration_ms": 228000,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
     },
     {
       "added_at": "2022-12-13 07:55:23",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-12-13 07:55:23",
       "album": {
-        "name": "Carpet - SM STATION",
-        "url": "https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        },
-        {
-          "name": "BUMKEY",
-          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Carpet",
-      "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
-    },
-    {
-      "added_at": "2022-12-13 07:55:23",
-      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
+    },
+    {
+      "added_at": "2022-12-13 07:55:23",
+      "album": {
+        "name": "Carpet - SM STATION",
+        "url": "https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Carpet",
+      "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
     },
     {
       "added_at": "2022-12-13 07:55:23",

@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-137 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
+138 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [As the Earth Kissed the Moon](https://open.spotify.com/track/0Rts1r0i4CNfpEtknvBf7p) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Planetary Unfolding \(2022 Remaster\)](https://open.spotify.com/album/0NhaQ7YKZkvoWj6RfG6SuY) | 10:10 | 2022-04-01 |  |
 | [As You See It](https://open.spotify.com/track/3sbEPDb47adTLNX807a0Ab) | [Beachcomber](https://open.spotify.com/artist/66LSNuVFRANAj8dfuM3lzi) | [Relics](https://open.spotify.com/album/33dUJmYAamvlchu0glcjFA) | 6:45 | 2022-02-11 | 2022-07-19 |
 | [Automat](https://open.spotify.com/track/3SG6FtF7AErbRaI4g9PBFV) | [Recent Arts](https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc), [Tobias Freund](https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX), [Valentina Berthelon](https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW) | [Hypertext](https://open.spotify.com/album/6nJGDBiVAFu0fIrO1kc2hH) | 6:10 | 2022-03-04 | 2022-07-28 |
+| [Automat](https://open.spotify.com/track/5s0QV9wD1BdWaroVgLDiKo) | [Recent Arts](https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc), [Tobias Freund](https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX), [Valentina Berthelon](https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW) | [Hypertext](https://open.spotify.com/album/5BVwbpPSALHaFKEDL7LEdi) | 6:10 | 2022-10-04 |  |
 | [Baby Steps](https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [Selected Public Works, Vol\. 5](https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn) | 1:26 | 2021-12-24 |  |
 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 | 2021-12-24 |  |
-| [BELOW](https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [ABOVE\_BETWEEN\_BELOW](https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc) | 5:17 | 2021-12-24 |  |
+| [BELOW](https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [ABOVE\_BETWEEN\_BELOW](https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc) | 5:17 | 2021-12-24 | 2022-12-16 |
 | [Beppe](https://open.spotify.com/track/32Kt8L4l864NCocODVWYHy) | [Elin Piel](https://open.spotify.com/artist/3zVDpnuUhxYYCYyTccvdTY) | [The Unrush Files 02 \- Rush of Communion Vol\. 2](https://open.spotify.com/album/6AN7Ax7oYWIQTRLFvwC9c9) | 6:09 | 2021-12-24 | 2022-07-28 |
 | [Biholomorphia](https://open.spotify.com/track/5y3BBX09xecawyqoZWFt5v) | [Benedict Mortimer](https://open.spotify.com/artist/5lSHzqed7L3SMDtjlJiayM), [Mark Watt](https://open.spotify.com/artist/3TvtIr14xDVHS7GHt3BNm6) | [Biholomorphia](https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ) | 7:18 | 2021-12-24 |  |
 | [Bright\-eyed Hunger \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Bright\-eyed Hunger \(Kaitlyn Aurelia Smith Remix\)](https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9) | 3:12 | 2021-12-24 |  |

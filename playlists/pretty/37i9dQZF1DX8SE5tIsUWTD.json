@@ -1,12 +1,12 @@
 {
   "description": "A playlist for your Arab hipster starter kit.",
-  "num_followers": 77668,
+  "num_followers": 77738,
   "original_name": "Funk & Disco Zamaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMGRlMTUwZjA0NTJhYWFmMGRmOGM3YWVhOGY3MjA3Y2U0",
+  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMDdlOGI4YWNhZjdiMTY5NjJhNjYyMDMwMjI4ODg3MzVh",
   "tracks": [
     {
       "added_at": "2020-05-01 20:42:05",
@@ -311,22 +311,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Houdou Nisbi",
-        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Ma Tfel",
-      "url": "https://open.spotify.com/track/0pKxrkFh8fxPKpkO29MYmi"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Al Hadaoui (Habibi Funk 011)",
         "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 239752,
       "name": "Soleil Soleil",
       "url": "https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Houdou Nisbi",
+        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Ma Tfel",
+      "url": "https://open.spotify.com/track/0pKxrkFh8fxPKpkO29MYmi"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -591,34 +591,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Two Niles to Sing a Melody: The Violins & Synths of Sudan",
-        "url": "https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ"
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
       },
       "artists": [
         {
-          "name": "Mohammed Wardi",
-          "url": "https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU"
-        }
-      ],
-      "duration_ms": 695015,
-      "name": "Al Mursal (The Messenger)",
-      "url": "https://open.spotify.com/track/30QMkmrxQGVuTtPqPOFihu"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
-        "name": "Metisstyles",
-        "url": "https://open.spotify.com/album/6nmxAKzwHZbZV7n7Gr7rhZ"
-      },
-      "artists": [
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
         {
-          "name": "Cheb Tarik",
-          "url": "https://open.spotify.com/artist/5P3WRbEbFnkjJ3U4CE1NSE"
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
         }
       ],
-      "duration_ms": 367653,
-      "name": "Sidi Rabi",
-      "url": "https://open.spotify.com/track/1U8ZZkkNM9dwdq01hNZXy6"
+      "duration_ms": 243000,
+      "name": "Al Hadaoui",
+      "url": "https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -639,6 +627,22 @@
       "duration_ms": 415000,
       "name": "Forssa Saeeda",
       "url": "https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Two Niles to Sing a Melody: The Violins & Synths of Sudan",
+        "url": "https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Wardi",
+          "url": "https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU"
+        }
+      ],
+      "duration_ms": 695015,
+      "name": "Al Mursal (The Messenger)",
+      "url": "https://open.spotify.com/track/30QMkmrxQGVuTtPqPOFihu"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -675,22 +679,18 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Al Hadaoui (Habibi Funk 011)",
-        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+        "name": "Metisstyles",
+        "url": "https://open.spotify.com/album/6nmxAKzwHZbZV7n7Gr7rhZ"
       },
       "artists": [
         {
-          "name": "Attarazat Addahabia",
-          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
-        },
-        {
-          "name": "Faradjallah",
-          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+          "name": "Cheb Tarik",
+          "url": "https://open.spotify.com/artist/5P3WRbEbFnkjJ3U4CE1NSE"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Al Hadaoui",
-      "url": "https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm"
+      "duration_ms": 367653,
+      "name": "Sidi Rabi",
+      "url": "https://open.spotify.com/track/1U8ZZkkNM9dwdq01hNZXy6"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -727,26 +727,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Ferqet Americana Show Pt.2",
-        "url": "https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS"
-      },
-      "artists": [
-        {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
-        },
-        {
-          "name": "Alia",
-          "url": "https://open.spotify.com/artist/32nKVL3eCi3Fjsj3ldUwPb"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Shat Iskenderia",
-      "url": "https://open.spotify.com/track/4Nyx1QBYGVK7H4G4J8x0Ho"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 241423,
       "name": "Akeed",
       "url": "https://open.spotify.com/track/0M8B2Ywia7UYhZLNpUmhQS"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Ferqet Americana Show Pt.2",
+        "url": "https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        },
+        {
+          "name": "Alia",
+          "url": "https://open.spotify.com/artist/32nKVL3eCi3Fjsj3ldUwPb"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Shat Iskenderia",
+      "url": "https://open.spotify.com/track/4Nyx1QBYGVK7H4G4J8x0Ho"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -835,22 +835,18 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Al Hadaoui (Habibi Funk 011)",
-        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+        "name": "Gonon El Desco",
+        "url": "https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3"
       },
       "artists": [
         {
-          "name": "Attarazat Addahabia",
-          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
-        },
-        {
-          "name": "Faradjallah",
-          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+          "name": "Ezzat Abou Ouf",
+          "url": "https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN"
         }
       ],
-      "duration_ms": 426000,
-      "name": "Albaki",
-      "url": "https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h"
+      "duration_ms": 241133,
+      "name": "Gonon El Desco",
+      "url": "https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI"
     }
   ],
   "unique_name": "Funk & Disco Zamaan",

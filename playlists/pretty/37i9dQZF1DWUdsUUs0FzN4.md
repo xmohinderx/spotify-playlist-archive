@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain](/playlists/plain/37i9dQZF1DWUdsUUs0FzN4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUdsUUs0FzN4)
 
-### [Reggaetón Chakalón](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
+### [Reggaetón Bellakoso](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
 
 > Bienvenidxs al mundo del bellaqueo, con Bellakath.
 
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 33 | [Le Encanta](https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Le Encanta](https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G) | 4:13 |
 | 34 | [PÉGATE](https://open.spotify.com/track/6OwKm3AXpkr6nO8Rid5e75) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [PÉGATE](https://open.spotify.com/album/4JP9WAcqSyTOaA0DVpMh03) | 2:49 |
 | 35 | [Rompe La Discoteca](https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Rompe La Discoteca](https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi) | 3:36 |
-| 36 | [El Goloso](https://open.spotify.com/track/68QtlyBrzD98s4phcL1fx2) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [Flow Pesao](https://open.spotify.com/album/6DL7KLWzBh9VSX0Zaf4LM3) | 2:57 |
-| 37 | [De Tin Marin](https://open.spotify.com/track/5S4pezCIx9zIz1xRVcdOOP) | [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya) | [De Tin Marin](https://open.spotify.com/album/236aS4CdWzVT1aP9247gf4) | 2:33 |
+| 36 | [De Tin Marin](https://open.spotify.com/track/5S4pezCIx9zIz1xRVcdOOP) | [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya) | [De Tin Marin](https://open.spotify.com/album/236aS4CdWzVT1aP9247gf4) | 2:33 |
+| 37 | [El Goloso](https://open.spotify.com/track/68QtlyBrzD98s4phcL1fx2) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [Flow Pesao](https://open.spotify.com/album/6DL7KLWzBh9VSX0Zaf4LM3) | 2:57 |
 | 38 | [Mexicana \(feat\. El Malilla\)](https://open.spotify.com/track/73APnBn08CSe4ygy3L3Be8) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [El Futurro](https://open.spotify.com/album/2Cm2aPq6Q9pLWjXvrtBEw4) | 3:03 |
 | 39 | [Sueltate el Dembow](https://open.spotify.com/track/6lW3Zxh9wBch3cNrTMicSq) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Sueltate el Dembow](https://open.spotify.com/album/19REskE6qmcBnveMqcIQx7) | 3:03 |
 | 40 | [Flow Soltera](https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4), [El Betta](https://open.spotify.com/artist/3FhhcDWeH2qAaHg8Xx4h34), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Flow Soltera](https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 49 | [Dioza](https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Dioza](https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek) | 2:57 |
 | 50 | [Adicta al Perreo](https://open.spotify.com/track/419c5nJnQB8W7u6IZqfFZ7) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Los Dolchez](https://open.spotify.com/artist/1Xt7CAwYqiv9FfzjNCkh54), [Beat Boss](https://open.spotify.com/artist/7vxie3B6LM7xVS0Xouujsl), [Antar Castro](https://open.spotify.com/artist/6h2QL0t7n8lYrKOWCJ4A4z) | [Adicta al Perreo](https://open.spotify.com/album/770P96PUBd6zyZW74N7LI9) | 3:35 |
 
-Snapshot ID: `MTY3MDU1MDExNSwwMDAwMDAwMDU5ZjA2YjE4NDkwZDNhMzY0NzAxYTliMzA3OTVmZjk0`
+Snapshot ID: `MTY3MTE1MTY5NiwwMDAwMDAwMDBmZDZkOWQyYjg1Zjg5MmI1ZTdiYjIxYWUzODdmYWEz`

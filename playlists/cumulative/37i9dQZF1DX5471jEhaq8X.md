@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: LEGADO 7 & Juan De Ron
 
-344 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+345 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [El Toti](https://open.spotify.com/track/2m2A5wWRB7BctKw37KG9S9) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Toti](https://open.spotify.com/album/4RXLv9aaoPRyJVlZ2GlY4f) | 4:01 | 2022-05-13 |  |
 | [El Trebol y el Estudiante](https://open.spotify.com/track/32oEVKuidk1L7obspwJ2Jt) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [El Trebol y el Estudiante](https://open.spotify.com/album/7sW8GjXXuiI22OrZNuh13O) | 2:44 | 2022-05-13 | 2022-08-09 |
 | [El Triple](https://open.spotify.com/track/5yVx2re9Wqy9OxDN0AvfDT) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Triple](https://open.spotify.com/album/43EONk50AqH0fjJ7B06A1o) | 2:32 | 2022-10-22 | 2022-11-21 |
+| [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 | 2022-12-02 |  |
 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-05-13 | 2022-12-14 |
 | [EL WALKS](https://open.spotify.com/track/7Kicpyaa5jhmKxj9xUUPAA) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:36 | 2022-05-13 | 2022-12-03 |
 | [El Árbol del Mayo](https://open.spotify.com/track/3eU5K7wg8BSv70Jifvyf0A) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Árbol del Mayo](https://open.spotify.com/album/4azUaJgvQzzZ13mRRfxx4j) | 3:56 | 2022-10-07 |  |
@@ -297,7 +298,7 @@
 | [Relojito Adiamantado](https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Relojito Adiamantado](https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm) | 2:58 | 2022-05-13 |  |
 | [Retorno a la Vida \(En Vivo\)](https://open.spotify.com/track/1rdTTFchWSIJGmlLmaaUWk) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Retorno a la Vida \(En Vivo\)](https://open.spotify.com/album/50WKY8Dne8rI3NPRLT5VBt) | 3:12 | 2022-05-27 | 2022-10-21 |
 | [Rolando En La Angelina](https://open.spotify.com/track/1xAkrUOFzkvnNZ5Sb0QqKr) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Rolando En La Angelina](https://open.spotify.com/album/26iH8P8fQ5tvGQ6VoS2elm) | 2:08 | 2022-05-13 | 2022-07-29 |
-| [Rompiendola](https://open.spotify.com/track/5j2a9gxEti7yAY8bv3M7yx) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [Rompiendola](https://open.spotify.com/album/0SfGD6tBcvqnzvgoVcxT3t) | 2:39 | 2022-06-03 |  |
+| [Rompiendola](https://open.spotify.com/track/5j2a9gxEti7yAY8bv3M7yx) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [Rompiendola](https://open.spotify.com/album/0SfGD6tBcvqnzvgoVcxT3t) | 2:39 | 2022-06-03 | 2022-12-16 |
 | [San Judas Cuida Mis Pasos](https://open.spotify.com/track/3zjMCQ1iipDBsltIZZ3Vhf) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [San Judas Cuida Mis Pasos](https://open.spotify.com/album/0wMpIFch9IxaSji4X6HKsK) | 3:09 | 2022-08-26 | 2022-09-10 |
 | [San Juditas](https://open.spotify.com/track/5WqylHMUJGQ1Me46J2trNh) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [San Juditas](https://open.spotify.com/album/69h4MhqmusnrGzuaxIG5Nx) | 3:01 | 2022-07-22 | 2022-08-27 |
 | [Sangre Avendaño](https://open.spotify.com/track/6K9JdTjaP3A3yLP70pai9J) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Sangre Avendaño](https://open.spotify.com/album/3Yt8oT3W1Efx00jW3hi1JL) | 2:47 | 2022-05-13 |  |

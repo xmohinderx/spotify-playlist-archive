@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=UTT3bcuCSsSC4ccPiHXUUQ\">Kwesta</a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=vNDh6AeASLmaaZR9h249Rw\">Kabza De Small</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=tzNMePiLT2KYspD7sMAzeQ\">K.O</a>",
   "name": "Mzansi Raps",
   "published_playlist_ids": [
     "0xTC98cyXGkNifzFqwccaX"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 114326,
       "name": "2022!",
       "url": "https://open.spotify.com/track/5JSTBF0PYzZLRdkJno6J6U"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 129522,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/4EqbT74XTi28I34HVx3ArN"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 198214,
       "name": "Big Booty Bitch",
       "url": "https://open.spotify.com/track/23kvA1XZhBvP3tfcLh7aa9"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 186357,
       "name": "Changed",
       "url": "https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 256333,
       "name": "Darkness Defined",
       "url": "https://open.spotify.com/track/01edL7wMnodVutRtRJo7Dy"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 214285,
       "name": "DENIMS",
       "url": "https://open.spotify.com/track/1XEujV1o6sNolvXLYk3erB"
@@ -2085,7 +2085,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 356923,
       "name": "Elon Musk",
       "url": "https://open.spotify.com/track/7oEETuISDc8NRSMpccJI1J"
@@ -2707,7 +2707,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 137142,
       "name": "FUCK THE WORLD!",
       "url": "https://open.spotify.com/track/7mJg58d7kPdTlukVXGXZHf"
@@ -3158,6 +3158,24 @@
     },
     {
       "album": {
+        "name": "Return To The Sun",
+        "url": "https://open.spotify.com/album/5Pw8aGXot4nYO8EAHmArCr"
+      },
+      "artists": [
+        {
+          "name": "Indigo Stella",
+          "url": "https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182369,
+      "name": "Grow Dat",
+      "url": "https://open.spotify.com/track/4fnL6ouRuxb83QQ1Wf8s56"
+    },
+    {
+      "album": {
         "name": "Gulag Activity",
         "url": "https://open.spotify.com/album/6tzGscBXgh3LV91ZIziCpa"
       },
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 131581,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/1vZdToBodozHPhx6nyQFnc"
@@ -3551,7 +3569,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 223846,
       "name": "If Found, Bring Home",
       "url": "https://open.spotify.com/track/3yPGqG2TUkxMtOj6PCmJ9W"
@@ -4537,7 +4555,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 303912,
       "name": "Lokshin Gqom Wave",
       "url": "https://open.spotify.com/track/08M4tQ7FAOlWoWOJfjhony"
@@ -5506,6 +5524,24 @@
     },
     {
       "album": {
+        "name": "No Big Deal",
+        "url": "https://open.spotify.com/album/1INvKRJ0nMdyYDQvX9soCw"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260739,
+      "name": "No Big Deal",
+      "url": "https://open.spotify.com/track/4EIxIzayaPqTuXVIXN5Mde"
+    },
+    {
+      "album": {
         "name": "Do Not Disturb",
         "url": "https://open.spotify.com/album/4Pd8nZxMXNhho8Z5qdXhN2"
       },
@@ -5521,7 +5557,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 193833,
       "name": "No Phone Calls",
       "url": "https://open.spotify.com/track/1bClWkctLD6qD2BWsyvp0U"
@@ -6319,7 +6355,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 85447,
       "name": "Pushing P",
       "url": "https://open.spotify.com/track/5YN5YDgT6sJIumBvC1XeKH"
@@ -6861,7 +6897,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 249533,
       "name": "SETE (feat. Young Stunna & Blxckie)",
       "url": "https://open.spotify.com/track/65NAMIdsZkxYIM5ui8SJSw"
@@ -7939,7 +7975,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 188000,
       "name": "The She Can Anthem",
       "url": "https://open.spotify.com/track/26H2f4iJ9P0EYUcIJS7F2c"
@@ -8351,7 +8387,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 271219,
       "name": "Tsele",
       "url": "https://open.spotify.com/track/5YhnCYPzTFiySgjtAlm9Xd"
@@ -8465,7 +8501,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 250433,
       "name": "Umuzi eSandton",
       "url": "https://open.spotify.com/track/6ByYlSmLy6z6tJLiO9FnGd"
@@ -8759,7 +8795,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 184000,
       "name": "Wes-Kaap",
       "url": "https://open.spotify.com/track/6VYWgKFx5xmcLLs2Klclmw"
@@ -8861,7 +8897,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 210000,
       "name": "Whispering to the Moon",
       "url": "https://open.spotify.com/track/2DVY9EhV2j0k4XUogoFLHO"
@@ -8983,6 +9019,36 @@
       "duration_ms": 210923,
       "name": "With Us",
       "url": "https://open.spotify.com/track/15ihtDGnwhxFykG4BJ5lwS"
+    },
+    {
+      "album": {
+        "name": "Tried & Tested",
+        "url": "https://open.spotify.com/album/3VAZ0yLGl1lLznLJuMzyAi"
+      },
+      "artists": [
+        {
+          "name": "DJ Kaymoworld",
+          "url": "https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y"
+        },
+        {
+          "name": "Gobi Beast",
+          "url": "https://open.spotify.com/artist/76Pz9hE2Q0eHm8mfVf5fET"
+        },
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "WRONG TURN",
+      "url": "https://open.spotify.com/track/3HjpW1DgAsj9jViqjdWtxL"
     },
     {
       "album": {

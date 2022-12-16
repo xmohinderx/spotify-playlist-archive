@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: WIN METAWIN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 215593,
       "name": "17 \u0e19\u0e32\u0e17\u0e35",
       "url": "https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J"
@@ -1658,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "kiddorecords D-SUEM-BLUR",
+        "url": "https://open.spotify.com/album/74l8lgDRag1rBUvsyB0eQp"
+      },
+      "artists": [
+        {
+          "name": "Porch Pathaseth",
+          "url": "https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u0e08\u0e35\u0e1a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49 - Available Now",
+      "url": "https://open.spotify.com/track/0UTKM4QrKUwNCvWUzq7E6E"
+    },
+    {
+      "album": {
         "name": "MAS[S]TERPIECE",
         "url": "https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2"
       },
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 196893,
       "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e49\u0e30 (U like it?)",
       "url": "https://open.spotify.com/track/7yXuMQovK5W52TiPFEKWqy"
@@ -2459,6 +2477,24 @@
       "duration_ms": 226981,
       "name": "\u0e19\u0e34\u0e19\u0e08\u0e32",
       "url": "https://open.spotify.com/track/6MySIb6kDy1Qedt2sANIYW"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e0a\u0e34\u0e1a\u0e1b\u0e38\u0e4b\u0e07 Feat.SPRITE",
+        "url": "https://open.spotify.com/album/2bAeenjgVDSwCpEWEcnsbJ"
+      },
+      "artists": [
+        {
+          "name": "bonnadol",
+          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e0a\u0e34\u0e1a\u0e1b\u0e38\u0e4b\u0e07 Feat.SPRITE",
+      "url": "https://open.spotify.com/track/6I3Y2cxdvLVZeLRVoB3aVG"
     },
     {
       "album": {
@@ -3413,7 +3449,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 188000,
       "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Eyes Don\u2019t Lie)",
       "url": "https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT"
@@ -3557,7 +3593,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 211836,
       "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08",
       "url": "https://open.spotify.com/track/6Mr7XbwIKjbpTRofrDegVB"

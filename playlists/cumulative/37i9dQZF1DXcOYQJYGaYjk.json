@@ -910,6 +910,28 @@
     },
     {
       "album": {
+        "name": "DUKE NUKEM",
+        "url": "https://open.spotify.com/album/0OzvI11qM6D82gtA7iMqLz"
+      },
+      "artists": [
+        {
+          "name": "SHUSH",
+          "url": "https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs"
+        },
+        {
+          "name": "ROMA JONSON",
+          "url": "https://open.spotify.com/artist/21v9qLqZzJBzxIKZZNgD1a"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129264,
+      "name": "DUKE NUKEM",
+      "url": "https://open.spotify.com/track/1MbDJQVfQAeCTWMUeXvrDB"
+    },
+    {
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -2005,7 +2027,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 243939,
       "name": "Quantum Flux",
       "url": "https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2"

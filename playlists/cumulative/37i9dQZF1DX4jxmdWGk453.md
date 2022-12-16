@@ -4,7 +4,7 @@
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-55 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/53jXBm1qBD5ykfWKmQYFAY)
+57 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/53jXBm1qBD5ykfWKmQYFAY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,10 +44,12 @@
 | [O Come, All Ye Faithful](https://open.spotify.com/track/0v0sjJiYPnin0SCu7t6d3b) | [Dean Hort Quartet](https://open.spotify.com/artist/1C5rovJ0DxYtVAsEWQIQfj) | [The First Noel](https://open.spotify.com/album/5mvwUwNxgqw3NrHCfWr0tp) | 1:41 | 2021-12-21 |  |
 | [O Come, Emmanuel](https://open.spotify.com/track/0qTC6qO2CjO3Iu14kcm3yz) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/5K5lN54zQk4TLtVEnXuYjF) | 1:34 | 2021-12-21 | 2022-07-29 |
 | [O Come, Emmanuel](https://open.spotify.com/track/0WCxyTsIy2WK42bz5yaCgt) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/6bZUcVIrMdTBq7wGU7Y6zQ) | 1:34 | 2021-12-21 |  |
-| [O Holy Night](https://open.spotify.com/track/11L4qicJIXU1fFok7jrbhg) | [Vocal Spectrum](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) | [Vocal Spectrum IV](https://open.spotify.com/album/0E21cs5wAEjqUINJtaJPKn) | 5:26 | 2021-12-21 |  |
+| [O Holy Night](https://open.spotify.com/track/11L4qicJIXU1fFok7jrbhg) | [Vocal Spectrum](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) | [Vocal Spectrum IV](https://open.spotify.com/album/0E21cs5wAEjqUINJtaJPKn) | 5:26 | 2021-12-21 | 2022-12-16 |
+| [O Holy Night \(Arr\. John Rutter\)](https://open.spotify.com/track/0yWpE5Yq1n5qdAwZH1zi89) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No), [Henry Websdale](https://open.spotify.com/artist/4I8Y8ZSxTlLzYBrQZwPS9Q) | [Traditional Christmas Carols from King's](https://open.spotify.com/album/06TFqiqAmyntbp0tawEDfY) | 5:38 | 2022-12-15 |  |
 | [O Holy Night \- Acapella](https://open.spotify.com/track/4h3DVUQyLeA4g6RaCkGaD6) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [O Holy Night](https://open.spotify.com/album/1hBZmVyxC8dHxPZpzL7Zwu) | 4:30 | 2021-12-21 |  |
+| [O Little Town of Bethlehem](https://open.spotify.com/track/45m8293Fld4dW9MylEPmkd) | [Queens College Ensemble Choir](https://open.spotify.com/artist/5aJwvJRhJtJW4qWIS67xgQ) | [Greatest Ever Carols Collection \- The Very Best Christmas Carols & Traditional Xmas Hymns & Songs](https://open.spotify.com/album/0PnQBcphxjwzMJPgWIDf7S) | 2:32 | 2022-12-15 |  |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/08aT39SeUbhpGAhXQC94Qu) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/5K5lN54zQk4TLtVEnXuYjF) | 2:30 | 2021-12-21 | 2022-07-29 |
-| [O Little Town of Bethlehem](https://open.spotify.com/track/4nxbzZce8zaZHR5NO5CGsf) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/6bZUcVIrMdTBq7wGU7Y6zQ) | 2:30 | 2021-12-21 |  |
+| [O Little Town of Bethlehem](https://open.spotify.com/track/4nxbzZce8zaZHR5NO5CGsf) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/6bZUcVIrMdTBq7wGU7Y6zQ) | 2:30 | 2021-12-21 | 2022-12-16 |
 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 | 2021-12-21 |  |
 | [O, Christmas Tree \(O Tannenbaum\)](https://open.spotify.com/track/2lyJrx5U3E7E6NeMFv2Kxz) | [The Oxford Trinity Choir](https://open.spotify.com/artist/3r3EF4IUivV9v7HYln1YzB) | [Christmas Hymns \- The Very Best \- A Collection of Traditional Christmas Songs \(Deluxe Hymns Version\)](https://open.spotify.com/album/0AHs8EwSL5VTHEEeMIgRAk) | 1:58 | 2021-12-21 |  |
 | [Once in Royal David's City](https://open.spotify.com/track/5OS20K9GSq5BmD8VVQx1cw) | [Max Q](https://open.spotify.com/artist/7kVEBxCLB5kx4N67nkHe8t) | [A Little Christmas with Max Q](https://open.spotify.com/album/4NPHVSL6GKwBF357X4rWJ3) | 2:28 | 2021-12-21 |  |

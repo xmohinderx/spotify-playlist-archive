@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Imen Es",
   "name": "R&Bae",
   "published_playlist_ids": [],
   "tracks": [
@@ -28,6 +28,46 @@
     },
     {
       "album": {
+        "name": "Glow Up",
+        "url": "https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/3uuSSAMq7Otspek5jPLVU3"
+    },
+    {
+      "album": {
+        "name": "Baby Love",
+        "url": "https://open.spotify.com/album/0pqafVcoCMQ9z7rEMSY7ej"
+      },
+      "artists": [
+        {
+          "name": "Nadjee",
+          "url": "https://open.spotify.com/artist/3bOlMjhZuCsFt1dKkPCGAK"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/3wz016yrz7dXAtF8WLShSg"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9mices",
         "url": "https://open.spotify.com/album/0923F8kfzpouUmutVzceuH"
       },
@@ -43,7 +83,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 186000,
       "name": "Bourbier",
       "url": "https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44"
@@ -141,7 +181,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 210000,
       "name": "Encr\u00e9",
       "url": "https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn"
@@ -167,6 +207,24 @@
       "duration_ms": 181855,
       "name": "FAIS COMME SI",
       "url": "https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven"
+    },
+    {
+      "album": {
+        "name": "Souf",
+        "url": "https://open.spotify.com/album/5sqzSkimnmtWIMcrZiBd3S"
+      },
+      "artists": [
+        {
+          "name": "Souf",
+          "url": "https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210816,
+      "name": "Faut\u00e9",
+      "url": "https://open.spotify.com/track/2xHHdkLDXT6gdHyu1bRZMz"
     },
     {
       "album": {
@@ -203,6 +261,24 @@
       "duration_ms": 164470,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN"
+      },
+      "artists": [
+        {
+          "name": "YG Pablo",
+          "url": "https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123275,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J"
     },
     {
       "album": {
@@ -261,6 +337,24 @@
       "duration_ms": 176346,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/5YlJIxE6hsr5x7avxnjq8g"
+    },
+    {
+      "album": {
+        "name": "Joujou",
+        "url": "https://open.spotify.com/album/5afNscbokNL1uq52RKHO3m"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Joujou",
+      "url": "https://open.spotify.com/track/6iT9J2d5vY4buhYcNgFUeT"
     },
     {
       "album": {
@@ -427,7 +521,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 170974,
       "name": "Maux de t\u00eate",
       "url": "https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N"
@@ -463,7 +557,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 170880,
       "name": "Million",
       "url": "https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh"
@@ -629,7 +723,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 156946,
       "name": "Piqu\u00e9",
       "url": "https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n"
@@ -785,7 +879,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 157500,
       "name": "Tomber",
       "url": "https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq"
@@ -829,6 +923,24 @@
       "duration_ms": 198773,
       "name": "Un bout de nous",
       "url": "https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp"
+    },
+    {
+      "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/37x2aZDoCSpJUtaEfdfw4V"
+      },
+      "artists": [
+        {
+          "name": "Osmaus",
+          "url": "https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204175,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr"
     },
     {
       "album": {

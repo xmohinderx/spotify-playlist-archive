@@ -1,15 +1,15 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 183045,
+  "num_followers": 183066,
   "original_name": "Bosque M\u00edstico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2NDc3MywwMDAwMDAwMGRmMTIzZjc4Zjc4M2Y5ODc4OWQwNWFmY2I5NmY2MmM0",
+  "snapshot_id": "MTY2ODE2NDc3MywwMDAwMDAwMDdiODNlNzM1MTk3NGU1OTA3ODc0MTE4ZjUyODkxZWFj",
   "tracks": [
     {
-      "added_at": "2022-12-15 00:31:46",
+      "added_at": "2022-12-16 01:16:46",
       "album": {
         "name": "Following The Seasons",
         "url": "https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y"
     },
     {
-      "added_at": "2022-12-15 00:31:46",
+      "added_at": "2022-12-16 01:16:46",
       "album": {
         "name": "Elucidate",
         "url": "https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6"
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Warm Summer Rain",
-        "url": "https://open.spotify.com/album/6fwaLrlXlJT8coA3ysImIH"
-      },
-      "artists": [
-        {
-          "name": "Sal Lastra",
-          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Warm Summer Rain",
-      "url": "https://open.spotify.com/track/7J3bfg7BXmToxDWWKglGD5"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "The Enigma of Consciousness",
         "url": "https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd"
       },
@@ -571,18 +555,34 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Deep Forest",
-        "url": "https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi"
+        "name": "Warm Summer Rain",
+        "url": "https://open.spotify.com/album/6fwaLrlXlJT8coA3ysImIH"
       },
       "artists": [
         {
-          "name": "Christopher Varela",
-          "url": "https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK"
+          "name": "Sal Lastra",
+          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
         }
       ],
-      "duration_ms": 106666,
-      "name": "Deep Forest",
-      "url": "https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA"
+      "duration_ms": 211000,
+      "name": "Warm Summer Rain",
+      "url": "https://open.spotify.com/track/7J3bfg7BXmToxDWWKglGD5"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Four",
+      "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+        "name": "Deep Forest",
+        "url": "https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi"
       },
       "artists": [
         {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+          "name": "Christopher Varela",
+          "url": "https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK"
         }
       ],
-      "duration_ms": 420546,
-      "name": "Four",
-      "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
+      "duration_ms": 106666,
+      "name": "Deep Forest",
+      "url": "https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Know Yourself",
-        "url": "https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt"
-      },
-      "artists": [
-        {
-          "name": "Arlen Ness",
-          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "Angelical",
-      "url": "https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "Silent Waters",
         "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 179014,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/1uSaD0JKNb5o8Wv29zULwf"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Know Yourself",
+        "url": "https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt"
+      },
+      "artists": [
+        {
+          "name": "Arlen Ness",
+          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "Angelical",
+      "url": "https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 166900,
-      "name": "Skylines",
-      "url": "https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "The Sapphire Waters of East Kalimantan",
         "url": "https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 160568,
       "name": "The Sapphire Waters of East Kalimantan",
       "url": "https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 166900,
+      "name": "Skylines",
+      "url": "https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Brown / Beige",
-        "url": "https://open.spotify.com/album/01UZf2ysXY8Ki07JtpiN6i"
-      },
-      "artists": [
-        {
-          "name": "ANDYL",
-          "url": "https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80"
-        }
-      ],
-      "duration_ms": 137600,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/45HEzbPMOdFlNjzf7mlG3F"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "Violin Chant",
         "url": "https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Sleepy Insect Music",
-        "url": "https://open.spotify.com/album/1RSl923cV9vOzKkPBzssDt"
+        "name": "Brown / Beige",
+        "url": "https://open.spotify.com/album/01UZf2ysXY8Ki07JtpiN6i"
       },
       "artists": [
         {
-          "name": "The Boats",
-          "url": "https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa"
+          "name": "ANDYL",
+          "url": "https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80"
         }
       ],
-      "duration_ms": 146146,
-      "name": "Palais Glide",
-      "url": "https://open.spotify.com/track/54wW2YP4R8WrwUKW0ZGOgH"
+      "duration_ms": 137600,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/45HEzbPMOdFlNjzf7mlG3F"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1131,6 +1115,22 @@
       "duration_ms": 81106,
       "name": "Bittern",
       "url": "https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Sleepy Insect Music",
+        "url": "https://open.spotify.com/album/1RSl923cV9vOzKkPBzssDt"
+      },
+      "artists": [
+        {
+          "name": "The Boats",
+          "url": "https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Palais Glide",
+      "url": "https://open.spotify.com/track/54wW2YP4R8WrwUKW0ZGOgH"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Chysis",
-        "url": "https://open.spotify.com/album/0drvxNZQIE3XamUrN7yhA5"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Chysis",
-      "url": "https://open.spotify.com/track/4amtIW0nNo9rCbXaaSjNWq"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "Mutaciones",
         "url": "https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
+        "name": "Chysis",
+        "url": "https://open.spotify.com/album/0drvxNZQIE3XamUrN7yhA5"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Chysis",
+      "url": "https://open.spotify.com/track/4amtIW0nNo9rCbXaaSjNWq"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
         "name": "PHANTOM BRICKWORKS (IV & V)",
         "url": "https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 678013,
       "name": "PHANTOM BRICKWORKS IV",
       "url": "https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "By Daylight",
+      "url": "https://open.spotify.com/track/2oSGJGvygj2kAr0flE4fmM"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1331,22 +1347,6 @@
       "duration_ms": 128284,
       "name": "Immovable As The Mountain",
       "url": "https://open.spotify.com/track/54vCcg45Q7sXHnZ2V07Ad6"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "City Life",
-        "url": "https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 158823,
-      "name": "By Daylight",
-      "url": "https://open.spotify.com/track/2oSGJGvygj2kAr0flE4fmM"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "The Golden Morning Breaks",
-        "url": "https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD"
+        "name": "Circular Wave Forms.",
+        "url": "https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
         }
       ],
-      "duration_ms": 322506,
-      "name": "The Golden Morning Breaks",
-      "url": "https://open.spotify.com/track/5fWJfpYyGYD4SzpcD6rZyk"
+      "duration_ms": 180000,
+      "name": "Circular Wave Forms.",
+      "url": "https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1479,50 +1479,18 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Circular Wave Forms.",
-        "url": "https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla"
+        "name": "The Golden Morning Breaks",
+        "url": "https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD"
       },
       "artists": [
         {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Circular Wave Forms.",
-      "url": "https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "La Tarde",
-        "url": "https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ"
-      },
-      "artists": [
-        {
-          "name": "Little Symphony",
-          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
-        }
-      ],
-      "duration_ms": 67500,
-      "name": "Tronco",
-      "url": "https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Glimmer Tide",
-        "url": "https://open.spotify.com/album/4G2srZ65v02HfzENrB9wdr"
-      },
-      "artists": [
-        {
-          "name": "Peppermoth",
-          "url": "https://open.spotify.com/artist/3m1iwGUxL5xcMHl1a0WTih"
-        }
-      ],
-      "duration_ms": 250911,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/30ykZqam6zAwBhE2gz0kxB"
+      "duration_ms": 322506,
+      "name": "The Golden Morning Breaks",
+      "url": "https://open.spotify.com/track/5fWJfpYyGYD4SzpcD6rZyk"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1543,6 +1511,22 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
+        "name": "La Tarde",
+        "url": "https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ"
+      },
+      "artists": [
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "duration_ms": 67500,
+      "name": "Tronco",
+      "url": "https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
         "name": "Hundreds of Days",
         "url": "https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 691347,
       "name": "It Feels Like Floating",
       "url": "https://open.spotify.com/track/5P0cbDhsv6wCqyAqfhBxaW"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Glimmer Tide",
+        "url": "https://open.spotify.com/album/4G2srZ65v02HfzENrB9wdr"
+      },
+      "artists": [
+        {
+          "name": "Peppermoth",
+          "url": "https://open.spotify.com/artist/3m1iwGUxL5xcMHl1a0WTih"
+        }
+      ],
+      "duration_ms": 250911,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/30ykZqam6zAwBhE2gz0kxB"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Pulsating Ice Sheet.",
-        "url": "https://open.spotify.com/album/3TnANB0VHxNh0O74gypVLN"
-      },
-      "artists": [
-        {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
-        }
-      ],
-      "duration_ms": 210681,
-      "name": "Pulsating Ice Sheet.",
-      "url": "https://open.spotify.com/track/0GT3SzJQdmsu2FfyrmcKu7"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "Zhangye",
         "url": "https://open.spotify.com/album/24WWNx33giKA9ZS69ANa0h"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 218518,
       "name": "Zhangye",
       "url": "https://open.spotify.com/track/5N4vu7YjgMluONhlzndhMN"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Pulsating Ice Sheet.",
+        "url": "https://open.spotify.com/album/3TnANB0VHxNh0O74gypVLN"
+      },
+      "artists": [
+        {
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+        }
+      ],
+      "duration_ms": 210681,
+      "name": "Pulsating Ice Sheet.",
+      "url": "https://open.spotify.com/track/0GT3SzJQdmsu2FfyrmcKu7"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1767,54 +1767,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Silviculture",
-        "url": "https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B"
-      },
-      "artists": [
-        {
-          "name": "Forest Dreams",
-          "url": "https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp"
-        }
-      ],
-      "duration_ms": 122837,
-      "name": "Silviculture",
-      "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Free Design",
-        "url": "https://open.spotify.com/album/29ty7i6CE0WpDWqXuBCkc2"
-      },
-      "artists": [
-        {
-          "name": "Cellulose Sunshine",
-          "url": "https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls"
-        }
-      ],
-      "duration_ms": 161148,
-      "name": "Free Design",
-      "url": "https://open.spotify.com/track/3H94469wfc4IgUoWi7zVUd"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/3g7MWXqLIH5YCzfbbUfRRE"
-      },
-      "artists": [
-        {
-          "name": "Transcendental Youth",
-          "url": "https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/089VNP8Mc6sNi2gGQUCHal"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/5cdqw0PmirLemkUdjvgs2b"
       },
@@ -1827,22 +1779,6 @@
       "duration_ms": 180000,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/6yLO7nPmUpyPgzfXD9FbpX"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/68YLbrQkvw2hUEYJGg33bm"
-      },
-      "artists": [
-        {
-          "name": "Magnetic Dreams",
-          "url": "https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc"
-        }
-      ],
-      "duration_ms": 147818,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/7DZzB8uRRpeGE9eHpnNUXs"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1863,6 +1799,22 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3g7MWXqLIH5YCzfbbUfRRE"
+      },
+      "artists": [
+        {
+          "name": "Transcendental Youth",
+          "url": "https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/089VNP8Mc6sNi2gGQUCHal"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
         "name": "Peace and Balance",
         "url": "https://open.spotify.com/album/7EMmU20lXqzyELFOsjP34Z"
       },
@@ -1879,18 +1831,18 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Travels Of A Snowflake",
-        "url": "https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt"
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/68YLbrQkvw2hUEYJGg33bm"
       },
       "artists": [
         {
-          "name": "Calm Shores",
-          "url": "https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB"
+          "name": "Magnetic Dreams",
+          "url": "https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc"
         }
       ],
-      "duration_ms": 247052,
-      "name": "Frozen Tears",
-      "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
+      "duration_ms": 147818,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/7DZzB8uRRpeGE9eHpnNUXs"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -1907,6 +1859,54 @@
       "duration_ms": 216000,
       "name": "Sweet Iris",
       "url": "https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Free Design",
+        "url": "https://open.spotify.com/album/29ty7i6CE0WpDWqXuBCkc2"
+      },
+      "artists": [
+        {
+          "name": "Cellulose Sunshine",
+          "url": "https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls"
+        }
+      ],
+      "duration_ms": 161148,
+      "name": "Free Design",
+      "url": "https://open.spotify.com/track/3H94469wfc4IgUoWi7zVUd"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Silviculture",
+        "url": "https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B"
+      },
+      "artists": [
+        {
+          "name": "Forest Dreams",
+          "url": "https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp"
+        }
+      ],
+      "duration_ms": 122837,
+      "name": "Silviculture",
+      "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Travels Of A Snowflake",
+        "url": "https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt"
+      },
+      "artists": [
+        {
+          "name": "Calm Shores",
+          "url": "https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB"
+        }
+      ],
+      "duration_ms": 247052,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
+        "name": "Tranquillity",
+        "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
+      },
+      "artists": [
+        {
+          "name": "My Wondrous Dream",
+          "url": "https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q"
+        }
+      ],
+      "duration_ms": 201764,
+      "name": "Tranquillity",
+      "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
         "name": "Morning Air",
         "url": "https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ"
       },
@@ -2055,18 +2071,18 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Tranquillity",
-        "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
+        "name": "II",
+        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
       },
       "artists": [
         {
-          "name": "My Wondrous Dream",
-          "url": "https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q"
+          "name": "Wilson Tanner",
+          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
         }
       ],
-      "duration_ms": 201764,
-      "name": "Tranquillity",
-      "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
+      "duration_ms": 273226,
+      "name": "Loch and Key",
+      "url": "https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -2087,18 +2103,18 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
+        "name": "Always Sometimes",
+        "url": "https://open.spotify.com/album/6RyzF1MQrLOeGgUqgDP3LK"
       },
       "artists": [
         {
-          "name": "Wilson Tanner",
-          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
+          "name": "Nakuru",
+          "url": "https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1"
         }
       ],
-      "duration_ms": 273226,
-      "name": "Loch and Key",
-      "url": "https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq"
+      "duration_ms": 205714,
+      "name": "Always Sometimes",
+      "url": "https://open.spotify.com/track/0CccKVvnGtDBJHfeb0IdiE"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -2115,22 +2131,6 @@
       "duration_ms": 218835,
       "name": "Sequel",
       "url": "https://open.spotify.com/track/3SuFqv9coNjBTkRrPLlr2Q"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Always Sometimes",
-        "url": "https://open.spotify.com/album/6RyzF1MQrLOeGgUqgDP3LK"
-      },
-      "artists": [
-        {
-          "name": "Nakuru",
-          "url": "https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Always Sometimes",
-      "url": "https://open.spotify.com/track/0CccKVvnGtDBJHfeb0IdiE"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -2187,70 +2187,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Bluebirds",
-        "url": "https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw"
-      },
-      "artists": [
-        {
-          "name": "The Highest Clouds",
-          "url": "https://open.spotify.com/artist/5GxdjXV91L1AoL0i0J85uH"
-        }
-      ],
-      "duration_ms": 127272,
-      "name": "Bluebirds",
-      "url": "https://open.spotify.com/track/4zmCiLP5fkveffqyvrnOzP"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Not Even In Dreams",
-        "url": "https://open.spotify.com/album/02VME3JiyaS0bVBPVh2WuM"
-      },
-      "artists": [
-        {
-          "name": "Chaxti",
-          "url": "https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH"
-        }
-      ],
-      "duration_ms": 233181,
-      "name": "Another Forest",
-      "url": "https://open.spotify.com/track/7fVDQRwi4mJ0kPnvG9I7qW"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "The Order Of Change",
-        "url": "https://open.spotify.com/album/2qFs3tQfbY067d1hDw3oVZ"
-      },
-      "artists": [
-        {
-          "name": "Orquesta de las Nubes",
-          "url": "https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS"
-        }
-      ],
-      "duration_ms": 244575,
-      "name": "Vendr\u00e1n Lluvias Suaves",
-      "url": "https://open.spotify.com/track/6hRgWpBVwzIxLNWkwgxu7B"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/1PN0oulE1xHGUsJLnIe0gO"
-      },
-      "artists": [
-        {
-          "name": "Diskret",
-          "url": "https://open.spotify.com/artist/7JxiGkTUF8p8R1Ki5CNJNH"
-        }
-      ],
-      "duration_ms": 210936,
-      "name": "Dazed",
-      "url": "https://open.spotify.com/track/0YxoUJRSiiVaL7hQMsegQa"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv"
       },
@@ -2263,38 +2199,6 @@
       "duration_ms": 129657,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Earth Shapes",
-        "url": "https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg"
-      },
-      "artists": [
-        {
-          "name": "Sverre Knut Johansen",
-          "url": "https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S"
-        }
-      ],
-      "duration_ms": 251875,
-      "name": "Earth Shapes: Nature",
-      "url": "https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "Ambient Worlds",
-        "url": "https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Jessep",
-          "url": "https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv"
-        }
-      ],
-      "duration_ms": 429547,
-      "name": "Windchimes",
-      "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -2315,18 +2219,98 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Kiruna",
-        "url": "https://open.spotify.com/album/5Ikr47faNKpgGamSgALtwk"
+        "name": "Not Even In Dreams",
+        "url": "https://open.spotify.com/album/02VME3JiyaS0bVBPVh2WuM"
       },
       "artists": [
         {
-          "name": "Tomoko Kuzami",
-          "url": "https://open.spotify.com/artist/2Z82q88sLUXeG0CoGxF9If"
+          "name": "Chaxti",
+          "url": "https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH"
         }
       ],
-      "duration_ms": 170446,
-      "name": "Kiruna",
-      "url": "https://open.spotify.com/track/4u9xOtRiPhUhOnBtVuE8MA"
+      "duration_ms": 233181,
+      "name": "Another Forest",
+      "url": "https://open.spotify.com/track/7fVDQRwi4mJ0kPnvG9I7qW"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Earth Shapes",
+        "url": "https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg"
+      },
+      "artists": [
+        {
+          "name": "Sverre Knut Johansen",
+          "url": "https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S"
+        }
+      ],
+      "duration_ms": 251875,
+      "name": "Earth Shapes: Nature",
+      "url": "https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Bluebirds",
+        "url": "https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw"
+      },
+      "artists": [
+        {
+          "name": "The Highest Clouds",
+          "url": "https://open.spotify.com/artist/5GxdjXV91L1AoL0i0J85uH"
+        }
+      ],
+      "duration_ms": 127272,
+      "name": "Bluebirds",
+      "url": "https://open.spotify.com/track/4zmCiLP5fkveffqyvrnOzP"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "The Order Of Change",
+        "url": "https://open.spotify.com/album/2qFs3tQfbY067d1hDw3oVZ"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de las Nubes",
+          "url": "https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS"
+        }
+      ],
+      "duration_ms": 244575,
+      "name": "Vendr\u00e1n Lluvias Suaves",
+      "url": "https://open.spotify.com/track/6hRgWpBVwzIxLNWkwgxu7B"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Ambient Worlds",
+        "url": "https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Jessep",
+          "url": "https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv"
+        }
+      ],
+      "duration_ms": 429547,
+      "name": "Windchimes",
+      "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/1PN0oulE1xHGUsJLnIe0gO"
+      },
+      "artists": [
+        {
+          "name": "Diskret",
+          "url": "https://open.spotify.com/artist/7JxiGkTUF8p8R1Ki5CNJNH"
+        }
+      ],
+      "duration_ms": 210936,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/0YxoUJRSiiVaL7hQMsegQa"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -2347,38 +2331,6 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "A3",
-        "url": "https://open.spotify.com/album/2B0YCjyV5FA8oaFea1Gvg3"
-      },
-      "artists": [
-        {
-          "name": "ADAM TK",
-          "url": "https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "A3",
-      "url": "https://open.spotify.com/track/1Jcqa7zjW20XYBw5MqUli1"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
-        "name": "II Cosmos",
-        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
-      },
-      "artists": [
-        {
-          "name": "PRjDicE",
-          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "II Cosmos",
-      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
-    },
-    {
-      "added_at": "2022-10-21 19:11:13",
-      "album": {
         "name": "Rivers of Rain",
         "url": "https://open.spotify.com/album/2N6ptDOlAGH8qMB5FCYQ9h"
       },
@@ -2391,6 +2343,38 @@
       "duration_ms": 237374,
       "name": "Ambient Cave",
       "url": "https://open.spotify.com/track/1UceKtnkOPzcBCv6qo11OT"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "Kiruna",
+        "url": "https://open.spotify.com/album/5Ikr47faNKpgGamSgALtwk"
+      },
+      "artists": [
+        {
+          "name": "Tomoko Kuzami",
+          "url": "https://open.spotify.com/artist/2Z82q88sLUXeG0CoGxF9If"
+        }
+      ],
+      "duration_ms": 170446,
+      "name": "Kiruna",
+      "url": "https://open.spotify.com/track/4u9xOtRiPhUhOnBtVuE8MA"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "A3",
+        "url": "https://open.spotify.com/album/2B0YCjyV5FA8oaFea1Gvg3"
+      },
+      "artists": [
+        {
+          "name": "ADAM TK",
+          "url": "https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "A3",
+      "url": "https://open.spotify.com/track/1Jcqa7zjW20XYBw5MqUli1"
     },
     {
       "added_at": "2022-10-21 19:11:13",
@@ -2411,18 +2395,34 @@
     {
       "added_at": "2022-10-21 19:11:13",
       "album": {
-        "name": "Industrial Structures",
-        "url": "https://open.spotify.com/album/5gDhWcsMxLTreuS2zYrisU"
+        "name": "II Cosmos",
+        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
       },
       "artists": [
         {
-          "name": "Emerald High",
-          "url": "https://open.spotify.com/artist/0GqXpiHp5JAF6pRU9orT7Q"
+          "name": "PRjDicE",
+          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
         }
       ],
-      "duration_ms": 177391,
-      "name": "Rural Landscapes",
-      "url": "https://open.spotify.com/track/0VEv5eVGdRogFPx7jI0fdo"
+      "duration_ms": 203750,
+      "name": "II Cosmos",
+      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
+    },
+    {
+      "added_at": "2022-10-21 19:11:13",
+      "album": {
+        "name": "A Dream Within a Dream",
+        "url": "https://open.spotify.com/album/04GgqYWBW4zJpCET3ymzpo"
+      },
+      "artists": [
+        {
+          "name": "Dusted Leaves",
+          "url": "https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "A Dream Within a Dream",
+      "url": "https://open.spotify.com/track/0Ppijcm8jxyzGBAielM8xH"
     }
   ],
   "unique_name": "Bosque M\u00edstico",

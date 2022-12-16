@@ -4,7 +4,7 @@
 
 > We hear you.
 
-523 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+524 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-04-01 | 2022-07-20 |
 | [Free With You](https://open.spotify.com/track/37KYM3zuGyozpEwDuO2OVw) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Free With You](https://open.spotify.com/album/1MXwnwrBqGVgu9UsnqLnLl) | 2:48 | 2021-04-02 | 2022-04-16 |
 | [Friends](https://open.spotify.com/track/0q0fJWjbiK5DSKCSN1GKsK) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/2ylgkcYanTrAeBdqQSSDBE) | 3:06 | 2021-04-02 | 2022-04-21 |
-| [Friends Don't Keep Secrets](https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Friends Don't Keep Secrets](https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr) | 2:10 | 2022-10-14 |  |
+| [Friends Don't Keep Secrets](https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Friends Don't Keep Secrets](https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr) | 2:10 | 2022-10-14 | 2022-12-16 |
 | [From Me, the Moon](https://open.spotify.com/track/0gDKiMAurqJFzRKEKUOVbE) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [From Me, the Moon](https://open.spotify.com/album/0IE0MxJKt1oM6YeXsg5mLN) | 3:55 | 2021-04-02 | 2022-04-20 |
 | [fuckboy](https://open.spotify.com/track/7bHPn0RHLGSuR4PWiLsMiR) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [fuckboy](https://open.spotify.com/album/0ZKTeYihwEGqJsYxbIA7Zs) | 2:37 | 2021-04-02 | 2022-06-16 |
 | [FUNERAL](https://open.spotify.com/track/37UUsGW1KK3Cindm8Rqlu9) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FUNERAL](https://open.spotify.com/album/7gI0fMPJM42rMt5TWZwEyA) | 3:53 | 2022-01-27 | 2022-05-22 |
@@ -166,6 +166,7 @@
 | [Hangar](https://open.spotify.com/track/1fkVOIKnMeR1NkBPnIfUQ8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Hangar](https://open.spotify.com/album/0vGLRqaVUnflzJS7yvXs0g) | 2:55 | 2022-01-27 | 2022-06-25 |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2021-04-02 | 2022-04-21 |
 | [Hard Times](https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 5:03 | 2022-05-25 | 2022-09-13 |
+| [Hard Times](https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:03 | 2022-11-11 |  |
 | [Hate Me!](https://open.spotify.com/track/6GyNzLfyPlqOanu8S31vaH) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Hate Me!](https://open.spotify.com/album/4gW6jGSRkv5NEg9JkqQMRW) | 2:34 | 2021-04-02 | 2022-05-24 |
 | [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 | 2022-07-15 |  |
 | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/track/3vgf7gtRKDFNqFRJm7nA0m) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/album/2tDuXTNCAmd5VQXh2Bi8Ry) | 2:47 | 2021-04-02 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 319034,
+  "num_followers": 319134,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGM4ZjgwYzdjY2M4NDk0NjAxODc5YWEyMmZjYmUwOWFm",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDIxOWYxNGY2NTJjOGYzYzM1NWM1NDVkYzVkM2RiMzU4",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Black Betty - Single",
+        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Horny",
         "url": "https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 210708,
       "name": "Horny - Electro Swing Version",
       "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Black Betty - Single",
-        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 189956,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -865,26 +865,6 @@
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Ponder (Betty Booom Remix)",
-        "url": "https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME"
-      },
-      "artists": [
-        {
-          "name": "Marina & The Kats",
-          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
-        },
-        {
-          "name": "Betty Booom",
-          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
-        }
-      ],
-      "duration_ms": 201900,
-      "name": "Ponder - Betty Booom Remix",
-      "url": "https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "What Lana Says",
@@ -919,6 +899,26 @@
       "duration_ms": 194741,
       "name": "Crazy Out There",
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Ponder (Betty Booom Remix)",
+        "url": "https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME"
+      },
+      "artists": [
+        {
+          "name": "Marina & The Kats",
+          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+        },
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        }
+      ],
+      "duration_ms": 201900,
+      "name": "Ponder - Betty Booom Remix",
+      "url": "https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Wake Up Romeo",
-        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        }
-      ],
-      "duration_ms": 207793,
-      "name": "Wake Up Romeo",
-      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Ladies Night",
         "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 202497,
       "name": "Perfect (Electro Swing Remix)",
       "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Wake Up Romeo",
+        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "duration_ms": 207793,
+      "name": "Wake Up Romeo",
+      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1019,6 +1019,46 @@
       "duration_ms": 202946,
       "name": "Hep Cat Boogie",
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ"
+      },
+      "artists": [
+        {
+          "name": "Klaypex",
+          "url": "https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK"
+        },
+        {
+          "name": "Virian",
+          "url": "https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "1941 (feat. Virian)",
+      "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Doorsteps",
+        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
+      },
+      "artists": [
+        {
+          "name": "Kormac",
+          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+        },
+        {
+          "name": "(feat. MC Little Tree)",
+          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
+        }
+      ],
+      "duration_ms": 328441,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1049,26 +1089,6 @@
       "url": "https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ"
-      },
-      "artists": [
-        {
-          "name": "Klaypex",
-          "url": "https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK"
-        },
-        {
-          "name": "Virian",
-          "url": "https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "1941 (feat. Virian)",
-      "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
-    },
-    {
       "added_at": "2022-11-07 16:43:23",
       "album": {
         "name": "Watch Your Tongue",
@@ -1087,26 +1107,6 @@
       "duration_ms": 178320,
       "name": "Watch Your Tongue",
       "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Doorsteps",
-        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
-      },
-      "artists": [
-        {
-          "name": "Kormac",
-          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
-        },
-        {
-          "name": "(feat. MC Little Tree)",
-          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
-        }
-      ],
-      "duration_ms": 328441,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
-    },
-    {
       "added_at": "2021-04-16 04:01:00",
       "album": {
         "name": "Don't Stop",
@@ -1247,6 +1231,22 @@
       "duration_ms": 182608,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2021-01-22 10:35:47",
@@ -1341,20 +1341,24 @@
       "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Dizzy Street",
-        "url": "https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP"
+        "name": "Bubbles",
+        "url": "https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405"
       },
       "artists": [
         {
-          "name": "The Swing Bot",
-          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Dizzy Street",
-      "url": "https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl"
+      "duration_ms": 242626,
+      "name": "Miss Her",
+      "url": "https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ"
     }
   ],
   "unique_name": "Electro Swing",

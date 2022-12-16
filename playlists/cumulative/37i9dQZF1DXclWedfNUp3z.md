@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-332 songs - 23 hr 2 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+334 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2021-10-20 |  |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2021-10-20 | 2022-04-25 |
 | [greenery](https://open.spotify.com/track/7o9CLXoW831csQxsnP4JkH) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:52 | 2021-10-20 | 2022-09-02 |
+| [Gyroscope](https://open.spotify.com/track/2dziNfL0S9awABp30vNN08) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP) | 3:07 | 2021-10-20 |  |
 | [Gyroscope](https://open.spotify.com/track/2pYTzXfDybwjnRu76Tin9N) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/3Xh7QzI0UPQx2GZJgSding) | 3:07 | 2021-10-20 | 2022-12-01 |
 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 | 2021-10-20 | 2022-07-29 |
 | [headache](https://open.spotify.com/track/10gRgHWz059OBF7xjihFzq) | [ilaywho](https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey) | [headache](https://open.spotify.com/album/7cPQClJ9zf05qEFdTAOxaU) | 1:57 | 2021-10-20 | 2022-04-20 |
@@ -171,7 +172,7 @@
 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 | 2021-12-07 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2021-11-12 |  |
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-20 | 2022-07-29 |
-| [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2021-10-20 |  |
+| [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2021-10-20 | 2022-12-16 |
 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 | 2022-03-30 | 2022-07-29 |
 | [Memories of Grass](https://open.spotify.com/track/3bbozj0fLmHcD8iXrqhcPL) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 4:16 | 2021-10-20 | 2022-06-05 |
 | [Mira Et Ten](https://open.spotify.com/track/3Hs7d8WFLxwZWVb7dzbDVC) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage](https://open.spotify.com/album/0hyEAwTWIDaseZAAi5t36x) | 0:44 | 2021-10-20 | 2022-07-20 |
@@ -186,6 +187,7 @@
 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 | 2022-01-07 |  |
 | [Nature Calling](https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 2:52 | 2021-10-20 |  |
 | [Nevada](https://open.spotify.com/track/3TGUXBzeUqekCLeAxOfzfr) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/5GZmKpx3tboxuJ1cfqYhQw) | 4:19 | 2022-06-30 | 2022-10-13 |
+| [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 | 2022-06-30 |  |
 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 | 2021-10-20 | 2022-07-29 |
 | [Night Sky](https://open.spotify.com/track/6JQNc3kdDUTuSN4QpN9llS) | [Highland Park Sleep Collective](https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp) | [Night Sky / Sheldon's Weight](https://open.spotify.com/album/5ulXP3zXjIZciwpN1JkxhU) | 3:13 | 2021-10-20 | 2022-05-19 |
 | [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2021-10-20 |  |
@@ -254,7 +256,7 @@
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2021-10-20 |  |
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-25 |  |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2021-12-01 | 2022-07-29 |
-| [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-20 |  |
+| [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-20 | 2022-12-16 |
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2021-10-20 | 2022-07-28 |
 | [Silver Secrets](https://open.spotify.com/track/2OV2BllliHblN27N5I31Hq) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr) | [Field Works: Ultrasonic](https://open.spotify.com/album/5pJLTSGYfTkCnXdcz9Dfyt) | 5:16 | 2021-10-20 | 2022-07-29 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-20 | 2022-07-28 |

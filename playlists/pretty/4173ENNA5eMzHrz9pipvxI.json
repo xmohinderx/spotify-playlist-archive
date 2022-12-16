@@ -1,15 +1,499 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ti\u00ebsto x Solardo",
-  "num_followers": 119568,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet x Tungevaag",
+  "num_followers": 119572,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjM0NyxiMDc0NTIzZWY2N2Q1OWU2MTQwNTU5M2IzNmJjNGIwZDkxZTQwZGRi",
+  "snapshot_id": "NjM1MixlMGE2ZTc0M2I2YjUzODVlZGZjOWMwNzdiNzQ1ZjliNWNmZTYwNmZi",
   "tracks": [
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "La Danse",
+        "url": "https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 248687,
+      "name": "La Danse",
+      "url": "https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Anywhere's Home (Klingande Remix)",
+        "url": "https://open.spotify.com/album/2d3t5k4axWfjZvyVtceCNx"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Anywhere's Home - Klingande Remix",
+      "url": "https://open.spotify.com/track/6wz9kiiKnPjRkwo11LpZ1J"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Assim",
+        "url": "https://open.spotify.com/album/7tMmHHhxEQ2XUhftmWyj71"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/6lsjRcH4aTU4otvziy3hJX"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/6llX0jALPogs989Pcyt7RP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/3pUliSgTWnfJnqHdjYGflL"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/4g4jrbnodImR4dcwN4yv9s"
+      },
+      "artists": [
+        {
+          "name": "ManyFew",
+          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
+        },
+        {
+          "name": "PBH & JACK",
+          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
+        }
+      ],
+      "duration_ms": 152640,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/6Dxvw735HPuIEHkmhc6r9M"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "JEEP (Phonkha Remix)",
+        "url": "https://open.spotify.com/album/3A8TRh9zT24NMyB0I5u6gf"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "Phonkha",
+          "url": "https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU"
+        }
+      ],
+      "duration_ms": 148955,
+      "name": "JEEP (Phonkha Remix)",
+      "url": "https://open.spotify.com/track/3mJVgs2w2Xw72VUvLbGEAc"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "OYNA EP",
+        "url": "https://open.spotify.com/album/5tIl1o99ppvL9fcYYyFqz0"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 235719,
+      "name": "Oyna",
+      "url": "https://open.spotify.com/track/2wskP9tkzqColihnztb1os"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Never Get Enough",
+        "url": "https://open.spotify.com/album/5579CU9riqKHYuDlC2cv1H"
+      },
+      "artists": [
+        {
+          "name": "Aurelios",
+          "url": "https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa"
+        },
+        {
+          "name": "Mahmoud",
+          "url": "https://open.spotify.com/artist/5IpsGG9ZMIKdUpiemtPJRW"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "Never Get Enough",
+      "url": "https://open.spotify.com/track/5Odwghtq7NisUYaerhjYvg"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Left & Right (BYOR Remix)",
+        "url": "https://open.spotify.com/album/4hAi4Tlk2KrSplJ37ISIDx"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Left & Right (BYOR Remix)",
+      "url": "https://open.spotify.com/track/0EWcOrTwNENx13HuPuFznq"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/1ihjgWKPIAUdfux52SEpld"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/4LoyuGoDxqkX31xsJQm7BF"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/3hmuaQHrZbsuXd6cEhlCks"
+      },
+      "artists": [
+        {
+          "name": "Nautik",
+          "url": "https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/1TXxy5fiycEyA7d7EdAbIW"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Bounce Around (feat. Paolo Pellegrino, Lotus, Shibui)",
+        "url": "https://open.spotify.com/album/2wSsw7Tk2tioTRf5BnQZj1"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "New World Sound",
+          "url": "https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        },
+        {
+          "name": "Paolo Pellegrino",
+          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Bounce Around (feat. Paolo Pellegrino, Lotus, Shibui)",
+      "url": "https://open.spotify.com/track/5xjKdP0kcZtL2AsCeCIgpb"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "My Satisfaction",
+        "url": "https://open.spotify.com/album/4ZnqM0n9DeQYRIkUIrr63z"
+      },
+      "artists": [
+        {
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "My Satisfaction",
+      "url": "https://open.spotify.com/track/6N8aYvqIUek43xj6ePTMQl"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Naked Emotion",
+        "url": "https://open.spotify.com/album/1UcStipUZPPilfquQiSfqV"
+      },
+      "artists": [
+        {
+          "name": "Tineway",
+          "url": "https://open.spotify.com/artist/06pAeCc5gtHxKRnRNPpso4"
+        },
+        {
+          "name": "RodMotter",
+          "url": "https://open.spotify.com/artist/3JMHJnRI58hJTfFDTa7Ab9"
+        },
+        {
+          "name": "Volyri",
+          "url": "https://open.spotify.com/artist/7j1fkOH24S29ajq83j0V3o"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Naked Emotion",
+      "url": "https://open.spotify.com/track/7dh9VlbEJ3c213Pg4fPXeQ"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/2m7AaVTdIJ1BeUqOPqwioG"
+      },
+      "artists": [
+        {
+          "name": "Galck",
+          "url": "https://open.spotify.com/artist/1DC2PWaBBPDboe4WJeh16b"
+        },
+        {
+          "name": "Gadas",
+          "url": "https://open.spotify.com/artist/1igeliqUAdo4t5j2fZLR9Z"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/2BKp505qgDaGvsPw8FLg5R"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0neiVw60MtddthPck3qR8e"
+      },
+      "artists": [
+        {
+          "name": "C\u00d8DE",
+          "url": "https://open.spotify.com/artist/7c5R9FOE8ceL55E6KUE1pj"
+        }
+      ],
+      "duration_ms": 221523,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/6n4bqdzflgkQqj2RwIaGIP"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Talk Talk",
+        "url": "https://open.spotify.com/album/4PSVtmEDxzjVs3BXqEJd86"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/4RQMCbKeR7VAJfDtoSRQlv"
+        }
+      ],
+      "duration_ms": 209631,
+      "name": "Talk Talk",
+      "url": "https://open.spotify.com/track/3sxlSXXCQIPITS8xJBqcSc"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/3MXymmqjjWTmwOjSLQaGiI"
+      },
+      "artists": [
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "G4BBA",
+          "url": "https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd"
+        },
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4E7QloZyOgGP35MIiogYj2"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/5zafuPP61O2PY36vnUsxpb"
+      },
+      "artists": [
+        {
+          "name": "B Martin",
+          "url": "https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD"
+        },
+        {
+          "name": "Tyson Bay",
+          "url": "https://open.spotify.com/artist/6OJA9oIAymjgTSxjKdT9He"
+        },
+        {
+          "name": "BassBears",
+          "url": "https://open.spotify.com/artist/3dNqN9ggP6hqIGoVCovVb3"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/04hlec8v9YCbdqwgQvVxGf"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Children Of The Resistance",
+        "url": "https://open.spotify.com/album/54Jnky4Rfl83BTAiDB5dwo"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "Suark",
+          "url": "https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD"
+        },
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/4JSChvgYDHRIC9CbaxReS9"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Children Of The Resistance",
+      "url": "https://open.spotify.com/track/0Iaan4z8XUttGENkEbmZFP"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Bounce That",
+        "url": "https://open.spotify.com/album/6MGJSvXeytc2IaNAZdcVZx"
+      },
+      "artists": [
+        {
+          "name": "GUI2IN",
+          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
+        },
+        {
+          "name": "Formalize",
+          "url": "https://open.spotify.com/artist/7K7dMPJRdhhSBMLgFV6ano"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Bounce That",
+      "url": "https://open.spotify.com/track/3cz3isVn5lwlp2FLpY15pJ"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Better (NOME. Remix)",
+        "url": "https://open.spotify.com/album/0PutZEJ2lnuSqY44H5tj1c"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        },
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Better - NOME. Remix",
+      "url": "https://open.spotify.com/track/6djAxx7QLbeo6rYspJMMGB"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Better (Thomas Nan Remix)",
+        "url": "https://open.spotify.com/album/0bjpwExXJogU8mWRlvyw8L"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        },
+        {
+          "name": "Thomas Nan",
+          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
+        }
+      ],
+      "duration_ms": 214911,
+      "name": "Better - Thomas Nan Remix",
+      "url": "https://open.spotify.com/track/0CnvGfoI06Ler4vjNbOX4d"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX"
@@ -33,7 +517,7 @@
       "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/3EPry0N4okmOA33vzttk8j"
@@ -53,7 +537,7 @@
       "url": "https://open.spotify.com/track/7sJdjALeEOXSIIvlMPdJAe"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "You're Makin Me High",
         "url": "https://open.spotify.com/album/1FbZJC14ukWYQcPGo6zggH"
@@ -69,27 +553,7 @@
       "url": "https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/0KMydElRr2Her3IGjGbNgF"
@@ -105,7 +569,7 @@
       "url": "https://open.spotify.com/track/4BIDAroSodUwRpmMfmN99K"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "Crypto",
         "url": "https://open.spotify.com/album/1JRt5rECmRSIkMABuHD2QX"
@@ -121,7 +585,7 @@
       "url": "https://open.spotify.com/track/5FiVO5lwVNHS344sMB4OsJ"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "Lapada",
         "url": "https://open.spotify.com/album/1owYIKoGsokA4W7N7jIAZA"
@@ -145,27 +609,7 @@
       "url": "https://open.spotify.com/track/4PpPUNBtlM8838tIgN2bRJ"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Shame (Voost Remix) [Single Edit]",
-        "url": "https://open.spotify.com/album/7auuCc6dgjq8dlQmzF30R8"
-      },
-      "artists": [
-        {
-          "name": "Mustii",
-          "url": "https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1"
-        },
-        {
-          "name": "Voost",
-          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
-        }
-      ],
-      "duration_ms": 155238,
-      "name": "Shame (Voost Remix) - Single Edit",
-      "url": "https://open.spotify.com/track/6PKt0YFeEHvz9mgTZaBsI8"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "So High (feat. Crooked Bangs)",
         "url": "https://open.spotify.com/album/37x16CdDA6LzyQxFIjjueZ"
@@ -189,7 +633,7 @@
       "url": "https://open.spotify.com/track/4FFXEF31Jq6VIyOZCFe6zE"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "Nitrous (Sped Up Version)",
         "url": "https://open.spotify.com/album/0mfLAdOjFHndBYIqjdyMqf"
@@ -205,7 +649,23 @@
       "url": "https://open.spotify.com/track/1D63zvpwJg1AQkNoQszZHL"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Nitrous (Slowed Version)",
+        "url": "https://open.spotify.com/album/2eQuBNOQQXrcBWlOY0QFAx"
+      },
+      "artists": [
+        {
+          "name": "Razihel",
+          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Nitrous - Slowed Version",
+      "url": "https://open.spotify.com/track/50Vn2tGbytupI3M2M76RL8"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "Aqu\u00ed",
         "url": "https://open.spotify.com/album/6ap5fnMGOUCNLbgXAEg2JX"
@@ -221,7 +681,7 @@
       "url": "https://open.spotify.com/track/4VkLkS6EHULiBDnrD0fAXN"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "Xanadu (Lizzy Wang Remix)",
         "url": "https://open.spotify.com/album/31WmuJsHgNxislVF0v4ZCJ"
@@ -241,7 +701,7 @@
       "url": "https://open.spotify.com/track/4iOont4lQXZEE9GqlBGpER"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "Divide Us (feat. Overhowl)",
         "url": "https://open.spotify.com/album/1DVsZGYMEZs2Jwd8tGJ908"
@@ -265,296 +725,24 @@
       "url": "https://open.spotify.com/track/0DFg4qDEzyJ9kZkGwnx3jB"
     },
     {
-      "added_at": "2022-12-08 23:56:14",
+      "added_at": "2022-12-15 23:56:27",
       "album": {
-        "name": "Get With Nobody (feat. Baimz)",
-        "url": "https://open.spotify.com/album/5maWcarbPD7B93zV5o6DCr"
+        "name": "Shame (Voost Remix) [Single Edit]",
+        "url": "https://open.spotify.com/album/7auuCc6dgjq8dlQmzF30R8"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+          "name": "Mustii",
+          "url": "https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1"
         },
         {
-          "name": "Baimz",
-          "url": "https://open.spotify.com/artist/5Hg39B4SZlegOjpTNzaclT"
+          "name": "Voost",
+          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
         }
       ],
-      "duration_ms": 199200,
-      "name": "Get With Nobody (feat. Baimz)",
-      "url": "https://open.spotify.com/track/0gqKw1OIuiSC9Ad6QVWXAK"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "MAS GASOLINA (feat. N.F.I) [Raffa FL Remix]",
-        "url": "https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
-        },
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        },
-        {
-          "name": "N.F.I",
-          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
-        }
-      ],
-      "duration_ms": 195838,
-      "name": "MAS GASOLINA (feat. N.F.I) - Raffa FL Remix",
-      "url": "https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "One Life (Festival Mix)",
-        "url": "https://open.spotify.com/album/6YnX8UuHdW8sph8ZHUYE45"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "sonofsteve",
-          "url": "https://open.spotify.com/artist/199v8qPhMq3MGLfKsOgD2v"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "One Life (Festival Mix)",
-      "url": "https://open.spotify.com/track/2MNtObv5bxyUprOKewE28m"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Nitrous (Slowed Version)",
-        "url": "https://open.spotify.com/album/2eQuBNOQQXrcBWlOY0QFAx"
-      },
-      "artists": [
-        {
-          "name": "Razihel",
-          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Nitrous - Slowed Version",
-      "url": "https://open.spotify.com/track/50Vn2tGbytupI3M2M76RL8"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Free Candy (feat. DAIJAH)",
-        "url": "https://open.spotify.com/album/7iGtZMDewOyUjIFqIRCIdO"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "GIANT",
-          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
-        },
-        {
-          "name": "DAIJAH",
-          "url": "https://open.spotify.com/artist/1slMspXp4UdnAyQbkbgJJ9"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "Free Candy (feat. DAIJAH)",
-      "url": "https://open.spotify.com/track/2QaCYdtF5UyHKuPAKqdfx1"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Feel The Same (feat. Jordan Grace) [Alternative Mix]",
-        "url": "https://open.spotify.com/album/7tkNLSMNXlZltonTfxupeP"
-      },
-      "artists": [
-        {
-          "name": "Futuristic Polar Bears",
-          "url": "https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7"
-        },
-        {
-          "name": "Thomas Feelman",
-          "url": "https://open.spotify.com/artist/00OdRvY0b7tA8W84KSeTL2"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Feel The Same (feat. Jordan Grace) - Alternative Mix",
-      "url": "https://open.spotify.com/track/7oIRkPpm2PwTniDA85qOky"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Only You (feat. Tyoz)",
-        "url": "https://open.spotify.com/album/4GKlMWJqJ85MsKmeg3qfop"
-      },
-      "artists": [
-        {
-          "name": "Liam Cole",
-          "url": "https://open.spotify.com/artist/1s24mDwm1EP4p1fo25dQgy"
-        },
-        {
-          "name": "Bryan V",
-          "url": "https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE"
-        },
-        {
-          "name": "Tyoz",
-          "url": "https://open.spotify.com/artist/5KR5DO4Ezn0QPcM5N9Ioms"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Only You (feat. Tyoz)",
-      "url": "https://open.spotify.com/track/6RgCQPgqLDvHoDPJUsuZlo"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/2f6n9I791k0vvTg1iLVCT1"
-      },
-      "artists": [
-        {
-          "name": "DRAY",
-          "url": "https://open.spotify.com/artist/2kSdRzYPQR1kjM9jkWsS5M"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1h1tLzLk7yBM1n9p93XzQV"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "The Funky Beat",
-        "url": "https://open.spotify.com/album/5Lf8Ll5FO250z2yfwL0M5U"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        }
-      ],
-      "duration_ms": 140606,
-      "name": "The Funky Beat",
-      "url": "https://open.spotify.com/track/51fTFfFagxRASIcULWFKqG"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Juggler",
-        "url": "https://open.spotify.com/album/3HCsj9ZsoPeAnKryTBkyrF"
-      },
-      "artists": [
-        {
-          "name": "Pule",
-          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
-        },
-        {
-          "name": "B3nte",
-          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
-        },
-        {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
-        }
-      ],
-      "duration_ms": 128100,
-      "name": "Juggler",
-      "url": "https://open.spotify.com/track/63qnUzB4dhAQD46yAOM817"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "DM ME",
-        "url": "https://open.spotify.com/album/3t0XeuHfiDfeRJD0enq96J"
-      },
-      "artists": [
-        {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        }
-      ],
-      "duration_ms": 183688,
-      "name": "DM ME",
-      "url": "https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Xanadu (feat. Ummet Ozcan) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/1a8NbKs4rI5YSTjune9FgP"
-      },
-      "artists": [
-        {
-          "name": "Nightcore Sped Up Tunes",
-          "url": "https://open.spotify.com/artist/2ts13g0k5xRvkUV4yGvXYF"
-        },
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 183905,
-      "name": "Xanadu (feat. Ummet Ozcan) - Sped Up Version",
-      "url": "https://open.spotify.com/track/4xoD3ST2YmUDqJAY8wvS5d"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Overload",
-        "url": "https://open.spotify.com/album/2pMfkhLuAHNl2arl69LiGp"
-      },
-      "artists": [
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        },
-        {
-          "name": "Mert Can",
-          "url": "https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q"
-        },
-        {
-          "name": "Garonzos",
-          "url": "https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Overload",
-      "url": "https://open.spotify.com/track/7eK8NnAGrCjNA76waOYENT"
-    },
-    {
-      "added_at": "2022-12-08 23:56:14",
-      "album": {
-        "name": "Xanadu (feat. Ummet Ozcan) [Slowed Version]",
-        "url": "https://open.spotify.com/album/0xYCnd6R5rjSv2nDnHsQHO"
-      },
-      "artists": [
-        {
-          "name": "Nightcore Slowed Down Tunes",
-          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
-        },
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 275547,
-      "name": "Xanadu (feat. Ummet Ozcan) - Slowed Version",
-      "url": "https://open.spotify.com/track/0XoTiU0a4wwvM5Wn1PZN9L"
+      "duration_ms": 155238,
+      "name": "Shame (Voost Remix) - Single Edit",
+      "url": "https://open.spotify.com/track/6PKt0YFeEHvz9mgTZaBsI8"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

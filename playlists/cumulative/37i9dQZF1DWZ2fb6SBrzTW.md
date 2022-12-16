@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-187 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+188 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2022-10-25 |
 | [GIMME DAT](https://open.spotify.com/track/0kQ6Tfr6cusaFTrFRM2sGU) | [Slizzy E](https://open.spotify.com/artist/1IGMSxmw8cDdp1tTOmABLA), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [GIMME DAT](https://open.spotify.com/album/6pp3as7e8WOdjYCxLPgIyd) | 2:50 | 2022-07-22 | 2022-07-26 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 |  |
-| [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 |  |
+| [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 | 2022-12-16 |
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 |  |
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-07 | 2022-12-03 |
 | [Hasta Luego](https://open.spotify.com/track/07a8iJ1nKPQYVAYWbTBAMu) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [BuMan](https://open.spotify.com/artist/3Y72vFwgOXdJCiJfGD5rSn), [Boye 'The Genius'](https://open.spotify.com/artist/1gnXGsyZpqJahesflvZkfy) | [Hasta Luego](https://open.spotify.com/album/0EAAPEajgMXR0LpK9k3jeu) | 2:44 | 2022-06-03 | 2022-07-26 |
@@ -158,6 +158,7 @@
 | [Scatta Scatta](https://open.spotify.com/track/0n3APmjHt7yTBeHhRB8rcy) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Scatta Scatta](https://open.spotify.com/album/5YnANprNm0DTEVVsJE6bRP) | 3:15 | 2022-10-21 |  |
 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 | 2021-06-07 |  |
 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 | 2022-10-13 | 2022-11-19 |
+| [See Something](https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [See Something](https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K) | 2:37 | 2022-12-08 |  |
 | [Selah](https://open.spotify.com/track/40AlCv3FTScAtM6zfJnXaG) | [BADMAN Q](https://open.spotify.com/artist/3xP7xSbwu37X00mZSWfYq3) | [Selah](https://open.spotify.com/album/0cRDnx8pe3FDiGI9pEHpLP) | 2:41 | 2022-07-07 | 2022-08-22 |
 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f) | 5:31 | 2022-09-19 | 2022-09-24 |
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-23 | 2022-12-14 |

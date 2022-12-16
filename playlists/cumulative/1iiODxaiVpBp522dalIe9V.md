@@ -4,7 +4,7 @@
 
 > Hip hop heat from the Lone Star State for when you're feeling unstoppable.
 
-187 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
+188 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [5 Years](https://open.spotify.com/track/55JPb1FVudHjZnFTvB8LPG) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [5 Years](https://open.spotify.com/album/7gFrVtLi2Oy0EMYaHtNDQM) | 2:47 | 2022-07-01 | 2022-09-02 |
 | [A Minute](https://open.spotify.com/track/65QP6BxJUloDtGlQ9VHsxV) | [Voochie P](https://open.spotify.com/artist/4XxIlRzfz6UtWj0uYTlEy3) | [A Minute](https://open.spotify.com/album/01uOXgxXDmQWLH5YEONuIx) | 2:48 | 2022-10-13 | 2022-12-02 |
 | [Alaska](https://open.spotify.com/track/6JayjDlHxTSdVj9g85LA1s) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Alaska](https://open.spotify.com/album/0gwN64t5aeuOQwj2o5juHM) | 2:45 | 2022-09-01 | 2022-11-02 |
+| [Andale](https://open.spotify.com/track/0FIUx14haK5nYVm6FDV4hi) | [Woine](https://open.spotify.com/artist/4Kh6WXjCUHN6ueN5iJCEtQ) | [Andale](https://open.spotify.com/album/2MLBGRj7TQRkCNqmySasMc) | 2:59 | 2022-12-15 |  |
 | [ARP](https://open.spotify.com/track/0Fy9R6vmNVvQ7tNnPwnAUw) | [TrapboyDre10k](https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Straight Crack](https://open.spotify.com/album/4XbJKPVbGX1WLx7EgzjCfp) | 2:58 | 2022-09-09 |  |
 | [ARP](https://open.spotify.com/track/7D2008TPKN4gJGGYfmvTut) | [TrapboyDre10k](https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [ARP](https://open.spotify.com/album/7pzvutWtGnyQFEXHM1xfSi) | 2:58 | 2022-09-01 | 2022-09-10 |
 | [Back 2 Back](https://open.spotify.com/track/556IoxqUDfAqrqYxVN6j7G) | [TrapboyDre10k](https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9), [GGO Kurt](https://open.spotify.com/artist/0vz5Vjiz8a9dq9PEBACdRG) | [Texas Most Wanted](https://open.spotify.com/album/73vl4508ybRcsAB9iFw8QT) | 2:15 | 2022-08-02 | 2022-09-02 |

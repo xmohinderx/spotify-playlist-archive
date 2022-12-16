@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Agatha Pricilla, Mondo Gascaro (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: moon tang (Hong Kong)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "(stay here) for a while",
+        "url": "https://open.spotify.com/album/2lagvaT1M17CnirnR8OAjS"
+      },
+      "artists": [
+        {
+          "name": "eleventwelfth",
+          "url": "https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "(stay here) for a while",
+      "url": "https://open.spotify.com/track/7ITUmCohDlD7B1aNnQUuc5"
+    },
     {
       "album": {
         "name": "13: 4",
@@ -67,7 +85,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 254609,
       "name": "247",
       "url": "https://open.spotify.com/track/5MvZpSUkVwtWScGm5uJAGA"
@@ -103,7 +121,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 204746,
       "name": "A Dream of Wings",
       "url": "https://open.spotify.com/track/4WOSqKjvEJfkzM7I2UfVMV"
@@ -186,6 +204,24 @@
     },
     {
       "album": {
+        "name": "A Place to Belong",
+        "url": "https://open.spotify.com/album/14EI3GUx9auJPVLWh612jE"
+      },
+      "artists": [
+        {
+          "name": "Rifan Kalbuadi",
+          "url": "https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238914,
+      "name": "A Place to Belong",
+      "url": "https://open.spotify.com/track/4lun8QvR4sKXK1undQgIr7"
+    },
+    {
+      "album": {
         "name": "The Boy from Haeundae Beach",
         "url": "https://open.spotify.com/album/4xcpRLcCpNEcAzPyR5GIHO"
       },
@@ -251,7 +287,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 183273,
       "name": "Air Guitar",
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
@@ -460,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/0WIU7w0fq1XlGt0NaYob4B"
+      },
+      "artists": [
+        {
+          "name": "Puff Punch",
+          "url": "https://open.spotify.com/artist/0ZF8FUprTy8x4eAJO8Jtyx"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100489,
+      "name": "At The End of You and I",
+      "url": "https://open.spotify.com/track/0jpRUQgbwOwRYxKQSOLhHE"
+    },
+    {
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/5zIoUBN2Z6HRWqgWyPfpbu"
       },
@@ -605,6 +659,24 @@
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+    },
+    {
+      "album": {
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173631,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
     },
     {
       "album": {
@@ -904,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Hotel Insomnia",
+        "url": "https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh"
+      },
+      "artists": [
+        {
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134626,
+      "name": "Bleachers",
+      "url": "https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/1d6GzjBWh3vRP4P9iqRqvw"
       },
@@ -1183,7 +1273,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 209810,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7AeIOIhnyL3jF9OSDDHqaD"
@@ -1219,7 +1309,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 249041,
       "name": "Calendar",
       "url": "https://open.spotify.com/track/0MlK6FlikM8jgArfXluhSG"
@@ -2618,6 +2708,28 @@
     },
     {
       "album": {
+        "name": "Feel This Love",
+        "url": "https://open.spotify.com/album/5g8ZhcJuUMnobkn9weEhan"
+      },
+      "artists": [
+        {
+          "name": "KIKO/O",
+          "url": "https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm"
+        },
+        {
+          "name": "Atlesta",
+          "url": "https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212116,
+      "name": "Feel This Love",
+      "url": "https://open.spotify.com/track/3JKllHjbLp56oRExQRnbAr"
+    },
+    {
+      "album": {
         "name": "Feeling Free",
         "url": "https://open.spotify.com/album/5uchrvieuhlfxfrhDwFPtt"
       },
@@ -2839,7 +2951,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 146090,
       "name": "FRAME ME",
       "url": "https://open.spotify.com/track/5e0m1h7LM0VHIS6hERZ1oi"
@@ -2953,7 +3065,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 185000,
       "name": "ghost everyday",
       "url": "https://open.spotify.com/track/0oHlUYSlYtaYDT3JihDBdp"
@@ -3592,6 +3704,24 @@
     },
     {
       "album": {
+        "name": "I Hope You Die",
+        "url": "https://open.spotify.com/album/0VMubKy7eSXdE0hm7hIMQg"
+      },
+      "artists": [
+        {
+          "name": "Goodmorning Pancake",
+          "url": "https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "I Hope You Die",
+      "url": "https://open.spotify.com/track/3APupcckOdS9qT1AKvghU3"
+    },
+    {
+      "album": {
         "name": "I Like Me Better Now",
         "url": "https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR"
       },
@@ -3906,6 +4036,28 @@
     },
     {
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/7hauZJUoi314kbFesqZ5Jt"
+      },
+      "artists": [
+        {
+          "name": "Kim Sookhyung",
+          "url": "https://open.spotify.com/artist/5Yjiiksbgd959gXHO7H7in"
+        },
+        {
+          "name": "sucozy",
+          "url": "https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188617,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/6I1VYleHY5n6RJujfFvj33"
+    },
+    {
+      "album": {
         "name": "Icarus (See You Well)",
         "url": "https://open.spotify.com/album/7sfECZh0WkGzkPNYmwxAHr"
       },
@@ -3921,6 +4073,24 @@
       "duration_ms": 198000,
       "name": "Icarus (See You Well)",
       "url": "https://open.spotify.com/track/6uwcuemnRVDb8drtoTNFm4"
+    },
+    {
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/3v1UEzXlDSSkrcqSAd6GiI"
+      },
+      "artists": [
+        {
+          "name": "yahyel",
+          "url": "https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281458,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/6TDSXejROuhYHBthOKllOH"
     },
     {
       "album": {
@@ -4493,7 +4663,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 290094,
       "name": "Less Afraid",
       "url": "https://open.spotify.com/track/3aggFkF8DB0OOEhd2DbIXj"
@@ -4509,8 +4679,8 @@
           "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
         },
         {
-          "name": "\u95a2\u53e3\u30b7\u30f3\u30b4",
-          "url": "https://open.spotify.com/artist/3fKuiwNIx4A4ljcpAUKHIz"
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
         }
       ],
       "date_added": "2022-12-08",
@@ -5091,7 +5261,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 203017,
       "name": "Mind Reader",
       "url": "https://open.spotify.com/track/1rh0jt0HZt0Jep4mSpLYuU"
@@ -5847,7 +6017,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 297754,
       "name": "Only Lovers Left Alive",
       "url": "https://open.spotify.com/track/3eAsfCR75Kh7zwpf9IkvKp"
@@ -6739,7 +6909,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 278560,
       "name": "Season of the Shark",
       "url": "https://open.spotify.com/track/0xSn8K45u9yOIDZysjwz20"
@@ -6883,7 +7053,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 246340,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/6KGmzZpYHiCw2tFQOybmiw"
@@ -7393,6 +7563,24 @@
       "duration_ms": 198974,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/1uXIv0FXJmCuysG20r79Tb"
+    },
+    {
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/0WIU7w0fq1XlGt0NaYob4B"
+      },
+      "artists": [
+        {
+          "name": "Milledenials",
+          "url": "https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Summer's Not Arrived",
+      "url": "https://open.spotify.com/track/6vhCWtwqEddPTXs58QWZKZ"
     },
     {
       "album": {
@@ -9026,6 +9214,28 @@
     },
     {
       "album": {
+        "name": "\u0110\u1eafm Say V\u00ec Em",
+        "url": "https://open.spotify.com/album/5li31XRDU3CX8MOCdtb1sQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea V\u0169",
+          "url": "https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ"
+        },
+        {
+          "name": "Blue T",
+          "url": "https://open.spotify.com/artist/7tV3i4vr53vtH5ND4mvhVq"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170505,
+      "name": "\u0110\u1eafm Say V\u00ec Em",
+      "url": "https://open.spotify.com/track/0RvPBOC0hAyU3zCHwMGOsK"
+    },
+    {
+      "album": {
         "name": "\u0391\u03c6\u03c1\u03bf\u03b4\u03af\u03c4\u03b7",
         "url": "https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW"
       },
@@ -9207,6 +9417,24 @@
       "duration_ms": 220000,
       "name": "\u0e27\u0e34\u0e40\u0e28\u0e29 (Magic)",
       "url": "https://open.spotify.com/track/2Z9U0wFqsxoALv3qtJKlwH"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e21\u0e27\u0e01\u0e40\u0e21\u0e06\u0e2a\u0e35\u0e23\u0e38\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/2eVTP95ZWjjfhrZVSCRFPR"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258310,
+      "name": "\u0e2b\u0e21\u0e27\u0e01\u0e40\u0e21\u0e06\u0e2a\u0e35\u0e23\u0e38\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/1UiKO2k32EW98QiHwFoXKA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: KYE
 
-313 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+315 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [It's a Lot](https://open.spotify.com/track/4S548hdBDpaVE87HXwGT2a) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [It's a Lot](https://open.spotify.com/album/6HajKAvn7DGmBdXaZUrxbf) | 3:54 | 2022-04-05 |  |
 | [it's not how it used to be](https://open.spotify.com/track/48r0FCzpeVpFP4KMW7G8CI) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [it's not how it used to be](https://open.spotify.com/album/2aU13brsy2XVN8YKlrgrLn) | 3:27 | 2022-05-27 | 2022-09-06 |
 | [it's not that bad](https://open.spotify.com/track/6iUsnQ0gqehflExGxmICBG) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [It's Not That Bad](https://open.spotify.com/album/0aSAgvZV6LfEf9KVfcLXz8) | 2:40 | 2022-02-03 | 2022-05-28 |
-| [i’ll keep driving](https://open.spotify.com/track/0uAIXiN02cqw8d8hfMBLs7) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [i'll keep driving](https://open.spotify.com/album/16s2651Ph5QNkSnn6jGbGP) | 3:42 | 2022-10-02 |  |
+| [i’ll keep driving](https://open.spotify.com/track/0uAIXiN02cqw8d8hfMBLs7) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [i'll keep driving](https://open.spotify.com/album/16s2651Ph5QNkSnn6jGbGP) | 3:42 | 2022-10-02 | 2022-12-16 |
+| [i’ll keep driving](https://open.spotify.com/track/3paQIuYfSrEcYUNGZTw3Es) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [ten feet tall](https://open.spotify.com/album/6TETMIrJLfXnQQWSpavE5r) | 3:42 | 2022-11-30 |  |
 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 | 2022-07-03 |  |
 | [jogging shoes \(the rerun\)](https://open.spotify.com/track/6KYtvThqwrfdBwcAgkqI0L) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m), [Evan Klar](https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2), [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [jogging shoes \(the rerun\)](https://open.spotify.com/album/3VYQtVAuey3t9ZmItr5VX0) | 3:31 | 2022-02-03 | 2022-04-15 |
 | [Just My Luck](https://open.spotify.com/track/2U5HhMnvgVUqXmKgW9aXCN) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Just My Luck](https://open.spotify.com/album/7muFdBPeOCflCwOI8mcXxl) | 2:23 | 2022-02-03 | 2022-03-07 |
@@ -204,7 +205,8 @@
 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 | 2022-07-03 |  |
 | [Never Get To Fuck Any1](https://open.spotify.com/track/1PPJitPB8C3JWJouTgYrwB) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Never Get To Fuck Any1](https://open.spotify.com/album/32Dk2xAvKOt7eSFvPTQX0x) | 2:24 | 2022-02-03 | 2022-03-07 |
 | [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 | 2022-04-05 | 2022-05-03 |
-| [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 | 2022-05-02 |  |
+| [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 | 2022-05-02 | 2022-12-16 |
+| [next life](https://open.spotify.com/track/5poPzk8gK11QCegSKXGJbU) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [ten feet tall](https://open.spotify.com/album/6TETMIrJLfXnQQWSpavE5r) | 3:01 | 2022-11-30 |  |
 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 | 2022-02-03 | 2022-05-28 |
 | [No One Else](https://open.spotify.com/track/5reK4IbQK4Sk9QbH8rTsAm) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [No One Else](https://open.spotify.com/album/32jVR4jOs3EgWbBLy5ouhP) | 2:45 | 2022-04-05 | 2022-05-28 |
 | [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-04-05 | 2022-10-29 |

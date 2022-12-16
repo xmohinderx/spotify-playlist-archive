@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Mafro
 
-408 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+409 songs - 1 day 0 hr 46 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [Together \(feat\. Queen Rose\)](https://open.spotify.com/track/5tbKjkHYB93WVpFDt5dqSV) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Queen Rose](https://open.spotify.com/artist/4ffLGz2xBwZ8DELkCT0T4h) | [Together \(feat\. Queen Rose\)](https://open.spotify.com/album/0ia7cq8ciRruXW7meKRkKn) | 2:58 | 2022-08-05 | 2022-09-23 |
 | [Tom Tune](https://open.spotify.com/track/4K7597R5TJY28eIzoepPKo) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Tom Tune](https://open.spotify.com/album/4aodqYsMI5eX2BcI4DhAol) | 4:00 | 2022-09-30 |  |
 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 | 2022-06-23 | 2022-10-08 |
-| [Touch \(feat\. Aya Anne\)](https://open.spotify.com/track/5frQcTCB9a6r2mcH8n8txV) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [Touch \(feat\. Aya Anne\)](https://open.spotify.com/album/4ZXAT1LN2JcC8jCbafxhju) | 2:40 | 2022-11-04 |  |
+| [Touch \(feat\. Aya Anne\)](https://open.spotify.com/track/5frQcTCB9a6r2mcH8n8txV) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [Touch \(feat\. Aya Anne\)](https://open.spotify.com/album/4ZXAT1LN2JcC8jCbafxhju) | 2:40 | 2022-11-04 | 2022-12-16 |
+| [Touch \(feat\. Aya Anne\)](https://open.spotify.com/track/6yRept26q98OLhSxaarGRl) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [Touch \(feat\. Aya Anne\)](https://open.spotify.com/album/05vnrFvxFXxhijCrH7ow0F) | 2:40 | 2022-12-02 |  |
 | [TRIBAL SPACEMAN](https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TRIBAL SPACEMAN](https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x) | 3:56 | 2022-12-02 |  |
 | [Tricky \(feat\. Autumn Rowe\)](https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Tricky \(feat\. Autumn Rowe\)](https://open.spotify.com/album/4AeKrfj4BNOyu4SvIjrdb3) | 2:47 | 2022-01-07 | 2022-04-15 |
 | [Trigger Technology](https://open.spotify.com/track/29e8sjYkArwTiNxKNEgvpX) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Trigger Technology](https://open.spotify.com/album/61Hv14MDmklquNTnwh55wo) | 3:34 | 2022-04-15 | 2022-08-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Discover the newest Hardstyle tracks. Cover: AXMO x DJ Junior",
+  "description": "Discover the newest Hardstyle tracks. Cover: Sickmode & Rooler",
   "name": "Hardstyle Adrenaline!",
   "published_playlist_ids": [],
   "tracks": [
@@ -87,7 +87,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 127500,
       "name": "Back To The Future",
       "url": "https://open.spotify.com/track/5WfVfDShBhl9DLUbrVgvDe"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 220800,
       "name": "Belong",
       "url": "https://open.spotify.com/track/323d3O5e15GaC8so3eN1wo"
@@ -210,6 +210,28 @@
     },
     {
       "album": {
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Castle In The Sky",
+      "url": "https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u"
       },
@@ -269,7 +291,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 187000,
       "name": "Creep - Hardstyle Remix",
       "url": "https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz"
@@ -313,6 +335,36 @@
       "duration_ms": 235200,
       "name": "Dare To Dream",
       "url": "https://open.spotify.com/track/2TG37Sp71ddpZ13L3eooi3"
+    },
+    {
+      "album": {
+        "name": "Darkside",
+        "url": "https://open.spotify.com/album/4488v5b9SKQz5NF4fxteZ6"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Ncrypta",
+          "url": "https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6"
+        },
+        {
+          "name": "GLDY LX",
+          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
+        },
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/6Fzn8WOBnpiPnNxjP9Ghew"
     },
     {
       "album": {
@@ -601,7 +653,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 214583,
       "name": "Glitchfest",
       "url": "https://open.spotify.com/track/520lQH0OKISQm982IiHZ15"
@@ -711,7 +763,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 144074,
       "name": "Hokus Pokus",
       "url": "https://open.spotify.com/track/6woDN8I4V0YwARk1lzm9G5"
@@ -929,10 +981,32 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 203802,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv"
+    },
+    {
+      "album": {
+        "name": "La Danse",
+        "url": "https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248687,
+      "name": "La Danse",
+      "url": "https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi"
     },
     {
       "album": {
@@ -955,7 +1029,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 266668,
       "name": "Lambada (Your Love)",
       "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
@@ -1025,7 +1099,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 170374,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/6e7FmgZJ9TMRZObKBC9kbl"
@@ -1087,6 +1161,24 @@
       "duration_ms": 212129,
       "name": "Living My Dream",
       "url": "https://open.spotify.com/track/3OyswLwDhSbU6HZjzHAHZG"
+    },
+    {
+      "album": {
+        "name": "Lock And Load",
+        "url": "https://open.spotify.com/album/4DYk7asrtEb9W0CAQl1jDA"
+      },
+      "artists": [
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237769,
+      "name": "Lock And Load",
+      "url": "https://open.spotify.com/track/2wQUSMZ9JFVF5pd48rMcCU"
     },
     {
       "album": {
@@ -1175,6 +1267,28 @@
       "duration_ms": 189868,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
+    },
+    {
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0"
+      },
+      "artists": [
+        {
+          "name": "Vaskan",
+          "url": "https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn"
+        },
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148483,
+      "name": "Mariachi",
+      "url": "https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd"
     },
     {
       "album": {
@@ -1316,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "An Ember Dawn",
+        "url": "https://open.spotify.com/album/0voPYgpdWQGI0zXqATIuQf"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207962,
+      "name": "One Man Army",
+      "url": "https://open.spotify.com/track/39N0efBgZnV3wpAfHGTqTW"
+    },
+    {
+      "album": {
         "name": "Open Up Your Heart",
         "url": "https://open.spotify.com/album/2HIciu2sc1pzveLUV6x3wu"
       },
@@ -1397,7 +1529,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 164000,
       "name": "Rainbow In The Sky",
       "url": "https://open.spotify.com/track/0clMW4mz5QaPXURDwkmKJA"
@@ -1415,7 +1547,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 157025,
       "name": "Rave Machine",
       "url": "https://open.spotify.com/track/3eEakFKryuNSeh693v9e6y"
@@ -1470,6 +1602,28 @@
     },
     {
       "album": {
+        "name": "Reversed Reality",
+        "url": "https://open.spotify.com/album/6TKUj9CHj8XJpBwncU0NgL"
+      },
+      "artists": [
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162725,
+      "name": "Reversed Reality",
+      "url": "https://open.spotify.com/track/1KZ6aenxv7P5BKtVu2PMkg"
+    },
+    {
+      "album": {
         "name": "Rock Tha Party",
         "url": "https://open.spotify.com/album/7dBMFgErPgPAd1PNTo57Is"
       },
@@ -1503,7 +1657,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 160472,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5"
@@ -1740,6 +1894,54 @@
     },
     {
       "album": {
+        "name": "The Game (Dr. Rude & Lunaticz Remix)",
+        "url": "https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG"
+      },
+      "artists": [
+        {
+          "name": "DJ Galaga",
+          "url": "https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Lunaticz",
+          "url": "https://open.spotify.com/artist/4bsUfMLOoqUmRHf4qbOTIn"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "The Game - Dr. Rude & Lunaticz Remix",
+      "url": "https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj"
+    },
+    {
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/5W0YEEjbkI0wtaomfHtCWJ"
+      },
+      "artists": [
+        {
+          "name": "Bassbrain",
+          "url": "https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T"
+        },
+        {
+          "name": "Chaotic",
+          "url": "https://open.spotify.com/artist/4htCaAxQ1xEXmfktnVbLfc"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/39e20oP8OPOvU5c9vpHgDH"
+    },
+    {
+      "album": {
         "name": "The House Of Love",
         "url": "https://open.spotify.com/album/4S9I9uQOKVc5DCeWVxQrNl"
       },
@@ -1777,7 +1979,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 272594,
       "name": "The Limelight",
       "url": "https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY"
@@ -1909,7 +2111,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 249406,
       "name": "Thundercloud (Not Alone)",
       "url": "https://open.spotify.com/track/5ESMY4YltkVVt6fgCPNOPn"
@@ -2088,6 +2290,50 @@
     },
     {
       "album": {
+        "name": "Unleash The Night",
+        "url": "https://open.spotify.com/album/01MH52rFgMfh5eTPi8PBuT"
+      },
+      "artists": [
+        {
+          "name": "Deluzion",
+          "url": "https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202124,
+      "name": "Unleash The Night",
+      "url": "https://open.spotify.com/track/53KVgenTd2gRIS6cAkYXaL"
+    },
+    {
+      "album": {
+        "name": "Unsung Heroes",
+        "url": "https://open.spotify.com/album/6aPa1pPSSyO6ZBUQenvJPJ"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Unsung Heroes",
+      "url": "https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ"
+    },
+    {
+      "album": {
         "name": "Until the Day I Die",
         "url": "https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV"
       },
@@ -2107,10 +2353,32 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 191455,
       "name": "Until the Day I Die",
       "url": "https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/41VDmOZ7d9rl3dfhYeqqEH"
+      },
+      "artists": [
+        {
+          "name": "Cyndi",
+          "url": "https://open.spotify.com/artist/6RlZmSFhYofrR4jSHcWubp"
+        },
+        {
+          "name": "Dirty Workz",
+          "url": "https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206903,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1PQI8kFnJDtth36Jb1Osf5"
     },
     {
       "album": {

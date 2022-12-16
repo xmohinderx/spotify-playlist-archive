@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 33304,
+  "num_followers": 33411,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwOTA4MiwwMDAwMDAwMGU5NmE3ZGNkODFiZThmMzRiMTg3YzJiZWRiMDA0Nzlh",
+  "snapshot_id": "MTY3MDAwOTA4MiwwMDAwMDAwMDI1MjhiNThjZDQyZTQ4Njk5YTM3N2I5OTc3YjIzZjYz",
   "tracks": [
     {
       "added_at": "2022-12-02 19:24:42",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-12-02 19:24:42",
       "album": {
+        "name": "Make You Scream",
+        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "duration_ms": 163909,
+      "name": "Make You Scream",
+      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
+    },
+    {
+      "added_at": "2022-12-02 19:24:42",
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2022-12-02 19:24:42",
       "album": {
-        "name": "Make You Scream",
-        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
-      },
-      "artists": [
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        }
-      ],
-      "duration_ms": 163909,
-      "name": "Make You Scream",
-      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
-    },
-    {
-      "added_at": "2022-12-02 19:24:42",
-      "album": {
         "name": "333 (Deluxe)",
         "url": "https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 247117,
       "name": "HMU for a Good Time",
       "url": "https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ"
+    },
+    {
+      "added_at": "2022-12-02 19:24:42",
+      "album": {
+        "name": "Tired and Sick",
+        "url": "https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "duration_ms": 172172,
+      "name": "Tired and Sick",
+      "url": "https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8"
     },
     {
       "added_at": "2022-12-02 19:24:42",
@@ -411,22 +427,6 @@
       "duration_ms": 258340,
       "name": "Sweat - SOPHIE Remix",
       "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
-    },
-    {
-      "added_at": "2022-12-02 19:24:42",
-      "album": {
-        "name": "Tired and Sick",
-        "url": "https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5"
-      },
-      "artists": [
-        {
-          "name": "Otha",
-          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
-        }
-      ],
-      "duration_ms": 172172,
-      "name": "Tired and Sick",
-      "url": "https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8"
     },
     {
       "added_at": "2022-12-02 19:24:42",
@@ -595,26 +595,6 @@
     {
       "added_at": "2022-12-02 19:24:42",
       "album": {
-        "name": "High Tide (Doss Remix)",
-        "url": "https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        },
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "High Tide - Doss Remix",
-      "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
-    },
-    {
-      "added_at": "2022-12-02 19:24:42",
-      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
       },
@@ -639,18 +619,22 @@
     {
       "added_at": "2022-12-02 19:24:42",
       "album": {
-        "name": "Box of Chocolates",
-        "url": "https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5"
+        "name": "High Tide (Doss Remix)",
+        "url": "https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4"
       },
       "artists": [
         {
-          "name": "Kevin Aviance",
-          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 257959,
-      "name": "Cunty - Wave Edit",
-      "url": "https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe"
+      "duration_ms": 223384,
+      "name": "High Tide - Doss Remix",
+      "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
     },
     {
       "added_at": "2022-12-02 19:24:42",
@@ -667,6 +651,22 @@
       "duration_ms": 197114,
       "name": "CO1N",
       "url": "https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ"
+    },
+    {
+      "added_at": "2022-12-02 19:24:42",
+      "album": {
+        "name": "Box of Chocolates",
+        "url": "https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Cunty - Wave Edit",
+      "url": "https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe"
     },
     {
       "added_at": "2022-12-02 19:24:42",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-02 19:24:42",
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu"
-      },
-      "artists": [
-        {
-          "name": "Soraya",
-          "url": "https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R"
-        }
-      ],
-      "duration_ms": 265714,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn"
-    },
-    {
-      "added_at": "2022-12-02 19:24:42",
-      "album": {
         "name": "Dealer's Gone - DJ_Dave Edit",
         "url": "https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 172511,
       "name": "Dealer's Gone - DJ_Dave Edit",
       "url": "https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ"
+    },
+    {
+      "added_at": "2022-12-02 19:24:42",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu"
+      },
+      "artists": [
+        {
+          "name": "Soraya",
+          "url": "https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R"
+        }
+      ],
+      "duration_ms": 265714,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn"
     },
     {
       "added_at": "2022-12-02 19:24:42",
@@ -767,34 +767,6 @@
     {
       "added_at": "2022-12-02 19:24:42",
       "album": {
-        "name": "All In A Dream (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/699Jw6f2UuWYYEKcrlda6l"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 263767,
-      "name": "All In A Dream - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/3SG8Ozw6YOgR8WJtr8lzFM"
-    },
-    {
-      "added_at": "2022-12-02 19:24:42",
-      "album": {
         "name": "ELASTIC",
         "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
       },
@@ -835,6 +807,34 @@
       "duration_ms": 151914,
       "name": "Mugler",
       "url": "https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi"
+    },
+    {
+      "added_at": "2022-12-02 19:24:42",
+      "album": {
+        "name": "All In A Dream (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/699Jw6f2UuWYYEKcrlda6l"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 263767,
+      "name": "All In A Dream - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/3SG8Ozw6YOgR8WJtr8lzFM"
     },
     {
       "added_at": "2022-12-02 19:24:42",

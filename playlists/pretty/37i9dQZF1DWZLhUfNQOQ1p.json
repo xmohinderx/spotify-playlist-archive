@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230842,
+  "num_followers": 230849,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGVlNzkzY2ViYWI0ZTJlOGVlMDE4N2RlOWFmMjcxMzE1",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGY2YjkzY2MxMmUyNTAzOWE4YmRlMGFiNzY0YjM5MzY0",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -287,26 +287,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Best Part Of Us",
-        "url": "https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm"
-      },
-      "artists": [
-        {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
-        },
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Best Part Of us",
-      "url": "https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Back To You (Joey Pecoraro Remix)",
         "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 226644,
       "name": "Back To You - Joey Pecoraro Remix",
       "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Best Part Of Us",
+        "url": "https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Best Part Of us",
+      "url": "https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
-      },
-      "artists": [
-        {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Love Me (Don't Worry)",
         "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 162000,
       "name": "Love Me (Don't Worry)",
       "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+      },
+      "artists": [
+        {
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
-      },
-      "artists": [
-        {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
@@ -867,8 +851,24 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Midnight Sky",
-        "url": "https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg"
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
         }
       ],
-      "duration_ms": 214096,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -899,18 +899,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Bellevue",
-        "url": "https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv"
+        "name": "Kindisch Presents: Kindisch Steps VI",
+        "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
       },
       "artists": [
         {
-          "name": "Isla Bonner",
-          "url": "https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo"
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        },
+        {
+          "name": "Adrien (CA)",
+          "url": "https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ"
         }
       ],
-      "duration_ms": 198894,
-      "name": "Bellevue",
-      "url": "https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W"
+      "duration_ms": 719414,
+      "name": "Nuit d'Afrique",
+      "url": "https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -931,22 +935,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Kindisch Presents: Kindisch Steps VI",
-        "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
+        "name": "Bellevue",
+        "url": "https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv"
       },
       "artists": [
         {
-          "name": "Kora (CA)",
-          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
-        },
-        {
-          "name": "Adrien (CA)",
-          "url": "https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ"
+          "name": "Isla Bonner",
+          "url": "https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo"
         }
       ],
-      "duration_ms": 719414,
-      "name": "Nuit d'Afrique",
-      "url": "https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi"
+      "duration_ms": 198894,
+      "name": "Bellevue",
+      "url": "https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
+        "name": "Midnight Sky",
+        "url": "https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
         }
       ],
-      "duration_ms": 218584,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
+      "duration_ms": 214096,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
     }
   ],
   "unique_name": "Aperitivo Time",

@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-158 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
+159 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [monday](https://open.spotify.com/track/0sAHHpXdFBarjfTsntW1ZP) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [monday](https://open.spotify.com/album/21HVZDrPonqu8iCIN5ntHj) | 2:51 | 2021-11-19 | 2022-07-29 |
 | [My Chemical Romance](https://open.spotify.com/track/1FnKqa450Xr7HXkHV1ILem) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [My Chemical Romance](https://open.spotify.com/album/4yLrnVfCQMliyjkQpvQOMk) | 2:54 | 2021-11-19 | 2022-07-26 |
 | [No Regrets](https://open.spotify.com/track/5pNv80GU7mNe9P4AgzeSKf) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:08 | 2022-03-04 | 2022-05-26 |
-| [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 | 2021-11-19 |  |
+| [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 | 2021-11-19 | 2022-12-16 |
 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2021-11-19 |  |
 | [ONE LAST TIME](https://open.spotify.com/track/4awR8pzDR0LhSmDyoy5lAJ) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [ONE LAST TIME](https://open.spotify.com/album/63F1wUrRm2pB8OWXCpQjgU) | 2:36 | 2021-11-19 | 2022-07-24 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-11-19 |  |
@@ -135,6 +135,7 @@
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-08-16 |  |
 | [Shut Up \(feat\. phem & Travis Barker\)](https://open.spotify.com/track/02VGsfTMUmkZYlwhdkgTnB) | [Tyler Posey](https://open.spotify.com/artist/2J6oM8cqh6JxBLRged0d7U), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Shut Up \(feat\. phem & Travis Barker\)](https://open.spotify.com/album/1ZOWRJ0ZVIjV3eTte5koU4) | 3:01 | 2022-03-04 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/57aXGko6xZws5P5Z8SGNds) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 3:35 | 2021-11-19 | 2022-07-29 |
+| [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-08 |  |
 | [Stained](https://open.spotify.com/track/28Fhh3sLYSeqXij1PM9wHW) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Stained](https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy) | 3:36 | 2021-11-19 | 2022-07-27 |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2021-11-19 |  |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-11-19 | 2022-07-28 |

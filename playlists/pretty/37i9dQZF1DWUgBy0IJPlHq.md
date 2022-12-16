@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > Indigo is proud to support St\. Jude this holiday season! Learn more at MusicGives.Org \#ThisShirtSavesLives Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,832 likes - 155 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,858 likes - 155 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: The Amity Affliction",
-  "num_followers": 859655,
+  "num_followers": 859744,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGIyMTJlM2Q4M2E1NTAxN2Q3M2Y2Zjg2Y2NmM2RhYzhk",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDIzZDk5OWIzOWQ4ZDBmZGQ2MTAzMTNkNzJmNmM2ODRh",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv"
     },
     {
-      "added_at": "2022-12-15 01:09:25",
+      "added_at": "2022-12-16 00:40:05",
       "album": {
         "name": "nuBlood (feat. Fame On Fire)",
         "url": "https://open.spotify.com/album/4z8wwx2xRFIrk9DJY9Aw7u"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX"
     },
     {
-      "added_at": "2022-12-15 01:09:25",
+      "added_at": "2022-12-16 00:40:05",
       "album": {
         "name": "Colorblind EP",
         "url": "https://open.spotify.com/album/29M640Q87avBIyyLC1rWlT"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4ADgspuZLhlsiAijC9oDAR"
     },
     {
-      "added_at": "2022-12-15 01:09:25",
+      "added_at": "2022-12-16 00:40:05",
       "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8"
     },
     {
-      "added_at": "2022-12-15 01:09:25",
+      "added_at": "2022-12-16 00:40:05",
       "album": {
         "name": "Echo (Deluxe Version)",
         "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
@@ -227,26 +227,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Faded Out (feat. Within Temptation)",
-        "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Faded Out (feat. Within Temptation)",
-      "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Until We Break (feat. Matty Mullins of Memphis May Fire)",
         "url": "https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 214028,
       "name": "Until We Break (feat. Matty Mullins of Memphis Mayfire)",
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Faded Out (feat. Within Temptation)",
+        "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Faded Out (feat. Within Temptation)",
+      "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Darkbloom",
-        "url": "https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 209840,
-      "name": "Plagued",
-      "url": "https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Divided",
         "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Darkbloom",
+        "url": "https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "Plagued",
+      "url": "https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Pain Remains II: After All I've Done, I'll Disappear",
-        "url": "https://open.spotify.com/album/7s8v300WVzKUhsATpx692e"
-      },
-      "artists": [
-        {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        }
-      ],
-      "duration_ms": 336813,
-      "name": "Pain Remains II: After All I've Done, I'll Disappear",
-      "url": "https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Empires Fall",
         "url": "https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 183750,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Pain Remains II: After All I've Done, I'll Disappear",
+        "url": "https://open.spotify.com/album/7s8v300WVzKUhsATpx692e"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "duration_ms": 336813,
+      "name": "Pain Remains II: After All I've Done, I'll Disappear",
+      "url": "https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Hold Me, Help Me",
-        "url": "https://open.spotify.com/album/1g3ByU8bZ8KclMW1mLVwxz"
-      },
-      "artists": [
-        {
-          "name": "Halocene",
-          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
-        }
-      ],
-      "duration_ms": 225418,
-      "name": "Hold Me, Help Me",
-      "url": "https://open.spotify.com/track/5PonHqoB85p240oUT9AIDj"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Hangfire",
         "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 189405,
       "name": "A Form of Protest",
       "url": "https://open.spotify.com/track/2T87RX4V5PsfnqhBq21Qxm"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Hold Me, Help Me",
+        "url": "https://open.spotify.com/album/1g3ByU8bZ8KclMW1mLVwxz"
+      },
+      "artists": [
+        {
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        }
+      ],
+      "duration_ms": 225418,
+      "name": "Hold Me, Help Me",
+      "url": "https://open.spotify.com/track/5PonHqoB85p240oUT9AIDj"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 198657,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Disparity",
         "url": "https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 201026,
       "name": "Sol",
       "url": "https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "You Must Die",
-        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "You Must Die",
-      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+        "name": "You Must Die",
+        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
       },
       "artists": [
         {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
         }
       ],
-      "duration_ms": 198657,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
+      "duration_ms": 162894,
+      "name": "You Must Die",
+      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Your Love I'll Never Need",
         "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 200843,
       "name": "Your Love I'll Never Need",
       "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-12-02 05:00:00",

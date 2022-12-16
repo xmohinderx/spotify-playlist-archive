@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 521684,
+  "num_followers": 522453,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMGRlNTY3MDhjMzAxZTc4YjRlZGYzYTY4ZWNlYTM0OTEz",
+  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMDljMGNkZDBlOTQ1ZTNmZjdiOWY4NjM4MjRjNzJkMzhk",
   "tracks": [
     {
       "added_at": "2022-09-02 14:31:45",
@@ -159,30 +159,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Monster (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 165947,
-      "name": "Monster - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -207,6 +183,30 @@
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Monster (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 165947,
+      "name": "Monster - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "I'll Be There (Cahill Remix)",
         "url": "https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 183991,
       "name": "I'll Be There - Cahill Remix",
       "url": "https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -571,30 +571,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Something Just Like This (Remixes)",
-        "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Something Just Like This - Alesso Remix",
-      "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "On My Way (Da Tweekaz Remix)",
         "url": "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 204198,
       "name": "On My Way - Da Tweekaz Remix",
       "url": "https://open.spotify.com/track/4Sp0jLZN8MgPnoGDufJS7N"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Something Just Like This (Remixes)",
+        "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Something Just Like This - Alesso Remix",
+      "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -683,6 +683,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Ain't My Fault (R3hab Remix)",
+        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158772,
+      "name": "Ain't My Fault - R3hab Remix",
+      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Ain't My Fault (R3hab Remix)",
-        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158772,
-      "name": "Ain't My Fault - R3hab Remix",
-      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Get Weird - Rarities & Remixes",
+        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "duration_ms": 198909,
+      "name": "Black Magic - Cahill Remix",
+      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Heaven (David Guetta & MORTEN Remix)",
         "url": "https://open.spotify.com/album/37bCTD5iLWMpDcBanNkkXB"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 215238,
       "name": "Heaven - David Guetta & MORTEN Remix",
       "url": "https://open.spotify.com/track/4QAUGy6k7c3IOAhgWz52r7"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Get Weird - Rarities & Remixes",
-        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
-        }
-      ],
-      "duration_ms": 198909,
-      "name": "Black Magic - Cahill Remix",
-      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -991,6 +991,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "What About Us (The Remixes)",
+        "url": "https://open.spotify.com/album/0fnhGErI5xy7fNuzLP4aDx"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 233902,
+      "name": "What About Us - Cash Cash Remix",
+      "url": "https://open.spotify.com/track/5Xt5iEbljmwJW51LMTQ6Nx"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "In The Name Of Love Remixes",
         "url": "https://open.spotify.com/album/1WSShu5SDgRFWR9ZXImKLM"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 200597,
       "name": "In the Name of Love - DallasK Remix",
       "url": "https://open.spotify.com/track/55y30bh2ZUtzOXjWLxn7XT"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "What About Us (The Remixes)",
-        "url": "https://open.spotify.com/album/0fnhGErI5xy7fNuzLP4aDx"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 233902,
-      "name": "What About Us - Cash Cash Remix",
-      "url": "https://open.spotify.com/track/5Xt5iEbljmwJW51LMTQ6Nx"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Cool Girl (Nora En Pure Remix)",
-        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Cool Girl - Nora En Pure Remix",
-      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Scared To Be Lonely Remixes Vol. 1",
         "url": "https://open.spotify.com/album/5dwSRV6U5oyxplujp17RQQ"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 200624,
       "name": "Scared To Be Lonely - Brooks Remix",
       "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Cool Girl (Nora En Pure Remix)",
+        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 187804,
+      "name": "Cool Girl - Nora En Pure Remix",
+      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1779,8 +1779,8 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Closer (Remixes)",
-        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+        "name": "Takeaway - The Remixes (feat. Lennon Stella)",
+        "url": "https://open.spotify.com/album/27GXIwtv7WOQIqpUdrPA3g"
       },
       "artists": [
         {
@@ -1788,17 +1788,21 @@
           "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
         }
       ],
-      "duration_ms": 161120,
-      "name": "Closer - R3hab Remix",
-      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+      "duration_ms": 180000,
+      "name": "Takeaway (feat. Lennon Stella) - Andrew Rayel Remix",
+      "url": "https://open.spotify.com/track/16QhpULFOW9fE2yvXsJV6A"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1939,8 +1943,8 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Takeaway - The Remixes (feat. Lennon Stella)",
-        "url": "https://open.spotify.com/album/27GXIwtv7WOQIqpUdrPA3g"
+        "name": "Closer (Remixes)",
+        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
       },
       "artists": [
         {
@@ -1948,21 +1952,17 @@
           "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         },
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Takeaway (feat. Lennon Stella) - Andrew Rayel Remix",
-      "url": "https://open.spotify.com/track/16QhpULFOW9fE2yvXsJV6A"
+      "duration_ms": 161120,
+      "name": "Closer - R3hab Remix",
+      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
     },
     {
       "added_at": "2022-09-02 14:31:45",

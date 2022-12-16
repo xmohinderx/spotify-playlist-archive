@@ -4,7 +4,7 @@
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-338 songs - 1 day 13 hr 40 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
+339 songs - 1 day 13 hr 47 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Mbodiene](https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn) | [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mbodiene](https://open.spotify.com/album/1HaPXzH7jfTmB1C00gDf45) | 8:10 | 2021-03-02 | 2022-07-09 |
 | [Med Cezir](https://open.spotify.com/track/3IORFEefvy2wyFtvih96Xd) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Med Cezir](https://open.spotify.com/album/50yjQLitPNv4AIUbn8b0vs) | 7:32 | 2022-02-04 | 2022-04-21 |
 | [Meigallo \(Matias Aguayo Remix\)](https://open.spotify.com/track/7tDbFscaADIXxZJKV3se7a) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Lilaina](https://open.spotify.com/artist/0tyBq40GhIuFlZERtHbONh), [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Meigallo \(Matias Aguayo Remix\)](https://open.spotify.com/album/1CqPXmacI6CoVz7m5gAiyf) | 5:26 | 2022-04-04 | 2022-04-18 |
-| [Memphis](https://open.spotify.com/track/5xVCf8z2hgLCa7Vmp7L9c7) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Memphis](https://open.spotify.com/album/2gLRbGdOqB0o67CGffy25z) | 6:57 | 2022-11-26 |  |
+| [Memphis](https://open.spotify.com/track/5xVCf8z2hgLCa7Vmp7L9c7) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Memphis](https://open.spotify.com/album/2gLRbGdOqB0o67CGffy25z) | 6:57 | 2022-11-26 | 2022-12-16 |
 | [Mencitaimu](https://open.spotify.com/track/0pivFXWc9scNbb0HChzrRq) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Mencitaimu](https://open.spotify.com/album/6gfwj35LdW08bmGXxNXvYf) | 8:08 | 2021-10-16 | 2022-07-28 |
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-22 |  |
 | [Milambi](https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Milambi](https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q) | 3:13 | 2020-01-29 |  |
@@ -246,6 +246,7 @@
 | [Pandora](https://open.spotify.com/track/2kscYCgdy8FP8D92hgsVIy) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Pandora](https://open.spotify.com/album/74ulhSz1pv8TBMczTusgvv) | 5:55 | 2020-05-17 | 2022-04-21 |
 | [Parivartan](https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv) | [Elcor](https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj), [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF) | [Parivartan](https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp) | 8:06 | 2022-01-21 | 2022-07-26 |
 | [Pastorcita](https://open.spotify.com/track/2bq3BcwuIjsvS18KXgqzZV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/5Gnnle3P6DoHp5vtqkN0P0) | 6:23 | 2021-01-31 | 2022-09-29 |
+| [Pastorcita](https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY) | 6:23 | 2022-09-30 |  |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-04-04 | 2022-07-22 |
 | [Pervaz](https://open.spotify.com/track/3zyYTyXyHX52WWsaqFPEH0) | [Netam](https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6), [Muaz Ceyhan](https://open.spotify.com/artist/1xlRrEXSQPhtLjFuQIF47p) | [Tanburun Rüyaları](https://open.spotify.com/album/5jiH0oSegzyENIzfDGPUzm) | 4:36 | 2022-01-14 | 2022-05-21 |
 | [Poet\-Ease](https://open.spotify.com/track/5u8RZrjxxYHBgSBwWDyV16) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm), [Sandra Restrepo](https://open.spotify.com/artist/6xcbHjACwkci6y1yJV7om2) | [Poet\-Ease](https://open.spotify.com/album/3UEMeHZo8S1uqlNuFfKu16) | 6:22 | 2019-09-06 | 2020-04-27 |

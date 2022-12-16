@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Evra
+> Il meglio dell'R&B italiano\. Cover: Noemi, Gemitaiz
 
-234 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+238 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Alice](https://open.spotify.com/track/5zQZLyhTWu7sOWni4HrFrJ) | [Alisdipity](https://open.spotify.com/artist/6X0tGU82DndjmjzFFlATCI) | [Alice](https://open.spotify.com/album/5yBXRbEwojENjfqDonTFGK) | 3:46 | 2022-06-16 | 2022-07-29 |
 | [Alla Follia](https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw), [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Alla Follia](https://open.spotify.com/album/14po1TeMD3PoErpWdl5Jcj) | 3:09 | 2022-12-01 |  |
 | [Anima mundi](https://open.spotify.com/track/4MWXNcxdX4PR7Xm5zBLrVa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Anima mundi](https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu) | 2:42 | 2022-10-13 | 2022-12-02 |
-| [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 |  |
+| [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 | 2022-12-16 |
+| [As Long As You Love Me](https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Never 2 Much](https://open.spotify.com/album/5KtTtevPCL0OjmB2OXsy2h) | 2:23 | 2022-12-15 |  |
 | [BACIAMI X 3](https://open.spotify.com/track/0fKIA8OIw7WiJGqXxtlpM1) | [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU), [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [BACIAMI X 3](https://open.spotify.com/album/60N7GPtyTUNfWLLhftvfgo) | 2:18 | 2022-08-05 | 2022-08-26 |
 | [Bad Habits](https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0) | [Bianca Ventura](https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR) | [Bad Habits](https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ) | 3:03 | 2022-05-12 | 2022-09-16 |
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 | 2022-09-09 |
@@ -82,6 +83,7 @@
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-05-05 | 2022-11-18 |
 | [FUCKBOY](https://open.spotify.com/track/4yZ5MdzVJGG2W1EmOQQvaa) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Per te](https://open.spotify.com/album/3Gk7tnA6FkViwwgjMTBhJW) | 2:50 | 2022-11-17 |  |
 | [FUOCO \(LA NOTTE\)](https://open.spotify.com/track/53Hycm3y3MMRzXKfr1ZfVU) | [Vespro](https://open.spotify.com/artist/4TvAbp9oKmAALxGmLmXA8L) | [FUOCO \(LA NOTTE\)](https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub) | 3:13 | 2022-05-19 |  |
+| [Fuori dai guai \(feat\. Gemitaiz\)](https://open.spotify.com/track/1Dd1l5fKJEInJlH8eKWJ0L) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Fuori dai guai \(feat\. Gemitaiz\)](https://open.spotify.com/album/2CA5FxqmGHKOTfR9H4REoF) | 3:20 | 2022-12-15 |  |
 | [FUORI DI TE](https://open.spotify.com/track/1mLlEeGAGfojR6RPks8bFU) | [Dígame](https://open.spotify.com/artist/6duVD4tvbuGfGwK7qJBzMD) | [FUORI DI TE](https://open.spotify.com/album/6CC0tpeNu8MiRVqCP6BFZU) | 2:30 | 2022-12-08 |  |
 | [Geisha](https://open.spotify.com/track/3YvBbdZuOmbM2Q39B4lYbm) | [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [TUCANO'S PARTY](https://open.spotify.com/album/5FMbtNZ0q3Z8VYt7eEVh7Z) | 2:55 | 2022-11-24 |  |
 | [Giorni che esplodono](https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx) | 3:04 | 2022-05-12 | 2022-10-28 |
@@ -142,6 +144,7 @@
 | [Niente da dirti](https://open.spotify.com/track/6y2eneVA3eWA3WBADJjyBl) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/1EL0DnhlJFQudSGdAwsHEl) | 4:01 | 2022-06-16 |  |
 | [No eh? Va be'](https://open.spotify.com/track/64kDlkqrSAg5vha3bK7I8A) | [DAEMIA](https://open.spotify.com/artist/2h1otCcxhWWTUQtcSg7I7X) | [No eh? Va be'](https://open.spotify.com/album/5SXnrkbFeNPOfFnEHChOX6) | 3:31 | 2022-05-05 | 2022-09-16 |
 | [No Love](https://open.spotify.com/track/6BsRHAOiyM0EULpcTjf91l) | [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [No Love](https://open.spotify.com/album/3klV0mhxXPHdn2pq8gjNDo) | 2:56 | 2022-06-16 |  |
+| [Noia](https://open.spotify.com/track/2IPh5TOBaceM7zN0tgyfIi) | [ODE](https://open.spotify.com/artist/2bCbnuMUNA0M1eqHg3olJI) | [Noia](https://open.spotify.com/album/559uzFoPZVrroVomDdRjUY) | 2:47 | 2022-12-15 |  |
 | [non ci sta](https://open.spotify.com/track/4atRzLSh8tx0lsVsmgHTTu) | [Jess](https://open.spotify.com/artist/2frtodbBy4VwQlIkfZd0kw) | [non ci sta](https://open.spotify.com/album/6vQiCy1LkSCCfwESVLe5a0) | 3:03 | 2022-05-05 | 2022-07-29 |
 | [NON HO VOGLIA DI BERE](https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [LUCE](https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk) | 2:53 | 2022-05-12 | 2022-07-29 |
 | [non me ne frega un ca](https://open.spotify.com/track/4kMROmt7ObJhRNeSyMj7w7) | [Giuliana Cascone](https://open.spotify.com/artist/4JbDAuaFjmcMOmQJdiSLln) | [non me ne frega un ca](https://open.spotify.com/album/74dptIChCn0YkwejWlrFje) | 2:50 | 2022-10-20 | 2022-12-02 |
@@ -212,6 +215,7 @@
 | [Strange night](https://open.spotify.com/track/7K6YUG2laOdXF8Oc4ljVX1) | [Synn](https://open.spotify.com/artist/0efwId12M4gpPKZdDQpAZo) | [Strange night](https://open.spotify.com/album/6QVxfq62EtdUsKHcLGOziq) | 2:19 | 2022-11-10 |  |
 | [Sugar Rush](https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag) | [lowe](https://open.spotify.com/artist/0ASFVsyFHBICfm61Gb4KLU), [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Sugar Rush](https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr) | 2:46 | 2022-10-13 |  |
 | [Sul fondo](https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Sul fondo](https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo) | 2:50 | 2022-05-05 | 2022-09-09 |
+| [SULO PE CHELLA](https://open.spotify.com/track/60Y8L6RnHNz9VWweR7k1E4) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [SULO PE CHELLA](https://open.spotify.com/album/6GiitwAiBcZu3dGaGnjdDw) | 4:10 | 2022-12-15 |  |
 | [Sulo pe te vedè](https://open.spotify.com/track/25YUs1frcMSOvlucgmN8oc) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Tarantelle \- EP](https://open.spotify.com/album/7BcMHLMHfQ2Lm4VnsaByf8) | 2:54 | 2022-07-21 | 2022-10-14 |
 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 | 2022-07-07 | 2022-11-11 |
 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 | 2022-07-14 | 2022-09-23 |

@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,553 songs - 2 day 22 hr 17 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,554 songs - 2 day 22 hr 19 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,6 +1065,7 @@
 | [Remembrance](https://open.spotify.com/track/2CDgAaOd5OPBZg52RRSK3S) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 3:44 | 2021-04-23 | 2022-04-18 |
 | [Reminiscence Of Innocence](https://open.spotify.com/track/2AV90A6Qwgn47bZhHh8ys0) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Reminiscence Of Innocence](https://open.spotify.com/album/02xiVs0d6AFk43j4FmRWGi) | 2:06 | 2022-04-12 | 2022-04-21 |
 | [Remove The Complexities](https://open.spotify.com/track/4xfCXK9eixyPpn9SWbvPog) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Dismantle](https://open.spotify.com/album/4bvsBHqAveDTNzhIozhYII) | 2:15 | 2021-03-10 | 2021-05-19 |
+| [Remove The Complexities](https://open.spotify.com/track/7McExzjmhDI5NQ6l4D9XR9) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Dismantle](https://open.spotify.com/album/6TsyjKCVz1FlcjwglzzbT9) | 2:15 | 2022-12-06 |  |
 | [Requiem](https://open.spotify.com/track/6NEzvGAAX1LBReTBuuLyEc) | [Joaquin Mans](https://open.spotify.com/artist/5JBXyHBJYZCIHMQXee1sMm) | [Requiem](https://open.spotify.com/album/3cpY0o7tTa0d3eapPKHAuV) | 2:02 | 2022-04-14 | 2022-04-20 |
 | [Requiem](https://open.spotify.com/track/6nDq4tCu0Wz9rtrIRSXsDw) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Under Cold Water](https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq) | 2:59 | 2021-03-10 | 2022-04-19 |
 | [Requiescant in pace](https://open.spotify.com/track/5GqG8kwc3eOUWTOBG1gBnZ) | [Theo Burgheim](https://open.spotify.com/artist/3ESMu2wJwDAmtpZ5V0eXRV) | [Tingley Road](https://open.spotify.com/album/5IqlfqohQVntDUjJOtLu9N) | 2:10 | 2021-03-16 | 2022-04-12 |
@@ -1099,7 +1100,7 @@
 | [Safe From Harm](https://open.spotify.com/track/5OJCfx8s0XKPTySHivWXPd) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Safe From Harm](https://open.spotify.com/album/3009Rcfmt34qSRQFdVfL6Y) | 3:31 | 2022-05-31 | 2022-06-20 |
 | [Saint\-Étienne](https://open.spotify.com/track/5qKkduxPcxzPZQ34lRbbkP) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Song Of Spring](https://open.spotify.com/album/3FFlVYYjsbiZsWKf8lFwDZ) | 3:00 | 2022-06-22 | 2022-07-14 |
 | [Saki](https://open.spotify.com/track/5DCgFSAuvLuLwen6i8CgSN) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Itadaki Girl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hyD6D2WJ4yXqQvPRL0Lnq) | 1:12 | 2021-03-11 | 2022-07-13 |
-| [Sakteligen](https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Sakteligen](https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2) | 2:11 | 2022-08-08 |  |
+| [Sakteligen](https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Sakteligen](https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2) | 2:11 | 2022-08-08 | 2022-12-16 |
 | [Saltare \(Somewhere at the Baltic Sea\)](https://open.spotify.com/track/645kj2wJDlXW7Wnx5N9WCq) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [The 8 Pianos Project](https://open.spotify.com/album/4ITpqO83by63yHA8O1YGKM) | 4:17 | 2021-04-30 | 2022-04-19 |
 | [Salvatore](https://open.spotify.com/track/6t49FHYi8W01F35FMrdgbk) | [Henrietta Kuipers](https://open.spotify.com/artist/5ULLDXAaGnGYylLzZxaXog) | [Salvatore](https://open.spotify.com/album/2zqvrczDnP8HS7vCdFXiM7) | 2:16 | 2021-03-09 | 2022-03-31 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2021-03-10 | 2022-04-17 |

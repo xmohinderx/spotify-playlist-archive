@@ -4,7 +4,7 @@
 
 > The essential tracks from The Weeknd.
 
-103 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
+104 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/14mgSrrQRN8K9HaVHhKjze) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2gWDbNPfFcIR1EewwlvyqJ) | 3:42 | 2021-11-23 | 2022-07-29 |
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/5ciyqWW5YuGqF4Avu7uwry) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/6YlDIxqEjvY63ffH6AwCjd) | 3:42 | 2022-08-25 | 2022-11-13 |
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/6utQlfLooYsUkq5xUg3vxt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7) | 3:42 | 2022-07-25 |  |
+| [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-16 |  |
 | [Nothing Without You](https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:18 | 2021-11-23 |  |
 | [Often](https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:09 | 2021-11-23 |  |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-23 |  |

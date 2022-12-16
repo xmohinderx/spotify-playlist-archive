@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123924,
+  "num_followers": 123926,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDVkZjY4MDI3MTI1YWQwYjJiYThjMjQ4ZTE3MzI0M2Ri",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGU4ZTc4OTMyMjk1ZGQxZGQzMDE0MGI3ZjI2YjdjNjhk",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "DPM (De Pxta Madre)",
-        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 181684,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Tab\u00fa",
         "url": "https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 179774,
       "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "DPM (De Pxta Madre)",
+        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 181684,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 157248,
-      "name": "B\u00fascame",
-      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 247293,
       "name": "Mujer contra mujer",
       "url": "https://open.spotify.com/track/7hmzQ7lRZV8uUnuO77QCbQ"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 157248,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+        "name": "HUGITO",
+        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
         }
       ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+      "duration_ms": 147692,
+      "name": "VA HABLAR",
+      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2199,18 +2199,38 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "HUGITO",
-        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
       },
       "artists": [
         {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 147692,
-      "name": "VA HABLAR",
-      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Shake Me",
+        "url": "https://open.spotify.com/album/3PDPYEtnkNDUkRH41WQFqd"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 211111,
+      "name": "Shake Me",
+      "url": "https://open.spotify.com/track/3HHjh2PfayANYTxbrFOaM0"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2235,26 +2255,6 @@
       "duration_ms": 233500,
       "name": "Rubberhand",
       "url": "https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Shake Me",
-        "url": "https://open.spotify.com/album/3PDPYEtnkNDUkRH41WQFqd"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        },
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 211111,
-      "name": "Shake Me",
-      "url": "https://open.spotify.com/track/3HHjh2PfayANYTxbrFOaM0"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Ruido",
-        "url": "https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf"
-      },
-      "artists": [
-        {
-          "name": "La Prohibida",
-          "url": "https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl"
-        }
-      ],
-      "duration_ms": 297544,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/4x9XyYlT1YS2DUi47Onqt4"
       },
@@ -2499,6 +2483,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Ruido",
+        "url": "https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf"
+      },
+      "artists": [
+        {
+          "name": "La Prohibida",
+          "url": "https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl"
+        }
+      ],
+      "duration_ms": 297544,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Hi-def Femme",
         "url": "https://open.spotify.com/album/1KOFFgfz2ax4baSBqlyBBP"
       },
@@ -2511,6 +2511,22 @@
       "duration_ms": 232197,
       "name": "Coca\u00edno",
       "url": "https://open.spotify.com/track/5NtClnWq7XKckE810jIBOw"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Sorpresa",
+      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2535,38 +2551,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Sorpresa",
-      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Por un Beso",
-        "url": "https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX"
-      },
-      "artists": [
-        {
-          "name": "Luis Gamarra",
-          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
-        }
-      ],
-      "duration_ms": 179354,
-      "name": "Por un Beso",
-      "url": "https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD"
       },
@@ -2587,18 +2571,42 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Shutup",
-        "url": "https://open.spotify.com/album/6DkNaHrTgYNr6WJqTWHOb4"
+        "name": "Por un Beso",
+        "url": "https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX"
       },
       "artists": [
         {
-          "name": "LoMaasBello",
-          "url": "https://open.spotify.com/artist/4q1yvWG9gjwwUM0Z51sIMK"
+          "name": "Luis Gamarra",
+          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
         }
       ],
-      "duration_ms": 192941,
-      "name": "Shutup",
-      "url": "https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2"
+      "duration_ms": 179354,
+      "name": "Por un Beso",
+      "url": "https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Feeling Good (Pauza Remix)",
+        "url": "https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1"
+      },
+      "artists": [
+        {
+          "name": "The Angels",
+          "url": "https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz"
+        },
+        {
+          "name": "Shrii",
+          "url": "https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo"
+        },
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "duration_ms": 326557,
+      "name": "Feeling Good - PAUZA Remix",
+      "url": "https://open.spotify.com/track/0IRwdJpyUYeBdn3DGJHkF5"
     }
   ],
   "unique_name": "Latin Pride",

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 8756,
+  "num_followers": 8773,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxODI3MCwwMDAwMDAwMGZjOGFkZTU2YzAzYzJhMDI4MjgzNGY1YTJkZDIwNWE4",
+  "snapshot_id": "MTY3MDkxODI3MCwwMDAwMDAwMDNjMjExZWNlMTg1MDRmMmEzMmQ3MTBkNThjMzI0NTRi",
   "tracks": [
     {
       "added_at": "2022-12-09 04:07:59",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 185508,
-      "name": "Beyond My Dreams",
-      "url": "https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 216734,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 185508,
+      "name": "Beyond My Dreams",
+      "url": "https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 260607,
       "name": "Gift",
       "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -433,6 +433,42 @@
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
+      "added_at": "2022-12-16 01:24:59",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
       "added_at": "2022-12-09 04:07:59",
       "album": {
         "name": "PSY 9th",
@@ -463,42 +499,6 @@
       "duration_ms": 199295,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2022-12-15 01:35:30",
-      "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 237030,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 217000,
       "name": "Evening (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.8",
-        "url": "https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
         "name": "I LUV U (with Mirani)",
         "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.8",
+        "url": "https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR"
       },
       "artists": [
         {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 214626,
-      "name": "Tell Me You Love Me",
-      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
+      "duration_ms": 217573,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -787,6 +771,22 @@
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 227054,
-      "name": "Tale",
-      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+      "duration_ms": 244764,
+      "name": "I Will Be By Your Side",
+      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
       "added_at": "2022-12-09 04:07:59",

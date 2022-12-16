@@ -6309,7 +6309,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 225882,
       "name": "Felina",
       "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
@@ -14421,6 +14421,36 @@
       "duration_ms": 137533,
       "name": "SAOKO",
       "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"
+    },
+    {
+      "album": {
+        "name": "Saquarema",
+        "url": "https://open.spotify.com/album/6iag686lb0KoIgWFuNdMws"
+      },
+      "artists": [
+        {
+          "name": "MC Rog\u00ea",
+          "url": "https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui"
+        },
+        {
+          "name": "DJ Meek",
+          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
+        },
+        {
+          "name": "Boladinho DJ",
+          "url": "https://open.spotify.com/artist/07h4iWmJmlrSz6odV2mJgq"
+        },
+        {
+          "name": "Mc G Talib\u00e3",
+          "url": "https://open.spotify.com/artist/3WqjZ3slxmWPlsKxJcAPMc"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Saquarema",
+      "url": "https://open.spotify.com/track/12R6npsSMx8g0k5GN19poM"
     },
     {
       "album": {

@@ -1756,6 +1756,36 @@
     },
     {
       "album": {
+        "name": "ABC Angel Jessi Nihil XII",
+        "url": "https://open.spotify.com/album/6VxrsYg8ELG3oRl2XMwHR0"
+      },
+      "artists": [
+        {
+          "name": "THE CONVERSE ALL STARS",
+          "url": "https://open.spotify.com/artist/4G52Lb7L4TEHMHOUqCEis7"
+        },
+        {
+          "name": "Jibin",
+          "url": "https://open.spotify.com/artist/6ZD5uyGsRAMM3f4fxaAchL"
+        },
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
+        {
+          "name": "Xin Seha",
+          "url": "https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258749,
+      "name": "ABC Angel Jessi Nihil XII",
+      "url": "https://open.spotify.com/track/7mXG8gHTW6cruhI937WjiV"
+    },
+    {
+      "album": {
         "name": "Abilify",
         "url": "https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe"
       },
@@ -2381,6 +2411,24 @@
       "duration_ms": 217678,
       "name": "Again",
       "url": "https://open.spotify.com/track/1gtbczxlVT3K4A1KYAgWME"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0NbTJqiO76hzHZEdYzdURv"
+      },
+      "artists": [
+        {
+          "name": "Slou.D",
+          "url": "https://open.spotify.com/artist/1ChMiU71GoLixXDE4fVRET"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "again",
+      "url": "https://open.spotify.com/track/6AVvfmUnQszk4l2Sqvs86T"
     },
     {
       "album": {
@@ -5833,6 +5881,28 @@
       "duration_ms": 222318,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/6mOy8JJc5fhrxiMaeEq6bZ"
+    },
+    {
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/2NtUTzknxqGtlbmyrQxrGZ"
+      },
+      "artists": [
+        {
+          "name": "LEENU",
+          "url": "https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1"
+        },
+        {
+          "name": "\ucd5c\uc815\ucca0",
+          "url": "https://open.spotify.com/artist/3O73z2fdTEFtHYim0cqkh0"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "Best Friend (feat. \ucd5c\uc815\ucca0)",
+      "url": "https://open.spotify.com/track/2wP3PA47F0ha19CBZK2LHu"
     },
     {
       "album": {
@@ -9301,6 +9371,24 @@
       "duration_ms": 197100,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/668qGPFc6wHY9RBP5gwGUy"
+    },
+    {
+      "album": {
+        "name": "The Road : Celebration - The 11th Album Vol.2",
+        "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213280,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
     },
     {
       "album": {
@@ -17606,6 +17694,32 @@
     },
     {
       "album": {
+        "name": "EGO 90'S PART 2",
+        "url": "https://open.spotify.com/album/7zCPiOJpqtj70zmIjZIo0c"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "GARY",
+          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
+        },
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228946,
+      "name": "Fantasy (feat. Gary & ALi)",
+      "url": "https://open.spotify.com/track/1QOot7m7p0cDBL0Ei4qpCJ"
+    },
+    {
+      "album": {
         "name": "Far away",
         "url": "https://open.spotify.com/album/1mVqsZwWuZJ0Uomg4P71cQ"
       },
@@ -19731,6 +19845,24 @@
       "duration_ms": 217207,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN"
+    },
+    {
+      "album": {
+        "name": "Free Giveaway",
+        "url": "https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211456,
+      "name": "Free Giveaway",
+      "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
     },
     {
       "album": {
@@ -22500,6 +22632,28 @@
     },
     {
       "album": {
+        "name": "Hate me (Love me)",
+        "url": "https://open.spotify.com/album/1kofMwPF3zhpQblhpUxGPy"
+      },
+      "artists": [
+        {
+          "name": "Sea Young",
+          "url": "https://open.spotify.com/artist/5mdKayzISXaz7Si3ivYnU0"
+        },
+        {
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "Hate me (Love me) (Feat. Kang Butter)",
+      "url": "https://open.spotify.com/track/1LHq4YSzTK2c5IOrxCRk0I"
+    },
+    {
+      "album": {
         "name": "Hate this love",
         "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
       },
@@ -24582,6 +24736,24 @@
     },
     {
       "album": {
+        "name": "hug me tight",
+        "url": "https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127612,
+      "name": "hug me tight",
+      "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
+    },
+    {
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -24867,6 +25039,24 @@
       "duration_ms": 243746,
       "name": "I",
       "url": "https://open.spotify.com/track/6j3ojRSh4RcmQhfjqcg9EG"
+    },
+    {
+      "album": {
+        "name": "Closers : i (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0nCPlcevtXr6CLjRVsbHym"
+      },
+      "artists": [
+        {
+          "name": "KimYeji",
+          "url": "https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224382,
+      "name": "i",
+      "url": "https://open.spotify.com/track/2jC5R1xZ7Ajm6yiHbfGUGm"
     },
     {
       "album": {
@@ -31252,6 +31442,24 @@
     },
     {
       "album": {
+        "name": "Unlock My Boss, Pt.1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
+    },
+    {
+      "album": {
         "name": "Life's Too Short",
         "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
       },
@@ -37411,6 +37619,24 @@
       "duration_ms": 178000,
       "name": "My name is",
       "url": "https://open.spotify.com/track/400c7g7Tu2x57d3qcCi6kR"
+    },
+    {
+      "album": {
+        "name": "My Name Is Money",
+        "url": "https://open.spotify.com/album/27AoSlFrb1c9ZTMHOreVC9"
+      },
+      "artists": [
+        {
+          "name": "Ash-B",
+          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152226,
+      "name": "My Name Is Money",
+      "url": "https://open.spotify.com/track/3hlQxITZPGlDhWXQ9HjL9X"
     },
     {
       "album": {
@@ -60342,6 +60568,24 @@
     },
     {
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/0kB0NKT1wCq3odLKNzK27Y"
+      },
+      "artists": [
+        {
+          "name": "REVOLUTION HEART",
+          "url": "https://open.spotify.com/artist/5yER6ZzycZA7lQtUrQqoIV"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0rjjm5Q1GYPDE3i3TfRpbD"
+    },
+    {
+      "album": {
         "name": "White Lie",
         "url": "https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg"
       },
@@ -63559,6 +63803,24 @@
       "duration_ms": 217371,
       "name": "\uadf8\ub300\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/7nd7Nggjw8NzHIcNbW3vUk"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.5",
+        "url": "https://open.spotify.com/album/3rSWDyVfHElyEHZfryv9qa"
+      },
+      "artists": [
+        {
+          "name": "Woo Yi Kyung",
+          "url": "https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207968,
+      "name": "\uadf8\ub54c\uac00 \uadf8\ub9ac\uc6cc\uc694",
+      "url": "https://open.spotify.com/track/1IDEXglNZ8U6ZmFPJIoIen"
     },
     {
       "album": {

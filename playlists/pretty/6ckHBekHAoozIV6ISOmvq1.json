@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTYwOSw4M2FjMmU5ZWFjMzM3NGUxNTE4MjNkYmY3OGNiZWRkMGNhYzQyODI3",
+  "snapshot_id": "NTYxMCw1MzlmMjVmYzk2YmEwNTRmZGFkMWEyZWJjNjY4ZjRiM2Q4ZjkxZGQ4",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1877,6 +1877,26 @@
       "url": "https://open.spotify.com/track/2PfXTMv2JZhbErEG7WGs2J"
     },
     {
+      "added_at": "2018-02-28 02:40:55",
+      "album": {
+        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
+        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
+      },
+      "artists": [
+        {
+          "name": "Guillaume de Machaut",
+          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
+        },
+        {
+          "name": "Ars Antiqua de Paris",
+          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
+      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
+    },
+    {
       "added_at": "2020-07-24 11:51:06",
       "album": {
         "name": "A L'Estampida - Medieval Dance Music",
@@ -1937,46 +1957,6 @@
       "url": "https://open.spotify.com/track/2BxgCzuSywAJ7rNWFoXPiA"
     },
     {
-      "added_at": "2022-07-22 20:17:18",
-      "album": {
-        "name": "A Cheerful Noise, Medieval And Early Renaissance Music",
-        "url": "https://open.spotify.com/album/7Jq2mvsbxKmhyeimlIr7VE"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Musica Antiqua",
-          "url": "https://open.spotify.com/artist/1X9DgVzVehsmdExoNYIY1q"
-        }
-      ],
-      "duration_ms": 441866,
-      "name": "Festive Sounds",
-      "url": "https://open.spotify.com/track/2uhPbHxvHStBgk2rcm3tho"
-    },
-    {
-      "added_at": "2018-02-28 02:40:55",
-      "album": {
-        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
-        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
-      },
-      "artists": [
-        {
-          "name": "Guillaume de Machaut",
-          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
-        },
-        {
-          "name": "Ars Antiqua de Paris",
-          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
-      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
-    },
-    {
       "added_at": "2022-08-19 14:21:17",
       "album": {
         "name": "The Cantigas of Santa Maria of Alfonso X",
@@ -1995,6 +1975,26 @@
       "duration_ms": 208506,
       "name": "Rose Of All Roses",
       "url": "https://open.spotify.com/track/7289RJOEEm27R6KkyQc7vP"
+    },
+    {
+      "added_at": "2022-07-22 20:17:18",
+      "album": {
+        "name": "A Cheerful Noise, Medieval And Early Renaissance Music",
+        "url": "https://open.spotify.com/album/7Jq2mvsbxKmhyeimlIr7VE"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Musica Antiqua",
+          "url": "https://open.spotify.com/artist/1X9DgVzVehsmdExoNYIY1q"
+        }
+      ],
+      "duration_ms": 441866,
+      "name": "Festive Sounds",
+      "url": "https://open.spotify.com/track/2uhPbHxvHStBgk2rcm3tho"
     },
     {
       "added_at": "2020-07-17 11:54:44",
@@ -2069,26 +2069,6 @@
       "url": "https://open.spotify.com/track/4zVfdf7ETESISDZHSkqhjm"
     },
     {
-      "added_at": "2020-10-10 03:24:47",
-      "album": {
-        "name": "Tanzmusik der Renaissance",
-        "url": "https://open.spotify.com/album/7smeYXMBgI5y1dlp7nVIuE"
-      },
-      "artists": [
-        {
-          "name": "Jacques Moderne",
-          "url": "https://open.spotify.com/artist/4aCLRsXQ1s1uSvjvBrwDvY"
-        },
-        {
-          "name": "Collegium Aureum",
-          "url": "https://open.spotify.com/artist/3zIDEmXI9EVBCKFo4M99Re"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "3 Branles de Bourgogne and Branle gay nouveau",
-      "url": "https://open.spotify.com/track/5RsY0LMcEpAY89x3gDQKyx"
-    },
-    {
       "added_at": "2022-10-21 16:31:08",
       "album": {
         "name": "Istampitte: Danze italiane del Medioevo",
@@ -2107,6 +2087,26 @@
       "duration_ms": 345026,
       "name": "Ghaetta [Italian, 14th Century]",
       "url": "https://open.spotify.com/track/3gOEGVAtrx6FG7aSdLPJKF"
+    },
+    {
+      "added_at": "2020-10-10 03:24:47",
+      "album": {
+        "name": "Tanzmusik der Renaissance",
+        "url": "https://open.spotify.com/album/7smeYXMBgI5y1dlp7nVIuE"
+      },
+      "artists": [
+        {
+          "name": "Jacques Moderne",
+          "url": "https://open.spotify.com/artist/4aCLRsXQ1s1uSvjvBrwDvY"
+        },
+        {
+          "name": "Collegium Aureum",
+          "url": "https://open.spotify.com/artist/3zIDEmXI9EVBCKFo4M99Re"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "3 Branles de Bourgogne and Branle gay nouveau",
+      "url": "https://open.spotify.com/track/5RsY0LMcEpAY89x3gDQKyx"
     },
     {
       "added_at": "2022-12-02 20:12:07",

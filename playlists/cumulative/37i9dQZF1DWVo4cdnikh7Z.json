@@ -1732,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "Coffee (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02x5IAIJVv1UfSgA2SPhvX"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Dhinamum Poluthu",
+      "url": "https://open.spotify.com/track/506UnOCbgqpCaDURVBv2eI"
+    },
+    {
+      "album": {
         "name": "Dhoom Dhaam (From \"Dasara\") - Tamil",
         "url": "https://open.spotify.com/album/4mu7FeEKwUlcHTj5N9TxD5"
       },
@@ -3468,6 +3486,32 @@
     },
     {
       "album": {
+        "name": "Kannamma (From \"Kick\") - Single",
+        "url": "https://open.spotify.com/album/0pbGzlfamc5Qlb3z3t2Qlo"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Kannamma (From \"Kick\")",
+      "url": "https://open.spotify.com/track/3nMqALvWtTk6nc3GGEK6Wh"
+    },
+    {
+      "album": {
         "name": "Kanne Kanmaniyae (From \"Kaathuvaakula Rendu Kaadhal\")",
         "url": "https://open.spotify.com/album/3PhuGze3CkwMrSwgXZcLvt"
       },
@@ -4873,6 +4917,24 @@
       "duration_ms": 227692,
       "name": "Mudhala",
       "url": "https://open.spotify.com/track/4zywnVmS2ecmQNlmpzf8Cj"
+    },
+    {
+      "album": {
+        "name": "Muthuvel Pandian Theme (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103571,
+      "name": "Muthuvel Pandian Theme (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1"
     },
     {
       "album": {
@@ -9096,7 +9158,7 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220000,
+      "duration_ms": 193250,
       "name": "Vidungada Vidungada - From \"Ghosty\"",
       "url": "https://open.spotify.com/track/539QUXVgIagYb3vZ77765q"
     },

@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-84 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
+85 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [DOPE BOY](https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:39 | 2022-04-15 |  |
 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 | 2022-07-15 |  |
 | [DUBBI](https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:54 | 2022-04-15 | 2022-07-29 |
-| [Eclissi \(feat\. Neffa\)](https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/album/2T9HGGzn2cmF27zrUTHHN0) | 2:40 | 2022-04-15 |  |
+| [Eclissi \(feat\. Neffa\)](https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/album/2T9HGGzn2cmF27zrUTHHN0) | 2:40 | 2022-04-15 | 2022-12-16 |
 | [FANTASMI \(feat\. Geolier & Marracash\)](https://open.spotify.com/track/3uNEz1wYbu8s34jKDVVhMs) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [FANTASMI \(feat\. Geolier & Marracash\)](https://open.spotify.com/album/4SyvX5syFVUmPvC8yS9KPw) | 3:19 | 2022-04-15 |  |
 | [Federico](https://open.spotify.com/track/6QuHvSa8ZOA3nZsuFaHbXS) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:11 | 2022-04-15 | 2022-06-10 |
 | [Freccia](https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:21 | 2022-04-15 | 2022-06-10 |
@@ -47,6 +47,7 @@
 | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf) | 4:06 | 2022-06-09 |  |
 | [La G La U La E pt.2](https://open.spotify.com/track/3PHUQDyGYZhRJFSwbTXnsG) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:25 | 2022-04-15 | 2022-11-25 |
 | [La Haine](https://open.spotify.com/track/4HQAiEh8J9MIFmtLzuB24a) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:52 | 2022-06-09 | 2022-07-16 |
+| [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/track/0zocqG2uQugrTWzUBK1SCw) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0) | 2:51 | 2022-12-15 |  |
 | [LAVA FREESTYLE](https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [LAVA FREESTYLE](https://open.spotify.com/album/2iNH5aUtHwY85OiVCwBKfx) | 1:59 | 2022-06-09 |  |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/24rUo2kPLa3HfMCHypXmnH) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 4:59 | 2022-07-15 | 2022-08-05 |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:59 | 2022-04-15 | 2022-07-29 |

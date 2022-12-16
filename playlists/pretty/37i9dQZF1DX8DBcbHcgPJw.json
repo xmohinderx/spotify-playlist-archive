@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: El Polaco & La China.",
-  "num_followers": 1152364,
+  "num_followers": 1152528,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDVlMzBkMGUwOTQ2NWIyZGU5ZmMxMjRhMGQxNzM1ZTVk",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGU0ZTA3MjJjNGI1ZTdjNGQ2NjM5YTFlYjJkYjI2ZDE4",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
       },
       "artists": [
         {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 164081,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 139430,
       "name": "Se Pic\u00f3",
       "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 205613,
       "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
       "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "P\u00eddeme la Luna",
-        "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 169575,
-      "name": "P\u00eddeme la Luna",
-      "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "B\u00e9same (Remix)",
         "url": "https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 189510,
       "name": "B\u00e9same - Remix",
       "url": "https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "P\u00eddeme la Luna",
+        "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 169575,
+      "name": "P\u00eddeme la Luna",
+      "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Pegadito",
+        "url": "https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 165028,
+      "name": "Pegadito",
+      "url": "https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
       },
@@ -1611,26 +1631,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Pegadito",
-        "url": "https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 165028,
-      "name": "Pegadito",
-      "url": "https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
       },
@@ -1647,6 +1647,38 @@
       "duration_ms": 166736,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Gracias a Vos",
+        "url": "https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 129505,
+      "name": "Gracias a Vos",
+      "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1671,18 +1703,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
+        "name": "Sigue Bailando",
+        "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
       },
       "artists": [
         {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
+      "duration_ms": 159980,
+      "name": "Sigue Bailando",
+      "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1711,42 +1747,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Gracias a Vos",
-        "url": "https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 129505,
-      "name": "Gracias a Vos",
-      "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Sigue Bailando",
-        "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 159980,
-      "name": "Sigue Bailando",
-      "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Amor para un Rato",
         "url": "https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91"
-      },
-      "artists": [
-        {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Donde Estas",
         "url": "https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 154315,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Te Sigo",
-        "url": "https://open.spotify.com/album/3bCxNP94hZF0xNaRrLWNfc"
+        "name": "Enganchado #TocoParaVos (Cumbia mix)",
+        "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
       },
       "artists": [
         {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
         }
       ],
-      "duration_ms": 168936,
-      "name": "Te Sigo",
-      "url": "https://open.spotify.com/track/5JMt2HjEuEsokttuS9U7on"
+      "duration_ms": 180035,
+      "name": "Enganchado #TocoParaVos - Cumbia Mix",
+      "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

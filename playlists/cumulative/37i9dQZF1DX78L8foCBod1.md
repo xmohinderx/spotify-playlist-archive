@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-128 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
+129 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Tot Musica](https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:15 | 2022-09-15 |  |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-09-29 |
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 |  |
+| [TOUCH \- English Ver.](https://open.spotify.com/track/0Mfo0O3o28cwg5nhnC3DMW) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH \(English Ver.\)](https://open.spotify.com/album/4JY5h0hrhPu1Vj8kkY5rGY) | 3:04 | 2022-12-15 |  |
 | [TRACER](https://open.spotify.com/track/4bhPNXJUMNKHzvZlPVYYf6) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:22 | 2022-06-07 | 2022-07-29 |
 | [TRACER](https://open.spotify.com/track/5pZNL0ZqBQ9Z8hKPGLtVrl) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack](https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5) | 3:22 | 2022-06-21 |  |
 | [Tranquility](https://open.spotify.com/track/4U5PadmkZvwnEixcCVTuGM) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:43 | 2022-06-07 |  |

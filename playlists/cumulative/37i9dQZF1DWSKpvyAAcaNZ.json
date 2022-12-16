@@ -1161,7 +1161,7 @@
     {
       "album": {
         "name": "Family",
-        "url": "https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ"
+        "url": "https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I"
       },
       "artists": [
         {
@@ -1172,6 +1172,24 @@
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 286360,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
       "duration_ms": 287843,
       "name": "Family",
       "url": "https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj"

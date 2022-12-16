@@ -4,7 +4,7 @@
 
 > Timeless heart\-warming classics from 1950\- 1980 for the holiday season.
 
-105 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
+106 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0vmANNClszGQZ0FISySK61) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Jackson Five Christmas Album](https://open.spotify.com/album/6J7kk80VywP59lPn8E5Cal) | 2:59 | 2021-12-25 | 2022-07-29 |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 | 2021-12-25 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/3SLGEzmbQErTvFpPAtiSc7) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Favorites](https://open.spotify.com/album/2g61qZYcJbhI4p5GLHp2nw) | 3:01 | 2022-10-23 | 2022-11-13 |
+| [I Want a Hippopotamus for Christmas \(Hippo the Hero\)](https://open.spotify.com/track/5P8Xvy5tzhmfyfA6GplQ8h) | [Gayla Peevey](https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ) | [I Want a Hippopotamus for Christmas \(Hippo the Hero\)](https://open.spotify.com/album/0nuyFYoBsK4Z1j3DimhUZ4) | 2:35 | 2022-12-16 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/3tTpegNWYZFhkymRT2xhgF) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/14TY9gKgbCeJeezD8uGnD4) | 2:55 | 2021-12-25 | 2022-07-29 |
 | [I'll Be Home For Christmas \- Single Version](https://open.spotify.com/track/4x9RxveiWUlDahke6MKvrt) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [This Christmas](https://open.spotify.com/album/7LH4zb9sqLr8hX3SzwkmDq) | 2:53 | 2022-10-23 | 2022-11-13 |
 | [I'll Be Home For Christmas \- Single Version](https://open.spotify.com/track/1fjOitI0vZ41P63p1MQLcc) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 2:57 | 2021-12-25 |  |

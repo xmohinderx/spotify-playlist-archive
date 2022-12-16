@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,782 likes - 660 songs - 1 day 20 hr 24 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,783 likes - 661 songs - 1 day 20 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -668,5 +668,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 658 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 |
 | 659 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 |
 | 660 | [It's All In Your Mind \(feat\. Graham Coxon & Rahel Debebe\-Dessalegne\)](https://open.spotify.com/track/0GybSKd5oGeLMtCLbXhBoQ) | [Superstate](https://open.spotify.com/artist/0TLcN68jey7bYM2HQEdRgi), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rahel Debebe\-Dessalegne](https://open.spotify.com/artist/2SDNXRQ8uX3TJxu4t6EEO3) | [Superstate \(feat\. Graham Coxon\)](https://open.spotify.com/album/265K7BOpojsq3RvCVbjz1z) | 4:38 |
+| 661 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
 
-Snapshot ID: `MTY4MyxlNDBkM2VjNGJiNmZmNmJiOTZiNTcxMTg2YTdkZWYyM2U0ZDRmMWYw`
+Snapshot ID: `MTY4NCw1Mjc3N2NiNDAzZTY1ZDM2YWE0YTQwMjNlMjY4MTU2ZTQ5ZGY1OWRm`

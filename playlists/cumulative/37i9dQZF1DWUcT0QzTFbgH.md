@@ -4,7 +4,7 @@
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-111 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
+112 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 | 2020-09-01 |  |
 | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/track/0YhJO6feKxyGjwVo5NSXPD) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/album/2VZCTJ1tjALGYfT6IjdSVZ) | 2:33 | 2020-09-01 |  |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2020-09-01 |  |
-| [Memories](https://open.spotify.com/track/60n0uavWtFl3XMK7TzefB4) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories](https://open.spotify.com/album/0l1cQuO8xp4OvoUtjkBCZN) | 3:47 | 2020-09-01 |  |
+| [Memories](https://open.spotify.com/track/0H9aeVlzhelT1pjZW4aebD) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories Over Money](https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq) | 3:47 | 2020-09-01 |  |
+| [Memories](https://open.spotify.com/track/60n0uavWtFl3XMK7TzefB4) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories](https://open.spotify.com/album/0l1cQuO8xp4OvoUtjkBCZN) | 3:47 | 2020-09-01 | 2022-12-16 |
 | [Mr Sheeen \- Digga D x Russ Millions](https://open.spotify.com/track/2H3k1TAcWxtdLJ3wSOQng9) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Mr Sheeen \(Digga D x Russ splash\)](https://open.spotify.com/album/4qZNYTexOM8ZdW4o9Rpy9t) | 3:36 | 2020-09-01 | 2022-07-29 |
 | [Mr Sheeen \- Digga D x Russ Millions](https://open.spotify.com/track/5AiRANsO9d93VQh4jaumuM) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Mr Sheeen \(Digga D x Russ Millions\)](https://open.spotify.com/album/06gDG846xWXiMdTo6moNPu) | 3:36 | 2020-09-01 |  |
 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 | 2020-09-01 |  |

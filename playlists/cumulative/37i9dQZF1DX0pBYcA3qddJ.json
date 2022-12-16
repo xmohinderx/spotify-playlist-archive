@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 273777,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS"
@@ -1831,6 +1831,24 @@
       "duration_ms": 97722,
       "name": "Menuet - Piano Version",
       "url": "https://open.spotify.com/track/2Dmx10bFEHDmzfK3XAOehj"
+    },
+    {
+      "album": {
+        "name": "Mercy through the Clouds",
+        "url": "https://open.spotify.com/album/4sU68bQNkqQrIZGtxCYYqb"
+      },
+      "artists": [
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279930,
+      "name": "Mercy through the Clouds",
+      "url": "https://open.spotify.com/track/5D6GPHLuelrjivumi4YWwt"
     },
     {
       "album": {

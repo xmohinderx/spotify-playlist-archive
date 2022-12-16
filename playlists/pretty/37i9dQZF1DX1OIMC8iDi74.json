@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 871028,
+  "num_followers": 871132,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5NjE3NSwwMDAwMDAwMDYyZTcyYmVjNTAzM2E0MDQ2MzhmODIxMjlkZWM0OTcw",
+  "snapshot_id": "MTY2OTk5NjE3NSwwMDAwMDAwMGM1NDU1NmM0NzY1ZTAwMTRhZWUxY2IzZTRlZGNjZTJl",
   "tracks": [
     {
       "added_at": "2022-11-28 05:00:00",
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
     },
     {
-      "added_at": "2022-12-15 01:17:23",
+      "added_at": "2022-12-16 01:02:34",
       "album": {
         "name": "Act Like You Know",
         "url": "https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj"
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+    },
+    {
+      "added_at": "2022-11-28 05:00:00",
+      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
-    },
-    {
-      "added_at": "2022-11-28 05:00:00",
-      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
       },
@@ -451,6 +451,26 @@
       "duration_ms": 184273,
       "name": "Us",
       "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
+    },
+    {
+      "added_at": "2022-11-28 05:00:00",
+      "album": {
+        "name": "Westcoast G-House Compilation",
+        "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Baby Eazy E",
+          "url": "https://open.spotify.com/artist/4NyEOTt3m81ufeECwdoTn7"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
+      "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
     },
     {
       "added_at": "2022-11-28 05:00:00",
@@ -475,26 +495,6 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
-    },
-    {
-      "added_at": "2022-11-28 05:00:00",
-      "album": {
-        "name": "Westcoast G-House Compilation",
-        "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Baby Eazy E",
-          "url": "https://open.spotify.com/artist/4NyEOTt3m81ufeECwdoTn7"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
-      "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
     },
     {
       "added_at": "2022-11-28 05:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
-        "name": "Birdz (with Smokepurpp)",
-        "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Birdz (with Smokepurpp)",
-      "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
-    },
-    {
-      "added_at": "2022-11-28 05:00:00",
-      "album": {
         "name": "Radical Dude!",
         "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 212631,
       "name": "Forget It (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
+    },
+    {
+      "added_at": "2022-11-28 05:00:00",
+      "album": {
+        "name": "Birdz (with Smokepurpp)",
+        "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Birdz (with Smokepurpp)",
+      "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
     },
     {
       "added_at": "2022-11-28 05:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
-    },
-    {
-      "added_at": "2022-11-28 05:00:00",
-      "album": {
         "name": "Blood For Mercy",
         "url": "https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 274966,
       "name": "Jungle Juice",
       "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
+    },
+    {
+      "added_at": "2022-11-28 05:00:00",
+      "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2022-11-28 05:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
-        "name": "OCCULT CLASSIC",
-        "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Feed Me",
-          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "I Do Coke",
-      "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
-    },
-    {
-      "added_at": "2022-11-28 05:00:00",
-      "album": {
         "name": "Red // Blue",
         "url": "https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 254879,
       "name": "Crash 2.0",
       "url": "https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l"
+    },
+    {
+      "added_at": "2022-11-28 05:00:00",
+      "album": {
+        "name": "OCCULT CLASSIC",
+        "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "I Do Coke",
+      "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
     },
     {
       "added_at": "2022-11-28 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
-    },
-    {
-      "added_at": "2022-11-28 05:00:00",
-      "album": {
         "name": "Rail Breaker (feat. Rico Act)",
         "url": "https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 225116,
       "name": "Rail Breaker (feat. Rico Act)",
       "url": "https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m"
+    },
+    {
+      "added_at": "2022-11-28 05:00:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2022-11-28 05:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 161279,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
+    },
+    {
+      "added_at": "2022-11-28 05:00:00",
+      "album": {
         "name": "It's Our Destiny",
         "url": "https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2022-11-28 05:00:00",
       "album": {
-        "name": "Casper",
-        "url": "https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq"
+        "name": "futura",
+        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
         }
       ],
-      "duration_ms": 161279,
-      "name": "Casper",
-      "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
+      "duration_ms": 206086,
+      "name": "Nothing Less",
+      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
     },
     {
       "added_at": "2022-11-28 05:00:00",
@@ -1939,22 +1955,6 @@
       "duration_ms": 178285,
       "name": "No Chill",
       "url": "https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2"
-    },
-    {
-      "added_at": "2022-11-28 05:00:00",
-      "album": {
-        "name": "futura",
-        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
-      },
-      "artists": [
-        {
-          "name": "Knapsack",
-          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
     }
   ],
   "unique_name": "Trap Mojito",

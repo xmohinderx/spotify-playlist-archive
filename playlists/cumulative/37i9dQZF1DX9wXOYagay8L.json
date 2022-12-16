@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=V7mkmrZFSf69jkGX0dhgLQ\">Lloyiso</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=_1tjXUnTS2CRapuxEexbmA\">Msaki</a> and <a href=\"https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=FlqIEG2USBCH2hQnLNMxew\">Tubatsi Mpho Moloi</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -163,6 +163,28 @@
       "duration_ms": 264805,
       "name": "All 2.0",
       "url": "https://open.spotify.com/track/39Bhr2KDJVTJb3guVOjPAj"
+    },
+    {
+      "album": {
+        "name": "All In You",
+        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Kemy Chienda",
+          "url": "https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512182,
+      "name": "All In You",
+      "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
     },
     {
       "album": {
@@ -367,7 +389,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 272970,
       "name": "Angeke",
       "url": "https://open.spotify.com/track/1TlGAC6DkwEwlHMhjh1owp"
@@ -499,7 +521,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 254117,
       "name": "Badimo (feat. DJ Maphorisa & Boohle)",
       "url": "https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1"
@@ -857,7 +879,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 246984,
       "name": "Dali Wam",
       "url": "https://open.spotify.com/track/2VYnpS5WSfaoIHPbVVQYTZ"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 340553,
       "name": "Eloyi",
       "url": "https://open.spotify.com/track/5eQgeOV8yayNjWywNdhmgO"
@@ -2033,7 +2055,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 210000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp"
@@ -2059,7 +2081,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 388326,
       "name": "Intaba",
       "url": "https://open.spotify.com/track/4KtwO2thHzIOEymDArz314"
@@ -3052,6 +3074,28 @@
     },
     {
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Tubatsi Mpho Moloi",
+          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/152r40YkplZWECHc392lTa"
+    },
+    {
+      "album": {
         "name": "MaGear",
         "url": "https://open.spotify.com/album/2vN1f32aIIHTRtJ44dQ4Ll"
       },
@@ -3773,7 +3817,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 260909,
       "name": "Ngifuna Ukuba",
       "url": "https://open.spotify.com/track/1XW3hfd2u94eSgetTjjO5h"
@@ -3959,7 +4003,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 219125,
       "name": "Ngizokthanda",
       "url": "https://open.spotify.com/track/4MRDfU114k3dd6jGHgEtva"
@@ -4531,7 +4575,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
@@ -4557,7 +4601,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 362143,
       "name": "Qhawe",
       "url": "https://open.spotify.com/track/25r01YGUOBzlnExFSEtNbt"
@@ -5121,10 +5165,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 205368,
       "name": "Sobabini",
       "url": "https://open.spotify.com/track/7fB7c0yhQyYiTr6DIn9YMq"
+    },
+    {
+      "album": {
+        "name": "Words of Hope",
+        "url": "https://open.spotify.com/album/78D6xzkUvdpGiVSMvckSOM"
+      },
+      "artists": [
+        {
+          "name": "Q Twins",
+          "url": "https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314117,
+      "name": "Sobonana",
+      "url": "https://open.spotify.com/track/2rkUVpUm885ZdY06e3Ub0v"
     },
     {
       "album": {
@@ -5293,7 +5355,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 183666,
       "name": "Subaleka",
       "url": "https://open.spotify.com/track/7nb5iVaBLVlEXP9Q1sBUkA"
@@ -5359,7 +5421,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 219310,
       "name": "Take Me There (feat. Blxckie)",
       "url": "https://open.spotify.com/track/7JAfgeowFwEHZlpVU7SZep"
@@ -5910,6 +5972,32 @@
     },
     {
       "album": {
+        "name": "Umqhele neThawula",
+        "url": "https://open.spotify.com/album/4CSrPnYgfBryiXQ9Cb7GCC"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        },
+        {
+          "name": "Luve",
+          "url": "https://open.spotify.com/artist/7MXQWujZmOFQ3IouZ5gTt9"
+        },
+        {
+          "name": "Sphesihle",
+          "url": "https://open.spotify.com/artist/0bLiVRnGVidMR9P5Cycy5S"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237661,
+      "name": "Umuntu Onengane",
+      "url": "https://open.spotify.com/track/5NSLmgHkOpcnYySB2vD8NB"
+    },
+    {
+      "album": {
         "name": "Umuntu Womuntu",
         "url": "https://open.spotify.com/album/1RKQsWNYYgqkdQvbZJsX5Y"
       },
@@ -6101,7 +6189,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 319687,
       "name": "Vhuludu",
       "url": "https://open.spotify.com/track/1MjOrrnPi3vEfxvF911ZIb"

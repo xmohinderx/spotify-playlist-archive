@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,595 likes - 68 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,675 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 35 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
 | 36 | [Wine All Day](https://open.spotify.com/track/0fBWiprmkqmJSNz6PGVJ4O) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Gyalentine's](https://open.spotify.com/album/332nQtkhrKf6OHe3PJ7a6g) | 3:29 |
 | 37 | [Mek Money](https://open.spotify.com/track/3MVbaHUhFefg7RKjTXMoa9) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Mek Money](https://open.spotify.com/album/5Evsbapiw54PEtMa7tpSGe) | 2:13 |
-| 38 | [Humans](https://open.spotify.com/track/07wqYnbgiSsNs0cRA4G1Pc) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P), [Troublemekka](https://open.spotify.com/artist/1e2IViEWclFirkU6YbG7cE) | [Humans](https://open.spotify.com/album/0cslPzkYON9UbEjDj1ffYL) | 2:35 |
+| 38 | [Humans](https://open.spotify.com/track/5EHhAc5KT0VsHMBwogVXtw) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P), [Troublemekka](https://open.spotify.com/artist/1e2IViEWclFirkU6YbG7cE) | [Humans](https://open.spotify.com/album/16Ry7ztMf39OJNYHkJzcQv) | 2:35 |
 | 39 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
 | 40 | [Bitcoin](https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [TroyBoss](https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr) | [Bitcoin](https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp) | 3:16 |
 | 41 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 67 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 68 | [Sorry](https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:25 |
 
-Snapshot ID: `MTY2MjcyODI2MSwwMDAwMDAwMDgzODZkMzVkZWYzZDJmZmRiYjFkNzk4Y2EyZDcwZjNh`
+Snapshot ID: `MTY2MjcyODI2MSwwMDAwMDAwMDZjMTFhZjMyNzhmM2NiODI2MjlkNDY2ODk4YWUwMGQ3`

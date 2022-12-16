@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Paloma Mami, Pailita, El Jordan 23",
-  "num_followers": 56660,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: 3AM",
+  "num_followers": 56655,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzU4Niw1NzMzNGNjY2VmNmNjYmNhYzViZmMyODVmOTA5MTQyZDUzYTQ2MTVh",
+  "snapshot_id": "MzU4OSxhMzQ4YTIyMmE0Mjk0Y2ZjMzRlNzYwYjAzZjNlOGI5MDA1MTY5YWRi",
   "tracks": [
+    {
+      "added_at": "2022-12-15 15:03:21",
+      "album": {
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 147149,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
+    },
     {
       "added_at": "2022-12-09 14:38:14",
       "album": {
@@ -47,6 +63,26 @@
       "duration_ms": 221359,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
+    },
+    {
+      "added_at": "2022-12-15 18:44:15",
+      "album": {
+        "name": "Piano y Mujer II",
+        "url": "https://open.spotify.com/album/0PlPEqIeW4t3oTa0biWs0C"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/0fip1wGAK0cDuk2gnK6H0E"
     },
     {
       "added_at": "2022-12-09 14:37:34",

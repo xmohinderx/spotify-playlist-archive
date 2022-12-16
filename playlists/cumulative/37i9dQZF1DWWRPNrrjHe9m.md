@@ -4,7 +4,7 @@
 
 > Hear all of SMTOWN's biggest and best hits in one playlist.
 
-195 songs - 12 hr 41 min - not published yet
+196 songs - 12 hr 44 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blue…](https://open.spotify.com/track/1eMBsHmG4cShtOwBSrM15V) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [2002 SUMMER VACATION in SMTOWN.COM](https://open.spotify.com/album/59KnIxsURaQ1wabZZpyf67) | 4:32 | 2022-12-14 |  |
 | [Brand\-new Weekend](https://open.spotify.com/track/0jHoPl5m5v8mbG7t2uFIAC) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [2002 SUMMER VACATION in SMTOWN.COM](https://open.spotify.com/album/59KnIxsURaQ1wabZZpyf67) | 3:51 | 2022-12-14 |  |
 | [Catch the shooting star](https://open.spotify.com/track/3W0mHod2lH4FcPZcePBMqi) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2006 Summer Smtown](https://open.spotify.com/album/2DWlSJ0MVDJKq11VNCeHcT) | 3:53 | 2022-12-14 |  |
+| [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 |  |
 | [Chocolate](https://open.spotify.com/track/7nvlIM7y9aLX6bYyFHORAL) | [Dana](https://open.spotify.com/artist/2U1kXH85zg4so8V6xMctYF) | [Winter Vacation in SMTOWN.com \- Angel Eyes](https://open.spotify.com/album/3nHNulZ1pybkNcM5NeErQA) | 3:47 | 2022-12-14 |  |
 | [Choice](https://open.spotify.com/track/05T9uWdICcDP20ypF6Akd6) | [BLACK BEAT](https://open.spotify.com/artist/2CMKHXDN87KM79bb2Ka902) | [2003 Winter Vacation in SMTOWN.com](https://open.spotify.com/album/7mvRWLuHQSyDVOQG7Ls8Th) | 3:09 | 2022-12-14 |  |
 | [Christmas Sale](https://open.spotify.com/track/2cyjwzZJbx9MkOay2Gh21m) | [Song Kwang Sik](https://open.spotify.com/artist/61k33ukHeA0PhG8YuYpPF8) | [2002 Winter Vacation in SMTOWN.com](https://open.spotify.com/album/4pdwJZhAyJ16LurCp7hG4a) | 3:55 | 2022-12-14 |  |

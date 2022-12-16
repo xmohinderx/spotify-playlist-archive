@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,821 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,841 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 21 | [Girls Like Us](https://open.spotify.com/track/2kORFfHwy7w4a24WHrOb7b) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa) | [Girls Like Us](https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg) | 3:07 |
 | 22 | [See You There](https://open.spotify.com/track/05ZL7014sMgCT8M4D05TDa) | [TiDUS](https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj) | [See You There](https://open.spotify.com/album/2MlBeY3XdDK17lj7mJWfzU) | 4:32 |
 | 23 | [Leap](https://open.spotify.com/track/5uJxjqSehYT3ZutreHtc0z) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 4:49 |
-| 24 | [Memories](https://open.spotify.com/track/60n0uavWtFl3XMK7TzefB4) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories](https://open.spotify.com/album/0l1cQuO8xp4OvoUtjkBCZN) | 3:47 |
+| 24 | [Memories](https://open.spotify.com/track/0H9aeVlzhelT1pjZW4aebD) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories Over Money](https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq) | 3:47 |
 | 25 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 |
 | 26 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
 | 27 | [For Me](https://open.spotify.com/track/4O2I4UYYjPnsBE1EWmDUFO) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Soulection Black Label: Devin Tracy](https://open.spotify.com/album/61LtXSZFP4kSB776PrPcoP) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 79 | [About Her](https://open.spotify.com/track/7iQDsonHSnaT6hNBJUaRe9) | [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [About Her](https://open.spotify.com/album/2oPrc4DfMZTI1Bh2ZrSgfF) | 3:31 |
 | 80 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
 
-Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMGJiNTU1ZmI2NjQ0NTZkN2YzY2Y4ZWQ0YTkzZjZhYjRj`
+Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMGI4ODg5ZjM3MWQ0MzI5NDdmZmE4NjMzNTkyYWY4OGYz`

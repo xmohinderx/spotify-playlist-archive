@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 23020,
+  "num_followers": 23053,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGY1ZGFiZTdlNTBmNTM1ZWJkNzU0NWMwZjAzMmM2MTE2",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGNhODU2OTYxMTVmNDc3OGRkN2E3NjJkMGQ5MmMyMzE2",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 170746,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 206674,
       "name": "Lo Que en Ti Veo",
       "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/06xlsaBCqSZ7vDVUcvMn77"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/64IRsSyqwD0CBbFAfrR0rT"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Andan Diciendo",
         "url": "https://open.spotify.com/album/4QnRBgWvHDjy8i1buxbHxh"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 221345,
       "name": "Andan Diciendo",
       "url": "https://open.spotify.com/track/0wt2PeQ8AeBlx6WbgoM97r"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/06xlsaBCqSZ7vDVUcvMn77"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/64IRsSyqwD0CBbFAfrR0rT"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Cuando Vuelvas",
         "url": "https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 193120,
       "name": "Cuando Vuelvas",
       "url": "https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 159172,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Balada Para Perrear",
-        "url": "https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Balada Para Perrear",
-      "url": "https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 187400,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Balada Para Perrear",
+        "url": "https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Balada Para Perrear",
+      "url": "https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1863,38 +1863,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Flow Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 175610,
-      "name": "Flow Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/66bYpXlvjXz2Eh8OXGDKJF"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1911,6 +1879,22 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1943,6 +1927,22 @@
       "duration_ms": 182400,
       "name": "LNDF",
       "url": "https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Flow Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 175610,
+      "name": "Flow Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/66bYpXlvjXz2Eh8OXGDKJF"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
-      },
-      "artists": [
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Soy As\u00ed",
         "url": "https://open.spotify.com/album/7e7GLih85DGKqsXxfqa7OH"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "De Qu\u00e9 Sirve",
-        "url": "https://open.spotify.com/album/5CEohogm9tC85m92zXpmQZ"
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
         }
       ],
-      "duration_ms": 155579,
-      "name": "De Qu\u00e9 Sirve",
-      "url": "https://open.spotify.com/track/1uGVTBOzltXEbOH7qSfuHL"
+      "duration_ms": 208000,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2071,6 +2055,22 @@
       "duration_ms": 242063,
       "name": "Flotando",
       "url": "https://open.spotify.com/track/2AoRRax8pJeQEj9nGDUKob"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "De Qu\u00e9 Sirve",
+        "url": "https://open.spotify.com/album/5CEohogm9tC85m92zXpmQZ"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 155579,
+      "name": "De Qu\u00e9 Sirve",
+      "url": "https://open.spotify.com/track/1uGVTBOzltXEbOH7qSfuHL"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "NTN",
-        "url": "https://open.spotify.com/album/4aqRx97DXSOUdkT3cRYtrI"
+        "name": "Un Baile Mas",
+        "url": "https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5"
       },
       "artists": [
         {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 184336,
-      "name": "NTN",
-      "url": "https://open.spotify.com/track/0LeTs7ArmNbMEoZnJFemWn"
+      "duration_ms": 223240,
+      "name": "Un Baile Mas",
+      "url": "https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Un Baile Mas",
-        "url": "https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Un Baile Mas",
-      "url": "https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 215257,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "NTN",
+        "url": "https://open.spotify.com/album/4aqRx97DXSOUdkT3cRYtrI"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 184336,
+      "name": "NTN",
+      "url": "https://open.spotify.com/track/0LeTs7ArmNbMEoZnJFemWn"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Y T\u00fa No Est\u00e1s (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/2XVDD8W0x6ahjgK5k29DHs"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 160203,
-      "name": "Y T\u00fa No Est\u00e1s - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/26Y1kBZAMkH5rGxv5nwfJx"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "DUALITY",
         "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 196000,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Y T\u00fa No Est\u00e1s (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/2XVDD8W0x6ahjgK5k29DHs"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 160203,
+      "name": "Y T\u00fa No Est\u00e1s - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/26Y1kBZAMkH5rGxv5nwfJx"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "2050",
+        "url": "https://open.spotify.com/album/1Klza85GWJk8UXfnO6Z4jE"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 144066,
+      "name": "2050",
+      "url": "https://open.spotify.com/track/3QH4zxq7lDbIbS8UQzjmvu"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Qui\u00e9n Podr\u00e1 Saberlo",
         "url": "https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "2050",
-        "url": "https://open.spotify.com/album/1Klza85GWJk8UXfnO6Z4jE"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 144066,
-      "name": "2050",
-      "url": "https://open.spotify.com/track/3QH4zxq7lDbIbS8UQzjmvu"
     },
     {
       "added_at": "2022-03-28 14:23:43",

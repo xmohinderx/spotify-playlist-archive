@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 21336,
+  "num_followers": 21349,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMGJlNDJlYzUwNGIyMDVlOTRjZTdlMmM2NGExODJkMjVm",
+  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMDlmNjVhMjgyZWNkMmRkZjg4NGM5MmNiY2VkMGUwOGVh",
   "tracks": [
     {
       "added_at": "2020-04-14 00:02:38",
@@ -807,26 +807,6 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Fruko el Patillero",
-        "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Wilson \"Saoko\" Manyoma",
-          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Patillero",
-      "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 237633,
       "name": "Pan De Piquito",
       "url": "https://open.spotify.com/track/4st0c4ezBpkYAXpfO0SLs2"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "Fruko el Grande",
+        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Manyoma",
+      "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
     },
     {
       "added_at": "2020-04-14 00:02:38",

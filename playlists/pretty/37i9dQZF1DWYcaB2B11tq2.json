@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 323341,
+  "num_followers": 323566,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDY5MDk2OTJjZTJkMzM2NmU0YjJhYzY3NjhjZTk5ZTUw",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMGY1Y2I2YTk5NzBmMWY4YzIwNGU1NTg5YTZkNjY3MTM4",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -143,18 +143,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "25 Concierto Conmemorativo",
-        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+        "name": "Operaci\u00f3n Mundial",
+        "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Temprano yo te buscar\u00e9",
-      "url": "https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW"
+      "duration_ms": 270186,
+      "name": "El Nombre De Jes\u00fas (feat. Christine D\u00b4Clario)",
+      "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -175,22 +179,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Operaci\u00f3n Mundial",
-        "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
+        "name": "25 Concierto Conmemorativo",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
       },
       "artists": [
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 270186,
-      "name": "El Nombre De Jes\u00fas (feat. Christine D\u00b4Clario)",
-      "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
+      "duration_ms": 185933,
+      "name": "Temprano yo te buscar\u00e9",
+      "url": "https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No M\u00e1s",
-        "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        }
-      ],
-      "duration_ms": 206865,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
-        "url": "https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 409217,
-      "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
-      "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Ama A Dios Y A Tu Vecino",
         "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 206133,
       "name": "Ama A Dios Y A Tu Vecino",
       "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
+        "url": "https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 409217,
+      "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
+      "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "No M\u00e1s",
+        "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "duration_ms": 206865,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4"
     },
     {
       "added_at": "2021-05-21 19:19:27",

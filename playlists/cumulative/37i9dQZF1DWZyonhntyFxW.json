@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e\n! \u063a\u0644\u0627\u0641: \u0627\u0628\u0648 \u0627\u0644\u0627\u0646\u0648\u0627\u0631",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e\n ! \u063a\u0644\u0627\u0641: \u0641\u0644\u064a\u0643\u0633",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "published_playlist_ids": [
     "6yEdqmm0KWZqYgvxTRioiU"
@@ -1178,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "MESAMA3EEN (Deluxe)",
+        "url": "https://open.spotify.com/album/0F05Bs9oMtCyuAd22o4xKQ"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180425,
+      "name": "MESAMA3EEN",
+      "url": "https://open.spotify.com/track/6gg53gW5wlz0jSQmOcqIfY"
+    },
+    {
+      "album": {
         "name": "MESH ZAY ELE 7ASO",
         "url": "https://open.spotify.com/album/4FYA7i61BUnjbgfoVCLBnC"
       },
@@ -2205,7 +2227,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 116687,
       "name": "\u063a\u0627\u063a\u0629",
       "url": "https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "The absolute hardest dance with hardcore and uptempo",
+  "description": "Hardcore and uptempo to get you pumped",
   "name": "Hardcore Rage",
   "published_playlist_ids": [],
   "tracks": [
@@ -21,6 +21,28 @@
       "duration_ms": 177166,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1"
+    },
+    {
+      "album": {
+        "name": "Aguila",
+        "url": "https://open.spotify.com/album/5aixm3KEOdtOaTXgW3Bs5C"
+      },
+      "artists": [
+        {
+          "name": "Tears Of Fury",
+          "url": "https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX"
+        },
+        {
+          "name": "Kick Therapy",
+          "url": "https://open.spotify.com/artist/2xy8VXCyJDdFYUxYGXbfpf"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199783,
+      "name": "Aguila",
+      "url": "https://open.spotify.com/track/3iZGBhU96lWp6pZSpiisIr"
     },
     {
       "album": {
@@ -319,6 +341,28 @@
       "duration_ms": 223215,
       "name": "Cryexgenic",
       "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
+    },
+    {
+      "album": {
+        "name": "DANCEFLOOR SLAYER",
+        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "DANCEFLOOR SLAYER",
+      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
     },
     {
       "album": {
@@ -757,7 +801,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 173100,
       "name": "Go Wild Now",
       "url": "https://open.spotify.com/track/4bLBf2HAZj2X8ENelaqWnW"
@@ -1145,7 +1189,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 213890,
       "name": "Loco",
       "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
@@ -1337,7 +1381,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 227294,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ"
@@ -1417,7 +1461,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 201600,
       "name": "One Night Stand",
       "url": "https://open.spotify.com/track/7HOWys2dsGujopmih84kYW"
@@ -1519,7 +1563,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 256665,
       "name": "Projet 19",
       "url": "https://open.spotify.com/track/6sCuHk1wZhvj4UCNOu3ndg"
@@ -1734,6 +1778,28 @@
     },
     {
       "album": {
+        "name": "So Druff (D-Fence Remix)",
+        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
+      },
+      "artists": [
+        {
+          "name": "KNTRLVRLST",
+          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
+        },
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166950,
+      "name": "So Druff - D-Fence Remix",
+      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
+    },
+    {
+      "album": {
         "name": "Somebody Scream",
         "url": "https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf"
       },
@@ -1866,6 +1932,28 @@
     },
     {
       "album": {
+        "name": "The Deadly Fist",
+        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194710,
+      "name": "The Deadly Fist",
+      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
+    },
+    {
+      "album": {
         "name": "The Hood",
         "url": "https://open.spotify.com/album/35NlVrFFOodmyJ9EWrCL94"
       },
@@ -1939,6 +2027,28 @@
       "duration_ms": 319500,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/65qF8kMxmpKagt23L0jJJv"
+    },
+    {
+      "album": {
+        "name": "It's Time EP",
+        "url": "https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp"
+      },
+      "artists": [
+        {
+          "name": "Distinction",
+          "url": "https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3"
+        },
+        {
+          "name": "Kelly",
+          "url": "https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239745,
+      "name": "The Protector",
+      "url": "https://open.spotify.com/track/48IF3j773hpoiFt97HyooD"
     },
     {
       "album": {

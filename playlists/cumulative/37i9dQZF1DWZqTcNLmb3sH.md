@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-462 songs - 1 day 4 hr 34 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+463 songs - 1 day 4 hr 37 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Jokke Jokke Meke](https://open.spotify.com/track/6VrUjrTpZyMsk7kl7S24UD) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Pushpa \- The Rise](https://open.spotify.com/album/4c4Le2gBEqOZPE8GeSDvUJ) | 4:55 | 2021-12-06 | 2022-03-18 |
 | [Jopana Jopana \(From "Dear Sathya"\)](https://open.spotify.com/track/429kjIyw141PNJDRKZ2Cvv) | [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Shwetha Devanahally](https://open.spotify.com/artist/5FD2EKVNcrtZSxxo0UywQU) | [Jopana Jopana \(From "Dear Sathya"\)](https://open.spotify.com/album/5HkDJT73ycdhpJPGEkznU9) | 3:52 | 2022-02-16 | 2022-07-19 |
 | [Journey Song \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/track/4ixlyMvq9In20ZxZzSQY76) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Abhinandan Mahishale](https://open.spotify.com/artist/11w66sb6c5vljMpHqM4cyq) | [Journey Song \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/album/0ulla4tIB0JjIqx1elY69J) | 3:08 | 2022-05-31 | 2022-11-15 |
+| [Junjappa \(From "Vedha"\)](https://open.spotify.com/track/3qP5knNwVKwgHAbjXEeS8H) | [Mohan Kumar N](https://open.spotify.com/artist/6IHdeveUdgaHWaYxYlbDIe), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Junjappa \(From "Vedha"\)](https://open.spotify.com/album/1JZdSryh7Edy3TjLBdap6p) | 2:54 | 2022-12-15 |  |
 | [Kaavalugaara](https://open.spotify.com/track/6ZY5jOFuPR3ZzE1ohq8v1D) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Gandhada Gudi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7) | 3:24 | 2022-11-11 |  |
 | [Kadala Neeru](https://open.spotify.com/track/5oiDeSE5JcYilMwWrkCFxN) | [Praveen B V](https://open.spotify.com/artist/49NyuCUNHTqEXi3h3aeR7R), [Pradeep B V](https://open.spotify.com/artist/3Xy1GmjVSNwPk32EQcRF0W), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [9 Sullu Kathegalu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1t5FsnyyDLJOJZHKq6BCV2) | 5:21 | 2022-10-21 |  |
 | [Kadiyalenu \- From "Girki"](https://open.spotify.com/track/4WgHm8Uucf3vFVsj7idtp3) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Veer Samarth](https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb) | [Kadiyalenu \(From "Girki"\)](https://open.spotify.com/album/0lR0WXPJX1EHpnCQFCzpXh) | 3:35 | 2022-06-17 | 2022-11-19 |

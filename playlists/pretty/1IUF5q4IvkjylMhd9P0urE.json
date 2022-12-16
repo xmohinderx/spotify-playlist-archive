@@ -1,13 +1,629 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 13919,
+  "num_followers": 13921,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NTcwMSwxOGEyMTA4YTVlZWE0YmQ3YmNhZjc1MDNhNzM1ZjAzMmMyNDQzY2M0",
+  "snapshot_id": "NTc0MywyYzJlOTVjNGE1Y2ZjMzlhNWUyMDNlMjNmYmE5MGNmMTMxNDg4MDQ5",
   "tracks": [
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "Safety Trance",
+          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
+        }
+      ],
+      "duration_ms": 144848,
+      "name": "El Alma Que Te Trajo",
+      "url": "https://open.spotify.com/track/283mPHzqe78pjHM5Qmxzbj"
+    },
+    {
+      "added_at": "2022-12-15 15:07:02",
+      "album": {
+        "name": "The Smile (Live at Montreux Jazz Festival, July 2022)",
+        "url": "https://open.spotify.com/album/6x4C6uMJqQnnp4V39p2CeO"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 713502,
+      "name": "Free In The Knowledge / A Hairdryer - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/6GNzl4ZHlgSfI9VdwoViKj"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "CUTE",
+        "url": "https://open.spotify.com/album/6BvDmyz4nJ9ucotNDbEnWh"
+      },
+      "artists": [
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        }
+      ],
+      "duration_ms": 252372,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/0HRQV29BEwodvpc5R4nOQK"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Kepko",
+        "url": "https://open.spotify.com/album/6FY063UrUu9kj8ixxjSByb"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "Kepko",
+      "url": "https://open.spotify.com/track/5VChaeq6hagzFFwDsWETyz"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Quick EP",
+        "url": "https://open.spotify.com/album/3CUx8j4SgUTrS3CE9dudyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        }
+      ],
+      "duration_ms": 349249,
+      "name": "El Es",
+      "url": "https://open.spotify.com/track/57PPncVwuda48YRxr24baj"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Cabal",
+        "url": "https://open.spotify.com/album/5iJjtQm6vFxxLXRJ6GjpWe"
+      },
+      "artists": [
+        {
+          "name": "Bony Fly",
+          "url": "https://open.spotify.com/artist/4txxnm9n7BbkE5Srh1hvhb"
+        }
+      ],
+      "duration_ms": 174821,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/6WH3twQZkHy9gEgm9p0KAz"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Unfolding (Momentum 73) [Ron Trent Remix]",
+        "url": "https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "duration_ms": 512250,
+      "name": "Unfolding (Momentum 73) - Ron Trent Remix",
+      "url": "https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5"
+    },
+    {
+      "added_at": "2022-12-15 15:06:37",
+      "album": {
+        "name": "Love Proceeding (Macroblank Remix)",
+        "url": "https://open.spotify.com/album/6IvrHAkbAL8HLvEImSrPZa"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Macroblank",
+          "url": "https://open.spotify.com/artist/3UtbUAUFLZgdcCc4Gz5n2x"
+        }
+      ],
+      "duration_ms": 324143,
+      "name": "Love Proceeding - Macroblank Remix",
+      "url": "https://open.spotify.com/track/58C4XgtfeCDVveVJZuuDGG"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Njhyi",
+        "url": "https://open.spotify.com/album/34aeHv13Z3EvhebL8Q0KKc"
+      },
+      "artists": [
+        {
+          "name": "Nok Cultural Ensemble",
+          "url": "https://open.spotify.com/artist/1l86xfU0r4xOtpixJe8BSx"
+        },
+        {
+          "name": "Angel Bat Dawid",
+          "url": "https://open.spotify.com/artist/59lypjMPo7ZILhNMCgaE19"
+        }
+      ],
+      "duration_ms": 172929,
+      "name": "Enlightenment vol. 2",
+      "url": "https://open.spotify.com/track/31VtOnMmtOOq12xyMMECKx"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Reuts",
+        "url": "https://open.spotify.com/album/795vZthVqnG9wdjAqXsMux"
+      },
+      "artists": [
+        {
+          "name": "QuinzeQuinze",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "duration_ms": 326622,
+      "name": "Reuts",
+      "url": "https://open.spotify.com/track/6nhd4cWEYapY5704NqOcOk"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Give It 2 Me",
+        "url": "https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Give It 2 Me - Edit",
+      "url": "https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Fuck It!",
+        "url": "https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2"
+      },
+      "artists": [
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        },
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Fuck It!",
+      "url": "https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Body/Prison",
+        "url": "https://open.spotify.com/album/50Y0w1vApZUlCQSpX6SAX7"
+      },
+      "artists": [
+        {
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Body/Prison",
+      "url": "https://open.spotify.com/track/6LqE48CXOxUdElCB0NsP3D"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Dumb Dumb",
+        "url": "https://open.spotify.com/album/6znhKIVM7AxQC2KgB88PAW"
+      },
+      "artists": [
+        {
+          "name": "Calm Stiege",
+          "url": "https://open.spotify.com/artist/7jeTqolbDYU436S11H54QT"
+        }
+      ],
+      "duration_ms": 258387,
+      "name": "Dumb Dumb",
+      "url": "https://open.spotify.com/track/3Y2B9VLBEubPREPnqKr6Mv"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "0NLY 0NE",
+        "url": "https://open.spotify.com/album/51EftfDzYkJ7ZoPBsMa8ac"
+      },
+      "artists": [
+        {
+          "name": "LCY",
+          "url": "https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U"
+        }
+      ],
+      "duration_ms": 218899,
+      "name": "0NLY 0NE",
+      "url": "https://open.spotify.com/track/7xZO7T6ccGY4okpo0tXlru"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "GIVE IT 2 ME NOW (What's Your Fantasy)",
+        "url": "https://open.spotify.com/album/01i8DG7ArOssGiwzUQeIWA"
+      },
+      "artists": [
+        {
+          "name": "Lamsi",
+          "url": "https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ"
+        },
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "GIVE IT 2 ME NOW (What's Your Fantasy)",
+      "url": "https://open.spotify.com/track/2G2M5wnqke2RP11XAkK67q"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "146",
+        "url": "https://open.spotify.com/album/0achDRXdKCh08RodV45To2"
+      },
+      "artists": [
+        {
+          "name": "Sam Interface",
+          "url": "https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw"
+        }
+      ],
+      "duration_ms": 307397,
+      "name": "146",
+      "url": "https://open.spotify.com/track/3naealhHYcNTj2o42JRPTd"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Laleyi (feat. Joeboy)",
+        "url": "https://open.spotify.com/album/2EtCpEgCgiqIgfWT10FwZb"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 217748,
+      "name": "Laleyi (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/3rLZaEyASUsJzxHMa2uL8B"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "ONE WAY",
+        "url": "https://open.spotify.com/album/1IPj5cSUvsaLuGjrv1xGLX"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "ONE WAY",
+      "url": "https://open.spotify.com/track/7kNnCsPNLuEFXaNMVaztDh"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Dunce Cheque",
+        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Dunce Cheque",
+      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 153287,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Telfy",
+        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Telfy",
+      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 292824,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Sound Is Like Water",
+        "url": "https://open.spotify.com/album/5qAluQa0RZyGiHObyOvA6i"
+      },
+      "artists": [
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        },
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Love Songz",
+      "url": "https://open.spotify.com/track/1Xe5Nm9bAIgqxoX6927ofe"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/2Vja33w7xpXT0RYNfYxsYI"
+      },
+      "artists": [
+        {
+          "name": "Slew",
+          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/4NrahB3hvbLvoDSUI1SaWC"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Stop Worry!",
+        "url": "https://open.spotify.com/album/5Fe2v27rNMI7lsb7gCFGF3"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 152148,
+      "name": "Stop Worry!",
+      "url": "https://open.spotify.com/track/2eGKhQce5DKGqrxPEBAOa9"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "MONSOON",
+        "url": "https://open.spotify.com/album/7zgRCzPlTBk2txptR4CEnO"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "duration_ms": 176122,
+      "name": "MONSOON",
+      "url": "https://open.spotify.com/track/5tJKPKs5A6PrcLWJ08AkOM"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 238831,
+      "name": "Heart on Fire",
+      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Asking For It",
+        "url": "https://open.spotify.com/album/6RM44N1lzMSDISxMuYOTjD"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "duration_ms": 139042,
+      "name": "Asking For It",
+      "url": "https://open.spotify.com/track/5iPBbMPrbqgaaFAieKYr8r"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Laughing for the West",
+        "url": "https://open.spotify.com/album/5J9rH7mgK7gW2zHxZAmExU"
+      },
+      "artists": [
+        {
+          "name": "Joe Winter",
+          "url": "https://open.spotify.com/artist/2F1YcOBnAkQInPSRcT5yjv"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Laughing for the West",
+      "url": "https://open.spotify.com/track/6MRqPCdqqDWW9cNkF7qZGP"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "A Nurse To My Patience",
+        "url": "https://open.spotify.com/album/091aRDx8Kt3DuFsCtRKnqT"
+      },
+      "artists": [
+        {
+          "name": "FaltyDL",
+          "url": "https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk"
+        },
+        {
+          "name": "Mykki Blanco",
+          "url": "https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr"
+        }
+      ],
+      "duration_ms": 304850,
+      "name": "One Way Or Another (feat. Mykki Blanco)",
+      "url": "https://open.spotify.com/track/1bloPlyUeLM5ERauZf7wJL"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/6GpmKJVILU8jvDog2Ey64c"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        },
+        {
+          "name": "Delilah Holliday",
+          "url": "https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ"
+        }
+      ],
+      "duration_ms": 256127,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/6EWeItmffV03QSa0CjUHfc"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Wander, Wondering",
+        "url": "https://open.spotify.com/album/0qAcuO80QpfBAxDzf3MCBF"
+      },
+      "artists": [
+        {
+          "name": "Tex",
+          "url": "https://open.spotify.com/artist/6k8bzv6Pm9RwlpxZxprqnD"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Wander, Wondering",
+      "url": "https://open.spotify.com/track/6XBrOe7hrXOqGCP8gKxMbX"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "Concentrate (feat. Dua Saleh)",
+        "url": "https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 134060,
+      "name": "Concentrate (feat. Dua Saleh)",
+      "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
+    },
+    {
+      "added_at": "2022-12-15 11:54:16",
+      "album": {
+        "name": "urbody",
+        "url": "https://open.spotify.com/album/7svM0mTqJQ1Bw80YJyTwMj"
+      },
+      "artists": [
+        {
+          "name": "Denyah",
+          "url": "https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "urbody",
+      "url": "https://open.spotify.com/track/7tQ1EtTNfs2whrcvH7bXYK"
+    },
     {
       "added_at": "2022-11-17 12:59:48",
       "album": {

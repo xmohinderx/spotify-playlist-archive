@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 72580,
+  "num_followers": 72650,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGYzOGE2ZThiYWY0Yzc1NTc5Yzg3YWU0YTg2NzI4MjI2",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDcyZGUyNzhhMmJiNGNjZDE3OGY4MTEzZDMyM2Y1Yzkw",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Monk's Music",
-        "url": "https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G"
+        "name": "Sweet Honey Bee",
+        "url": "https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0"
       },
       "artists": [
         {
-          "name": "Thelonious Monk Septet",
-          "url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
         }
       ],
-      "duration_ms": 682173,
-      "name": "Well You Needn't",
-      "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
+      "duration_ms": 358746,
+      "name": "Ready Rudy?",
+      "url": "https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -679,18 +679,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Sweet Honey Bee",
-        "url": "https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0"
+        "name": "Monk's Music",
+        "url": "https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G"
       },
       "artists": [
         {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+          "name": "Thelonious Monk Septet",
+          "url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
         }
       ],
-      "duration_ms": 358746,
-      "name": "Ready Rudy?",
-      "url": "https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP"
+      "duration_ms": 682173,
+      "name": "Well You Needn't",
+      "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Miles Davis Featuring John Coltrane",
-        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 583266,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 384706,
       "name": "Turnaround",
       "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 583266,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
     },
     {
       "added_at": "2020-10-12 18:15:54",

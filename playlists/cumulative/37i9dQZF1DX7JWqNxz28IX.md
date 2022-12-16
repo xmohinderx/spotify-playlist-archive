@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, chiello\)
 
-167 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+170 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bonsai](https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E) | [Lasio](https://open.spotify.com/artist/5uBGLejbb9miU8Wj0OswKd), [Piccolorvssk](https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue) | [Bonsai](https://open.spotify.com/album/17MAMB9DcY5Gl40pFRy5iY) | 2:53 | 2022-12-05 |  |
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-04-21 | 2022-12-09 |
 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 | 2022-12-08 |  |
+| [Cerimonia](https://open.spotify.com/track/4q2F8Q94gIY3yFwIliTnRZ) | [GARA2](https://open.spotify.com/artist/7LJbgyipJ45jT8NwUWq8sc) | [Cerimonia](https://open.spotify.com/album/36L6taiEL3lwHnYyEnjABL) | 3:15 | 2022-12-15 |  |
 | [Cicatrici](https://open.spotify.com/track/3M7tOqC4TBFlZKcUwWkEjo) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Cicatrici](https://open.spotify.com/album/6Qdg8tGzw265EafPwrrtKT) | 3:11 | 2022-10-06 | 2022-12-09 |
 | [Cicatrici](https://open.spotify.com/track/7t8s9YRj6sQwTDECF0lT0d) | [piccoli brividi](https://open.spotify.com/artist/6m5gjMXPUZztfLUomW1n3r), [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Kuiper](https://open.spotify.com/artist/4yeIBrzWWNRbnAd1Aq3oLG) | [Cicatrici](https://open.spotify.com/album/4eQOy5tEVq0Ti6hk8CqKfT) | 3:50 | 2022-07-28 |  |
 | [Cicatrici](https://open.spotify.com/track/18xRjW5ARD2ivfMkA807fw) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cicatrici](https://open.spotify.com/album/1ONUeIv6IR6ECQB00q3gLL) | 2:28 | 2022-11-10 | 2022-11-13 |
@@ -78,6 +79,7 @@
 | [IO E TE](https://open.spotify.com/track/1jS9xU5AESvZSh1oDdtYDi) | [POLDOWG](https://open.spotify.com/artist/66jtpmf7aFU5KZXlAavqai), [GIOVXNE XNGELO](https://open.spotify.com/artist/1pdz43cnj0LpwSKD2z1NiA), [MXLVE](https://open.spotify.com/artist/2OEOLS6EFBBeiKgS58NsRh) | [IO E TE](https://open.spotify.com/album/7AZ5f357ol3fZtu83pR6st) | 2:49 | 2022-06-23 | 2022-08-13 |
 | [Io non voglio più soffrire](https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Io non voglio più soffrire](https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1) | 2:36 | 2022-05-24 |  |
 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 | 2022-04-21 |  |
+| [La cura, non sei te](https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT) | [Chanoir Hdn](https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O) | [La cura, non sei te](https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz) | 2:08 | 2022-12-15 |  |
 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 | 2022-04-21 |  |
 | [LE PAROLE GIUSTE](https://open.spotify.com/track/2rJAaSQeYsM4j8eHFyCyZQ) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/5Ni8ww2nX4bG6h6WXWq3tG) | 2:47 | 2022-12-05 |  |
 | [Le Tue Insicurezze](https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Koaku](https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK), [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:18 | 2022-07-16 |  |
@@ -144,6 +146,7 @@
 | [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-08 |  |
 | [Settembre](https://open.spotify.com/track/4ABnknUDNQsm24C9ZhwlLG) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Settembre](https://open.spotify.com/album/1QQalKla8lTJZSLEoPBhir) | 2:11 | 2022-06-13 |  |
 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 | 2022-04-21 |  |
+| [Sogni](https://open.spotify.com/track/3buQxxhqMFJlHAsvfsplnG) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Tempo](https://open.spotify.com/album/19HiQkbCvtCDfTtjCG3RJw) | 2:28 | 2022-12-15 |  |
 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 | 2022-08-12 |  |
 | [Soli assieme](https://open.spotify.com/track/6W8sIhqfWYgwzYvwRUQ9iG) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Soli assieme](https://open.spotify.com/album/747G8oEEwQcHz1alvW6Rpv) | 2:42 | 2022-07-28 |  |
 | [Solita](https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [Solita](https://open.spotify.com/album/5kK7COihWbhVwFllUuD8gx) | 2:58 | 2022-04-21 | 2022-08-13 |

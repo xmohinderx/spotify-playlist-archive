@@ -1,15 +1,15 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4086204,
+  "num_followers": 4086990,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQzNzI2NSwwMDAwMDAwMGMxZGNiYTY5OWM1ZTBkNjgwYjFmNjA4MjA4ODM4M2Vh",
+  "snapshot_id": "MTY2ODQzNzI2NSwwMDAwMDAwMDlhZWY2ZWY5N2MzMjZlM2E4OTUzZmFmODRiYTJhOTRh",
   "tracks": [
     {
-      "added_at": "2022-12-15 01:00:47",
+      "added_at": "2022-12-16 00:54:19",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/2bJojWEUKvijZaSo7Jfh0W"
     },
     {
-      "added_at": "2022-12-15 01:00:47",
+      "added_at": "2022-12-16 00:54:19",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
-      "added_at": "2022-12-15 01:00:47",
+      "added_at": "2022-12-16 00:54:19",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-11-14 14:46:57",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": "2022-11-14 14:46:57",
+      "album": {
         "name": "Tomorrow 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
-    },
-    {
-      "added_at": "2022-11-14 14:46:57",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "added_at": "2022-11-14 14:46:57",

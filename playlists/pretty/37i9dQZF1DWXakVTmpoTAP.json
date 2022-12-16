@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDY0N2M3MzlkZDdiZDg3OGU4MmZhZDY1MjdkNGZhOGI4",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDY3NGRkNTdiZTNmZjMzMzQ5NTM3ZTEwNzFiMWQ1ZDhi",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "The Holy Land",
-        "url": "https://open.spotify.com/album/2nydwfDSmSmJaFTNsWK1kG"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 140413,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/6cyQhHuw8lEXgHGJlXUiR9"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
         "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 212866,
       "name": "Daughter",
       "url": "https://open.spotify.com/track/3p58uPQ08nLtr8IwVGdYKg"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "The Holy Land",
+        "url": "https://open.spotify.com/album/2nydwfDSmSmJaFTNsWK1kG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 140413,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/6cyQhHuw8lEXgHGJlXUiR9"
     },
     {
       "added_at": "2022-06-09 16:13:45",

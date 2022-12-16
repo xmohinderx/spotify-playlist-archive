@@ -4,7 +4,7 @@
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-170 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/0Dry2UAG41jFfF5O4KGZxO)
+171 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/0Dry2UAG41jFfF5O4KGZxO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,8 +175,9 @@
 | [Your day \(Inst.\)](https://open.spotify.com/track/2GEatg6wUmszBFp6uvcyCn) | [Gummy](https://open.spotify.com/artist/3yeGaDllUtsVmgzDeAmpNf) | [Dr\. Romantic 2 OST Part.2](https://open.spotify.com/album/13b1HCaBlxfqbZOQQ4t07c) | 3:31 | 2022-04-12 | 2022-07-28 |
 | [Your world \(Inst.\)](https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 | 2022-04-12 | 2022-10-05 |
 | [그대라는 시 \- Instrumental](https://open.spotify.com/track/0uG3MzYKF4ti9nZXB4Nz1P) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 | 2022-04-12 |  |
-| [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 | 2022-04-12 |  |
+| [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 | 2022-04-12 | 2022-12-16 |
 | [내 맘을 볼수 있나요 \- Instrumental](https://open.spotify.com/track/4kzukmEpvEk0d45hXd2k0t) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:46 | 2022-04-12 |  |
+| [너를 사랑하고 있어 \- Instrumental](https://open.spotify.com/track/22ufiu7gDBCAUgytTidmS5) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 | 2022-04-12 |  |
 | [이 사랑 \(Instrumental\)](https://open.spotify.com/track/2tQUuH4PcJRnqZk2LTKlTK) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [태양의 후예 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/26r2DqK7nPfiE097XOjD7z) | 3:46 | 2022-04-12 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

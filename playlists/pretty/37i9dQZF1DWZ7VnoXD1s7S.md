@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,889 likes - 72 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,378 likes - 72 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 41 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 |
 | 42 | [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 |
 | 43 | [Dreamin](https://open.spotify.com/track/5YzYFYZfOwpiHm6UKK9qUh) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Dreamin](https://open.spotify.com/album/27uNgJuKbQzIjvdeh5TVb0) | 2:12 |
-| 44 | [Still Life](https://open.spotify.com/track/3IRsovEHKu0ZgufFhbPLbu) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/67i2fZfID3xg3seBcLrHXe) | 3:22 |
+| 44 | [Still Life](https://open.spotify.com/track/69PcaJEZMB3cCfCeRSibj2) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:22 |
 | 45 | [Is it Some Devil That Crawls Inside of You?](https://open.spotify.com/track/2d5iML85eyaY9dP8zuSQGh) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [You Get Sick; You Regret Things](https://open.spotify.com/album/5ahXdYbeGakgce25ZLVdDm) | 1:15 |
 | 46 | [void\_\_19\#\#\#\-A](https://open.spotify.com/track/1suY5lVFFjVvkeMkrzyHf9) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [void\_\_19\#\#\#](https://open.spotify.com/album/7qS36GXzqhI8GXg6TN8SFZ) | 1:22 |
 | 47 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 71 | [☆メニュータイプチェンジ☆](https://open.spotify.com/track/7c3lk5GwSyJfaxG6wdW4Wv) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 |
 | 72 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
 
-Snapshot ID: `MTY3MDM2MjMzNywwMDAwMDAwMGY4MjkxZTUxY2VlMWJmMmIyNDRjYzcwOWVmNGNjZmRm`
+Snapshot ID: `MTY3MDM2MjMzNywwMDAwMDAwMDUyYjhiMmVhZTZiOTY5ZGVkNGU0NDFiMTYyMzE5N2M1`

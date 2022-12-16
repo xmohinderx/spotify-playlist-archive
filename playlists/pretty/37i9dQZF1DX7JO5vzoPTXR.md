@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 13 | [Dreamer](https://open.spotify.com/track/3Q8paSvq4CgMeIcIqu9Dlo) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Dreamer](https://open.spotify.com/album/2ZoHkOe9n2Ix14B3jwo4KR) | 3:26 |
 | 14 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 |
 | 15 | [evergreen](https://open.spotify.com/track/075oabiIyfrUrIjZgNQboz) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [evergreen](https://open.spotify.com/album/4s7QFbsqSOZBEtJaOzHRgW) | 3:30 |
-| 16 | [i'm in new york tonight](https://open.spotify.com/track/1v5TMcyf4gbhHFfBn0AIaE) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i'm in new york tonight](https://open.spotify.com/album/1gYOkI0tBNRbkZpueJAUlp) | 3:36 |
+| 16 | [i’m in new york tonight](https://open.spotify.com/track/6jsk7YgRClhzkg2XoxRTT0) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i’m in new york tonight](https://open.spotify.com/album/2MRPmkxKrbedvvQzuJDJKx) | 3:36 |
 | 17 | [i luv him.](https://open.spotify.com/track/78vv48Ic6syaE6kWqDGY47) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [i luv him.](https://open.spotify.com/album/3ioxFrDViC41xtHHcijlUZ) | 3:45 |
 | 18 | [HouseNr.19](https://open.spotify.com/track/2jblZmK2loEOOVokcXjBuk) | [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI) | [HouseNr.19](https://open.spotify.com/album/7FNO2wifGN6E7Lzmr0GCtF) | 3:42 |
 | 19 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 40 | [My Sweetheart](https://open.spotify.com/track/5schlwLwrIpOYFdYysH2rF) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [My Sweetheart](https://open.spotify.com/album/3ai92s3XjgbeJhUdaSjI2J) | 3:33 |
 | 41 | [Sleepyhead](https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8) | [Hunter Moreau](https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ) | [Sleepyhead](https://open.spotify.com/album/1jefPRHYXgymDYCwHFnqZf) | 2:58 |
 
-Snapshot ID: `MTY2OTkzMDk5OCwwMDAwMDAwMDMyMmQwOTE0ZWFiN2Y4ZjAxMmFmNDJiYzk0ZWI1YTNi`
+Snapshot ID: `MTY2OTkzMDk5OCwwMDAwMDAwMDE4MzkzNjFjNjVkNDZjMDVmZDJhYmY1MDNkYzM3ODAw`

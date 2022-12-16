@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-235 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
+236 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Detonate](https://open.spotify.com/track/2zhXkUkCLZZs9MuhbRzZDM) | [Joystick!](https://open.spotify.com/artist/6QNbUrFd32f8tOVhm1pWEF) | [I Can't Take It Anymore](https://open.spotify.com/album/45lb5sWAyOYpgNJ92bHI1w) | 1:19 | 2021-09-02 | 2022-07-09 |
 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 | 2021-09-02 |  |
 | [Dippy Egg](https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [There's a Lot of It About](https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4) | 2:32 | 2021-09-02 | 2022-12-10 |
+| [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2022-12-16 |  |
 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures \- EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 4:14 | 2021-09-02 |  |
 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 | 2021-09-02 | 2022-12-10 |
 | [El Coo Cooi](https://open.spotify.com/track/0zlopFajzHstoO61ahQ5eG) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/5gPDSmYd5HJXEnnjb4ZCum) | 2:37 | 2021-09-02 | 2022-07-29 |
@@ -173,7 +174,7 @@
 | [Social Drinker](https://open.spotify.com/track/3Z8YLZZUNZ6hgx5b5yHXII) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9), [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Social Drinker](https://open.spotify.com/album/2w5O6Gvoz7g0MwST58zJk6) | 3:03 | 2021-09-02 | 2022-06-23 |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0Mw4u65T9yresmckoafAa6) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/66a2gbwWslXC9vvc1bIxEB) | 3:06 | 2021-09-02 | 2022-07-28 |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/278kcYhSJT5MorzKYpkKqK) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/3MByj0jMYnFWIE82Z0ypvb) | 3:06 | 2022-04-14 | 2022-12-10 |
-| [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 | 2021-09-02 |  |
+| [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 | 2021-09-02 | 2022-12-16 |
 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 | 2021-09-02 | 2022-07-29 |
 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 | 2022-04-14 |  |
 | [Step One](https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7) | 1:12 | 2022-04-14 |  |

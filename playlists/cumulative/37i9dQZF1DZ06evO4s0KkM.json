@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169604,
+      "name": "All You Fonies",
+      "url": "https://open.spotify.com/track/5T7POXN2LUqLOfwmlW10gI"
+    },
+    {
+      "album": {
         "name": "All You Fonies",
         "url": "https://open.spotify.com/album/7wEv3shDfmxmPucrVDZgfE"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 169604,
       "name": "All You Fonies",
       "url": "https://open.spotify.com/track/5nMAPIuIxezwDgaeklUG07"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 179066,
       "name": "Jimmy Collins Wake",
       "url": "https://open.spotify.com/track/5ZdXqpvgDKP6LshnmgNRiE"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 131315,
       "name": "Ten Times More",
       "url": "https://open.spotify.com/track/4Wc4TZ1uXhiHm24DdRCDPo"

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 43897,
+  "num_followers": 43952,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDE0ZDQzNTI4Y2Q4ZDNlMmMwYWIyZDczYjgxZjdhODIz",
+  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDliYWQ1ZWJhZGRjNjkxMTI5MjExZjE3OGNiY2Y4YmQx",
   "tracks": [
     {
       "added_at": "2022-10-14 05:59:38",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Eu Nasci",
+        "url": "https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 214089,
+      "name": "Eu Nasci",
+      "url": "https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Minha Vida \u00c9 uma Viagem 5",
         "url": "https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 185585,
       "name": "N\u00e3o Temos Medo do Fogo",
       "url": "https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Eu Nasci",
-        "url": "https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 214089,
-      "name": "Eu Nasci",
-      "url": "https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI"
     },
     {
       "added_at": "2022-10-14 05:59:38",

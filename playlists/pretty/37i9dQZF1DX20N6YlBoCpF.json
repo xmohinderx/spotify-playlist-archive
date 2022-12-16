@@ -1,13 +1,29 @@
 {
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=b-Urtz3dTsCCO4iRJ6qBLQ\">Gerhard Steyn</a>",
-  "num_followers": 4061,
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG?si=c9OuKcphROy5gKDb49DkdA\">Jakkie Louw</a>",
+  "num_followers": 4103,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUzNjc0MCwwMDAwMDAwMDljNjY3N2I1NjQ0OGMwZmQyMDlhODhjMWRlOTFiMDc3",
+  "snapshot_id": "MTY3MTE0MTU0MCwwMDAwMDAwMGUzZjEyODJkZTI3NGE4MGYzZGE0YTM2ZjdhMGJkOTY1",
   "tracks": [
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Plaashond",
+        "url": "https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn"
+      },
+      "artists": [
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "duration_ms": 165898,
+      "name": "Plaashond",
+      "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
+    },
     {
       "added_at": "2022-12-08 21:59:00",
       "album": {
@@ -69,6 +85,22 @@
       "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
     },
     {
+      "added_at": "2022-12-15 21:59:00",
+      "album": {
+        "name": "Dans Met Gevaar",
+        "url": "https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV"
+      },
+      "artists": [
+        {
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "Dans Met Gevaar",
+      "url": "https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof"
+    },
+    {
       "added_at": "2022-12-01 21:59:00",
       "album": {
         "name": "Ditjies & Datjies",
@@ -125,20 +157,20 @@
       "url": "https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1"
     },
     {
-      "added_at": "2022-12-08 21:59:00",
+      "added_at": "2022-10-27 21:59:00",
       "album": {
-        "name": "Plaashond",
-        "url": "https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn"
+        "name": "Foto's",
+        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
       },
       "artists": [
         {
-          "name": "Jakkie Louw",
-          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 165898,
-      "name": "Plaashond",
-      "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
+      "duration_ms": 194890,
+      "name": "Foto's",
+      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -177,56 +209,20 @@
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
-      "added_at": "2022-12-08 21:59:00",
+      "added_at": "2022-12-15 21:59:00",
       "album": {
-        "name": "Uit Bethlehem",
-        "url": "https://open.spotify.com/album/6wPNYknmrK7GwDqXJcw1oM"
+        "name": "Suikerbos",
+        "url": "https://open.spotify.com/album/64pO3zEBukMDwyZ8bUSBqU"
       },
       "artists": [
         {
-          "name": "Johan Vorster",
-          "url": "https://open.spotify.com/artist/6asZtEizmynPK6QiUt2oWh"
-        },
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Stefan Jansen",
+          "url": "https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD"
         }
       ],
-      "duration_ms": 192679,
-      "name": "Uit Bethlehem",
-      "url": "https://open.spotify.com/track/5vQzoDbfOQ8ZHLsUgVkfrz"
-    },
-    {
-      "added_at": "2022-10-27 21:59:00",
-      "album": {
-        "name": "Foto's",
-        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "Foto's",
-      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
-    },
-    {
-      "added_at": "2022-12-08 21:59:00",
-      "album": {
-        "name": "Uit my hande",
-        "url": "https://open.spotify.com/album/44la9oqHWKpNcx2eEfTMxP"
-      },
-      "artists": [
-        {
-          "name": "Jacques & Liezel",
-          "url": "https://open.spotify.com/artist/2ze4VL41D2QuhyJcOfDHjo"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Uit my hande - Dans Remix",
-      "url": "https://open.spotify.com/track/4lCtBr0a9mOTohN3J81vwA"
+      "duration_ms": 257000,
+      "name": "Suikerbos",
+      "url": "https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -247,38 +243,34 @@
     {
       "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Kersfees Is Jesus",
-        "url": "https://open.spotify.com/album/26mkOOLXD0ooYqNcKOamZg"
+        "name": "Uit my hande",
+        "url": "https://open.spotify.com/album/44la9oqHWKpNcx2eEfTMxP"
       },
       "artists": [
         {
-          "name": "Stella",
-          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
-        },
-        {
-          "name": "Louis Brittz",
-          "url": "https://open.spotify.com/artist/5l7CLS8mERdGXW5nhxLemJ"
+          "name": "Jacques & Liezel",
+          "url": "https://open.spotify.com/artist/2ze4VL41D2QuhyJcOfDHjo"
         }
       ],
-      "duration_ms": 293186,
-      "name": "Kersfees Is Jesus",
-      "url": "https://open.spotify.com/track/7fbH4h0eU2m8mJqWCnBS4j"
+      "duration_ms": 233116,
+      "name": "Uit my hande - Dans Remix",
+      "url": "https://open.spotify.com/track/4lCtBr0a9mOTohN3J81vwA"
     },
     {
-      "added_at": "2022-12-08 21:59:00",
+      "added_at": "2022-12-15 21:59:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/79wXpGDlUEWsTpMsILSGcP"
+        "name": "Alles",
+        "url": "https://open.spotify.com/album/3y6DJQFdkjfuLwKu2RhV43"
       },
       "artists": [
         {
-          "name": "Tizel",
-          "url": "https://open.spotify.com/artist/5GxWSg5bans5XQW52qCqSn"
+          "name": "Dani Vill\u00e9",
+          "url": "https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE"
         }
       ],
-      "duration_ms": 171428,
-      "name": "December - Radio Edit",
-      "url": "https://open.spotify.com/track/4GjQQH4S0Zk1AxixUYaGhf"
+      "duration_ms": 222582,
+      "name": "Alles",
+      "url": "https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -301,6 +293,22 @@
       "url": "https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc"
     },
     {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Transkei",
+        "url": "https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm"
+      },
+      "artists": [
+        {
+          "name": "Sarel Kleinhans",
+          "url": "https://open.spotify.com/artist/1nruqwJit4t0rxlbF0wjBv"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Transkei",
+      "url": "https://open.spotify.com/track/2o9jYylPOF7mOAF54iMwno"
+    },
+    {
       "added_at": "2022-12-08 21:59:00",
       "album": {
         "name": "Vonkel",
@@ -315,6 +323,22 @@
       "duration_ms": 246095,
       "name": "Vonkel",
       "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Dogter",
+        "url": "https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i"
+      },
+      "artists": [
+        {
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+        }
+      ],
+      "duration_ms": 243893,
+      "name": "Dogter",
+      "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -335,22 +359,6 @@
     {
       "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "Transkei",
-        "url": "https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm"
-      },
-      "artists": [
-        {
-          "name": "Sarel Kleinhans",
-          "url": "https://open.spotify.com/artist/1nruqwJit4t0rxlbF0wjBv"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Transkei",
-      "url": "https://open.spotify.com/track/2o9jYylPOF7mOAF54iMwno"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
         "name": "Lig Die Dak",
         "url": "https://open.spotify.com/album/5YRe8s8smoWsA1eNPtB82k"
       },
@@ -363,22 +371,6 @@
       "duration_ms": 211209,
       "name": "Lig Die Dak",
       "url": "https://open.spotify.com/track/0QulNWI4OfeRIxSBURJxgr"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Dogter",
-        "url": "https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i"
-      },
-      "artists": [
-        {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "Dogter",
-      "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -429,20 +421,24 @@
       "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Kies Lewe",
-        "url": "https://open.spotify.com/album/50VDgMUMWJzaoc1XNoM5cK"
+        "name": "Uit Bethlehem",
+        "url": "https://open.spotify.com/album/6wPNYknmrK7GwDqXJcw1oM"
       },
       "artists": [
         {
-          "name": "Reggie Peace",
-          "url": "https://open.spotify.com/artist/1U2c2BI4Lt5LEwT3OyxW5T"
+          "name": "Johan Vorster",
+          "url": "https://open.spotify.com/artist/6asZtEizmynPK6QiUt2oWh"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 215338,
-      "name": "Kies Lewe",
-      "url": "https://open.spotify.com/track/1aEna1nsDIATkKF76DZAmR"
+      "duration_ms": 192679,
+      "name": "Uit Bethlehem",
+      "url": "https://open.spotify.com/track/5vQzoDbfOQ8ZHLsUgVkfrz"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -577,24 +573,40 @@
       "url": "https://open.spotify.com/track/18fpCH8zf6gnReXzX2A0ST"
     },
     {
-      "added_at": "2022-11-24 21:59:00",
+      "added_at": "2022-10-13 21:09:00",
       "album": {
-        "name": "Hierdie Is Nie Liefde Nie",
-        "url": "https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm"
+        "name": "Jona",
+        "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
       },
       "artists": [
         {
-          "name": "Hunter Kennedy",
-          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
-        },
-        {
-          "name": "Michelle Mountjoy",
-          "url": "https://open.spotify.com/artist/6YOybZbTWxncOU07yDI6mz"
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 169618,
-      "name": "Hierdie Is Nie Liefde Nie",
-      "url": "https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls"
+      "duration_ms": 208226,
+      "name": "Lyfie",
+      "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Kersfees Is Jesus",
+        "url": "https://open.spotify.com/album/26mkOOLXD0ooYqNcKOamZg"
+      },
+      "artists": [
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
+        },
+        {
+          "name": "Louis Brittz",
+          "url": "https://open.spotify.com/artist/5l7CLS8mERdGXW5nhxLemJ"
+        }
+      ],
+      "duration_ms": 293186,
+      "name": "Kersfees Is Jesus",
+      "url": "https://open.spotify.com/track/7fbH4h0eU2m8mJqWCnBS4j"
     },
     {
       "added_at": "2022-10-20 21:59:00",
@@ -615,18 +627,22 @@
     {
       "added_at": "2022-11-24 21:59:00",
       "album": {
-        "name": "Briefie Vir My Ma",
-        "url": "https://open.spotify.com/album/4gSsJYhoE4Mk4peb6u1glj"
+        "name": "Hierdie Is Nie Liefde Nie",
+        "url": "https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm"
       },
       "artists": [
         {
-          "name": "Daniel Wesley Africa",
-          "url": "https://open.spotify.com/artist/4w3PTTbh4IqNnjzAYgpsoX"
+          "name": "Hunter Kennedy",
+          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+        },
+        {
+          "name": "Michelle Mountjoy",
+          "url": "https://open.spotify.com/artist/6YOybZbTWxncOU07yDI6mz"
         }
       ],
-      "duration_ms": 184121,
-      "name": "Briefie Vir My Ma",
-      "url": "https://open.spotify.com/track/5JB5DPTBSE1jIKlhm900i5"
+      "duration_ms": 169618,
+      "name": "Hierdie Is Nie Liefde Nie",
+      "url": "https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -645,6 +661,22 @@
       "url": "https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf"
     },
     {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Briefie Vir My Ma",
+        "url": "https://open.spotify.com/album/4gSsJYhoE4Mk4peb6u1glj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Wesley Africa",
+          "url": "https://open.spotify.com/artist/4w3PTTbh4IqNnjzAYgpsoX"
+        }
+      ],
+      "duration_ms": 184121,
+      "name": "Briefie Vir My Ma",
+      "url": "https://open.spotify.com/track/5JB5DPTBSE1jIKlhm900i5"
+    },
+    {
       "added_at": "2022-11-17 21:59:00",
       "album": {
         "name": "Jakkalsdans",
@@ -661,20 +693,20 @@
       "url": "https://open.spotify.com/track/002j5hLHQwXzl0g51aiYbb"
     },
     {
-      "added_at": "2022-11-24 21:59:00",
+      "added_at": "2022-10-20 21:59:00",
       "album": {
-        "name": "Bittereinder",
-        "url": "https://open.spotify.com/album/5DDFbHNSCLBFSjWncD2oAz"
+        "name": "O My Vy",
+        "url": "https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh"
       },
       "artists": [
         {
-          "name": "Tertius rooi",
-          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
         }
       ],
-      "duration_ms": 252452,
-      "name": "Bittereinder",
-      "url": "https://open.spotify.com/track/4sQp6xzP0lGJs1B1oQ9WtU"
+      "duration_ms": 209891,
+      "name": "O My Vy",
+      "url": "https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -697,20 +729,20 @@
       "url": "https://open.spotify.com/track/1M7EbSOLldQ5Y5qIlnMEft"
     },
     {
-      "added_at": "2022-11-24 21:59:00",
+      "added_at": "2022-10-13 21:09:00",
       "album": {
-        "name": "Die Son",
-        "url": "https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ"
+        "name": "My Nannas",
+        "url": "https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc"
       },
       "artists": [
         {
-          "name": "Vrede",
-          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+          "name": "Wikus Botma",
+          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
         }
       ],
-      "duration_ms": 214266,
-      "name": "Die Son",
-      "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
+      "duration_ms": 197230,
+      "name": "My Nannas",
+      "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
     },
     {
       "added_at": "2022-10-27 21:59:00",
@@ -747,22 +779,6 @@
       "duration_ms": 225160,
       "name": "Toe Roep Ek Jou Naam",
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
-    },
-    {
-      "added_at": "2022-10-13 21:09:00",
-      "album": {
-        "name": "My Nannas",
-        "url": "https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc"
-      },
-      "artists": [
-        {
-          "name": "Wikus Botma",
-          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
-        }
-      ],
-      "duration_ms": 197230,
-      "name": "My Nannas",
-      "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -813,22 +829,6 @@
       "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
-      "added_at": "2022-10-20 21:59:00",
-      "album": {
-        "name": "O My Vy",
-        "url": "https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh"
-      },
-      "artists": [
-        {
-          "name": "FATMAN",
-          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
-        }
-      ],
-      "duration_ms": 209891,
-      "name": "O My Vy",
-      "url": "https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf"
-    },
-    {
       "added_at": "2022-12-08 21:59:00",
       "album": {
         "name": "My Sonskyn",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR"
     },
     {
-      "added_at": "2022-10-13 21:09:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Jona",
-        "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
+        "name": "December",
+        "url": "https://open.spotify.com/album/79wXpGDlUEWsTpMsILSGcP"
       },
       "artists": [
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Tizel",
+          "url": "https://open.spotify.com/artist/5GxWSg5bans5XQW52qCqSn"
         }
       ],
-      "duration_ms": 208226,
-      "name": "Lyfie",
-      "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
+      "duration_ms": 171428,
+      "name": "December - Radio Edit",
+      "url": "https://open.spotify.com/track/4GjQQH4S0Zk1AxixUYaGhf"
     }
   ],
   "unique_name": "Nuwe Afrikaans",

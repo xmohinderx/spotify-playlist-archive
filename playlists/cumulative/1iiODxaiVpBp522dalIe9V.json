@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Andale",
+        "url": "https://open.spotify.com/album/2MLBGRj7TQRkCNqmySasMc"
+      },
+      "artists": [
+        {
+          "name": "Woine",
+          "url": "https://open.spotify.com/artist/4Kh6WXjCUHN6ueN5iJCEtQ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179095,
+      "name": "Andale",
+      "url": "https://open.spotify.com/track/0FIUx14haK5nYVm6FDV4hi"
+    },
+    {
+      "album": {
         "name": "Straight Crack",
         "url": "https://open.spotify.com/album/4XbJKPVbGX1WLx7EgzjCfp"
       },

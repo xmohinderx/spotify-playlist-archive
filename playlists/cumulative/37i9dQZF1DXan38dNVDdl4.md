@@ -4,7 +4,7 @@
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-176 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+177 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 | 2021-12-20 | 2022-03-03 |
 | [Hooked](https://open.spotify.com/track/5yEDGhSkoreCSMNyd4ZU6G) | [Noah Powa](https://open.spotify.com/artist/6yKN858F7VWik5UyT9geTE) | [Hooked](https://open.spotify.com/album/45kYAA4RGL7WjbeocoOGW5) | 2:35 | 2021-12-20 | 2022-03-03 |
 | [Hot](https://open.spotify.com/track/4phV4ac8Eeq8uRvz5jPyls) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Hot](https://open.spotify.com/album/1I5MbvrJofEGmZ4Db6vMTH) | 2:38 | 2021-12-20 | 2022-09-10 |
-| [Humans](https://open.spotify.com/track/07wqYnbgiSsNs0cRA4G1Pc) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P), [Troublemekka](https://open.spotify.com/artist/1e2IViEWclFirkU6YbG7cE) | [Humans](https://open.spotify.com/album/0cslPzkYON9UbEjDj1ffYL) | 2:35 | 2021-12-20 |  |
+| [Humans](https://open.spotify.com/track/07wqYnbgiSsNs0cRA4G1Pc) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P), [Troublemekka](https://open.spotify.com/artist/1e2IViEWclFirkU6YbG7cE) | [Humans](https://open.spotify.com/album/0cslPzkYON9UbEjDj1ffYL) | 2:35 | 2021-12-20 | 2022-12-16 |
+| [Humans](https://open.spotify.com/track/5EHhAc5KT0VsHMBwogVXtw) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P), [Troublemekka](https://open.spotify.com/artist/1e2IViEWclFirkU6YbG7cE) | [Humans](https://open.spotify.com/album/16Ry7ztMf39OJNYHkJzcQv) | 2:35 | 2022-09-09 |  |
 | [I Am](https://open.spotify.com/track/2XPIIi8TnoZMMzBE5RNOAm) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [I Am](https://open.spotify.com/album/3yG8BUXM4bnQ8pH3KgHS2G) | 2:40 | 2022-03-04 |  |
 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 | 2022-06-17 |  |
 | [I Wish \- Raw](https://open.spotify.com/track/2U110D3cv4pWCi04QMQcF1) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/7KUycbr4gbHJnpW4RmoC2B) | 2:55 | 2021-12-20 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-163 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+165 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Burn \- Outro 4 Intro](https://open.spotify.com/track/2J6zYW4fByPIAn9GVzNNrX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:34 | 2021-12-09 |  |
 | [Butterflies Pt\. 2 \- Acoustic](https://open.spotify.com/track/0P8cENEqN7W3U6rZohIaCJ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Butterflies Pt\. 2](https://open.spotify.com/album/04VUOnNhfsR1vm0sqfb73j) | 2:32 | 2021-12-09 |  |
 | [Can't Be Wrong \- Majestic Session](https://open.spotify.com/track/6aTjY2Fj5lbVNy1p7Y0nLd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Can't Be Wrong \(Majestic Session\)](https://open.spotify.com/album/3XyV7eKz63SzZHsxINSi67) | 4:05 | 2021-12-09 |  |
+| [Can't Have It All \(Acoustic\)](https://open.spotify.com/track/2xLhNn8me1FJM9k3m8qCRh) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Can't Have It All \(Acoustic\)](https://open.spotify.com/album/6SwbTc479EogHUYbI7tCan) | 2:58 | 2022-12-15 |  |
 | [Cold Outside](https://open.spotify.com/track/2J3ToF45OBUaeDqiLUfMr1) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/5ZkqZQN2bPnBiRlnpBd5aH) | 1:51 | 2021-12-09 | 2022-07-29 |
 | [Cold Outside](https://open.spotify.com/track/40CDSRdFnndcksvPOCVSUQ) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 1:51 | 2022-06-16 |  |
 | [Colors \- Acoustic](https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/4qCOopm0NNnTIs92GoQKnm) | 5:23 | 2021-12-09 | 2022-07-29 |
@@ -64,6 +65,7 @@
 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 | 2022-02-09 |  |
 | [Good Job](https://open.spotify.com/track/3H68NURFkJOaG0woWCK2sL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Good Job](https://open.spotify.com/album/2m6V0Gl4Hn050cGxqqGrJb) | 3:50 | 2021-12-09 | 2022-07-29 |
 | [Good Job](https://open.spotify.com/track/3qHo2MASEJ79lbJcaDvhRE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:53 | 2022-06-16 |  |
+| [Good Things Fall Apart](https://open.spotify.com/track/5dIvHAv8t9d42b6lAO53K5) | [Rhonda](https://open.spotify.com/artist/1pqbZX6kOvaCi5IEd9zFkG) | [Good Things Fall Apart](https://open.spotify.com/album/10PQIbXGnyO4DKajt4iLx3) | 4:08 | 2022-12-15 |  |
 | [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 | 2021-12-09 |  |
 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 | 2022-06-16 |  |
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |

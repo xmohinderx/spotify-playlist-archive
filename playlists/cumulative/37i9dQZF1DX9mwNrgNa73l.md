@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-118 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
+119 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Pardadari](https://open.spotify.com/track/0avkBFSFOWyZVfccT2u3Ag) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Pardadari](https://open.spotify.com/album/2bfwHKbSwfUFeMVGY1Fb4n) | 6:01 | 2022-06-21 |  |
 | [Piya Milenge](https://open.spotify.com/track/7o9kPO1qalH8szQlYnMI6C) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [KMMC Sufi Ensemble](https://open.spotify.com/artist/5J3dqhxLAVxMeDRSza2M7U) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 5:55 | 2022-08-02 |  |
 | [Piyaji Dekho](https://open.spotify.com/track/5JsTXZfnzZh0LcV30bPxwT) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Piyaji Dekho](https://open.spotify.com/album/4PHh64ZWLc3lBuoW3h8BbK) | 4:51 | 2022-08-02 |  |
-| [Rang Le](https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2S9oWh8Cws0tGiHxFTe76c) | 3:33 | 2022-08-02 |  |
+| [Rang Le](https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2S9oWh8Cws0tGiHxFTe76c) | 3:33 | 2022-08-02 | 2022-12-16 |
+| [Rang Le](https://open.spotify.com/track/6BW7qbuZba3CoEr1OahhUo) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2OC8Tg8Z4F583hxAyb64tt) | 3:33 | 2022-11-02 |  |
 | [Rangrez](https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 8:57 | 2022-08-02 |  |
 | [Rasta Bhool Gaye](https://open.spotify.com/track/0mARMftPGcPABcF5YRF6tj) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [VASL](https://open.spotify.com/album/6OAH2QoJXw1yE4N7sH7v3W) | 4:08 | 2022-06-21 |  |
 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 | 2022-10-25 |  |

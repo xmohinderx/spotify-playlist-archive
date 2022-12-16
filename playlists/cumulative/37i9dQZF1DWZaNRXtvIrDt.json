@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Pretty Girl",
+  "description": "a new world of alternative electronic music. Cover: Mafro",
   "name": "Portal",
   "published_playlist_ids": [],
   "tracks": [
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 425066,
       "name": "2312",
       "url": "https://open.spotify.com/track/2tlCfR0Ndkm1bUp8T8vUKF"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 329443,
       "name": "All The Girls",
       "url": "https://open.spotify.com/track/4TFA9q63U0eq06lDBAaO6r"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 325500,
       "name": "Antisocial",
       "url": "https://open.spotify.com/track/6HPLkG9HzuD83Qf9EFog23"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 359040,
       "name": "Beta Zest",
       "url": "https://open.spotify.com/track/73VnqalXrZQ7k5w8dA6vuZ"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 245820,
       "name": "Blind Date",
       "url": "https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm"
@@ -311,6 +311,24 @@
       "duration_ms": 396126,
       "name": "Border Control (Ahora S\u00ed) (feat. Ivy Barkakati & Furious Frank)",
       "url": "https://open.spotify.com/track/45vT32HMS8lZ0JusBqrgBb"
+    },
+    {
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169730,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP"
     },
     {
       "album": {
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 418450,
       "name": "Fire",
       "url": "https://open.spotify.com/track/636w7RO2RDp4VkGVRLzVRs"
@@ -856,6 +874,24 @@
     },
     {
       "album": {
+        "name": "KeQue",
+        "url": "https://open.spotify.com/album/5KFhYl3zhhiX3bvzqWrPXB"
+      },
+      "artists": [
+        {
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388441,
+      "name": "KeQue",
+      "url": "https://open.spotify.com/track/2OfwlVwQGw7AN3aE1lQ4QN"
+    },
+    {
+      "album": {
         "name": "Lab",
         "url": "https://open.spotify.com/album/5KFCPCMg7AsIyITtLnbIiG"
       },
@@ -1019,7 +1055,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 245538,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/0GRkhfp7CVeZ10ewqssth6"
@@ -1102,6 +1138,46 @@
     },
     {
       "album": {
+        "name": "Codec Tweak/Plaid",
+        "url": "https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux"
+      },
+      "artists": [
+        {
+          "name": "99 Nissan Patrol",
+          "url": "https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw"
+        },
+        {
+          "name": "Monako",
+          "url": "https://open.spotify.com/artist/281y760OdoAujOeovQnKmC"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364283,
+      "name": "Plaid",
+      "url": "https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ"
+    },
+    {
+      "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
         "name": "Rave I Didn't Know Was The Last",
         "url": "https://open.spotify.com/album/1q2TSm6GIoSrJwf4E1AG81"
       },
@@ -1117,7 +1193,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 294432,
       "name": "Rave I Didn't Know Was The Last",
       "url": "https://open.spotify.com/track/1ONlGaH3zEgoU9UU7GGTs1"
@@ -1175,6 +1251,46 @@
       "duration_ms": 251875,
       "name": "Sabi Sabi",
       "url": "https://open.spotify.com/track/2Fnqhf5SfDg89QQ84pPYyv"
+    },
+    {
+      "album": {
+        "name": "Sapphire / My Love",
+        "url": "https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160434,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ"
+    },
+    {
+      "album": {
+        "name": "Say Enough",
+        "url": "https://open.spotify.com/album/5hw5wPs7weFoWuHZNhA37q"
+      },
+      "artists": [
+        {
+          "name": "Azifm",
+          "url": "https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7"
+        },
+        {
+          "name": "Tusekah",
+          "url": "https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Say Enough",
+      "url": "https://open.spotify.com/track/791cKRPFa9jKhv1yYVnwid"
     },
     {
       "album": {
@@ -1401,7 +1517,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 136548,
       "name": "this edible ain't shit",
       "url": "https://open.spotify.com/track/1JbWUM2QYc411N5FLVNkwi"
@@ -1437,7 +1553,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 292946,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk"
@@ -1503,6 +1619,24 @@
       "duration_ms": 241386,
       "name": "We Are Love",
       "url": "https://open.spotify.com/track/6TztmENI0Fm3FUK77wGoHi"
+    },
+    {
+      "album": {
+        "name": "what the hell is lofi house?",
+        "url": "https://open.spotify.com/album/0jnEIIGSChsF3129A2d3bv"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342345,
+      "name": "what the hell is lofi house?",
+      "url": "https://open.spotify.com/track/4LoUp759ZRqbpzXpryqyub"
     },
     {
       "album": {

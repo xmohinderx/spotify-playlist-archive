@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14857,
+  "num_followers": 14866,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGM5M2IyYzBlMzYwNmU1MDIwMTdjMDcyNjdjY2RlNWIz",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDJiMDNhNWM3Yzk5ODk5MjA5YWJjYjMyNzFmZjZlNDhj",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Love Is Killing Me (Helion Remix)",
+        "url": "https://open.spotify.com/album/04ORicH73mtq3y9RUgo6Kk"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        },
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Love Is Killing Me - Helion Remix",
+      "url": "https://open.spotify.com/track/1rtcDdReb05jgxUBLEDL9n"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Your Love (9PM) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1H9wSqKGrpJmZV1C0Ipzuw"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 186531,
       "name": "Your Love (9PM) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3ZUGQQQdTteMWdPg2bvLsp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Love Is Killing Me (Helion Remix)",
-        "url": "https://open.spotify.com/album/04ORicH73mtq3y9RUgo6Kk"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        },
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Love Is Killing Me - Helion Remix",
-      "url": "https://open.spotify.com/track/1rtcDdReb05jgxUBLEDL9n"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -439,6 +439,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
         "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
       },
@@ -463,30 +487,6 @@
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -567,6 +567,34 @@
       "duration_ms": 186240,
       "name": "Follow (with Jeremih) [Dillon Francis Remix]",
       "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "One By One (Remixes)",
+        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "One By One - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -707,34 +735,6 @@
       "duration_ms": 304013,
       "name": "Feed The Fire - Kassian Remix",
       "url": "https://open.spotify.com/track/4xpTM1MCKhY91OGiOhHNf5"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "One By One (Remixes)",
-        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "One By One - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -995,30 +995,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Goodbye (James Hype Remix)",
-        "url": "https://open.spotify.com/album/0juzFtdyALU3bVvLeeONT4"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 178095,
-      "name": "Goodbye - James Hype Remix",
-      "url": "https://open.spotify.com/track/03P46zY3Wf8i2d7X03lHvC"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "BED (Joel Corry VIP Mix)",
         "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 179078,
       "name": "BED - Joel Corry VIP Mix",
       "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Goodbye (James Hype Remix)",
+        "url": "https://open.spotify.com/album/0juzFtdyALU3bVvLeeONT4"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 178095,
+      "name": "Goodbye - James Hype Remix",
+      "url": "https://open.spotify.com/track/03P46zY3Wf8i2d7X03lHvC"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "LIES (VIP Mix)",
+        "url": "https://open.spotify.com/album/4sDmw1vDLys1zBOqwuM98K"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 189747,
+      "name": "LIES - VIP Mix",
+      "url": "https://open.spotify.com/track/67hioVhWrtqUF5WOZpI2V6"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Self Care (with COIN) [The Knocks Remix]",
         "url": "https://open.spotify.com/album/3017y3piJmBiFguacLqX51"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 197129,
       "name": "Self Care (with COIN) - The Knocks Remix",
       "url": "https://open.spotify.com/track/3aXVBYo7jW9CO1od4atawq"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "LIES (VIP Mix)",
-        "url": "https://open.spotify.com/album/4sDmw1vDLys1zBOqwuM98K"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 189747,
-      "name": "LIES - VIP Mix",
-      "url": "https://open.spotify.com/track/67hioVhWrtqUF5WOZpI2V6"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1955,6 +1955,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Pomegranate (Jay Robinson Remix)",
+        "url": "https://open.spotify.com/album/4IyaI98lEWwR2RJTveVmHW"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "duration_ms": 332691,
+      "name": "Pomegranate - Jay Robinson Remix",
+      "url": "https://open.spotify.com/track/29i8kD96bdT1yjkdcuTawb"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -1979,26 +2003,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Pomegranate (Jay Robinson Remix)",
-        "url": "https://open.spotify.com/album/4IyaI98lEWwR2RJTveVmHW"
+        "name": "Purple Hat (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
         }
       ],
-      "duration_ms": 332691,
-      "name": "Pomegranate - Jay Robinson Remix",
-      "url": "https://open.spotify.com/track/29i8kD96bdT1yjkdcuTawb"
+      "duration_ms": 209959,
+      "name": "Purple Hat - KC Lights Remix",
+      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2031,46 +2051,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Purple Hat (KC Lights Remix)",
-        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "Purple Hat - KC Lights Remix",
-      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Desire (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
       },
@@ -2095,6 +2075,26 @@
       "duration_ms": 225967,
       "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
       "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2244,6 +2244,10 @@
           "url": "https://open.spotify.com/artist/6HbtkYhKlvY9R1m2PkW6YS"
         },
         {
+          "name": "Afla Sackey & Afrik Bawantu",
+          "url": "https://open.spotify.com/artist/0HmiG8GDrHIniWeRCtEIfr"
+        },
+        {
           "name": "Machinedrum",
           "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         }
@@ -2375,26 +2379,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Paradise (Wh0 Remix)",
-        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Paradise - Wh0 Remix",
-      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     }
   ],
   "unique_name": "mint Remix",

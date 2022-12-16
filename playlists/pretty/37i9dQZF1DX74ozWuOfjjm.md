@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: KYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,400 likes - 98 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,399 likes - 98 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 21 | [See Through](https://open.spotify.com/track/0ZtMzghkupL55g6ToThFwZ) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [See Through](https://open.spotify.com/album/707D7zGBRDXtVVBwwWY24T) | 3:14 |
 | 22 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 |
 | 23 | [can't get laid](https://open.spotify.com/track/3GyLZPZlnVteR6NpvPAJq7) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [can't get laid](https://open.spotify.com/album/43r40totUGXyIiUH0OE0iI) | 2:54 |
-| 24 | [i’ll keep driving](https://open.spotify.com/track/0uAIXiN02cqw8d8hfMBLs7) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [i'll keep driving](https://open.spotify.com/album/16s2651Ph5QNkSnn6jGbGP) | 3:42 |
+| 24 | [i’ll keep driving](https://open.spotify.com/track/3paQIuYfSrEcYUNGZTw3Es) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [ten feet tall](https://open.spotify.com/album/6TETMIrJLfXnQQWSpavE5r) | 3:42 |
 | 25 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 |
 | 26 | [Myriagon \(No Photos Please\)](https://open.spotify.com/track/1bHMdStFH8IKo8KO3umtyC) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Myriagon \(No Photos Please\)](https://open.spotify.com/album/5yJA9xeRSuSX3FIlsJIG8L) | 2:54 |
 | 27 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 92 | [Fairytale](https://open.spotify.com/track/0mjyBpBzqZQney3yk9BP7l) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/6N42runs7cRl23N7D3XQeg) | 1:58 |
 | 93 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 |
 | 94 | [Unaware](https://open.spotify.com/track/3roidInKXgWRTSZYLiZbUY) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/6QKGRsT17L0a2JLGIhOvfv) | 3:57 |
-| 95 | [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 |
+| 95 | [next life](https://open.spotify.com/track/5poPzk8gK11QCegSKXGJbU) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [ten feet tall](https://open.spotify.com/album/6TETMIrJLfXnQQWSpavE5r) | 3:01 |
 | 96 | [It's a Lot](https://open.spotify.com/track/4S548hdBDpaVE87HXwGT2a) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [It's a Lot](https://open.spotify.com/album/6HajKAvn7DGmBdXaZUrxbf) | 3:54 |
 | 97 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 |
 | 98 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGQwOGI0ZTEzZDBkNzcyNjJmMTY3MTQxZTY0NDFiODA0`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDExMjk4ZDQ3ZDczYTNhODA3Y2I1ZDBlYmQxYWE0YmFm`

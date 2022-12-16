@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 453708,
+  "num_followers": 453784,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDk0YzRjYjBkYmFmZjc4OWRjNGUwZjJjOTI4OGU5ODUy",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDdjNjA5OWIwN2ZjYmUzNGRjZmNmNWY2Nzg0MTRlZGU5",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
-      },
-      "artists": [
-        {
-          "name": "Screaming Headless Torsos",
-          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Vinnie",
-      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "III Sides To Every Story",
         "url": "https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd"
       },
@@ -947,18 +931,34 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
       },
       "artists": [
         {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+          "name": "Screaming Headless Torsos",
+          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
         }
       ],
-      "duration_ms": 289893,
-      "name": "What Time Is It?",
-      "url": "https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA"
+      "duration_ms": 264933,
+      "name": "Vinnie",
+      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy"
+      },
+      "artists": [
+        {
+          "name": "I Mother Earth",
+          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+        }
+      ],
+      "duration_ms": 319066,
+      "name": "Rain Will Fall",
+      "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
     },
     {
       "added_at": "2022-02-04 05:02:00",

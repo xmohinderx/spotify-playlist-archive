@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 23699,
+  "num_followers": 23749,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDRmMDAzZjY0MjkyNmU1OTc0MWFkYzkyYTFmMDA1NTgz",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGM3NWNiMGM4MjJlMzliMTU3YzMxNGM5MTA0ZGJiNmNi",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "O Peso das Barra",
+        "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Timor YSF",
+          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
+        }
+      ],
+      "duration_ms": 158923,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 164623,
       "name": "BlackNoir",
       "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "O Peso das Barra",
-        "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Timor YSF",
-          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
-        }
-      ],
-      "duration_ms": 158923,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
     },
     {
       "added_at": "2022-12-02 03:01:00",

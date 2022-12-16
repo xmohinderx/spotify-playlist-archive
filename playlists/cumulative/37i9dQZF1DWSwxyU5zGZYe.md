@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-56 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
+57 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ananya](https://open.spotify.com/track/6ikAlFXHkc3OCZDCaHgfCP) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Toofaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OyNs3aq7N8uwIRlZS7pdq) | 3:52 | 2022-07-12 |  |
 | [Aur Tanha](https://open.spotify.com/track/02J3mNwGfcOS7jjAUfzMgV) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:55 | 2022-04-11 |  |
 | [Baatein Kuch Ankahee Si \- Unplugged](https://open.spotify.com/track/4yWEl7boNZlIUQ32enHCsi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Suhail Kaul](https://open.spotify.com/artist/42jgHGbOryNOmlSgJPGljN) | [Life In A Metro \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6leYdBPs1XzfUgpc8xgeSi) | 4:18 | 2022-04-11 |  |
+| [Bana Sharabi \- Reprise](https://open.spotify.com/track/5uQe4p4rE9CTzBIXaqzJ7v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Lakshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG) | [Govinda Naam Mera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ITI5Ck5zhQ3WTNfwiesZ9) | 2:29 | 2022-12-15 |  |
 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 | 2022-04-11 |  |
 | [Dariyaganj \(From "Jai Mummy Di"\)](https://open.spotify.com/track/3c8SjGyaf03Czq1eaa8xNs) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Dariyaganj \(From "Jai Mummy Di"\)](https://open.spotify.com/album/4DZ60bDwcEJBoB04qP5puc) | 3:31 | 2022-04-11 |  |
 | [Dil Na Jaaneya](https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Dil Na Jaaneya \(From "Good Newwz"\)](https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR) | 3:51 | 2022-04-11 |  |

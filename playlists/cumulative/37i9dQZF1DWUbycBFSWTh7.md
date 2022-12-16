@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-136 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+137 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [When I Think Of You](https://open.spotify.com/track/2vi0ybMrsarWaxKFamBt1k) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh) | [When I Think Of You](https://open.spotify.com/album/78M3oJHH65ZP4V03QoEf04) | 7:22 | 2022-10-13 |  |
 | [Without You](https://open.spotify.com/track/2gJKKQbQnlkSETAYH0aVuc) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Edwin Oosterwal](https://open.spotify.com/artist/5Uxtm1bgCt8Fe7Dzr0pQzA) | [Without You](https://open.spotify.com/album/2JzfY0rPZuMF108kh8uB43) | 6:31 | 2022-09-15 |  |
 | [Woza](https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Linos Rosetta](https://open.spotify.com/artist/6xw7X7OPtVBwDZhFSbVMWO) | [Woza](https://open.spotify.com/album/0BKzS7GdsxwJ5m4dLwZMbg) | 4:19 | 2022-09-15 |  |
+| [Yasuo](https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Yasuo](https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa) | 6:50 | 2022-12-15 |  |
 | [Yipalo](https://open.spotify.com/track/1soxvPNeBojuyZIMFmpDZz) | [Ribas Abbas](https://open.spotify.com/artist/4juB9Jqv2v88qmIhZOT088) | [Yipalo](https://open.spotify.com/album/7oPSQ8xywCGe14Jk2QBus9) | 5:47 | 2022-09-15 |  |
 | [You \- Edit](https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY) | 3:58 | 2022-11-10 |  |
 | [You Want That](https://open.spotify.com/track/78rZKFNN1Hy6SmdR1805uL) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [You Want That](https://open.spotify.com/album/1inngIYvfwsxn2XQHeQf0P) | 5:52 | 2022-09-15 |  |

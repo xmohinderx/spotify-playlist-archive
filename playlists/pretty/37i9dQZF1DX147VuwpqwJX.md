@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,931 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,975 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 9 | [Scooby Dooby Boof](https://open.spotify.com/track/1ax9nndBPseVFcb0tXLDYa) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Scooby Dooby Boof](https://open.spotify.com/album/6FaGlFrarGOPuxGboI1W7K) | 3:48 |
 | 10 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
 | 11 | [Mr\. Banks](https://open.spotify.com/track/4cZGoah2KgIi8y1iZwq79i) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Mr\. Banks](https://open.spotify.com/album/6I34w2tJdiPeqd1cu4KUQY) | 4:14 |
-| 12 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
+| 12 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
 | 13 | [Good PusS \(feat\. cupcakKe\) \- Remix](https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Good PusS \(feat\. cupcakKe\) \[Remix\]](https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO) | 3:39 |
 | 14 | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y) | [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO) | 3:19 |
 | 15 | [Xtravaganza \- Radio Edit](https://open.spotify.com/track/7mdguyC4dPAgeZvQdCs7NJ) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza \(Radio Edit\)](https://open.spotify.com/album/3pZrV5Bg3BZWjFVKTrYg49) | 2:56 |

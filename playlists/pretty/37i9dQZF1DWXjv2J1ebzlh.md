@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,865 likes - 1,202 songs - 3 day 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,904 likes - 1,202 songs - 3 day 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -572,7 +572,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 562 | [To Minore Tis Avgis](https://open.spotify.com/track/7DrGc72zMMvu3VOLRVRsgm) | [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R), [Apostolos Hatzichristos](https://open.spotify.com/artist/5XFtjPHUPYfb0ea4iUCfmq) | [Complete Guide to Markos Vamvakaris](https://open.spotify.com/album/2LfXDPKz7EANTKaLweYyRJ) | 3:19 |
 | 563 | [Still Got a Way to Fall](https://open.spotify.com/track/06xHsdwvGuvdBivuCyGps5) | [Nicole Willis](https://open.spotify.com/artist/0eNjd1MGYdXbMLHoMNu1NI), [UMO Jazz Orchestra](https://open.spotify.com/artist/1tF1OoWEyzysLCCBRwzDc1) | [My Name Is Nicole Willis](https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V) | 3:47 |
 | 564 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/1XAOOkVxdWLra00faqOiyU) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 6:44 |
-| 565 | [Oh Yeh Soweto](https://open.spotify.com/track/6Ev8U76AVKTwpIz4PAIp2e) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [EL Waves](https://open.spotify.com/artist/0A3ZPfG5yGOmuFh5UzNZBH) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 4:07 |
+| 565 | [Oh Yeh Soweto](https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:09 |
 | 566 | [Quando O Carnaval Chegar](https://open.spotify.com/track/5Iuqp8HuZwjV3Uo5g5naHw) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:52 |
 | 567 | [Les voyages](https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Jeanne Chante Jeanne](https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7) | 3:01 |
 | 568 | [O Calhambeque \(Road Hog\) \- Versão remasterizada](https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [É Proibido Fumar \(Remasterizado\)](https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v) | 2:21 |
@@ -958,7 +958,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 948 | [Dulce Lamento](https://open.spotify.com/track/653qTU1msfGyvEpvwGpMAA) | [Nacho Paredes con Los Vaqueros Sabaneros](https://open.spotify.com/artist/116hrBrytJjqRURWlBRqtS) | [La Edad De Oro De La Cumbia Colombiana, Vol\. 2](https://open.spotify.com/album/1sJyr6gkGhXkMP9DvYqREB) | 2:55 |
 | 949 | [Will You Promise](https://open.spotify.com/track/6Ted7KB5tLxmuxHMTOjzj9) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [My Love and Music](https://open.spotify.com/album/2gdtgeYm3JCSFzgxuqN1u0) | 3:46 |
 | 950 | [La Margarita](https://open.spotify.com/track/1yPEVGEFaD0ZlGwMthGqq3) | [Los Ases Del Ritmo](https://open.spotify.com/artist/1NqUoGdpzzeeEnyhRUaMwX) | [La Cumbia Está Llamando \- Early Cumbia From Colombia](https://open.spotify.com/album/5cnBdljuMe92rjF9cWuyu8) | 2:31 |
-| 951 | [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/2Dls8E4dloSP9UEqXbj6f3) | [Marumo](https://open.spotify.com/artist/2eiDGf7qY4H5BA40ytg63x) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 3:41 |
+| 951 | [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/1McHU7TbeVZsSMQb4UCG0B) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F) | 3:44 |
 | 952 | [Si I Bon Di I Bon](https://open.spotify.com/track/6n6KQhXIBs4MkhI6JGwsmC) | [Le Ry\-co Jazz](https://open.spotify.com/artist/1IRR3JBFXllNbzAkidW1Bo) | [Disques Debs International Vol\. 1](https://open.spotify.com/album/6o719MUZj3nUFQb4s1JeRm) | 5:05 |
 | 953 | [Dejala Corre](https://open.spotify.com/track/2RfFLXYenkJsKH2GCgvmUT) | [Banda Los Hijos de La Niña Luz](https://open.spotify.com/artist/3BT4HmMIyquactzeWgv3ql) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 3:27 |
 | 954 | [Hot N Spicy](https://open.spotify.com/track/2YS5nEwf0mTK6cnCEfGj2t) | [Jake Sollo](https://open.spotify.com/artist/09MzkDbe9JlGxSw5gMGUKz) | [Hot N' Spicy EP](https://open.spotify.com/album/4A8yyGi4K0kgUNaqRwMkXB) | 3:07 |
@@ -1211,4 +1211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1201 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1202 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY3MDQxNzU4MSwwMDAwMDAwMGQzNGI0ODgzZmMxZmVjNGMwOTA5ODZkYWU2OTQ0YjEx`
+Snapshot ID: `MTY3MDQxNzU4MSwwMDAwMDAwMDAzYTU3MzE5MmYzMTdiMzA0OGEyNjk2MzhlNjIxN2Mz`

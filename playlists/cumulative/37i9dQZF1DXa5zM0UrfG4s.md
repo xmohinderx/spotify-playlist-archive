@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-267 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+268 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Rundt neste sving](https://open.spotify.com/track/1a13lJDJfoIwl1sfjVWy4j) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Rundt neste sving](https://open.spotify.com/album/5kK2tt52F3j9ARRsksxOHT) | 3:55 | 2021-12-16 | 2022-07-29 |
 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 | 2022-12-01 |  |
 | [Scania fra 1973](https://open.spotify.com/track/149qw7uPNyeYjZbF1TtOq5) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [3](https://open.spotify.com/album/03p4hxaB9DqC7Kh5bAkb8b) | 3:52 | 2022-02-03 | 2022-04-18 |
+| [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/track/0p2xrYWk6xXNoYG4FPdvYD) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/album/4Jz3pUrONbYOyGZ7bnJiJS) | 1:59 | 2022-12-08 |  |
 | [Sexylubben](https://open.spotify.com/track/0SGHKXTxAxfmaTsfv7Dle1) | [Rød Mix](https://open.spotify.com/artist/5C98HIFpOjDEJKslOt7SI8) | [Sexylubben](https://open.spotify.com/album/49Yrzg0zu7dY2N2qTlYJkR) | 3:50 | 2022-01-13 | 2022-04-19 |
 | [Shotski](https://open.spotify.com/track/0RndJ3YX7oQTm1UXLQMrRR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Shotski](https://open.spotify.com/album/6nKlpUiUlrfjqESyLk9lq3) | 3:00 | 2022-02-17 | 2022-07-28 |
 | [Sidehilling](https://open.spotify.com/track/7ncIIf7l61q5H61J7RKwPQ) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Sidehilling](https://open.spotify.com/album/3roB4NCsetfmEuevwxbJWZ) | 4:01 | 2021-12-16 | 2022-07-10 |
@@ -257,7 +258,7 @@
 | [Ut Mot Havet](https://open.spotify.com/track/2jYvJrImUB8qGjO9NFMovv) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Topp 20](https://open.spotify.com/album/74fANoXo8jn0M91Sx78vju) | 3:59 | 2022-03-24 | 2022-04-18 |
 | [Ut mot havet](https://open.spotify.com/track/5JsQ1vHwGkiJqi73JAiXzW) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Ut Mot Havet](https://open.spotify.com/album/0NXL1Qx0KovPcGLdfv8Vkg) | 4:02 | 2022-10-13 | 2022-10-16 |
 | [Ut å ragga](https://open.spotify.com/track/6QM2U3u5FleFGEYfTiBr4S) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Ut å ragga](https://open.spotify.com/album/11dB01KVK80k1PocJgvVDg) | 2:07 | 2021-12-16 | 2022-10-16 |
-| [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 | 2021-12-16 |  |
+| [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 | 2021-12-16 | 2022-12-16 |
 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 | 2021-12-16 | 2022-10-16 |
 | [Vi Svinger Oss I Dansen](https://open.spotify.com/track/1oje28LUjxKx6dyLN45m5i) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt I Blinken](https://open.spotify.com/album/1mHWQdGuWcq8SoVmuOD8wk) | 2:32 | 2022-01-06 | 2022-07-27 |
 | [Vi svinger oss i dansen](https://open.spotify.com/track/5NiRCAAZfx70MFnvvaAug3) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt i blinken](https://open.spotify.com/album/2026ajRTf5JyS5sUwWIbDF) | 2:32 | 2022-10-13 | 2022-10-16 |

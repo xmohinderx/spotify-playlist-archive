@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6627,
+  "num_followers": 6648,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk3OTU0NSwwMDAwMDAwMGIxNjg3OTZiMjRiYThhMzcyZWYzMzJjYjVhNjUwYjMx",
+  "snapshot_id": "MTY2Nzk3OTU0NSwwMDAwMDAwMGEyMzYzNmQ0ZjdiMzE0MTA3NjU5ZDlmZWM2OTE4Mjlk",
   "tracks": [
     {
       "added_at": "2022-11-09 07:39:05",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 193494,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
         "name": "u n u, Pt. 2",
         "url": "https://open.spotify.com/album/4R3JUAwCwCLp4vUDK5TLrZ"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 222133,
       "name": "under the ground (feat. Dean)",
       "url": "https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 193494,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "Party Forever",
-        "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Party Forever",
-      "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
         "name": "u n u, Pt. 1",
         "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 185013,
       "name": "merlot",
       "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
+        "name": "Party Forever",
+        "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Party Forever",
+      "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -387,26 +387,6 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "Show Me the Money 8 Final",
-        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 182868,
-      "name": "010",
-      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -431,22 +411,38 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
-        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
+        "name": "Show Me the Money 8 Final",
+        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
       },
       "artists": [
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 274493,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
+      "duration_ms": 182868,
+      "name": "010",
+      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "ice coffee",
+      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -471,18 +467,22 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
+        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
       },
       "artists": [
         {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 173413,
-      "name": "ice coffee",
-      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
+      "duration_ms": 274493,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -559,6 +559,22 @@
       "duration_ms": 243760,
       "name": "\ubcc0\ud558\uc9c0 \uc54a\uc544",
       "url": "https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -643,22 +659,6 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
         "name": "BLOO IN WONDERLAND 2",
         "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
       },
@@ -671,6 +671,30 @@
       "duration_ms": 306520,
       "name": "Bloo Story",
       "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 248896,
+      "name": "today also (feat. Paloalto & The Quiett)",
+      "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -791,30 +815,6 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "Ape Into Space",
-        "url": "https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW"
-      },
-      "artists": [
-        {
-          "name": "Keith Ape",
-          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
-        },
-        {
-          "name": "Jedi P",
-          "url": "https://open.spotify.com/artist/5gg8fcfzZ7BLpT4Sm8KgCT"
-        },
-        {
-          "name": "Am Kay",
-          "url": "https://open.spotify.com/artist/34L1Z19WeYdYhWvTQMo3lC"
-        }
-      ],
-      "duration_ms": 232759,
-      "name": "Walk With Us (feat. Jedi P & Am Kay)",
-      "url": "https://open.spotify.com/track/7HtPan3iB9NTVEl4bT9auy"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
         "name": "GOOD GIRL Episode 3",
         "url": "https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k"
       },
@@ -839,26 +839,26 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+        "name": "Ape Into Space",
+        "url": "https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW"
       },
       "artists": [
         {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
         },
         {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+          "name": "Jedi P",
+          "url": "https://open.spotify.com/artist/5gg8fcfzZ7BLpT4Sm8KgCT"
         },
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "Am Kay",
+          "url": "https://open.spotify.com/artist/34L1Z19WeYdYhWvTQMo3lC"
         }
       ],
-      "duration_ms": 248896,
-      "name": "today also (feat. Paloalto & The Quiett)",
-      "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
+      "duration_ms": 232759,
+      "name": "Walk With Us (feat. Jedi P & Am Kay)",
+      "url": "https://open.spotify.com/track/7HtPan3iB9NTVEl4bT9auy"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -875,6 +875,26 @@
       "duration_ms": 257687,
       "name": "I Get Lifted X Beenzino",
       "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
+        "name": "Shininryu",
+        "url": "https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 210432,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -903,38 +923,18 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "Shininryu",
-        "url": "https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3"
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
       },
       "artists": [
         {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         }
       ],
-      "duration_ms": 210432,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
-        "name": "ZOO",
-        "url": "https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 234202,
-      "name": "3 GUINEAS",
-      "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
+      "duration_ms": 163066,
+      "name": "20180222-20180930",
+      "url": "https://open.spotify.com/track/2nrWw9mH2R5IiNFRtcAkIK"
     },
     {
       "added_at": "2022-11-09 07:39:05",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+        "name": "ZOO",
+        "url": "https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 163066,
-      "name": "20180222-20180930",
-      "url": "https://open.spotify.com/track/2nrWw9mH2R5IiNFRtcAkIK"
+      "duration_ms": 234202,
+      "name": "3 GUINEAS",
+      "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
     }
   ],
   "unique_name": "\uc7ac\uc988\ub9db \ud799\ud569",

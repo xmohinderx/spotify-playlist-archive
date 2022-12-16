@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1028576,
+  "num_followers": 1028905,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMGYzYmRhMTlkNjI0YjM5ODBhYWIxYWRlMzg0OGM1ZTkx",
+  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMDRlYjMxNjliMWExZWEyZWY1Y2ZlZjJiNDYyNTg0NjFl",
   "tracks": [
     {
       "added_at": "2021-11-10 18:08:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "\"Os Mutantes\"",
-        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
-      },
-      "artists": [
-        {
-          "name": "Os Mutantes",
-          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "A Minha Menina",
-      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Mothership (Remastered)",
         "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 247306,
       "name": "I Can See For Miles - Mono Version",
       "url": "https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "\"Os Mutantes\"",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
+      },
+      "artists": [
+        {
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Forever Changes (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 284319,
-      "name": "The Red Telephone - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Incense And Peppermints",
         "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+        "name": "Forever Changes (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
       },
       "artists": [
         {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
         }
       ],
-      "duration_ms": 466266,
-      "name": "I Walk on Guilded Splinters",
-      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
+      "duration_ms": 284319,
+      "name": "The Red Telephone - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -951,18 +935,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
       "artists": [
         {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 303000,
-      "name": "Bass Strings",
-      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
+      "duration_ms": 466266,
+      "name": "I Walk on Guilded Splinters",
+      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -979,6 +963,22 @@
       "duration_ms": 195400,
       "name": "Lost Women - The Mono Album",
       "url": "https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Bass Strings",
+      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "The Rolling Stones In Mono (Remastered 2016)",
-        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "We Love You - Single Version/Mono",
-      "url": "https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Shapes of Things (2015 Remaster)",
         "url": "https://open.spotify.com/album/3meFfjNEebexMTZOqT0Dx5"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 147000,
       "name": "Green Tambourine",
       "url": "https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "The Rolling Stones In Mono (Remastered 2016)",
+        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "We Love You - Single Version/Mono",
+      "url": "https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS"
     },
     {
       "added_at": "2021-11-10 18:08:33",

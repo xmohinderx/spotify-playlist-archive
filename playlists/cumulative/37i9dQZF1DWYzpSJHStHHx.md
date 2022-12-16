@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-208 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+209 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Party Talk](https://open.spotify.com/track/6N2kBsYvZaS7tO5awPcnSV) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Idle Labor](https://open.spotify.com/album/3IzLouGQA5uY4NfT6zNe3j) | 3:40 | 2021-02-05 | 2022-04-20 |
 | [Peace Blossom Boogy](https://open.spotify.com/track/5qNNanYonpCwahfJGuFVRQ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow \(AUS\)](https://open.spotify.com/album/4SJjaJoFzSLiRY34F5hl2t) | 3:14 | 2021-02-05 | 2022-07-24 |
 | [Peace Blossom Boogy](https://open.spotify.com/track/0Mfcw67Xb68PJJNsfxRi7L) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2) | 3:14 | 2022-07-18 | 2022-12-01 |
+| [Peace Blossom Boogy](https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 3:14 | 2022-09-22 |  |
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-07-22 |  |
 | [Peach Pit](https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka) | 4:47 | 2021-02-05 | 2022-07-26 |
 | [Petals](https://open.spotify.com/track/21DCAUa5hBGdNhDBSDAuCI) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Petals](https://open.spotify.com/album/3S3BIsaQzGl7WfdV8OZQfh) | 2:54 | 2021-02-05 | 2022-07-29 |
@@ -172,7 +173,7 @@
 | [Step Out](https://open.spotify.com/track/3hDVTXOMEkhaAVjPdltpi3) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [No\. 1](https://open.spotify.com/album/5Df4StYJqSo2yCK1nLIt5r) | 2:32 | 2021-02-05 | 2022-04-20 |
 | [Stoned](https://open.spotify.com/track/5Uu6Kdcx62SVKbikkbM5oU) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3P2vcYCOMzyQThpAnmCTi2) | 3:11 | 2021-02-05 | 2022-07-29 |
 | [Sun City Creeps](https://open.spotify.com/track/0vj7w2ykn6IwOdNk4ggd2g) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [City Sun Eater in the River of Light](https://open.spotify.com/album/1LGBxdl9JbgEn0cuaVJRUY) | 5:58 | 2021-02-05 | 2022-04-18 |
-| [Sun Medallion](https://open.spotify.com/track/0sSVTKSPiim06zGApr2NC1) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Was Dead](https://open.spotify.com/album/2RD12eprsENYogP3H1Tp1c) | 2:30 | 2022-09-22 |  |
+| [Sun Medallion](https://open.spotify.com/track/0sSVTKSPiim06zGApr2NC1) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Was Dead](https://open.spotify.com/album/2RD12eprsENYogP3H1Tp1c) | 2:30 | 2022-09-22 | 2022-12-16 |
 | [Sun Medallion](https://open.spotify.com/track/2avVVXPzzk3aRD63rMr5SG) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Was Dead](https://open.spotify.com/album/45Kf7LOIGIZoWAhmCi8bE7) | 2:30 | 2021-02-05 | 2022-07-29 |
 | [Sun's Out](https://open.spotify.com/track/7M9LKoGmelhGBj5jQACPd8) | [Hoops](https://open.spotify.com/artist/12qS7lypMdpvASeNnFXtmN) | [Routines](https://open.spotify.com/album/60Z1NWmapWQBmNNtyN9DbE) | 2:49 | 2021-02-05 | 2022-07-29 |
 | [Super Natural](https://open.spotify.com/track/6As34Fmjj7dtReKB51NOVc) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/1KzvEewMA8NX0y3Rtx9vOz) | 4:17 | 2021-02-05 | 2022-07-28 |

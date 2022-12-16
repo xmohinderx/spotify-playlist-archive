@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=EGSmQqizQz687lXSsBxLdg">Omagoqa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,637 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,693 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 14 | [Uhayizelani](https://open.spotify.com/track/5HamRh4oj341Q336qcQZEE) | [Abangani Bethu](https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT), [Formation Boyz](https://open.spotify.com/artist/1PpqhQEi4YnNyRVAatLKCW) | [Uhayizelani](https://open.spotify.com/album/18NjQSo84NAi032NOZSGVV) | 5:11 |
 | 15 | [P.A.B \(People Are Burning\) \(feat\. Madanon\)](https://open.spotify.com/track/7DkDpIkiYOVBDidQWVhaG9) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Madanon](https://open.spotify.com/artist/0MnqNJsyaYr24L9bN7PpJQ) | [P.A.B \(People Are Burning\) \(feat\. Madanon\)](https://open.spotify.com/album/0mzcPb75OxCKOKi0rfmutl) | 4:05 |
 | 16 | [Lokshin Gqom Wave](https://open.spotify.com/track/4TXaFQYgrKmuZdCvHRA1JC) | [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f) | [Lokshin Gqom Wave](https://open.spotify.com/album/0XQbkUa14wTzXzFTUbkugi) | 5:03 |
-| 17 | [Bashile](https://open.spotify.com/track/3BmxRkVarNV3vWpQN0ouix) | [Funktone](https://open.spotify.com/artist/0f3QQaVcQqdg68BzHoxZcg), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Kabo Reigns](https://open.spotify.com/artist/02SJ0UpyhkIpXU4StorQd7) | [Bashile](https://open.spotify.com/album/4y5mHx3H9adbds4WFmyzJn) | 5:13 |
+| 17 | [Bashile](https://open.spotify.com/track/3BmxRkVarNV3vWpQN0ouix) | [FunkTone](https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Kabo Reigns](https://open.spotify.com/artist/02SJ0UpyhkIpXU4StorQd7) | [Bashile](https://open.spotify.com/album/4y5mHx3H9adbds4WFmyzJn) | 5:13 |
 | 18 | [Vutha](https://open.spotify.com/track/4dP2Dh9RcvuflSvXNwguCD) | [Sphectacula and DJ Naves](https://open.spotify.com/artist/7yHWqKzRw7VR7zU5e3nIZx), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Emza](https://open.spotify.com/artist/7c8DG0zrFEybxnKiBgd6iN), [Rude Boyz](https://open.spotify.com/artist/0qsPnUBg1EgGeGaXSLeO3n) | [Vutha](https://open.spotify.com/album/4rGWCrkgsLM61OiRmRhrmd) | 4:40 |
 | 19 | [Isgubhu](https://open.spotify.com/track/2HrBhE3ZQFsOPoIe8Eybnp) | [DJ Fanele](https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3) | [150K Streams Appreciation](https://open.spotify.com/album/13I5YuZW0RjZWL78sVkiKc) | 5:10 |
 | 20 | [Ndixoleleni Bazali](https://open.spotify.com/track/64bgsr9AEftPmd7hrENA2n) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Thembi Mona](https://open.spotify.com/artist/3Nwjw7vLX4cButAEtqIhnZ) | [Ndixoleleni Bazali](https://open.spotify.com/album/2LvxX9LhtneU5DUpIM5xnV) | 5:34 |

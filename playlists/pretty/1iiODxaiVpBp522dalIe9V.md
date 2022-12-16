@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 > Hip hop heat from the Lone Star State for when you're feeling unstoppable.
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,342 likes - 40 songs - 1 hr 50 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,338 likes - 41 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 38 | [Can’t Dress Me \(feat\. Lil Keed\)](https://open.spotify.com/track/3i8akyijBwNtRwT5KK6kSU) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [GasGod 2](https://open.spotify.com/album/30ZkAc4eDuAOPnlZkpVQKq) | 3:15 |
 | 39 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 |
 | 40 | [The Wave](https://open.spotify.com/track/2BquWRRhieU2XORE5PzbRH) | [Deuce B](https://open.spotify.com/artist/1Ii4hkVp16i905iO1AbkLO) | [The Wave](https://open.spotify.com/album/7gSAT7MqNJQg26bQUv207V) | 2:20 |
+| 41 | [Andale](https://open.spotify.com/track/0FIUx14haK5nYVm6FDV4hi) | [Woine](https://open.spotify.com/artist/4Kh6WXjCUHN6ueN5iJCEtQ) | [Andale](https://open.spotify.com/album/2MLBGRj7TQRkCNqmySasMc) | 2:59 |
 
-Snapshot ID: `Mzk3OCxjNjQyZWMxNTVmODU1YTFiNzc4Yjg5YmFmMzUzYTAwYzkzYzM4ZTY0`
+Snapshot ID: `Mzk3OSw3ZDQzMjAxNTk5ZDFlNWIzMDYzNjgzNmYxMDYxNGRmNWVhYTYzMTll`

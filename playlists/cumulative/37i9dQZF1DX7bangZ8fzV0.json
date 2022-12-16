@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=7SVwzfWaQWCfsWXhLIAhGA\">Die Heuwels Fantasties</a> and <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=d_RHYk3xSB2ndluBYnJrIw\">Appel</a>",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=ziGy_P8aS-2vVVENAvxqFQ\">Brendan Peyper</a> ",
   "name": "Afrikaanse Hits",
   "published_playlist_ids": [
     "3e1GdHUgFT8NgWwl0UpVff"
@@ -1092,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Plaashond",
+        "url": "https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn"
+      },
+      "artists": [
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165898,
+      "name": "Plaashond",
+      "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
+    },
+    {
+      "album": {
         "name": "Plaaslewe",
         "url": "https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf"
       },
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 257000,
       "name": "Suikerbos",
       "url": "https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy"

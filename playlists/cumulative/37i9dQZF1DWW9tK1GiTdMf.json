@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 yungblud in cover",
+  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 la sad e villa in cover",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -1200,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/1sUCObvXmV1atcS1yV7Pwo"
+      },
+      "artists": [
+        {
+          "name": "Diviet\u00f8",
+          "url": "https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125419,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/1ig8ML3HcSIg4TlxkdY6Vp"
+    },
+    {
+      "album": {
         "name": "Come l'ultima volta",
         "url": "https://open.spotify.com/album/0kqJSCn57dgULURyuoVQ2y"
       },
@@ -1281,6 +1299,28 @@
       "duration_ms": 170909,
       "name": "Cose mie",
       "url": "https://open.spotify.com/track/2F7ztT5LyCYKKtPmrSPAV1"
+    },
+    {
+      "album": {
+        "name": "crollo",
+        "url": "https://open.spotify.com/album/01ETWAjEQO0018jCqgLPlY"
+      },
+      "artists": [
+        {
+          "name": "tommi",
+          "url": "https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd"
+        },
+        {
+          "name": "moth.",
+          "url": "https://open.spotify.com/artist/7IVTJLKDkABhe1gNoqgSEr"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "crollo",
+      "url": "https://open.spotify.com/track/3HN3PA9UKhV2eWvRiDmrrS"
     },
     {
       "album": {
@@ -1447,10 +1487,44 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 180740,
       "name": "Diverso",
       "url": "https://open.spotify.com/track/1ii7KHvn46DhqR2ucG0AOt"
+    },
+    {
+      "album": {
+        "name": "STO NELLA SAD DELUXE",
+        "url": "https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S"
+      },
+      "artists": [
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        },
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        },
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        },
+        {
+          "name": "Steven Moses",
+          "url": "https://open.spotify.com/artist/6dJVAeQqn8YeabhqrcA8ed"
+        },
+        {
+          "name": "LA SAD",
+          "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154264,
+      "name": "DIVERSO (feat. Steven Moses)",
+      "url": "https://open.spotify.com/track/48lwy3TzwHortdUm4n3WIg"
     },
     {
       "album": {
@@ -1672,6 +1746,24 @@
     },
     {
       "album": {
+        "name": "Efedrina",
+        "url": "https://open.spotify.com/album/6XZlSbDZyvfeNevhlGpuCO"
+      },
+      "artists": [
+        {
+          "name": "Peri",
+          "url": "https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137900,
+      "name": "Efedrina",
+      "url": "https://open.spotify.com/track/0mraQZ7j0QRW0Gl1Fqi6xn"
+    },
+    {
+      "album": {
         "name": "Estranei",
         "url": "https://open.spotify.com/album/5tL8W7fnVBt3KoPS2E7wvH"
       },
@@ -1749,6 +1841,24 @@
       "duration_ms": 128718,
       "name": "Fammi morire",
       "url": "https://open.spotify.com/track/1mqMoMzSTXzCFcJiCj1aPs"
+    },
+    {
+      "album": {
+        "name": "Farmaci in bustine",
+        "url": "https://open.spotify.com/album/4NuSzjkAg3Tu6lLGTS9QdZ"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171456,
+      "name": "Farmaci in bustine",
+      "url": "https://open.spotify.com/track/0QzwyqqXT20TY2cneTmLz3"
     },
     {
       "album": {
@@ -1985,6 +2095,32 @@
       "duration_ms": 171213,
       "name": "Fottuta canzone",
       "url": "https://open.spotify.com/track/4i30SbdrnaiYiwlMDhleQ4"
+    },
+    {
+      "album": {
+        "name": "Punk Rock Boy",
+        "url": "https://open.spotify.com/album/2ZOFYmi9h3R7T0tupX4iKh"
+      },
+      "artists": [
+        {
+          "name": "$uicide Gvng",
+          "url": "https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb"
+        },
+        {
+          "name": "xRick",
+          "url": "https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb"
+        },
+        {
+          "name": "DANDY TURNER",
+          "url": "https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Fottuta Met\u00e0",
+      "url": "https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI"
     },
     {
       "album": {
@@ -2619,6 +2755,24 @@
       "duration_ms": 166037,
       "name": "i'm too pretty for this",
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
+    },
+    {
+      "album": {
+        "name": "il mio cane",
+        "url": "https://open.spotify.com/album/1cHCrQNrYESEpIbpvSonQq"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145286,
+      "name": "il mio cane",
+      "url": "https://open.spotify.com/track/23sXcQxMAaTiQ8hLaMu2jm"
     },
     {
       "album": {
@@ -3402,6 +3556,40 @@
     },
     {
       "album": {
+        "name": "STO NELLA SAD DELUXE",
+        "url": "https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S"
+      },
+      "artists": [
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        },
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        },
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "LA SAD",
+          "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178969,
+      "name": "MAYDAY (feat. VillaBanks)",
+      "url": "https://open.spotify.com/track/3OXQqhbch5uALz1FdCKvWT"
+    },
+    {
+      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/4viNe5RBvDbJkaz5fDGQM0"
       },
@@ -3658,6 +3846,28 @@
     },
     {
       "album": {
+        "name": "NMV + ADL",
+        "url": "https://open.spotify.com/album/2RLrtkQzKnD9T0NI8qmaTy"
+      },
+      "artists": [
+        {
+          "name": "KTB",
+          "url": "https://open.spotify.com/artist/4RanGqewn3LGLSogjFniW7"
+        },
+        {
+          "name": "Thamia",
+          "url": "https://open.spotify.com/artist/4s6aa0xhs7T3WdTcaMAFfQ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145789,
+      "name": "NMV + ADL",
+      "url": "https://open.spotify.com/track/41njQv4YvZBqlEYnsCk2vq"
+    },
+    {
+      "album": {
         "name": "Noia",
         "url": "https://open.spotify.com/album/4hLbwV7dLUnizmWCR83rSk"
       },
@@ -3825,6 +4035,24 @@
       "duration_ms": 148674,
       "name": "NON TI PENSO PI\u00d9",
       "url": "https://open.spotify.com/track/4YyEb4GtcuRRkhloVJ5mX5"
+    },
+    {
+      "album": {
+        "name": "Non torno",
+        "url": "https://open.spotify.com/album/3aQMwVlRw3uJCTeHJHGUYQ"
+      },
+      "artists": [
+        {
+          "name": "Mpatia",
+          "url": "https://open.spotify.com/artist/2GucDMAVIRYJ8uXvpvtvbM"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Non torno",
+      "url": "https://open.spotify.com/track/5Ei2BDhF7QjQMehJqRZQuZ"
     },
     {
       "album": {
@@ -4002,6 +4230,32 @@
     },
     {
       "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/7tDokjP3aetBdFV7wTmfZn"
+      },
+      "artists": [
+        {
+          "name": "Jellish",
+          "url": "https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU"
+        },
+        {
+          "name": "Asjatica",
+          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
+        },
+        {
+          "name": "FREESO",
+          "url": "https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199690,
+      "name": "OFFLINE",
+      "url": "https://open.spotify.com/track/42kqn34G9jaBcTgt08yXcz"
+    },
+    {
+      "album": {
         "name": "OGGI SE NE VA",
         "url": "https://open.spotify.com/album/6AKHBG3JK8lP9IXT7ZaH8G"
       },
@@ -4097,6 +4351,28 @@
       "duration_ms": 169181,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
+    },
+    {
+      "album": {
+        "name": "parlami di +",
+        "url": "https://open.spotify.com/album/4E1eoIz1iwqDzacBFsjDil"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        },
+        {
+          "name": "Bdope",
+          "url": "https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135555,
+      "name": "parlami di +",
+      "url": "https://open.spotify.com/track/0VcgfVXBPCf4WsEfHEB898"
     },
     {
       "album": {
@@ -4480,6 +4756,28 @@
     },
     {
       "album": {
+        "name": "Quando casco di sotto",
+        "url": "https://open.spotify.com/album/1dkuRF91vqzS9chbMjiUmU"
+      },
+      "artists": [
+        {
+          "name": "Frasca",
+          "url": "https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ"
+        },
+        {
+          "name": "Sconforto",
+          "url": "https://open.spotify.com/artist/39fZxJQG1MRejpGHq7r77Z"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190702,
+      "name": "Quando casco di sotto",
+      "url": "https://open.spotify.com/track/5B2gVpi7f6Tm7SXGnnjM3d"
+    },
+    {
+      "album": {
         "name": "Quando non 6 con me",
         "url": "https://open.spotify.com/album/4nlco0dP62n2pxukmW66rr"
       },
@@ -4727,7 +5025,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 220000,
       "name": "Rossa",
       "url": "https://open.spotify.com/track/3piSmKNs61q6u8McTiIxJS"
@@ -4789,6 +5087,28 @@
       "duration_ms": 229565,
       "name": "Salice",
       "url": "https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi"
+    },
+    {
+      "album": {
+        "name": "Salsa di soia",
+        "url": "https://open.spotify.com/album/2lQSPpNeL7jXPj4Ze5XZOy"
+      },
+      "artists": [
+        {
+          "name": "CITRIESTE",
+          "url": "https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2"
+        },
+        {
+          "name": "G Ferrari",
+          "url": "https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Salsa di soia",
+      "url": "https://open.spotify.com/track/4lGlRTOUL3qCQuS02VqCYr"
     },
     {
       "album": {
@@ -4943,6 +5263,32 @@
       "duration_ms": 166400,
       "name": "Senza fiato",
       "url": "https://open.spotify.com/track/5dUhGys4taBvM5IKwXbIUZ"
+    },
+    {
+      "album": {
+        "name": "Sere nere",
+        "url": "https://open.spotify.com/album/08dxcPYxu2unlaaAI7NajL"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "Bedini",
+          "url": "https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP"
+        },
+        {
+          "name": "Brunelleski",
+          "url": "https://open.spotify.com/artist/1ZrajfZPubGTccfX3Xutxd"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182823,
+      "name": "Sere nere",
+      "url": "https://open.spotify.com/track/628efDaUbu6gn8am4OTDrD"
     },
     {
       "album": {
@@ -6309,7 +6655,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 189500,
       "name": "Vetri rotti",
       "url": "https://open.spotify.com/track/74Ulr6XJ8kNkbaa7mLEDM6"
@@ -6499,7 +6845,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 170419,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/7aK66oP1Zwr9LZinavJEvg"

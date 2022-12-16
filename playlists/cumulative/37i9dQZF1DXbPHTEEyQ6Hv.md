@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-122 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
+123 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Christmas Waltz](https://open.spotify.com/track/1mo1GHuFkrf5HbmsIAFE9A) | [Wolfgang Hesse](https://open.spotify.com/artist/0DA4ip8spL0eleah5T7Xoz) | [Wolfgang Hesse](https://open.spotify.com/album/7LQuSNfNniF4uHmJxC1ruS) | 3:00 | 2021-12-14 | 2022-10-15 |
 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 | 2021-12-14 |  |
 | [The Day Before Christmas](https://open.spotify.com/track/5Jdvuh1kRvNvkWRwxYY1sh) | [Jascha van Nuenen](https://open.spotify.com/artist/0wxmGu7bfQkix7ZeK8A0mz) | [The Day Before Christmas](https://open.spotify.com/album/2m0DnFENgUgtJq410jEGcT) | 1:42 | 2022-11-09 |  |
-| [The First Noel](https://open.spotify.com/track/3qIyXzaFyemcsdtDwCz00L) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Little Drummer Boy](https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE) | 2:03 | 2022-12-06 |  |
+| [The First Noel](https://open.spotify.com/track/2lzHOWyFnlG057YxwW4iYh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:03 | 2022-12-14 |  |
+| [The First Noel](https://open.spotify.com/track/3qIyXzaFyemcsdtDwCz00L) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Little Drummer Boy](https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE) | 2:03 | 2022-12-06 | 2022-12-16 |
 | [The First Noel](https://open.spotify.com/track/7vFgAMthJFP6jr9HTef2Y8) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The First Noel](https://open.spotify.com/album/6U12R48Wp7jHFTX4odwrDr) | 2:03 | 2022-12-06 | 2022-12-09 |
 | [The First Noël](https://open.spotify.com/track/2s286y2oyE6zfa6QF8X9eU) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Gather Around The Christmas Tree](https://open.spotify.com/album/2bDhA7c8KAj4CzavWa49fU) | 2:02 | 2021-12-14 | 2022-12-07 |
 | [The Holly and the Ivy](https://open.spotify.com/track/0YrtmukmxadUiL71QmYavc) | [David Osborne](https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G) | [Piano Christmas](https://open.spotify.com/album/5DzeLiTyNyuJWq5kJkjaVV) | 1:52 | 2021-12-14 |  |

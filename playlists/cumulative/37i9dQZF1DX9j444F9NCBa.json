@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "A Sky Full of Stars",
+        "url": "https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH"
+    },
+    {
+      "album": {
         "name": "Famous Songs on Piano 1",
         "url": "https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe"
       },
@@ -203,6 +221,24 @@
       "duration_ms": 215968,
       "name": "A Sky Full Of Stars - Piano Version",
       "url": "https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF"
+    },
+    {
+      "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor",
+          "url": "https://open.spotify.com/artist/6JAvfB7kCWRrbVRPNvahKS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217138,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/77VP90xg3Sxi4CoxNmeQJc"
     },
     {
       "album": {
@@ -476,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Pop Piano Covers",
+        "url": "https://open.spotify.com/album/1AaSKM9uuMtpckNIJQfhR4"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "August - Piano",
+      "url": "https://open.spotify.com/track/3RlBhtMVOJQiWWVOL5usY1"
+    },
+    {
+      "album": {
         "name": "Baby I Love Your Way",
         "url": "https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ"
       },
@@ -581,6 +635,24 @@
       "duration_ms": 253746,
       "name": "Beneath your beautiful",
       "url": "https://open.spotify.com/track/2man3BqdNICmahlzaSfybW"
+    },
+    {
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC"
     },
     {
       "album": {
@@ -973,7 +1045,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 172025,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/28cY40buH89cMkAMxdMznk"
@@ -1304,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/6NgcOqej4Qo0xzw9cjNEVU"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146854,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/5tIM8Dt62vUmgtRWdPIojK"
+    },
+    {
+      "album": {
         "name": "Fake a smile",
         "url": "https://open.spotify.com/album/4Z9LkxhZbqK0jY3bkj2uo7"
       },
@@ -1589,6 +1679,24 @@
       "duration_ms": 138235,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/2OzZdwUjDKvHml7nV3rVAO"
+    },
+    {
+      "album": {
+        "name": "Golden Hour (Piano)",
+        "url": "https://open.spotify.com/album/7H4URknmYd8Am6pQLtZny6"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158694,
+      "name": "Golden Hour - Piano",
+      "url": "https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7"
     },
     {
       "album": {
@@ -2007,6 +2115,24 @@
     {
       "album": {
         "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0E4psFtna3BQ3W7CVtKSKr"
+      },
+      "artists": [
+        {
+          "name": "Brandon Taylor Smith",
+          "url": "https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147595,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/4H0DZdsY2oT23dnD5RYyYP"
+    },
+    {
+      "album": {
+        "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/2SrfBzKsI9JmhZ6YPLWAh6"
       },
       "artists": [
@@ -2143,10 +2269,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 193558,
       "name": "I Don't Wanna Miss A Thing",
       "url": "https://open.spotify.com/track/1nrBbHFM6PVfOQEXGfpeFt"
+    },
+    {
+      "album": {
+        "name": "Relaxing Pop Piano Covers",
+        "url": "https://open.spotify.com/album/1AaSKM9uuMtpckNIJQfhR4"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "I Don't Want to Miss a Thing - Piano",
+      "url": "https://open.spotify.com/track/0pBBdDfWDIZQ3vYN3e67qB"
     },
     {
       "album": {
@@ -2276,6 +2420,24 @@
     },
     {
       "album": {
+        "name": "If I Ain't Got You",
+        "url": "https://open.spotify.com/album/2F7HJ03TFStnoa7e92Al95"
+      },
+      "artists": [
+        {
+          "name": "Melvin Gale",
+          "url": "https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228920,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/55qulwZF586SHaW888nGtG"
+    },
+    {
+      "album": {
         "name": "If You Leave Me Now",
         "url": "https://open.spotify.com/album/1QX0cb2zR5ECbz4YGsgFFu"
       },
@@ -2402,6 +2564,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/7FxObz6mk4OeaVu2XViEnY"
+      },
+      "artists": [
+        {
+          "name": "Moonsong",
+          "url": "https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122452,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/09sIhNxVdgMezbzeGcRLIx"
+    },
+    {
+      "album": {
         "name": "Piano Favorites 2",
         "url": "https://open.spotify.com/album/1Aa8a61At5CfuuidP6lZuK"
       },
@@ -2471,6 +2651,24 @@
       "duration_ms": 201712,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme"
+    },
+    {
+      "album": {
+        "name": "Killing Me Softly With His Song",
+        "url": "https://open.spotify.com/album/6V7dsIWFMiYOOcKL1zeOkD"
+      },
+      "artists": [
+        {
+          "name": "Dani Mezzo",
+          "url": "https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187874,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/1PxAz2jrkB51QG0OipxO9e"
     },
     {
       "album": {
@@ -2611,7 +2809,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 189526,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/6sXI8gKfhj9qrVe1hHdqtm"
@@ -2870,6 +3068,42 @@
     },
     {
       "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/69aKSktq5zcnn7pIURT5x7"
+      },
+      "artists": [
+        {
+          "name": "Vakur Svalason",
+          "url": "https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112173,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/6F2c611HqwN7kUjZPQFt1j"
+    },
+    {
+      "album": {
+        "name": "Make you feel my love",
+        "url": "https://open.spotify.com/album/1T2uN4iuIk5o6o3ZuWWu3x"
+      },
+      "artists": [
+        {
+          "name": "Felix M\u00f8ller",
+          "url": "https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200433,
+      "name": "Make you feel my love",
+      "url": "https://open.spotify.com/track/1YCfFKtD5HCNMxYedp18Aw"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/0KpBrDZSwmXHkmd3ffhQEn"
       },
@@ -2957,6 +3191,24 @@
       "duration_ms": 129000,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s"
+    },
+    {
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/69aKSktq5zcnn7pIURT5x7"
+      },
+      "artists": [
+        {
+          "name": "Vakur Svalason",
+          "url": "https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252972,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/3GTPkpNSEP1FLMa6OyIQfj"
     },
     {
       "album": {
@@ -3227,6 +3479,24 @@
       "duration_ms": 136528,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU"
+    },
+    {
+      "album": {
+        "name": "Peaches (Piano)",
+        "url": "https://open.spotify.com/album/1q5CYDmxIcFSwjru9zJovW"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185519,
+      "name": "Peaches - Piano",
+      "url": "https://open.spotify.com/track/6oLOJuEZ0PL00wODRJ4Y9G"
     },
     {
       "album": {
@@ -3770,6 +4040,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188471,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3"
+    },
+    {
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/7Kv83I86uVpTltSvTGQP4v"
       },
@@ -4184,6 +4472,24 @@
     },
     {
       "album": {
+        "name": "Theme From Fame",
+        "url": "https://open.spotify.com/album/6qeq6RLDXVx2nNNII88HMV"
+      },
+      "artists": [
+        {
+          "name": "Sander Bjerke",
+          "url": "https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190127,
+      "name": "Theme from Fame",
+      "url": "https://open.spotify.com/track/4KWxiel76VGlyz99XKYJXA"
+    },
+    {
+      "album": {
         "name": "Theme From Love Story",
         "url": "https://open.spotify.com/album/6H2J0nVhDlwffDOzcID19m"
       },
@@ -4526,6 +4832,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor",
+          "url": "https://open.spotify.com/artist/6JAvfB7kCWRrbVRPNvahKS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167350,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt"
+    },
+    {
+      "album": {
         "name": "We Don't Need Another Hero",
         "url": "https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd"
       },
@@ -4559,6 +4883,24 @@
       "duration_ms": 143487,
       "name": "What a wonderful world",
       "url": "https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33"
+    },
+    {
+      "album": {
+        "name": "When I Held Ya",
+        "url": "https://open.spotify.com/album/0SK2OyGdMTXcayeC3M4X3v"
+      },
+      "artists": [
+        {
+          "name": "Isobel Fontenay",
+          "url": "https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "When I Held Ya",
+      "url": "https://open.spotify.com/track/7lNpAXqQVSUjmaVDMljWPp"
     },
     {
       "album": {
@@ -4631,7 +4973,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 225267,
       "name": "When You\u00b4re Gone",
       "url": "https://open.spotify.com/track/3eRslDh4lTtUFdMhttb6gc"
@@ -4815,6 +5157,24 @@
       "duration_ms": 174000,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/5YO7hivGzpGctGedUVRmFv"
+    },
+    {
+      "album": {
+        "name": "Wooden Heart",
+        "url": "https://open.spotify.com/album/1ojOQWXVZPnHltSUnwlFBf"
+      },
+      "artists": [
+        {
+          "name": "Love Falk",
+          "url": "https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107250,
+      "name": "Wooden Heart",
+      "url": "https://open.spotify.com/track/7I8w2tPNmrgsopg92u7Vzx"
     },
     {
       "album": {

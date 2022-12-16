@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 24732,
+  "num_followers": 24746,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDU1ZmNlNWZiOGVmYWFmMDc5YTk3MjI2NzEzMzhhMjUz",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDFiNjZjNTkxOWQ1M2M2MmQ3YTQwNzcwZDBiYWJjMDZi",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -119,22 +119,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335613,
-      "name": "Only the Strong Survive",
-      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 405293,
       "name": "Haven't You Heard",
       "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 335613,
+      "name": "Only the Strong Survive",
+      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -331,6 +331,26 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 316960,
       "name": "Can't Fake the Feeling",
       "url": "https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -535,26 +535,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Boxed Out",
-        "url": "https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 284308,
-      "name": "64 Ways",
-      "url": "https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "For the Beasts",
         "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
       },
@@ -575,6 +555,26 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Boxed Out",
+        "url": "https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 284308,
+      "name": "64 Ways",
+      "url": "https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Raw Cuts #3",
         "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
       },
@@ -591,6 +591,26 @@
       "duration_ms": 414359,
       "name": "Raw Cuts #3",
       "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Weekends and Beginnings",
+        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        },
+        {
+          "name": "Maurice Fulton",
+          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
+        }
+      ],
+      "duration_ms": 332777,
+      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
+      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -627,26 +647,6 @@
       "duration_ms": 589706,
       "name": "Lady Bug - Disco Mix",
       "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Weekends and Beginnings",
-        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        },
-        {
-          "name": "Maurice Fulton",
-          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
-        }
-      ],
-      "duration_ms": 332777,
-      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
-      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -883,18 +883,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Okay Okay / Hey Ciao Tu",
-        "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
+        "name": "Is It All Over My Face?",
+        "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
         }
       ],
-      "duration_ms": 258096,
-      "name": "Okay Okay - Remastered",
-      "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
+      "duration_ms": 427990,
+      "name": "Is It All Over My Face? - Female Version",
+      "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
     }
   ],
   "unique_name": "Rooftop Sunset",

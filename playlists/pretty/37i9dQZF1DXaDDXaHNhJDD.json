@@ -1,13 +1,33 @@
 {
-  "description": "An exclusive collection of Malayalam super hit songs.\nCover: Thallumaala",
-  "num_followers": 34931,
+  "description": "An exclusive collection of Malayalam super hit songs.\nCover: GOLD",
+  "num_followers": 35049,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcwMTA4NCwwMDAwMDAwMDNkZDNlMDZlMzRjYmQ1MTI3MjA2MzE4YTFjMzIxYTU1",
+  "snapshot_id": "MTY3MTA5NjczMywwMDAwMDAwMDkwOGVhOTM3ZjhkZWZjZDFkNmI1YWYxNzI2YmNlNmUx",
   "tracks": [
+    {
+      "added_at": "2022-12-15 09:32:13",
+      "album": {
+        "name": "Gold (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6p5srT13gFwEmXebJWl3SZ"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Murugesan",
+          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        }
+      ],
+      "duration_ms": 236290,
+      "name": "Thanne Thanne",
+      "url": "https://open.spotify.com/track/6Zz6SX24b3DfUe9wAhHEsR"
+    },
     {
       "added_at": "2022-08-18 06:40:38",
       "album": {

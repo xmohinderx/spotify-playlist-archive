@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-117 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/0mWtPSkQPViGQEWUUHWJxq)
+118 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0mWtPSkQPViGQEWUUHWJxq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,13 +77,14 @@
 | [Misty Mountains \(A Cappella\)](https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Misty Mountains \(A Cappella\)](https://open.spotify.com/album/41iB6cCYKWTpOivxL7lVaS) | 4:20 | 2021-12-24 | 2022-07-23 |
 | [Misty Mountains \- Solo Version](https://open.spotify.com/track/3fMdTXx79MvNWnB7orsq4d) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Songs of Middle Earth](https://open.spotify.com/album/0ocEjdrrdGiP4N2JmZj9cJ) | 4:18 | 2021-12-24 | 2022-11-14 |
 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 | 2021-12-24 |  |
+| [Ordinary People](https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe) | [Ordinary People](https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk) | 1:14 | 2022-12-09 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:02 | 2021-12-24 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/1est72o2prNA80flC5ncoN) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 1:03 | 2021-12-24 | 2022-07-29 |
 | [Problem](https://open.spotify.com/track/3H3uzC93i5XXChUev0wHI8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Problem](https://open.spotify.com/album/11tXKKKp6WelxkqSpNUQLW) | 2:30 | 2021-12-24 | 2022-07-03 |
 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 | 2021-12-24 | 2022-12-10 |
 | [Radioactive](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [PTX](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) | 3:46 | 2021-12-24 |  |
 | [Radioactive](https://open.spotify.com/track/6vGVf8K3ri7VfkCj6PtZRy) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Radioactive](https://open.spotify.com/album/67vgL4RvpcGY0nooDOK6zW) | 3:48 | 2021-12-24 | 2022-07-25 |
-| [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 | 2022-12-09 |  |
+| [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 | 2022-12-09 | 2022-12-16 |
 | [Remix to Ignition](https://open.spotify.com/track/5q1CMrZQ9LIjjzOoYlz0Fo) | [The Dartmouth Aires](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) | [Impaired](https://open.spotify.com/album/3C1bXxcAkP6FkHyHGKcDuH) | 3:19 | 2021-12-24 | 2022-07-21 |
 | [Rhythm of Love / Can't Help Falling in Love \- EP Version](https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack: Volume 2](https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6) | 3:33 | 2021-12-24 |  |
 | [Riff Off \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/5RGFGWglZ2zRDWXOK7HyNq) | [Das Sound Machine](https://open.spotify.com/artist/3OIHrPeryKmEnrOHCh0x7a), [Tone Hangers](https://open.spotify.com/artist/2RHqPH33tgSVMtXhJkzwue), [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ), [Green Bay Packers](https://open.spotify.com/artist/54FQoMnSEdeijbIgu7zBnz), [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 4:24 | 2021-12-24 |  |

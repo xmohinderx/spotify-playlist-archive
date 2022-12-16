@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "ProfJam entra na zona. ",
+  "description": "Piruka entra na zona. ",
   "name": "Na Zona",
   "published_playlist_ids": [
     "22ncssGshPQaFSB3hgligM"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 324763,
       "name": "3,14",
       "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 216488,
       "name": "Fato treino do City",
       "url": "https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB"
@@ -1490,6 +1490,28 @@
     },
     {
       "album": {
+        "name": "Hallywud",
+        "url": "https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181287,
+      "name": "Hallywud",
+      "url": "https://open.spotify.com/track/37OHWelZZiuSZwUzV9Sybv"
+    },
+    {
+      "album": {
         "name": "HGS",
         "url": "https://open.spotify.com/album/5PcvUawRRRaAEOJD3AGTIQ"
       },
@@ -1665,6 +1687,24 @@
       "duration_ms": 213333,
       "name": "Louco",
       "url": "https://open.spotify.com/track/6kJKJrVzOYhqnfeO9NDqIi"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208068,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
     },
     {
       "album": {
@@ -3012,6 +3052,24 @@
     },
     {
       "album": {
+        "name": "Lil Mood 2 EP",
+        "url": "https://open.spotify.com/album/6AcaiEnn57E1qNcINAMTb9"
+      },
+      "artists": [
+        {
+          "name": "tripsyhell",
+          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Sr. Money Dance",
+      "url": "https://open.spotify.com/track/2WautKOoctHinblR0StGkq"
+    },
+    {
+      "album": {
         "name": "STAY FLY",
         "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
       },
@@ -3085,7 +3143,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 172560,
       "name": "S\u00f3 Se N\u00e3o Quiseres",
       "url": "https://open.spotify.com/track/0dTFrJx3UeD54dZhGXBeNb"
@@ -3107,6 +3165,32 @@
       "duration_ms": 157714,
       "name": "teach me how to love",
       "url": "https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO"
+    },
+    {
+      "album": {
+        "name": "Hoodstarz",
+        "url": "https://open.spotify.com/album/2K4yTolJlZ3i7AyCjdRFnp"
+      },
+      "artists": [
+        {
+          "name": "Progvid",
+          "url": "https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W"
+        },
+        {
+          "name": "Pika",
+          "url": "https://open.spotify.com/artist/3N8p0SELgr5vZLgUTdmCNi"
+        },
+        {
+          "name": "Topboy Blk",
+          "url": "https://open.spotify.com/artist/5wQNFcDVCxuiePhZzryw6h"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "Tempero",
+      "url": "https://open.spotify.com/track/5aObfslcyWOUklHK8SUM8b"
     },
     {
       "album": {
@@ -3349,6 +3433,28 @@
       "duration_ms": 170840,
       "name": "Vida Di Youngers",
       "url": "https://open.spotify.com/track/3mrcQCfTL4SnxXkcYYOfo9"
+    },
+    {
+      "album": {
+        "name": "Vivenda",
+        "url": "https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "ICECOLD",
+          "url": "https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191705,
+      "name": "Vivenda",
+      "url": "https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6"
     },
     {
       "album": {

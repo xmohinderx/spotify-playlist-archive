@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain](/playlists/plain/37i9dQZF1DX1YMPNuWL6BX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1YMPNuWL6BX)
 
-### [New Years 2023](https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX)
+### [New Year's Eve 2023](https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX)
 
 > Ring in 2023 with your favorite party tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,459 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,492 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 | 99 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 100 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 
-Snapshot ID: `MTY3MDg4MDAxMywwMDAwMDAwMGZlMzcwOGM0NDMyNzkwNWEzNWI2MjJlOTFjYTMzOTI5`
+Snapshot ID: `MTY3MTEzNjY4NiwwMDAwMDAwMDA4YmFiZWE0YzJkYTdkZWU3YTIwNWFhNTE0N2QzOWE3`

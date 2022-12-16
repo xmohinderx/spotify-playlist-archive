@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf?si=KejCoE4vTEyAUQWvqYQubw\">Mymymy</a>",
+  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/4F67Td1MFg10RECDJz3YU6?si=lGQUfiV-S6Ocjg6FaU8pgg\">Valley Sixteen</a>",
   "name": "SAlt",
   "published_playlist_ids": [
     "725N8DiCOBrEyrBxUeYOar"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 232500,
       "name": "A Long Time",
       "url": "https://open.spotify.com/track/08izD5yyI6TPJCzmABexZc"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 77991,
       "name": "All I ask for",
       "url": "https://open.spotify.com/track/7cnK5RmaVkizAJZiJ772T4"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 330124,
       "name": "Bayakhala",
       "url": "https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 185635,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/61Phoppvo0NkAIjrql2NCi"
@@ -363,10 +363,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 182626,
       "name": "Broken Shell (Let it Burn)",
       "url": "https://open.spotify.com/track/464ZaLIQyijqgAmCndPwdE"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/3uz8pZTCSlE1kuq9RWRpD5"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185307,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3rm1IRrWeiZaY6KwBbQRHG"
     },
     {
       "album": {
@@ -537,10 +555,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 264503,
       "name": "Driven to Drink",
       "url": "https://open.spotify.com/track/1g61CcDnJNowdZJK6oW1GS"
+    },
+    {
+      "album": {
+        "name": "Drop Dead",
+        "url": "https://open.spotify.com/album/7fadIrhu9sB9jmkTAO6oUh"
+      },
+      "artists": [
+        {
+          "name": "Valley Sixteen",
+          "url": "https://open.spotify.com/artist/4F67Td1MFg10RECDJz3YU6"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136161,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/1sjnIv36iD8HHbBimsLlUk"
     },
     {
       "album": {
@@ -984,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5yyNJzEniuIKNmUqZbKQGT"
+      },
+      "artists": [
+        {
+          "name": "Stephan Kreussel",
+          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177820,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7ntt63SiqMJsUUt01U66h4"
+    },
+    {
+      "album": {
         "name": "Subtle Affection",
         "url": "https://open.spotify.com/album/46QpadPmdS38FxqUm7vDDh"
       },
@@ -1013,7 +1067,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 73112,
       "name": "Lift Me Higher",
       "url": "https://open.spotify.com/track/3wSENVw8rn7X9nIJ7AzwKp"
@@ -1057,7 +1111,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 201185,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3xY36zjy0lSZf6H5aTe5WD"
@@ -1079,6 +1133,28 @@
       "duration_ms": 206117,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7C18nGbnjKfSYZfxNaNisK"
+    },
+    {
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Tubatsi Mpho Moloi",
+          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/152r40YkplZWECHc392lTa"
     },
     {
       "album": {
@@ -1141,6 +1217,42 @@
       "duration_ms": 311678,
       "name": "Nice",
       "url": "https://open.spotify.com/track/0wbvC5m9im0mBkUtoVC0BA"
+    },
+    {
+      "album": {
+        "name": "Nice Guy",
+        "url": "https://open.spotify.com/album/671RmYhAsiLtuug0Tykqfc"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/1D84s1Wi9wDnyiLTrn174x"
+    },
+    {
+      "album": {
+        "name": "No Platonic Male Friends",
+        "url": "https://open.spotify.com/album/0bqG2FO5rOEfGxdrZJkaeN"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "No Platonic Male Friends",
+      "url": "https://open.spotify.com/track/0HtIsMcal2Ma8JOgL1b7yB"
     },
     {
       "album": {
@@ -1220,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/773Dc2aCKe3fhZ4QrOxqwA"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4vnWq7kLc1RSUNJzcNDyE1"
+    },
+    {
+      "album": {
         "name": "Distopia",
         "url": "https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9"
       },
@@ -1271,7 +1401,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 263244,
       "name": "Psych Thrills",
       "url": "https://open.spotify.com/track/2Z2EmJ8dW0lyERmOtL2U15"
@@ -1307,7 +1437,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 191278,
       "name": "Rhinestone River",
       "url": "https://open.spotify.com/track/7mxcH6Ab9gnVjcVMPEeghZ"
@@ -1329,6 +1459,24 @@
       "duration_ms": 217506,
       "name": "Ride The Next One",
       "url": "https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu"
+    },
+    {
+      "album": {
+        "name": "Royalties",
+        "url": "https://open.spotify.com/album/3CWIhu1lmfha0awePZSHtf"
+      },
+      "artists": [
+        {
+          "name": "Reigndear",
+          "url": "https://open.spotify.com/artist/1smz5F8IGhEuE0Pz5zzQjT"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300441,
+      "name": "Royalties",
+      "url": "https://open.spotify.com/track/2SsLNG25UUof2uiGLn0xlu"
     },
     {
       "album": {
@@ -1516,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "Stereoscope",
+        "url": "https://open.spotify.com/album/0e7E2Z3qltALEjHohVyJgC"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Stereoscope",
+      "url": "https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB"
+    },
+    {
+      "album": {
         "name": "Super Grassy",
         "url": "https://open.spotify.com/album/2iBK98Wm4Tgwuc5x3JnEqD"
       },
@@ -1589,6 +1755,24 @@
       "duration_ms": 293389,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
+    },
+    {
+      "album": {
+        "name": "The Joke's On You",
+        "url": "https://open.spotify.com/album/3gE0IWhHREP8dIAlY7xpaK"
+      },
+      "artists": [
+        {
+          "name": "Filipa",
+          "url": "https://open.spotify.com/artist/0qLIVG05oC1d125MrkKZk7"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "The Joke's On You",
+      "url": "https://open.spotify.com/track/3E9ZYwjljhnAqGrnQ9lzDQ"
     },
     {
       "album": {
@@ -1831,7 +2015,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 170007,
       "name": "Wicked Wonder",
       "url": "https://open.spotify.com/track/5mkXZy7MQ3GIDgWKDhv082"
@@ -1911,6 +2095,24 @@
       "duration_ms": 183174,
       "name": "You're over Me",
       "url": "https://open.spotify.com/track/4s3IyR6U98K18L5Fw5YrxG"
+    },
+    {
+      "album": {
+        "name": "Leading Lines",
+        "url": "https://open.spotify.com/album/5TzH4f2z3KOZ2kdg1Ci9ME"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "You've Got Me (Living Again)",
+      "url": "https://open.spotify.com/track/4uVE2VIHgbIzFVMVpDMk30"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz"

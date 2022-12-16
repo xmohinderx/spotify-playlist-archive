@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Evra",
+  "description": "Il meglio dell'R&B italiano. Cover: Noemi, Gemitaiz",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -215,10 +215,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 156644,
       "name": "Anime Gemelle",
       "url": "https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf"
+    },
+    {
+      "album": {
+        "name": "Never 2 Much",
+        "url": "https://open.spotify.com/album/5KtTtevPCL0OjmB2OXsy2h"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143865,
+      "name": "As Long As You Love Me",
+      "url": "https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS"
     },
     {
       "album": {
@@ -1448,6 +1466,28 @@
     },
     {
       "album": {
+        "name": "Fuori dai guai (feat. Gemitaiz)",
+        "url": "https://open.spotify.com/album/2CA5FxqmGHKOTfR9H4REoF"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200946,
+      "name": "Fuori dai guai (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/1Dd1l5fKJEInJlH8eKWJ0L"
+    },
+    {
+      "album": {
         "name": "FUORI DI TE",
         "url": "https://open.spotify.com/album/6CC0tpeNu8MiRVqCP6BFZU"
       },
@@ -2621,6 +2661,24 @@
       "duration_ms": 176842,
       "name": "No Love",
       "url": "https://open.spotify.com/track/6BsRHAOiyM0EULpcTjf91l"
+    },
+    {
+      "album": {
+        "name": "Noia",
+        "url": "https://open.spotify.com/album/559uzFoPZVrroVomDdRjUY"
+      },
+      "artists": [
+        {
+          "name": "ODE",
+          "url": "https://open.spotify.com/artist/2bCbnuMUNA0M1eqHg3olJI"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Noia",
+      "url": "https://open.spotify.com/track/2IPh5TOBaceM7zN0tgyfIi"
     },
     {
       "album": {
@@ -4013,6 +4071,24 @@
       "duration_ms": 170322,
       "name": "Sul fondo",
       "url": "https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX"
+    },
+    {
+      "album": {
+        "name": "SULO PE CHELLA",
+        "url": "https://open.spotify.com/album/6GiitwAiBcZu3dGaGnjdDw"
+      },
+      "artists": [
+        {
+          "name": "Livio Cori",
+          "url": "https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250267,
+      "name": "SULO PE CHELLA",
+      "url": "https://open.spotify.com/track/60Y8L6RnHNz9VWweR7k1E4"
     },
     {
       "album": {

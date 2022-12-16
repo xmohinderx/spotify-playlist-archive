@@ -4,12 +4,12 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-207 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+208 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+](https://open.spotify.com/track/5FZNczPCUh5scxptzYLBTO) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:42 | 2022-05-03 | 2022-07-12 |
-| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2022-05-03 |  |
+| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2022-05-03 | 2022-12-16 |
 | [21](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:27 | 2022-05-03 |  |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-08 |  |
 | [2nd THOTS](https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:44 | 2022-07-08 |  |
@@ -168,6 +168,7 @@
 | [She Said \(with BIBI\)](https://open.spotify.com/track/1yrGwTuSYORDMD7kIvAKNK) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:28 | 2022-05-03 | 2022-07-29 |
 | [She Said \(with BIBI\)](https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:28 | 2022-07-08 |  |
 | [Show me up \(Prod\. TII\)](https://open.spotify.com/track/6ldGBHz01zDpodf7f310Rb) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Show me up](https://open.spotify.com/album/7jekot5UJwV1GL7YQu2J1l) | 3:05 | 2022-05-03 | 2022-07-26 |
+| [Sinking Islands](https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2) | [Sinso](https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr) | [Sinking Islands](https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED) | 3:20 | 2022-12-13 |  |
 | [Smile](https://open.spotify.com/track/4l40k5B6eSdICiFtc5b8CR) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Sobrightttttttt](https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9) | 1:47 | 2022-05-03 | 2022-06-03 |
 | [SMOKE](https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8) | [PINWHEEL](https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA) | [Distrust](https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU) | 3:19 | 2022-07-08 | 2022-07-11 |
 | [So Fast](https://open.spotify.com/track/1Phh7MO0sxhlyXdzhrib2s) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Sobrightttttttt](https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9) | 2:33 | 2022-05-03 | 2022-07-17 |

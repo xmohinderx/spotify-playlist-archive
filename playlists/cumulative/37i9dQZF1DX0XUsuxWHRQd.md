@@ -4,7 +4,7 @@
 
 > New music from Polo G, Moneybagg Yo and A Boogie Wit da Hoodie.
 
-1,459 songs - 3 day 3 hr 9 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,460 songs - 3 day 3 hr 14 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [Love & War](https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Love & War](https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla) | 3:59 | 2021-12-17 | 2022-03-18 |
 | [Love Me](https://open.spotify.com/track/7Aem1fAapTdGcHwAYyQYU4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Love Me](https://open.spotify.com/album/2mmm7szQmrcm5BpAg0GzXO) | 1:57 | 2019-08-02 | 2019-08-30 |
 | [Love Me More](https://open.spotify.com/track/2NSWi83peog6gHerzlMCqU) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Love Me More](https://open.spotify.com/album/6DNpFe4WAWTa84I6JBuey6) | 2:23 | 2019-11-01 | 2020-01-10 |
+| [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-12-15 |  |
 | [Love Thru The Computer \(feat\. Justin Bieber\)](https://open.spotify.com/track/1VsqQEYObJsOPaeZwEXRPg) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Love Thru The Computer \(feat\. Justin Bieber\)](https://open.spotify.com/album/3c7u2IGWbZHoYA0nDWz9db) | 2:53 | 2019-05-31 | 2019-06-07 |
 | [LUMBERJACK](https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [LUMBERJACK](https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e) | 2:18 | 2021-06-18 | 2021-06-26 |
 | [Lurkin \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/777evZve3OzCbGOVaVAGiU) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Lurkin \(feat\. Polo G\) \(Remix\)](https://open.spotify.com/album/1aEluL4QV9hP3smy9LdHHx) | 2:28 | 2021-07-17 | 2021-07-24 |

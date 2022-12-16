@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-149 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+150 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Luna](https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9) | [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n), [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Luna](https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1) | 6:04 | 2022-04-13 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-04-13 |  |
 | [Malayou](https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Malayou](https://open.spotify.com/album/3NGlNwZ7brGUuqQ9Z0Fazy) | 7:21 | 2022-12-12 |  |
+| [Mbodiene](https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn) | [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mbodiene](https://open.spotify.com/album/1HaPXzH7jfTmB1C00gDf45) | 8:10 | 2022-12-15 |  |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-04-13 |  |
 | [Milima](https://open.spotify.com/track/26xLSnIiAcqaH2VrgUvbpf) | [Ranta](https://open.spotify.com/artist/7AOoL5hIjl1CweoVN7ia73) | [Tora](https://open.spotify.com/album/4hut2n5Fk1dfwppjVXHIQx) | 7:06 | 2022-04-13 | 2022-07-22 |
 | [Mirari](https://open.spotify.com/track/33OHSpGMU23L5QbJ6tz76S) | [Da Fresh](https://open.spotify.com/artist/0BmOEIkxF8hzj1NKUS6gwE), [Noidor](https://open.spotify.com/artist/0tXYl1GWDnDsBoaSPbMnuT) | [Mirari](https://open.spotify.com/album/18bIcMfS7bX3HUIMtskbPI) | 8:15 | 2022-04-13 |  |

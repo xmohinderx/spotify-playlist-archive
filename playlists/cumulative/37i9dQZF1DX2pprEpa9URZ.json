@@ -3879,7 +3879,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 417054,
       "name": "Memphis",
       "url": "https://open.spotify.com/track/5xVCf8z2hgLCa7Vmp7L9c7"
@@ -4797,6 +4797,28 @@
       "duration_ms": 383775,
       "name": "Pastorcita",
       "url": "https://open.spotify.com/track/2bq3BcwuIjsvS18KXgqzZV"
+    },
+    {
+      "album": {
+        "name": "The Deep South",
+        "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
+      },
+      "artists": [
+        {
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383775,
+      "name": "Pastorcita",
+      "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
     },
     {
       "album": {

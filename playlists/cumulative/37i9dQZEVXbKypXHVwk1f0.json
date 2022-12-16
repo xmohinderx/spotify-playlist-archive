@@ -2083,7 +2083,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
@@ -9247,7 +9247,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 150035,
       "name": "Perreando Tra Tra",
       "url": "https://open.spotify.com/track/5SE3xOoQQCtamCOxXGHi7Q"
@@ -11294,6 +11294,24 @@
     },
     {
       "album": {
+        "name": "Sin Perdon",
+        "url": "https://open.spotify.com/album/4E4rolYs2JP9CutiiMjpC3"
+      },
+      "artists": [
+        {
+          "name": "Aksel",
+          "url": "https://open.spotify.com/artist/0Jg9xzxEkESRPLoYvnntLG"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169136,
+      "name": "Sin Perdon",
+      "url": "https://open.spotify.com/track/0b30p2KIjHfdeAK7S9km48"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -11729,7 +11747,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
@@ -12117,6 +12135,28 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+    },
+    {
+      "album": {
+        "name": "Triste Navidad",
+        "url": "https://open.spotify.com/album/5NjSKYnXJC5OhEUaveqHSN"
+      },
+      "artists": [
+        {
+          "name": "Young Hollywood",
+          "url": "https://open.spotify.com/artist/6G0pYpCcx6Z8TImLnKH6KQ"
+        },
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "Triste Navidad",
+      "url": "https://open.spotify.com/track/4XdOHGoXxkedAX73V9Zxtt"
     },
     {
       "album": {
@@ -12705,7 +12745,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 180672,
       "name": "Vista Al Mar",
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,946 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,442 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 16 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 |
 | 17 | [Castles In The Sky \- Radio Mix](https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Castles In The Sky](https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL) | 3:47 |
 | 18 | [Exploration of Space](https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX) | 3:36 |
-| 19 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
-| 20 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
+| 19 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
+| 20 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
 | 21 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
 | 22 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 23 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 26 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
 | 27 | [Feel the Beat](https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 4:19 |
 | 28 | [Silence \- Airscape Remix Edit](https://open.spotify.com/track/3HyU67HfMANQxFg34kHfco) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym) | [Silence](https://open.spotify.com/album/6smXgAugj1QBLAO0BXol5P) | 3:51 |
-| 29 | [Silence \- DJ Tiësto's in Search of Sunrise Remix](https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magik Six \(Live in Amsterdam\)](https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp) | 11:32 |
-| 30 | [Sun & Moon \- Original Mix](https://open.spotify.com/track/4rfhAoZjGwraqwX1w47uij) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Group Therapy](https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa) | 5:26 |
+| 29 | [Sun & Moon \- Original Mix](https://open.spotify.com/track/4rfhAoZjGwraqwX1w47uij) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Group Therapy](https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa) | 5:26 |
+| 30 | [Silence \- DJ Tiësto's in Search of Sunrise Remix](https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magik Six \(Live in Amsterdam\)](https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp) | 11:32 |
 | 31 | [Rapture \(Armin Van Burren Remix Remastered \- Made Radio Edit\) \[feat\. Nadia Ali\]](https://open.spotify.com/track/4RQGig0Vhr4GXmqfklCCyK) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Rapture \(feat\. Nadia Ali\) \[Armin Van Buuren Remix Remastered\]](https://open.spotify.com/album/5A24W7ufM7GIQ4QVDuGhuX) | 3:09 |
 | 32 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
 | 33 | [The Sound of Goodbye \- Above & Beyond UK Edit](https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Perpetuous Dreamer](https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [The Sound of Goodbye, Pt\. 2](https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 49 | [C'est Musique \- Armin van Buuren Mix](https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC) | [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [C'est Musique \(Armin van Buuren Mix\)](https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX) | 11:09 |
 | 50 | [Strange World \- 2000 Remake](https://open.spotify.com/track/7iD2wBI87eTW6CNubpNe3c) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Magik Seven \(Live in Los Angeles\)](https://open.spotify.com/album/10GbeqAjKBwl1xxatxLZV7) | 7:56 |
 
-Snapshot ID: `MTY0OTg2MjE5NywwMDAwMDAwMDJmYzgyMjNlZTg4NWRmNGZjNDQ3ZWMwZDA2NTQzNzIx`
+Snapshot ID: `MTY0OTg2MjE5NywwMDAwMDAwMDk5NTk3YTU2YTFlNjI1YjNmMTY1ZWRmNjkxN2M3YjMz`

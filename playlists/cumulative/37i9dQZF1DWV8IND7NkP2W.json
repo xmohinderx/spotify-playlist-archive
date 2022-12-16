@@ -154,6 +154,24 @@
     },
     {
       "album": {
+        "name": "@luv",
+        "url": "https://open.spotify.com/album/2Je59eOITMeYYJJ6dhUPWD"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123477,
+      "name": "@luv",
+      "url": "https://open.spotify.com/track/2jLr97HmB8CNbofN2wAdxI"
+    },
+    {
+      "album": {
         "name": "A Dream About Ice Skating",
         "url": "https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40"
       },
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 180346,
       "name": "Blue Ocean",
       "url": "https://open.spotify.com/track/7Ez0jBEB4kzZpOxlrmnfrm"
@@ -1224,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
+    },
+    {
+      "album": {
         "name": "Cat Alley",
         "url": "https://open.spotify.com/album/5cAV9PNJYbpYFAst4vVUsy"
       },
@@ -1383,7 +1419,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 90666,
       "name": "Cigar",
       "url": "https://open.spotify.com/track/1gT7lLqbEvYTtfYLjyKrPi"
@@ -5317,7 +5353,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Milk Shake",
       "url": "https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647"
@@ -5693,7 +5729,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 193450,
       "name": "Morning Walk Inst",
       "url": "https://open.spotify.com/track/59WH3nBd9Y7NpcoIaIT43P"

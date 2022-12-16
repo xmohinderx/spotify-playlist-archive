@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Darlene",
+        "url": "https://open.spotify.com/album/36ctPjNUlyQ4JAg0XkJqZK"
+      },
+      "artists": [
+        {
+          "name": "East of the Equator",
+          "url": "https://open.spotify.com/artist/3zpLOUiHG13KAwneK1cswd"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Darlene",
+      "url": "https://open.spotify.com/track/5oSm6O7Vl8D31fwXDdOEbJ"
+    },
+    {
+      "album": {
         "name": "Deliver Me",
         "url": "https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN"
       },
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 210003,
       "name": "Lefase",
       "url": "https://open.spotify.com/track/20ACysTMjJiaat5ZAwD9nF"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 108000,
       "name": "OVERTHINKING",
       "url": "https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 213940,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 195431,
       "name": "Scarred",
       "url": "https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M"
@@ -2531,6 +2549,24 @@
       "duration_ms": 177140,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI"
+    },
+    {
+      "album": {
+        "name": "Sugar Tits",
+        "url": "https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207018,
+      "name": "Sugar Tits",
+      "url": "https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Anderson Freire",
-  "num_followers": 877038,
+  "num_followers": 877354,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjQ0MiwwMDAwMDAwMDJjODk4Nzk1YTFlYzNkNjU1NmU0ZTNmMzgzNDlkNTNi",
+  "snapshot_id": "MTY3MDU2NjQ0MiwwMDAwMDAwMDNhOWVmOGY1ZmJkZWQyMjA4NDU0ZDc0ODAxNGQ4NDhk",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:02",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "At\u00e9 te Encontrar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 576860,
-      "name": "At\u00e9 te Encontrar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K"
-    },
-    {
-      "added_at": "2022-12-09 06:14:02",
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 292755,
       "name": "Nada Pode Calar Um Adorador",
       "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
+    },
+    {
+      "added_at": "2022-12-09 06:14:02",
+      "album": {
+        "name": "At\u00e9 te Encontrar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 576860,
+      "name": "At\u00e9 te Encontrar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "added_at": "2022-12-09 06:14:02",
+      "album": {
         "name": "Voc\u00ea Tem Um Pai",
         "url": "https://open.spotify.com/album/59vjLYXsBWzBzpSwI3mvxJ"
       },
@@ -819,18 +835,22 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U"
       },
       "artists": [
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
         }
       ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+      "duration_ms": 351176,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -847,22 +867,6 @@
       "duration_ms": 269631,
       "name": "O Que Meu Deus Vai Fazer",
       "url": "https://open.spotify.com/track/0NHPfnQMzg0GiwbC4SF2yR"
-    },
-    {
-      "added_at": "2022-12-09 06:14:02",
-      "album": {
-        "name": "Pontes, Pt. 1",
-        "url": "https://open.spotify.com/album/55PR3Vpat1axzzvZQ3JzjC"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "O N\u00e3o de Deus",
-      "url": "https://open.spotify.com/track/6xK9RHuRnNwcnajKUxK1fY"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -887,22 +891,18 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "N\u00e1ufrago",
-        "url": "https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U"
+        "name": "Pontes, Pt. 1",
+        "url": "https://open.spotify.com/album/55PR3Vpat1axzzvZQ3JzjC"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 351176,
-      "name": "N\u00e1ufrago",
-      "url": "https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT"
+      "duration_ms": 239213,
+      "name": "O N\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/6xK9RHuRnNwcnajKUxK1fY"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "added_at": "2022-12-09 06:14:02",
+      "album": {
         "name": "A Resposta",
         "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
       },
@@ -935,6 +951,22 @@
       "duration_ms": 265565,
       "name": "A Resposta",
       "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
+    },
+    {
+      "added_at": "2022-12-09 06:14:02",
+      "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -963,50 +995,18 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+        "name": "Gabriel Guedes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
-    },
-    {
-      "added_at": "2022-12-09 06:14:02",
-      "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
-    },
-    {
-      "added_at": "2022-12-09 06:14:02",
-      "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
+      "duration_ms": 204700,
+      "name": "Todos Os Meus Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "Gabriel Guedes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 204700,
-      "name": "Todos Os Meus Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "added_at": "2022-12-09 06:14:02",
+      "album": {
         "name": "Ton Canta, Vol. 2",
         "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
-    },
-    {
-      "added_at": "2022-12-09 06:14:02",
-      "album": {
         "name": "Sol da Justi\u00e7a",
         "url": "https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w"
       },
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "Eu Cuido De Voc\u00ea",
-        "url": "https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL"
+        "name": "Ele Nos Ama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7dGVwbj2rxYZYpONmb9AyB"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 301998,
-      "name": "Eu Cuido De Voc\u00ea",
-      "url": "https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE"
+      "duration_ms": 329590,
+      "name": "Ele Nos Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fK5GUyYnxxov60xIBQL7U"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -1491,22 +1495,18 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "Ele Nos Ama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7dGVwbj2rxYZYpONmb9AyB"
+        "name": "Eu Cuido De Voc\u00ea",
+        "url": "https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 329590,
-      "name": "Ele Nos Ama - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fK5GUyYnxxov60xIBQL7U"
+      "duration_ms": 301998,
+      "name": "Eu Cuido De Voc\u00ea",
+      "url": "https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE"
     },
     {
       "added_at": "2022-12-09 06:14:02",

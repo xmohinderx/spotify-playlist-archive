@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-650 songs - 1 day 11 hr 7 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+651 songs - 1 day 11 hr 10 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Plot Twist](https://open.spotify.com/track/4Xlt7aWeALTty1MLs7Cetb) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW) | 3:27 | 2020-09-11 | 2021-05-12 |
 | [Pray](https://open.spotify.com/track/1QvwRDNlk5q7FHI3EJDf5a) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Pray](https://open.spotify.com/album/04r2SEXW3ikdKuHfnjKABw) | 3:53 | 2021-10-09 |  |
 | [Pretty](https://open.spotify.com/track/4QkgqaiQWl7dRfrDRSz2hx) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty](https://open.spotify.com/album/6w0yoQrlqUXnHqsI1Sz3q3) | 2:34 | 2021-10-16 |  |
+| [Promise](https://open.spotify.com/track/5GdAVnwxzMNSRThQsawXsQ) | [KAZE](https://open.spotify.com/artist/6OHqKdDMYupavebNP9azHD), [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Promise](https://open.spotify.com/album/734KErFJszhXqsENb9IRiU) | 2:55 | 2022-12-15 |  |
 | [proof](https://open.spotify.com/track/4NidcNIPRBDMsSGKTnxyIz) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [proof](https://open.spotify.com/album/2eH0mvujQc0kt3TRu9W980) | 3:17 | 2021-11-19 |  |
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2021-08-26 |  |
 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 | 2019-08-27\* | 2019-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,692 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,905 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 45 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 46 | [Put0 & Cheiroso](https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR) | [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Jv045](https://open.spotify.com/artist/7DUxpqSJderzchDZHoqZZS), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe) | [Put0 & Cheiroso](https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp) | 3:23 |
 | 47 | [Ai Que Sorte \(feat\. Dj Wendel Czr\)](https://open.spotify.com/track/3tCHdxdo1mbJBiltEyWtS9) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [MC Neneco](https://open.spotify.com/artist/7c2xvVakcaCw0ykAYuiMTL), [Dj Wendel Czr](https://open.spotify.com/artist/1vMSewZDxOYJ8AzmR8ILdJ) | [Ai Que Sorte \(feat\. Dj Wendel Czr\)](https://open.spotify.com/album/6kgcMoxeViozOL8JrOrSUk) | 3:02 |
-| 48 | [Take My Breath Away](https://open.spotify.com/track/3T9K3rHpNZrcXAnlMBIakW) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [in between everything](https://open.spotify.com/album/1ssO74VtSjbPQlf6sA0oNF) | 2:38 |
+| 48 | [Take My Breath Away](https://open.spotify.com/track/410dcrVCOdgxRDVWmgselj) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [in between everything](https://open.spotify.com/album/2U94uUStzXa6RLGf0o46cj) | 2:38 |
 | 49 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 50 | [Bombonzinho \- Ao Vivo](https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Bombonzinho \(Ao Vivo\)](https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs) | 2:34 |
 | 51 | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [Bernax](https://open.spotify.com/artist/71VXdKWeovwJtO5nzDQ7mt), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [Flow Key](https://open.spotify.com/artist/1qObxOBQWYkdfJhMGdMwmU) | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/album/1YpMz1WLeqmMr51EpGOczq) | 2:09 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 75 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 76 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/73u22uLsakf8W12suab1QO) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pro Nosso Bem \(Ao Vivo\)](https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg) | 3:14 |
 
-Snapshot ID: `MTY3MDk1OTI0MCwwMDAwMDAwMDk2MjJmYmM4ODgxNzlhNWVmOWEzOGZiMjhmZWU2Y2Jh`
+Snapshot ID: `MTY3MDk1OTI0MCwwMDAwMDAwMGIyY2E5MzM3ZWM5ODEwMzAyMWY2ZmExNzRiMGVmMzYz`

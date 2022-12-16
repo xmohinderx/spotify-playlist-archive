@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <br/> Generación 12
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,260 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,404 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 47 | [La Oración](https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [La Oración](https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT) | 2:51 |
 | 48 | [No Te Negaré](https://open.spotify.com/track/2F6zKVc94xmamV8gdJBB0M) | [Nestor Ortega](https://open.spotify.com/artist/6FRpjUASeGXnWNegj3cmfi), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [No Te Negaré](https://open.spotify.com/album/7AOVsJE6fGnZuHXTOizgiU) | 3:32 |
 | 49 | [Lo Que Tú Digas](https://open.spotify.com/track/1IsJQPN3ZYz6C3FbFXTDuN) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Alumbras Mi Vida](https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH) | 2:48 |
-| 50 | [Desciende](https://open.spotify.com/track/7y3AXem43My0T7xFxryBPL) | [JVDÁ](https://open.spotify.com/artist/0t9uXP0VN80kiUHiwzUmok), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Desciende](https://open.spotify.com/album/7yrJSOgQlbkZOA2HE0Jfnb) | 10:08 |
+| 50 | [Desciende](https://open.spotify.com/track/7y3AXem43My0T7xFxryBPL) | [JUDÁ](https://open.spotify.com/artist/0t9uXP0VN80kiUHiwzUmok), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Desciende](https://open.spotify.com/album/7yrJSOgQlbkZOA2HE0Jfnb) | 10:08 |
 | 51 | [Mi Sanador \(The Healing\)](https://open.spotify.com/track/7gPP82EsbzEyHmCQ2tnNko) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Mi Sanador \(The Healing\)](https://open.spotify.com/album/2HYp66kwn5xrOaTolFbrUt) | 3:17 |
 | 52 | [Soy Esa Generación \- Live](https://open.spotify.com/track/6MvIH6ODTfy3UsNTSkKtzh) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Soy Esa Generación \(Live\)](https://open.spotify.com/album/13mhfOrgNQu4DflcF6UyHD) | 7:58 |
 | 53 | [Lámpara Encendida \- En Vivo](https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Lámpara Encendida \(En Vivo\)](https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH) | 11:26 |

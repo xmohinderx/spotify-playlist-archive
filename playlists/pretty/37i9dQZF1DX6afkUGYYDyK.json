@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 14847,
+  "num_followers": 14856,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDlhZjgzNzJmMTYwNGYzYmI4NjFjMzU5NjIzZmUzMWUz",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMGJiM2JjMjIwNjUzZjU5YWIzZGQ2MDcyN2Y5MzkzZmM1",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "I Need You Now",
         "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 299658,
       "name": "Be Glad",
       "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Beautiful Day (House of the Lord)",
         "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
+        "name": "Kingdom Come - The Soundtrack",
+        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
       },
       "artists": [
         {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+          "name": "Kirk Franklin & Mary Mary",
+          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
+      "duration_ms": 280333,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -675,22 +691,6 @@
       "duration_ms": 193413,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Kingdom Come - The Soundtrack",
-        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & Mary Mary",
-          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
     },
     {
       "added_at": "2022-11-23 15:01:23",

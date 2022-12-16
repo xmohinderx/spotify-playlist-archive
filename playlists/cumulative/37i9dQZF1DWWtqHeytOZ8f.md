@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-545 songs - 1 day 23 hr 46 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+546 songs - 1 day 23 hr 49 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Eyes of the Moon](https://open.spotify.com/track/6nAimkCH16w8PFtFxD1tj8) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 5:13 | 2021-10-20 |  |
 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 | 2021-10-20 | 2022-07-28 |
 | [Fading In](https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6) | [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Fading In And Out](https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh) | 3:01 | 2022-03-11 | 2022-09-21 |
-| [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 3:51 | 2021-11-12 |  |
+| [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 3:51 | 2021-11-12 | 2022-12-16 |
 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:51 | 2021-11-12 | 2022-08-14 |
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2021-10-20 |  |
 | [Far out](https://open.spotify.com/track/6KsHmpucGHj5rfYcxGQftL) | [Lunar Ship](https://open.spotify.com/artist/2oBpQUmHc0cQX0s1TsGL7U) | [Far out](https://open.spotify.com/album/3xOe5NLs8W2YFLZqAOjlAQ) | 4:02 | 2021-10-20 |  |
@@ -466,6 +466,7 @@
 | [Temple of Holographic Synergy](https://open.spotify.com/track/125EoKTQJjGXqhsyojMDjD) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX) | [Ephemeral Phenomena EP](https://open.spotify.com/album/4lm5oC0ck2mokoDlXhH7D7) | 7:01 | 2021-10-20 | 2022-07-29 |
 | [The Atomium Part 2](https://open.spotify.com/track/4xgmDXnGs7cadPt8JPSTdK) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Avec Laudenum](https://open.spotify.com/album/7GAdWrS7xbumDLadbeOAbB) | 10:43 | 2021-10-20 | 2022-07-27 |
 | [The Cage](https://open.spotify.com/track/1PIHkD3asRl8CiDkQNS5OX) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/2xPNHjqmyhTpLK4XvSNIXl) | 3:51 | 2022-02-18 | 2022-07-29 |
+| [The Cage](https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn) | 3:51 | 2022-02-18 |  |
 | [The Crop Circle](https://open.spotify.com/track/1jqCOGU9XKu4r7WyQAEexF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Ancient Lost Farms](https://open.spotify.com/album/3fxzyR0X13oD6RkeTLBuOr) | 2:14 | 2021-10-20 | 2022-07-23 |
 | [The Crop Circle](https://open.spotify.com/track/5BdTEkSo1U4Tw0TPFLJxZH) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Ancient Lost Farms](https://open.spotify.com/album/7drLKzbDURXToeud7gta3b) | 2:14 | 2021-10-20 |  |
 | [The Fifty](https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [The Truth Is](https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8) | 6:42 | 2022-08-31 |  |

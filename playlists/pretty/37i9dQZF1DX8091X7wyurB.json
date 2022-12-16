@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 25956,
+  "num_followers": 26023,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDk3MWM5YjUyYTQxMTAzNTU2YTkzM2ZhZjIyZmI5ODkz",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGJlODU4ZWNhMTVkNDI2YzZjMmI0OTYxOTIwYTg0OWYz",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -517,42 +517,6 @@
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Wonder (feat. Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
-    },
-    {
       "added_at": "2022-09-30 06:46:03",
       "album": {
         "name": "Mine",
@@ -575,6 +539,42 @@
       "duration_ms": 203027,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Oil + Water",
+        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Wonder (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Adom Grace",
         "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 290527,
       "name": "Adom Grace",
       "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -739,6 +739,22 @@
       "duration_ms": 160959,
       "name": "Never Leave Me",
       "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 320246,
+      "name": "God of Miracles",
+      "url": "https://open.spotify.com/track/0pILKxYDI5oilUN52AebIu"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -765,20 +781,20 @@
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         }
       ],
-      "duration_ms": 320246,
-      "name": "God of Miracles",
-      "url": "https://open.spotify.com/track/0pILKxYDI5oilUN52AebIu"
+      "duration_ms": 164651,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG"
     },
     {
       "added_at": "2022-11-25 07:48:51",
@@ -859,6 +875,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
         "name": "MELODY",
         "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
       },
@@ -925,36 +957,20 @@
       "url": "https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "Worry About Nothing",
-      "url": "https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+      "duration_ms": 252473,
+      "name": "W' agye Me",
+      "url": "https://open.spotify.com/track/4JQofHiIEY6EuWLXAxe7SG"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -975,18 +991,18 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
       "artists": [
         {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 252473,
-      "name": "W' agye Me",
-      "url": "https://open.spotify.com/track/4JQofHiIEY6EuWLXAxe7SG"
+      "duration_ms": 363870,
+      "name": "Ga Praise",
+      "url": "https://open.spotify.com/track/1IToFXrcx4U7Kdls7DDMzo"
     },
     {
       "added_at": "2022-09-30 06:46:03",
@@ -1023,22 +1039,6 @@
       "duration_ms": 407811,
       "name": "The Word Is Working (Refreshed)",
       "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 363870,
-      "name": "Ga Praise",
-      "url": "https://open.spotify.com/track/1IToFXrcx4U7Kdls7DDMzo"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -1173,6 +1173,42 @@
       "url": "https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Joy (Reason)",
+        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 141531,
+      "name": "Joy (Reason)",
+      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Give Him Praise",
+        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Give Him Praise",
+      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Grateful Hearts",
@@ -1223,22 +1259,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
         },
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 336696,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
+      "duration_ms": 161333,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1263,22 +1299,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
       },
       "artists": [
         {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
         },
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
+      "duration_ms": 336696,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1295,26 +1331,6 @@
       "duration_ms": 219144,
       "name": "W'asem",
       "url": "https://open.spotify.com/track/6tkg5oZJuhHOy99LyN1qfN"
-    },
-    {
-      "added_at": "2022-09-30 06:46:03",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
-      },
-      "artists": [
-        {
-          "name": "Celebrate Africa",
-          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 224203,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1337,40 +1353,24 @@
       "url": "https://open.spotify.com/track/4cSPBQ0i1tZ4VL4cxZjMxh"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2022-09-30 06:46:03",
       "album": {
-        "name": "Joy (Reason)",
-        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
       },
       "artists": [
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 141531,
-      "name": "Joy (Reason)",
-      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Give Him Praise",
-        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
-      },
-      "artists": [
-        {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+          "name": "Celebrate Africa",
+          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
         },
         {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Give Him Praise",
-      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
+      "duration_ms": 224203,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1429,26 +1429,6 @@
       "url": "https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA"
     },
     {
-      "added_at": "2022-10-21 06:09:31",
-      "album": {
-        "name": "Show Dem",
-        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
-      },
-      "artists": [
-        {
-          "name": "Paul Chisom",
-          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
-        },
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 206897,
-      "name": "Show Dem",
-      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Thank You",
@@ -1467,6 +1447,26 @@
       "duration_ms": 316290,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe"
+    },
+    {
+      "added_at": "2022-10-21 06:09:31",
+      "album": {
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
+      },
+      "artists": [
+        {
+          "name": "Paul Chisom",
+          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 206897,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
     }
   ],
   "unique_name": "Praise and Worship",

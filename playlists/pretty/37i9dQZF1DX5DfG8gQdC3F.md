@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from SZA \(pictured\), Lana Del Rey, A Boogie Wit da Hoodie, Alexander Stewart, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,883 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,921 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

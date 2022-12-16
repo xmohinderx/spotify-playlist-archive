@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 285401,
       "name": "Joy In The Morning (feat. Chrome Sparks)",
       "url": "https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 302123,
       "name": "Nice To See You",
       "url": "https://open.spotify.com/track/29h1JvmqLYta6weden9cIm"
@@ -1074,6 +1074,32 @@
     },
     {
       "album": {
+        "name": "So Far to Go",
+        "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "No\u00e9",
+          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Sun Moon",
+      "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
+    },
+    {
+      "album": {
         "name": "Sun Phase",
         "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
       },
@@ -1085,7 +1111,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 316454,
       "name": "Sun Phase",
       "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"

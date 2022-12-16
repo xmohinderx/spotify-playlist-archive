@@ -1,15 +1,67 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 70640,
+  "num_followers": 70731,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0MzY2MywwMDAwMDAwMGQ2OTU0MDdmN2VkZTNkNmVhYmRjZDU2NTFjNjZmYjYz",
+  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMGFhNjUzMTAyYzBmZGU0Mzc5MzljZDc3OGMyZTZkYTNm",
   "tracks": [
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        },
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "Shirayuki",
+        "url": "https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 221643,
+      "name": "Shirayuki",
+      "url": "https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "ULTRAPANIC",
         "url": "https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz"
@@ -37,55 +89,7 @@
       "url": "https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "Shirayuki",
-        "url": "https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 221643,
-      "name": "Shirayuki",
-      "url": "https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
-        "url": "https://open.spotify.com/album/78LviRv4SqpOPVviIkuUhh"
-      },
-      "artists": [
-        {
-          "name": "FAKE TYPE.",
-          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
-        }
-      ],
-      "duration_ms": 174613,
-      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/4MlLArk7t8WzNgJWP58yUy"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
         "url": "https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ"
@@ -109,7 +113,7 @@
       "url": "https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "round trip",
         "url": "https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt"
@@ -125,7 +129,7 @@
       "url": "https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u8272\u5f69",
         "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
@@ -141,7 +145,7 @@
       "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Dohdatte.",
         "url": "https://open.spotify.com/album/0srCp2sHV9KTw80Sd22l91"
@@ -161,7 +165,7 @@
       "url": "https://open.spotify.com/track/2OTfuTcICjCrI2xtc4sdf3"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
         "url": "https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB"
@@ -177,7 +181,7 @@
       "url": "https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u5316\u3051\u732b",
         "url": "https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7"
@@ -193,39 +197,39 @@
       "url": "https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
+        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/78LviRv4SqpOPVviIkuUhh"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
         }
       ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+      "duration_ms": 174613,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/4MlLArk7t8WzNgJWP58yUy"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
-        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
+        "name": "SINDERELLA",
+        "url": "https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
         }
       ],
-      "duration_ms": 228214,
-      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
-      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
+      "duration_ms": 183426,
+      "name": "Wanted, Wasted",
+      "url": "https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
@@ -241,23 +245,23 @@
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u9320\u5264",
-        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
       "artists": [
         {
-          "name": "TOOBOE",
-          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 204800,
-      "name": "\u9320\u5264",
-      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u672a\u5b8c\u6210\u30ec\u30be\u30ca\u30f3\u30b9",
         "url": "https://open.spotify.com/album/1DzIMGIEW7zwkT1JKVBMSB"
@@ -273,7 +277,7 @@
       "url": "https://open.spotify.com/track/2xp8nv9MiUCQWSaA4HvnfV"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "missing",
         "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
@@ -289,7 +293,7 @@
       "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "In the Back Room",
         "url": "https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw"
@@ -305,23 +309,23 @@
       "url": "https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u602a\u7269",
-        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+        "name": "\u9320\u5264",
+        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
         }
       ],
-      "duration_ms": 206000,
-      "name": "\u602a\u7269",
-      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
+      "duration_ms": 204800,
+      "name": "\u9320\u5264",
+      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u30a2\u30a4\u30a6\u30a8",
         "url": "https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ"
@@ -345,23 +349,23 @@
       "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u305f\u3060\u58f0\u4e00\u3064",
-        "url": "https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t"
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
       },
       "artists": [
         {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 161561,
-      "name": "\u305f\u3060\u58f0\u4e00\u3064",
-      "url": "https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J"
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Kayoku",
         "url": "https://open.spotify.com/album/26xOkQ9XkpM47h4kzEuMbu"
@@ -377,7 +381,7 @@
       "url": "https://open.spotify.com/track/1ZPjVQ4u8j2hq0YmP1faS3"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Surges",
         "url": "https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH"
@@ -401,23 +405,23 @@
       "url": "https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u5316\u3051\u732b (Leaks From His Laptop)",
-        "url": "https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK"
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
       },
       "artists": [
         {
-          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 56021,
-      "name": "\u5316\u3051\u732b - Leaks From His Laptop",
-      "url": "https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE"
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/4ZN7YVrRO7uGeAchbVMmBm"
@@ -433,23 +437,23 @@
       "url": "https://open.spotify.com/track/6oDv2ylQf1fiqOMp7UWcV8"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "NEZUMI Scheme",
-        "url": "https://open.spotify.com/album/2tnTVBJQqfKUbO2Wf1H6A4"
+        "name": "\u305f\u3060\u58f0\u4e00\u3064",
+        "url": "https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t"
       },
       "artists": [
         {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 169210,
-      "name": "NEZUMI Scheme",
-      "url": "https://open.spotify.com/track/7IWwWWak1Ebp7ni7PTfhMx"
+      "duration_ms": 161561,
+      "name": "\u305f\u3060\u58f0\u4e00\u3064",
+      "url": "https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "SeishunKippu",
         "url": "https://open.spotify.com/album/4bHwSxmTANprSv6iGwNezt"
@@ -465,39 +469,23 @@
       "url": "https://open.spotify.com/track/0gb9k8uR9jC9Jtk2OdapKs"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+        "name": "\u5316\u3051\u732b (Leaks From His Laptop)",
+        "url": "https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 237666,
-      "name": "Backlight",
-      "url": "https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6"
+      "duration_ms": 56021,
+      "name": "\u5316\u3051\u732b - Leaks From His Laptop",
+      "url": "https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "\u597d\u304d\u3060",
-        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 217512,
-      "name": "\u597d\u304d\u3060",
-      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u30e8\u30ef\u30cd\u30cf\u30ad",
         "url": "https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y"
@@ -521,7 +509,23 @@
       "url": "https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u597d\u304d\u3060",
+        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 217512,
+      "name": "\u597d\u304d\u3060",
+      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Honjitsu no Shotai",
         "url": "https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq"
@@ -537,7 +541,23 @@
       "url": "https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Backlight",
+      "url": "https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u591c\u64ab\u3067\u308b\u30e1\u30ce\u30a6 / \u5e7d\u970a\u6771\u4eac",
         "url": "https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Haru wo Tsugeru",
         "url": "https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ"
@@ -569,23 +589,7 @@
       "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u771f\u3063\u88f8",
         "url": "https://open.spotify.com/album/1KItK7DdrB5hBy98K5GuSZ"
@@ -601,39 +605,7 @@
       "url": "https://open.spotify.com/track/4nO8lzlZENrOGOg9ufssD2"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "\u8e0a",
-        "url": "https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 208271,
-      "name": "\u8e0a",
-      "url": "https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "DOSOKAI",
-        "url": "https://open.spotify.com/album/1adNWaG3EwYZU1QE8kCWAf"
-      },
-      "artists": [
-        {
-          "name": "Ze",
-          "url": "https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD"
-        }
-      ],
-      "duration_ms": 169347,
-      "name": "DOSOKAI",
-      "url": "https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u5de6\u53f3\u76f2",
         "url": "https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443"
@@ -649,7 +621,39 @@
       "url": "https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "DOSOKAI",
+        "url": "https://open.spotify.com/album/1adNWaG3EwYZU1QE8kCWAf"
+      },
+      "artists": [
+        {
+          "name": "Ze",
+          "url": "https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD"
+        }
+      ],
+      "duration_ms": 169347,
+      "name": "DOSOKAI",
+      "url": "https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u30d0\u30c3\u30af\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/7qAXEyZd9MGPM2Ho2Foto3"
@@ -665,23 +669,23 @@
       "url": "https://open.spotify.com/track/5A8W9xqsTQmbIM9h567QDF"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
+        "name": "\u8e0a",
+        "url": "https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 257799,
-      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
+      "duration_ms": 208271,
+      "name": "\u8e0a",
+      "url": "https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Rain, Rain Go Away!",
         "url": "https://open.spotify.com/album/7jtiQrVrHeXNE2n6qzBeXg"
@@ -697,23 +701,23 @@
       "url": "https://open.spotify.com/track/6hKiBHq1LdeGrUkmarAXX4"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
-        "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
+        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 220200,
-      "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
-      "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
+      "duration_ms": 257799,
+      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u30a4\u30fc\u30b8\u30fc\u30b2\u30fc\u30e0",
         "url": "https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF"
@@ -733,39 +737,7 @@
       "url": "https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "\u5c0f\u558b\u65e5\u548c",
-        "url": "https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz"
-      },
-      "artists": [
-        {
-          "name": "FantasticYouth",
-          "url": "https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16"
-        }
-      ],
-      "duration_ms": 227625,
-      "name": "\u5c0f\u558b\u65e5\u548c",
-      "url": "https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
-        "url": "https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv"
-      },
-      "artists": [
-        {
-          "name": "meiyo",
-          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
-        }
-      ],
-      "duration_ms": 146588,
-      "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
-      "url": "https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u30c1\u30ce\u30ab\u30c6",
         "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
@@ -781,7 +753,39 @@
       "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u5c0f\u558b\u65e5\u548c",
+        "url": "https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz"
+      },
+      "artists": [
+        {
+          "name": "FantasticYouth",
+          "url": "https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16"
+        }
+      ],
+      "duration_ms": 227625,
+      "name": "\u5c0f\u558b\u65e5\u548c",
+      "url": "https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+        "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+      "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
         "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
@@ -797,7 +801,23 @@
       "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
+        "url": "https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv"
+      },
+      "artists": [
+        {
+          "name": "meiyo",
+          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
+        }
+      ],
+      "duration_ms": 146588,
+      "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
+      "url": "https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Rapport",
         "url": "https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm"
@@ -813,39 +833,7 @@
       "url": "https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH"
     },
     {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "\u98fd\u548c / \u30b7\u30cd\u30de",
-        "url": "https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD"
-      },
-      "artists": [
-        {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
-        }
-      ],
-      "duration_ms": 185497,
-      "name": "\u98fd\u548c",
-      "url": "https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
-      "album": {
-        "name": "PAKU",
-        "url": "https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy"
-      },
-      "artists": [
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        }
-      ],
-      "duration_ms": 125771,
-      "name": "PAKU",
-      "url": "https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV"
-    },
-    {
-      "added_at": "2022-12-13 15:01:03",
+      "added_at": "2022-12-15 15:00:00",
       "album": {
         "name": "Rebellion",
         "url": "https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF"
@@ -859,6 +847,22 @@
       "duration_ms": 178064,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "PAKU",
+        "url": "https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "duration_ms": 125771,
+      "name": "PAKU",
+      "url": "https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

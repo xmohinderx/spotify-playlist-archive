@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-113 songs - 6 hr 57 min - not published yet
+114 songs - 7 hr 0 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Moments Make Memories](https://open.spotify.com/track/0ZfedXecbZhyHEQbO9Xlnr) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again Special \(Original Television Soundtrack\)](https://open.spotify.com/album/5T3saGcqKRNtLGMP8MqjnM) | 4:07 | 2022-11-03 | 2022-11-13 |
 | [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 | 2022-07-04 |  |
 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 | 2022-07-04 |  |
-| [Never Hate You](https://open.spotify.com/track/0t28FLiywBPXcui9Q1X5J8) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 3:35 | 2022-07-04 |  |
+| [Never hate you](https://open.spotify.com/track/3tx4KMR9xXVwOAINuoFdzr) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [POETIC](https://open.spotify.com/album/6abgwNSjwS5Y80uD5hR255) | 3:35 | 2022-11-03 |  |
+| [Never Hate You](https://open.spotify.com/track/0t28FLiywBPXcui9Q1X5J8) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 3:35 | 2022-07-04 | 2022-12-16 |
 | [Only in the evening](https://open.spotify.com/track/3WgM1bEvbblhkE4MTLbXUA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/6SVY8Ud5zymLWKQRh9GZeX) | 3:10 | 2022-07-04 |  |
 | [Only we know…](https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Only we know…](https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd) | 3:27 | 2022-11-01 |  |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-07-04 |  |

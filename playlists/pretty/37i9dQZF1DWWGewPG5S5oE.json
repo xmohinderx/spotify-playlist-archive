@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: H ZETTRIO",
-  "num_followers": 20777,
+  "num_followers": 20797,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0MzYwMCwwMDAwMDAwMDQ1ZTg3MzIxMjA4YzFmZGVhZGU2MjNlNTE5NzcxOTg3",
+  "snapshot_id": "MTY3MDk0MzYwMCwwMDAwMDAwMDkwMDQ4Y2M3ZGIxZDNkYzFhYTU4YWQxMTRjM2NkYWFm",
   "tracks": [
     {
       "added_at": "2022-12-13 15:00:00",
@@ -283,22 +283,18 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Dear Family",
-        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
       },
       "artists": [
         {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
         }
       ],
-      "duration_ms": 179106,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
+      "duration_ms": 349520,
+      "name": "Night Cruise",
+      "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
       "added_at": "2022-12-13 15:00:00",
@@ -339,18 +335,22 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
+        "name": "Dear Family",
+        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
       },
       "artists": [
         {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
         }
       ],
-      "duration_ms": 349520,
-      "name": "Night Cruise",
-      "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
+      "duration_ms": 179106,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
     },
     {
       "added_at": "2022-12-13 15:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "\u4e59\u5973\u306e\u7948\u308a",
-      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
-    },
-    {
-      "added_at": "2022-12-13 15:00:00",
-      "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 247893,
       "name": "Moonlight Syndrome",
       "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "\u4e59\u5973\u306e\u7948\u308a",
+      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
     },
     {
       "added_at": "2022-12-13 15:00:00",
@@ -627,30 +627,6 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "tietie",
-        "url": "https://open.spotify.com/album/5QN9QmFzpMU0Et8mqbSvdb"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        },
-        {
-          "name": "\u5409\u7530\u6c99\u826f",
-          "url": "https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM"
-        },
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 191239,
-      "name": "tietie",
-      "url": "https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy"
-    },
-    {
-      "added_at": "2022-12-13 15:00:00",
-      "album": {
         "name": "NEW",
         "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
       },
@@ -683,6 +659,22 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+      },
+      "artists": [
+        {
+          "name": "INO hidefumi",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
         "name": "Red Lightning",
         "url": "https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C"
       },
@@ -711,58 +703,6 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
-      },
-      "artists": [
-        {
-          "name": "INO hidefumi",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
-    },
-    {
-      "added_at": "2022-12-13 15:00:00",
-      "album": {
-        "name": "Midnight Crisp",
-        "url": "https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG"
-      },
-      "artists": [
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        }
-      ],
-      "duration_ms": 326552,
-      "name": "Midnight Crisp",
-      "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
-    },
-    {
-      "added_at": "2022-12-13 15:00:00",
-      "album": {
-        "name": "City Creatures",
-        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
-      },
-      "artists": [
-        {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 184670,
-      "name": "City Creatures",
-      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
-    },
-    {
-      "added_at": "2022-12-13 15:00:00",
-      "album": {
         "name": "Voice",
         "url": "https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04"
       },
@@ -787,6 +727,50 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
+        "name": "tietie",
+        "url": "https://open.spotify.com/album/5QN9QmFzpMU0Et8mqbSvdb"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "\u5409\u7530\u6c99\u826f",
+          "url": "https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM"
+        },
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 191239,
+      "name": "tietie",
+      "url": "https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "City Creatures",
+        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 184670,
+      "name": "City Creatures",
+      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
         "name": "EVENING!",
         "url": "https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf"
       },
@@ -799,6 +783,38 @@
       "duration_ms": 263986,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Midnight Crisp",
+        "url": "https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "duration_ms": 326552,
+      "name": "Midnight Crisp",
+      "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "\u30dc\u30c3\u30b5\u30fb\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
+        "url": "https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko Kishino",
+          "url": "https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0"
+        }
+      ],
+      "duration_ms": 287880,
+      "name": "\u30dc\u30c3\u30b5\u30fb\u30ea\u30fc\u30d6\u30e9",
+      "url": "https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC"
     },
     {
       "added_at": "2022-12-13 15:00:00",
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "\u30dc\u30c3\u30b5\u30fb\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
-        "url": "https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg"
+        "name": "Squall",
+        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
       },
       "artists": [
         {
-          "name": "Yoshiko Kishino",
-          "url": "https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0"
+          "name": "INO hidefumi",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
         }
       ],
-      "duration_ms": 287880,
-      "name": "\u30dc\u30c3\u30b5\u30fb\u30ea\u30fc\u30d6\u30e9",
-      "url": "https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC"
+      "duration_ms": 236907,
+      "name": "Squall",
+      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
     },
     {
       "added_at": "2022-12-13 15:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 295176,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
-    },
-    {
-      "added_at": "2022-12-13 15:00:00",
-      "album": {
-        "name": "Squall",
-        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
-      },
-      "artists": [
-        {
-          "name": "INO hidefumi",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 236907,
-      "name": "Squall",
-      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
     }
   ],
   "unique_name": "Modern Jazz Japan",

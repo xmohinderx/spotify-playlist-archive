@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,053 likes - 53 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,093 likes - 53 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 | 14 | [Fantastic Magic](https://open.spotify.com/track/2jSifGHhg15GjVeiTNpmn8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:08 |
 | 15 | [蝶の飛ぶ水槽](https://open.spotify.com/track/1mxoJgQtVN0suiuAsoJTME) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [蝶の飛ぶ水槽](https://open.spotify.com/album/7p7HDblbvLywuHheiQhjQm) | 6:01 |
 | 16 | [Fu re te Fu re ru](https://open.spotify.com/track/4Y5igH7PGdTypxMfkRDwV9) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [unravel](https://open.spotify.com/album/6LhbD9furraNWBZVekFarx) | 3:38 |
-| 17 | [melt](https://open.spotify.com/track/2Lt6j2oHZXazSAOQBbRj4A) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [suis](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [melt](https://open.spotify.com/album/3diNH0cBMoJgdYF6YLt8Xj) | 4:38 |
+| 17 | [melt](https://open.spotify.com/track/2Lt6j2oHZXazSAOQBbRj4A) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [melt](https://open.spotify.com/album/3diNH0cBMoJgdYF6YLt8Xj) | 4:38 |
 | 18 | [unravel \(n\-buna from ヨルシカ Remix\)](https://open.spotify.com/track/7kfbRDMwF2zSapqbQA0WM3) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [n\-buna](https://open.spotify.com/artist/01aGTLJAOJhZOWwMrZcoQk) | [yesworld](https://open.spotify.com/album/4A2NrqV5j1K4oeNjRswRFo) | 3:52 |
 | 19 | [haze](https://open.spotify.com/track/3ZkdNiwhl4tLXgU3swJR9J) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 3:58 |
 | 20 | [contrast](https://open.spotify.com/track/4jgXLCKyW7sk0R15UYQxRW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:58 |

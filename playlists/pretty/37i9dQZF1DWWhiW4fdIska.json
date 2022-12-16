@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 15506,
+  "num_followers": 15533,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDE5NjQzZjg5ZGE4NDA4ODA5YzI0NDY4YjBiZmFkMGYz",
+  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDMwMjFkMmI2Y2YxNWVmYWFjNjQ4NmQzNGMxODFjZjJk",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 338333,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Blow By Blow",
         "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 298666,
       "name": "Freeway Jam",
       "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 338333,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
     },
     {
       "added_at": "2020-10-21 20:41:20",

@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm"
+      },
+      "artists": [
+        {
+          "name": "Jay Peters",
+          "url": "https://open.spotify.com/artist/2ANLxDg2hl6GOU3FAtFYCT"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129291,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy"
+    },
+    {
+      "album": {
         "name": "What's It All About",
         "url": "https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0"
       },

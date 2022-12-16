@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=7SVwzfWaQWCfsWXhLIAhGA\">Die Heuwels Fantasties</a> and <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=d_RHYk3xSB2ndluBYnJrIw\">Appel</a>",
-  "num_followers": 61727,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=ziGy_P8aS-2vVVENAvxqFQ\">Brendan Peyper</a> ",
+  "num_followers": 61798,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUzNjc0MCwwMDAwMDAwMGNjN2U5M2JiYmMzMDVlY2VhM2Y0ZjU4ZjMyOGY3MjU5",
+  "snapshot_id": "MTY3MTE0MTU0MCwwMDAwMDAwMGNlZWI0ZWVkODRkNDIyNzVkODgyZGNiNjIxNTI1NTJm",
   "tracks": [
+    {
+      "added_at": "2022-10-28 03:41:22",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
     {
       "added_at": "2022-12-08 21:59:00",
       "album": {
@@ -31,22 +47,6 @@
     {
       "added_at": "2022-10-28 03:41:22",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2022-10-28 03:41:22",
-      "album": {
         "name": "Foto's",
         "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
       },
@@ -59,26 +59,6 @@
       "duration_ms": 194890,
       "name": "Foto's",
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Ditjies & Datjies",
-        "url": "https://open.spotify.com/album/7m3yfmPUbRm6FNFBmdyxD6"
-      },
-      "artists": [
-        {
-          "name": "FATMAN",
-          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
-        },
-        {
-          "name": "Lianie May",
-          "url": "https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B"
-        }
-      ],
-      "duration_ms": 198471,
-      "name": "Ditjies & Datjies",
-      "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -103,26 +83,6 @@
       "duration_ms": 180182,
       "name": "Vat Die Cruiser",
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
-    },
-    {
-      "added_at": "2022-12-08 21:59:00",
-      "album": {
-        "name": "Dryf",
-        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        },
-        {
-          "name": "Jodi Jantjies",
-          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
-        }
-      ],
-      "duration_ms": 273475,
-      "name": "Erika Way",
-      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
     },
     {
       "added_at": "2022-11-03 21:59:00",
@@ -173,6 +133,42 @@
       "url": "https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD"
     },
     {
+      "added_at": "2022-12-15 21:59:00",
+      "album": {
+        "name": "Plaashond",
+        "url": "https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn"
+      },
+      "artists": [
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "duration_ms": 165898,
+      "name": "Plaashond",
+      "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Ditjies & Datjies",
+        "url": "https://open.spotify.com/album/7m3yfmPUbRm6FNFBmdyxD6"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        },
+        {
+          "name": "Lianie May",
+          "url": "https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B"
+        }
+      ],
+      "duration_ms": 198471,
+      "name": "Ditjies & Datjies",
+      "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
+    },
+    {
       "added_at": "2022-10-20 21:59:00",
       "album": {
         "name": "As die Plaas Byt",
@@ -191,22 +187,6 @@
     {
       "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "Sandkasteel",
-        "url": "https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y"
-      },
-      "artists": [
-        {
-          "name": "Nicholis Louw",
-          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Sandkasteel",
-      "url": "https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
         "name": "Skrik Vir Niks (Van Die Snotkop Movie: Skrik Vir Niks)",
         "url": "https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 199519,
       "name": "Skrik Vir Niks (Van Die Snotkop Movie: Skrik Vir Niks)",
       "url": "https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Dryf",
+        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        },
+        {
+          "name": "Jodi Jantjies",
+          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
+        }
+      ],
+      "duration_ms": 273475,
+      "name": "Erika Way",
+      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
     },
     {
       "added_at": "2022-08-25 21:59:00",
@@ -361,26 +361,6 @@
       "url": "https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5"
     },
     {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "My Persoon",
-        "url": "https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF"
-      },
-      "artists": [
-        {
-          "name": "Die Campbells",
-          "url": "https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H"
-        },
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
-        }
-      ],
-      "duration_ms": 212951,
-      "name": "My Persoon",
-      "url": "https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc"
-    },
-    {
       "added_at": "2022-10-13 21:59:00",
       "album": {
         "name": "My Nannas",
@@ -477,6 +457,26 @@
       "url": "https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh"
     },
     {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "My Persoon",
+        "url": "https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF"
+      },
+      "artists": [
+        {
+          "name": "Die Campbells",
+          "url": "https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H"
+        },
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
+        }
+      ],
+      "duration_ms": 212951,
+      "name": "My Persoon",
+      "url": "https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc"
+    },
+    {
       "added_at": "2022-07-07 21:59:00",
       "album": {
         "name": "Witblits",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "Suikerbos",
-        "url": "https://open.spotify.com/album/64pO3zEBukMDwyZ8bUSBqU"
+        "name": "Sandkasteel",
+        "url": "https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y"
       },
       "artists": [
         {
-          "name": "Stefan Jansen",
-          "url": "https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD"
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Suikerbos",
-      "url": "https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy"
+      "duration_ms": 264933,
+      "name": "Sandkasteel",
+      "url": "https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ"
     },
     {
       "added_at": "2022-09-22 21:59:00",

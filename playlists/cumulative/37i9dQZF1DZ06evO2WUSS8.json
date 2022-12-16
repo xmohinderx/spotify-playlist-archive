@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 194800,
       "name": "Jamaica Farewell",
       "url": "https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J"
@@ -934,6 +934,32 @@
     },
     {
       "album": {
+        "name": "Red Hot + Fela",
+        "url": "https://open.spotify.com/album/13eEMVoIsfI2nbwkUUE48D"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316813,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6FSRJ4uC0TF0p7uy4nN5Ew"
+    },
+    {
+      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/1hssP3abybgapegXIY6NjW"
       },
@@ -957,7 +983,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 315466,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6kixQpOqh28TiGN0Xm70U9"

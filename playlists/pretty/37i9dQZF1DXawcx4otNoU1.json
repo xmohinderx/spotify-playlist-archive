@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 454321,
+  "num_followers": 454574,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjYxOCwwMDAwMDAwMGRlNGQ1YTAyNDQxYjlkMWNlN2ZiMWMxMmI4OGM3M2U2",
+  "snapshot_id": "MTY3MDU2NjYxOCwwMDAwMDAwMGZjZmMxODA0MzE5MTk0Y2U3Y2ViNjI5MDU0MzgxMzc1",
   "tracks": [
     {
       "added_at": "2022-11-18 12:00:00",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
+      "added_at": "2022-12-09 06:16:58",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
       "added_at": "2022-11-18 12:00:00",
       "album": {
         "name": "Stuck with U",
@@ -127,22 +143,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2022-12-09 06:16:58",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Halcyon Nights",
         "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Hometown Glory",
+      "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Unbreakable Smile",
         "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 188946,
       "name": "I Was Made For Loving You",
       "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Hometown Glory",
-      "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Wish I Was Right For You",
-        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
-      },
-      "artists": [
-        {
-          "name": "jens",
-          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
-        }
-      ],
-      "duration_ms": 182562,
-      "name": "Wish I Was Right For You",
-      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Crowded Places",
         "url": "https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 262259,
       "name": "Crowded Places",
       "url": "https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Wish I Was Right For You",
+        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        }
+      ],
+      "duration_ms": 182562,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 179783,
-      "name": "Change Your Mind - Stripped",
-      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Eternally Even",
         "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
       },
@@ -2023,18 +2007,18 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "May I Have This Dance",
-        "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
       },
       "artists": [
         {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
         }
       ],
-      "duration_ms": 211316,
-      "name": "May I Have This Dance",
-      "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+      "duration_ms": 179783,
+      "name": "Change Your Mind - Stripped",
+      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -2051,6 +2035,22 @@
       "duration_ms": 190104,
       "name": "Radio",
       "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "May I Have This Dance",
+        "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 211316,
+      "name": "May I Have This Dance",
+      "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj"
-      },
-      "artists": [
-        {
-          "name": "Jean Seizure",
-          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
-        }
-      ],
-      "duration_ms": 201010,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Mary Glenn",
         "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
       },
@@ -2127,18 +2111,18 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Can't Help Falling in Love",
-        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
+        "name": "Night",
+        "url": "https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj"
       },
       "artists": [
         {
-          "name": "Jessie Kol",
-          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
         }
       ],
-      "duration_ms": 178246,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
+      "duration_ms": 201010,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -2155,6 +2139,22 @@
       "duration_ms": 163866,
       "name": "Kaleidoscope Evening",
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
+      },
+      "artists": [
+        {
+          "name": "Jessie Kol",
+          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
+        }
+      ],
+      "duration_ms": 178246,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp"
-      },
-      "artists": [
-        {
-          "name": "Only Girl",
-          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Amari' SZN 1",
         "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 182248,
       "name": "Motion",
       "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp"
+      },
+      "artists": [
+        {
+          "name": "Only Girl",
+          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
     },
     {
       "added_at": "2022-11-18 12:00:00",

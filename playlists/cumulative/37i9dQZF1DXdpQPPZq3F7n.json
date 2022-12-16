@@ -174,6 +174,28 @@
     },
     {
       "album": {
+        "name": "Bana Sharabi (From \"Govinda Naam Mera\")",
+        "url": "https://open.spotify.com/album/5aCiRP8E4N9Tt0BosHPyfV"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228125,
+      "name": "Bana Sharabi",
+      "url": "https://open.spotify.com/track/2T1K8XIPSIcvXueBS6kw2L"
+    },
+    {
+      "album": {
         "name": "Bandeya (feat. Arijit Singh) [From \"Dil Juunglee\"]",
         "url": "https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h"
       },
@@ -229,7 +251,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 371790,
       "name": "Bekhayali (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1feANd8EfcDP5UqSvbheM3"

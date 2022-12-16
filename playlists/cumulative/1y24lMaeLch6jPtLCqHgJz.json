@@ -794,6 +794,32 @@
     },
     {
       "album": {
+        "name": "Far I Go",
+        "url": "https://open.spotify.com/album/0phavb4PCvU3uQ0vEIR3F1"
+      },
+      "artists": [
+        {
+          "name": "Scheffwell",
+          "url": "https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e"
+        },
+        {
+          "name": "John Knows",
+          "url": "https://open.spotify.com/artist/4sUbeWVI8JYbNHyKL5LqkE"
+        },
+        {
+          "name": "Dare County",
+          "url": "https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164124,
+      "name": "Far I Go",
+      "url": "https://open.spotify.com/track/5e4Qud4VuYciLCafNaF2v0"
+    },
+    {
+      "album": {
         "name": "Fears In The Fire",
         "url": "https://open.spotify.com/album/4AI6ApB66OHFrpMgqiUG3g"
       },

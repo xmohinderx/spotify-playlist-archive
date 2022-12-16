@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Tayc",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Burna Boy",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -115,6 +115,24 @@
       "duration_ms": 159130,
       "name": "Abeg",
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
+    },
+    {
+      "album": {
+        "name": "Formule 7",
+        "url": "https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287346,
+      "name": "Afsana",
+      "url": "https://open.spotify.com/track/0Ms0rronIijW3ngbCOtRlB"
     },
     {
       "album": {
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 181090,
       "name": "B&B (Booze & Bumbum)",
       "url": "https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8"
@@ -1248,6 +1266,24 @@
     },
     {
       "album": {
+        "name": "Choupompom",
+        "url": "https://open.spotify.com/album/0NVRT6idOH6DcJurh54vip"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9my Adan",
+          "url": "https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191287,
+      "name": "Choupompom",
+      "url": "https://open.spotify.com/track/4Z1KZDjDGW7uJYawo2rb1t"
+    },
+    {
+      "album": {
         "name": "Christina",
         "url": "https://open.spotify.com/album/6rCymUM7vsU20Rwvar8dWO"
       },
@@ -1988,6 +2024,28 @@
     },
     {
       "album": {
+        "name": "Elengi",
+        "url": "https://open.spotify.com/album/1euNOY9La6HVtlhADfFXaB"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193443,
+      "name": "Elengi",
+      "url": "https://open.spotify.com/track/0uUAqOdZFxa3yLi74cALfV"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -2703,7 +2761,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 137229,
       "name": "J'\u00e9limine",
       "url": "https://open.spotify.com/track/1U13A13YafzmqthKXiul91"
@@ -4967,7 +5025,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 96169,
       "name": "Supalife 5",
       "url": "https://open.spotify.com/track/5DTnF3KSLMariozjUoS3ow"

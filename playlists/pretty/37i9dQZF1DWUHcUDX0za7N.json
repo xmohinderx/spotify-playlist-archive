@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 13043,
+  "num_followers": 13084,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDExN2EwZmZiZGY1NjljZjM0NmYwMzdkNjgzNmY4YTQ2",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDBjZTMwOWI2MDRiZjRjZWIzN2I4YzFhNDBkY2RiYzRm",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -660,13 +660,13 @@
           "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 195873,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
+      "duration_ms": 221399,
+      "name": "Live Life",
+      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -797,20 +797,24 @@
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "LITTLE & LEGENDARY",
-        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
+      "duration_ms": 161379,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -840,13 +844,13 @@
           "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 221399,
-      "name": "Live Life",
-      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+      "duration_ms": 195873,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
     },
     {
       "added_at": "2022-10-28 12:56:05",
@@ -863,6 +867,38 @@
       "duration_ms": 142921,
       "name": "YOUNG PREACHER",
       "url": "https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM"
+    },
+    {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "LITTLE & LEGENDARY",
+        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
+    },
+    {
+      "added_at": "2022-11-04 06:17:39",
+      "album": {
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -883,42 +919,6 @@
       "duration_ms": 175000,
       "name": "Mama Maradona",
       "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
-    },
-    {
-      "added_at": "2022-11-04 06:17:39",
-      "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
-      },
-      "artists": [
-        {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
     },
     {
       "added_at": "2022-12-02 04:54:11",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
-      "added_at": "2022-09-12 09:50:28",
-      "album": {
-        "name": "Disturb / Pablo Moves",
-        "url": "https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Disturb",
-      "url": "https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "High Tension 2.0",
@@ -1091,6 +1075,22 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
+    },
+    {
+      "added_at": "2022-09-12 09:50:28",
+      "album": {
+        "name": "Disturb / Pablo Moves",
+        "url": "https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Disturb",
+      "url": "https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Cram",
+        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 174658,
+      "name": "Cram",
+      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 194000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Cram",
-        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 174658,
-      "name": "Cram",
-      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
     },
     {
       "added_at": "2022-11-18 11:40:22",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Crown Of Clay",
@@ -1359,22 +1375,6 @@
       "duration_ms": 205090,
       "name": "Crown Of Clay",
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Suliya",
-        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Suliya",
-      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
     },
     {
       "added_at": "2022-11-24 23:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMGU4Nzk5N2VjOGJmY2RhYjVhMjUyNDI0OTMxOTI4OTdl",
+  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMGZjODc5MDZmN2I1ODc4NTBjYThjZWEwNDU1YjlhNDg1",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Paint on Spring",
-        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Paint on Spring",
-      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Paint on Spring",
+        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "Paint on Spring",
+      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -543,26 +543,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/2Ov9APMuTEbjPQjlX4sHCL"
-      },
-      "artists": [
-        {
-          "name": "Rheehab",
-          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
-        },
-        {
-          "name": "Nason",
-          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
-        }
-      ],
-      "duration_ms": 204491,
-      "name": "no lie (feat. Nason)",
-      "url": "https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 168970,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/2Ov9APMuTEbjPQjlX4sHCL"
+      },
+      "artists": [
+        {
+          "name": "Rheehab",
+          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
+        },
+        {
+          "name": "Nason",
+          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
+        }
+      ],
+      "duration_ms": 204491,
+      "name": "no lie (feat. Nason)",
+      "url": "https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1033,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
     },
     {
-      "added_at": "2022-12-15 01:12:02",
+      "added_at": "2022-12-16 01:18:44",
       "album": {
         "name": "\uc6d0 Wish",
         "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
         "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 222173,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Weird Boy",
+        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
+      },
+      "artists": [
+        {
+          "name": "murmoom",
+          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
+        }
+      ],
+      "duration_ms": 217036,
+      "name": "Weird Boy",
+      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "If I (with Yun DDanDDan)",
         "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 229354,
       "name": "If I (with Yun DDanDDan)",
       "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Weird Boy",
-        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
-      },
-      "artists": [
-        {
-          "name": "murmoom",
-          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
-        }
-      ],
-      "duration_ms": 217036,
-      "name": "Weird Boy",
-      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
     },
     {
       "added_at": "2022-09-05 15:56:48",

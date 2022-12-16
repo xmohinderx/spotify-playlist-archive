@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-208 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
+210 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 | 2022-09-09 |  |
 | [Future Proof](https://open.spotify.com/track/6qaJAYN6r3uX20vLQ6MT7F) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Future Proof](https://open.spotify.com/album/24VbraVikV7y8QVALWIBKq) | 3:33 | 2022-10-14 |  |
 | [Get It Right](https://open.spotify.com/track/1zB3PXJUnLtaKwh8BFgrPZ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Get It Right](https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8) | 3:08 | 2022-09-09 |  |
+| [Give It a Go](https://open.spotify.com/track/2aUPmWTy3eTfbVFx3BVaE9) | [Curtis Cole](https://open.spotify.com/artist/3nHifOdw3FgOxPAlg4kzTl), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Give It a Go](https://open.spotify.com/album/1z44wef0na78nNIvld0NcQ) | 2:46 | 2022-12-15 |  |
 | [Go](https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Go](https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b) | 4:12 | 2022-09-09 |  |
 | [Golden Ticket \(feat\. Masego & Common\) \- Jarreau Vandal Remix](https://open.spotify.com/track/635RdIGruLSPftwtbEqAaY) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Golden Ticket \(feat\. Masego & Common\) \- Jarreau Vandal Remix](https://open.spotify.com/album/0G6kIQpWb9Zu8efIrpGvp2) | 3:49 | 2022-09-09 |  |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2022-09-09 |  |
@@ -98,6 +99,7 @@
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-09-09 |  |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-10-12 |  |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-09-09 | 2022-10-13 |
+| [It's Complete \- 2022 Mix](https://open.spotify.com/track/6RqQUx2nAfP864X9IEGOY7) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Labfunk \(21st Anniversary Edition\)](https://open.spotify.com/album/0iTL9FP05unP4iwBbciHPx) | 7:15 | 2022-12-15 |  |
 | [It's Okay \- Lakim Remix](https://open.spotify.com/track/1rcUxbqjw9FTohyDqDNSDo) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M), [Lakim](https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI) | [It's Okay \(Lakim Remix\)](https://open.spotify.com/album/73PwPDPqrNGF6RwJ2JJDtM) | 3:16 | 2022-09-09 |  |
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-09-09 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-09-09 | 2022-09-30 |

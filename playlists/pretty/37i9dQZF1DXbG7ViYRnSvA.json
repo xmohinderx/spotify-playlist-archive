@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 3591,
+  "num_followers": 3618,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGM4NTA0NjFlY2RmM2I3MWM4ZDZjZjI2M2EyMjk3OTgx",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGFmNDU3NTdlYTUwMjg3MjhhYzRiM2E2ZDYxNmExMzVk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Papillon (aka Hot Butterfly)",
-      "url": "https://open.spotify.com/track/45fclN1U2QlQ5CLTvZVMZC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "At Home",
         "url": "https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 279453,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Papillon (aka Hot Butterfly)",
+      "url": "https://open.spotify.com/track/45fclN1U2QlQ5CLTvZVMZC"
     },
     {
       "added_at": "2022-10-01 16:00:00",

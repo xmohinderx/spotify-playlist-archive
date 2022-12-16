@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=D6t3mgaNRoG34W61XJd0Qw">Lojay</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=KWN2MSIkRP2HPgX2t9QTMg">DJ Maphorisa</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=g31cPvUxRSGeNeezoaaKYg">Kabza De Small</a>
 
-98 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
+99 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [eWallet \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/0LaWpOpruJVwVBhe4oJloZ) | [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [eWallet \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/4XeN40xnKahiHWTY6KsZUh) | 2:53 | 2022-05-23 | 2022-08-05 |
 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 | 2022-05-23 |  |
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2022-05-23 | 2022-08-05 |
+| [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/track/6a9kJHRxqrkMM1l9LWedor) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/album/3T7tj0HMdpXPMnV8XFsW4f) | 2:36 | 2022-11-10 |  |
 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-05-23 |  |
 | [Global](https://open.spotify.com/track/2jOmnwTKCreSIpO6jNPb33) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Global](https://open.spotify.com/album/6GcabwyEVG6I28iqygw0p0) | 4:09 | 2022-10-31 |  |
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-10 |  |

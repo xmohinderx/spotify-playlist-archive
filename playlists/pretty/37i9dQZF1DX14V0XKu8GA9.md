@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,783 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,803 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 47 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 |
 | 48 | [SOUTHBAY](https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k) | [Rossi Rock](https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC) | [SOUTHBAY](https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV) | 2:26 |
 | 49 | [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 |
-| 50 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
-| 51 | [Deep End](https://open.spotify.com/track/68l3AHETwLT381pxp70aUa) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Deep End](https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx) | 3:11 |
-| 52 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 |
-| 53 | [Grimey Park](https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Grimey Park](https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF) | 2:43 |
+| 50 | [Deep End](https://open.spotify.com/track/68l3AHETwLT381pxp70aUa) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Deep End](https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx) | 3:11 |
+| 51 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
+| 52 | [Grimey Park](https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Grimey Park](https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF) | 2:43 |
+| 53 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 |
 | 54 | [Millions](https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Millions](https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL) | 2:28 |
 | 55 | [Double Up](https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Double Up](https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c) | 2:15 |
 | 56 | [Am I Wrong](https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Gang Coast](https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS) | 3:16 |
-| 57 | [i'm Hot](https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [i'm Hot](https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF) | 2:08 |
-| 58 | [Palm Trees](https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Palm Trees](https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun) | 4:10 |
+| 57 | [Palm Trees](https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Palm Trees](https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun) | 4:10 |
+| 58 | [i'm Hot](https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [i'm Hot](https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF) | 2:08 |
 | 59 | [Tyra Banks](https://open.spotify.com/track/3osnsU7jBfDuscsa1yDEfV) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Kap On Edge](https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v) | 2:25 |
 | 60 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
 | 61 | [I’m Back](https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 1:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 | 80 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
 
-Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMDQ0Y2Q1N2QyOTc0YThmYmYzMmRiNTYwYzNhYjFjZDI5`
+Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMDI4OGE3NTc1Y2Y0YTU4NjU2NzVkMDM2MmM2NzFiOTE4`

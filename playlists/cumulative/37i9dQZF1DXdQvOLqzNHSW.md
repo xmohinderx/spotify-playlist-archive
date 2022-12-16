@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-412 songs - 1 day 1 hr 46 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+413 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,9 +111,10 @@
 | [Don't Pull Away](https://open.spotify.com/track/7KAGU3dUQ6YuubQWQ1bMws) | [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Don't Pull Away](https://open.spotify.com/album/5dyjXNMqxOArNhfNsFecZK) | 4:01 | 2020-12-21 | 2022-04-20 |
 | [Downtown](https://open.spotify.com/track/2rsFt7hIUz5iPKsr1ImgEc) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Downtown](https://open.spotify.com/album/1iz51lvOjZLHPV8A1QjNsN) | 4:09 | 2020-12-21 | 2022-04-21 |
 | [Drama](https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Drama](https://open.spotify.com/album/1udu7ftqiJGPFjMyUvetdq) | 3:48 | 2021-03-19 | 2022-07-19 |
+| [Dream](https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L\. \(Lack Of Love\)](https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP) | 1:24 | 2022-10-28 |  |
 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 | 2020-12-21 | 2022-04-15 |
 | [Drift](https://open.spotify.com/track/4BNqWebyipWrMsupuTmKO9) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:35 | 2020-12-21 | 2022-04-09 |
-| [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 | 2022-10-28 |  |
+| [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 | 2022-10-28 | 2022-12-16 |
 | [Drifting Off](https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:33 | 2022-07-22 | 2022-10-08 |
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u) | 2:34 | 2022-07-20 | 2022-07-29 |
 | [Drunk](https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Drunk](https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7) | 3:11 | 2020-12-21 | 2022-12-13 |
@@ -219,7 +220,7 @@
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-12-21 | 2022-08-17 |
 | [Little Bit \(feat\. Lykke Li\)](https://open.spotify.com/track/524wvipGqxPKYWxkjf9y46) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:50 | 2022-05-06 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2020-12-21 | 2022-07-29 |
-| [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 |  |
+| [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 | 2022-12-16 |
 | [look at me](https://open.spotify.com/track/3ol0443PaVEBdnDATmEFkX) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:54 | 2020-12-21 | 2022-07-21 |
 | [Looking for Knives](https://open.spotify.com/track/1kJYmG59kwtbs2rvkqpzB6) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 6:13 | 2020-12-21 | 2022-04-20 |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2020-12-21 | 2022-04-19 |
@@ -417,7 +418,7 @@
 | [You Might Be Sleeping](https://open.spotify.com/track/7r7HYGxvCIXzHicl5DGIxM) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [You Might Be Sleeping](https://open.spotify.com/album/3XF1RsUrLnAJFYICovcDYK) | 2:27 | 2020-12-21 | 2022-07-13 |
 | [You on My Mind](https://open.spotify.com/track/1P7qvfBiWLx3cuUgSyeNIE) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [You on My Mind](https://open.spotify.com/album/0vxq1LLGQtEKjNnwHD4e8E) | 2:30 | 2020-12-21 | 2022-04-20 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-08-13 | 2022-07-21 |
-| [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2022-07-22 | 2022-09-17 |
+| [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2022-07-22 |  |
 | [Your World](https://open.spotify.com/track/6HaEWa2XBunQIjtTxcniNn) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/5och8NdNkmWVGj0QrN4Lq9) | 3:23 | 2021-05-01 | 2022-07-21 |
 | [Youtube2MP3](https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Youtube2MP3](https://open.spotify.com/album/1BCUWBszISTyrWaR2T0pPi) | 3:56 | 2021-03-19 | 2022-07-20 |
 

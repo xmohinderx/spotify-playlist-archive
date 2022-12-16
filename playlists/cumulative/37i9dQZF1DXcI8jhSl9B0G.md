@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcI8jhSl9B0G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcI8jhSl9B0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcI8jhSl9B0G)
 
-### [Summer Waves](https://open.spotify.com/playlist/37i9dQZF1DXcI8jhSl9B0G)
+### [Summer Daze](https://open.spotify.com/playlist/37i9dQZF1DXcI8jhSl9B0G)
 
-> Roots and acoustic tunes, for sun drenched days and balmy nights.
+> Tunes for sun drenched days and balmy nights.
 
 108 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
 

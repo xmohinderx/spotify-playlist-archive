@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-563 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+565 songs - 1 day 8 hr 28 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [MoonWalker](https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [MoonWalker](https://open.spotify.com/album/088QzeGKVNk68ebMWTeL9q) | 3:34 | 2022-06-09 | 2022-08-31 |
 | [Move Move Move \- feat\. 96猫](https://open.spotify.com/track/0QaPDcKufzYjm5T5VGja7V) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7), [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [Move Move Move \(feat\. 96猫\)](https://open.spotify.com/album/2IOZVbQkmip8AKOscWiUQm) | 3:34 | 2022-09-20 | 2022-10-05 |
 | [Mr.シャーデンフロイデ](https://open.spotify.com/track/501T1i6UuMqL2cpovNqvso) | [青妃らめ](https://open.spotify.com/artist/5Fq1nS6PECzWvpCV0dPUJr), [IZUMI](https://open.spotify.com/artist/3qfHdXDQRGB6kXe2S6WK29), [こまいぬ。](https://open.spotify.com/artist/3OJpVjAtZp3NwWGdsskdLq), [Cereus](https://open.spotify.com/artist/4OUjIjkEBpesalcmLbFLhq), [とうめいのくに](https://open.spotify.com/artist/6VWwyGtRIk0UlmPt21J2ag), [月乃](https://open.spotify.com/artist/0xoQ0Y3rSFP5czBEkGjU6r), [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF), [みょみょ](https://open.spotify.com/artist/4M6qatRgo2hL25svgtKhNe) | [Mr.シャーデンフロイデ](https://open.spotify.com/album/6Wp8GDXubStrb1VwLiSZCl) | 4:07 | 2022-06-09 | 2022-06-14 |
-| [NEZUMI Scheme](https://open.spotify.com/track/7IWwWWak1Ebp7ni7PTfhMx) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [NEZUMI Scheme](https://open.spotify.com/album/2tnTVBJQqfKUbO2Wf1H6A4) | 2:49 | 2022-11-22 |  |
+| [NEZUMI Scheme](https://open.spotify.com/track/7IWwWWak1Ebp7ni7PTfhMx) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [NEZUMI Scheme](https://open.spotify.com/album/2tnTVBJQqfKUbO2Wf1H6A4) | 2:49 | 2022-11-22 | 2022-12-16 |
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-07-26 | 2022-07-29 |
 | [Nightmare Parade 2020s](https://open.spotify.com/track/4CAmPgwEWyLK8Y0zSpfdB5) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Nightmare Parade 2020s](https://open.spotify.com/album/1SfA0H357thgwx3buXvRDY) | 2:52 | 2022-10-06 | 2022-10-12 |
 | [No title \- Seaside Remix](https://open.spotify.com/track/3EVQv88JzEKwUf4gSyAtZm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [No title \- Seaside Remix](https://open.spotify.com/album/09ZfLnBpF3nmeLqFr8avZg) | 4:12 | 2022-08-16 | 2022-08-31 |
@@ -173,6 +173,7 @@
 | [Villain](https://open.spotify.com/track/1fQMilh0Zj2cPUjvBpVmWm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Villain](https://open.spotify.com/album/6DpOA8kkxXT7a2HgXPrzHH) | 4:03 | 2022-07-12 | 2022-07-27 |
 | [Virtual Castle](https://open.spotify.com/track/2iz30S6Pm83GnazDzniSYR) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Virtual Castle](https://open.spotify.com/album/6hs0jB18KMTOQ3P7OcNb3T) | 3:36 | 2022-06-21 | 2022-07-27 |
 | [Volcano](https://open.spotify.com/track/20KIYq6fCX39NvcZeIFr7o) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Volcano](https://open.spotify.com/album/2EAlgzQTAd35KDAZuhN8cD) | 2:38 | 2022-10-04 | 2022-10-19 |
+| [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2022-12-15 |  |
 | [Whale\-fall Community](https://open.spotify.com/track/1zpKI5PcbL4s45a8XlJ7Z7) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 3:57 | 2022-08-16 | 2022-08-31 |
 | [Yankee Dance](https://open.spotify.com/track/5Srs8p95uAhVvFBAQZaWjb) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [Yankee Dance](https://open.spotify.com/album/5rO0lgXiwvffOspor3TN7Q) | 3:22 | 2022-07-07 | 2022-07-17 |
 | [YOUNG TOWN](https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [YOUNG TOWN](https://open.spotify.com/album/2ZrZNBjZKpBlXWwxYmEra9) | 2:50 | 2022-06-09 | 2022-06-22 |
@@ -514,6 +515,7 @@
 | [絶対零度](https://open.spotify.com/track/5XE2D9myVJ7wXxmV7MjvdN) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [絶対零度](https://open.spotify.com/album/200PU49rVMaMwvHU9EmOnF) | 3:41 | 2022-06-09 | 2022-07-15 |
 | [絶望さん](https://open.spotify.com/track/4o8zpN0NMmoCQTooeuhTDk) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [絶望さん](https://open.spotify.com/album/4vZbdNZ8dldEn3HmgRXPei) | 2:51 | 2022-06-28 | 2022-07-08 |
 | [絶頂讃歌](https://open.spotify.com/track/4cwO2KkiUe6iTfebjmSx6y) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [絶頂讃歌](https://open.spotify.com/album/5d0BouPAuu6SLpxljAxeCE) | 3:03 | 2022-09-06 | 2022-10-05 |
+| [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-15 |  |
 | [綺麗で痛い \- From ヨムオト](https://open.spotify.com/track/6NSbPZjRYr51hyatWaqpFa) | [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE), [邑玲](https://open.spotify.com/artist/7LvQSt9f6WeBGcm8EFkfHy) | [綺麗で痛い \- From ヨムオト](https://open.spotify.com/album/4HL80kWdxvV6xvgdcZxYuX) | 3:05 | 2022-06-09 | 2022-06-13 |
 | [群青讃歌](https://open.spotify.com/track/1eb9Vvbbk2OgI0CbyMmBkw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [群青讃歌 / 遊生夢死](https://open.spotify.com/album/7gN2Dv7anp87gJ0DKhGEH6) | 4:35 | 2022-06-09 | 2022-07-24 |
 | [老人と海](https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [老人と海](https://open.spotify.com/album/4OPPGeANb1N0H7qqPtghFA) | 4:15 | 2022-06-09 | 2022-07-26 |
@@ -569,7 +571,7 @@
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-06-09 | 2022-06-12 |
 | [飛翔するmeme](https://open.spotify.com/track/2xE7eUMv2Lkb3e0VFVt3f4) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm) | [飛翔するmeme](https://open.spotify.com/album/2QAbZlfehVfHiiuB8bcUvm) | 3:54 | 2022-06-09 | 2022-07-23 |
 | [食虫植物](https://open.spotify.com/track/7Lju8n8ye0pu1gS3YHu0ny) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [食虫植物](https://open.spotify.com/album/1ztYjEcNyEOmaqfABKpz2F) | 3:02 | 2022-06-28 | 2022-07-28 |
-| [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-09-29 |  |
+| [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-09-29 | 2022-12-16 |
 | [魔法の歌](https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:51 | 2022-06-09 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-110 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
+111 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 | 2022-09-09 |  |
 | [Everything Tonight](https://open.spotify.com/track/3sZjC74CafkHGu1rKZ1LOH) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq), [Kaiz3n](https://open.spotify.com/artist/3rmJcFPohTWLXDUMOdzlJC), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Everything Tonight](https://open.spotify.com/album/1LEe7DzVRGOlSsVb5oElcc) | 3:02 | 2022-07-29 |  |
 | [Falling For You](https://open.spotify.com/track/4PUbu73TaNrlRfoiPndPCg) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Eline Esmee](https://open.spotify.com/artist/34t231FBcrTXTbRFFnzker) | [Falling For You](https://open.spotify.com/album/7BG4Z7k5d6LEYETBh55Ztz) | 2:50 | 2022-08-11 |  |
+| [Far I Go](https://open.spotify.com/track/5e4Qud4VuYciLCafNaF2v0) | [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e), [John Knows](https://open.spotify.com/artist/4sUbeWVI8JYbNHyKL5LqkE), [Dare County](https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL) | [Far I Go](https://open.spotify.com/album/0phavb4PCvU3uQ0vEIR3F1) | 2:44 | 2022-12-15 |  |
 | [Fears In The Fire](https://open.spotify.com/track/1EwYWqQsaBhm98CphY1tKs) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/4AI6ApB66OHFrpMgqiUG3g) | 2:37 | 2022-07-29 |  |
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-29 |  |
 | [Find A Way](https://open.spotify.com/track/7zM4RlICmXyA7TyEPigVZq) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Find A Way](https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1) | 3:08 | 2022-07-29 |  |

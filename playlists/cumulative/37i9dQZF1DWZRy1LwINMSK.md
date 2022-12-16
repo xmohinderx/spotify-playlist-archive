@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-130 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+131 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Sin Bajarle](https://open.spotify.com/track/62CE9w9aL3LnDy9PShDUsy) | [Kadel](https://open.spotify.com/artist/5ODTiBesp5HiX746gyAkbF) | [Sin Bajarle](https://open.spotify.com/album/36KGaj6QlQhnsoxkqorJQX) | 1:52 | 2022-01-20 | 2022-05-28 |
 | [Singapur](https://open.spotify.com/track/6o1xsjjF4rexpcfkafwec0) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:49 | 2022-01-20 | 2022-07-29 |
 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 | 2022-01-20 |  |
-| [Sismo](https://open.spotify.com/track/12k3cUC5NGSljgZKZTyv8R) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sismo](https://open.spotify.com/album/4PE50mQjdk0hHwWFf2ymEB) | 2:37 | 2022-01-20 |  |
+| [Sismo](https://open.spotify.com/track/12k3cUC5NGSljgZKZTyv8R) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sismo](https://open.spotify.com/album/4PE50mQjdk0hHwWFf2ymEB) | 2:37 | 2022-01-20 | 2022-12-16 |
+| [Sismo](https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 2:37 | 2022-08-25 |  |
 | [South Beach](https://open.spotify.com/track/72APDBxXJYdznq3YL9iGqZ) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Déjà Vu](https://open.spotify.com/album/3uvDfKZqZaIbnFYR4qGAJa) | 3:49 | 2022-01-20 | 2022-05-28 |
 | [SPLASH](https://open.spotify.com/track/27syJ4nzaZtklP6IBSw70W) | [Sinco12](https://open.spotify.com/artist/5O5Pz7R7eLIplDnQk0xhkL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [SPLASH](https://open.spotify.com/album/3CLBJ7yjtRCU1ULij23iL7) | 3:30 | 2022-05-27 | 2022-06-18 |
 | [Surprise \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/4CFCEImu0SbRkH4WaFFK6H) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Surprise \(feat\. Polimá Westcoast\)](https://open.spotify.com/album/5IliKcYtvrJx1tuVN7b8KP) | 3:34 | 2022-01-20 |  |

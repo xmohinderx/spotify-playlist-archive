@@ -2092,6 +2092,28 @@
     },
     {
       "album": {
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+    },
+    {
+      "album": {
         "name": "Dragonborn part 3 (Oceans Apart) [feat. Sian Evans]",
         "url": "https://open.spotify.com/album/2l97HApmO6hOSm2bTQTnks"
       },
@@ -3339,7 +3361,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 195066,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl"
@@ -4108,6 +4130,40 @@
     },
     {
       "album": {
+        "name": "Hurricane (More Kords & Regato Remix)",
+        "url": "https://open.spotify.com/album/3kJkZM5DgViRc3SMHFa8EB"
+      },
+      "artists": [
+        {
+          "name": "Lazard",
+          "url": "https://open.spotify.com/artist/52UNk4kJqcQ89cF4Mq6wRe"
+        },
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        },
+        {
+          "name": "More Kords",
+          "url": "https://open.spotify.com/artist/732oUYDDflptHEHS7zy05D"
+        },
+        {
+          "name": "Blaikz",
+          "url": "https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde"
+        },
+        {
+          "name": "Regato",
+          "url": "https://open.spotify.com/artist/66o7N7IajDEkUbZpHHVxAI"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165096,
+      "name": "Hurricane - More Kords & Regato Remix",
+      "url": "https://open.spotify.com/track/6HrtyNzBUkAcs4EsBYLG15"
+    },
+    {
+      "album": {
         "name": "We Rule The Night",
         "url": "https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs"
       },
@@ -4781,7 +4837,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 218157,
       "name": "Kingdom Comes",
       "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"

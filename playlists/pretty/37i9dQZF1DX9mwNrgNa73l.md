@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,224 likes - 98 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,272 likes - 98 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 86 | [Haiderium Qalandaram Mastam](https://open.spotify.com/track/3Z4EnyYxSXw62ENzxRxcgk) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq) | [Haiderium Qalandaram Mastam](https://open.spotify.com/album/5zDG8KiWgU6GyIoRp08hpK) | 5:45 |
 | 87 | [Allah Hu](https://open.spotify.com/track/6EWDE9xJuEGK4CD9SMnlm9) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC) | [Allah Hu](https://open.spotify.com/album/1cYcGtARBCMQNpNrj8iEcu) | 4:56 |
 | 88 | [Allah Hoo](https://open.spotify.com/track/2oAsqDg6T3r1aCuA6RnXmQ) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Allah Hoo](https://open.spotify.com/album/67MfQAsIqudWrhvPjP5MAr) | 4:02 |
-| 89 | [Rang Le](https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2S9oWh8Cws0tGiHxFTe76c) | 3:33 |
+| 89 | [Rang Le](https://open.spotify.com/track/6BW7qbuZba3CoEr1OahhUo) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2OC8Tg8Z4F583hxAyb64tt) | 3:33 |
 | 90 | [Sakal Ban](https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:46 |
 | 91 | [Dost](https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:35 |
 | 92 | [Alif Allah](https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Alif Allah](https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH) | 3:21 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 97 | [Husn E Haqiqi](https://open.spotify.com/track/1Yi1XZNXOGk49Eh8WI5FGG) | [Darvesh](https://open.spotify.com/artist/1mPsFzgP5Zg6gdnfyKWMyJ) | [Husn E Haqiqi](https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW) | 6:39 |
 | 98 | [Naukar Shah Da](https://open.spotify.com/track/0QPOtQjf1Nl1wVNcPV6e4s) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Naukar Shah Da](https://open.spotify.com/album/54Kjgaj9mL1n2iFyKxZ70v) | 4:13 |
 
-Snapshot ID: `MTY2NzQxODQwNiwwMDAwMDAwMDhjZTRkYWFlMDg0ZDM2MDg3ZTI1MzFjZDg2NDMzY2Yw`
+Snapshot ID: `MTY2NzQxODQwNiwwMDAwMDAwMDNhZDBhZGU0MWU1YWM2MDc2Mzg3Zjg5YTVhM2Q2OWJh`

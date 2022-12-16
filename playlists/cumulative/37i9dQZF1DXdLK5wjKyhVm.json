@@ -706,6 +706,32 @@
     },
     {
       "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/5v9tObw0KWBJzycANDXJ2S"
+      },
+      "artists": [
+        {
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        },
+        {
+          "name": "Lo-Fi Luke",
+          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
+        },
+        {
+          "name": "Marc Brave",
+          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/3Oks0kZEQiPnLn5GGUZoOE"
+    },
+    {
+      "album": {
         "name": "Colorful Skies",
         "url": "https://open.spotify.com/album/6rk7Y2kVA0Mjk4tYISix4q"
       },
@@ -1306,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Excursion",
+        "url": "https://open.spotify.com/album/1cOXShRfyla6aEJ4hniagX"
+      },
+      "artists": [
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143397,
+      "name": "Excursion",
+      "url": "https://open.spotify.com/track/73S7laK3MRdZDS8EdODozs"
+    },
+    {
+      "album": {
         "name": "Cascades",
         "url": "https://open.spotify.com/album/1soCyDGfB9f7fX46z5dPk2"
       },
@@ -1505,7 +1549,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 145263,
       "name": "Forgetful",
       "url": "https://open.spotify.com/track/2oE3iJgpMCupYlz8jOtEBE"
@@ -1625,7 +1669,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 182763,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/4PYtxcZhOSoXiYpcDJbvPZ"
@@ -1697,7 +1741,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 138034,
       "name": "Green Tea",
       "url": "https://open.spotify.com/track/2RUWiI2TRg7w1ejv0xHnif"
@@ -2328,6 +2372,28 @@
     },
     {
       "album": {
+        "name": "Lazy Sunday",
+        "url": "https://open.spotify.com/album/6jg3xkp0UxoWxWEutvgemW"
+      },
+      "artists": [
+        {
+          "name": "Goslow",
+          "url": "https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn"
+        },
+        {
+          "name": "VOLKHIN",
+          "url": "https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Lazy Sunday",
+      "url": "https://open.spotify.com/track/4H6jIpY6dMpGuqCes4dmKt"
+    },
+    {
+      "album": {
         "name": "Let the Sun Shine",
         "url": "https://open.spotify.com/album/1bBRrIz34wCbzyEoQJKU1Z"
       },
@@ -2401,7 +2467,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 144657,
       "name": "Little Cloud",
       "url": "https://open.spotify.com/track/70GWHagnyrzyKf6e227ScK"
@@ -2543,7 +2609,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 169500,
       "name": "Lunes Azul (Linearwave's Lofi Remix - Dawn)",
       "url": "https://open.spotify.com/track/36DnkThHpOJnHbm9N9QbYO"
@@ -3099,7 +3165,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 136553,
       "name": "Oat Milk",
       "url": "https://open.spotify.com/track/7lhBuiyMuCtu5HzxLhnVQp"
@@ -3157,7 +3223,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 159535,
       "name": "Octopus",
       "url": "https://open.spotify.com/track/4ZkxipJNGuVdf2zHiWXOYm"
@@ -3233,7 +3299,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 202417,
       "name": "One Summer\u2019s Eve",
       "url": "https://open.spotify.com/track/0hYU2pA8Oo8xD3O835rWN5"
@@ -3512,6 +3578,24 @@
     },
     {
       "album": {
+        "name": "promenade",
+        "url": "https://open.spotify.com/album/6YXBiyayxcDn3DsMrto95p"
+      },
+      "artists": [
+        {
+          "name": "tezpu",
+          "url": "https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "promenade",
+      "url": "https://open.spotify.com/track/6OBjzNC6y07WuH6c0kLduY"
+    },
+    {
+      "album": {
         "name": "Queens Blvd",
         "url": "https://open.spotify.com/album/1f2te5hRaujOJlE5PIicF5"
       },
@@ -3567,7 +3651,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 116800,
       "name": "Rain Tropical",
       "url": "https://open.spotify.com/track/2kjX617EhC6HP1r8w2sIjd"
@@ -3603,7 +3687,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 117446,
       "name": "red sky",
       "url": "https://open.spotify.com/track/3AqaL97YQFCjjnt8b83lVk"
@@ -3715,7 +3799,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 136194,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/3oNTmujNA8EevpYxWO1G6H"
@@ -3799,6 +3883,28 @@
       "duration_ms": 158464,
       "name": "Running Roads",
       "url": "https://open.spotify.com/track/1gQQk1XUWePlcnv818bGmH"
+    },
+    {
+      "album": {
+        "name": "Same Way Home (Wowflower Remix)",
+        "url": "https://open.spotify.com/album/0i893HsE4Pqzh8SapOU70l"
+      },
+      "artists": [
+        {
+          "name": "Rotem Sivan",
+          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
+        },
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Same Way Home (Wowflower Remix)",
+      "url": "https://open.spotify.com/track/25oS9gdWOLSe8YRralMzPk"
     },
     {
       "album": {
@@ -4031,7 +4137,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 176000,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/4pNe1h6fI98gVafiF9xf0w"
@@ -4111,6 +4217,24 @@
       "duration_ms": 162000,
       "name": "Spring Magic",
       "url": "https://open.spotify.com/track/3UNpc4XLwtOrJeb2GYrNkI"
+    },
+    {
+      "album": {
+        "name": "Stay here forever",
+        "url": "https://open.spotify.com/album/5EeMQnGb4YCOxvvHH0S083"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112430,
+      "name": "Stay here forever",
+      "url": "https://open.spotify.com/track/1h729SSZN7UBkOcRHTuh2d"
     },
     {
       "album": {
@@ -4283,7 +4407,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 136161,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/0lKE3NesPKL2v1AaaX1FT8"
@@ -4575,7 +4699,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 155294,
       "name": "The Last Caress",
       "url": "https://open.spotify.com/track/2gyLOxjHak9GNl91uRckOK"
@@ -4805,7 +4929,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 140800,
       "name": "Welcome Stars",
       "url": "https://open.spotify.com/track/0KBrGfBONI31G6XmR6NGDQ"

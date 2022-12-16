@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 77529,
+  "num_followers": 77555,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMGZhNjlmNDNiYmY4NjEzMTMxZGYwZTFhZDc5YWEwM2Iz",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDNkNGRjMWQwNmM3MWQ5MDEyYTIyZTk3NTA0YjQzMmE4",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -247,18 +247,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "No me Arrepiento de Este Amor",
-        "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
+        "name": "Ten\u00edas Que Ser T\u00fa",
+        "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 227373,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
+      "duration_ms": 141829,
+      "name": "Ten\u00edas Que Ser T\u00fa",
+      "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Ten\u00edas Que Ser T\u00fa",
-        "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
+        "name": "No me Arrepiento de Este Amor",
+        "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 141829,
-      "name": "Ten\u00edas Que Ser T\u00fa",
-      "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Si hay alguien en tu vida",
-        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Si hay alguien en tu vida",
+        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Lo Que Fui para Ti",
-      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 238561,
       "name": "Lo Que Me Hizo Usted",
       "url": "https://open.spotify.com/track/7gKptykHNsZC1MHIF7wOJv"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Lo Que Fui para Ti",
+      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 217190,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Pobre perro",
         "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 262480,
       "name": "Si se fue, se fue",
       "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 217190,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
     },
     {
       "added_at": "2022-12-02 03:00:00",

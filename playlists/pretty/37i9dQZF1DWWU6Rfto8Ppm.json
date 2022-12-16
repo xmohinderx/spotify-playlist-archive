@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Daddy Yankee.",
-  "num_followers": 1893723,
+  "num_followers": 1896594,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQyOTcxNywwMDAwMDAwMGRiMThiZmMxZWMzNTVhMWJmMzhhN2Y2MDQ1ZDdmYzVk",
+  "snapshot_id": "MTY3MDQyOTcxNywwMDAwMDAwMGZhZjk2ZDYzNjk5OGE5NTZlZjU1YzU1NTFlMjU3NWM5",
   "tracks": [
     {
       "added_at": "2022-11-02 17:52:06",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "Pa'l Mundo",
         "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 162400,
       "name": "Guatauba",
       "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -599,38 +599,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
-        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Sexy Movimiento",
-      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Mi Ni\u00f1a Bonita - Reloaded",
-        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 250226,
       "name": "Sexo, Sudor y Calor",
       "url": "https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "Mi Ni\u00f1a Bonita - Reloaded",
+        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
+        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Sexy Movimiento",
+      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "Gargolas 3",
         "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 207786,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/1DdrejuwM8C3ExsXaPAgF8"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -843,6 +827,22 @@
       "duration_ms": 281813,
       "name": "Lo Grande Que Es Perdonar",
       "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "La Revolucion (Deluxe)",
-        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 180386,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj"
+      "duration_ms": 206493,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "Big Yamo o Nada",
         "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 185077,
       "name": "Entre la Playa Ella y Yo",
       "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "La Revolucion (Deluxe)",
+        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "Diva Platinum Edition",
         "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Kilates 2",
-        "url": "https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 201692,
-      "name": "Yo no Soy Tu Marido",
-      "url": "https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 250546,
       "name": "Junto Al Amanecer",
       "url": "https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "Kilates 2",
+        "url": "https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 201692,
+      "name": "Yo no Soy Tu Marido",
+      "url": "https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -1395,22 +1411,6 @@
       "duration_ms": 184906,
       "name": "Saoco",
       "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "El Talento del Bloque",
-        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 208274,
-      "name": "Nena Fichu",
-      "url": "https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 242573,
       "name": "M\u00e9tele Saz\u00f3n",
       "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "El Talento del Bloque",
+        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 208274,
+      "name": "Nena Fichu",
+      "url": "https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 170853,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "The Final Countdown",
+        "url": "https://open.spotify.com/album/1BtMLmeruC0GGhBHYljDVU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 235755,
+      "name": "Amor De Pobre",
+      "url": "https://open.spotify.com/track/437ZUT6wtzlrOil2LRmHpu"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/2XpLbDgssTyK3AmeQlfUL3"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 245640,
       "name": "Tu Cuerpo Me Llama Rmx",
       "url": "https://open.spotify.com/track/7E1rvGKkYsVo6vxiTiuBPQ"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "The Final Countdown",
-        "url": "https://open.spotify.com/album/1BtMLmeruC0GGhBHYljDVU"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 235755,
-      "name": "Amor De Pobre",
-      "url": "https://open.spotify.com/track/437ZUT6wtzlrOil2LRmHpu"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Flow Violento",
+      "url": "https://open.spotify.com/track/0ubKoLSRKEBpeJuRJrLf9M"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "Roc La Familia & Hector Bambino \"EL FATHER\" Present Los Rompe Discotekas",
         "url": "https://open.spotify.com/album/12WhZAzPc6ekGSTWPGEUVp"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 212493,
       "name": "A Ti No",
       "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Flow Violento",
-      "url": "https://open.spotify.com/track/0ubKoLSRKEBpeJuRJrLf9M"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "Los Matadores del Genero",
+        "url": "https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Chica Ven Pa' Ca",
+      "url": "https://open.spotify.com/track/7eWabug2g5Kw3QnMxaQlpK"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 218506,
       "name": "Sexo Seguro",
       "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Los Matadores del Genero",
-        "url": "https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Chica Ven Pa' Ca",
-      "url": "https://open.spotify.com/track/7eWabug2g5Kw3QnMxaQlpK"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 238890,
-      "name": "Si No Cuidas Tu Mujer",
-      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "Casa De Leones",
         "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 288400,
       "name": "No Te Veo - Remix",
       "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 238890,
+      "name": "Si No Cuidas Tu Mujer",
+      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -2563,6 +2563,26 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "Voltio",
+        "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
+      },
+      "artists": [
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Julito Mara\u00f1a",
+      "url": "https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -2583,26 +2603,6 @@
       "duration_ms": 227853,
       "name": "Hola Bebe",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Voltio",
-        "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
-      },
-      "artists": [
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Julito Mara\u00f1a",
-      "url": "https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -2747,6 +2747,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
+      },
+      "artists": [
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -2759,22 +2775,6 @@
       "duration_ms": 136026,
       "name": "Te Suelto el Pelo",
       "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "The Bad Boy (The Most Wanted Edition)",
-        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -2815,6 +2815,22 @@
       "duration_ms": 234733,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "The Bad Boy (The Most Wanted Edition)",
+        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -2907,22 +2923,6 @@
       "duration_ms": 202053,
       "name": "Te Imagino",
       "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
-      },
-      "artists": [
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3059,18 +3059,18 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Conspiracion 2",
-        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
+        "name": "Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Sir Speedy",
+          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
         }
       ],
-      "duration_ms": 179093,
-      "name": "Me Voy Pa'l Party",
-      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+      "duration_ms": 131773,
+      "name": "Amor Con la Ropa",
+      "url": "https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3091,18 +3091,18 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl"
+        "name": "Conspiracion 2",
+        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
       "artists": [
         {
-          "name": "Sir Speedy",
-          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 131773,
-      "name": "Amor Con la Ropa",
-      "url": "https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH"
+      "duration_ms": 179093,
+      "name": "Me Voy Pa'l Party",
+      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3239,6 +3239,26 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
+        "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
+        "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
         "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
       },
@@ -3251,26 +3271,6 @@
       "duration_ms": 195093,
       "name": "La Perfecta Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
-      },
-      "artists": [
-        {
-          "name": "Magnate",
-          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
-        },
-        {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
-        }
-      ],
-      "duration_ms": 276926,
-      "name": "Dile a Ella",
-      "url": "https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3319,6 +3319,26 @@
       "duration_ms": 208999,
       "name": "No S\u00e9 Como Se Llama",
       "url": "https://open.spotify.com/track/4oFFNRZDaOfNIihHn6aIfN"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
+      },
+      "artists": [
+        {
+          "name": "Magnate",
+          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
+        },
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+        }
+      ],
+      "duration_ms": 276926,
+      "name": "Dile a Ella",
+      "url": "https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3419,22 +3439,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Contra la Corriente",
-        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
+        "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
+        "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
       },
       "artists": [
         {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
         },
         {
-          "name": "Kartiel",
-          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 213577,
-      "name": "Si Te Vas (feat. Kartiel)",
-      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+      "duration_ms": 186618,
+      "name": "Te Hago el Amor",
+      "url": "https://open.spotify.com/track/2yhumMKS2cwLdroqgVnZ5P"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3455,22 +3475,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
-        "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
+        "name": "Contra la Corriente",
+        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
       "artists": [
         {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
         },
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Kartiel",
+          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
         }
       ],
-      "duration_ms": 186618,
-      "name": "Te Hago el Amor",
-      "url": "https://open.spotify.com/track/2yhumMKS2cwLdroqgVnZ5P"
+      "duration_ms": 213577,
+      "name": "Si Te Vas (feat. Kartiel)",
+      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3511,22 +3531,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "The Royalty",
-        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Te Regalo Amores",
-      "url": "https://open.spotify.com/track/5gJ47Ia89XREGtlCprzAe2"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "Motivando A La Yal (Special Edition)",
         "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
       },
@@ -3539,6 +3543,22 @@
       "duration_ms": 190008,
       "name": "Doncella",
       "url": "https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "The Royalty",
+        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Te Regalo Amores",
+      "url": "https://open.spotify.com/track/5gJ47Ia89XREGtlCprzAe2"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3579,22 +3599,6 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Masacre Musical",
-        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 280680,
-      "name": "Es Dificil",
-      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx"
       },
@@ -3611,22 +3615,50 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
-        "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
+        "name": "Masacre Musical",
+        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
       },
       "artists": [
         {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 221413,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49"
+      "duration_ms": 280680,
+      "name": "Es Dificil",
+      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "Echo Presenta: Invasion",
+        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
+      },
+      "artists": [
+        {
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Como Toda Una Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
+    },
+    {
+      "added_at": "2022-11-02 17:52:06",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Dos Palgas",
+      "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3651,54 +3683,18 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "El Dragon",
-        "url": "https://open.spotify.com/album/6d5MGIEbLpHEOaBtZeR5pO"
+        "name": "Flow La Discoteca Special Edition",
+        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
       },
       "artists": [
         {
-          "name": "Johnny Prez",
-          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
-        },
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         }
       ],
-      "duration_ms": 254825,
-      "name": "Chica Plastica",
-      "url": "https://open.spotify.com/track/3sVpw06XTctdLcq1lnc3Cu"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Dos Palgas",
-      "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
-    },
-    {
-      "added_at": "2022-11-02 17:52:06",
-      "album": {
-        "name": "Echo Presenta: Invasion",
-        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
-      },
-      "artists": [
-        {
-          "name": "Dalmata",
-          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Como Toda Una Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
+      "duration_ms": 225348,
+      "name": "Yo Voy A Llegar",
+      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
     },
     {
       "added_at": "2022-11-02 17:52:06",
@@ -3719,18 +3715,22 @@
     {
       "added_at": "2022-11-02 17:52:06",
       "album": {
-        "name": "Flow La Discoteca Special Edition",
-        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
+        "name": "El Dragon",
+        "url": "https://open.spotify.com/album/6d5MGIEbLpHEOaBtZeR5pO"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "Johnny Prez",
+          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
+        },
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
         }
       ],
-      "duration_ms": 225348,
-      "name": "Yo Voy A Llegar",
-      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
+      "duration_ms": 254825,
+      "name": "Chica Plastica",
+      "url": "https://open.spotify.com/track/3sVpw06XTctdLcq1lnc3Cu"
     },
     {
       "added_at": "2022-11-02 17:52:06",

@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-351 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+352 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [JUST DANCE](https://open.spotify.com/track/2GSUNdq88OmOQnWTO8yhe1) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [JUST DANCE](https://open.spotify.com/album/7gk0gpbOy0YP1nOlDAysCv) | 1:46 | 2021-10-01 | 2022-05-08 |
 | [Kayako](https://open.spotify.com/track/7k3muSX9HBE63Vi1yZtLiC) | [Numb$kull](https://open.spotify.com/artist/7wQoo6BKPCAnSZRgE3qjp2) | [Kayako](https://open.spotify.com/album/6a4Jm2VxAAj5EPLzb7TFmf) | 3:07 | 2022-08-26 | 2022-10-29 |
 | [Kick Rocks \(feat\. Lil Darkie\)](https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [Kick Rocks \(feat\. Lil Darkie\)](https://open.spotify.com/album/6C0f36HZNOlyU5w1v4g1Ch) | 2:51 | 2022-07-29 |  |
-| [KILL EM BODY](https://open.spotify.com/track/7oIqB7dY8LY9hG08UPe1Qm) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/1nuHNtS3tt47GoMJqy9LL6) | 3:48 | 2022-08-26 |  |
+| [KILL EM BODY](https://open.spotify.com/track/1NolQUklOhveTHpi5DqOct) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/39JVRr1HIaU8hzos7mCba3) | 3:48 | 2022-09-02 |  |
+| [KILL EM BODY](https://open.spotify.com/track/7oIqB7dY8LY9hG08UPe1Qm) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/1nuHNtS3tt47GoMJqy9LL6) | 3:48 | 2022-08-26 | 2022-12-16 |
 | [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 | 2022-06-10 | 2022-07-23 |
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2022-02-16 | 2022-04-21 |
 | [KOTA](https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [KOTA](https://open.spotify.com/album/2LgEcNjbm8JC8fL986lpBP) | 3:15 | 2022-07-15 | 2022-11-26 |

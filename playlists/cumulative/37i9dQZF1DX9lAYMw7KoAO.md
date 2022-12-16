@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-97 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+98 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Eh Yaweh](https://open.spotify.com/track/1xHh8dzuyqyGJxVETA5Waj) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Celebrate!](https://open.spotify.com/album/2jqinUWqqWhSB5ICFNykgD) | 5:55 | 2018-10-01 |  |
 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 | 2018-10-01 |  |
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 |  |
-| [Faithful](https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Faithful](https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7) | 4:25 | 2020-09-17 |  |
+| [Faithful](https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Faithful](https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7) | 4:25 | 2020-09-17 | 2022-12-16 |
+| [Faithful](https://open.spotify.com/track/07E586wUahkoqWmBHKoalA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 4:25 | 2022-12-13 |  |
 | [Fix My Eyes on You](https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 5:32 | 2020-04-13 |  |
 | [Fix My Eyes On You](https://open.spotify.com/track/01681YDSzn0mtZJoXHzcuG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Fix My Eyes On You](https://open.spotify.com/album/6A2omubxXwPF8fveDc1dNy) | 5:33 | 2020-04-13 | 2022-07-29 |
 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 | 2022-08-26 |  |

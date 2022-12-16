@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee.
 
-114 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+115 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Athena \- NTEIBINT Remix](https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn), [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 4:21 | 2022-09-15 |  |
 | [Ballo Da Solo](https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Proto/Emotions](https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY) | 5:19 | 2022-09-15 |  |
 | [Big Sur](https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Big Sur](https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ) | 3:12 | 2022-09-15 |  |
-| [Blckdrss \(Wann Remix\)](https://open.spotify.com/track/6GaMRFAqCQ9aRBbpuJEEKU) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF), [WANN](https://open.spotify.com/artist/2x98SUBoz7bmcSOuT9HfxU) | [Blckdrss \(Wann Remix\)](https://open.spotify.com/album/00paMSsFcxDvWGYJeABk0g) | 3:33 | 2022-11-19 |  |
+| [Blckdrss \(Wann Remix\)](https://open.spotify.com/track/6GaMRFAqCQ9aRBbpuJEEKU) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF), [WANN](https://open.spotify.com/artist/2x98SUBoz7bmcSOuT9HfxU) | [Blckdrss \(Wann Remix\)](https://open.spotify.com/album/00paMSsFcxDvWGYJeABk0g) | 3:33 | 2022-11-19 | 2022-12-16 |
 | [Blue Essay](https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy) | [Paralax](https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T) | [Blue Essay](https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk) | 4:56 | 2022-09-15 |  |
 | [Blue Moon](https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Blue Moon](https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv) | 2:25 | 2022-09-15 |  |
 | [Blue Orchid](https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm) | [Mr\. Woodcole](https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg) | [Wax Casting](https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx) | 3:15 | 2022-09-15 |  |
@@ -33,6 +33,7 @@
 | [Don't Say Goodbye](https://open.spotify.com/track/1Z6uwcyE8ffTTpaPhBwDTx) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Don't Say Goodbye](https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3) | 2:48 | 2022-09-15 |  |
 | [Don't Stop the Dance \- Kraak & Smaak Radio Edit](https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY) | [Martin Brodin](https://open.spotify.com/artist/7etTPm2rH9ITrhUVUkeyPu), [Mikael Surdi](https://open.spotify.com/artist/0MQyQjUuh0q7RRVnHRUc5P), [Alexandra Hamnede](https://open.spotify.com/artist/5WbT9sTM2jMWXfcZzMLF36), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Don't Stop the Dance \(Kraak & Smaak Radio Edit\)](https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY) | 3:33 | 2022-09-15 |  |
 | [Dub 002](https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dub 002](https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6) | 6:10 | 2022-09-15 |  |
+| [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-15 |  |
 | [Endurance](https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Endurance / Heart](https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW) | 3:20 | 2022-09-15 |  |
 | [Falling](https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Falling](https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL) | 3:02 | 2022-09-15 |  |
 | [Falling Upwards](https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Falling Upwards](https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj) | 5:43 | 2022-09-15 |  |
