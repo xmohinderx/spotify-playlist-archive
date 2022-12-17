@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,893 songs - 7 day 18 hr 19 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,894 songs - 7 day 18 hr 21 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3649,6 +3649,7 @@
 | [Save Me](https://open.spotify.com/track/4llpWUJEWKHGVZzYv1nYid) | [H E R B](https://open.spotify.com/artist/1VVouGyPhjhUuaoCBZ0dFe) | [Existance](https://open.spotify.com/album/4jBPcp9a5pcjY1Q44qKZtg) | 1:24 | 2019-05-26\* | 2020-05-09 |
 | [Saved](https://open.spotify.com/track/2gu59fw711MVmz9Y3CgzqD) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Saved](https://open.spotify.com/album/2nTHhmbPMq6FtMGBt1mlnl) | 2:36 | 2022-02-14 | 2022-07-22 |
 | [Saveur Peche](https://open.spotify.com/track/5keJwlHTqYOV9hmNAXnFKO) | [Two Muses After](https://open.spotify.com/artist/6xpq9Jqa99NXeKxCDNbG8S) | [Saveur Peche](https://open.spotify.com/album/7oLKq7Wo6kQdwTpr8dqRV2) | 2:31 | 2022-09-16 |  |
+| [Say2U](https://open.spotify.com/track/6CysPqQKvex0tGgru7M1Eu) | [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT) | [MindOverMatter](https://open.spotify.com/album/3Xogmb5O5vIv5TC95SJ1y0) | 2:14 | 2022-12-16 |  |
 | [Sayin'](https://open.spotify.com/track/65kOCXGJwm6ngo72eXU3vp) | [Avixn](https://open.spotify.com/artist/3iLOgBGQoYNj815Q2bkH3r) | [\[Lofi.Bumps\]](https://open.spotify.com/album/3sNcg6HEXpJQRGgUYZg3f7) | 1:09 | 2019-09-08 | 2021-04-17 |
 | [Scilla](https://open.spotify.com/track/2Rl8YG9SFOrLXz4Jsr5TYV) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Scilla](https://open.spotify.com/album/6sUwRgas8r3CSikO2W4CCr) | 2:35 | 2022-12-16 |  |
 | [Scootin](https://open.spotify.com/track/3mvu8jpJTXkiSYxi2d3CS6) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Scootin](https://open.spotify.com/album/68wKm9Aqsar10xUWszxmGW) | 2:17 | 2021-10-20 | 2022-04-24 |

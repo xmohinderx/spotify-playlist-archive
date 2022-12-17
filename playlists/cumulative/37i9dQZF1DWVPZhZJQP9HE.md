@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-279 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+281 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \- From "Irandaam kaadhal"](https://open.spotify.com/track/14fsJKRZp1RlFBvsVq4kNq) | [Kevin D'costa](https://open.spotify.com/artist/11m2LnJnChht9JbeiRIAmv), [Kiran Adithya GK](https://open.spotify.com/artist/7yGEsuloXy1pMd5p1xukPY) | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \(From "Irandaam kaadhal"\)](https://open.spotify.com/album/6O26zFJwro5cCzZqZ4iF4p) | 4:17 | 2022-02-03 | 2022-06-14 |
 | [Kaaka Kadha \- From "Think Indie"](https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kaaka Kadha \(From "Think Indie"\)](https://open.spotify.com/album/2Rf7Tu3ZqCmUdwqPosFaH4) | 3:30 | 2022-07-11 |  |
 | [Kaanadha Vizhigal](https://open.spotify.com/track/7K02crvfkaOH4LqZcp8lNM) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC) | [Kaanadha Vizhigal](https://open.spotify.com/album/2RJYqOUDoLnrErpDQ3OW3A) | 2:57 | 2022-02-25 | 2022-07-08 |
+| [Kaaranam](https://open.spotify.com/track/5qfTeUo5gDEYk7ApD7JUqR) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kaaranam](https://open.spotify.com/album/0Wu1gmRfOGgr5KSIFQJwCt) | 4:02 | 2022-12-16 |  |
 | [Kaathadi](https://open.spotify.com/track/5FlpkXMsHB5C8bjOErpQuy) | [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kaathadi](https://open.spotify.com/album/36coKWgWqWR62SkpXeyl4a) | 3:23 | 2021-12-18 |  |
 | [Kaatrodu](https://open.spotify.com/track/5yIC1ldpXfRyVL7LpjrZLp) | [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo), [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kaatrodu](https://open.spotify.com/album/5EUmFeHta6LpGNhgqj6Med) | 5:44 | 2022-09-23 |  |
 | [Kadan \- Naatpadu Theral \- 2](https://open.spotify.com/track/7GcvJKhW4fnVLDd4xo5nUo) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Ramesh Vinayakam](https://open.spotify.com/artist/6inHsxIYCalnwN5AcdWtjL) | [Kadan \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/3XNd7WczhkD3LZ0A1sp1aB) | 5:59 | 2022-05-31 | 2022-06-16 |
@@ -150,6 +151,7 @@
 | [Mitta Mirasu](https://open.spotify.com/track/6geWnMs5Jo9IXEQpbRNkN9) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [Swasthika Swaminathan](https://open.spotify.com/artist/6igchCiRtcOLefFuwY2gLL), [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo) | [Mitta Mirasu](https://open.spotify.com/album/2VUqiXotdXbRw6M7fy1Oql) | 4:00 | 2022-10-28 | 2022-11-22 |
 | [Mottai Maadi](https://open.spotify.com/track/1Yow5P7BprWz2wT7APERcc) | [Vishnu](https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS), [Jude](https://open.spotify.com/artist/0Q6b59UVZHBeA02PBYzlwS) | [Mottai Maadi](https://open.spotify.com/album/226u0keOEIen2tiPRBtIKQ) | 3:42 | 2022-11-30 |  |
 | [Mouname \- Kathalin Kavithai](https://open.spotify.com/track/0FTYYP6yxoC5U1Mdloielc) | [Vishnu](https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS) | [Mouname \- Kathalin Kavithai](https://open.spotify.com/album/6OyIQ9Glnl0cMSqjdYbWnm) | 3:03 | 2022-07-20 | 2022-08-10 |
+| [Mudhal Murai](https://open.spotify.com/track/3HwPouek9TmVxN2S7upmyb) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Mudhal Murai](https://open.spotify.com/album/6ce5L0qcnyTzMOUa9hqnhT) | 2:49 | 2022-12-16 |  |
 | [Mugangal maarumo](https://open.spotify.com/track/6Z4aDnCzqR5fAs81hqyS6U) | [Ponkundram](https://open.spotify.com/artist/1oOMV1i6RXQag9uraVqkW3), [Shankara TPK](https://open.spotify.com/artist/2ZO9iDuD5fb8Cm57Ni7D8G) | [MOUNAM](https://open.spotify.com/album/3zrBiHKgxiZhjVCI8N7WfI) | 2:58 | 2022-06-17 | 2022-07-28 |
 | [Muthu Pechi](https://open.spotify.com/track/2jb91mkPf0mA7ENeqZtVEN) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Muthu Pechi](https://open.spotify.com/album/1eKm9WrHW8wlDpB2qnscRg) | 4:20 | 2022-05-23 | 2022-07-15 |
 | [Na Enna Adimaiya](https://open.spotify.com/track/5ep5QAV0TcVhFZLHeXpOjy) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Na Enna Adimaiya](https://open.spotify.com/album/2dioMqfHluPd1Auh6Q8g2I) | 3:58 | 2022-06-17 | 2022-07-16 |

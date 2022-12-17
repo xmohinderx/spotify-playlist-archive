@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 10264,
+  "num_followers": 10317,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMGQxMzQ3ZTkzM2E1ZjEwYzRhZWI5ZGY1ZmM1ODEzM2Uy",
+  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDM5MGVjZmRiNjc1ZDEwZWZiYjQ5MjljNDg3ZjVjMTlm",
   "tracks": [
     {
       "added_at": "2022-11-01 04:02:48",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Think",
-        "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 231222,
-      "name": "Think (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 191141,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
+        "name": "Think",
+        "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 231222,
+      "name": "Think (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 244153,
       "name": "YOU KNOW",
       "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "Alone Tonight (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 362314,
       "name": "WORLDWIDE",
       "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "Alone Tonight (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d"
     },
     {
       "added_at": "2022-11-01 04:02:48",

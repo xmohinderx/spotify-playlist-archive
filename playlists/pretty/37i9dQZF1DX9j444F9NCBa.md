@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,759 likes - 244 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,033 likes - 244 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 47 | [Shallow \- Piano Version](https://open.spotify.com/track/5zqW1M5Tkl07Nl2kGznE7F) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 3:56 |
 | 48 | [Hallelujah \- Piano Version](https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:35 |
 | 49 | [Don't Kill My Vibe](https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV) | [Franz Schröder](https://open.spotify.com/artist/5eK0TWmJd1D9tqBEVUe7xf) | [Don't Kill My Vibe](https://open.spotify.com/album/1Rv2l98pHdPeY1P2a76264) | 3:07 |
-| 50 | [A Thousand Miles](https://open.spotify.com/track/77VP90xg3Sxi4CoxNmeQJc) | [Alec Taylor](https://open.spotify.com/artist/6JAvfB7kCWRrbVRPNvahKS) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 3:37 |
+| 50 | [A Thousand Miles](https://open.spotify.com/track/77VP90xg3Sxi4CoxNmeQJc) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 3:37 |
 | 51 | [Photograph \(Instrumental Piano\)](https://open.spotify.com/track/0UNXTLCFf3erUgsO8IH4aK) | [Matchstick Piano Man](https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO) | [Photograph \(Instrumental Piano\)](https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj) | 5:08 |
 | 52 | [Save Your Tears](https://open.spotify.com/track/0dU5cOJuh58MubdzWU8Eqm) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Save Your Tears](https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei) | 2:22 |
 | 53 | [Say It Right](https://open.spotify.com/track/5NdfgJ9wxSdsQf7YJOPIg5) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [INDUSTRY BABY](https://open.spotify.com/album/4aUWDI0XA6M75Yfu3LD7tr) | 2:30 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 64 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5NP4t2zPbqoOzeNDZWmE8U) | [Blake Wright](https://open.spotify.com/artist/3xmWhMwY31kqIzejidLlt8) | [Have You Ever Seen The Rain](https://open.spotify.com/album/25SXr9Z24oTBxdcIksPefu) | 2:25 |
 | 65 | [Versace on the Floor](https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Versace on the Floor](https://open.spotify.com/album/63JIMLku6xRaZvkpUQTs4R) | 3:18 |
 | 66 | [I Will Always Love You](https://open.spotify.com/track/1xqVie2iDsSZe1ZtL3XiG8) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Will Always Love You](https://open.spotify.com/album/0UnnUPOlBJCA6rofllWdsw) | 2:08 |
-| 67 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/6JAvfB7kCWRrbVRPNvahKS) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 |
+| 67 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 |
 | 68 | [Memory](https://open.spotify.com/track/39NCTTGsonWEzH0UjuYQsx) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Memory](https://open.spotify.com/album/3HOiwKAEH7XRZQThMUm6yZ) | 3:43 |
 | 69 | [The Rose](https://open.spotify.com/track/5qSl1ycvNC62IAa9CXWcKC) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [The Rose](https://open.spotify.com/album/1Z8aje0QPSztIonhoIhPeN) | 2:53 |
 | 70 | [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 |

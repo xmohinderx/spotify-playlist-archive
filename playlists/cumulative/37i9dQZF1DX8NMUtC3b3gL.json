@@ -3090,6 +3090,24 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0Fl6lilEEvNOIa9sBvfDZv"
+      },
+      "artists": [
+        {
+          "name": "AMV",
+          "url": "https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "One",
+      "url": "https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM"
+    },
+    {
+      "album": {
         "name": "Other Way Around",
         "url": "https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t"
       },

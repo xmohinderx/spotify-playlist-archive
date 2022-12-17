@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-169 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+174 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Quiet Moment](https://open.spotify.com/track/3X8JVsDjjOCh40bJzon4pF) | [John Hanks](https://open.spotify.com/artist/3MN3dRQvZWIRj0wTpY5QnY) | [A Quiet Moment](https://open.spotify.com/album/1aQ5xXhIPOKwsyi03Q5LkP) | 2:48 | 2022-12-09 |  |
 | [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/track/34UvnbEnip6vYcw5cFBL1b) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/album/3flhd8RWYlUoPWE6w7pPg3) | 2:38 | 2022-09-23 |  |
 | [Achernar](https://open.spotify.com/track/4DQ6sxGcPuxSK8OXHj9XGG) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Achernar](https://open.spotify.com/album/3gOzubq8SyEtBXXwv92594) | 2:22 | 2021-12-09 |  |
+| [Aime\-moi](https://open.spotify.com/track/5iI350s8GGBvluinhZoxgK) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Langue d'amour](https://open.spotify.com/album/5eGWf5z5kCZ8LL6KHEoer0) | 2:26 | 2022-12-16 |  |
 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 | 2022-07-01 |  |
 | [AM](https://open.spotify.com/track/3LeQBzk5JpoUJbQ6p2WQEJ) | [Daniela Rusinda](https://open.spotify.com/artist/1OAU4WkqW7J1JtssReHRd0) | [AM](https://open.spotify.com/album/6f5nSiGBUmjnFs12rMVbCy) | 1:49 | 2022-12-09 |  |
 | [Amalie](https://open.spotify.com/track/4tBduWZZ2toaLm1rfJ4Ju0) | [Lane Westland](https://open.spotify.com/artist/2SQWcfUh4dpLWj5J72YdAH) | [Amalie](https://open.spotify.com/album/0uK2lE2FMY1FK0nTHXoLXe) | 3:13 | 2021-12-09 |  |
@@ -76,6 +77,7 @@
 | [I Found You](https://open.spotify.com/track/53hH9eXghbc7lbmGdfylX2) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:42 | 2021-12-09 |  |
 | [Ianthe](https://open.spotify.com/track/2ceHVcgNFK0mOTobgkfcKq) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Ianthe](https://open.spotify.com/album/6nj0buHhm6cNARNGzSlDeZ) | 2:07 | 2021-12-09 |  |
 | [In Between The Stars](https://open.spotify.com/track/4MIvfDDAclYoXXU90n2GpM) | [Sam Edwards](https://open.spotify.com/artist/4LPoFO74bCM3VqcLryqJqZ) | [Midnight Sailing](https://open.spotify.com/album/4ejMJnt2AlXecOgoV5aGaI) | 3:19 | 2021-12-09 |  |
+| [Inno](https://open.spotify.com/track/2exAKnDc96TYgcySwQe5lY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Inno](https://open.spotify.com/album/6o8hZNZB0cQKkIqobZWutg) | 2:05 | 2022-12-16 |  |
 | [Into The Blue](https://open.spotify.com/track/6Lar44lBB2POrKh3B58qXl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Into The Blue](https://open.spotify.com/album/7xjfyKbOPYJeLgCQ2LGTy0) | 3:56 | 2022-10-07 |  |
 | [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2022-09-16 |  |
 | [Kinderszenen, Op\. 15: No\. 7, Träumerei \(Arr\. for Guitar Solo\)](https://open.spotify.com/track/1JiY9LLalnplQAxweTXTUt) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Luise Walker](https://open.spotify.com/artist/3AYcgtMYsOooZwBF6vI4XI) | [Segovia & Contemporaries, Vol\. 3: Luise Walker](https://open.spotify.com/album/2O9whRvwQ5Mdq0T3q2lMP3) | 2:51 | 2021-12-09 |  |
@@ -122,6 +124,7 @@
 | [Plaisir](https://open.spotify.com/track/5st9nAlvjp9bd7MUq9tidJ) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Plaisir](https://open.spotify.com/album/4WpSzztK6nez8yWy6oKHXo) | 3:04 | 2021-12-09 |  |
 | [Porchside Wheat](https://open.spotify.com/track/3OdREuHZmpOwvxR4JTABhs) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:05 | 2021-12-09 |  |
 | [Quiet State](https://open.spotify.com/track/6ImUVu7qQW4O6t2EhdT7A9) | [Cindy Woon](https://open.spotify.com/artist/312AU52NUfI9iTdzynazpN) | [Quiet State](https://open.spotify.com/album/6pMPbS5MOWvNJD2swGQYmQ) | 2:46 | 2022-10-14 |  |
+| [Raconteur](https://open.spotify.com/track/7qzfZetxTQEZlFi3QB7zHx) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Raconteur](https://open.spotify.com/album/6zJrL7ptspQXKC1CaBkVBV) | 2:15 | 2022-12-16 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-22 |  |
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2022-09-16 |  |
 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 | 2022-12-09 |  |
@@ -143,6 +146,7 @@
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 |  |
 | [Sol está se pondo](https://open.spotify.com/track/4svcQB6U0H6ECujHIafvwV) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Sol está se pondo](https://open.spotify.com/album/7yE3u8mjqgn2Qt6azXlnyU) | 2:43 | 2021-12-09 |  |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-02-22 |  |
+| [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 |  |
 | [Spero che](https://open.spotify.com/track/0SUcBNwJKYkO3dl2srkRb0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Spero che](https://open.spotify.com/album/44uH8HctclTwCeicZJGZqT) | 2:17 | 2021-12-09 | 2022-05-27 |
 | [Star light, Star Bright](https://open.spotify.com/track/3KNTLFza8pBNlWGrJ8UhrW) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Star light, Star Bright](https://open.spotify.com/album/6HKVpUdjXbjEA86lsiYHgG) | 1:38 | 2022-10-07 |  |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2021-12-09 |  |
@@ -162,6 +166,7 @@
 | [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 | 2022-06-10 |  |
 | [Traveling Memories](https://open.spotify.com/track/3LnTONDMXfR3DW2hiWuQy8) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Traveling Memories](https://open.spotify.com/album/1QExmNDBcvbcE2LFytL2vp) | 2:21 | 2022-10-28 |  |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2021-12-09 |  |
+| [Undisclosed](https://open.spotify.com/track/4dhFpcYkC1ZPoWOZk8vibv) | [Cécile Rose](https://open.spotify.com/artist/2j8mNHrkExvwIQGsEdsTcP) | [Undisclosed](https://open.spotify.com/album/5aEic1eQ20DIc4ZJ9QyA6U) | 2:09 | 2022-12-16 |  |
 | [Une Nuit](https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Une Nuit](https://open.spotify.com/album/0a8HzDay7HoUoQ4TCCIis2) | 2:15 | 2021-12-09 |  |
 | [Unelaul Mina Ei Taha Veel Magama Jääda](https://open.spotify.com/track/76L57RAbQpGIva8HavRLwn) | [Boris Björn Bagger](https://open.spotify.com/artist/7p2K7MlnXg0k9v9yxxuf06), [Valdo Preema](https://open.spotify.com/artist/5dEsSEyudgCCppMdKmMyh5) | [German And Estonian Lullaby With Guitar](https://open.spotify.com/album/5UqSD5ONEAZTBdRoQhefJo) | 2:00 | 2021-12-09 | 2022-09-17 |
 | [Unsung Heroes](https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:29 | 2022-01-06 |  |

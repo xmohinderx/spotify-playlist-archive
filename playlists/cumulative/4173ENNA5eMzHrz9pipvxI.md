@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x Tungevaag
 
-451 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/5y4MrJJ7gKnIUTSID8FBc6)
+452 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/5y4MrJJ7gKnIUTSID8FBc6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [YOU](https://open.spotify.com/track/6HJ4OjaIGlqvemigb7WzBF) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [YOU](https://open.spotify.com/album/2uvFX9ZjatLh7a53xiJAPm) | 2:55 | 2022-06-03 | 2022-06-20 |
 | [YOU \- Remix](https://open.spotify.com/track/0R9CSoQix3XaF5bI3LBzww) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [YOU \(Remix\)](https://open.spotify.com/album/4HKeYtrdKrNGP11feqUCOZ) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [You And Me](https://open.spotify.com/track/16DVBIrhbbmFi5Mj56sLIe) | [Capsm](https://open.spotify.com/artist/1ye1tViQhcSJN3j7Z5gdsU) | [You And Me](https://open.spotify.com/album/7qHQRUBuyy6BDDsvCXld3D) | 3:43 | 2022-06-24 | 2022-07-09 |
+| [You Are](https://open.spotify.com/track/3smSBKf1rot6aY2ScAMO8p) | [Lost Capital](https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t) | [Overture EP](https://open.spotify.com/album/0fA7O4H8tEI6NBk4U9jqsm) | 2:23 | 2022-12-16 |  |
 | [You Are A Danger](https://open.spotify.com/track/34bDBmzjRFp687olZS62CT) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [You Are A Danger](https://open.spotify.com/album/7K7g0WcV5RkxUqqYjteIZ1) | 2:28 | 2022-11-10 | 2022-11-25 |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2022-11-03 | 2022-11-18 |
 | [You're Makin Me High](https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ) | [Hi\_Tack](https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN) | [You're Makin Me High](https://open.spotify.com/album/1FbZJC14ukWYQcPGo6zggH) | 2:27 | 2022-12-08 |  |

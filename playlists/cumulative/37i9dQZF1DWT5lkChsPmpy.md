@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-386 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+391 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [aggree](https://open.spotify.com/track/4rQgDw1uftoyO3PgLvjx4T) | [rippie](https://open.spotify.com/artist/0q6Ld7B12mIn5K0MbMVaGB) | [aggree](https://open.spotify.com/album/5DlVIjWnvZOOETUwWT0x1a) | 3:10 | 2022-01-21 |  |
 | [Agoura Eyes](https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [Agoura Eyes](https://open.spotify.com/album/6NTIOA7EHjs7tS3s88P28N) | 2:24 | 2021-11-10 | 2022-07-08 |
 | [Alana Kane](https://open.spotify.com/track/3ppjtvIsZZKhpqE9Kum87O) | [Sepia Tapes](https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT) | [Alana Kane](https://open.spotify.com/album/1tsjznN93sGCO8veCY0GC7) | 1:55 | 2022-05-27 |  |
+| [All In](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [All In](https://open.spotify.com/album/0ypQJe3UArCxJJKP1DJWw8) | 2:37 | 2022-12-16 |  |
 | [altitude](https://open.spotify.com/track/1KZmXcYMuLJgYV9uCbu04D) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [altitude](https://open.spotify.com/album/7GEhaT2jgkwaE5TrAGw13P) | 2:41 | 2021-11-10 |  |
 | [Altitude](https://open.spotify.com/track/1vcSv84ppGJDv6AffZrlB3) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [Altitude](https://open.spotify.com/album/17UfAnbulhLcf2U8v9FnFn) | 2:03 | 2021-11-10 | 2022-07-08 |
 | [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 |  |
@@ -69,6 +70,7 @@
 | [Close to midnight](https://open.spotify.com/track/5ZBYK7vXdvFd5X6w0nluhm) | [Here we go!](https://open.spotify.com/artist/58X3mn1Nur7Oo4XHdCYHnl) | [Close to midnight](https://open.spotify.com/album/70ck39951swMtuiMKl0bU8) | 2:53 | 2022-11-25 |  |
 | [cloud bumps](https://open.spotify.com/track/1s5yO4enHGKAaAuPueXlnn) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [fly high](https://open.spotify.com/album/4x0gUzqPNnLH64bLBMrxlL) | 1:23 | 2021-11-10 | 2022-07-08 |
 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 2:26 | 2022-01-21 |  |
+| [Coloring Book](https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Coloring Book](https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL) | 2:51 | 2022-12-16 |  |
 | [Como Un Oceano](https://open.spotify.com/track/6xuakrOBMFZcPf3z6jnox0) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Todo Es Lo Que Parece](https://open.spotify.com/album/4MlUv21lIHvgXzpg5vPNNz) | 4:05 | 2021-11-10 | 2022-05-20 |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-10 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-10 | 2022-02-11 |
@@ -91,6 +93,7 @@
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-11-10 | 2022-09-02 |
 | [Drive So Well](https://open.spotify.com/track/2vde9odrAwABY7w6IAzCFB) | [Kirsi Aimée](https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j) | [Drive So Well](https://open.spotify.com/album/5Rfo2PeHtIHzVs8eP9v5RX) | 2:38 | 2022-05-10 |  |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-07-08 |
+| [Earlybird](https://open.spotify.com/track/2BdKiwPRV6UbxAwdqS8iDA) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Glad U Made It](https://open.spotify.com/album/2mXDLDMuVrcnD2OyAvoLL3) | 2:12 | 2022-12-16 |  |
 | [Earth Echos](https://open.spotify.com/track/5jymR5eXOTcIieZenxJwCX) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 2:52 | 2021-11-10 | 2022-05-20 |
 | [Easter 21](https://open.spotify.com/track/7JXtkW4LnNqPkTCULCm1bk) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Easter 21](https://open.spotify.com/album/3agydje4ZdZuBpYu8WBYQb) | 3:50 | 2021-11-10 | 2022-06-03 |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2021-11-10 |  |
@@ -111,6 +114,7 @@
 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 | 2022-05-10 |  |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2021-11-10 |  |
 | [Fika](https://open.spotify.com/track/32gy3AZgAjxHUUpVzA42YD) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Fika](https://open.spotify.com/album/3URxwmB9mC3IaONUtIEhvW) | 1:51 | 2022-07-22 |  |
+| [Finding Answers](https://open.spotify.com/track/1K1Hl2R6gOTZBfx6vAc2bE) | [Kenobig](https://open.spotify.com/artist/1YKfjPgzeaza19zUC9ZZAp) | [Finding Answers](https://open.spotify.com/album/2PQL43GznawqJyn1xIOZhg) | 2:12 | 2022-12-16 |  |
 | [Firmament](https://open.spotify.com/track/31lD6OHrwsSOZH3oF3ne8w) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Firmament](https://open.spotify.com/album/5vjxVDeK0l4N7Driu78gGg) | 2:16 | 2021-11-10 |  |
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-10 | 2022-09-24 |
 | [Flashlights Under A Blanket](https://open.spotify.com/track/1G1kr7sfoOdGIN5tihDans) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Course Correction](https://open.spotify.com/album/2laHbGZd6kNRvEyA5RTfBt) | 4:00 | 2022-06-10 |  |
@@ -310,6 +314,7 @@
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2021-11-10 |  |
 | [Shaving My Soul](https://open.spotify.com/track/0ws1igakuG95McJdPvWh2Z) | [Commie Banana](https://open.spotify.com/artist/6j5kIcreX87MxiG6GyCV5Y) | [Shaving My Soul](https://open.spotify.com/album/1IWx9i8ikU7jDl1FPeamAQ) | 2:36 | 2022-10-07 |  |
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Sangri](https://open.spotify.com/artist/4skJuoz124HZj4oIRJi8s1) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-01-21 |  |
+| [sky high](https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [sky high](https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi) | 2:13 | 2022-12-16 |  |
 | [sleeping bird](https://open.spotify.com/track/4zH9TP3m7xkfltbL3Vlaix) | [Whatevr.](https://open.spotify.com/artist/2GwB8DnTnNMofcrjLo2Fd7), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [sleeping bird](https://open.spotify.com/album/3DbVYCIBprAMxZAXQ3HPB5) | 1:45 | 2022-05-10 |  |
 | [Sleepy](https://open.spotify.com/track/72lefppJV4GNMzknCilJzd) | [BoW](https://open.spotify.com/artist/0UYWqGl6QTZCJizQty7kFI) | [Night Sky](https://open.spotify.com/album/63ysIA8671nsKzVD90fFwa) | 2:01 | 2022-01-21 |  |
 | [slidetrue](https://open.spotify.com/track/6cCO2dCy6CHt4III6cGep8) | [slidetrue](https://open.spotify.com/artist/4Oq8o8jhgkLjQ9NucCooSY) | [slidetrue](https://open.spotify.com/album/1AAdHgpindiS49ByNr2Js4) | 2:08 | 2022-10-07 |  |

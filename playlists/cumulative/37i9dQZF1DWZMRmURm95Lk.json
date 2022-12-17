@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. In cover, Inoki e DJ Shocca.",
+  "description": "Beat e rime, oggi come una volta. In cover, Mezzosangue.",
   "name": "Radici Hip Hop",
   "published_playlist_ids": [
     "4N3m0KkyvafB7QizhgRop2"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187000,
       "name": "Carattere",
       "url": "https://open.spotify.com/track/1fjTchtUOqEz2PhBqgLH5p"
@@ -2664,6 +2664,32 @@
     },
     {
       "album": {
+        "name": "Barre Mellow Vol.2",
+        "url": "https://open.spotify.com/album/1SFesoZhv1xT3aFM5u1Bra"
+      },
+      "artists": [
+        {
+          "name": "Halba x Foldino",
+          "url": "https://open.spotify.com/artist/4RFIOsKA6DuzE9DGGOHjPT"
+        },
+        {
+          "name": "ydn",
+          "url": "https://open.spotify.com/artist/4JcvyNRNODMozJnJTomJds"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "MELLOW 7",
+      "url": "https://open.spotify.com/track/1KydqUX6nzGm67LWgLbYRa"
+    },
+    {
+      "album": {
         "name": "Metaforico Malinconico (Reloaded Version)",
         "url": "https://open.spotify.com/album/6FuHAsN91MaZhifyoJITd8"
       },
@@ -4632,6 +4658,24 @@
     },
     {
       "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
+    },
+    {
+      "album": {
         "name": "Sound Fi Dead",
         "url": "https://open.spotify.com/album/4aw0V9iSboXwBVPKkwWjAT"
       },
@@ -4743,7 +4787,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 178555,
       "name": "Stai Con Me",
       "url": "https://open.spotify.com/track/7KaOCxetm1UhJP0bPZrZuz"

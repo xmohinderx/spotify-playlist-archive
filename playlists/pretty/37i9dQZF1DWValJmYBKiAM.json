@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 70258,
+  "num_followers": 70469,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDEyNSwwMDAwMDAwMDRiOWNlMjNkNDU2NjZkMjZhZTg4ZWE5YjE4MDJkNjc4",
+  "snapshot_id": "MTY2MTkzMDEyNSwwMDAwMDAwMDFiMjU4OTdjMWI2OWQ5MjA4ZTg0MDk0ODgzYTAyOTIw",
   "tracks": [
     {
       "added_at": "2022-08-31 07:15:25",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Estrella De Mar",
-        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
+        "name": "Paraiso Express",
+        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
       },
       "artists": [
         {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 268706,
-      "name": "Sin ti no soy nada",
-      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
+      "duration_ms": 270626,
+      "name": "Looking for Paradise (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/02f5iKhfXVvCWK641es1sT"
     },
     {
       "added_at": "2022-08-31 07:15:25",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Paraiso Express",
-        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
+        "name": "Estrella De Mar",
+        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
         }
       ],
-      "duration_ms": 270626,
-      "name": "Looking for Paradise (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/02f5iKhfXVvCWK641es1sT"
+      "duration_ms": 268706,
+      "name": "Sin ti no soy nada",
+      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
     },
     {
       "added_at": "2022-08-31 07:15:25",

@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-765 songs - 1 day 18 hr 31 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+767 songs - 1 day 18 hr 37 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Baby I'm A Queen](https://open.spotify.com/track/5DUj3FwWuczKwsNAU8lgvE) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:28 | 2021-03-14 | 2022-02-24 |
 | [Back at It](https://open.spotify.com/track/0OlQMvxRLJD1WXKIvV9GnV) | [Sky Katz](https://open.spotify.com/artist/2hXnTRT96JHAzENar0pxqc) | [Back at It](https://open.spotify.com/album/0BJQ5Rrfnj0l5Af6C8U3si) | 2:27 | 2021-03-28 | 2021-03-29 |
 | [Back In A Minute](https://open.spotify.com/track/6FEZiDyB0HrrJYqAsu6gy1) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Madden NFL 22 Soundtrack](https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB) | 2:58 | 2021-08-21 | 2021-09-15 |
+| [Back One Day \(Outro Song\)](https://open.spotify.com/track/435BEnoOXQWHrgqSoMTxB3) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Back One Day \(Outro Song\)](https://open.spotify.com/album/2mSxv98lh6DFO01hyV3HpI) | 3:51 | 2022-12-16 |  |
 | [Back Room \(Inspired by Backrooms\)](https://open.spotify.com/track/3pl7n82OvbXlN9zSZB8Tg4) | [Rockit Music](https://open.spotify.com/artist/0pPN4tp51uXAhkDux1Mmn4) | [Back Room \(Inspired by Backrooms\)](https://open.spotify.com/album/0cDJ4C9rcW3lVAGyeslyvx) | 1:55 | 2022-05-11 |  |
 | [Backstage Pass \(with Monte Booker & The Drums\)](https://open.spotify.com/track/4LLNd36WeJKv8pzjGeoMXZ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Backstage Pass \(with Monte Booker & The Drums\)](https://open.spotify.com/album/4KOW0gXsh6Q736BgeF56hk) | 3:44 | 2021-03-14 | 2022-02-24 |
 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 | 2021-04-22 | 2021-10-22 |
@@ -181,6 +182,7 @@
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-22 | 2022-04-28 |
 | [Delicate Weapon](https://open.spotify.com/track/1hT3eaGzrcFriQtgGdvsZv) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Lizzy Wizzy](https://open.spotify.com/artist/4n2RbW3dIUzGI089lh9NI0) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 3:50 | 2021-03-14 | 2022-02-24 |
 | [Demba](https://open.spotify.com/track/38s6iiOu26spsFZKj8BtfM) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Trio Da Kali](https://open.spotify.com/artist/1DGgYTjkEw1sxzCBcXqZU5) | [Demba \(Demi Riquísimo Remix\)](https://open.spotify.com/album/2dShxi3GCpUejK51c8dIDE) | 5:09 | 2021-09-30 | 2021-10-22 |
+| [Demon \(featuring $NOT\)](https://open.spotify.com/track/6iHfCLrup2eZxt6nwB8e1W) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 1:39 | 2022-12-16 |  |
 | [Demons on the Side of My Bed](https://open.spotify.com/track/7gYh5gtrTe88mGvIieU1mk) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X) | [Demons on the Side of My Bed](https://open.spotify.com/album/4oyfZ3fSxDqc5co0TwIb9r) | 3:46 | 2022-05-18 |  |
 | [Diamonds](https://open.spotify.com/track/1Zcl82bovYTNH1MqUqrVDg) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Diamonds](https://open.spotify.com/album/3gq5k2ZsO0mTAdUAh45kW1) | 2:23 | 2021-03-15 | 2022-04-28 |
 | [Dies Mercurii I Martius \- From The Da Vinci Code Original Motion Picture Soundtrack](https://open.spotify.com/track/20Y9QaknVufH479KzfBhjS) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Da Vinci Code](https://open.spotify.com/album/4GuLx38y1727p45spIvslr) | 6:03 | 2021-02-26 | 2021-03-14 |

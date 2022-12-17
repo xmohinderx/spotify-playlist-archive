@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of hip hop tracks from South Asia this year\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,065 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,257 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 64 | [No Competition](https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq) | 3:25 |
 | 65 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 |
 | 66 | [Ek Din](https://open.spotify.com/track/3nOefpWyZos25ipFr6LCEK) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Ek Din](https://open.spotify.com/album/2wEgS4V318gie8SJW7knRr) | 4:49 |
-| 67 | [B.T Ho Gayi \- Live](https://open.spotify.com/track/11neroifiz5orlmJnMzR62) | [Mahbub Islam](https://open.spotify.com/artist/0LJsq2Wm3kpcUF6qjT4Q39) | [Favorite](https://open.spotify.com/album/1Ejk1cEJjtUK2bu8S3zgJk) | 2:45 |
+| 67 | [Bt Ho Gayi](https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/0eNoZ7pnoeiq2iF7scY3ss) | 2:40 |
 | 68 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 |
 | 69 | [Fix This](https://open.spotify.com/track/3HwZafzsuTf6WBV5baRepy) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Raashi Sood](https://open.spotify.com/artist/0nAT97A2gug1XT5Foj19o6) | [Fix This](https://open.spotify.com/album/4jl0IwqeimRcFpCpPQfBmx) | 3:32 |
 | 70 | [Same Beef](https://open.spotify.com/track/65c6VCikt7f5sAS1heoYQC) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Same Beef](https://open.spotify.com/album/31psNfWEweb2avBzLNiTZk) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 99 | [Kohra](https://open.spotify.com/track/1HDjK8sD9zQsdBX3xnqFLJ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Nayaab](https://open.spotify.com/album/5bRRzI1xuiNAAjdSCg5bnO) | 4:06 |
 | 100 | [Rozi](https://open.spotify.com/track/2MKceKWilgjYW6lgVYyAOr) | [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO) | [Rozi](https://open.spotify.com/album/3b4JTQX4pQh7tSY1qgjUBq) | 2:26 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGQxZGU5ZWQwNDM0MTBiNmY4Mjc1MjI2MjEzOWU1M2Jl`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDZlOWRmM2E1YjBkMjMzNjY1MGFlMGQ5YWExZmRmMjhk`

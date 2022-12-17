@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-774 songs - 2 day 7 hr 26 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+775 songs - 2 day 7 hr 29 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Grief](https://open.spotify.com/track/6vcNAgy8A8DOGBIOMePH7k) | [Legendcast](https://open.spotify.com/artist/2aodzfnGspj2pSEq7Au1Q0) | [Grief](https://open.spotify.com/album/0at2DsDyeNpxVIUykBs879) | 2:55 | 2019-06-19\* | 2020-10-21 |
 | [Grieg: Peer Gynt \(Death Of Aase\) \- Solomon Grey's Paradise Lost Rework](https://open.spotify.com/track/4HK3N5xqVguP5Sk583EazM) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [National Philharmonic Orchestra](https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd), [Willi Boskovsky](https://open.spotify.com/artist/0KE7MPlNGYZugOqQngcqQV), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [re:works](https://open.spotify.com/album/2hfzcziOuaZXs4H3gZSbRv) | 4:07 | 2019-06-23 | 2020-08-26 |
 | [Guerilla Project](https://open.spotify.com/track/4tzSk097iBjarEFpA8Z8vz) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [Fortress](https://open.spotify.com/album/5PTWIBYDbND050i40YfEHF) | 3:36 | 2019-06-19\* | 2020-10-19 |
-| [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 |  |
+| [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 | 2022-12-17 |
 | [Hanging D \- Max Cooper Remix](https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Hanging D \(Max Cooper Remix\)](https://open.spotify.com/album/1yEeSe2Y3oe91BN2rhWR48) | 5:05 | 2021-07-23 | 2022-07-27 |
 | [Harbour \- Original Mix](https://open.spotify.com/track/2eJTBg24OcjIQbld3libGX) | [Soundprank](https://open.spotify.com/artist/4axjIl2fLU1xnDsC1NB3yI) | [Anjunabeats Chilled Summer](https://open.spotify.com/album/51NvhDH0FMdDqhTtBPhJ02) | 5:08 | 2019-06-22 | 2022-04-20 |
 | [Haul \(Max Cooper Remix\)](https://open.spotify.com/track/6WXXOjaynxjyiyXwD6Wh2g) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 7:15 | 2019-06-19\* | 2022-04-18 |
@@ -487,6 +487,7 @@
 | [On Deck](https://open.spotify.com/track/7hNWjvl7amThfh2uiZjoOa) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:35 | 2021-04-27 | 2022-04-19 |
 | [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 | 2020-04-23 |  |
 | [One Step Forward](https://open.spotify.com/track/0rIzxXL4cQzPBFtF2NsOSI) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust in Me \- EP](https://open.spotify.com/album/0f8vVaVqgqyVnzeB4m67R0) | 3:19 | 2019-06-19\* | 2022-04-21 |
+| [One Step Forward](https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust In Me](https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA) | 3:19 | 2022-09-09 |  |
 | [Only In My Dreams](https://open.spotify.com/track/3ob0c8nlB7C6HdfEQLhdV4) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [PATH.FINDER](https://open.spotify.com/album/5wUNp46OQcNgYbjXSNYjYy) | 4:42 | 2019-06-19\* | 2020-10-22 |
 | [Open](https://open.spotify.com/track/2rExrHfNjFgSuAZnrcuCqL) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Café del Mar ChillWave 3](https://open.spotify.com/album/1DdsNCQ32Zoc8RtYB3sdPq) | 4:24 | 2019-06-19 | 2020-10-22 |
 | [Open Doors](https://open.spotify.com/track/7q42RrxgVbwqHrFUIj6w4E) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Inhibited LP](https://open.spotify.com/album/0WXEIsq4MYVxkK7Ap3YIfM) | 3:23 | 2020-08-26 | 2022-04-20 |

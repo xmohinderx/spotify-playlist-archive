@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "61 South",
+        "url": "https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80976,
+      "name": "61 South",
+      "url": "https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA"
+    },
+    {
+      "album": {
         "name": "Age of a Man",
         "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
       },
@@ -2733,7 +2751,7 @@
           "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
         }
       ],
-      "date_added": "2022-12-10",
+      "date_added": "2022-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179717,
@@ -4183,7 +4201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 232600,
       "name": "What Did I Do",
       "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"

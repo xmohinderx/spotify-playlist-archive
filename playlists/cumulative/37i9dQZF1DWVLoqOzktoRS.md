@@ -4,7 +4,7 @@
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 
-92 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1RgBFdIwebWb1x2uWs7aGx)
+93 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/1RgBFdIwebWb1x2uWs7aGx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Los abrazos rotos \(From "Los abrazos rotos"\)](https://open.spotify.com/track/2WU9CCpOZPLXGcGyHeaiXs) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Pedro Almodóvar & Alberto Iglesias Film Music Collection](https://open.spotify.com/album/62fhhQD67rCCE9AVZg6eqJ) | 3:00 | 2022-07-26 |  |
 | [Los Ríos de Alice](https://open.spotify.com/track/5gAxyJT89hHM1DRdbD2sd0) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:28 | 2022-07-26 |  |
 | [Los Ríos de Alice](https://open.spotify.com/track/6Q7dyS0dLXNHaBj2esXTi6) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/6C7Q2J5RKfLqcxmzzILwoN) | 2:28 | 2022-01-01 | 2022-07-29 |
-| [Love Theme](https://open.spotify.com/track/2r7RDlZD4Zpyt5iUCLp2fF) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Tony Morales](https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj) | [Hatfields & McCoys \(Soundtrack from the Mini Series\)](https://open.spotify.com/album/5BCt6xZhTH1M7F2Q88X71s) | 2:55 | 2022-07-26 |  |
+| [Love Theme](https://open.spotify.com/track/2r7RDlZD4Zpyt5iUCLp2fF) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Tony Morales](https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj) | [Hatfields & McCoys \(Soundtrack from the Mini Series\)](https://open.spotify.com/album/5BCt6xZhTH1M7F2Q88X71s) | 2:55 | 2022-07-26 | 2022-12-17 |
 | [Love Theme](https://open.spotify.com/track/6VByPbxqPFtxFrhfLJQLh9) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Tony Morales](https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj) | [Hatfields & McCoys \(Soundtrack from the Mini Series\)](https://open.spotify.com/album/37hO4p1ydB2AzfWi6bP6Kg) | 2:55 | 2022-01-01 | 2022-07-29 |
+| [Love Theme](https://open.spotify.com/track/1doPy3bX81PTHcfujT1nyS) | [Tony Morales](https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj), [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hatfields & McCoys \(Soundtrack from the Mini Series\)](https://open.spotify.com/album/2f8WUz32TdEglQiy2cm12Z) | 2:55 | 2022-08-31 |  |
 | [Love Theme \(from "Romeo and Juliet"\)](https://open.spotify.com/track/0ntuV7nRcyEH9tigFIV0du) | [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC) | [At the Movies](https://open.spotify.com/album/6gaiQ9lS2tcaVcs6JRNtu1) | 3:44 | 2022-01-01 | 2022-07-29 |
 | [Love Theme \(from "Romeo and Juliet"\)](https://open.spotify.com/track/29lZKytTb56zzAwryJ3X38) | [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC) | [At the Movies](https://open.spotify.com/album/2R6mVyFgaSvQXO4IrWs3Id) | 3:44 | 2022-07-26 |  |
 | [Love Theme \- From "Romeo And Juliet"](https://open.spotify.com/track/2NxpOGLU5LBnBMAXrktQiD) | [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT) | [Coastal Grandma](https://open.spotify.com/album/77plCf7jVtTFe7jaHbPwVn) | 3:48 | 2022-08-31 | 2022-11-14 |

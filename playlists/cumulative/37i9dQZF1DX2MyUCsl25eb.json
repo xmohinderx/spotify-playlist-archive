@@ -372,6 +372,32 @@
     },
     {
       "album": {
+        "name": "All That's Left Of Me Is You",
+        "url": "https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172607,
+      "name": "All That's Left Of Me Is You",
+      "url": "https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8"
+    },
+    {
+      "album": {
         "name": "Caamp",
         "url": "https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr"
       },
@@ -509,7 +535,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 189453,
       "name": "Aren't You Tired (La Di Da)",
       "url": "https://open.spotify.com/track/6GPy7ZN7SGEtMG3sM3uCpP"
@@ -1469,7 +1495,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 158048,
       "name": "Clear",
       "url": "https://open.spotify.com/track/4sHqUPk9CFg2LkA1nmO1Ld"
@@ -3167,6 +3193,28 @@
       "duration_ms": 243186,
       "name": "Happy & Sad",
       "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
+    },
+    {
+      "album": {
+        "name": "Happy New Year",
+        "url": "https://open.spotify.com/album/3EYSRZ16OqZaxApUWmKOAP"
+      },
+      "artists": [
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        },
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197570,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/5pylf1BFd80ENsoxC0k8g3"
     },
     {
       "album": {
@@ -4977,7 +5025,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 139200,
       "name": "Love Me Like That",
       "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
@@ -7316,6 +7364,24 @@
     },
     {
       "album": {
+        "name": "Stop Calling Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3LjvPIqQWjsjFGagHTJnrv"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Stop Calling Me (Acoustic)",
+      "url": "https://open.spotify.com/track/0ouUnebxKTVkoQMBGY3YZp"
+    },
+    {
+      "album": {
         "name": "Stress",
         "url": "https://open.spotify.com/album/1mdnprnLWWjBe0KFXtphRK"
       },
@@ -7845,6 +7911,24 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "album": {
+        "name": "This Is Going To Be The Year",
+        "url": "https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252507,
+      "name": "This Is Going To Be The Year",
+      "url": "https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv"
     },
     {
       "album": {
@@ -8483,7 +8567,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 207772,
       "name": "When Ur Mad",
       "url": "https://open.spotify.com/track/3TRmdYcOKFEmTWeJJKiatY"
@@ -8679,7 +8763,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 195541,
       "name": "Won't Be Long Now",
       "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
@@ -8831,6 +8915,24 @@
       "duration_ms": 224063,
       "name": "You And I",
       "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
+    },
+    {
+      "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165835,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
     },
     {
       "album": {

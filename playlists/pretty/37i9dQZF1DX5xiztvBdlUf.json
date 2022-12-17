@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 541931,
+  "num_followers": 542122,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMGE3YzNiMjU0NzJkZDM5YmM5YjY0Y2ExZWFmMGJmNTNm",
+  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMGIzODI3YTk3NTkwZWEwNmU1MWMxZDk2MjYyZWRjMmVj",
   "tracks": [
     {
       "added_at": "2022-11-25 13:06:12",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "La Perla (Tourist Remix)",
-        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 317003,
-      "name": "La Perla - Tourist Remix",
-      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "La Perla (Tourist Remix)",
+        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 317003,
+      "name": "La Perla - Tourist Remix",
+      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Like A Friend",
+        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Like A Friend - Radio Edit",
+      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 298335,
       "name": "Cenote",
       "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Like A Friend",
-        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "Like A Friend - Radio Edit",
-      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Petit Matin",
+        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 447066,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Petit Matin",
-        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 447066,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "If We Only Had",
-        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "If We Only Had",
-      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Body Language, Vol. 24",
         "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "If We Only Had",
+        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "If We Only Had",
+      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Future Disco: Poolside Sounds Vol. 10",
-        "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
-      },
-      "artists": [
-        {
-          "name": "Midnight Sky",
-          "url": "https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "All That Glitters",
-      "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Kilian",
         "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 420115,
       "name": "Kilian",
       "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Future Disco: Poolside Sounds Vol. 10",
+        "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
+      },
+      "artists": [
+        {
+          "name": "Midnight Sky",
+          "url": "https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1047,6 +1047,22 @@
       "duration_ms": 362928,
       "name": "Love Language - Imad Remix",
       "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1083,22 +1099,6 @@
       "duration_ms": 214591,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 420272,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 241010,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Made of Wood Remixed",
         "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
       },
@@ -1255,18 +1235,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
-        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
       },
       "artists": [
         {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 446079,
-      "name": "ut i rommet",
-      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+      "duration_ms": 241010,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1283,6 +1267,22 @@
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "10 Years From Now / Collide",
-        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
-      },
-      "artists": [
-        {
-          "name": "PARIS",
-          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
-        },
-        {
-          "name": "Kaleida",
-          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
-        }
-      ],
-      "duration_ms": 275369,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Sun Salutations EP",
         "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
       },
@@ -1359,22 +1339,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
+        "name": "10 Years From Now / Collide",
+        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
       },
       "artists": [
         {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+          "name": "PARIS",
+          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
         },
         {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+          "name": "Kaleida",
+          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Through The Night - Radio Edit",
-      "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
+      "duration_ms": 275369,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1403,18 +1383,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "I Care For You",
-        "url": "https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT"
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
       },
       "artists": [
         {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
         }
       ],
-      "duration_ms": 392000,
-      "name": "I Care For You",
-      "url": "https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt"
+      "duration_ms": 155720,
+      "name": "Through The Night - Radio Edit",
+      "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1439,22 +1423,34 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Morning Routine",
-        "url": "https://open.spotify.com/album/2tTjt2Q4yKad7J0I1GFI9W"
+        "name": "I Care For You",
+        "url": "https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT"
       },
       "artists": [
         {
-          "name": "Latteo",
-          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
-        },
-        {
-          "name": "D'aria",
-          "url": "https://open.spotify.com/artist/1jRvpCmyVWLXnwmDvI89Sp"
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
         }
       ],
-      "duration_ms": 455915,
-      "name": "Morning Routine",
-      "url": "https://open.spotify.com/track/1kaTtElKK0jIKTdwg9ASLp"
+      "duration_ms": 392000,
+      "name": "I Care For You",
+      "url": "https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+        "name": "Morning Routine",
+        "url": "https://open.spotify.com/album/2tTjt2Q4yKad7J0I1GFI9W"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Latteo",
+          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
+        },
+        {
+          "name": "D'aria",
+          "url": "https://open.spotify.com/artist/1jRvpCmyVWLXnwmDvI89Sp"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+      "duration_ms": 455915,
+      "name": "Morning Routine",
+      "url": "https://open.spotify.com/track/1kaTtElKK0jIKTdwg9ASLp"
     },
     {
       "added_at": "2022-11-25 13:06:12",

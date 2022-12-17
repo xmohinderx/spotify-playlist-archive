@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-177 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+178 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/03dcMWuT0HPsx4NJN4dZmg) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU) | 4:57 | 2022-02-23 | 2022-10-07 |
 | [Georgia On My Mind](https://open.spotify.com/track/5v5h0IdOAo0pK8a7i2esZG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7) | 3:43 | 2022-02-23 | 2022-07-29 |
 | [Georgia On My Mind](https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 3:43 | 2022-06-22 | 2022-08-31 |
+| [Groovin' High](https://open.spotify.com/track/1WJGwRV4Ij9StM8gXHMuWy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:23 | 2022-12-08 |  |
 | [Heartaches](https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:47 | 2022-02-23 |  |
 | [Hello, Young Lovers \- Remastered 2006](https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Another Workout](https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji) | 8:03 | 2022-09-15 |  |
 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 | 2022-02-23 |  |
@@ -120,7 +121,7 @@
 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 | 2022-02-23 |  |
 | [On the Sunny Side of the Street \- 2003 Remastered Version](https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 3:28 | 2022-02-23 | 2022-12-06 |
 | [Peace](https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Blowin' The Blues Away](https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc) | 6:02 | 2022-02-23 |  |
-| [Pepper Steak](https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 3:49 | 2022-02-23 |  |
+| [Pepper Steak](https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 3:49 | 2022-02-23 | 2022-12-17 |
 | [Peri's Scope](https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 3:15 | 2022-04-08 |  |
 | [Pick up Sticks](https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:16 | 2022-09-15 |  |
 | [Prophet Jennings \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 5:31 | 2022-02-23 | 2022-10-07 |

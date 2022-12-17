@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,258 likes - 102 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,294 likes - 102 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

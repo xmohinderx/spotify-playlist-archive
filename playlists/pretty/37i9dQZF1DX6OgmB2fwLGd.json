@@ -1,13 +1,97 @@
 {
-  "description": "The soundtrack to the internet. Cover: TiaCorine",
-  "num_followers": 1271079,
+  "description": "The soundtrack to the internet. Cover: Riovaz",
+  "num_followers": 1271550,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0NjU4NSwwMDAwMDAwMGUyZTUwNDAxMDcwMWViYjQ5MGYwNzFmODAxNTFkYTk2",
+  "snapshot_id": "MTY3MTIyNTc2MSwwMDAwMDAwMGNhN2Q1MzY1Zjk3OGUxZjEyYjczNjU1OWQ0ODE4NTJh",
   "tracks": [
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Tantrum (Pace Yourself)",
+        "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 123795,
+      "name": "Tantrum (Pace Yourself)",
+      "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
+    },
+    {
+      "added_at": "2022-10-18 15:56:06",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2022-11-21 20:50:38",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2022-12-13 15:48:23",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
+    },
     {
       "added_at": "2022-10-05 23:06:30",
       "album": {
@@ -33,52 +117,24 @@
       "url": "https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S"
     },
     {
-      "added_at": "2022-11-21 20:50:38",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+        "name": "DIRTIESTNASTIEST$UICIDE",
+        "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
       "artists": [
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 134322,
-      "name": "FreakyT",
-      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
-    },
-    {
-      "added_at": "2022-12-13 15:48:23",
-      "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
         }
       ],
-      "duration_ms": 150241,
-      "name": "Out th\u00eb way",
-      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
-    },
-    {
-      "added_at": "2022-10-18 15:56:06",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 145842,
+      "name": "I Dream of Chrome",
+      "url": "https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -97,6 +153,22 @@
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
+      "added_at": "2022-12-16 17:35:16",
+      "album": {
+        "name": "Fast & Furious: Drift Tape (Phonk Vol 1)",
+        "url": "https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 121763,
+      "name": "Press It",
+      "url": "https://open.spotify.com/track/3y71AHtNzmdBOLuUFz9buu"
+    },
+    {
       "added_at": "2022-11-15 16:13:36",
       "album": {
         "name": "ascend.mp3",
@@ -111,6 +183,22 @@
       "duration_ms": 256052,
       "name": "ascend.mp3",
       "url": "https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/4FYkhVaVxaarWtbpPX9Ske"
+      },
+      "artists": [
+        {
+          "name": "Montana99",
+          "url": "https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj"
+        }
+      ],
+      "duration_ms": 149563,
+      "name": "I Can't",
+      "url": "https://open.spotify.com/track/5jnyHKyzmQ5BvJjmPFfJ25"
     },
     {
       "added_at": "2022-10-14 05:22:00",
@@ -151,22 +239,6 @@
       "duration_ms": 256704,
       "name": "World Cup",
       "url": "https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e"
-    },
-    {
-      "added_at": "2022-12-13 15:49:44",
-      "album": {
-        "name": "#miles",
-        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 115138,
-      "name": "#miles",
-      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -267,6 +339,38 @@
       "duration_ms": 160007,
       "name": "NO SNITCHING (with Dusty Locane)",
       "url": "https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "wood tip",
+        "url": "https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw"
+      },
+      "artists": [
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "duration_ms": 169323,
+      "name": "triflin'",
+      "url": "https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "SISTER",
+        "url": "https://open.spotify.com/album/6KUJLBltg7mBCgrHxrrCIg"
+      },
+      "artists": [
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        }
+      ],
+      "duration_ms": 139717,
+      "name": "SISTER",
+      "url": "https://open.spotify.com/track/4P0tTboEco1lLH522iCvOh"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -427,6 +531,26 @@
       "duration_ms": 122984,
       "name": "The Nac",
       "url": "https://open.spotify.com/track/0igNAsdFbTS43cQLESHALC"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/6SXp7tyMpyK65xrmEq0g0y"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        },
+        {
+          "name": "TRAQULA",
+          "url": "https://open.spotify.com/artist/7ulnU80aA4UleNCZ95c4PE"
+        }
+      ],
+      "duration_ms": 146028,
+      "name": "Fuego - Remix",
+      "url": "https://open.spotify.com/track/5PSn6lZpITagw70YBnLpSZ"
     },
     {
       "added_at": "2022-10-11 14:15:39",
@@ -833,22 +957,6 @@
       "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "FAST TRAX 3",
-        "url": "https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq"
-      },
-      "artists": [
-        {
-          "name": "454",
-          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
-        }
-      ],
-      "duration_ms": 136267,
-      "name": "ICE AGE",
-      "url": "https://open.spotify.com/track/2YKh7Af4rxbr93AWpq7QP5"
-    },
-    {
       "added_at": "2022-07-26 13:35:30",
       "album": {
         "name": "DIE FOR MY BITCH",
@@ -983,30 +1091,6 @@
       "duration_ms": 90070,
       "name": "Floccer",
       "url": "https://open.spotify.com/track/7KOabkruJhAiQ85NUyooQt"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Dump It Dummy (feat. 2rare)",
-        "url": "https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt"
-      },
-      "artists": [
-        {
-          "name": "Zai1k",
-          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
-        },
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 208539,
-      "name": "Dump It Dummy (feat. 2rare)",
-      "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
     },
     {
       "added_at": "2022-08-12 18:54:23",
@@ -1381,22 +1465,6 @@
       "url": "https://open.spotify.com/track/1rlVac9TRr4f3b7GKHdhRh"
     },
     {
-      "added_at": "2022-09-23 08:48:00",
-      "album": {
-        "name": "HUNNED%",
-        "url": "https://open.spotify.com/album/68NIwBGOt3h86RyPQx6kLs"
-      },
-      "artists": [
-        {
-          "name": "Junoflo",
-          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "HUNNED%",
-      "url": "https://open.spotify.com/track/55FiPmCZvjWHzwIPiRUfMm"
-    },
-    {
       "added_at": "2022-08-31 03:13:09",
       "album": {
         "name": "Like Yay",
@@ -1517,22 +1585,6 @@
       "url": "https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW"
     },
     {
-      "added_at": "2022-08-13 02:05:47",
-      "album": {
-        "name": "Internet Shooter",
-        "url": "https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M"
-      },
-      "artists": [
-        {
-          "name": "Lil Seeto",
-          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
-        }
-      ],
-      "duration_ms": 117562,
-      "name": "Internet Shooter",
-      "url": "https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw"
-    },
-    {
       "added_at": "2022-09-21 13:04:00",
       "album": {
         "name": "Hop Out 2",
@@ -1605,34 +1657,6 @@
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Impostor Syndrome",
-        "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        },
-        {
-          "name": "Sam Truth",
-          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
-        },
-        {
-          "name": "Glen the Saiyan",
-          "url": "https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135"
-        },
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
-      "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
-    },
-    {
       "added_at": "2022-08-21 17:03:17",
       "album": {
         "name": "Delirious",
@@ -1651,22 +1675,6 @@
       "duration_ms": 242866,
       "name": "Delirious",
       "url": "https://open.spotify.com/track/0nH3kN1WXrbxZSptazFX1r"
-    },
-    {
-      "added_at": "2022-08-01 14:38:07",
-      "album": {
-        "name": "Why Is Everything Chrome (Lean Swag Rock Wit It)",
-        "url": "https://open.spotify.com/album/2ruzUHlCg7ethaa0uyik1l"
-      },
-      "artists": [
-        {
-          "name": "King Critical",
-          "url": "https://open.spotify.com/artist/2Kk6KjwTS9Q530Jmul6eHc"
-        }
-      ],
-      "duration_ms": 151017,
-      "name": "Why Is Everything Chrome (Lean Swag Rock Wit It)",
-      "url": "https://open.spotify.com/track/0wQL4dv6dQjuiGdmJIjRCu"
     },
     {
       "added_at": "2022-08-26 04:41:00",
@@ -1703,22 +1711,6 @@
       "duration_ms": 174545,
       "name": "SOFA",
       "url": "https://open.spotify.com/track/2FhswqpB97CDVIaHHfNUhW"
-    },
-    {
-      "added_at": "2022-08-06 19:56:42",
-      "album": {
-        "name": "BAGGY",
-        "url": "https://open.spotify.com/album/3T0PqUn2K6bykeuxoR2Wo3"
-      },
-      "artists": [
-        {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
-        }
-      ],
-      "duration_ms": 103993,
-      "name": "BAGGY",
-      "url": "https://open.spotify.com/track/5WCqx3pgABaG7EQgAXStSN"
     },
     {
       "added_at": "2022-07-01 09:18:00",

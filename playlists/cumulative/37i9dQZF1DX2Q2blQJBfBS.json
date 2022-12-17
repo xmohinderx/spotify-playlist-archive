@@ -3480,6 +3480,24 @@
     },
     {
       "album": {
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153886,
+      "name": "Here's Johnny",
+      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
+    },
+    {
+      "album": {
         "name": "Here's Johnny",
         "url": "https://open.spotify.com/album/3AbO3nnT7l8rL3DMqgQ8ga"
       },
@@ -3491,7 +3509,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 155295,
       "name": "Here's Johnny",
       "url": "https://open.spotify.com/track/67FR0DOmWxB3bzmrPq3vxJ"

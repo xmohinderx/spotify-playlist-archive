@@ -4,14 +4,15 @@
 
 > Lo mas pegao en Dembow\. <br/>Cover: Farina
 
-133 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
+134 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 | 2022-03-04 | 2022-09-15 |
 | [3730](https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP) | 2:17 | 2022-08-19 |  |
 | [4K](https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [4K](https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ) | 3:21 | 2021-11-19 | 2022-04-09 |
-| [A I O](https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM) | 2:58 | 2022-11-11 |  |
+| [A I O](https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3) | 2:58 | 2022-12-08 |  |
+| [A I O](https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM) | 2:58 | 2022-11-11 | 2022-12-17 |
 | [Acuetate](https://open.spotify.com/track/028MkfDdEe6uyIkuJVj0cb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Capitan Aloo](https://open.spotify.com/artist/6wR3Uihi08MTiX5QGK5d7k), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Acuetate](https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426) | 4:08 | 2021-11-19 |  |
 | [Ahi Si Si Si](https://open.spotify.com/track/5LHqFj9aWBKzffkzdx9EQK) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Ahi Si Si Si](https://open.spotify.com/album/66gzAm8UQoipNCmIbXbBiR) | 3:08 | 2022-06-23 |  |
 | [Alta Gama](https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Alta Gama](https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14) | 2:42 | 2021-11-19 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 三浦透子
 
-963 songs - 2 day 15 hr 19 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+964 songs - 2 day 15 hr 23 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2022-12-06 |  |
 | [Lilt](https://open.spotify.com/track/0oG01y2pbxdX8KHS5wsKBd) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Lilt](https://open.spotify.com/album/2LiURHIClvEBdDNzazsEj2) | 3:06 | 2022-09-13 | 2022-09-28 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-31 | 2022-07-19 |
+| [Logbook](https://open.spotify.com/track/7Dm0vGq2EZnok8p2PQjkMH) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Logbook](https://open.spotify.com/album/4XpPPretRm4hVnvBi3depc) | 3:17 | 2022-12-15 |  |
 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 | 2022-05-29 | 2022-11-03 |
 | [Love is always](https://open.spotify.com/track/5mWFPBsJLGSt9LJjULiqKE) | [Ako](https://open.spotify.com/artist/3OZH8bAVViRcIjo4vUuIRz) | [Love is always](https://open.spotify.com/album/4txs319mQ4SGQMJo4DujYt) | 4:39 | 2022-10-25 | 2022-11-16 |
 | [LOVE LETTER \- The Greatest Ver.](https://open.spotify.com/track/0khSwTCRngE93TQ57ckbkY) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [LOVE LETTER \(The Greatest Ver.\)](https://open.spotify.com/album/0QtwsAZzBZHIbKt3RPBtTj) | 5:02 | 2022-06-07 | 2022-07-12 |
@@ -547,7 +548,7 @@
 | [かわいい](https://open.spotify.com/track/0EEvARMlHyet62jGx6zhMv) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [かわいい](https://open.spotify.com/album/6YT0j4fbAPoVBP60Xuwdei) | 3:04 | 2022-06-02 | 2022-06-22 |
 | [かわいい人](https://open.spotify.com/track/1cTFcZktEb5WMr8acya42L) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [かわいい人](https://open.spotify.com/album/2DtDYeOsfFEZsLGkA8o0YR) | 4:22 | 2022-11-15 | 2022-11-17 |
 | [きれいなわたし](https://open.spotify.com/track/0f0O7RMVcvyqS4qXHYsSnq) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [imagination](https://open.spotify.com/album/3c4wcYK91AIYwZQhy8iI14) | 3:08 | 2022-11-01 | 2022-11-09 |
-| [こうかいのさき](https://open.spotify.com/track/4YWIixtQ7jbEatj1Zyrsqx) | [とた](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [こうかいのさき](https://open.spotify.com/album/4jlHRafgtENl3jfSdNBufG) | 3:17 | 2022-12-15 |  |
+| [こうかいのさき](https://open.spotify.com/track/4YWIixtQ7jbEatj1Zyrsqx) | [とた](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [こうかいのさき](https://open.spotify.com/album/4jlHRafgtENl3jfSdNBufG) | 3:17 | 2022-12-15 | 2022-12-17 |
 | [ここにある地球\(ほし\)](https://open.spotify.com/track/3QZMFiHaweFFr8xqwIVo4v) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [ここにある地球\(ほし\)](https://open.spotify.com/album/5qpeBvBrNJG8SKH5vNBeaD) | 2:12 | 2022-12-13 | 2022-12-15 |
 | [この美しい世界で](https://open.spotify.com/track/5BlC3JCQ5YnZWfeDiywNQW) | [ハナフサマユ](https://open.spotify.com/artist/1uESGfxoaOLG8KzuiAuuVh) | [この美しい世界で](https://open.spotify.com/album/6Sv0bsP43HM8wQIecenESM) | 4:46 | 2022-10-04 | 2022-10-12 |
 | [さかさまの雨](https://open.spotify.com/track/6RTVMxBRIPazAjbstaVNLY) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [さかさまの雨](https://open.spotify.com/album/3o2p600srbydOzSp4iKaXf) | 4:12 | 2022-06-14 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > Here comes the Maestro with his best of 90s!
 
-141 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/6gUA4OjKEmfJ6nVoh2VZGh)
+142 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/6gUA4OjKEmfJ6nVoh2VZGh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Malare Thendral Paadum \- Female](https://open.spotify.com/track/2C3XYzOlt1Fw40KsWCyK5Q) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Veetla Visheshanga](https://open.spotify.com/album/2nTitERandpncDH6lwzzNM) | 5:07 | 2021-11-13 | 2022-07-29 |
 | [Malligai Mottu](https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Sakthivel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NJ0S5vBfJxkGvYRBhGvaZ) | 5:04 | 2021-11-13 |  |
 | [Manakkum Malligai](https://open.spotify.com/track/3qwv9WR6s8sbqR4W1ENrF5) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Rickshaw Mama](https://open.spotify.com/album/6jZjT5hXr9l52693G4etGJ) | 5:04 | 2021-11-13 |  |
-| [Marugo Marugo](https://open.spotify.com/track/30GGJGwMPuS6XIxO93MD6W) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Sathi Leelavathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GFx9DV7eSYI9aFpAHzBcB) | 6:09 | 2021-11-13 |  |
+| [Marugo Marugo](https://open.spotify.com/track/6t48rynj5P4UuOK5aWAP8l) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Sathi Leelavathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wAlyGFdmDBM60YGknkTZF) | 6:09 | 2021-11-13 |  |
+| [Marugo Marugo](https://open.spotify.com/track/30GGJGwMPuS6XIxO93MD6W) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Sathi Leelavathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GFx9DV7eSYI9aFpAHzBcB) | 6:09 | 2021-11-13 | 2022-12-17 |
 | [Marugo Marugo](https://open.spotify.com/track/0vp4FqDh9Mk2NHmubHgCse) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Kovai Sarala](https://open.spotify.com/artist/4c2TlR2BorgIt1pTRH4nK3) | [Sathi Leelavathi](https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b) | 6:09 | 2021-11-13 | 2022-07-29 |
 | [Masthana](https://open.spotify.com/track/1hO88I2hMkuTTxL8wHXap5) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya](https://open.spotify.com/album/3HGKIXgVcddeXayKY2nJsm) | 5:54 | 2021-11-13 | 2022-07-29 |
 | [Masthana Masthana](https://open.spotify.com/track/6ASVX4UhxDCxYfmKpIDfYM) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TtpTZxgCpWIOFTUNePPys) | 5:55 | 2021-11-13 |  |

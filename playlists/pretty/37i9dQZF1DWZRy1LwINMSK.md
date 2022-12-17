@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,678 likes - 89 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,703 likes - 89 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 63 | [Me Quiero Lanzar \- Remix](https://open.spotify.com/track/1z7dwR3FaSPhbSuIwSuTXX) | [Nacion Triizy](https://open.spotify.com/artist/1CyD1Oj8R2nR5f27cV1q1J), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD), [Chocolate Blanco](https://open.spotify.com/artist/4ARN4DVH7hoHQvie0zptff), [Fusok](https://open.spotify.com/artist/7eCRGFriuw87zy6evjErXh) | [Me Quiero Lanzar \(Remix\)](https://open.spotify.com/album/06kzh1Vgvy6pWUDdJZd9ol) | 4:34 |
 | 64 | [Falsa](https://open.spotify.com/track/5kKP7nvRpeU4RHum06szZT) | [Johnnyl](https://open.spotify.com/artist/0W2sV4Cs9I0jughXrlQiUC), [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Falsa](https://open.spotify.com/album/3H8QaMCTIB5XiSEm8fnLje) | 3:15 |
 | 65 | [Intuición](https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/5xMJ1s0acu2UzIDhbHIRas) | 2:56 |
-| 66 | [CHAINZ](https://open.spotify.com/track/4CW58twcKqVT7nvtKoloHv) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [CHAINZ](https://open.spotify.com/album/6JKli5Wrp3272NFOpyapVO) | 2:15 |
+| 66 | [CHAINZ](https://open.spotify.com/track/5IZPp18xCMZBoIi0Ws2K1E) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 2:16 |
 | 67 | [El Extendo](https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Keylon](https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:54 |
 | 68 | [Sismo](https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 2:37 |
 | 69 | [No Puedo Volver](https://open.spotify.com/track/79KMmSTjBXjHeKK3iCKX4F) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:03 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 88 | [Flip Flops](https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Flip Flops](https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0) | 2:35 |
 | 89 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 |
 
-Snapshot ID: `MTY2MjQwMTUxOSwwMDAwMDAwMDY1ZmRlMjgyMzQ4ODlkZDI1Yzc5NWNjYmQyMDY3YTQ2`
+Snapshot ID: `MTY2MjQwMTUxOSwwMDAwMDAwMGY5MmE2Y2Q0YzhkZTExZjBkMjA1NGVlMGNkNGJlMjMy`

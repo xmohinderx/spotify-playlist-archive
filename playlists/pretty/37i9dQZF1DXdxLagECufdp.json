@@ -1,12 +1,12 @@
 {
   "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida",
-  "num_followers": 89178,
+  "num_followers": 89193,
   "original_name": "Circo Gitano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4OTQ5MSwwMDAwMDAwMDg5MTA1YjM4Yzk4YmRhZDkyZWQzM2MxMmJmYjZmZGI5",
+  "snapshot_id": "MTY1OTQ4OTQ5MSwwMDAwMDAwMGYzMmU4YWUxYWYwMzkxYmJlOTJlOWY2OWZiOWI3Njdh",
   "tracks": [
     {
       "added_at": "2021-10-28 03:10:22",
@@ -691,26 +691,6 @@
     {
       "added_at": "2021-09-10 03:40:22",
       "album": {
-        "name": "Bella Ciao (Goodbye Beautiful)",
-        "url": "https://open.spotify.com/album/29eTnHPHnGirFCGrmApdAG"
-      },
-      "artists": [
-        {
-          "name": "Marc Ribot",
-          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
-        },
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 217572,
-      "name": "Bella Ciao (Goodbye Beautiful)",
-      "url": "https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK"
-    },
-    {
-      "added_at": "2021-09-10 03:40:22",
-      "album": {
         "name": "Estos Celos",
         "url": "https://open.spotify.com/album/2E1f852SuXQRCGGh9ml4Hf"
       },
@@ -743,22 +723,22 @@
     {
       "added_at": "2021-09-10 03:40:22",
       "album": {
-        "name": "Mar Dulce",
-        "url": "https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA"
+        "name": "Bella Ciao (Goodbye Beautiful)",
+        "url": "https://open.spotify.com/album/29eTnHPHnGirFCGrmApdAG"
       },
       "artists": [
         {
-          "name": "Bajofondo",
-          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+          "name": "Marc Ribot",
+          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
         }
       ],
-      "duration_ms": 217346,
-      "name": "Pa' Bailar (Siempre Quiero Mas)",
-      "url": "https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s"
+      "duration_ms": 217572,
+      "name": "Bella Ciao (Goodbye Beautiful)",
+      "url": "https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK"
     },
     {
       "added_at": "2021-09-10 03:40:22",
@@ -775,6 +755,26 @@
       "duration_ms": 312333,
       "name": "A Tapdancer's Dilema",
       "url": "https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh"
+    },
+    {
+      "added_at": "2021-09-10 03:40:22",
+      "album": {
+        "name": "Mar Dulce",
+        "url": "https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Pa' Bailar (Siempre Quiero Mas)",
+      "url": "https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s"
     },
     {
       "added_at": "2021-09-10 03:40:22",

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-420 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+425 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [95 DEGREES](https://open.spotify.com/track/55BJoJzQuogFLeqihumlm9) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [95 DEGREES](https://open.spotify.com/album/3RyBiLA0PeYZvz8IGU5ffO) | 3:02 | 2022-09-09 | 2022-10-15 |
 | [a letter from Anxiety](https://open.spotify.com/track/53pDouQQTGlSr4xYXoly6b) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [a letter from Anxiety](https://open.spotify.com/album/2aERHl2AJm4ODYswrJ9KR1) | 2:41 | 2022-10-21 |  |
 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:26 | 2022-07-22 |  |
+| [AdaLINE](https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [AdaLINE](https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1) | 2:45 | 2022-12-16 |  |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-16 |  |
 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 | 2022-01-05 | 2022-07-16 |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2022-04-04 | 2022-05-20 |
@@ -181,6 +182,7 @@
 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 | 2022-02-04 | 2022-05-07 |
 | [Hot Mess](https://open.spotify.com/track/5I09fLEG5XjN8Z2y2Rrg8W) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Hot Mess](https://open.spotify.com/album/32LiRs2ZIh4FsjX7kREnDD) | 2:17 | 2021-11-16 | 2022-02-19 |
 | [Hot Tub](https://open.spotify.com/track/0QwtPubre27rt1YnJBKeNb) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Hot Tub](https://open.spotify.com/album/6vX4foju7dMy5UTqjwB6rZ) | 2:39 | 2022-02-04 | 2022-03-26 |
+| [How Does It Feel](https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [A Gift And A Curse](https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ) | 2:09 | 2022-12-16 |  |
 | [How's Life?](https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V) | [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [How's Life?](https://open.spotify.com/album/4HupIdBw3l0quug7aznnrB) | 2:35 | 2022-01-28 | 2022-03-17 |
 | [I Can't Stop Talking to God](https://open.spotify.com/track/4wK4CFin4FpwfVq1tVHigg) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [I Can't Stop Talking to God](https://open.spotify.com/album/4Xvq7y0cey3nUNUEJIj4GL) | 2:23 | 2022-07-11 | 2022-08-04 |
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2022-04-04 | 2022-04-29 |
@@ -206,6 +208,7 @@
 | [IMPATIENT](https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [IMPATIENT](https://open.spotify.com/album/6GH9V2pkHwDjCNWhDkGQM4) | 3:09 | 2022-07-12 |  |
 | [imu \(ft\. Travis Barker\)](https://open.spotify.com/track/0CcPL8OEi8vchvprpl6oYe) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [misery lake](https://open.spotify.com/album/6vqNFOfIgqe0l2Ui47YSyO) | 3:35 | 2022-01-05 | 2022-05-20 |
 | [IOD \(feat\. Lil Skies\)](https://open.spotify.com/track/16Jrm2G1k8kfmcNeN4By6B) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [YKD Jah](https://open.spotify.com/artist/58w9ezOadyZ9nqw4o2Rha0) | [IOD \(feat\. Lil Skies\)](https://open.spotify.com/album/0eF99wZAS87b0pfzSJOKbZ) | 2:35 | 2022-01-14 | 2022-02-26 |
+| [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2022-12-16 |  |
 | [Jenny](https://open.spotify.com/track/1xipoyu49i67F7kM6GLRBY) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Jenny](https://open.spotify.com/album/2CBcNQze7xZTpNRiTyJ5cT) | 2:10 | 2021-11-16 | 2022-02-26 |
 | [Just Like That](https://open.spotify.com/track/3vRSduRquXh9U5EvRB7mS7) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Just Like That](https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU) | 3:11 | 2022-09-02 | 2022-11-30 |
 | [Keys](https://open.spotify.com/track/1kCI0UC3E0gwtOVdgyukFD) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Keys](https://open.spotify.com/album/38tcHYIBDdOtJB0hh7XiHe) | 2:52 | 2022-02-25 | 2022-06-04 |
@@ -319,6 +322,7 @@
 | [RESCUE](https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [RESCUE](https://open.spotify.com/album/4SpwESU9SstT11kMUgE9cZ) | 2:37 | 2022-04-04 | 2022-10-13 |
 | [rewind](https://open.spotify.com/track/66orvVes79w0dZao9ZIw97) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY), [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rewind](https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T) | 2:20 | 2022-09-23 |  |
 | [RFGL](https://open.spotify.com/track/5Im9BMrf0xkFD4xNHiKDUl) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [RFGL](https://open.spotify.com/album/4UTAFypc6vOhVu74J0Srpn) | 2:30 | 2022-03-25 | 2022-07-02 |
+| [rich girl](https://open.spotify.com/track/7JErBib1eG7L7dJR1Llj2k) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [rich girl](https://open.spotify.com/album/1d4VOdTAsMhHCFvkqe57GL) | 1:44 | 2022-12-16 |  |
 | [Ridin' Around](https://open.spotify.com/track/1gRoA7TpSrvJPWYHfgezAm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Ridin' Around](https://open.spotify.com/album/4MofeHZRyIWaDrgwqnlHpf) | 3:03 | 2021-11-16 | 2022-02-19 |
 | [RIDING](https://open.spotify.com/track/4JnX8tY9me7jHqDwgifhwU) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:25 | 2021-11-16 | 2022-02-26 |
 | [right before my eyes](https://open.spotify.com/track/3mkws3P4Nhc1C3EpAuWxsP) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [i can't make this up](https://open.spotify.com/album/5SfFJOQgbSzC91IUswcu2U) | 2:50 | 2021-11-16 | 2022-02-26 |
@@ -380,6 +384,7 @@
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-05-20 |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-01-14 | 2022-06-04 |
 | [Talladega](https://open.spotify.com/track/2CPKo4glbtzTZHZ9kheUaa) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Talladega](https://open.spotify.com/album/3JuasplCKlqgWKIhVStSWn) | 2:36 | 2021-11-16 | 2022-02-26 |
+| [TARGET](https://open.spotify.com/track/6nr0nVNA2sxEyteGiMKAv6) | [KYDRA](https://open.spotify.com/artist/0oAdWtdDFpCh67Jh0YAxCc) | [BACK HOME](https://open.spotify.com/album/2BcFPLYFI5vRGWDhjyKRGC) | 2:07 | 2022-12-16 |  |
 | [Teammates](https://open.spotify.com/track/4NJaaIIhzLlzGj4dHMb4FO) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE) | [Teammates](https://open.spotify.com/album/04ybMaeuitS4ISlJug42dZ) | 2:24 | 2022-04-15 | 2022-05-20 |
 | [Tell Me Lies](https://open.spotify.com/track/2wgZS1aqzg4vdqpBht7mNJ) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Tell Me Lies](https://open.spotify.com/album/7dAOGlF0pZRCgcMqOIuFzC) | 3:26 | 2021-11-16 | 2022-02-19 |
 | [Tequila](https://open.spotify.com/track/7oIkhniXc7nqFejXFrgM5j) | [Jeffers Insley](https://open.spotify.com/artist/5Kl5hPE1d877AIBR4O0kQ2) | [Tequila](https://open.spotify.com/album/1sroqnaDwtAI3WytaisYBr) | 2:42 | 2022-01-05 | 2022-03-26 |

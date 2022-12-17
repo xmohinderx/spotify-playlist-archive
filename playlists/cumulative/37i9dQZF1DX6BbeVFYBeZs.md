@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-188 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+191 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,9 @@
 | [Adriana](https://open.spotify.com/track/6nrkZq4K0NuOYmfx3ZEe6O) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Adriana](https://open.spotify.com/album/2T7bga5l6cwbRvFRZbqP28) | 2:43 | 2022-06-17 |  |
 | [Afrodite](https://open.spotify.com/track/6skzlMw87XL85eM9YhMAxR) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:46 | 2022-06-17 |  |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 |  |
+| [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 | 2022-12-16 |  |
 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 | 2022-06-17 |  |
+| [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 | 2022-12-16 |  |
 | [An Italian Lovesong](https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5Qjq6Rr6Fgzzln3HlwzaCF) | 3:31 | 2022-06-17 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-06-17 |  |
 | [Antigua](https://open.spotify.com/track/6lfQmQzzhPWA26Zn478oaL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Antigua](https://open.spotify.com/album/7C6oMgCrAeWx1kV3jfNu1h) | 1:59 | 2022-10-28 |  |
@@ -56,7 +58,7 @@
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-06-17 |  |
 | [Dos Semanas](https://open.spotify.com/track/0DLJOEDh4Xdi7tlRXJCh0r) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/6j0fxPpJFCs4Bj9ua6SEQg) | 2:27 | 2022-07-29 |  |
 | [Dos Semanas](https://open.spotify.com/track/5xBLH2lm5TFylXBOuJwnDm) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/7wGfMMfZy4TROCO1KtgSkd) | 2:27 | 2022-06-17 | 2022-08-04 |
-| [El Arte De La Guitarra](https://open.spotify.com/track/12t9WB5iWTX3nAz5aLSjGA) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Romantic Spanish Guitar, Vol\. 3](https://open.spotify.com/album/7vpRhpWT83mNvLBqjJ9Kbt) | 4:12 | 2022-06-17 |  |
+| [El Arte De La Guitarra](https://open.spotify.com/track/12t9WB5iWTX3nAz5aLSjGA) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Romantic Spanish Guitar, Vol\. 3](https://open.spotify.com/album/7vpRhpWT83mNvLBqjJ9Kbt) | 4:12 | 2022-06-17 | 2022-12-17 |
 | [El Ciego](https://open.spotify.com/track/1EtqyTZZhHtT7cmznkSc25) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [El Ciego](https://open.spotify.com/album/6qo8bLXjZSYwCU5I6PaN4b) | 1:39 | 2022-06-17 |  |
 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 | 2022-06-17 |  |
 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 | 2022-06-17 |  |
@@ -66,7 +68,7 @@
 | [Elf](https://open.spotify.com/track/2z5Prq6ZP7gX5yMmPsMaPk) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Elf](https://open.spotify.com/album/58d8SRTrTcfiDkPdOxFwHQ) | 1:48 | 2022-10-14 |  |
 | [Entrelaços](https://open.spotify.com/track/2RZhlnOejBw66rNeIsuAmY) | [Jean Charnaux](https://open.spotify.com/artist/5Ll9VJiJWBtGoGohsL75bO) | [Inquieto](https://open.spotify.com/album/687D43pNYnrpfxWQs17Zdu) | 2:39 | 2022-07-29 |  |
 | [Entrelaços](https://open.spotify.com/track/2ZgHfHwQst1rkVjK8yNUQk) | [Jean Charnaux](https://open.spotify.com/artist/5Ll9VJiJWBtGoGohsL75bO) | [Inquieto](https://open.spotify.com/album/40GwWMCO64VMxnYoqKPZtD) | 2:39 | 2022-06-17 | 2022-07-29 |
-| [Eres Divina](https://open.spotify.com/track/2yv8w2ANzHumAGdN3fwLoK) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Eres Divina](https://open.spotify.com/album/6MrqCkkoPr5ko3Mw8UTOrr) | 2:47 | 2022-06-17 |  |
+| [Eres Divina](https://open.spotify.com/track/2yv8w2ANzHumAGdN3fwLoK) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Eres Divina](https://open.spotify.com/album/6MrqCkkoPr5ko3Mw8UTOrr) | 2:47 | 2022-06-17 | 2022-12-17 |
 | [Escondites](https://open.spotify.com/track/0tt1Ckj1W4HSPpjSgo91gk) | [Abelin Celice](https://open.spotify.com/artist/6deyYCzmn7ptDnohDbTWti) | [Escondites](https://open.spotify.com/album/7H5e20s2UvYoMPlFn5pjC1) | 2:36 | 2022-11-18 |  |
 | [Esmeralda](https://open.spotify.com/track/7izUzLUTJ5dYnpOzvBUmwP) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Esmeralda](https://open.spotify.com/album/3ndgDhJ7LYwad1YHkJrn7W) | 2:55 | 2022-09-09 |  |
 | [Estrella](https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Estrella](https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE) | 2:33 | 2022-11-18 |  |
@@ -125,7 +127,7 @@
 | [Pont\-Neuf](https://open.spotify.com/track/1aUihnmoI7VFaGnkyeuamf) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Pont\-Neuf](https://open.spotify.com/album/59efgTiQRg2BPHdD5fqdcV) | 3:04 | 2022-06-17 | 2022-08-18 |
 | [Preludio del valle](https://open.spotify.com/track/0wzQxAGzGl09uxJHQVWP8Z) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Preludio del valle](https://open.spotify.com/album/3bymqGhrl8dwY9BlSWU5Sw) | 2:31 | 2022-10-28 | 2022-11-13 |
 | [Preludio del valle](https://open.spotify.com/track/0zLFC5UEE8pHiFCk3VdJW3) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Preludio del valle](https://open.spotify.com/album/6fceBxIT2s9h539LNpb90Z) | 2:31 | 2022-06-17 | 2022-07-29 |
-| [Preludio del valle](https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Trazos](https://open.spotify.com/album/6uuhDerUvpdUD4giKbSRjs) | 2:31 | 2022-07-29 |  |
+| [Preludio del valle](https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Trazos](https://open.spotify.com/album/6uuhDerUvpdUD4giKbSRjs) | 2:31 | 2022-07-29 | 2022-12-17 |
 | [Present Moments](https://open.spotify.com/track/4TV5Zl2N48iIATpHpcO10u) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Dançando](https://open.spotify.com/album/5ZBBJRTOzKoKBhxKXywfLk) | 3:11 | 2022-06-17 |  |
 | [Prosperidad](https://open.spotify.com/track/7mkQ2a3jgE3d4qbdgjPw6I) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Prosperidad](https://open.spotify.com/album/1flJyeI9kmqmR1AXN6SJ7D) | 3:46 | 2022-06-17 |  |
 | [Purechucho](https://open.spotify.com/track/6fkS6EqkQKsqOk4PLSaWzI) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [El Pejo](https://open.spotify.com/album/5jO5hpZ9DQ9GHqovA1jdoh) | 2:35 | 2022-06-17 | 2022-10-07 |
@@ -137,7 +139,7 @@
 | [Retornar](https://open.spotify.com/track/2RyKPVRF7xEKgGPxHsmz3n) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Retornar](https://open.spotify.com/album/5sRaOWsuKC0rFsPeBzSAni) | 4:21 | 2022-06-17 |  |
 | [Romanza \- Epic Version](https://open.spotify.com/track/4gk0nGhe2DPrZI29mGIPt6) | [Beyond The Guitar](https://open.spotify.com/artist/4S5AtlCYMKonu1l2G9ZIFp) | [Romanza \(Epic Version\)](https://open.spotify.com/album/76IzJ3MEEyUp4CUCulN7rz) | 2:41 | 2022-06-17 | 2022-07-08 |
 | [Rêvant de qui nous étions](https://open.spotify.com/track/6eC8cmEgLmoNEL9MkLZYDr) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Rêvant de qui nous étions](https://open.spotify.com/album/6rCxZZio0rQLHSWoJ5NJp7) | 2:30 | 2022-06-17 |  |
-| [Sabor a Mí](https://open.spotify.com/track/4nQcTeraFLNBq0oMrNBG7i) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Sabor a Mí](https://open.spotify.com/album/3hqWgSWTjXhcFHgAAAP6Mg) | 1:52 | 2022-07-29 |  |
+| [Sabor a Mí](https://open.spotify.com/track/4nQcTeraFLNBq0oMrNBG7i) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Sabor a Mí](https://open.spotify.com/album/3hqWgSWTjXhcFHgAAAP6Mg) | 1:52 | 2022-07-29 | 2022-12-17 |
 | [Sabor a Mí](https://open.spotify.com/track/5tpAKulUIYoOZRQXxjPLgE) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Sabor a Mí](https://open.spotify.com/album/6YpgPmhlcM29dwLFJTbF3N) | 1:52 | 2022-06-17 | 2022-07-29 |
 | [Sabucina](https://open.spotify.com/track/6CKg1LYxqHbnzUcffxWfQt) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Viento de siroco](https://open.spotify.com/album/43qd0LuoNcxwHsSJBDfk8V) | 4:14 | 2022-06-17 |  |
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-06-17 | 2022-08-18 |
@@ -182,6 +184,7 @@
 | [Una Vida Prospera](https://open.spotify.com/track/65sHNlUnVH9M0dzNcGEn0Y) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Una Vida Prospera](https://open.spotify.com/album/5liLr3r2atOTzyGDuugGsB) | 2:06 | 2022-07-29 |  |
 | [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 | 2022-09-09 |  |
 | [Valeria](https://open.spotify.com/track/14YLpb5I76rn2fvFLdbhuq) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Valeria](https://open.spotify.com/album/359dhOPYz6AjtYsEjYMzFh) | 2:22 | 2022-10-28 |  |
+| [Valle dei Templi](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Valle dei Templi](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 3:00 | 2022-12-16 |  |
 | [Vals del Poniente](https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Vals del Poniente](https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE) | 2:02 | 2022-07-15 |  |
 | [Valsa Sem Nome](https://open.spotify.com/track/1zJafeATKvIfikaHqheJIc) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm) | [Valsa Sem Nome](https://open.spotify.com/album/7Gqab034S6MlTLAjdiFZcz) | 2:57 | 2022-08-12 |  |
 | [Valsa Sergipana \(Litoca\)](https://open.spotify.com/track/3N9A4p320JeK7lvDJbH0pA) | [Igor Brasil](https://open.spotify.com/artist/7I410Dp3d5DOJAqTJe9PGo) | [Valsa Sergipana \(Litoca\)](https://open.spotify.com/album/2MxMeTDTZV9bX19HsgnXcv) | 2:33 | 2022-10-28 |  |

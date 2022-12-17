@@ -2,7 +2,7 @@
 
 ### [Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0MuOvUqmxDz)
 
-> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Dan + Shay
+> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
 271 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4Obyr7GsNC8q59bOekRAcO)
 

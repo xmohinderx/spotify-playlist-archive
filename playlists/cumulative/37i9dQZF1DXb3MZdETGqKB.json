@@ -246,6 +246,28 @@
     },
     {
       "album": {
+        "name": "Bad to the Bone (Extended Version)",
+        "url": "https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Bri Bryant",
+          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257377,
+      "name": "Bad to the Bone - Extended Version",
+      "url": "https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa"
+    },
+    {
+      "album": {
         "name": "Who Is He?",
         "url": "https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6"
       },

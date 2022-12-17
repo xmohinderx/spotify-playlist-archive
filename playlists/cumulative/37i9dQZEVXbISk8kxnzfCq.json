@@ -6486,6 +6486,28 @@
     },
     {
       "album": {
+        "name": "Pa' Marte",
+        "url": "https://open.spotify.com/album/2ATj4i6rP0OjjNAqWcdlQ8"
+      },
+      "artists": [
+        {
+          "name": "Drei Alva",
+          "url": "https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz"
+        },
+        {
+          "name": "Luchio Beatz",
+          "url": "https://open.spotify.com/artist/0LPaLVrJijN46OHOF8tLc1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Pa' Marte",
+      "url": "https://open.spotify.com/track/3gkrLI3nTRJ7G3ZOpoQgs0"
+    },
+    {
+      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -7241,7 +7263,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 161848,
       "name": "Punto 40 Original",
       "url": "https://open.spotify.com/track/1zKeG24DENGpWMd711gOc6"

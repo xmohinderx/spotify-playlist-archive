@@ -4,14 +4,15 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: El Alfa
 
-107 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
+108 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#16 \- La Ciencia](https://open.spotify.com/track/23DXsTihEPIlhPDZrJXx0J) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [\#16 \(La Ciencia\)](https://open.spotify.com/album/1kAdv3ZRphj9G6r76o5oQC) | 2:52 | 2022-04-14 | 2022-05-20 |
 | [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 | 2022-03-15 | 2022-09-15 |
 | [3730](https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP) | 2:17 | 2022-06-03 |  |
-| [A I O](https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM) | 2:58 | 2022-11-11 |  |
+| [A I O](https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3) | 2:58 | 2022-12-02 |  |
+| [A I O](https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM) | 2:58 | 2022-11-11 | 2022-12-17 |
 | [A Nivel Cien](https://open.spotify.com/track/5e63LqFp9ITnnwKUT09wGY) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [A Nivel Cien](https://open.spotify.com/album/0Yk4tbx0Mra50d2WX8qoid) | 3:40 | 2022-11-25 |  |
 | [Acuetate](https://open.spotify.com/track/028MkfDdEe6uyIkuJVj0cb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Capitan Aloo](https://open.spotify.com/artist/6wR3Uihi08MTiX5QGK5d7k), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Acuetate](https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426) | 4:08 | 2022-03-15 |  |
 | [Aficia De Un Chuky \- Remix](https://open.spotify.com/track/7fUzV7e8DEZWlNGmT4NJi4) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Aficia De Un Chuky \(Remix\)](https://open.spotify.com/album/3afNE3WcVomDQgPnDPc82R) | 4:29 | 2022-03-15 | 2022-04-15 |

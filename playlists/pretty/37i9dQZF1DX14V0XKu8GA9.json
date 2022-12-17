@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 18803,
+  "num_followers": 18827,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDI4OGE3NTc1Y2Y0YTU4NjU2NzVkMDM2MmM2NzFiOTE4",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDg2ZGVhM2VhY2I4ZjBhZDQxZDM5MGNhMzc5ODY5ZjNj",
   "tracks": [
     {
       "added_at": "2022-09-23 15:32:00",
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k"
     },
     {
-      "added_at": "2022-12-16 01:09:15",
+      "added_at": "2022-12-17 01:10:13",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "SPIDERCAT",
-        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
-      },
-      "artists": [
-        {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "SPIDERCAT",
-      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "From The Gravel",
         "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 117629,
       "name": "From The Gravel",
       "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "SPIDERCAT",
+        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
+      },
+      "artists": [
+        {
+          "name": "Speak",
+          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "SPIDERCAT",
+      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
     },
     {
       "added_at": "2022-09-23 15:32:00",

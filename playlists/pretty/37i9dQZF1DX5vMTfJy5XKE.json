@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Backstreet Boys",
-  "num_followers": 225608,
+  "num_followers": 226591,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYyOTcyNSwwMDAwMDAwMDdiODM1OWFlZDljODc0ZWE2N2E2OTMzMjliZDkwODc1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDZlYjU1Y2JhZmEwMzY0NTA2NWZiNTczZTg5MTc5ZmRj",
   "tracks": [
     {
       "added_at": "2022-12-09 23:48:45",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/5ODrf4Fhd38dyuCpj6gqpe"
     },
     {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Holidays Around the World",
+        "url": "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Kid On Christmas (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV"
+    },
+    {
       "added_at": "2022-10-25 22:26:11",
       "album": {
         "name": "Merry Christmas, Y\u2019all",
@@ -39,6 +59,66 @@
       "duration_ms": 141586,
       "name": "It\u2019s Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw"
+    },
+    {
+      "added_at": "2022-11-18 19:29:30",
+      "album": {
+        "name": "Night Before Christmas",
+        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 216220,
+      "name": "Night Before Christmas",
+      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
+    },
+    {
+      "added_at": "2022-11-11 20:44:17",
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Feliz Navidad (with The Simpsons)",
+        "url": "https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        },
+        {
+          "name": "The Simpsons",
+          "url": "https://open.spotify.com/artist/7r0Otd9dEStSVIxJ02ml5a"
+        }
+      ],
+      "duration_ms": 122320,
+      "name": "Feliz Navidad (with The Simpsons)",
+      "url": "https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ"
     },
     {
       "added_at": "2022-12-09 15:10:28",
@@ -89,6 +169,22 @@
       "url": "https://open.spotify.com/track/2C4YYe2aqRXKdKmb2nbUVr"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL"
+    },
+    {
       "added_at": "2022-12-09 05:15:57",
       "album": {
         "name": "O Holy Night",
@@ -129,42 +225,6 @@
       "url": "https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Holidays Around the World",
-        "url": "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Kid On Christmas (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV"
-    },
-    {
-      "added_at": "2022-11-18 19:29:30",
-      "album": {
-        "name": "Night Before Christmas",
-        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 216220,
-      "name": "Night Before Christmas",
-      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
-    },
-    {
       "added_at": "2022-12-09 05:12:10",
       "album": {
         "name": "The Molly Burch Christmas Album",
@@ -181,20 +241,20 @@
       "url": "https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8"
     },
     {
-      "added_at": "2022-11-11 20:44:17",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+      "duration_ms": 200968,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD"
     },
     {
       "added_at": "2022-12-09 15:10:28",
@@ -297,6 +357,22 @@
       "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Christmas List",
+        "url": "https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 201251,
+      "name": "Christmas List",
+      "url": "https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn"
+    },
+    {
       "added_at": "2022-11-18 19:29:30",
       "album": {
         "name": "Single On The 25th",
@@ -311,6 +387,22 @@
       "duration_ms": 161184,
       "name": "Single On The 25th",
       "url": "https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -331,22 +423,6 @@
       "duration_ms": 221006,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/12nlKk8JT0ppyGVY9bYKv8"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Christmas (Baby Please Come Home)",
-        "url": "https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -451,22 +527,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Christmas List",
-        "url": "https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 201251,
-      "name": "Christmas List",
-      "url": "https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/7nnEeq7t2acyQwlU97rd31"
       },
@@ -495,6 +555,22 @@
       "duration_ms": 176907,
       "name": "Naughty With You (This Christmas)",
       "url": "https://open.spotify.com/track/2iefNdjhqC50RdhjyyNAy3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/5DfOJeapdyl8iXkNZiZxEC"
+      },
+      "artists": [
+        {
+          "name": "CuteBad",
+          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
+        }
+      ],
+      "duration_ms": 158825,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5N0Up3WjnB1J3gjsto1HFz"
     },
     {
       "added_at": "2022-12-02 05:00:00",

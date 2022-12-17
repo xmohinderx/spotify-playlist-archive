@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141000,
+  "num_followers": 141011,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NjY2MiwwMDAwMDAwMDIzNWZiZTFlNjk1NTMxZWEwNGUzYmY0N2RlYmM5MWE1",
+  "snapshot_id": "MTY3MDQ1NjY2MiwwMDAwMDAwMGVkZTUzMDlkYmQ2ZTdkZTQzNTljMDA0YTg2MDhlNWI4",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
       },
       "artists": [
         {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
         }
       ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
       "artists": [
         {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
         }
       ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Live Sessions 1",
-        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
-      },
-      "artists": [
-        {
-          "name": "Meste\u00f1o",
-          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Ya No Te Aguanto Moe (Live)",
-      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "La Primavera",
         "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 192003,
       "name": "La Primavera",
       "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Live Sessions 1",
+        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
+      },
+      "artists": [
+        {
+          "name": "Meste\u00f1o",
+          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Ya No Te Aguanto Moe (Live)",
+      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
-      },
-      "artists": [
-        {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Vac\u00eda",
-        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
       },
       "artists": [
         {
-          "name": "Destiny Navaira",
-          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
-        },
-        {
-          "name": "Myrza Maldonado",
-          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
         }
       ],
-      "duration_ms": 180462,
-      "name": "Vac\u00eda",
-      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -607,6 +587,26 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Vac\u00eda",
+        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
+      },
+      "artists": [
+        {
+          "name": "Destiny Navaira",
+          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
+        },
+        {
+          "name": "Myrza Maldonado",
+          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
+        }
+      ],
+      "duration_ms": 180462,
+      "name": "Vac\u00eda",
+      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Girls Night",
         "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "No Soy La Misma",
         "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 224344,
       "name": "No Soy La Misma",
       "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+        }
+      ],
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Entre El Frio Y El Calor",
         "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215640,
       "name": "Entre El Frio Y El Calor",
       "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mentias",
-        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
-      },
-      "artists": [
-        {
-          "name": "Brooke T",
-          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
-        }
-      ],
-      "duration_ms": 199870,
-      "name": "Mentias",
-      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 188874,
       "name": "Desastre Natural",
       "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Mentias",
+        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
+      },
+      "artists": [
+        {
+          "name": "Brooke T",
+          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
+        }
+      ],
+      "duration_ms": 199870,
+      "name": "Mentias",
+      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
     },
     {
       "added_at": "2022-09-15 18:41:23",

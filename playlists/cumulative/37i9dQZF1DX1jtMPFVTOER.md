@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: DOMi & JD BECK
 
-369 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
+370 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 | 2022-09-23 |  |
 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 | 2022-09-23 |  |
 | [Fever](https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Black Radio \(Deluxe Edition\)](https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C) | 6:48 | 2022-11-11 |  |
+| [First Light](https://open.spotify.com/track/7sC171rY7e1cVA75yHpIjR) | [FUZ](https://open.spotify.com/artist/28mupEzJS8KFPMErekosRL), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j), [ALB](https://open.spotify.com/artist/2UNdu0HGPQtiPJCSpOzptI) | [First Light](https://open.spotify.com/album/070FNqSBKHnK1eSfWKDSLX) | 3:15 | 2022-12-16 |  |
 | [Fix It](https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [Fix It](https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL) | 3:53 | 2021-11-12 | 2022-06-04 |
 | [Flavour](https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Flavour](https://open.spotify.com/album/3iaJaxFS5BF00zRD1AIzCD) | 3:14 | 2022-09-16 |  |
 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 | 2021-11-12 | 2022-07-30 |
@@ -208,7 +209,7 @@
 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 | 2022-02-18 | 2022-08-27 |
 | [Merry Go Round](https://open.spotify.com/track/5wOqZLk70L0gr0KyPBOk4c) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/5QVpM1n4eqLmdQYtwWh96Q) | 3:31 | 2022-03-11 | 2022-03-18 |
 | [Mind The Gap](https://open.spotify.com/track/5bv9sun5AUq6gEebKQJzL0) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 3:28 | 2021-11-12 | 2022-03-12 |
-| [Miss Chance](https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Home](https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq) | 4:12 | 2022-05-20 |  |
+| [Miss Chance](https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Home](https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq) | 4:12 | 2022-05-20 | 2022-12-17 |
 | [Money](https://open.spotify.com/track/1esSsvske6kym5IbfBmPQZ) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Money](https://open.spotify.com/album/61JxJYtMRSaD7T2lToWmEu) | 3:19 | 2022-08-26 | 2022-10-01 |
 | [More Than A Hustler](https://open.spotify.com/track/0KECJERVEYL0I72yErbHWm) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [More Than A Hustler](https://open.spotify.com/album/2KBqzJ2kZj9hFylfEO9QVH) | 2:37 | 2021-12-10 | 2022-08-27 |
 | [More Than A Hustler](https://open.spotify.com/track/6xWbJ9AyTNLFQurE2itHcH) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [More Than A Hustler](https://open.spotify.com/album/7DT75rrMoivVsOJOt6BMld) | 2:37 | 2021-12-10 | 2022-07-29 |

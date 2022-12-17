@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,760 likes - 117 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,861 likes - 117 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 33 | [Huttu Jataka \- From "Hulibete"](https://open.spotify.com/track/3UGny8reXg9TrKRkMZ2Wic) | [Mehboob Saab](https://open.spotify.com/artist/6HetSWGemJe8nirwDZa8nl), [Harsha Vardhan Raj](https://open.spotify.com/artist/3npc7wJpnakp1HiUo0qij1), [Rajbahaddur](https://open.spotify.com/artist/6qG5FWP2wuNtMAk3VevOMy) | [Huttu Jataka \(From "Hulibete"\)](https://open.spotify.com/album/3xkcjzaLFitfehkv5PqDw6) | 4:15 |
 | 34 | [Barthale Barthale \- From "Ugravathara"](https://open.spotify.com/track/4sfq3hBeBShpkYmKJp8p3R) | [Girija Siddi](https://open.spotify.com/artist/5Mj5VPECenQla2RuKGikE1), [Krishna Basrur](https://open.spotify.com/artist/2gkLsHCvSpaoRJw2zVwB3P), [Geetha Siddi](https://open.spotify.com/artist/1ujAeBylfUOkZJMmpmjavF) | [Barthale Barthale \(From "Ugravathara"\)](https://open.spotify.com/album/713rDvKHgy7FpdL0ZpRjxM) | 3:22 |
 | 35 | [Freedom](https://open.spotify.com/track/4pilBzcDFw8G58jpQp3REK) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R) | [Thimayya & Thimayya](https://open.spotify.com/album/4OB36jYXZhHDxZDEHdmnEZ) | 3:04 |
-| 36 | [Love You Dear](https://open.spotify.com/track/1lx8xUbgT0QDB5rmz8zYB4) | [Basavanth Rao](https://open.spotify.com/artist/0aRObP4WhRc4ywXa2nqgjp), [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ) | [Nambabeda](https://open.spotify.com/album/6QShIC7cJ8ptIFaJBcW8ya) | 4:37 |
+| 36 | [Love You Dear](https://open.spotify.com/track/1lx8xUbgT0QDB5rmz8zYB4) | [Basvanth Rao](https://open.spotify.com/artist/1040bqOKKb9lUD7N3EcuLx), [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ) | [Nambabeda](https://open.spotify.com/album/6QShIC7cJ8ptIFaJBcW8ya) | 4:37 |
 | 37 | [Neene Yella Berenilla](https://open.spotify.com/track/6rfh8n36P9VIjMPCLAW2ZE) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Raymo](https://open.spotify.com/album/5Ek3oEraDigl3GUu4zqsgf) | 3:08 |
 | 38 | [Nee Nadedare Sabhe](https://open.spotify.com/track/6i6lHvKTLMg2xSpwqygB7q) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Sasanasabha \(Kannada\)](https://open.spotify.com/album/5txWihdEHgrkobfDCSyijF) | 3:29 |
 | 39 | [Gandhada Gudi \(Reprise\)](https://open.spotify.com/track/1OgTEk2wbqJrWOxzNIqO7e) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Gandhada Gudi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7) | 3:35 |

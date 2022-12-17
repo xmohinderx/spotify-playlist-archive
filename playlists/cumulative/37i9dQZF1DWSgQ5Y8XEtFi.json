@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "ALL ABOUT ME",
+        "url": "https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97643,
+      "name": "ALL ABOUT ME",
+      "url": "https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL"
+    },
+    {
+      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl"
       },
@@ -233,7 +251,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 186472,
       "name": "Art of War (feat. Denzel Curry & Rico Nasty)",
       "url": "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 140600,
       "name": "Big Pussy",
       "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159652,
       "name": "HEAVY METAL",
       "url": "https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 123873,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0hSJiWkzBTvJKrX5yHHBeJ"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 98089,
       "name": "PAIN!",
       "url": "https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi"
@@ -3229,7 +3247,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 171466,
       "name": "Start a Riot",
       "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
@@ -3391,7 +3409,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 227373,
       "name": "SUMO | ZUMO",
       "url": "https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z"
@@ -3413,6 +3431,24 @@
       "duration_ms": 106046,
       "name": "SUPERCALAFRAGIVICIOUS",
       "url": "https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c"
+    },
+    {
+      "album": {
+        "name": "supernova",
+        "url": "https://open.spotify.com/album/1pq7TC937zApIsASf1ikoo"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114390,
+      "name": "supernova",
+      "url": "https://open.spotify.com/track/4EY4SV2BSfJKs6CWwArmhk"
     },
     {
       "album": {

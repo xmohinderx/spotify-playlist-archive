@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -2525,7 +2525,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -4239,7 +4239,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -5517,7 +5517,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 248360,
       "name": "Leave The Lights On",
       "url": "https://open.spotify.com/track/1ABd3bWsG4FCKePjXeVfJG"
@@ -10901,7 +10901,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -10937,7 +10937,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
@@ -13573,7 +13573,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 356038,
       "name": "\u0645\u062d\u0628\u0648\u0628\u064a",
       "url": "https://open.spotify.com/track/3q4wYXlmczY9bLSzsLLxeX"
@@ -13966,6 +13966,24 @@
     },
     {
       "album": {
+        "name": "\u064a\u0648\u0645 \u0643\u0646\u0627 \u0635\u063a\u0627\u0631 - \u062a\u0631\u0646\u062f",
+        "url": "https://open.spotify.com/album/77IrUkWCovUfkn3jyQRnfa"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0644\u064a \u0627\u0644\u062d\u064a\u062f\u0631-Ali Alhaider",
+          "url": "https://open.spotify.com/artist/7bSwwEG6RGyxsqjxhaUWtD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290495,
+      "name": "\u064a\u0648\u0645 \u0643\u0646\u0627 \u0635\u063a\u0627\u0631 - \u062a\u0631\u0646\u062f",
+      "url": "https://open.spotify.com/track/7lTlE7cPGCWS5GstCS6zDi"
+    },
+    {
+      "album": {
         "name": "\u200e\u064a\u0627 \u0627\u0628\u0646 \u062e\u0645\u0627\u0634",
         "url": "https://open.spotify.com/album/74qnorGX715jcLNRMmMSds"
       },
@@ -13977,7 +13995,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 242996,
       "name": "\u200e\u064a\u0627 \u0627\u0628\u0646 \u062e\u0645\u0627\u0634",
       "url": "https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD"

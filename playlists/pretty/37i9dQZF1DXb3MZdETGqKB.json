@@ -1,15 +1,35 @@
 {
   "description": "All new, all blues. Cover: Eric Bibb",
-  "num_followers": 125387,
+  "num_followers": 125429,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGYxM2FmNTNiNjUzODJhNTU3Y2I5NzVjMTc5N2RkZmJk",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDlmZmRmYjczZmM4MzQ5MDRhYjZmZDgwMzg1MjQyN2Iw",
   "tracks": [
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Bad to the Bone (Extended Version)",
+        "url": "https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Bri Bryant",
+          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
+        }
+      ],
+      "duration_ms": 257377,
+      "name": "Bad to the Bone - Extended Version",
+      "url": "https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
       "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I"

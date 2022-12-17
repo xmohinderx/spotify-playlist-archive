@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: Zulu",
+  "description": "Heavy new bands you need to have an eye on. Cover: Cassyette",
   "name": "New Blood",
   "published_playlist_ids": [
     "0gTCJ5PNCODVC0yVCIKhB7"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 147692,
       "name": "FIX THIS",
       "url": "https://open.spotify.com/track/1qoQclrr4nysaJXt9NMQGA"
@@ -1498,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "September Rain",
+        "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213874,
+      "name": "September Rain",
+      "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
+    },
+    {
+      "album": {
         "name": "Servant",
         "url": "https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt"
       },
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 190293,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ"

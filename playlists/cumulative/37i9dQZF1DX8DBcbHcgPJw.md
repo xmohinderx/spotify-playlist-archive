@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: El Polaco & La China.
 
-328 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
+329 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [En La Mía](https://open.spotify.com/track/5QtuiG6Jihrk7qYIoDZWWR) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [En La Mía](https://open.spotify.com/album/3bfkNnGUwFh46Rn38wXoLh) | 2:22 | 2022-11-11 | 2022-12-10 |
 | [Enamorao Total](https://open.spotify.com/track/6xnpkBUhIvcDSVbqJvYC2v) | [Nikki Mackliff](https://open.spotify.com/artist/3xmukiHDMY7UkmqCtl8Eyu), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Enamorao Total](https://open.spotify.com/album/1omiuaEHZCvgEisT3VRHYs) | 2:38 | 2022-01-21 | 2022-07-30 |
 | [Enemigos](https://open.spotify.com/track/1hP5LmFzOEKXI2l1UsQK7w) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Aye Jaime](https://open.spotify.com/artist/7Bru0w5SCg7ME73iHX8ygf) | [Enemigos](https://open.spotify.com/album/2bq7t9l0uWDLjRGWJF9HGZ) | 2:24 | 2022-01-03 | 2022-07-05 |
-| [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 | 2021-12-23 |  |
+| [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 | 2021-12-23 | 2022-12-17 |
 | [Eres / Me Vas a Extrañar / Desesperado \- En Vivo](https://open.spotify.com/track/46Q868d09swJSRaZYMNYjE) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Eres / Me Vas a Extrañar / Desesperado](https://open.spotify.com/album/7uYgHCFhqnxrSbN8mFxb3r) | 4:56 | 2021-12-23 |  |
 | [Esa Chica Super Onlyfans](https://open.spotify.com/track/6RMdasAsG1toLMbTBwBwi7) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Esa Chica Super Onlyfans](https://open.spotify.com/album/5W87IZeEVAiEjokciDlM1s) | 3:05 | 2022-11-11 | 2022-11-19 |
 | [Escapémonos](https://open.spotify.com/track/73DfB4H46kYKeTMVCUPX5z) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Escapémonos](https://open.spotify.com/album/4sjSbULujatTMo6yPUWG3P) | 2:13 | 2022-01-07 | 2022-07-11 |
@@ -202,6 +202,7 @@
 | [No Se](https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [No Se](https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb) | 2:40 | 2021-12-23 |  |
 | [NO SE RUEGA](https://open.spotify.com/track/5AzxnSCfSDWLlGyN83rNJR) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [NO SE RUEGA](https://open.spotify.com/album/4ZPidXILviEhxTqp5lyroW) | 1:58 | 2022-02-25 | 2022-05-20 |
 | [No Se Va](https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [No Se Va](https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT) | 3:21 | 2021-12-23 |  |
+| [No Te Confundas](https://open.spotify.com/track/5ZOLvkyS5xkkfzLe9ytDmQ) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [No Te Confundas](https://open.spotify.com/album/1of5ndRyyQ4LjADe7wlO9U) | 3:20 | 2022-12-16 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 | 2021-12-23 |  |
 | [No vas a cambiar](https://open.spotify.com/track/2JyR4XomCbSv543H904cME) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [No vas a cambiar](https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz) | 2:34 | 2021-12-23 | 2022-07-29 |
 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 | 2021-12-23 |  |

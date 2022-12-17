@@ -2,9 +2,9 @@
 
 ### [Cumbias de Oro](https://open.spotify.com/playlist/37i9dQZF1DX1fWwsbVMoI6)
 
-> A ponerse a tono con los mejores cumbiones\. Foto: Armonía 10
+> A ponerse a tono con los mejores cumbiones\. Foto: Hnos Yaipen
 
-112 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/5GjAZyTyn8IndSL0yMdeQa)
+114 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/5GjAZyTyn8IndSL0yMdeQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Cervecero](https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 5:26 | 2022-02-11 |  |
 | [Cerveza](https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Cerveza](https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez) | 3:09 | 2022-02-11 | 2022-07-27 |
 | [Chiquitita](https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM) | [Patrick Romantik](https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA), [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [Chiquitita](https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf) | 3:29 | 2022-02-11 | 2022-08-06 |
+| [Con la Mano en el Moño](https://open.spotify.com/track/3ks8JZI6QpfylogVJnHEgx) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Con la Mano en el Moño](https://open.spotify.com/album/1Vi8z8VCPnmMZoQ3nNBvPB) | 3:55 | 2022-12-17 |  |
 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 | 2022-02-11 |  |
-| [Corazón de Piedra](https://open.spotify.com/track/7aX99BUihifb3Flv07Dtyb) | [Tony Rosado](https://open.spotify.com/artist/2J6aYS0OVbeD3fxpbhINsC), [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [La Karibeña 12 Años](https://open.spotify.com/album/5Kuj4IEDPOnVbZu3yaYOn8) | 5:06 | 2022-02-11 |  |
+| [Corazón de Piedra](https://open.spotify.com/track/7aX99BUihifb3Flv07Dtyb) | [Tony Rosado](https://open.spotify.com/artist/2J6aYS0OVbeD3fxpbhINsC), [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [La Karibeña 12 Años](https://open.spotify.com/album/5Kuj4IEDPOnVbZu3yaYOn8) | 5:06 | 2022-02-11 | 2022-12-17 |
 | [Cual Dios](https://open.spotify.com/track/5bivFU6gebehzoGKdslN3F) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras!](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:25 | 2022-02-11 | 2022-07-29 |
 | [Cuando Callas](https://open.spotify.com/track/3CnEvFoHutoAqCzQPEJyTB) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Cuando Callas](https://open.spotify.com/album/24GzLBDiMywg6h01AiW6Fn) | 4:06 | 2022-02-11 | 2022-06-05 |
 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 | 2022-02-11 |  |
@@ -36,6 +37,7 @@
 | [Donde Estas Amor](https://open.spotify.com/track/4AgxR5LREx81UqZBhOO5J9) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy), [Paulo César](https://open.spotify.com/artist/5mQmaELbKAud3BE7nvLTT2) | [Donde Estas Amor](https://open.spotify.com/album/3gJ29gzulIeXVEXyooLoiH) | 3:19 | 2022-02-11 | 2022-08-06 |
 | [Días Felices](https://open.spotify.com/track/3O0ee9HVM8XAX6RYDi1srf) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/3ErnVMXg1SFb6deQOH7YLI) | 4:19 | 2022-02-11 | 2022-07-29 |
 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 | 2022-02-11 |  |
+| [Dígame usted señorita](https://open.spotify.com/track/73uNKhA2TUC93J9mIk7hrZ) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Dígame usted señorita](https://open.spotify.com/album/0AVgpKaGnG95xnZ1MBozW7) | 3:43 | 2022-12-17 |  |
 | [Dónde Están Tus Promesas](https://open.spotify.com/track/4DmHyMwMcY8zTpjaPYUww7) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Dónde Están Tus Promesas](https://open.spotify.com/album/6WB90h49FN3lxERKThcrft) | 4:09 | 2022-08-05 | 2022-11-12 |
 | [El Arbolito](https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:35 | 2022-02-11 |  |
 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 | 2022-02-11 | 2022-11-13 |
@@ -71,7 +73,7 @@
 | [Mix: Pimpinela](https://open.spotify.com/track/1PzXI9Gm4u1ktAhdWpMhLS) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [Hnos Silva](https://open.spotify.com/album/6dg5ZPWyIjnZho3KvcP2AE) | 5:00 | 2022-02-11 | 2022-07-22 |
 | [Motivos](https://open.spotify.com/track/3ovuamiUGQPLN0HuVeCNKi) | [Los Morunos](https://open.spotify.com/artist/7aH8EFjZNlY5FLsjmR9Bqh), [Mariachi Los Fortunatos](https://open.spotify.com/artist/0lsLHvQYVP3ZRzADYk90vN) | [Es para Ti Esta Serenata](https://open.spotify.com/album/2Dkbg4ojESNAQFQw3Y6lsC) | 4:02 | 2022-02-11 | 2022-07-16 |
 | [Motor Y Motivo](https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Motor Y Motivo](https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK) | 3:16 | 2022-02-11 |  |
-| [Muchachita](https://open.spotify.com/track/7d0gsBmBCq2MXGyc8j94n1) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:25 | 2022-02-11 |  |
+| [Muchachita](https://open.spotify.com/track/7d0gsBmBCq2MXGyc8j94n1) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:25 | 2022-02-11 | 2022-12-17 |
 | [Mujer Hilandera](https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Cumbia](https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU) | 5:00 | 2022-02-11 | 2022-07-06 |
 | [Necesito un Amor](https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Necesito un Amor](https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1) | 4:10 | 2022-02-11 |  |
 | [Necesito Un Amor](https://open.spotify.com/track/6LttWHXWaQeOttWPLll4BH) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [20 Años](https://open.spotify.com/album/5wBU0L4PDorACPWhXI4LQN) | 4:14 | 2022-02-11 | 2022-07-29 |

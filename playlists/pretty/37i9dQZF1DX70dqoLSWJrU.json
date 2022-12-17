@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 41595,
+  "num_followers": 41702,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxODQ5NSwwMDAwMDAwMGU1ZjNhNDZkOGQ2M2JiOTlmMzRlOTU5MjJmMmU4Y2Vj",
+  "snapshot_id": "MTY3MDQxODQ5NSwwMDAwMDAwMDNhMjAxODhhOWI5MDQxODhhODRjYTdlNzZiN2E5Yzg4",
   "tracks": [
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Rhythm Is My Business",
-        "url": "https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol.5 (1956-1958)",
         "url": "https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 191333,
       "name": "I'll Drown In My Tears",
       "url": "https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Rhythm Is My Business",
+        "url": "https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Blues, Soul & Ballads",
+        "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 127626,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "It's All Over But The Swingin'",
         "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
       },
@@ -1167,38 +1183,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "The Rockin' Chair Lady",
-        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Blues In My Heart",
-      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Blues, Soul & Ballads",
-        "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 127626,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "The Rockin' Chair Lady",
+        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Blues In My Heart",
+      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "I Wish I Knew - Remastered 2004",
-      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "The Voice That Is!",
-        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 219733,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
+      "duration_ms": 239200,
+      "name": "I Wish I Knew - Remastered 2004",
+      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1295,38 +1279,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "When Your Heart's On Fire",
-        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "He Was Too Good To Me",
-      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1343,18 +1295,34 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Smooth Songs",
-        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
+        "name": "The Voice That Is!",
+        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 216790,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+      "duration_ms": 219733,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "When Your Heart's On Fire",
+        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "He Was Too Good To Me",
+      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1375,6 +1343,38 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Smooth Songs",
+        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 216790,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -1387,6 +1387,26 @@
       "duration_ms": 190600,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1475,26 +1495,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
       },
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Roulette Sessions In Love",
+        "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Somebody Else Is Taking My Place",
+      "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "Jazz Noir",
         "url": "https://open.spotify.com/album/7CgE3mxQpB67UZRv6zYQlv"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/1iIwa1EUHXhImSJlfPUAci"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Roulette Sessions In Love",
-        "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Somebody Else Is Taking My Place",
-      "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
     },
     {
       "added_at": "2022-12-01 13:54:19",

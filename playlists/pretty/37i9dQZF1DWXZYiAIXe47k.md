@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZYiAIXe47k.md) - [plain]
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,193 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,203 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

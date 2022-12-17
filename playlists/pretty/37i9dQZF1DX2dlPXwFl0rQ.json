@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Marisol Terrazas en portada.",
-  "num_followers": 78489,
+  "num_followers": 78528,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDM5MGRiZDFmOGRiMGZiNThkNGJmYTEzYjg4MjE5Zjgx",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMGVlYzY4MTVlMjMzOTZiYTMyZTdiNGU3NDY3ODg3ZTk3",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -183,18 +183,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Empoderada",
-        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Empoderada",
-      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Homenaje A Mi Madre",
         "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 217626,
       "name": "Sola Con Mi Soledad",
       "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Empoderada",
+        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Empoderada",
+      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "No Te Dejes Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
+        "name": "Cinco Razones",
+        "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
       },
       "artists": [
         {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
         }
       ],
-      "duration_ms": 193066,
-      "name": "No Te Dejes Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+      "duration_ms": 220427,
+      "name": "Lo Mal Que Me Trataste",
+      "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1323,18 +1323,34 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Cinco Razones",
-        "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
+        "name": "No Te Dejes Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
       },
       "artists": [
         {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 220427,
-      "name": "Lo Mal Que Me Trataste",
-      "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
+      "duration_ms": 193066,
+      "name": "No Te Dejes Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
+        "url": "https://open.spotify.com/album/1e06UBjN8u0UO4zVonfZrw"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 175105,
+      "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
+      "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 140000,
       "name": "JGL (En Vivo)",
       "url": "https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
-        "url": "https://open.spotify.com/album/1e06UBjN8u0UO4zVonfZrw"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 175105,
-      "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
-      "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Vete Mucho a Donde Quieras",
-        "url": "https://open.spotify.com/album/4mYJYqNei4FQxyVxrbX2su"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Vete Mucho a Donde Quieras",
-      "url": "https://open.spotify.com/track/6JifnN1etuBesf7VHbyntA"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Vete Mucho a Donde Quieras",
+        "url": "https://open.spotify.com/album/4mYJYqNei4FQxyVxrbX2su"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Vete Mucho a Donde Quieras",
+      "url": "https://open.spotify.com/track/6JifnN1etuBesf7VHbyntA"
     },
     {
       "added_at": "2022-09-23 05:00:00",

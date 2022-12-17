@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Abalone",
+        "url": "https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126524,
+      "name": "Abalone",
+      "url": "https://open.spotify.com/track/4OGBU3agg96CA483Q280FP"
+    },
+    {
+      "album": {
         "name": "Access",
         "url": "https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge"
       },
@@ -4489,7 +4507,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 239016,
       "name": "Feelings Meeting",
       "url": "https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD"
@@ -4543,7 +4561,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187506,
       "name": "Flake",
       "url": "https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI"
@@ -4612,6 +4630,24 @@
     },
     {
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147671,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2"
+    },
+    {
+      "album": {
         "name": "Flower of Devotion",
         "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
       },
@@ -4659,7 +4695,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 260013,
       "name": "Frances Farmer Will Have Her Revenge On Seattle",
       "url": "https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE"
@@ -8252,6 +8288,24 @@
     },
     {
       "album": {
+        "name": "my favorite things",
+        "url": "https://open.spotify.com/album/7tLedYLB53PpUPOjYdffp5"
+      },
+      "artists": [
+        {
+          "name": "Molly Frances",
+          "url": "https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "my favorite things",
+      "url": "https://open.spotify.com/track/0XB8C36wLdj1GuzsXFCfVv"
+    },
+    {
+      "album": {
         "name": "Body Jumper (Deluxe)",
         "url": "https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa"
       },
@@ -11284,6 +11338,24 @@
     },
     {
       "album": {
+        "name": "You Haven't Missed Much",
+        "url": "https://open.spotify.com/album/7MZw0rg127xSEM1CXDkIIh"
+      },
+      "artists": [
+        {
+          "name": "thanks for coming",
+          "url": "https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142733,
+      "name": "Stephen Hawking's Goldfish Analogy (Demo)",
+      "url": "https://open.spotify.com/track/5G1GJu18mEN8c2GlyREUKz"
+    },
+    {
+      "album": {
         "name": "Stoned",
         "url": "https://open.spotify.com/album/4w2fTrQ1OgaKChbPHYERFw"
       },
@@ -12759,7 +12831,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 262826,
       "name": "Unfun",
       "url": "https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u"
@@ -12889,6 +12961,24 @@
       "duration_ms": 137580,
       "name": "Urgent Care",
       "url": "https://open.spotify.com/track/3Df2PIo5qxZZpb1wgXOiuL"
+    },
+    {
+      "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/3hWfrYNExzE25TccvjpHEC"
+      },
+      "artists": [
+        {
+          "name": "Kid Smoko",
+          "url": "https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Utah",
+      "url": "https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh"
     },
     {
       "album": {
@@ -13505,7 +13595,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 174440,
       "name": "Yet Another Window",
       "url": "https://open.spotify.com/track/6VWFRKxB4s0hH5lnY3FyZS"

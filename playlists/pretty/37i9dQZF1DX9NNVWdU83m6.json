@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 32414,
+  "num_followers": 32461,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDgwNDBhOTllMjQ1ZDJjYzI0NjNmYTQ2MGYyN2ZhMDY0",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDQyNmI4N2UxZTQzZGY4NWIxNGM3YjBlNjE5OTNmOTQ0",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Bookshelf",
+        "url": "https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Rain Dog",
+      "url": "https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Immigrance",
         "url": "https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 571323,
       "name": "Xavi",
       "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8"
-      },
-      "artists": [
-        {
-          "name": "NuHussel Orchestra",
-          "url": "https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN"
-        }
-      ],
-      "duration_ms": 302040,
-      "name": "Cptn Future",
-      "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -245,20 +245,20 @@
       "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Bookshelf",
-        "url": "https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8"
       },
       "artists": [
         {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+          "name": "NuHussel Orchestra",
+          "url": "https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Rain Dog",
-      "url": "https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr"
+      "duration_ms": 302040,
+      "name": "Cptn Future",
+      "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 305858,
-      "name": "Truck Fump",
-      "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
@@ -903,6 +887,22 @@
       "duration_ms": 437607,
       "name": "Stadium Jazz",
       "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 305858,
+      "name": "Truck Fump",
+      "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
     }
   ],
   "unique_name": "Prog Jazz",

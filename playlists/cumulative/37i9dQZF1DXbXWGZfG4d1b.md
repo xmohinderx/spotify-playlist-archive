@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-401 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+402 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [No Le Des Mas Vuelta](https://open.spotify.com/track/4OhELc8ny8Uel5nciZZ1Sq) | [Leandro Lopatin](https://open.spotify.com/artist/6MOOqOsT16VsoZOwZpttXX) | [No Le Des Mas Vuelta](https://open.spotify.com/album/6JwnT7GtY8En4h5n9xDMxD) | 3:45 | 2022-06-03 | 2022-07-25 |
 | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/track/3M0w5JH8ETjLiQ6rTHcguA) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/album/4vlMKyXU850kEr8a7BSgzt) | 3:54 | 2022-06-03 |  |
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-07-15 | 2022-07-28 |
-| [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 | 2022-09-09 |  |
+| [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 | 2022-09-09 | 2022-12-17 |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-07-15 |  |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-07-01 | 2022-07-25 |
 | [Nudos](https://open.spotify.com/track/0nZo1400P5g6WH70Riy4YB) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Nudos](https://open.spotify.com/album/2CHHKGh0bpnSeRzOQDYcrb) | 4:03 | 2022-07-15 | 2022-08-28 |
@@ -350,6 +350,7 @@
 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 | 2022-07-01 |  |
 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 | 2022-06-03 |  |
 | [Soy del Río](https://open.spotify.com/track/7AiqcYIPa3avpgW26fNFdA) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Transeúntes](https://open.spotify.com/artist/5c7ZnZV7FK9QnX18a3JMfU) | [Soy del Río](https://open.spotify.com/album/330kotZDGpRWJMZSw20DWc) | 5:02 | 2022-07-01 | 2022-07-29 |
+| [Suavemente Entusiasmado](https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Suavemente Entusiasmado](https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ) | 3:56 | 2022-12-09 |  |
 | [Suavemente Entusiasmado](https://open.spotify.com/track/4imx5CrSaZv0xvhpmsJdCV) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Suavemente entusiasmado](https://open.spotify.com/album/0AOQ9H0w7MEcAnX6J3u8g2) | 3:56 | 2022-06-03 | 2022-12-11 |
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-06-03 | 2022-11-27 |
 | [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 | 2022-11-11 |  |

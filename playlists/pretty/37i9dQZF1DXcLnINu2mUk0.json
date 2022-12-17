@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 22508,
+  "num_followers": 22548,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDNlNTI0ZWQ0NTBjYTQyNDA0ZDBmNjQ3MGQ2YTA5ZDdl",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDQzMDEzYTgyODFlYmQwNTlmYmRmMTY0YjE0ODNjNDVj",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/17i647lAXr88FRR46cWxJQ"
+      },
+      "artists": [
+        {
+          "name": "YVNG CIRIUS",
+          "url": "https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA"
+        }
+      ],
+      "duration_ms": 171467,
+      "name": "Nuvem",
+      "url": "https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 185693,
       "name": "Sou Melhor",
       "url": "https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/17i647lAXr88FRR46cWxJQ"
-      },
-      "artists": [
-        {
-          "name": "YVNG CIRIUS",
-          "url": "https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA"
-        }
-      ],
-      "duration_ms": 171467,
-      "name": "Nuvem",
-      "url": "https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ"
     },
     {
       "added_at": "2022-12-02 00:00:00",

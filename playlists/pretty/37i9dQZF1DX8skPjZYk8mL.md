@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,185 likes - 371 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,322 likes - 371 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 22 | [It's A Small World](https://open.spotify.com/track/1WrWDc7sRiaC9R5pgSMzEt) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [It's A Small World](https://open.spotify.com/album/354NAzvEjnVOpgcJUlP1hJ) | 1:52 |
 | 23 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 |
 | 24 | [Mr\. Cat](https://open.spotify.com/track/4eIZdb7KkPKcXhmWimNTE1) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Mr\. Cat](https://open.spotify.com/album/2wzOOWuEcaYrpkLQWX3bMy) | 2:00 |
-| 25 | [On The Field Of Dreams](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Izabella Kirk](https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED) | [On The Field Of Dreams](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 1:11 |
+| 25 | [Sinnlig](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [Sinnlig](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 2:03 |
 | 26 | [My Book](https://open.spotify.com/track/1zXUoqTA8kpcpa9D4Ija6R) | [Kamryn Salvage](https://open.spotify.com/artist/3KfjqBzQHltY9XwXluBRpB) | [My Book](https://open.spotify.com/album/0fdAMBD9V3SMRNhQSs7wTx) | 1:47 |
 | 27 | [Flowerpicking](https://open.spotify.com/track/4Q8dTf4AP4VcmhINwEJ3hr) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Flowerpicking](https://open.spotify.com/album/1PzBefJUzF6gTpIJJGGbuy) | 2:27 |
 | 28 | [Main Theme \(From "Babar"\) Music Box Version](https://open.spotify.com/track/4QYZumVgfGNaP52IVEb6uT) | [Orson's Library](https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT) | [Main Theme \(From "Babar"\)](https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL) | 1:17 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 68 | [The Priest's Little Crow](https://open.spotify.com/track/6YWfwQi9Hh8LDi8zAurFdk) | [Stina\-Liv Nilsson](https://open.spotify.com/artist/7tbXwiB9QwEyTcuc8vSDrV) | [The Priest's Little Crow](https://open.spotify.com/album/5Df0YMOxZOIoqJdv9tQIN1) | 3:00 |
 | 69 | [Cutie Pie](https://open.spotify.com/track/50E2d2pu7NIDIKOiYV6dIE) | [Phoenix Hall](https://open.spotify.com/artist/59cDRbmlhT9y6rRfe8ip8Z) | [Tippy Toe](https://open.spotify.com/album/70Qq2u7CvLSGWxOr9wjMJJ) | 1:48 |
 | 70 | [Bedtime for Julie \- Guitar Version](https://open.spotify.com/track/26OXunNuaPYR2nW3GMeA9Z) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Bedtime for Julie \(Guitar Version\)](https://open.spotify.com/album/0KT0iv8VpEY45gsBUii8zM) | 2:03 |
-| 71 | [Grandma's Joy](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Grandma's Joy](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:00 |
+| 71 | [Lust](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Lust](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:09 |
 | 72 | [Lullaby Love](https://open.spotify.com/track/77u9y7owrOxvmcPl4tXX2u) | [Harper Wootton](https://open.spotify.com/artist/5WVXOF9dThJk2O5KEgbph4) | [Lullaby Love](https://open.spotify.com/album/100CtdiyYeLcGNftTdOUGJ) | 1:09 |
 | 73 | [Har du sett min lilla katt?](https://open.spotify.com/track/3OqMH2afD1luc6LkPCSXL8) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Har du sett min lilla katt?](https://open.spotify.com/album/4nUkkBgCNQmnIOJDjIEWjw) | 1:12 |
 | 74 | [Majas visa](https://open.spotify.com/track/4KJ38cmvLteA1mWURNVXbD) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Majas visa](https://open.spotify.com/album/7MDXgNepfqxgjuz67cglgj) | 1:25 |

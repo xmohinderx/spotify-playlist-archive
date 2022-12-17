@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-228 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+229 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Crysis](https://open.spotify.com/track/63QmPu78mNPRloQFVMdM81) | [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej), [Natika](https://open.spotify.com/artist/3fVMekTlDXQulpKvrvGjFG) | [Crysis](https://open.spotify.com/album/1jzuL78QHyNlYdyhiP5PiR) | 5:35 | 2022-05-19 | 2022-05-21 |
 | [DAMN!](https://open.spotify.com/track/2bV1OZj91uEq2RilwkqsgK) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [DAMN!](https://open.spotify.com/album/0O5Zb4KeCunPnXlNOYYHmf) | 2:57 | 2022-06-03 | 2022-06-25 |
 | [DANCE](https://open.spotify.com/track/5Z5qYQz6ODyI8rdUb3Ebi9) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q), [VAUST](https://open.spotify.com/artist/1ZVOJdrVjtDjy67MomQSVX) | [DANCE](https://open.spotify.com/album/4WZmRCqCzqMqdKbEC4ZRWJ) | 3:38 | 2022-08-18 | 2022-09-10 |
+| [Dance Lullaby \(Radio Night MIX\)](https://open.spotify.com/track/0KRBzhDVHk6ueeINrLushR) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Luca Noise](https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0), [LUC ON](https://open.spotify.com/artist/3cqBxpIKwsKRTitMMl1Td8) | [Dance Lullaby](https://open.spotify.com/album/4t8nlmINrKisC35vyIMm6X) | 3:20 | 2022-12-17 |  |
 | [Dancin' On Me](https://open.spotify.com/track/249gmgGjdauLwoaGrhrDA0) | [Schameleon](https://open.spotify.com/artist/38rdvu0UtjclycKzhokGjk) | [Dance](https://open.spotify.com/album/3HLysNwDBKFdCJBlLXAsbv) | 6:28 | 2022-04-22 | 2022-07-29 |
 | [Dark Matter](https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW) | [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [Dark Matter](https://open.spotify.com/album/1NMqrP1M0rDVI3WQARWLRg) | 7:30 | 2022-04-15 | 2022-07-28 |
 | [Dark Oscillator](https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW) | [Audiomatic](https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV) | [Dark Oscillator](https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF) | 6:19 | 2022-04-15 |  |
@@ -71,7 +72,7 @@
 | [End of a Government \- 2019 Remix](https://open.spotify.com/track/5kElAiWCna42paMRY7ngZi) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [End of a Government](https://open.spotify.com/album/4k4eSPuB5LfzU0unwN4Oh9) | 7:13 | 2022-04-15 | 2022-07-29 |
 | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Krigarè](https://open.spotify.com/artist/5UHbXPFqcRsZm7uS5ev8Q1) | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/album/6QOPCj17rs5nB1Kc8ayrX2) | 3:40 | 2022-11-03 |  |
 | [Enlightenment](https://open.spotify.com/track/7F8ACXtI6sU7dmYuBJJfrh) | [Hidden Secret](https://open.spotify.com/artist/1h3OfpOaCVBgmlNcuoZR8t) | [Enlightenment](https://open.spotify.com/album/2LyO7cVpobBnG29q2YCxiF) | 8:30 | 2022-04-15 | 2022-07-29 |
-| [Esta Si](https://open.spotify.com/track/3reyHrjQqNBv35CBKKfX2s) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Chimo Bayo](https://open.spotify.com/artist/5v8i5bIYoqGgrh9SLpclfd) | [Esta Si](https://open.spotify.com/album/1Ei5gXDhVrKIgbmGvRPHDa) | 2:35 | 2022-09-29 |  |
+| [Esta Si](https://open.spotify.com/track/3reyHrjQqNBv35CBKKfX2s) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Chimo Bayo](https://open.spotify.com/artist/5v8i5bIYoqGgrh9SLpclfd) | [Esta Si](https://open.spotify.com/album/1Ei5gXDhVrKIgbmGvRPHDa) | 2:35 | 2022-09-29 | 2022-12-17 |
 | [Euphoria](https://open.spotify.com/track/79uWqZaYE5s0tq09FiEyMp) | [Alchimyst](https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [Euphoria](https://open.spotify.com/album/1DoRi80ZXtwNN6gxsxhejL) | 3:24 | 2022-09-29 | 2022-11-11 |
 | [Falling Down](https://open.spotify.com/track/5QyjJqlOKfy7Uq7AUbClq6) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Falling Down](https://open.spotify.com/album/4qWKZYFGNAJ7kaP5iwA3hH) | 3:46 | 2022-09-09 | 2022-09-24 |
 | [Famous](https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [Famous](https://open.spotify.com/album/3ro1Am5Vrj5ML2zlgOlvIJ) | 6:59 | 2022-04-15 | 2022-07-29 |

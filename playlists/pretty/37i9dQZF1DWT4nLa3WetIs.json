@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 68481,
+  "num_followers": 68607,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGJlYjFhNzU4YmQ0ZmY5NDMzZTA2M2JhNmEzNzUzNWE1",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGQyMGU0MjdiYTQ4NGQ5MDM5OGQ1Mjg3ZmYxODlkYmEw",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -207,18 +207,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Afrikan New Style",
-        "url": "https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u"
+        "name": "Adonai (Remix) [feat. Castro]",
+        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
       "artists": [
         {
-          "name": "Jessy Matador",
-          "url": "https://open.spotify.com/artist/7kg2IelllVmw7WcnSFtlXR"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
         }
       ],
-      "duration_ms": 175200,
-      "name": "D\u00e9cal\u00e9 Gwada",
-      "url": "https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c"
+      "duration_ms": 288130,
+      "name": "Adonai (Remix) [feat. Castro]",
+      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -259,22 +263,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Adonai (Remix) [feat. Castro]",
-        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
+        "name": "Afrikan New Style",
+        "url": "https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
+          "name": "Jessy Matador",
+          "url": "https://open.spotify.com/artist/7kg2IelllVmw7WcnSFtlXR"
         }
       ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix) [feat. Castro]",
-      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
+      "duration_ms": 175200,
+      "name": "D\u00e9cal\u00e9 Gwada",
+      "url": "https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -487,22 +487,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "The Matter (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/1nu7MqRnwUFG26Zk90kWyV"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "The Matter (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 266903,
       "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
       "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "The Matter (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/1nu7MqRnwUFG26Zk90kWyV"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "The Matter (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Gongo Aso",
-        "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
-      },
-      "artists": [
-        {
-          "name": "9ice",
-          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Gongo Aso",
-      "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Gongo Aso",
+        "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Gongo Aso",
+      "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -999,26 +999,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Malonogede",
-      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Mushin 2 Mo' Hits",
         "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 242013,
       "name": "You Bad (feat. D'banj)",
       "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Bundelele",
+        "url": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5"
+      },
+      "artists": [
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "duration_ms": 205970,
+      "name": "Bundelele",
+      "url": "https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "DeYaaa",
         "url": "https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Bundelele",
-        "url": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5"
+        "name": "Best Of Wande Coal",
+        "url": "https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66"
       },
       "artists": [
         {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 205970,
-      "name": "Bundelele",
-      "url": "https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT"
+      "duration_ms": 225933,
+      "name": "Bumper To Bumper",
+      "url": "https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1119,22 +1135,6 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Best Of Wande Coal",
-        "url": "https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Bumper To Bumper",
-      "url": "https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "The Thing",
         "url": "https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n"
       },
@@ -1235,42 +1255,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 219093,
       "name": "Love Me, Love Me, Love Me",
       "url": "https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": "2020-11-06 13:21:21",

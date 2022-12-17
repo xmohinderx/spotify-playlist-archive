@@ -1416,6 +1416,28 @@
     },
     {
       "album": {
+        "name": "Chaal",
+        "url": "https://open.spotify.com/album/0zY0hQZOnz65fP6yZFHeqe"
+      },
+      "artists": [
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212138,
+      "name": "Chaal",
+      "url": "https://open.spotify.com/track/4tszOdKz6c6gvJHyIxXiZN"
+    },
+    {
+      "album": {
         "name": "Chabbi",
         "url": "https://open.spotify.com/album/0V3JwNUon6yzdrDn3zsgLY"
       },
@@ -5475,6 +5497,24 @@
       "duration_ms": 462197,
       "name": "Kalam Kalla",
       "url": "https://open.spotify.com/track/61nyr6HbWSO06IMnCHRle4"
+    },
+    {
+      "album": {
+        "name": "Kaleere",
+        "url": "https://open.spotify.com/album/0pun4uoQVC6dAhqiHIBHRj"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Kaleere",
+      "url": "https://open.spotify.com/track/2D9LdMmol21XwsRlK0NYqb"
     },
     {
       "album": {
@@ -10606,6 +10646,28 @@
     },
     {
       "album": {
+        "name": "She Looked At Me",
+        "url": "https://open.spotify.com/album/3ls5rcpYqzcrlLzUtnW8FD"
+      },
+      "artists": [
+        {
+          "name": "Raahi",
+          "url": "https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2"
+        },
+        {
+          "name": "Ardaas",
+          "url": "https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156697,
+      "name": "She Looked At Me",
+      "url": "https://open.spotify.com/track/13OOUhzRPqKXmG2MawCVMv"
+    },
+    {
+      "album": {
         "name": "Alll Rounder",
         "url": "https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS"
       },
@@ -12260,6 +12322,28 @@
     },
     {
       "album": {
+        "name": "Tochan",
+        "url": "https://open.spotify.com/album/6Qe64Ygt1tekPdGdVSL82L"
+      },
+      "artists": [
+        {
+          "name": "Lopon Sidhu",
+          "url": "https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188062,
+      "name": "Tochan",
+      "url": "https://open.spotify.com/track/5eKSzHq3KKqMeaOelb77D1"
+    },
+    {
+      "album": {
         "name": "Tod Gayi",
         "url": "https://open.spotify.com/album/2UKewxdeFG7QX7dszVholW"
       },
@@ -12461,10 +12545,32 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 188674,
       "name": "Tu Tan Main",
       "url": "https://open.spotify.com/track/3HOxCKFFRSWfrMOM5DHsRn"
+    },
+    {
+      "album": {
+        "name": "Tu Tan Main - Single",
+        "url": "https://open.spotify.com/album/267NrowQgB4r2cNpLB3IWL"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Luvdeep Saini Aka LDS",
+          "url": "https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188674,
+      "name": "Tu Tan Main",
+      "url": "https://open.spotify.com/track/4QooqUadhw5LMMhkik7zJ8"
     },
     {
       "album": {

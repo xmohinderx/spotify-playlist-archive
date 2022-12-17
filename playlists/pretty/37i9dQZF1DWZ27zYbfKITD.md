@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,359 likes - 71 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,428 likes - 71 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 15 | [Don't Stare At The Stars Too Long](https://open.spotify.com/track/7FsgnMiteTjVpaBEX9nWRf) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Adolescence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/099yM2SCLUGk2CO78PDYLT) | 1:32 |
 | 16 | [Everytime You Leave](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 |
 | 17 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 |
-| 18 | [A Once Great City](https://open.spotify.com/track/7cFWmwzHLPgg5XM1wzF9io) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [His Dark Materials Series 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/6z2ojH722cYDVIlGf8xkf6) | 2:15 |
+| 18 | [A Once Great City](https://open.spotify.com/track/6l1Mtb8co9A64rXbmzHIMj) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [His Dark Materials Series 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5OH3JEmM5qbQGCe3WvSn62) | 2:15 |
 | 19 | [Miss Jackson](https://open.spotify.com/track/7hKxwj5xPv2TK8u2hCuMYz) | [Guy Farley](https://open.spotify.com/artist/7zPWhKdOZpsBTGSSee5DsM) | [Silver Skates \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6rXyVJElsZ0YcB2oo9KiRr) | 2:15 |
 | 20 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 |
 | 21 | [Ragnar Dreams of Home](https://open.spotify.com/track/3nVc5ARjS5gpGOV34QkTlw) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings IV \(Music from the TV Series\)](https://open.spotify.com/album/5zJORKvOIkroj9fmKdUPZI) | 1:41 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 70 | [The Last Samurai Suite: Part 1 \- Live](https://open.spotify.com/track/4SrsN2NYSHcf7cYsW6IKvy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [The Disruptive Collective](https://open.spotify.com/artist/0oMhzz3sH8FqeezbdI3yAm) | [The Last Samurai Suite](https://open.spotify.com/album/2cLdbyLtYoDd6cIgXJVHI3) | 2:56 |
 | 71 | [Vagrant's Rest \(A Place to Call Home\)](https://open.spotify.com/track/72OyVUVfEVFl3Iy7rebahm) | [e.hillman](https://open.spotify.com/artist/5I4vi0vVJXlwNMg9EDry3V) | [Ashen \(Original Soundtrack\)](https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk) | 3:22 |
 
-Snapshot ID: `MTY2ODY5MzAwOCwwMDAwMDAwMDViMmNlMDhmMjNkMWFkOTE0YzdhMDFiNGY1MjMwZDBh`
+Snapshot ID: `MTY2ODY5MzAwOCwwMDAwMDAwMGMzNGExMjk4YmQwMDk1NzAxZWI4NmIyMGZiZTMzOTQ2`

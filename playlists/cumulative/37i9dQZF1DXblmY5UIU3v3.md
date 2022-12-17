@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-172 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
+173 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Ice](https://open.spotify.com/track/4LaVwTbIR8eFKge1xOgJBe) | [Soner Karaca](https://open.spotify.com/artist/1sBt5pbb0tW8VjLpmKXyLj), [Onur Enfal](https://open.spotify.com/artist/1kI91ce6uHcJZymFcavzZL) | [Ice](https://open.spotify.com/album/46uVnl8Aua2qfUpTZMWOMW) | 2:21 | 2022-05-06 | 2022-05-27 |
 | [In The Car](https://open.spotify.com/track/1NDisFoShGmFHltbPSF69Q) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [KEAN DYSSO](https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5) | [In The Car](https://open.spotify.com/album/2fA3fXYgvhuFVmvKv0d5LA) | 3:55 | 2022-04-07 | 2022-06-04 |
 | [Indian Desert](https://open.spotify.com/track/01nOgbLl0A9AiZl0ip1aQH) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Indian Desert](https://open.spotify.com/album/4VyrNDmlD0yyGTvpz3B0RA) | 3:00 | 2022-06-30 | 2022-08-06 |
+| [Italiano](https://open.spotify.com/track/11f2bRjzB8Wg7HJrc79elD) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [Italiano](https://open.spotify.com/album/2dISskwRgnkswbWfX2Fe2h) | 2:30 | 2022-12-16 |  |
 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 | 2022-10-27 |  |
 | [Just A Lil Bit](https://open.spotify.com/track/6Wwi5V7VAR9KOo8c9gksh1) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Flyn Stoned](https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k) | [Just A Lil Bit](https://open.spotify.com/album/4XjtQUIBZEkOiGLXbUwEoe) | 2:08 | 2022-06-10 |  |
 | [Karma Karma](https://open.spotify.com/track/0ZI6UpMROX3ezmsvjGT5uM) | [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW) | [Karma Karma](https://open.spotify.com/album/0rCeHCAJgAwANb7TOQz6te) | 2:25 | 2022-04-07 | 2022-05-07 |
@@ -139,7 +140,7 @@
 | [Requiem](https://open.spotify.com/track/3NA5PFmaV30v3LUyjMtiu9) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [KANVISE](https://open.spotify.com/artist/1c8bw1hMtl5RO92FZsxX1U) | [Requiem](https://open.spotify.com/album/1wH2VrTo4MV47hrIyonlJb) | 2:29 | 2022-04-07 | 2022-06-11 |
 | [Rockstar](https://open.spotify.com/track/2EvkuKd9qC5qk8Qxm6SzPY) | [Cedrix](https://open.spotify.com/artist/0XY9QKkTnONBkjszYTfsZl), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz), [Emrah Turken](https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe) | [Rockstar](https://open.spotify.com/album/01XL0vCDJdAKURjMu97yGt) | 2:48 | 2022-06-03 | 2022-07-09 |
 | [RVBLE & DVST](https://open.spotify.com/track/2CiCGSQjwQS9dweknIs91G) | [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Robert Cristian](https://open.spotify.com/artist/26ebqYqothrkkGHWEvJy4D) | [RVBLE & DVST](https://open.spotify.com/album/4nbbj2cKmY2aCY9IuvSEJG) | 2:38 | 2022-05-06 | 2022-10-21 |
-| [S.T.A.L.K.E.R](https://open.spotify.com/track/0v1inx6DMkaMiQwZQw9vRo) | [Tommy Soprano](https://open.spotify.com/artist/1bohBNryuQpzSEtG9cytN1), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [S.T.A.L.K.E.R](https://open.spotify.com/album/1jywvyn8CMDY6qNJME9BIf) | 2:45 | 2022-11-17 |  |
+| [S.T.A.L.K.E.R](https://open.spotify.com/track/0v1inx6DMkaMiQwZQw9vRo) | [Tommy Soprano](https://open.spotify.com/artist/1bohBNryuQpzSEtG9cytN1), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [S.T.A.L.K.E.R](https://open.spotify.com/album/1jywvyn8CMDY6qNJME9BIf) | 2:45 | 2022-11-17 | 2022-12-17 |
 | [SAMURAI](https://open.spotify.com/track/3yUDo3vkOE5XI0W5k6A1vI) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/01u5x15oJm1a8uKVN3pP7T) | 2:49 | 2022-11-11 |  |
 | [SAX](https://open.spotify.com/track/5f0VxpTZ3pXgDi6f4XgsL6) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SAX](https://open.spotify.com/album/5PeIppUVmMLLn0AFKxBECh) | 2:33 | 2022-05-12 | 2022-07-16 |
 | [Shagy](https://open.spotify.com/track/2zI17EWoz24ZaDB9baDBhC) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA) | [Shagy](https://open.spotify.com/album/6AuQTnJG4AYhqpo5zQAtVx) | 2:30 | 2022-05-26 | 2022-08-27 |

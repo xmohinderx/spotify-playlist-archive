@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: BABYMETAL",
-  "num_followers": 554024,
+  "num_followers": 554541,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTExMywwMDAwMDAwMDBkNTE5ODEzMjM0YTMyMjgzM2QzOTllMThjMGU3NDUz",
+  "snapshot_id": "MTY2ODczNTExMywwMDAwMDAwMDUyOTNhZDcwYWFkNDMxZWY4NmYzNTZiM2E1ODQwZTA0",
   "tracks": [
     {
       "added_at": "2022-10-28 12:07:52",
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ"
     },
     {
-      "added_at": "2022-12-16 00:03:18",
+      "added_at": "2022-12-17 00:11:45",
       "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
     },
     {
-      "added_at": "2022-12-16 00:03:18",
+      "added_at": "2022-12-17 00:11:45",
       "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
     },
     {
-      "added_at": "2022-12-16 00:03:18",
+      "added_at": "2022-12-17 00:11:45",
       "album": {
         "name": "Sad Girl Mixtape",
         "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 338960,
       "name": "Handshake with Hell",
       "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Amorphous",
-        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
       },
       "artists": [
         {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Brittle",
-      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -707,6 +691,22 @@
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Amorphous",
+        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Brittle",
+      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
-      },
-      "artists": [
-        {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 270226,
       "name": "And So It Went [Feat. Tom Morello]",
       "url": "https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
-      "added_at": "2022-12-16 00:03:18",
+      "added_at": "2022-12-17 00:11:45",
       "album": {
         "name": "Do Or Die (feat. Nathan James)",
         "url": "https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI"
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 136156,
-      "name": "molotov [OK]",
-      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 300647,
       "name": "Flux",
       "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 136156,
+      "name": "molotov [OK]",
+      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
     },
     {
+      "added_at": "2022-12-17 00:11:45",
+      "album": {
+        "name": "Cover You",
+        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Cover You",
+      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
+    },
+    {
       "added_at": "2022-10-28 12:07:52",
       "album": {
         "name": "Swamped XX",
@@ -963,22 +979,6 @@
       "duration_ms": 212826,
       "name": "Swamped XX",
       "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
-    },
-    {
-      "added_at": "2022-12-16 00:03:18",
-      "album": {
-        "name": "Cover You",
-        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Cover You",
-      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 337058,
-      "name": "Freedom - The Wolves Within -",
-      "url": "https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Mr. Magic",
         "url": "https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 264219,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 337058,
+      "name": "Freedom - The Wolves Within -",
+      "url": "https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan"
+        "name": "Apocalypse & Chill",
+        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
       },
       "artists": [
         {
-          "name": "Smackbound",
-          "url": "https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe"
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Drive It Like You Stole It",
-      "url": "https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G"
+      "duration_ms": 256040,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Apocalypse & Chill",
-        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan"
       },
       "artists": [
         {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+          "name": "Smackbound",
+          "url": "https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe"
         }
       ],
-      "duration_ms": 256040,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
+      "duration_ms": 216213,
+      "name": "Drive It Like You Stole It",
+      "url": "https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G"
     },
     {
       "added_at": "2022-10-28 12:07:52",

@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Papatinho, Xamã, Juliette, L7NNON, Welissom
 
-140 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
+141 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,9 +48,10 @@
 | [Docê](https://open.spotify.com/track/5kCNhVsZ9mD3TDUgcL5tlp) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Docê](https://open.spotify.com/album/2ls9PYhT0VTFA3vTJOD5Bj) | 2:14 | 2022-03-25 | 2022-07-29 |
 | [Docê](https://open.spotify.com/track/7kAMRNiXGz63vG05Lsl8WR) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Docê](https://open.spotify.com/album/2pE3i5zeAV3RCezKx7njJ6) | 2:14 | 2022-07-15 |  |
 | [Dragão nas Costas](https://open.spotify.com/track/79O4YcEc4JpOgxlIBeLExZ) | [Belato](https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62), [Dj Nb](https://open.spotify.com/artist/2GZUy5017hx1rotZruGpee), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Dragão nas Costas](https://open.spotify.com/album/3QSiajpEIdQ8kWdEeajS9o) | 3:25 | 2022-06-10 | 2022-08-06 |
+| [Dreads Azuis](https://open.spotify.com/track/4LVOiD2xCTQ9HxRKxeWTGh) | [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Dreads Azuis](https://open.spotify.com/album/2pVGkecKhR0ZZnMjWjZRA2) | 2:21 | 2022-12-16 |  |
 | [Eclipse \- Acústico Vivências](https://open.spotify.com/track/7JjuGtJHBcT1rofedtEqvp) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [3 Um Só](https://open.spotify.com/artist/02ahhbTmx0wY2DvkqAMdRx), [Agriff](https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn), [Face Oculta](https://open.spotify.com/artist/0w3JvODott5EiXjiwD4QcO) | [Eclipse \(Acústico Vivências\)](https://open.spotify.com/album/1Do6sOEgQLccwjYyLmWyRz) | 7:05 | 2022-03-18 | 2022-09-24 |
 | [Em Brasa](https://open.spotify.com/track/00OdVb1DXh4VnEDSjxB67X) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Bell Lins](https://open.spotify.com/artist/1Ip6WEGrOlzrpbmyrrYhQr) | [Em Brasa](https://open.spotify.com/album/1YoTkIQ1sq3V3iAXei59Cy) | 2:50 | 2022-05-13 | 2022-07-02 |
-| [Entrelace](https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Entrelace](https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF) | 3:49 | 2022-11-11 |  |
+| [Entrelace](https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Entrelace](https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF) | 3:49 | 2022-11-11 | 2022-12-17 |
 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 | 2022-03-18 |  |
 | [Esboço](https://open.spotify.com/track/6QCKSxcXlx1XZUmh85P9x5) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Esboço](https://open.spotify.com/album/7KBj7I5f9hscmtL0zkrJLv) | 2:06 | 2022-09-23 |  |
 | [Escorpiano](https://open.spotify.com/track/2fX7EvCm7oB0aBzBoimUeI) | [SaraH](https://open.spotify.com/artist/3NkF2WYP1E10LDHlukuLbW), [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Escorpiano](https://open.spotify.com/album/3laZTu81vPOHcaZamMlnzF) | 2:48 | 2022-09-09 | 2022-09-24 |

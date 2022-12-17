@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Mon Laferte en portada. ",
-  "num_followers": 10545,
+  "num_followers": 10568,
   "original_name": "Lo mejor de EQUAL Chile 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDU1NzAzZTgxNWM2MDU3YmM5OTYzNTBmZWE4OTcxOWYw",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGUxZDE1YjZlZGNlNGU3NzAzMWQ1YmM1NWI4ZTA5ZWYw",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 228065,
+      "name": "S\u00ed S\u00ed S\u00ed",
+      "url": "https://open.spotify.com/track/3xeTWr7alFHDn5ZWITHUSX"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 206646,
       "name": "Jui$y",
       "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 228065,
-      "name": "S\u00ed S\u00ed S\u00ed",
-      "url": "https://open.spotify.com/track/3xeTWr7alFHDn5ZWITHUSX"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Remando Al Fondo",
         "url": "https://open.spotify.com/album/3KB4oVOGMe0Pyi6AJIM0Kg"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 213333,
       "name": "Remando Al Fondo",
       "url": "https://open.spotify.com/track/7Hbvcj8TI6cH4VP0XCzqS1"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
     },
     {
       "added_at": "2022-11-30 13:00:00",

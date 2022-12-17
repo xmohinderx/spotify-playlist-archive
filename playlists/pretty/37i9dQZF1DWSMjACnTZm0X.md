@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=D6t3mgaNRoG34W61XJd0Qw">Lojay</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=KWN2MSIkRP2HPgX2t9QTMg">DJ Maphorisa</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=g31cPvUxRSGeNeezoaaKYg">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,672 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,675 likes - 49 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 45 | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80) | 4:37 |
 | 46 | [REQUIRE \(with Olamide\)](https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [REQUIRE \(with Olamide\)](https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt) | 3:43 |
 | 47 | [Cross My Lane](https://open.spotify.com/track/5u3DBDAtwldSB0vq2wRKPG) | [Broda Shaggi](https://open.spotify.com/artist/0W1pukpZRU3zjGUKgSJW8o), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Cross My Lane](https://open.spotify.com/album/38IxB0W7HqdzGJvrtW4iP5) | 3:37 |
-| 48 | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/track/6a9kJHRxqrkMM1l9LWedor) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/album/3T7tj0HMdpXPMnV8XFsW4f) | 2:36 |
-| 49 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
-| 50 | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/album/7LhPDGHwqdinqFXBQxAwcI) | 6:52 |
+| 48 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
+| 49 | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/album/7LhPDGHwqdinqFXBQxAwcI) | 6:52 |
 
 Snapshot ID: `MTY3MDg0NzM4NiwwMDAwMDAwMGZmYTg1MDU5OGEwMzEzYTY5ZmViMTYzZjhhMThmZTgy`

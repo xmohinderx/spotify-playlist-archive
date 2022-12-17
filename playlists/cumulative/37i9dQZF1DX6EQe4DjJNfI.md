@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Duquesa
 
-78 songs - 4 hr 3 min - not published yet
+79 songs - 4 hr 5 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Conexão](https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy), [Cibelle Aguiar](https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu) | [Conexão](https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43) | 2:36 | 2022-11-18 |  |
 | [Conexão](https://open.spotify.com/track/1la5HZeUjpcHZc9nvYt0QH) | [Grazi Oliveira](https://open.spotify.com/artist/7aHcRf4trMihr35Lx1nfbk), [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Conexão](https://open.spotify.com/album/3khkTdG4n8XBMDws8buxvH) | 3:05 | 2022-12-01 | 2022-12-03 |
 | [Contraponto](https://open.spotify.com/track/02Uf0sZHNFPxcOZ8pF3EJW) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Vanessa Macedo](https://open.spotify.com/artist/5G82Is68b0KHxvFBZSsd0r) | [Contraponto](https://open.spotify.com/album/2tY2W6wy7KGNk2vDfn2732) | 2:47 | 2022-11-18 |  |
-| [Daddy](https://open.spotify.com/track/5nuyy5eLGMCn10BW1yXQ5b) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Daddy](https://open.spotify.com/album/5hrJhU1uUGlw15hwCMqO5k) | 2:48 | 2022-12-01 |  |
+| [Daddy](https://open.spotify.com/track/5nuyy5eLGMCn10BW1yXQ5b) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Daddy](https://open.spotify.com/album/5hrJhU1uUGlw15hwCMqO5k) | 2:48 | 2022-12-01 | 2022-12-17 |
 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 | 2022-12-02 |  |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 |  |
 | [Enigma](https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Enigma](https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N) | 4:00 | 2022-11-18 |  |
@@ -53,6 +53,7 @@
 | [Na Cama](https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Na Cama](https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo) | 3:15 | 2022-11-18 |  |
 | [Nessa Vida](https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE) | 3:09 | 2022-11-18 |  |
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2022-11-18 |  |
+| [Nosso Futuro](https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6) | [Isis Orbelli](https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY) | [Nosso Futuro](https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF) | 2:03 | 2022-12-16 |  |
 | [Não Quero Te Perder](https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Não Quero Te Perder](https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0) | 2:49 | 2022-11-18 |  |
 | [Não quis enxergar](https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Não quis enxergar](https://open.spotify.com/album/2J73R8Jzjx5ILRLBxuMo9A) | 3:02 | 2022-11-18 |  |
 | [Não Vou Negar](https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY), [papi](https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu) | [Não Vou Negar](https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb) | 2:43 | 2022-11-18 |  |

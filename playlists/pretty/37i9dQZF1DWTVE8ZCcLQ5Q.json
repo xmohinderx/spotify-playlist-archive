@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421471,
+  "num_followers": 421468,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDJjZTZlMTQ3ZWM3Yjk3ZjNmYmVlMzEwZjE4NDlhMjY1",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDU3MjJlOGMyNDFlMmQwMWNiNTEwZmQ5YzY5MmFiYTgx",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "Quente e Colorido",
+        "url": "https://open.spotify.com/album/5A63mDBA1MSmqUpMU5ZSac"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 228223,
+      "name": "Quente e Colorido",
+      "url": "https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 303550,
       "name": "Baile de M\u00e1scaras (Recarnaval)",
       "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Quente e Colorido",
-        "url": "https://open.spotify.com/album/5A63mDBA1MSmqUpMU5ZSac"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 228223,
-      "name": "Quente e Colorido",
-      "url": "https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Devagarin",
-        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 154331,
-      "name": "Devagarin",
-      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "BXD IN JAZZ",
         "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 173147,
       "name": "Meu Grande Amor",
       "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Devagarin",
+        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 154331,
+      "name": "Devagarin",
+      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
     },
     {
       "added_at": "2022-10-14 20:28:37",

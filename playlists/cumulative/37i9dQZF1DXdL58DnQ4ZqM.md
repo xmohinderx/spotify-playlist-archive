@@ -4,10 +4,11 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-489 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+493 songs - 1 day 4 hr 18 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [180](https://open.spotify.com/track/5wPr1S5YKwSh1BKdwRuB1o) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [180](https://open.spotify.com/album/4WksqqScs7SRWvx2c3Ej8o) | 2:21 | 2022-12-16 |  |
 | [a quiet fire](https://open.spotify.com/track/0s1uEBU0SZU8bGxeEh5q36) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [a quiet fire](https://open.spotify.com/album/2twzW1LzWnlRXm9UZnegsW) | 2:14 | 2022-03-16 | 2022-07-09 |
 | [Above The Clouds](https://open.spotify.com/track/3wvGcypk0Ne1TrQS8vImd4) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [MInd Travel](https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3) | 5:43 | 2022-01-12 | 2022-07-28 |
 | [Above The Clouds](https://open.spotify.com/track/7idub3d0h7M4ho2aBt76Yx) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [MInd Travel](https://open.spotify.com/album/3Yz4r6OcddUHtyu9bctq8V) | 5:43 | 2022-07-29 |  |
@@ -283,6 +284,7 @@
 | [Moody Café](https://open.spotify.com/track/1P1xOcWnRrekSVO7xbTB9M) | [Capricorn](https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe) | [Coffeehouse Lounge Best Of 2014\-2016](https://open.spotify.com/album/2MoD7geq9dkPM7qW00hnLA) | 3:51 | 2021-08-10 | 2022-01-13 |
 | [Moonbeams](https://open.spotify.com/track/1xzE78YaGxhVKLubvVgDPB) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Fresh Squeezed](https://open.spotify.com/album/4ZWyu9H0w1mOytbuwOugiC) | 3:22 | 2022-08-19 | 2022-09-17 |
 | [Motions](https://open.spotify.com/track/0hw29o6ptiNHQ1rZPO68nQ) | [Avo Lucas](https://open.spotify.com/artist/5rxaPcXxrgIKYVY3Cu91Pu) | [Motions](https://open.spotify.com/album/0o8RnWWIyItWY5eLPT3bee) | 2:41 | 2022-11-11 |  |
+| [Multiplier](https://open.spotify.com/track/7EMwd7BIruS3fqakmMcnW3) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Multiplier](https://open.spotify.com/album/2V0GpuUAm7bemnCGEQ0TT6) | 1:33 | 2022-12-16 |  |
 | [My greenhouse](https://open.spotify.com/track/6X0XSp7bFsgUwvkx5Qlix9) | [Cumulus Clouds](https://open.spotify.com/artist/2fDTMkLhW2WqPDobcohAZC) | [My greenhouse](https://open.spotify.com/album/6lQfts5lYwKlmnh1uQvJoT) | 2:10 | 2022-06-03 | 2022-07-09 |
 | [Napoli Back Alleys](https://open.spotify.com/track/6NZMz8XyEGKmVc7ngRBlkt) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Napoli Back Alleys](https://open.spotify.com/album/7JhraTphMLQA2lSzEnWvrd) | 1:49 | 2022-03-16 | 2022-07-09 |
 | [Near](https://open.spotify.com/track/5GYkifQFQdmJTL0DX8X50a) | [Arkx](https://open.spotify.com/artist/1jkW6D8ZRyWKpZ2bBISy0v) | [Near](https://open.spotify.com/album/7ym9zstMTQeD5GalcqGneo) | 1:46 | 2022-11-25 |  |
@@ -308,6 +310,7 @@
 | [Oceans \- Chill Out Version](https://open.spotify.com/track/3yGj8IMMKYBANeJKMcFPw0) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/0iF1j9nhAxi2yMw61iHtXc) | 3:55 | 2021-08-10 | 2022-07-29 |
 | [Oceans \- Chill Out Version](https://open.spotify.com/track/5GwOrZrxeUTHwaenkS2GdK) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/06zgUizEhdUW1hHUTb9C9b) | 3:55 | 2022-07-29 | 2022-08-05 |
 | [Oh La La](https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9) | [Red Hot Viper](https://open.spotify.com/artist/4gFtwOVP0ozdW5asXUidtk) | [Oh La La](https://open.spotify.com/album/4BNRC7NznGNmAQIa11ZKCc) | 3:14 | 2021-08-10 |  |
+| [Oh, silly old me](https://open.spotify.com/track/3iF6IvHypN92ozus6M222C) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Oh, silly old me](https://open.spotify.com/album/6n8CTsHh2Z6OzxtfLjCu6N) | 2:03 | 2022-12-16 |  |
 | [Once In A Dream \- Chill Original](https://open.spotify.com/track/15axDyGsxMRMbdblfSjSxI) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/0QaawGzGKcp7KYhiucUtgV) | 3:34 | 2022-07-29 | 2022-09-03 |
 | [Once In A Dream \- Chill Original](https://open.spotify.com/track/5tuNgB2oA7edy3Nw9mIQ6W) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai) | 3:34 | 2021-08-10 | 2022-07-29 |
 | [one more rainy day with you](https://open.spotify.com/track/1Ig5yQvxcUhFB9LlbtFxNb) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu), [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [one more rainy day with you](https://open.spotify.com/album/1ZGpu7Qjn7ZhiBNG3gJD2E) | 2:21 | 2022-06-24 | 2022-07-09 |
@@ -457,6 +460,7 @@
 | [Vanilla](https://open.spotify.com/track/3zD6VOx0Zi1JGKT454To81) | [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [P\-Rob](https://open.spotify.com/artist/5HTGXluN7OrPp6WlCidtRb) | [Vanilla](https://open.spotify.com/album/2SJcCAbW0wYHwX0MegdUq5) | 1:45 | 2022-09-23 |  |
 | [Velvet Sky](https://open.spotify.com/track/0DzWxYCE8YPnJt2UsVzx34) | [Palma Players](https://open.spotify.com/artist/1D6hGUU5QVL6WiH6h6L8E1) | [Velvet Sky](https://open.spotify.com/album/41gH5RX7lM9wMkaIiQrL0s) | 5:00 | 2022-07-29 |  |
 | [Velvet Sky](https://open.spotify.com/track/1o3BAaLMa0ENw0PoG8uCaG) | [Palma Players](https://open.spotify.com/artist/1D6hGUU5QVL6WiH6h6L8E1) | [Velvet Sky](https://open.spotify.com/album/1LCn22ga5CfxP2s4VDoRtD) | 5:00 | 2021-08-10 | 2022-07-29 |
+| [wakens bright](https://open.spotify.com/track/6tfOG7WshG7cEm8zx7KYYT) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [wakens bright](https://open.spotify.com/album/3kOMZJfPKUMdmUVZgGuudj) | 2:37 | 2022-12-16 |  |
 | [Walking On the Sand](https://open.spotify.com/track/6WE6BnufTYe0ztSuzw22ga) | [The Sura Quintet](https://open.spotify.com/artist/3YBL2Q7cwijeS0GEVKEhXU) | [The Sura Quintet & Friends Chill Out Directions](https://open.spotify.com/album/2tyKIc5dDLUc2VQKJobFrP) | 5:36 | 2021-08-10 | 2022-07-29 |
 | [Walking On the Sand](https://open.spotify.com/track/7FREETBLvSE30dbDNk8KPv) | [The Sura Quintet](https://open.spotify.com/artist/3YBL2Q7cwijeS0GEVKEhXU) | [The Sura Quintet & Friends Chill Out Directions](https://open.spotify.com/album/1bq4yEVHqRcvbGpLspcv5j) | 5:36 | 2022-07-29 | 2022-08-19 |
 | [Waterfront \- Focus Version](https://open.spotify.com/track/4ln3ZAr74imkhmEWzYFd6P) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Waterfront](https://open.spotify.com/album/6D23vKPt8tFY61gZehl5pw) | 4:30 | 2022-01-12 | 2022-07-10 |

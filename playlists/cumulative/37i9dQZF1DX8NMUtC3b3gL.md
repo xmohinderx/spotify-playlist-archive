@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-264 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+265 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [off the grid](https://open.spotify.com/track/67ZBo4TkiHsPGVuJDxsXkk) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [off the grid](https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba) | 2:48 | 2022-07-29 | 2022-10-29 |
 | [Old Days](https://open.spotify.com/track/5yf2mbyU1UHPut39eAuOCX) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Old Days](https://open.spotify.com/album/4A4ypbUWFAceSJcPKXni70) | 2:18 | 2022-08-05 | 2022-09-23 |
 | [On My Way](https://open.spotify.com/track/5xmkS1lv38JiohsD7omi8a) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [On My Way](https://open.spotify.com/album/652xJbu0kTPJcfXeKeYil2) | 2:16 | 2022-07-15 |  |
+| [One](https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [One](https://open.spotify.com/album/0Fl6lilEEvNOIa9sBvfDZv) | 2:40 | 2022-12-16 |  |
 | [Other Way Around](https://open.spotify.com/track/1Ncz3CgIIhlvoqChef6QLm) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Other Way Around](https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t) | 1:52 | 2022-07-08 |  |
 | [our future](https://open.spotify.com/track/4WBdS3TlzAFYVKhpNqyDSy) | [saamson](https://open.spotify.com/artist/3h4ZdFuMxG9E3stRytpGT6) | [our future](https://open.spotify.com/album/54O5b1b2VKMu4fD0d72wp3) | 1:47 | 2022-06-24 |  |
 | [Paradise Landing](https://open.spotify.com/track/4PY8Na1UYtnMhZun7MEGxa) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 3:17 | 2022-07-15 |  |

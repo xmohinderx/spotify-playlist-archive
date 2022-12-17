@@ -4,7 +4,7 @@
 
 > Lo mejor de las mujeres a todo volumen con Ceci Juno en portada.
 
-127 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+129 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [AMOR TRISTE](https://open.spotify.com/track/7mI2XiWxINozftY8mzQqKR) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [AMOR TRISTE](https://open.spotify.com/album/5YEsrR9xLRIFWRrQi8OGF4) | 3:02 | 2022-09-07 | 2022-10-06 |
 | [Anestesia](https://open.spotify.com/track/5ro0BttdQXF8ElE53ixJ5h) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 3:43 | 2022-04-29 | 2022-11-03 |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 | 2022-02-02 | 2022-04-09 |
+| [Bienvenidos al tren](https://open.spotify.com/track/3FP4Y8SQLlTPu5avLh5iZM) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Bienvenidos al tren](https://open.spotify.com/album/4XGsUek1AvzOy2oQYYeyrs) | 5:03 | 2022-12-16 |  |
 | [Bombón](https://open.spotify.com/track/2DAiAzKG0yBmM72w7QNgYi) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7) | [Yo Soy Leslie Shaw](https://open.spotify.com/album/5TjKXKAdS9apvTREgGp7kk) | 3:17 | 2022-01-05 | 2022-02-03 |
 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 | 2022-03-08 |  |
 | [Callao](https://open.spotify.com/track/6nTZdy0g6OmvMMiCO2mmz3) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Callao](https://open.spotify.com/album/1OgHuBpc4AZ88BVFgRajO9) | 3:04 | 2022-01-05 | 2022-12-01 |
@@ -51,6 +52,7 @@
 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 | 2022-07-06 |  |
 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 | 2022-01-05 |  |
 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 | 2022-06-01 |  |
+| [Gloria](https://open.spotify.com/track/7g6hdsFsrG5uRvZqbHJ6QW) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Epifanías](https://open.spotify.com/album/0MiX5iS0BA78SNf2EQ7wFz) | 3:20 | 2022-12-16 |  |
 | [Haz Que Suceda](https://open.spotify.com/track/536jJ35C2ffUenqA9e2JMx) | [María Buendía](https://open.spotify.com/artist/6Homgh6CeRc8pXDca1xmxw) | [Haz Que Suceda](https://open.spotify.com/album/3xPOdaKfRdSs39dEhWy04J) | 3:43 | 2022-02-02 | 2022-11-03 |
 | [Imposible Olvidarte](https://open.spotify.com/track/28OYshVQTfw9ytKlXHjaqg) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Cariño Loco](https://open.spotify.com/album/2g3QVAasQuXmVPXmaWG6PT) | 4:10 | 2022-08-03 |  |
 | [Imposible Olvidarte](https://open.spotify.com/track/0yPN0chyb4wxdGdlHKBDqm) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Agua Bella y Sus Grandes Éxitos](https://open.spotify.com/album/2SumbKIZjNFcn3EcxcF2iG) | 4:11 | 2022-01-05 | 2022-08-27 |
@@ -83,7 +85,7 @@
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 |  |
 | [Milonga de mis amores](https://open.spotify.com/track/1WCnRsEqCO8PMnQpbpvYj7) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Palabras Urgentes](https://open.spotify.com/album/3PIiANhzamtMfImOYPTXxs) | 2:38 | 2022-01-05 | 2022-02-03 |
 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 | 2022-01-05 | 2022-02-03 |
-| [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 | 2022-07-06 |  |
+| [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 | 2022-07-06 | 2022-12-17 |
 | [Negra Presuntuosa](https://open.spotify.com/track/044m10YZ8eytdwFP2IMBXo) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Perú: Damas del Criollismo](https://open.spotify.com/album/4f13Xa1Nsoqm8zlDOazZtC) | 4:16 | 2022-11-02 | 2022-11-14 |
 | [Negra Presuntuosa](https://open.spotify.com/track/6NVirfsnzXgZdSoasFbwLw) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/745bovopinCyeNzU9uCLbG) | 4:16 | 2022-01-05 | 2022-07-29 |
 | [No Sé](https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ) | 4:06 | 2022-01-05 | 2022-02-03 |
@@ -106,7 +108,7 @@
 | [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 4:06 | 2022-01-05 |  |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-03-25 |  |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-02-18 |  |
-| [Rompo y Tumbo](https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Rompo y Tumbo](https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE) | 3:17 | 2022-04-08 |  |
+| [Rompo y Tumbo](https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Rompo y Tumbo](https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE) | 3:17 | 2022-04-08 | 2022-12-17 |
 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-02-02 | 2022-09-09 |
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-08 | 2022-04-23 |
 | [Ser eternos](https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Reencarnaciones](https://open.spotify.com/album/0PTSztSXIoufnzZWQB4L73) | 3:40 | 2022-02-02 | 2022-03-09 |

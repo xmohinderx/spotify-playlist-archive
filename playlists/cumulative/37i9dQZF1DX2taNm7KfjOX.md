@@ -2,7 +2,7 @@
 
 ### [Infinite Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX2taNm7KfjOX)
 
-> Repeat\-free hours of new and beloved indie folk\. Cover: Skullcrusher
+> Repeat\-free hours of new and beloved indie folk\. Cover: Tomberlin
 
 448 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 

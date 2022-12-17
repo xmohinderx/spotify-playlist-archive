@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 68083,
+  "num_followers": 68089,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDM3NWM4OTJiMjE3YTA2NWFjZWVlMzcxZDYxODMxOGI1",
+  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDcxNjY2NmQyMThjY2Q4YTM5ZWY5ZTZhY2U3YmRhYWYy",
   "tracks": [
     {
       "added_at": "2022-12-15 08:41:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Grew Inside the Water",
-        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
-      },
-      "artists": [
-        {
-          "name": "Mimi Gilbert",
-          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
-        }
-      ],
-      "duration_ms": 284037,
-      "name": "Society's a Mansion",
-      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Simple Question",
-        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
+        "name": "Grew Inside the Water",
+        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
       },
       "artists": [
         {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
         }
       ],
-      "duration_ms": 272999,
-      "name": "Simple Question",
-      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
+      "duration_ms": 284037,
+      "name": "Society's a Mansion",
+      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -771,6 +755,22 @@
       "duration_ms": 213276,
       "name": "After the Sun",
       "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "Simple Question",
+        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 272999,
+      "name": "Simple Question",
+      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
     },
     {
       "added_at": "2022-12-15 08:41:30",

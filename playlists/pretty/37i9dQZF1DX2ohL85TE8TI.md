@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Ditto\(동감\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,225 likes - 104 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,431 likes - 104 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 15 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 |
 | 16 | [How can I have you](https://open.spotify.com/track/14g6VmDnjwCQfmSMMcHhQ4) | [misonyeon](https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan) | [\["Our Pictures" Since 2018\]](https://open.spotify.com/album/0hw6KzjpP0uVtT966VjPwg) | 4:04 |
 | 17 | [Looking Forward To Tomorrow](https://open.spotify.com/track/5KlYz1KPuj1PX2B5Gs8gVs) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Behind Every Star \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/5y3ekRLyeEbVf9biJPbQRN) | 3:52 |
-| 18 | [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/0WT5o9HgcJJoyKUhiHaCMP) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 |
+| 18 | [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/1SF9zCNjbChZTiIkxjgJXa) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 |
 | 19 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 |
 | 20 | [Bite](https://open.spotify.com/track/5SVGGGHyZaRPwvJtVMgCgr) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Bad Prosecutor \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4b2cSq7UmDqQOCWFNzkAVw) | 3:21 |
 | 21 | [Love Sailing](https://open.spotify.com/track/5P16LnT953KPtZr54vSpkl) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Love Sailing \(Decibel OST X Cha Eun\-Woo\)](https://open.spotify.com/album/4MjcD0zBOqCsHXMq8BAECb) | 3:10 |

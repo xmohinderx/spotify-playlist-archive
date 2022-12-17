@@ -2292,28 +2292,6 @@
     },
     {
       "album": {
-        "name": "Hypnotica (Benny Benassi Presents The Biz)",
-        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
-        }
-      ],
-      "date_added": "2022-02-28",
-      "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
-      "duration_ms": 285570,
-      "name": "Hypnotica - Hypnotica",
-      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
-    },
-    {
-      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN"
       },
@@ -3699,7 +3677,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 285413,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/213yG5o4EISfGoceayLo6u"
@@ -3747,6 +3725,28 @@
       "duration_ms": 285570,
       "name": "Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz",
       "url": "https://open.spotify.com/track/66chnp6iHOW1qJRzwwKcuL"
+    },
+    {
+      "album": {
+        "name": "Hypnotica (Benny Benassi Presents The Biz)",
+        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285570,
+      "name": "Satisfaction - Isak Original Extended",
+      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
     },
     {
       "album": {

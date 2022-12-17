@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Nicki Nicole en portada.",
-  "num_followers": 23116,
+  "num_followers": 23308,
   "original_name": "Lo mejor de EQUAL Argentina 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDUzMjEzMTU0NzBhZTY3ZjllM2Y4ZDFlYWRmZTJmYmE0",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGM3MDA1OTgwN2VkZjg1ODk4MjkxZjM3OGNhMjBlY2Qz",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "CHIN CHIN",
-        "url": "https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx"
-      },
-      "artists": [
-        {
-          "name": "Oriana",
-          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "CHIN CHIN",
-      "url": "https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Me Va Muy Bien",
         "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 141098,
       "name": "Me Va Muy Bien",
       "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "CHIN CHIN",
+        "url": "https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "CHIN CHIN",
+      "url": "https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Afuera",
-        "url": "https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 207854,
-      "name": "Afuera",
-      "url": "https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "pensando en ti",
         "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 197508,
       "name": "pensando en ti",
       "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Afuera",
+        "url": "https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 207854,
+      "name": "Afuera",
+      "url": "https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd"
     },
     {
       "added_at": "2022-11-30 13:00:00",

@@ -1,32 +1,28 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1114,
+  "num_followers": 1115,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4NzIxMywwMDAwMDAwMGQ0NWM2NDQ2Nzk0OWViN2I3Yzc2YThkMzZlMjdlNjk1",
+  "snapshot_id": "MTY3MTE4OTc1NCwwMDAwMDAwMDIwYjFlZTcyYTk3YTg0OGI1OGU3MjIyYzMxYmRmMGRi",
   "tracks": [
     {
-      "added_at": "2022-11-25 11:45:40",
+      "added_at": "2022-12-16 11:22:34",
       "album": {
-        "name": "RainFall",
-        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
       },
       "artists": [
         {
-          "name": "HerbertSkillz",
-          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
-        },
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 209411,
-      "name": "RainFall",
-      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -429,6 +425,26 @@
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
+      "added_at": "2022-11-25 11:45:40",
+      "album": {
+        "name": "RainFall",
+        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
+      },
+      "artists": [
+        {
+          "name": "HerbertSkillz",
+          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
+        },
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "RainFall",
+      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Omu",
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
     },
     {
-      "added_at": "2022-12-16 01:02:55",
+      "added_at": "2022-12-09 12:00:13",
       "album": {
         "name": "Kikole",
         "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
@@ -525,22 +541,6 @@
       "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Kwetega",
-        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
-      },
-      "artists": [
-        {
-          "name": "Ruyonga",
-          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Kwetega",
-      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Kikole",
@@ -557,20 +557,20 @@
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2022-11-17 20:59:00",
       "album": {
-        "name": "Thc ( Too High to Concentrate )",
-        "url": "https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q"
+        "name": "Kwetega",
+        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
       },
       "artists": [
         {
-          "name": "Blaqface",
-          "url": "https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78"
+          "name": "Ruyonga",
+          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Thc ( Too High to Concentrate )",
-      "url": "https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9"
+      "duration_ms": 216960,
+      "name": "Kwetega",
+      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -623,6 +623,22 @@
       "duration_ms": 135965,
       "name": "4 U",
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Thc ( Too High to Concentrate )",
+        "url": "https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q"
+      },
+      "artists": [
+        {
+          "name": "Blaqface",
+          "url": "https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Thc ( Too High to Concentrate )",
+      "url": "https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -689,22 +705,6 @@
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Awo",
-        "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
-      },
-      "artists": [
-        {
-          "name": "ALLAN TONIKS",
-          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
-        }
-      ],
-      "duration_ms": 260075,
-      "name": "Akahama",
-      "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
-    },
-    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Bajooga",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Awo",
+        "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
+      },
+      "artists": [
+        {
+          "name": "ALLAN TONIKS",
+          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+        }
+      ],
+      "duration_ms": 260075,
+      "name": "Akahama",
+      "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-11-25 11:54:44",
-      "album": {
-        "name": "Toora Love",
-        "url": "https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE"
-      },
-      "artists": [
-        {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Toora Love",
-      "url": "https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -771,6 +771,22 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "added_at": "2022-11-25 11:54:44",
+      "album": {
+        "name": "Toora Love",
+        "url": "https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Toora Love",
+      "url": "https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -879,26 +895,6 @@
       "duration_ms": 190515,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Star Gal",
-        "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 206471,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
     }
   ],
   "unique_name": "Made In Uganda",

@@ -2508,6 +2508,24 @@
     },
     {
       "album": {
+        "name": "Parallel Lines",
+        "url": "https://open.spotify.com/album/4x5Z5IiBgZq8P47U1YSmvL"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145586,
+      "name": "Parallel Lines",
+      "url": "https://open.spotify.com/track/6siyBe5G5d4O8KiGRPPHCU"
+    },
+    {
+      "album": {
         "name": "Part of Life",
         "url": "https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD"
       },

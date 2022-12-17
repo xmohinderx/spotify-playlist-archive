@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,929 likes - 24 songs - 1 hr 38 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,931 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,6 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 22 | [Kindred Spirits](https://open.spotify.com/track/4eZhS8oWElqOcF9acq3iJG) | [LitaLotus](https://open.spotify.com/artist/096jdva2vCbGgulvRdQrA8), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Essence](https://open.spotify.com/album/6uyvvUKCvBz2KFaKPGaebK) | 4:06 |
 | 23 | [Love Conspiration](https://open.spotify.com/track/2ztafS9ba55k5K2pZFYiuQ) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Love Conspiration](https://open.spotify.com/album/2QVnzc77wuvWcq5Cwraenp) | 4:51 |
 | 24 | [Blabba Mouth](https://open.spotify.com/track/3bD2otc9SMNu2xrTnb6uzk) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Lampa](https://open.spotify.com/artist/22zTDDhRWSaYtHlMHaz1Ej) | [DDD100](https://open.spotify.com/album/6jVJmsjVJchboBgsfWAPbj) | 6:17 |
+| 25 | [Lightwerker](https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag) | [Light Language](https://open.spotify.com/artist/2qkiYF4wgiIsQ4kF63YsmU) | [Lightwerker](https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo) | 3:25 |
 
-Snapshot ID: `MjEwOCxjNjlhNGE0N2ExOGFhM2JhN2IxMzk4YmZkYzQ2NzhjZTgxZDUzYzM4`
+Snapshot ID: `MjEwOSwxYzlmMDgyNTBjN2UyNTlmN2M1ZjgwYjEzNDE5ZTc1ZDMwYjg5NmEz`

@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: d4vd
 
-1,985 songs - 4 day 10 hr 19 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,989 songs - 4 day 10 hr 30 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -960,6 +960,7 @@
 | [Just a waste](https://open.spotify.com/track/0R4uAhlkr1I8EgPxqBwzBs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just a waste](https://open.spotify.com/album/61gXjK2WtQcGoM7rsErAQK) | 2:07 | 2021-07-17 | 2021-09-17 |
 | [Just Because](https://open.spotify.com/track/263EQSN2t8ilPZ4W8s5RRD) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Just Because](https://open.spotify.com/album/2lMu7R88lv31od8CcVXRjI) | 2:53 | 2021-02-26 | 2021-06-05 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-08-14 | 2022-02-26 |
+| [Just for Now \- Cover](https://open.spotify.com/track/3qnfvC7Ce8EvEplnXQopnh) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Just for Now \(Cover\)](https://open.spotify.com/album/4Ir2l7QWf3EFfAtwjuuAFl) | 3:11 | 2022-12-16 |  |
 | [Just in Case](https://open.spotify.com/track/6ZPOFvvzGzkUjfiboG4pbT) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Bummer](https://open.spotify.com/album/6qQ2gWYEYmikgGm6qSBYmz) | 3:37 | 2022-10-28 |  |
 | [Just the Right Song](https://open.spotify.com/track/0KOwuwc2XlPU1GFwnG1Gq0) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Just the Right Song](https://open.spotify.com/album/1E0FE8xuchFJCEZD42r2Ho) | 3:06 | 2021-11-20 | 2022-01-08 |
 | [Just The Same](https://open.spotify.com/track/3xPZKgZeIPb8vHa1UJH5Rz) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Just The Same](https://open.spotify.com/album/4ZgdrGE9KAeSz2V6HxDssx) | 3:31 | 2019-08-08 | 2019-09-27 |
@@ -1723,6 +1724,7 @@
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2020-12-23 | 2020-12-31 |
 | [Take It Back](https://open.spotify.com/track/4DLiXw3uGMe45QwJtPNOVc) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Take It Back](https://open.spotify.com/album/6yk0QeDWJQJ4GGUGJbEWvy) | 2:28 | 2021-05-27 | 2021-08-14 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-12-01 | 2022-03-05 |
+| [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-16 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2021-10-06 | 2022-04-09 |
 | [Taking Care](https://open.spotify.com/track/2vMIRRYXaDoGNxoTYymgyr) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [Taking Care](https://open.spotify.com/album/0BsBKyEWnX2pwTVrMlnMaT) | 2:29 | 2022-06-03 | 2022-06-22 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-03-25 | 2022-05-07 |
@@ -1731,6 +1733,7 @@
 | [Talk to You \- slow](https://open.spotify.com/track/2eUmt1vpwc7pl0SImUEWfJ) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You \(remixes\)](https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H) | 4:03 | 2021-08-21 | 2022-01-08 |
 | [Talk Words](https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Talk Words](https://open.spotify.com/album/34rTpkluJXJnTmFojki6lQ) | 3:33 | 2021-08-04 | 2022-03-11 |
 | [Tangled](https://open.spotify.com/track/46OjonQHLe574lcL12MdKp) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Tangled](https://open.spotify.com/album/2dvVPyydVAF1fDykQ9jsKw) | 3:40 | 2022-02-25 | 2022-03-26 |
+| [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 |  |
 | [Team](https://open.spotify.com/track/15jRg8Ejs7X3JEHw38TSN3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 3:13 | 2021-06-11 | 2021-06-18 |
 | [Tears '06](https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Tears '06](https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK) | 4:38 | 2022-02-25 | 2022-04-09 |
 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2022-08-09 | 2022-08-19 |
@@ -1823,6 +1826,7 @@
 | [Trap Doors](https://open.spotify.com/track/4WvfcU7QCkI49HjUQckTqA) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 0:29 | 2022-06-21 | 2022-07-02 |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-24 | 2021-04-10 |
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2020-08-21 | 2020-09-04 |
+| [triflin'](https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 2:49 | 2022-12-16 |  |
 | [Trigger Of Love](https://open.spotify.com/track/0CtfBQl582RRut2ccLtjBr) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Trigger Of Love](https://open.spotify.com/album/7klv1gjxbcnRZI9TVSbXEo) | 2:50 | 2020-10-16 | 2021-11-13 |
 | [TRU RELIGION](https://open.spotify.com/track/0DyDLDwnMWWBDNw3cTM37f) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [TRU RELIGION](https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH) | 2:57 | 2022-05-12 | 2022-06-10 |
 | [True Love](https://open.spotify.com/track/7dAebAx3nuX2lea0yIETh5) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/08uPxu5CvOBN1r265LGqAK) | 4:11 | 2021-11-20 | 2022-01-08 |

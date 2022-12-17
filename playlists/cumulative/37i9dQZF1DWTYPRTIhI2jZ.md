@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-134 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/26pgehX1ipT0qyKlAqJXDp)
+135 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/26pgehX1ipT0qyKlAqJXDp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Nights Over Egypt \- Masters At Work Main Mix](https://open.spotify.com/track/12zzhQCnWxYoLdWUFgchG2) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Maysa](https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq), ["Little" Luis Vega](https://open.spotify.com/artist/6yAj22p2E4Gk1eevP8oOho), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Future Remixed](https://open.spotify.com/album/0IMvU6xwpYKdc8tP3n8LI8) | 7:48 | 2022-04-15 | 2022-05-19 |
 | [No Worries \- Daniel Stefanik Edit](https://open.spotify.com/track/0kSRtt5uNbCygUQL0hsmT9) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Daniel Stefanik](https://open.spotify.com/artist/20w4lkhgYymklaCG4V6525) | [The Edits & Remixes Part I](https://open.spotify.com/album/3xtQ7zLSKF6NrHA8iyAjh2) | 7:15 | 2022-05-18 | 2022-07-30 |
 | [Not About You \(feat\. Hadiya George\) \- KDA 'Legacy' Extended Remix](https://open.spotify.com/track/3E3i9HPozXn5JS0yw6AJJR) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg) | [Beyond](https://open.spotify.com/album/18JBpOIceZJGCryQXiv98d) | 6:14 | 2021-12-20 |  |
+| [Nothing Without You](https://open.spotify.com/track/4HCjWPVlBQNVor12xzptGm) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Mandel Turner](https://open.spotify.com/artist/2oF8BMcZCAnRmMwrwVBm7R) | [Nothing Without You](https://open.spotify.com/album/6x05aytiXJutRJCI3V8kH8) | 6:29 | 2022-12-16 |  |
 | [Now I See You](https://open.spotify.com/track/3nD7CtX1rmlTN1GOmV67a8) | [Santos](https://open.spotify.com/artist/015cuNHD8iLVsprLD4ZA4H) | [Touchdown EP](https://open.spotify.com/album/61kWgtat8hdZe1zwgW5cy5) | 7:05 | 2022-10-14 |  |
 | [Our Time Is Now](https://open.spotify.com/track/2EECRc7ChquXKilHETQ4Ju) | [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT), [Frank Alowishus](https://open.spotify.com/artist/6iyaBvd1BwRY6AiVgPQqUA) | [Acts of Love Mixtape: Act Three](https://open.spotify.com/album/0OqijRECTTuYyHnpz59QoX) | 6:26 | 2022-07-29 |  |
 | [Out Of Control](https://open.spotify.com/track/2Y4pNJouHZPhcClDm8YeIR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Get My Mansion Ready / Out Of Control](https://open.spotify.com/album/1QNVFPS5uxSlxdyfcyWJch) | 3:26 | 2021-12-20 | 2022-10-15 |

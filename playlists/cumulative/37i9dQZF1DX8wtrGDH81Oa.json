@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "body atlas",
+        "url": "https://open.spotify.com/album/7fsZ6Fe9iab4WCjgzg2bi4"
+      },
+      "artists": [
+        {
+          "name": "Parker Son",
+          "url": "https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "body atlas",
+      "url": "https://open.spotify.com/track/0pwQm2EQftRFJDI3lZqy0I"
+    },
+    {
+      "album": {
         "name": "Bonez",
         "url": "https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj"
       },

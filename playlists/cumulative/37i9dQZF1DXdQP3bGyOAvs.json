@@ -1254,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Far Off",
+        "url": "https://open.spotify.com/album/4STEWF6LQZw4Y69ExDYfyQ"
+      },
+      "artists": [
+        {
+          "name": "Kleo",
+          "url": "https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168930,
+      "name": "Far Off",
+      "url": "https://open.spotify.com/track/67guXHhZmdmC1GB7GxCQ3Y"
+    },
+    {
+      "album": {
         "name": "Faro",
         "url": "https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4"
       },
@@ -2281,6 +2299,24 @@
       "duration_ms": 191500,
       "name": "Leaning Backwards",
       "url": "https://open.spotify.com/track/5MXNVNhGjeAJ7iVTYZTAZm"
+    },
+    {
+      "album": {
+        "name": "Leap Into The Air",
+        "url": "https://open.spotify.com/album/35wg9T0JJK0wuwQjFGJ6mC"
+      },
+      "artists": [
+        {
+          "name": "KD Simon",
+          "url": "https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171842,
+      "name": "Leap Into The Air",
+      "url": "https://open.spotify.com/track/1BlcH5OAy7871JAE5SXtUP"
     },
     {
       "album": {

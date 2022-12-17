@@ -4,11 +4,12 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-233 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+234 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Edward](https://open.spotify.com/track/33AfkIQqriOQPBHUNhfs1w) | [Nancy Wilson](https://open.spotify.com/artist/5gnpB90GzUR1gXpse5Kl4R) | [4 Edward](https://open.spotify.com/album/53J3ZGvVMa4Jwq0abT24iv) | 1:43 | 2021-12-17 | 2022-07-23 |
+| [61 South](https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [61 South](https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy) | 1:20 | 2022-12-16 |  |
 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Ain't Gotta Worry Child](https://open.spotify.com/album/5z25YPZkf3WB9Eh94EEwFw) | 3:05 | 2021-12-17 | 2022-07-27 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 3:05 | 2022-05-27 |  |
@@ -154,7 +155,7 @@
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2021-12-17 |  |
 | [Order out of Chaos](https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [Order out of Chaos](https://open.spotify.com/album/474UZkOJiONk1qZbePll0F) | 5:02 | 2022-04-15 | 2022-06-11 |
 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 | 2021-12-17 |  |
-| [Pound Cake](https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Pound Cake](https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK) | 2:59 | 2022-12-10 |  |
+| [Pound Cake](https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Pound Cake](https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK) | 2:59 | 2022-12-09 |  |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2021-12-17 | 2022-07-28 |
 | [Profit](https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:13 | 2022-08-12 | 2022-10-23 |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 | 2022-09-05 |
@@ -232,7 +233,7 @@
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2021-12-17 | 2022-06-11 |
 | [Wednesday Morning Atonement](https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 4:28 | 2021-12-17 |  |
 | [What Are You Listening To?](https://open.spotify.com/track/2mbaqK3h3Il91gTq4gMUQm) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Joy Comes Back](https://open.spotify.com/album/0KVRKuJ3L6dpheQaBJZJrt) | 4:17 | 2021-12-17 | 2022-07-17 |
-| [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 | 2021-12-17 |  |
+| [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 | 2021-12-17 | 2022-12-17 |
 | [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 | 2022-08-05 | 2022-08-27 |
 | [Whiskey & Wonder](https://open.spotify.com/track/4TlOVtxbJpd9XTwjuVLHeM) | [Angel Forrest](https://open.spotify.com/artist/3kZNky4VEHNviUvh6zNRal), [Brandon Isaak](https://open.spotify.com/artist/6mvNsKyyE6Xpt6BRuGLjBM) | [Whiskey & Wonder](https://open.spotify.com/album/3dZbWqY6QZPSIuVGEQN6mn) | 4:34 | 2022-03-11 | 2022-06-11 |
 | [Why Do I Cry Anymore](https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Why Do I Cry Anymore](https://open.spotify.com/album/5hldzbhEFzLqeT2WATFsZS) | 3:28 | 2022-05-13 | 2022-07-25 |

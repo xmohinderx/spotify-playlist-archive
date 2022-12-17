@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdlnITQ87tu.md) - [plain]
 
 > \(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!\) Genie TV 오리지널 시리즈 '아무것도 하고 싶지 않아'의 사운드 트랙들을 감상해보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 17 songs - 57 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 17 songs - 57 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

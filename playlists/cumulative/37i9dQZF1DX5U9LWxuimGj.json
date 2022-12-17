@@ -1610,6 +1610,28 @@
     },
     {
       "album": {
+        "name": "Someone Just Like You",
+        "url": "https://open.spotify.com/album/74omuBW8hpg3xNNW4wy5xX"
+      },
+      "artists": [
+        {
+          "name": "Stefano Manrique",
+          "url": "https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP"
+        },
+        {
+          "name": "Aria Fenix",
+          "url": "https://open.spotify.com/artist/2037mdH5NiUF4UrZRBh5vb"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Someone Just Like You",
+      "url": "https://open.spotify.com/track/3QrLq2W0y6hWgr2cgiCTRF"
+    },
+    {
+      "album": {
         "name": "Something We Can Dance To",
         "url": "https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v"
       },

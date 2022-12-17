@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 147071,
       "name": "3 Times",
       "url": "https://open.spotify.com/track/4Dk1ZnnKsxQqAbRHQgeqDx"
@@ -712,6 +712,24 @@
     },
     {
       "album": {
+        "name": "AdaLINE",
+        "url": "https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165791,
+      "name": "AdaLINE",
+      "url": "https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV"
+    },
+    {
+      "album": {
         "name": "ADDERALL",
         "url": "https://open.spotify.com/album/6HiXnVz4gjJOOhG2ndnOK3"
       },
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ"
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 148470,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
@@ -6184,6 +6202,24 @@
     },
     {
       "album": {
+        "name": "ever fallen?",
+        "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
+      },
+      "artists": [
+        {
+          "name": "Kate Peytavin",
+          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168725,
+      "name": "ever fallen?",
+      "url": "https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -7429,7 +7465,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
@@ -8909,6 +8945,24 @@
       "duration_ms": 187544,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
+    },
+    {
+      "album": {
+        "name": "heart attack",
+        "url": "https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by"
+      },
+      "artists": [
+        {
+          "name": "bella amor",
+          "url": "https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182731,
+      "name": "heart attack",
+      "url": "https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux"
     },
     {
       "album": {
@@ -11193,7 +11247,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 164666,
       "name": "Jane Doe",
       "url": "https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx"
@@ -11601,6 +11655,24 @@
       "duration_ms": 163373,
       "name": "KIDS ON MOLLY",
       "url": "https://open.spotify.com/track/4CbRVZuohuxJPMqvvWb2lT"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "album": {
@@ -12709,7 +12781,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 190225,
       "name": "Lose Lose",
       "url": "https://open.spotify.com/track/47AcRzodwvcQlnS6BjNZBQ"
@@ -12933,7 +13005,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 189000,
       "name": "lovebomb",
       "url": "https://open.spotify.com/track/6g5ToBz8mGURaauPqfyYvU"
@@ -14255,6 +14327,24 @@
       "duration_ms": 208174,
       "name": "Murphy",
       "url": "https://open.spotify.com/track/0ZaIIpYcAax5IWkrrUmLi3"
+    },
+    {
+      "album": {
+        "name": "Alive and Unwell (Deluxe)",
+        "url": "https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164131,
+      "name": "My Bed",
+      "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
     },
     {
       "album": {
@@ -17428,6 +17518,24 @@
     },
     {
       "album": {
+        "name": "mrs lonely / see u again",
+        "url": "https://open.spotify.com/album/6oyXduXWAWahfyEnupUltl"
+      },
+      "artists": [
+        {
+          "name": "Eden Elf",
+          "url": "https://open.spotify.com/artist/0S9wI9ZGeEwgNmVC61utdR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128269,
+      "name": "see u again",
+      "url": "https://open.spotify.com/track/6eQeaua3Ne4n0m5DavaHaq"
+    },
+    {
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
       },
@@ -18249,7 +18357,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 152727,
       "name": "Smoke Signal",
       "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
@@ -20803,6 +20911,24 @@
       "duration_ms": 233220,
       "name": "The Same",
       "url": "https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY"
+    },
+    {
+      "album": {
+        "name": "the way that we started (taylor)",
+        "url": "https://open.spotify.com/album/4epDMTI9SL9TRfiuDpbwFO"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "the way that we started (taylor)",
+      "url": "https://open.spotify.com/track/36AWmLYL4tMTfZseHQHoVl"
     },
     {
       "album": {

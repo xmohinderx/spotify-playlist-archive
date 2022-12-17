@@ -2,7 +2,7 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Escucha las canciones de pop más exitosas en México\. Lasso en portada.
+> Escucha las canciones de pop más exitosas en México\. Matisse y Edén Muñoz en portada.
 
 239 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
 

@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-52 songs - 2 hr 47 min - not published yet
+53 songs - 2 hr 49 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,10 @@
 | [Because The Night](https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:21 | 2022-12-05 |  |
 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 | 2022-12-05 |  |
 | [Bella Ciao](https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Bella Ciao](https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY) | 3:18 | 2022-12-05 |  |
-| [Bitter Sweet Symphony \- Steve 80 Remix Edit](https://open.spotify.com/track/1lMb49nY7AujNWWzqvdICg) | [Nicky Starr](https://open.spotify.com/artist/2AOEuEgAgkk7d2IfY55qKO), [Steve 80](https://open.spotify.com/artist/1bnZbvih1s62vaQoMGKkdx) | [Trippy Trippy](https://open.spotify.com/album/29Ofy4dYlrEnYnUbkJB2t6) | 3:27 | 2022-12-05 |  |
+| [Bitter Sweet Symphony \- Steve 80 Remix Edit](https://open.spotify.com/track/1lMb49nY7AujNWWzqvdICg) | [Nicky Starr](https://open.spotify.com/artist/2AOEuEgAgkk7d2IfY55qKO), [Steve 80](https://open.spotify.com/artist/1bnZbvih1s62vaQoMGKkdx) | [Trippy Trippy](https://open.spotify.com/album/29Ofy4dYlrEnYnUbkJB2t6) | 3:27 | 2022-12-05 | 2022-12-17 |
 | [Blah Blah Blah \- Zany Remix](https://open.spotify.com/track/6Q9tqkD827DTEsAySwW0og) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO) | [Blah Blah Blah \(Remixes\)](https://open.spotify.com/album/2JMGLki9XYrFTCJEBM6VoG) | 2:32 | 2022-12-05 |  |
 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 | 2022-12-05 |  |
+| [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 | 2022-12-16 |  |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-12-05 |  |
 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 | 2022-12-05 |  |
 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 | 2022-12-05 |  |

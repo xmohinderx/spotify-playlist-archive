@@ -4,7 +4,7 @@
 
 > All your favorite openings &amp; ending songs from the top anime shows and films\. Includes Chainsaw Man, BLEACH, Evangelion, Bocchi The Rock, Naruto, My Hero Academia, Kill La Kill, Devilman Crybaby, Seven Deadly Sins and many more.
 
-99 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/1P2eXszLRQ2XsFqaTVGc4R)
+100 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/1P2eXszLRQ2XsFqaTVGc4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [NARUTO Main Theme](https://open.spotify.com/track/5kKloaKFvAuDNFi8m52hxy) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 4:26 | 2022-12-09 |  |
 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 | 2022-02-18 | 2022-12-10 |
 | [Number One \(vocal ver.\)](https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 4:56 | 2022-12-09 |  |
+| [Number One \- Bankai](https://open.spotify.com/track/1nThz7yEG2vbyI4UmInj5z) | [Shiro SAGISU](https://open.spotify.com/artist/1XlLGTvfKLH0eFSDGjrZUl), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [Number One \- Bankai](https://open.spotify.com/album/5Mw54lDeLc8jfflOUf5dKQ) | 4:36 | 2022-12-16 |  |
 | [Off The Goop](https://open.spotify.com/track/7mkwOQWC3nFMSONA8ajViu) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Off The Goop](https://open.spotify.com/album/2bclxAmNHAjSyTk1qXTXEu) | 2:40 | 2022-02-18 | 2022-12-10 |
 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 | 2022-02-18 | 2022-12-10 |
 | [On My Way \- Da Tweekaz Remix](https://open.spotify.com/track/4Sp0jLZN8MgPnoGDufJS7N) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [On My Way \(Da Tweekaz Remix\)](https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa) | 3:24 | 2022-02-18 | 2022-12-10 |

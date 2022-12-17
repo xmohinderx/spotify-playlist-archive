@@ -630,6 +630,28 @@
     },
     {
       "album": {
+        "name": "Christmas at Home",
+        "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
+      },
+      "artists": [
+        {
+          "name": "Madison Olds",
+          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
+        },
+        {
+          "name": "Nearly York",
+          "url": "https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206421,
+      "name": "Christmas at Home",
+      "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
+    },
+    {
+      "album": {
         "name": "Songs for Christmas",
         "url": "https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX"
       },
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 165980,
       "name": "Christmas Wish",
       "url": "https://open.spotify.com/track/7KjfBz0hlLmft93hXT4aof"
@@ -3507,7 +3529,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 160807,
       "name": "Season's Greetings",
       "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
@@ -4167,7 +4189,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 224974,
       "name": "Tinseltown",
       "url": "https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9"

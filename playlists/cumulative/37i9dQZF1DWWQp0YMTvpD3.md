@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-301 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+306 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Blasé](https://open.spotify.com/track/5JCKb5DNF8oEyjRlZiyKMo) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Lovers That Come and Go](https://open.spotify.com/album/4HSgMY5BdDjo2q3LgMpvYE) | 3:30 | 2019-10-04 | 2022-02-12 |
 | [Blowback](https://open.spotify.com/track/07Mrtc712SH15xNPsjYTiD) | [Otherside](https://open.spotify.com/artist/7EqhgqMbQXyo63MJiurV1i) | [Blowback](https://open.spotify.com/album/3G51jdjXaVVgcl3bIgpbYs) | 3:03 | 2019-10-04 | 2022-02-12 |
 | [Blue & The Green \- Radio Edit](https://open.spotify.com/track/7qFV1wmRX38S9sVF0JuJXy) | [LOYAL](https://open.spotify.com/artist/2PYzfdTjMDkpIxlOEm3oK2) | [Blue & The Green](https://open.spotify.com/album/7fQ9EPUt8oJYEJSCfmh08U) | 3:46 | 2019-10-04 | 2022-02-12 |
+| [body atlas](https://open.spotify.com/track/0pwQm2EQftRFJDI3lZqy0I) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [body atlas](https://open.spotify.com/album/7fsZ6Fe9iab4WCjgzg2bi4) | 2:41 | 2022-12-16 |  |
 | [books & backpacks](https://open.spotify.com/track/6iDThqdBhVmWXoMsXIw0XV) | [suburban sad](https://open.spotify.com/artist/5jL3irFL2TtSPQOo8v3Nya) | [books & backpacks](https://open.spotify.com/album/0W6HFQsZAekHlfu3p0NYc8) | 2:16 | 2021-10-12 | 2022-02-12 |
 | [Brandy & Apple Juice](https://open.spotify.com/track/24HZpLFRijvJawsS7Vthud) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 4:09 | 2021-10-26 | 2022-02-12 |
 | [Breathe](https://open.spotify.com/track/62Dz5wGqHMLCdmVvwDFLFS) | [LiQWYD](https://open.spotify.com/artist/7vZTLO4iDAVrmOtpRiyP3N) | [Breathe](https://open.spotify.com/album/1nOXbVRPW56W2Ksz4hVZWE) | 2:51 | 2019-10-04 | 2022-02-12 |
@@ -67,6 +68,7 @@
 | [Close To Me](https://open.spotify.com/track/28T738J7MBniDTJsHjLCXD) | [Aselec](https://open.spotify.com/artist/6sieT8D35Oae3wuL26bA4Z) | [Close To Me](https://open.spotify.com/album/78J95MXdIW6WW8g38M6B1l) | 2:51 | 2022-08-19 |  |
 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2022-06-24 |  |
 | [Cold Desert](https://open.spotify.com/track/0Fc8JaRVZWGmNQ3E0O8fgw) | [Onyoso](https://open.spotify.com/artist/3hOMAARcMkxkZ5iLA5MWl8) | [Cold Desert](https://open.spotify.com/album/7yYiEMCtoSYc8QenoAg1il) | 4:24 | 2022-09-23 |  |
+| [Crash 'n' Bang](https://open.spotify.com/track/6wwZ1KnWfvyBthA7SKUQuN) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Crash 'n' Bang](https://open.spotify.com/album/1qAmUXomV26eUkkbvtLT4z) | 2:54 | 2022-12-16 |  |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-02-11 | 2022-07-15 |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
@@ -83,6 +85,7 @@
 | [Double Up](https://open.spotify.com/track/0rQd8LawlOJwqo4VUPkEeP) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Double Up](https://open.spotify.com/album/5Y7UkrVx9JalGsJEM5EbT6) | 2:54 | 2022-11-25 |  |
 | [Dream Canyon](https://open.spotify.com/track/7wwW2weaG0o43SN581vH7c) | [Backdoor Jesus](https://open.spotify.com/artist/5aokebFIGIK1DHblB80rdw) | [Dream Canyon](https://open.spotify.com/album/2FDdq2nTAxV0aHuOM051Z4) | 2:33 | 2021-10-12 | 2022-02-12 |
 | [Dreams](https://open.spotify.com/track/3WnsrngoR8opauzEOnYXVJ) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Dreams](https://open.spotify.com/album/2b2uUCQBke5wtPskEnyzYP) | 3:42 | 2022-02-11 | 2022-07-29 |
+| [EivissAA](https://open.spotify.com/track/3eigPuKcaYb8wCYjptn6wr) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [LEO](https://open.spotify.com/album/7FgB0swov64l8PpCprNOh7) | 3:34 | 2022-12-16 |  |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2022-02-11 |  |
 | [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 | 2022-10-07 |
 | [Excellent](https://open.spotify.com/track/3GRTUabfguVlwCQmU3W7ps) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Excellent](https://open.spotify.com/album/3awGDNrYh2GzlZ9NfeqiBf) | 2:40 | 2021-10-12 | 2022-02-12 |
@@ -134,6 +137,7 @@
 | [Insights](https://open.spotify.com/track/1kwpL3EqUjKXhmEttZ78Md) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Insights](https://open.spotify.com/album/2BcSmACfCfIDnCnzpp1Cyq) | 3:26 | 2022-09-09 |  |
 | [intertwine](https://open.spotify.com/track/3tZtuh4sTH5yoaEPdyqSSk) | [stil de grain](https://open.spotify.com/artist/7MtqDjgMm4TTIYrsEVLeqZ) | [intertwine](https://open.spotify.com/album/6nh3Lq6ME4c869PrwutX2q) | 2:21 | 2022-10-07 |  |
 | [It's Alright](https://open.spotify.com/track/1L1vWlBmczGdw74eQOtrtD) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [It's Alright / Save Me](https://open.spotify.com/album/17p4MoyfCn8VcNiPktFNmJ) | 5:06 | 2019-10-04 | 2022-02-12 |
+| [Just Lights](https://open.spotify.com/track/6kGU03FoALwcpGPGbsv0GY) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Just Lights](https://open.spotify.com/album/3jB7KhxH1CY0cAcVbCCmVV) | 3:07 | 2022-12-16 |  |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-02-11 | 2022-10-14 |
 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 | 2022-09-02 |  |
 | [Kindred Spirits](https://open.spotify.com/track/5LqwuQkgjufaU20BKy3GLJ) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Kindred Spirits](https://open.spotify.com/album/20Y5xqbsbynGuibLL9kEOB) | 2:17 | 2021-10-12 | 2022-02-12 |
@@ -202,6 +206,7 @@
 | [Real](https://open.spotify.com/track/6mf0FKVO9qQyNXn3DV5Kza) | [Coquinio](https://open.spotify.com/artist/5HPcMVzRD40VXSDzv4WqyQ) | [Real](https://open.spotify.com/album/77biufhXX9hRRZ47SdIrXC) | 3:45 | 2022-02-11 |  |
 | [Reasons](https://open.spotify.com/track/4FQqwtrVJFsliLCrlN0zrz) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Reasons](https://open.spotify.com/album/0rHdJzccejp5TytlhCMP5Q) | 2:48 | 2019-10-04 | 2022-02-12 |
 | [Red Flower](https://open.spotify.com/track/4CkfITI1TKsu6HiyX0uyZY) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Red Flower](https://open.spotify.com/album/2s0woyRQFcQMBiSJF7OFq5) | 2:10 | 2022-10-28 |  |
+| [Repitition](https://open.spotify.com/track/1HxkAwP7SX6i5noFJ62eiC) | [moonrockets](https://open.spotify.com/artist/3l38nAslhPLjoAYOFtznQW) | [Repitition](https://open.spotify.com/album/4spWYL6zrbSMqMLYYGIAOf) | 3:46 | 2022-12-16 |  |
 | [request](https://open.spotify.com/track/4AWDkCHl4LVipIgbdFi6wH) | [Funky Feels](https://open.spotify.com/artist/73bsuepJlmtW9xPn5zytKd) | [request](https://open.spotify.com/album/769P51agF9GPdFXa9A0jX2) | 3:03 | 2022-11-25 |  |
 | [Retreat into mist](https://open.spotify.com/track/0ueVDDwFAZKFUwZhtHQAjE) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:09 | 2022-02-11 |  |
 | [running emotion](https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [running emotion](https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx) | 2:38 | 2022-07-29 |  |

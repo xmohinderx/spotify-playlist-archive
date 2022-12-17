@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,192 likes - 141 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,215 likes - 141 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 7 | [ヘミソフィア](https://open.spotify.com/track/0Zo3N0mkrux2vHfwCRVeOJ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ヘミソフィア](https://open.spotify.com/album/4Rf67sDCf4sh6ptdMliuls) | 4:09 |
 | 8 | [Dearest \(機動戦艦ナデシコ劇場版\)](https://open.spotify.com/track/6S4suEEw3USMUuCmeST56Y) | [まつざわゆみ](https://open.spotify.com/artist/7FDldm3a0NBOlE9Y8NsfIn) | [アニソンLive大全集 熱烈!アニソン魂「アニたまLive」vol.1 in AJF 2004](https://open.spotify.com/album/7I0rhR7ROC1jJGKEHYVQDW) | 5:03 |
 | 9 | [Get Wild](https://open.spotify.com/track/2l5JCe1KiH2BES2LlqR4AX) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Get Wild](https://open.spotify.com/album/2tIQ5SrcEJEojxba5YYJ8V) | 4:00 |
-| 10 | [Dream Shift](https://open.spotify.com/track/7MoVUDJz3fMsBl6abERGL1) | [SILK](https://open.spotify.com/artist/7aBLRszK8Sn0oRvzRd452L) | [Matchless Raijin\-Oh Original Motion Picture Soundtrack 1](https://open.spotify.com/album/6rog2spF1W7ayO2PVCyRMd) | 4:08 |
+| 10 | [ドリーム・シフト](https://open.spotify.com/track/7bTwUygo2Fl1GwPidJXxo0) | [SILK](https://open.spotify.com/artist/7aBLRszK8Sn0oRvzRd452L) | [Voice](https://open.spotify.com/album/0i0vSM82WIa3rNGLoHB6lt) | 4:05 |
 | 11 | [恋のミクル伝説](https://open.spotify.com/track/1SQ0z3rAndqnUjImZxFaB4) | [朝比奈みくる \(CV.後藤邑子\)](https://open.spotify.com/artist/2oAJCBpd56QFQcVmvTDhFn) | [涼宮ハルヒの詰合](https://open.spotify.com/album/4xD4gTiVsfF7rXyzDW9U5G) | 3:21 |
 | 12 | [ササクレ](https://open.spotify.com/track/2MjOksTfjudfTM3LPJV7wH) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [ササクレ](https://open.spotify.com/album/02pLzfgPEXN6psKVAGUDHe) | 4:06 |
 | 13 | [Now loading...SKY!!](https://open.spotify.com/track/05rprrC1vho2JP1RTu7GNy) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [sphere](https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU) | 4:22 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 140 | [Os\-宇宙人](https://open.spotify.com/track/7HsV5OfoVNXrGuut2ajhl7) | [エリオをかまってちゃん](https://open.spotify.com/artist/5JOZVjE1rtPOcz1pBrKk11) | [Os\-宇宙人](https://open.spotify.com/album/53YWZArR1MqUYd4OXLkujy) | 3:23 |
 | 141 | [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 |
 
-Snapshot ID: `MTY3MDQxOTQ1MywwMDAwMDAwMDdmMTViMDA2ZmM4ZGNkOTdiZWZhMjk3MDY1Y2Q1OTkz`
+Snapshot ID: `MTY3MDQxOTQ1MywwMDAwMDAwMDg3ZDM0MGY3NTg1NDlmZWNkOTdlMDI4OGIyM2RjODY1`

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-333 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+334 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-12-07 |  |
 | [Free](https://open.spotify.com/track/7L0oaIyBSqOT86qby2MmOi) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8) | [Free](https://open.spotify.com/album/1gsohCQJjnhKU9pwDd6Ub6) | 2:14 | 2022-08-05 |  |
 | [Free as a Bird](https://open.spotify.com/track/0ubmEMJ8mepIt4zLQCN1fR) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Relaxing Study Music](https://open.spotify.com/album/6XoR2ZWHiDmUZDNLr8CFrN) | 2:16 | 2022-10-28 | 2022-11-13 |
-| [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 |  |
+| [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 | 2022-12-17 |
 | [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2021-12-07 | 2022-07-29 |
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2021-12-07 |  |
 | [Garden Zoo](https://open.spotify.com/track/73O23xizU9YUdLDHF0iRJW) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Phantom Experience & Garden Zoo](https://open.spotify.com/album/4nPJVAKbB3x98ka18j24aD) | 2:28 | 2022-06-24 |  |
@@ -291,6 +291,7 @@
 | [spaceportaladventure](https://open.spotify.com/track/5Z42EcS4orw1I8BeXufWQZ) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [spaceportaladventure](https://open.spotify.com/album/47lrbncLyR4j9MrSFysoia) | 1:48 | 2022-06-03 | 2022-07-29 |
 | [Spacesuit](https://open.spotify.com/track/42yYFdyzVOOynUeK5WIkTe) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Spacesuit](https://open.spotify.com/album/6SlT2y1SbUUTB6NHnJeVbz) | 2:34 | 2022-10-14 |  |
 | [Special People](https://open.spotify.com/track/2DxdM8ajYipInrUhm6wGqp) | [Phonedown](https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q) | [Special People](https://open.spotify.com/album/45uoXchSEQuMKvJxNn4l1N) | 2:41 | 2022-09-16 |  |
+| [Spicy Brew](https://open.spotify.com/track/4Yd7O28WGsuZnKFX6wJ0CI) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Spicy Brew](https://open.spotify.com/album/3vBCdnuk05v7LLU2Y9RCyn) | 1:47 | 2022-12-16 |  |
 | [Spring Will Come](https://open.spotify.com/track/198mh66rFz5fQJ6CpHaxfQ) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Spring Will Come](https://open.spotify.com/album/78KWlT8JwxvWcBDo3omln7) | 2:49 | 2022-12-09 |  |
 | [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2021-12-07 |  |
 | [stay \- lofi](https://open.spotify.com/track/2ljxDp3RcVh3PG7DuRScCZ) | [zxch.](https://open.spotify.com/artist/1zuECMB24HSnqEHB6j8nDG) | [stay \(lofi\)](https://open.spotify.com/album/5DuyGUzCm8lwoZSqPq1FUp) | 2:48 | 2022-06-10 | 2022-08-19 |

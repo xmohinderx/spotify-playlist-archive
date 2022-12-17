@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Sena Mc
 
-135 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
+136 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 | 2022-03-18 |  |
 | [Enquadro](https://open.spotify.com/track/2y0zRkv69lLD1BKeFbMDDK) | [Danty](https://open.spotify.com/artist/3cO9lZPjuhLzZaEU9v7E5B), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6) | [Primeiro Ato](https://open.spotify.com/album/2nDeDsIG0dNLaeguZEp54U) | 3:23 | 2022-12-02 |  |
 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 | 2022-03-18 |  |
+| [Evoque](https://open.spotify.com/track/1BvHPr0BvtUwtnpARfRXqs) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Evoque](https://open.spotify.com/album/1CyN6KrXqcR6isOBdgn1dR) | 2:03 | 2022-12-16 |  |
 | [Família de Raça](https://open.spotify.com/track/1QGRyTHSk3KhiC7J6FZC5R) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/3hPQKI8AbrcFoyEMpAdmRZ) | 2:59 | 2022-04-15 | 2022-11-13 |
 | [Família de Raça](https://open.spotify.com/track/5Ho4B8wcznNcNKE6s31RIJ) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/0BFDHJKqQQ04fh5P9v2o8q) | 2:59 | 2022-11-11 |  |
 | [Favelinha](https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Favelinha](https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd) | 1:42 | 2022-12-09 |  |
@@ -128,7 +129,7 @@
 | [Sr das Armas](https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sr das Armas](https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly) | 2:26 | 2022-09-23 |  |
 | [Talibã](https://open.spotify.com/track/6eHYTj7DwxgUT5g26AHzkg) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Índio](https://open.spotify.com/artist/0xQY4dMgl3nMgyWprPkKmz) | [Talibã](https://open.spotify.com/album/6fp9jAxkHwndQAFNh9pMWi) | 4:05 | 2022-03-18 |  |
 | [Temporada De Caça](https://open.spotify.com/track/7oWXd23WF7vD6FROEHk063) | [brTT](https://open.spotify.com/artist/7y2EOgsPqCKSxH9MJ2Tk6z), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT) | [Temporada De Caça](https://open.spotify.com/album/57gdtXezVDMVQhLAtpnrbh) | 3:14 | 2022-04-22 | 2022-08-13 |
-| [tincan azul](https://open.spotify.com/track/2fgbp21pH0Yo9h6UnxZj1B) | [HXP](https://open.spotify.com/artist/4EqGyWcsiu5FwByLE1pftF), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [tincan azul](https://open.spotify.com/album/2k9aWQcb4b2Hxzw7v94Y2d) | 3:26 | 2022-03-18 |  |
+| [tincan azul](https://open.spotify.com/track/2fgbp21pH0Yo9h6UnxZj1B) | [HXP](https://open.spotify.com/artist/4EqGyWcsiu5FwByLE1pftF), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [tincan azul](https://open.spotify.com/album/2k9aWQcb4b2Hxzw7v94Y2d) | 3:26 | 2022-03-18 | 2022-12-17 |
 | [Tipo Globeleza](https://open.spotify.com/track/276nkDyzknw1b1uHS2enam) | [O Mafia MC](https://open.spotify.com/artist/7jKsxscQXCdqOj7HqawAur) | [Tipo Globeleza](https://open.spotify.com/album/4rrKyZVo2X7Dz5cz41bewm) | 2:11 | 2022-08-12 | 2022-09-24 |
 | [Tipo Mbappé 2](https://open.spotify.com/track/02bH8CBSXzquAIGXLLDOdq) | [James LR](https://open.spotify.com/artist/5fN97IMqjhOYwGBkv1z9Ni), [Ksbatista](https://open.spotify.com/artist/1sJA1MbXUvcCJgwN3jIaeL), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Tipo Mbappé 2](https://open.spotify.com/album/5jley9Ekel3gbHvhfnPmV8) | 3:09 | 2022-03-18 | 2022-06-04 |
 | [Top Boy](https://open.spotify.com/track/2BVC9JxElQFJ7rL5rVf8NA) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Top Boy](https://open.spotify.com/album/1tXxT5sTCot3j5Ploh5kkC) | 3:01 | 2022-03-18 | 2022-07-23 |

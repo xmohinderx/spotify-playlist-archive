@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Metallica
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Slipknot
 
-681 songs - 2 day 2 hr 44 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+683 songs - 2 day 2 hr 52 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Crimson Skies](https://open.spotify.com/track/0Jj1US4hB3vCZrgN8rHvRh) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD) | 4:09 | 2022-11-18 |  |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 | 2022-08-30 |
 | [Crossing the Blades](https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Crossing the Blades](https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3) | 5:26 | 2021-12-17 | 2022-05-11 |
-| [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 |  |
+| [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 | 2022-12-17 |
 | [Crucify Me](https://open.spotify.com/track/6xh1HHGZPLN0FsGg68Gm1c) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Crucify Me](https://open.spotify.com/album/3Y76qo9r5o9YPfwEPuJV7Y) | 4:10 | 2022-03-02 | 2022-05-20 |
 | [Cry for the Nations](https://open.spotify.com/track/0Kpi5PM6kwwm7sjlS3HVTy) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Cry for the Nations](https://open.spotify.com/album/5I4kXVMUAeH1fEhbmEUSf9) | 4:55 | 2022-01-07 | 2022-04-17 |
 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2022-08-19 |  |
@@ -403,7 +403,8 @@
 | [Now the Screaming Starts](https://open.spotify.com/track/4TW7ReI5Jzvm3TQ59DWA7v) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Now the Screaming Starts](https://open.spotify.com/album/4afU6LdO2FFF1ANLoGBrC8) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 | 2022-08-12 |  |
 | [Oblivion](https://open.spotify.com/track/6tlfAL7rJ85eDXSZgq5eC4) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Oblivion](https://open.spotify.com/album/1Q20gWIgDF9Fr7CSme9VwH) | 3:51 | 2021-12-17 | 2022-04-20 |
-| [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 | 2022-07-13 |  |
+| [Obsolete](https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:25 | 2022-12-16 |  |
+| [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 | 2022-07-13 | 2022-12-17 |
 | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/track/4oTHNttJRsIC6pr205Ld8Y) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [The Queen Of The Damned](https://open.spotify.com/artist/6tetPxHdTuzbSwzaluKVMI) | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/album/4fRKJfYPKCNKk7wfhVxTYi) | 4:29 | 2021-12-17 | 2022-07-27 |
 | [Offering to the Void](https://open.spotify.com/track/645e2PzMglhBceqVpQOSoI) | [Lords of the Trident](https://open.spotify.com/artist/1C11hnl3RZ7hadyMv5g5gm) | [The Offering](https://open.spotify.com/album/5ua43Gmyv5TaewII4LnmGZ) | 4:32 | 2022-04-01 | 2022-04-28 |
 | [On Broken Glass](https://open.spotify.com/track/77UdkFXVaGnfR3epYo909A) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [On Broken Glass](https://open.spotify.com/album/6ChvfZE1Hnp7lPItx73v63) | 4:27 | 2022-03-22 | 2022-04-21 |
@@ -564,6 +565,7 @@
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2022-07-13 | 2022-10-08 |
 | [The Circle Of Five](https://open.spotify.com/track/5jdR14PR0vkIpEWwhcl2S2) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Circle Of Five](https://open.spotify.com/album/5VJp3QUj1sZYDoSQIJ706N) | 5:25 | 2021-12-29 | 2022-07-15 |
 | [The Day The World Stood Still](https://open.spotify.com/track/4Ent8F0wqsVBlR45MnVJoI) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Day The World Stood Still](https://open.spotify.com/album/6o0LeUB677iN5E2hmcLRJN) | 4:46 | 2021-12-17 | 2022-04-20 |
+| [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-12-16 |  |
 | [The Earth, the Moon, the Sun](https://open.spotify.com/track/4zwUVVDEHuXZ8h2JZzAnvH) | [Diviner](https://open.spotify.com/artist/7kMNJQdOwnb5V30mkqg62S) | [The Earth, the Moon, the Sun](https://open.spotify.com/album/7C7G9aCcYI3GLqOZP1YnNy) | 5:21 | 2021-12-17 | 2022-05-23 |
 | [The Evil in You](https://open.spotify.com/track/4NBHoM14KNvtYVEJ3L5Xqb) | [At Vance](https://open.spotify.com/artist/4alZ73UZp90icEjdKjSIxw) | [The Evil in You](https://open.spotify.com/album/3qiVYUJv8F8OG1RxwvJxNx) | 5:11 | 2021-12-17 | 2022-07-23 |
 | [The Fairies Dance](https://open.spotify.com/track/2va05YoGLMgWLiVnQJFOQa) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [The Fairies Dance](https://open.spotify.com/album/1sdcE2Sl6vbPR3mkHNOalB) | 3:57 | 2021-12-17 | 2022-07-29 |

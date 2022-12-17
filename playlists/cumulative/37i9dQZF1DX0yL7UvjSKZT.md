@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-222 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+223 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [On the Highway](https://open.spotify.com/track/7eUUVjMaFRITv5dus01J5V) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 3:32 | 2022-10-07 |  |
 | [Orion's Waltz](https://open.spotify.com/track/2jItd4qiEH43kQjrkdN6Uu) | [Milkdrive](https://open.spotify.com/artist/2jSIlgL1YMPEcYoFQMEjj5) | [Places You've Not Been](https://open.spotify.com/album/5EA7oSmsgQctXu3UkevKZy) | 4:53 | 2021-10-01 |  |
 | [Orphan Annie](https://open.spotify.com/track/2LLvjxMWgwbgjJURPayTE5) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Orphan Annie](https://open.spotify.com/album/4wS4JNpGOxJksJ4UEsdVpv) | 5:00 | 2021-11-19 | 2022-01-15 |
+| [Parallel Lines](https://open.spotify.com/track/6siyBe5G5d4O8KiGRPPHCU) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Parallel Lines](https://open.spotify.com/album/4x5Z5IiBgZq8P47U1YSmvL) | 2:25 | 2022-12-16 |  |
 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 | 2021-10-01 |  |
 | [Pink and Blue](https://open.spotify.com/track/263SGPJWIAoTr4zSXNaasZ) | [Phoebe Hunt](https://open.spotify.com/artist/1wE9ZF6TT2O3XyYTmPLQ5x), [The Gatherers](https://open.spotify.com/artist/134PLBpnApdihCnvNKyXhd) | [Shanti's Shadow](https://open.spotify.com/album/6COhRbw1IMj5wmGIhSXf92) | 3:51 | 2022-07-22 | 2022-10-01 |
 | [Pink and Blue](https://open.spotify.com/track/32KDDkLofx0OsHQvAEQm3X) | [Phoebe Hunt & The Gatherers](https://open.spotify.com/artist/5n1AeCdes4kBP15JgHwhmn) | [Shanti's Shadow](https://open.spotify.com/album/0cqIEu0zILQLbtU0MI9chW) | 3:51 | 2021-10-01 | 2022-07-29 |

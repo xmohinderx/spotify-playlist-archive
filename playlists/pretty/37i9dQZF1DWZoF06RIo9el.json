@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de diciembre 2022.",
-  "num_followers": 1506921,
+  "num_followers": 1507010,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg3ODExNiwwMDAwMDAwMDNjN2I2ZjE4MDM5NmZlMTQ0NTc0ZGZkMmNlZDg0YTgz",
+  "snapshot_id": "MTY3MDg3ODExNiwwMDAwMDAwMGEyNTM0MzFhODdmZmQ4Y2ZhYjdhMjBkNTk2OWE0NTc2",
   "tracks": [
     {
       "added_at": "2022-12-09 18:08:30",
@@ -641,6 +641,38 @@
       "url": "https://open.spotify.com/track/5lVvaCKARxKTJXZIWgzo6c"
     },
     {
+      "added_at": "2022-12-17 00:20:31",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 221359,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
+    },
+    {
+      "added_at": "2022-12-17 00:20:31",
+      "album": {
+        "name": "TO' ESTO ES TUYO",
+        "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "TO' ESTO ES TUYO",
+      "url": "https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM"
+    },
+    {
       "added_at": "2022-12-09 18:08:30",
       "album": {
         "name": "Loco",
@@ -659,38 +691,6 @@
       "duration_ms": 213279,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
-    },
-    {
-      "added_at": "2022-12-16 00:58:02",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 221359,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
-    },
-    {
-      "added_at": "2022-12-16 00:58:02",
-      "album": {
-        "name": "TO' ESTO ES TUYO",
-        "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "TO' ESTO ES TUYO",
-      "url": "https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM"
     },
     {
       "added_at": "2022-12-09 18:08:30",
@@ -865,6 +865,22 @@
       "url": "https://open.spotify.com/track/6r0bDGDS8JJShneQkMAzj1"
     },
     {
+      "added_at": "2022-12-17 00:20:31",
+      "album": {
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 176991,
+      "name": "Booty Puty",
+      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
+    },
+    {
       "added_at": "2022-12-09 18:08:30",
       "album": {
         "name": "Free Sousa",
@@ -879,22 +895,6 @@
       "duration_ms": 170000,
       "name": "Un Pal De Textos",
       "url": "https://open.spotify.com/track/1aivk8tZoAz0FYjk8kg7td"
-    },
-    {
-      "added_at": "2022-12-16 00:58:02",
-      "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 176991,
-      "name": "Booty Puty",
-      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
     },
     {
       "added_at": "2022-12-09 18:08:30",

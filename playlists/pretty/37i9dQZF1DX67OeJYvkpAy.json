@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 80451,
+  "num_followers": 80522,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDBmZDczMjAyODk2YzJiNjk2Mjg4MDI2YmI1NDI0ZDBm",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGExYWJmMWNmMzdkMTdlMWY3Y2M4NGY5NzU0ZDQ3ZDE0",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Dutch From The 5th",
-        "url": "https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b"
-      },
-      "artists": [
-        {
-          "name": "dutchavelli",
-          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
-        }
-      ],
-      "duration_ms": 138620,
-      "name": "Never Really Mine",
-      "url": "https://open.spotify.com/track/62K84Fv61CS9dGt7JQqDlM"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Frozen Gold",
         "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 138135,
       "name": "Frozen Gold",
       "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Dutch From The 5th",
+        "url": "https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b"
+      },
+      "artists": [
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        }
+      ],
+      "duration_ms": 138620,
+      "name": "Never Really Mine",
+      "url": "https://open.spotify.com/track/62K84Fv61CS9dGt7JQqDlM"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -551,18 +551,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+        "name": "Left Back (Remix)",
+        "url": "https://open.spotify.com/album/0jUIULN8y7PJ6jIMgE94y1"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
         }
       ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+      "duration_ms": 174846,
+      "name": "Left Back - Remix",
+      "url": "https://open.spotify.com/track/1sRe7j48EAAJcr3uHAb6Z5"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -583,6 +587,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 195558,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Pain Interlude",
         "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 68571,
       "name": "Pain Interlude",
       "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Left Back (Remix)",
-        "url": "https://open.spotify.com/album/0jUIULN8y7PJ6jIMgE94y1"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 174846,
-      "name": "Left Back - Remix",
-      "url": "https://open.spotify.com/track/1sRe7j48EAAJcr3uHAb6Z5"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -667,18 +667,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
         }
       ],
-      "duration_ms": 195558,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -715,26 +719,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 128261,
       "name": "18+",
       "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -783,6 +783,22 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -851,38 +867,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Moston Vale (Freestyle)",
-        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 100466,
-      "name": "Moston Vale - Freestyle",
-      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "One Mic Freestyle (S3-EP1)",
         "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 121624,
       "name": "One Mic Freestyle (S3-EP1)",
       "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Moston Vale (Freestyle)",
+        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 100466,
+      "name": "Moston Vale - Freestyle",
+      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 163723,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 157808,
       "name": "Love & Attention",
       "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
-      },
-      "artists": [
-        {
-          "name": "Anubis",
-          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 153089,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
+      },
+      "artists": [
+        {
+          "name": "Anubis",
+          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
-      },
-      "artists": [
-        {
-          "name": "KS",
-          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
-        }
-      ],
-      "duration_ms": 146729,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "High (All The Time)",
         "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "In my head",
-        "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
       },
       "artists": [
         {
-          "name": "Gbnga",
-          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
+          "name": "KS",
+          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
         }
       ],
-      "duration_ms": 155725,
-      "name": "Champions League",
-      "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
+      "duration_ms": 146729,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "In my head",
+        "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
+      },
+      "artists": [
+        {
+          "name": "Gbnga",
+          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
+        }
+      ],
+      "duration_ms": 155725,
+      "name": "Champions League",
+      "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "She Comes & Goes",
         "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 199705,
       "name": "She Comes & Goes",
       "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "More",
-      "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
+        "name": "More",
+        "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "Beri Mayah",
-          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+      "duration_ms": 169714,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1355,6 +1335,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "Beri Mayah",
+          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "I Thought I'd Die In Your Arms",
         "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 176680,
       "name": "I Thought I'd Die In Your Arms",
       "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Derby To Moston",
+        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 182648,
+      "name": "Derby To Moston",
+      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Derby To Moston",
-        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 182648,
-      "name": "Derby To Moston",
-      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Told Me",
         "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
       },
@@ -1467,38 +1467,6 @@
       "duration_ms": 142027,
       "name": "Told Me",
       "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabio G",
-          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 110759,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1519,6 +1487,38 @@
       "duration_ms": 159753,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 110759,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabio G",
+          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2022-08-02 15:42:28",

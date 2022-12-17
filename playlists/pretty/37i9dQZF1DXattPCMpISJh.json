@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 68201,
+  "num_followers": 68328,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGI3NWY4NzQwMGMxOTM4ZDZjYWUxNjVkZTc3YWRlYzli",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDA0OTZmNDI2YmNmZjVjZjNjMWFhNmE2NDQxMzNhZjNh",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -69,6 +69,22 @@
       "url": "https://open.spotify.com/track/4zr3R8lzGvORufPJqQW3Di"
     },
     {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "I Believe It",
+        "url": "https://open.spotify.com/album/7IqVMiFRYTIOkQP0TC5dW8"
+      },
+      "artists": [
+        {
+          "name": "Venice Club",
+          "url": "https://open.spotify.com/artist/5nn6vlKul0h0t1ESe524Vx"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "I Believe It",
+      "url": "https://open.spotify.com/track/5yuscwN84KrGaj06WiUUKy"
+    },
+    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Let Loose",
@@ -87,6 +103,26 @@
       "duration_ms": 277438,
       "name": "The One That Got Away (feat. Obi Franky)",
       "url": "https://open.spotify.com/track/2zL0FVFVuoOBKhnNgKqGws"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Crying At The Discoteque",
+        "url": "https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq"
+      },
+      "artists": [
+        {
+          "name": "Discotron",
+          "url": "https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf"
+        },
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "duration_ms": 238571,
+      "name": "Crying At The Discoteque",
+      "url": "https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1749,22 +1785,6 @@
       "url": "https://open.spotify.com/track/161KhiTvj9JwoO7uzorjGo"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "JUST US TWO",
-        "url": "https://open.spotify.com/album/6NMaqBL0rfysZBo4mcyWTY"
-      },
-      "artists": [
-        {
-          "name": "Scotty Sire",
-          "url": "https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy"
-        }
-      ],
-      "duration_ms": 130253,
-      "name": "JUST US TWO",
-      "url": "https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pretty Please (Supertaste Disco Mix)",
@@ -1783,26 +1803,6 @@
       "duration_ms": 221314,
       "name": "Pretty Please (Supertaste Disco Mix)",
       "url": "https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
-      },
-      "artists": [
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        },
-        {
-          "name": "Irfane",
-          "url": "https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX"
-        }
-      ],
-      "duration_ms": 268520,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml"
     },
     {
       "added_at": "2021-11-12 05:01:00",

@@ -1004,6 +1004,28 @@
     },
     {
       "album": {
+        "name": "FDP",
+        "url": "https://open.spotify.com/album/1iLSwd1HT54A9EDI3w2F5F"
+      },
+      "artists": [
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "FDP",
+      "url": "https://open.spotify.com/track/3LbPOVdMrVm8yBMDcb5s2F"
+    },
+    {
+      "album": {
         "name": "Fim",
         "url": "https://open.spotify.com/album/7gua9NskGvji2pRWFjSbk1"
       },

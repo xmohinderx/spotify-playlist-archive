@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-61 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+62 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Once In Royal David’s City](https://open.spotify.com/track/0mj6WJRfdnM1x9JgQgepWn) | [Henry John Gauntlett](https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Dark Academia Christmas](https://open.spotify.com/album/1JQ2kq4F8pyWKaJqeIKG6S) | 3:38 | 2022-11-09 | 2022-11-13 |
 | [Once In Royal David’s City](https://open.spotify.com/track/6M7DHt54sGNGyxZrMZMR8w) | [Henry John Gauntlett](https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights \- Die schönsten Melodien für eine entspannte Weihnachtszeit](https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS) | 3:38 | 2021-12-16 |  |
 | [Rosey Chan x The Listening Planet](https://open.spotify.com/track/3B6XD4wi46t80Cop4H6lEk) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Rosey Chan x The Listening Planet](https://open.spotify.com/album/5F4wY7c0LzSy0KKxBCOwOG) | 4:03 | 2021-12-16 |  |
+| [Rutter: The Colours of Christmas \- Arr\. for Piano by John Lenehan](https://open.spotify.com/track/5hxJyjM1uI60T8xJB5U4yg) | [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9) | [John Rutter: The Colours of Christmas](https://open.spotify.com/album/5EQU41n7Lj7OAn0wuRMwGt) | 2:57 | 2022-12-16 |  |
 | [Santa Tell Me](https://open.spotify.com/track/2DCxWF4de4snGIze8xKw15) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Santa Tell Me](https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA) | 2:47 | 2021-12-16 |  |
 | [Silent Night \(Arr\. Gjeilo\)](https://open.spotify.com/track/52IYxMsVmlYNuluq0H4tS6) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter Songs](https://open.spotify.com/album/2jFBT3xeFTFExf0p7nZPT6) | 3:46 | 2021-12-16 |  |
 | [Sleep for Mama \(Icelandic Folk Song\)](https://open.spotify.com/track/2xI6xvh6At0gjyLeiMP9RC) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Winter Tales](https://open.spotify.com/album/3o8RQHt67qDlpA3JRo59Pl) | 2:39 | 2021-12-16 |  |

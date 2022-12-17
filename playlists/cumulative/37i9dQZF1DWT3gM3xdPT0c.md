@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-210 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+211 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Drawing Board](https://open.spotify.com/track/4V3hWllK49K8uZVecugi7B) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:06 | 2022-03-04 | 2022-11-18 |
 | [Dreams We Have](https://open.spotify.com/track/6sbuFkKEqcMAtCAZQDpbZv) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [Dreams We Have](https://open.spotify.com/album/3jimBHft9L9TiC4A4ib28Z) | 2:54 | 2022-03-04 |  |
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2022-03-04 | 2022-07-08 |
+| [Dwell in Possibility](https://open.spotify.com/track/34phA6QvS4jPziVuBj90Kz) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Dwell in Possibility](https://open.spotify.com/album/6C1207mfDBJpnGsBJd4PSp) | 2:32 | 2022-12-16 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-03-04 |  |
 | [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 | 2022-11-05 |
 | [Each Day](https://open.spotify.com/track/7CLYREY7ffMNOMCAJZaBIn) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/768JMosIKgm2l7PuvLg7fV) | 2:23 | 2022-10-28 | 2022-11-18 |

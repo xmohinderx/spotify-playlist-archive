@@ -3078,6 +3078,24 @@
     },
     {
       "album": {
+        "name": "Nuvola II",
+        "url": "https://open.spotify.com/album/5RzRZucmRpkc309el2IyKr"
+      },
+      "artists": [
+        {
+          "name": "Il nome \u00e8 puramente indicativo",
+          "url": "https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353731,
+      "name": "Nuvola II",
+      "url": "https://open.spotify.com/track/6UobW347K3eotJka699l7a"
+    },
+    {
+      "album": {
         "name": "YOGA, Pt. 1",
         "url": "https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe"
       },

@@ -862,6 +862,28 @@
     },
     {
       "album": {
+        "name": "Dirty Freddy (Remix)",
+        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+      },
+      "artists": [
+        {
+          "name": "Extize",
+          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Dirty Freddy - Remix",
+      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
+    },
+    {
+      "album": {
         "name": "Moral Hygiene",
         "url": "https://open.spotify.com/album/2GV4nMhDaSu4BUshdfQUK5"
       },
@@ -1589,7 +1611,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
@@ -1745,6 +1767,28 @@
       "duration_ms": 316701,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/6Q12JjOHsE9kTGVshxrm3F"
+    },
+    {
+      "album": {
+        "name": "Into the Void (HARD BOX Remix)",
+        "url": "https://open.spotify.com/album/5e6b6x3x10PzgUdwFBml39"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Hard Box",
+          "url": "https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219123,
+      "name": "Into the Void - HARD BOX Remix",
+      "url": "https://open.spotify.com/track/1QZWJcDtvPASvWbHMFEG7N"
     },
     {
       "album": {
@@ -3027,7 +3071,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 402706,
       "name": "Supernaut",
       "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"

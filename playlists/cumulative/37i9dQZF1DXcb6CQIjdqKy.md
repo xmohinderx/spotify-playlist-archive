@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> Top Christian & Gospel is proud to support St\. Jude Children’s Research Hospital this holiday season!  Learn more at MusicGives.Org \#ThisShirtSavesLives  Cover:  Steven Curtis Chapman
+> The best mix of today's Christian music, all genres, worldwide\.   Cover:  Natalie Grant & Cory Asbury
 
-405 songs - 1 day 3 hr 57 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
+406 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [joyful](https://open.spotify.com/track/6TFjKtYZGIJyL6vbS33GEB) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:17 | 2022-04-08 | 2022-05-20 |
 | [Joyful Noise \(feat\. DOE\) \- Live](https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Joyful Noise \(feat\. DOE\) \[Live\]](https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr) | 4:38 | 2021-12-17 | 2022-01-29 |
 | [Jump Ship \- Live](https://open.spotify.com/track/5tfxw0QXyytTKAUAtxVG57) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 3:50 | 2022-01-21 | 2022-06-25 |
-| [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 | 2022-06-03 |  |
+| [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 | 2022-06-03 | 2022-12-17 |
 | [Just Us](https://open.spotify.com/track/4tFrt3KFlSj1kDKXTJNbtJ) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Just Us](https://open.spotify.com/album/1IiFcfPQXkOinuNhejlk3d) | 6:02 | 2022-04-15 | 2022-06-11 |
 | [Júbilo](https://open.spotify.com/track/5Pu8Ug7xIQsm6eRSaYC8IC) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a) | [Júbilo](https://open.spotify.com/album/3NXtSFvCB1tv6cEBt4O9xo) | 10:21 | 2022-01-21 | 2022-02-26 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-03-11 | 2022-07-30 |
@@ -410,6 +410,7 @@
 | [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-12 | 2022-11-19 |
 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2022-04-08 | 2022-09-24 |
 | [You Have My Yes](https://open.spotify.com/track/4qiVh3U2Qgd5RPOWjZcbLU) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Paul Daugherty](https://open.spotify.com/artist/4QU4v85xepqUOPZzHP6Cwc) | [both the night and day are the same to You](https://open.spotify.com/album/30FSDbzkZGcUciU1hCKK0x) | 5:54 | 2022-08-26 | 2022-12-10 |
+| [You Will Be Found](https://open.spotify.com/track/37JSM2sf79iQfvpBQx1W3L) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [You Will Be Found](https://open.spotify.com/album/2pTMEwEKSdrr7tBsLbROrz) | 3:41 | 2022-12-16 |  |
 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 | 2022-05-13 |  |
 | [Your World](https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Your World](https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS) | 3:16 | 2022-08-05 |  |
 | [Yours To Use](https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Yours To Use](https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH) | 3:26 | 2022-12-02 |  |

@@ -1596,6 +1596,24 @@
     },
     {
       "album": {
+        "name": "Holiday Improvisations",
+        "url": "https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo"
+      },
+      "artists": [
+        {
+          "name": "Leila Milki",
+          "url": "https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79133,
+      "name": "Peaceful Midnight Vignette",
+      "url": "https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt"
+    },
+    {
+      "album": {
         "name": "X-Mas",
         "url": "https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,903 likes - 130 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,937 likes - 130 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 104 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 |
 | 105 | [You Are Fullness](https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Fullness](https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo) | 5:20 |
 | 106 | [I Stand Amazed](https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5) | [I Stand Amazed](https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4) | 4:28 |
-| 107 | [PEACE](https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 4:19 |
-| 108 | [Edge of Heaven](https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6) | [Battledrums](https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ) | [Breakthrough](https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl) | 5:41 |
+| 107 | [Edge of Heaven](https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6) | [Battledrums](https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ) | [Breakthrough](https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl) | 5:41 |
+| 108 | [PEACE](https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 4:19 |
 | 109 | [White as Snow](https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp) | [Cageless Birds](https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [We Rise We Bow](https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr) | 5:39 |
 | 110 | [How Deep](https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 4:48 |
 | 111 | [Live Again](https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Live Again](https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh) | 5:08 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [Landslide \- Radio Version](https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Landslide](https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B) | 5:41 |
 | 130 | [Only Name](https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK) | [Only Name](https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC) | 5:12 |
 
-Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDVkYWZmM2EzZDJmZWExMjNlM2VmYWJhY2FmODEzY2Y1`
+Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDkzMGEyMjIzYmY4MDY2ZDBlYzgwOTNhZmQ1ZGU1MTM5`

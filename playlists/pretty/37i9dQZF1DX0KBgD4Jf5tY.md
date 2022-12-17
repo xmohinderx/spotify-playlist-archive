@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Fresh Finds Italia presenta il meglio della musica indipendente italiana del 2022\. Cover: <a href="spotify:artist:4vXFvvWirlvTwcl184KfDc">Sans Soucis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,118 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,121 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 45 | [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN \(Deluxe\)](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 |
 | 46 | [ZERO PIANI](https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [CATRAME](https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i) | 3:06 |
 | 47 | [Footloose \(feat\. Goosie, Ronin & Diorama\)](https://open.spotify.com/track/30rx0wwYU4Ju1zLlRUNv65) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Goosie](https://open.spotify.com/artist/1Q5MLomG7ynZZsa8RcAEwI), [Ronin](https://open.spotify.com/artist/6Yix7uX4wesEDDJPk4idZm), [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [Footloose \(feat\. Goosie, Ronin & Diorama\)](https://open.spotify.com/album/0rYXX9yh8xosbGHorb29WW) | 2:39 |
-| 48 | [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 |
+| 48 | [Hard Tarantella](https://open.spotify.com/track/0XStJCyj4Q8eNtuyFcoifu) | [NZIRIAA](https://open.spotify.com/artist/708GD7wt7fEo1CrRTCfdld) | [XXYBRID](https://open.spotify.com/album/2uKd4O9RA1lWwetOeQZ31J) | 5:05 |
 | 49 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 |
 | 50 | [Città Giardino](https://open.spotify.com/track/5k7qn1riAYxIip41Itqhz1) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Nuovo Maschio](https://open.spotify.com/album/2VvSOPOh3Vje4S8yYopX2n) | 3:13 |
 
-Snapshot ID: `MTY2OTgyMzk0NCwwMDAwMDAwMDZjOWQzMmMxOTgyMDViYWJiMzM4YmUyNjY4OGJkNjdh`
+Snapshot ID: `MTY2OTgyMzk0NCwwMDAwMDAwMDVjNWM2NTVmMzIyYjRmOTZkNWFlMDg2MjRiYmY0MGM0`

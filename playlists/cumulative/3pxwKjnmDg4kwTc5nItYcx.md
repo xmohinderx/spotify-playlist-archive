@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-651 songs - 1 day 11 hr 10 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+652 songs - 1 day 11 hr 14 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Lonely Hearts](https://open.spotify.com/track/63l4LmmYVH2KSWLmVOD8gA) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Lonely Hearts](https://open.spotify.com/album/4P5b0d1PPIue25OfqE7Ffv) | 3:23 | 2020-04-24 | 2020-05-12 |
 | [Los Angeles](https://open.spotify.com/track/7gDXne51D4DEBHQSHHedYq) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [En\-Route: Los Angeles](https://open.spotify.com/album/6AS93NOEEpTJhayGi6hQZN) | 4:00 | 2019-10-25 | 2021-05-12 |
 | [Loser](https://open.spotify.com/track/4wPIwZiEnvE7AWY3bBSz3H) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Best Bad News](https://open.spotify.com/album/7vUmuDAhBlmK3idI32knqA) | 3:48 | 2022-08-12 |  |
+| [lost](https://open.spotify.com/track/6XTAG7oS2qTKp9AOmbOczL) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [lost](https://open.spotify.com/album/3vMGA5wdFyAZ02c05F1KWy) | 3:37 | 2022-12-16 |  |
 | [Love Again](https://open.spotify.com/track/1imMjt1YGNebtrtTAprKV7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 4:18 | 2021-05-14 |  |
 | [Love For The Lonely](https://open.spotify.com/track/1x6gsq4SfYNXwKUrfgTwDV) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Love For The Lonely](https://open.spotify.com/album/0n1mW222zLRLDMjRddnbZX) | 3:16 | 2020-06-09 | 2021-05-12 |
 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 | 2020-11-13 |  |

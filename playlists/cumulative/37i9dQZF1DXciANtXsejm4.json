@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198410,
       "name": "Abrime Pronto",
       "url": "https://open.spotify.com/track/1g8Xa95Ymyfz0TYGTLy0QK"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 229280,
       "name": "Como Tu Enemigo",
       "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175545,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
+    },
+    {
+      "album": {
         "name": "Dime Quien",
         "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
       },
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT"
@@ -2086,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+    },
+    {
+      "album": {
         "name": "La Gorda Me Quiere",
         "url": "https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63"
       },
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 215722,
       "name": "Perdido por Ti",
       "url": "https://open.spotify.com/track/5nYFh4mbCDGDVHse3PuCKy"
@@ -2635,7 +2671,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 415610,
       "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
       "url": "https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu"
@@ -2765,7 +2801,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 184058,
       "name": "Son de Amores / Vanidosa",
       "url": "https://open.spotify.com/track/7CAw9ylqrfW47tfyI6elLs"
@@ -3227,7 +3263,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 238367,
       "name": "Vivo Pensando en ti",
       "url": "https://open.spotify.com/track/5GvCjJyuH91YhtEl9iKvlY"
@@ -3379,7 +3415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 236435,
       "name": "\u00c9xitos Santafesinos Enganchados ATR",
       "url": "https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv"

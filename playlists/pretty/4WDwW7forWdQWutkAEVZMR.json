@@ -1,148 +1,84 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!",
-  "num_followers": 8324,
+  "num_followers": 8326,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTgxNCw1N2I5MTI1NmYyNmIzOGYyODQxOWZiYmVlMmJkYTk2NmQ0ODYxZmNh",
+  "snapshot_id": "NTgyNCw0OWEzYmU4YzViNzU3MzZlYjZhNmRjZjcxZjU0OTgxZGU5M2Y4ODAw",
   "tracks": [
     {
-      "added_at": "2022-12-09 05:01:58",
+      "added_at": "2022-12-16 05:09:17",
       "album": {
-        "name": "Girl Like Me",
-        "url": "https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv"
+        "name": "DESPECH\u00c1 RMX",
+        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 149456,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
-    },
-    {
-      "added_at": "2022-12-09 05:02:47",
-      "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
-    },
-    {
-      "added_at": "2022-12-09 05:03:05",
-      "album": {
-        "name": "Help Is On The Way",
-        "url": "https://open.spotify.com/album/7JNS0SjmLodxUxHJ1SJvhn"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 152195,
-      "name": "Get Money (feat. Polo G)",
-      "url": "https://open.spotify.com/track/2lCksaXDjYoYBiBtODuNFG"
+      "duration_ms": 170827,
+      "name": "DESPECH\u00c1 RMX",
+      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
     },
     {
-      "added_at": "2022-12-09 05:02:09",
+      "added_at": "2022-12-16 05:08:51",
       "album": {
-        "name": "COOK UP",
-        "url": "https://open.spotify.com/album/1DiX91mf1oiNuLmtJWYYqi"
+        "name": "Checkers (feat. Bandmanrill)",
+        "url": "https://open.spotify.com/album/3xszxg2o7K6EPVBpihMo4n"
       },
       "artists": [
         {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "COOK UP",
-      "url": "https://open.spotify.com/track/2yUAogxEgxEHBGG3zw57x9"
-    },
-    {
-      "added_at": "2022-12-09 05:02:37",
-      "album": {
-        "name": "happy f***ing birthday",
-        "url": "https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "happy f***ing birthday",
-      "url": "https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4"
-    },
-    {
-      "added_at": "2022-12-09 05:02:28",
-      "album": {
-        "name": "Guillermo del Toro's Pinocchio (Soundtrack From The Netflix Film)",
-        "url": "https://open.spotify.com/album/7GQqZap38LT44AcbZriYqt"
-      },
-      "artists": [
-        {
-          "name": "Ewan McGregor",
-          "url": "https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1"
-        }
-      ],
-      "duration_ms": 256090,
-      "name": "Better Tomorrows",
-      "url": "https://open.spotify.com/track/0QeLd5hzvG0k3gS0uml6Eb"
-    },
-    {
-      "added_at": "2022-12-09 11:55:45",
-      "album": {
-        "name": "unless you leave",
-        "url": "https://open.spotify.com/album/0lPd9kfr60CDR9OS50Eefe"
-      },
-      "artists": [
-        {
-          "name": "Chase Elliott",
-          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
-        }
-      ],
-      "duration_ms": 204199,
-      "name": "unless you leave",
-      "url": "https://open.spotify.com/track/5q0HdkRYhJlVI8Ep3Bfv2i"
-    },
-    {
-      "added_at": "2022-12-09 11:56:18",
-      "album": {
-        "name": "Picking Up (feat. Deb Never)",
-        "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         },
         {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         }
       ],
-      "duration_ms": 175520,
-      "name": "Picking Up (feat. Deb Never)",
-      "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
+      "duration_ms": 161424,
+      "name": "Checkers (feat. Bandmanrill)",
+      "url": "https://open.spotify.com/track/2UUEnFfWx3y3lPKiwHTknQ"
+    },
+    {
+      "added_at": "2022-12-16 05:04:54",
+      "album": {
+        "name": "AVO TOAST",
+        "url": "https://open.spotify.com/album/4gH45jls1Zx5TSREuO53x9"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 161461,
+      "name": "AVO TOAST",
+      "url": "https://open.spotify.com/track/7B5EbapjMpLuK7A7PJUvxn"
+    },
+    {
+      "added_at": "2022-12-16 05:10:22",
+      "album": {
+        "name": "WitDemDicks!",
+        "url": "https://open.spotify.com/album/1RJFocwXeGvzaJgl7uMxBc"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 72862,
+      "name": "WitDemDicks!",
+      "url": "https://open.spotify.com/track/6ycYxIWYm4pdfiFPHHTzWA"
     },
     {
       "added_at": "2022-11-18 15:09:20",

@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 36037,
+  "num_followers": 36225,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzMTMyNiwwMDAwMDAwMDE2MWIwN2M4YTZhZDM2ODg0NjE3NjY5NGVjMGU1Y2Zk",
+  "snapshot_id": "MTY2OTkzMTMyNiwwMDAwMDAwMDc0YTY3NzMwOWQ0ZTBkM2MxYzQ2NjE5NzcwMDNiN2Y1",
   "tracks": [
     {
       "added_at": "2022-11-11 22:33:49",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
+      },
+      "artists": [
+        {
+          "name": "Kate Winslet",
+          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
+        }
+      ],
+      "duration_ms": 243039,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 242840,
       "name": "Leave (Get Out)",
       "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
-      },
-      "artists": [
-        {
-          "name": "Kate Winslet",
-          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
-        }
-      ],
-      "duration_ms": 243039,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "I Will Never Let You Down",
-        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 203466,
-      "name": "I Will Never Let You Down",
-      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -659,18 +659,34 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+        "name": "I Will Never Let You Down",
+        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
+      "duration_ms": 203466,
+      "name": "I Will Never Let You Down",
+      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Untouched",
+      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -691,22 +707,6 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "Hook Me Up",
-        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Untouched",
-      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Better Mistakes",
-        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 160871,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "Evacuate The Dancefloor",
         "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 205884,
       "name": "Evacuate The Dancefloor - Radio Edit",
       "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "Better Mistakes",
+        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 160871,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "SAWAYAMA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "Welcome to the Dollhouse",
         "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 244266,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu"
-      },
-      "artists": [
-        {
-          "name": "Fefe Dobson",
-          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Stuttering",
-      "url": "https://open.spotify.com/track/7iMI1Z3h8H5UdKeA3rBqlP"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "Teen Spirit",
         "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 197386,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu"
+      },
+      "artists": [
+        {
+          "name": "Fefe Dobson",
+          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Stuttering",
+      "url": "https://open.spotify.com/track/7iMI1Z3h8H5UdKeA3rBqlP"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Want You In My Room",
+      "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "WandaVision: Episode 7 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 62613,
       "name": "Agatha All Along",
       "url": "https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Want You In My Room",
-      "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "It\u2019s About Time",
         "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -2385,7 +2385,7 @@
       "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
     },
     {
-      "added_at": "2022-12-16 01:04:28",
+      "added_at": "2022-12-17 00:33:38",
       "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"

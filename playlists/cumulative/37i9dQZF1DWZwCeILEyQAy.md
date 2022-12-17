@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Omeretta The Great
 
-252 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
+254 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2022-07-22 |  |
 | [Black Barbie](https://open.spotify.com/track/7vtIPEv0Oom2B5XWh6aSil) | [BAHA BANK$](https://open.spotify.com/artist/0RCAPjosUl0X0PehJ5GKJz) | [Black Barbie](https://open.spotify.com/album/29Z0vuw4ddQvCM0mKE5gJu) | 2:12 | 2022-10-28 |  |
 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 | 2022-03-11 | 2022-10-01 |
+| [Blow It \(feat\. Kali\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kali\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 | 2022-12-16 |  |
 | [Body Bag](https://open.spotify.com/track/0xyoFI12avobBj3fEt2MD6) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Body Bag](https://open.spotify.com/album/7l4b8ZdtlttBwy38EMMwFS) | 2:06 | 2021-11-05 | 2022-03-16 |
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-21 |  |
 | [Bola Shark](https://open.spotify.com/track/1gvY1JXmvJNx91iUeZSkK4) | [SauceyBola](https://open.spotify.com/artist/6d5UVv06ZnbonTBMGnADGv), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Bola Talk](https://open.spotify.com/album/6GhpYzTpayGkkSVfv7PA3y) | 1:45 | 2021-11-05 | 2022-03-02 |
@@ -109,6 +110,7 @@
 | [Gloss Up Broke Boy](https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Casino Jizzle](https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9) | [Gloss Up Broke Boy](https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o) | 3:01 | 2022-07-29 | 2022-10-01 |
 | [Gloss Up Ms Bitch](https://open.spotify.com/track/4nrTlaJHJWyoiuSkAS0cA3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Gloss Up Ms Bitch](https://open.spotify.com/album/7xp7HjMNl7Kjq0VQm9sbMV) | 2:42 | 2022-08-12 | 2022-08-20 |
 | [GodMother](https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [GodMother](https://open.spotify.com/album/3aW6FJfy8Pp4qxhHQ3THYh) | 3:22 | 2021-11-05 | 2022-07-28 |
+| [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2022-12-16 |  |
 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 | 2022-09-23 |  |
 | [GTFOMD](https://open.spotify.com/track/2wW6mWwn1mmdyqKQhnv5Gs) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [GTFOMD](https://open.spotify.com/album/1lmCYYsY6xq59gN8g48cW2) | 2:25 | 2022-04-15 | 2022-05-23 |
 | [Halloween Flow](https://open.spotify.com/track/3egVNaIw2ySbYKwqYgZiAX) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Halloween Flow](https://open.spotify.com/album/19E9DLLVGzf9aYAEoy7lwa) | 2:33 | 2022-10-28 |  |
@@ -243,7 +245,7 @@
 | [Track & Field \(feat\. Kali\)](https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Track & Field \(feat\. Kali\)](https://open.spotify.com/album/2c2pjLYQ3hd9UNoCPiNuwf) | 2:18 | 2021-11-05 | 2022-09-17 |
 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 | 2022-06-17 | 2022-10-15 |
 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 | 2021-11-05 | 2022-09-17 |
-| [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 | 2022-08-12 |  |
+| [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 | 2022-08-12 | 2022-12-17 |
 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 | 2022-11-11 |  |
 | [Walk In](https://open.spotify.com/track/6NVp9jx6E5U3ueEfFxm9Bm) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL) | [Walk In](https://open.spotify.com/album/7f2w303hV2NcEq5S7R34TB) | 1:36 | 2022-06-17 | 2022-07-28 |
 | [Want Sum](https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Want Sum](https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU) | 2:07 | 2021-11-05 | 2022-08-02 |

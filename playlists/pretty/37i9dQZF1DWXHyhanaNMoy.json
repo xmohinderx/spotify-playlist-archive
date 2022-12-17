@@ -1,12 +1,12 @@
 {
   "description": "Ladies love Idaly! De playlist voor motion en good vibes",
-  "num_followers": 307976,
+  "num_followers": 308032,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMDc5NDdjNzRkNWY1ZjFmNDJhMWE0MDYzMTY4YzUwYjNi",
+  "snapshot_id": "MTY3MTIxNDc2NywwMDAwMDAwMGNmY2Q0ZjExM2JjNzIwOWFmZTk0NmQ3NmUzMTA3ZmY1",
   "tracks": [
     {
       "added_at": "2022-12-15 23:00:00",
@@ -167,6 +167,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Niet Opzoek",
+        "url": "https://open.spotify.com/album/2Lvyr12fHUMHlqYJFyLJk6"
+      },
+      "artists": [
+        {
+          "name": "Justice Toch",
+          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
+        },
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Niet Opzoek",
+      "url": "https://open.spotify.com/track/4yegAeaRmvjFhNA8XD5rae"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "U'r Bad",
         "url": "https://open.spotify.com/album/5U9wRqpFlPI7qENyw9vHfX"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 149562,
       "name": "Ons Twee",
       "url": "https://open.spotify.com/track/3QwJNl3IoF8p752C6yg1u8"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Niet Opzoek",
-        "url": "https://open.spotify.com/album/2Lvyr12fHUMHlqYJFyLJk6"
-      },
-      "artists": [
-        {
-          "name": "Justice Toch",
-          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Niet Opzoek",
-      "url": "https://open.spotify.com/track/4yegAeaRmvjFhNA8XD5rae"
     },
     {
       "added_at": "2022-12-15 23:00:00",

@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Marioo
+> Get your fill of vibes straight out of Tanzania\. Cover: Mavokali
 
-187 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+189 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 | 2021-11-18 | 2022-11-11 |
 | [Manzese](https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Manzese](https://open.spotify.com/album/5Q7GATwyhV0GGRS9uA6HPo) | 3:20 | 2022-06-02 |  |
 | [Mapenzi](https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Karata 3](https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4) | 3:17 | 2021-06-25 | 2022-01-21 |
+| [Mapopo](https://open.spotify.com/track/6JQbozPXyjceIHVi6S1rzS) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mapopo](https://open.spotify.com/album/3DS6T19UXoSLPa73O4Mlbh) | 2:48 | 2022-12-16 |  |
 | [Mchumba](https://open.spotify.com/track/2CNtq7md5SkG2mRge5Ruj1) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mchumba](https://open.spotify.com/album/6FKYjhPJ2o9VXmpbLm6Koo) | 3:36 | 2022-10-21 |  |
 | [Melody](https://open.spotify.com/track/4SU8d5EyTg6fM4AUkrWmCg) | [Robby Vibe](https://open.spotify.com/artist/5MbMEjr2wDI9iczXvMCmUC), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Melody](https://open.spotify.com/album/3IsdN5UkV8Ri9F1KFDiL05) | 2:58 | 2022-10-07 |  |
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-10 |  |
@@ -135,7 +136,7 @@
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2021-06-25 | 2022-01-28 |
 | [Niteke \(feat\. Blaq Diamond\)](https://open.spotify.com/track/5gSkBX3XjO6bxm4egr3ITH) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 4:15 | 2021-10-21 | 2022-04-29 |
 | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/1ZQ99HHidfORTcxmZDVF0o) | 3:05 | 2022-11-10 |  |
-| [No Time](https://open.spotify.com/track/6KVESuAVZDmmMqGVLgPW2P) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [No Time](https://open.spotify.com/album/3zr51b8usrlLH6dLM3Gj70) | 3:10 | 2022-06-16 |  |
+| [No Time](https://open.spotify.com/track/6KVESuAVZDmmMqGVLgPW2P) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [No Time](https://open.spotify.com/album/3zr51b8usrlLH6dLM3Gj70) | 3:10 | 2022-06-16 | 2022-12-17 |
 | [Number One](https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One](https://open.spotify.com/album/3kwC2ffwJioEFnxnFkWO1X) | 3:33 | 2021-10-14 | 2022-07-23 |
 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 | 2021-09-09 | 2022-04-08 |
 | [ODG \- Remix](https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ODG \(Remix\)](https://open.spotify.com/album/6vh28C9UkOKgW8K1KQ5Q2M) | 3:15 | 2022-08-11 |  |
@@ -147,6 +148,7 @@
 | [Pele Pele](https://open.spotify.com/track/3jlFv5sxExswhKsgOKVay0) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Luana Vjollca](https://open.spotify.com/artist/2pF2CPS9lzI3U0ABZk6ZBy) | [Pele Pele](https://open.spotify.com/album/0spgH5Pa0eR3hBH9zotjek) | 2:27 | 2022-07-22 |  |
 | [Pepetua](https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3) | [Nedy Music](https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD) | [Pepetua](https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i) | 2:49 | 2022-03-10 | 2022-09-30 |
 | [Pomp Pomp](https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi) | [Sani Boy](https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Pomp Pomp](https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM) | 3:06 | 2022-02-10 | 2022-11-11 |
+| [Puuh](https://open.spotify.com/track/4qMofi2HvTzvLEQ6EqywPP) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Puuh](https://open.spotify.com/album/6Y1kRLTcchAfHbb1XYgNWt) | 3:56 | 2022-12-16 |  |
 | [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 | 2022-04-14 | 2022-10-14 |
 | [Sasambu](https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Sasambu](https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz) | 2:37 | 2022-03-03 | 2022-05-06 |
 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 | 2022-02-10 | 2022-11-18 |
@@ -167,7 +169,7 @@
 | [Tamu](https://open.spotify.com/track/1RQIkjqlcOedo5V3XuVz4p) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Phina](https://open.spotify.com/artist/0P8iG03KHWTtOIcGUtBZGx) | [Tamu](https://open.spotify.com/album/2ECJ66uDhZZ1N7PFPMjblN) | 2:47 | 2022-07-21 |  |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2021-10-14 | 2022-09-02 |
 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 | 2021-12-06 | 2022-05-13 |
-| [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-14 |  |
+| [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-14 | 2022-12-17 |
 | [Teacher](https://open.spotify.com/track/56taTMDQvkZmt3veeCnedl) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Teacher](https://open.spotify.com/album/0JVHEH1hP4q68xZ6x6k6Mr) | 3:11 | 2021-09-02 | 2022-07-09 |
 | [Teamo](https://open.spotify.com/track/50aiDeiNgmX83tafAS7sPt) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Vanny Boy](https://open.spotify.com/album/3fhna2FmjpHFePlDXn6voT) | 4:24 | 2022-01-06 | 2022-11-13 |
 | [Teamo](https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Flowers](https://open.spotify.com/album/5jaJcKXR7oFsaA4gNYFmwN) | 4:26 | 2022-01-06 | 2022-07-29 |

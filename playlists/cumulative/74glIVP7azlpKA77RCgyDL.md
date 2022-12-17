@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Jesus Piece
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Narrow Head
 
-287 songs - 18 hr 22 min - not published yet
+293 songs - 18 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [fourthh.love](https://open.spotify.com/track/069TWN782MDQjfc4k3JdgF) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [fourthh.love](https://open.spotify.com/album/5Rc9t2bIIWY7XfQczIhlAd) | 3:42 | 2022-08-12 |  |
 | [From Hollow Words](https://open.spotify.com/track/7c5aXn4zw0wKzBGEmuoOiP) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd) | [From Hollow Words](https://open.spotify.com/album/2cIshtTABV96F8tpWTTCOD) | 3:54 | 2022-10-07 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 |  |
+| [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-16 |  |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-03 |  |
 | [Glorious Devastation](https://open.spotify.com/track/5wUe3PMvFts4OLglUTRq6B) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Glorious Devastation](https://open.spotify.com/album/74gmjJ9wVTo2mzSERuGNrM) | 2:43 | 2022-10-14 |  |
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 |  |
@@ -138,6 +139,7 @@
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 |  |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 |  |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 |  |
+| [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 |  |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 |  |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 |  |
 | [Killing Floor](https://open.spotify.com/track/0fX96Ub0Y3u8ThVVF5Ot8J) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Killing Floor](https://open.spotify.com/album/6xj91HWUFxs1KHlNtFBapJ) | 2:53 | 2022-11-18 |  |
@@ -258,6 +260,7 @@
 | [The Primal Wave](https://open.spotify.com/track/30PCjpjQ4zYluCYzsaw6Aw) | [I AM](https://open.spotify.com/artist/7dQNPdkq99QGiUIMmRjqur) | [Eternal Steel](https://open.spotify.com/album/4iIywr04MB9RN9bbRhtRpd) | 3:16 | 2022-09-09 |  |
 | [The Razor's Apple](https://open.spotify.com/track/6skD0fAOAk5zswKCiSevHz) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [The Razor's Apple](https://open.spotify.com/album/7vBzf3GC0LJ9FiGDDKqwlr) | 3:11 | 2022-10-21 |  |
 | [The Requiem](https://open.spotify.com/track/6hfkFSmTZktAqOoPV1Jqlf) | [Deadbody](https://open.spotify.com/artist/1wGgCyV0NZ50dH1aEoKjma) | [The Requiem](https://open.spotify.com/album/3d7HL1BTrcrfkjvOrAQQMf) | 1:43 | 2022-10-21 |  |
+| [The Serpent and the Rainbow](https://open.spotify.com/track/2CkpD7gqMXrrpTCJ9TZ0bw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:57 | 2022-12-16 |  |
 | [The Vigour of Evil](https://open.spotify.com/track/4cY10FaoZgYU5LkmgSYsqh) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [The Vigour of Evil](https://open.spotify.com/album/36XknJHEttZcRf0Q7812zX) | 4:29 | 2022-04-01 |  |
 | [Thermal Runaway](https://open.spotify.com/track/4CBDr82fX76y2sflS6Mb7d) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk), [Cara Drolshagen](https://open.spotify.com/artist/0ZaE2bBAU8bnB8tIN4bZkB) | [Thermal Runaway](https://open.spotify.com/album/2MzUgcAHyVNt30g63NweXV) | 4:01 | 2022-02-04 |  |
 | [They Fear Us](https://open.spotify.com/track/4AoCVndz22Nf7nCag0pvSO) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3Jv1c7grobLidRkAE8PRA0) | 4:10 | 2022-02-04 |  |
@@ -266,6 +269,8 @@
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 |  |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 |  |
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-04 |  |
+| [Under the Weight of a Billion Souls](https://open.spotify.com/track/1ZwssJSK0DVLZ2vrHbrvlC) | [Chrome Waves](https://open.spotify.com/artist/2R5Sry7fmvqc3QnoV2myJ4) | [Under the Weight of a Billion Souls](https://open.spotify.com/album/0L2edepdKR9dK85X70lIz1) | 8:27 | 2022-12-16 |  |
+| [UNTENDED GRAVES](https://open.spotify.com/track/4t9E4wj0PHqNozXXIboLYM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [UNTENDED GRAVES](https://open.spotify.com/album/1hsYH0Y9c8o3siY9FQy1Wm) | 2:17 | 2022-12-16 |  |
 | [Unwavering Vow](https://open.spotify.com/track/6GGl1K5qvkGHOVrh4pe4TW) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Unwavering Vow](https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ) | 3:07 | 2022-06-03 |  |
 | [Valley of Disease](https://open.spotify.com/track/6ikLavFLZeKyA31uxx3nHn) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Valley of Disease](https://open.spotify.com/album/24sVSx3ya9USRw9tsxau3o) | 4:08 | 2022-09-23 |  |
 | [Victoria](https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Victoria](https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI) | 3:58 | 2022-09-09 |  |
@@ -290,6 +295,7 @@
 | [Words Fail](https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Words Fail](https://open.spotify.com/album/5vKiKQXUrAudV0tY61l8G7) | 1:36 | 2022-08-26 |  |
 | [Wrath](https://open.spotify.com/track/088lNGrrwYCmZ3Y21RZfNl) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 4:57 | 2022-10-14 |  |
 | [Wrath/Plague](https://open.spotify.com/track/7maoibDcbc8aUeXDConVG1) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Wrath/Plague](https://open.spotify.com/album/4rXaL0ilCRsrIov08lAcCX) | 2:36 | 2022-11-11 |  |
+| [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/track/4S8RzeHLdmpFc8ohVomQFd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/album/1NIc3seb1B4KXDZRh3NRRx) | 4:33 | 2022-12-16 |  |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-05 |  |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 |  |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 |  |

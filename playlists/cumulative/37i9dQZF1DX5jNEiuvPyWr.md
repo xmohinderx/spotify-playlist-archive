@@ -4,13 +4,14 @@
 
 > Le meilleur du rap français version cloud\. Photo : Werenoi
 
-122 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+123 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.BOURBIER.](https://open.spotify.com/track/3D9nVQV2jg6hkXqCzVgtWT) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.BOURBIER.](https://open.spotify.com/album/1nOcwKfTHvZ3rbj3MsjHpr) | 2:38 | 2022-12-15 |  |
 | [.QUI.TU.VEUX.](https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.QUI.TU.VEUX.](https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF) | 3:32 | 2022-10-27 | 2022-12-09 |
 | [0 Lucidité](https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [0 Lucidité](https://open.spotify.com/album/60IIkHsD79aILJ4pnkOO25) | 3:29 | 2022-07-28 | 2022-08-26 |
+| [100 ans](https://open.spotify.com/track/2guJAJFWNnaujR0iVYM1pB) | [Diddi Trix](https://open.spotify.com/artist/52h6A1y99QgoEf5FzKEHs1) | [100 ans](https://open.spotify.com/album/55IJ9CgUSLuU72XAs7N0al) | 2:01 | 2022-12-15 |  |
 | [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 | 2022-12-09 |
 | [A toute vitesse](https://open.spotify.com/track/4phmBSG3bn6OC5Cs6QunPl) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [A toute vitesse](https://open.spotify.com/album/1tFG0ErIbNpLaT9OeufOI4) | 2:52 | 2022-12-01 |  |
 | [A7](https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM) | [La formule](https://open.spotify.com/artist/5YGnhKKWnnlfVGHzwO9Vly), [BlackTria](https://open.spotify.com/artist/56GVzeiYe2ZH3iiNMkmbQs) | [46.96.](https://open.spotify.com/album/7IxL0jXySiOuAfl95Zy0uz) | 2:41 | 2022-09-29 | 2022-10-28 |

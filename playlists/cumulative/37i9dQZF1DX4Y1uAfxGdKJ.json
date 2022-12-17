@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "full throttle",
+        "url": "https://open.spotify.com/album/4I5SkvhNL9K4jXHDq2Ml9J"
+      },
+      "artists": [
+        {
+          "name": "R Y K",
+          "url": "https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "full throttle",
+      "url": "https://open.spotify.com/track/2IBYFJJgdQvE83nt5q3Mds"
+    },
+    {
+      "album": {
         "name": "Galaxies",
         "url": "https://open.spotify.com/album/3bSYn35WoiHldPymVmaU4d"
       },

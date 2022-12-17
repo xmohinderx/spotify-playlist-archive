@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-656 songs - 1 day 12 hr 10 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+657 songs - 1 day 12 hr 13 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Be My Lover](https://open.spotify.com/track/7eTJ6c57T5iwwveTuz8ds8) | [Gavin Leatherwood](https://open.spotify.com/artist/3qyVQdobesI4y3OgRQCdwO) | [Be My Lover](https://open.spotify.com/album/6YpZ2pfrfQbcsBb5Hin1Sj) | 3:31 | 2022-04-13 | 2022-05-19 |
 | [Bed Head](https://open.spotify.com/track/5dNxaT34wYwGWv7eqGviBm) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Bed Head](https://open.spotify.com/album/59URAiEtM041RlY61UImaJ) | 2:43 | 2022-03-09 | 2022-06-30 |
 | [Bed Head](https://open.spotify.com/track/6pOHOK15OONuPO0LYEXDAL) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [TV Boyfriends](https://open.spotify.com/album/1ReyIXP1ge46Vo1t5NFv9p) | 2:43 | 2022-11-30 |  |
-| [Behind The Black Door](https://open.spotify.com/track/5Frhfvb1IsADUdBl5KUeiK) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Behind The Black Door](https://open.spotify.com/album/63z5fTQbDY9VjotK8FRPBH) | 3:14 | 2022-02-02 |  |
+| [Behind The Black Door](https://open.spotify.com/track/4U3LUpc0XYEQKSmaARZwzX) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Behind The Black Door](https://open.spotify.com/album/3yjIpDvaSjj2RmhoQmwHEU) | 3:14 | 2022-11-30 |  |
+| [Behind The Black Door](https://open.spotify.com/track/5Frhfvb1IsADUdBl5KUeiK) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Behind The Black Door](https://open.spotify.com/album/63z5fTQbDY9VjotK8FRPBH) | 3:14 | 2022-02-02 | 2022-12-17 |
 | [Being Alone](https://open.spotify.com/track/5BS9buGfakKrYO1YcClFHZ) | [Wiri Donna](https://open.spotify.com/artist/5KRlUqqqEnoRLlzmuF9I4L) | [Being Alone](https://open.spotify.com/album/1hNeywMB1R3pT2uNW6EV5O) | 4:18 | 2022-06-08 | 2022-08-25 |
 | [Benchwarmer](https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Benchwarmer](https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV) | 3:09 | 2022-07-20 | 2022-09-22 |
 | [Best For You](https://open.spotify.com/track/7DWk8yVfwZetAApCtixKLE) | [Girl K](https://open.spotify.com/artist/7odMt42e1fpa3jLMXgS5mm) | [Girl K Is For The People](https://open.spotify.com/album/1wbza9Okvci2sRHHBaV1rV) | 2:46 | 2021-12-01 | 2022-01-13 |

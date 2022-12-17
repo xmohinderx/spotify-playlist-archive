@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: charlieonnafriday",
-  "num_followers": 177899,
+  "num_followers": 177983,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDljZTE0YjI5ZjVkYjBlYzY4YWU2ZjQxN2UzMmQ4NzJj",
+  "snapshot_id": "MTY3MTIwNTE0MywwMDAwMDAwMDI4ZGVjMjJmMjYzYzVhN2RlY2Y1ZDAxYjkxMDI2OThj",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
     },
     {
+      "added_at": "2022-12-16 06:02:00",
+      "album": {
+        "name": "A Gift And A Curse",
+        "url": "https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        }
+      ],
+      "duration_ms": 129444,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "TV",
@@ -57,40 +89,36 @@
       "url": "https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-12-16 15:39:03",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+        "name": "AdaLINE",
+        "url": "https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1"
       },
       "artists": [
         {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+      "duration_ms": 165791,
+      "name": "AdaLINE",
+      "url": "https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-12-16 06:02:00",
       "album": {
-        "name": "I Love Life, Thank You",
-        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
+        "name": "rich girl",
+        "url": "https://open.spotify.com/album/1d4VOdTAsMhHCFvkqe57GL"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Astrus*",
+          "url": "https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR"
         }
       ],
-      "duration_ms": 162875,
-      "name": "Love Lost",
-      "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
+      "duration_ms": 104209,
+      "name": "rich girl",
+      "url": "https://open.spotify.com/track/7JErBib1eG7L7dJR1Llj2k"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -107,6 +135,22 @@
       "duration_ms": 177230,
       "name": "mr. sunshine",
       "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
+    },
+    {
+      "added_at": "2022-10-11 14:20:44",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3"
     },
     {
       "added_at": "2022-11-21 16:13:55",
@@ -139,6 +183,22 @@
       "duration_ms": 150706,
       "name": "I Need That",
       "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
+    },
+    {
+      "added_at": "2022-12-16 06:02:00",
+      "album": {
+        "name": "It Could Be Me",
+        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 127458,
+      "name": "It Could Be Me",
+      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -189,20 +249,20 @@
       "url": "https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8"
     },
     {
-      "added_at": "2022-10-11 14:20:44",
+      "added_at": "2022-12-16 06:02:00",
       "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg"
+        "name": "BACK HOME",
+        "url": "https://open.spotify.com/album/2BcFPLYFI5vRGWDhjyKRGC"
       },
       "artists": [
         {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+          "name": "KYDRA",
+          "url": "https://open.spotify.com/artist/0oAdWtdDFpCh67Jh0YAxCc"
         }
       ],
-      "duration_ms": 150005,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3"
+      "duration_ms": 127953,
+      "name": "TARGET",
+      "url": "https://open.spotify.com/track/6nr0nVNA2sxEyteGiMKAv6"
     },
     {
       "added_at": "2022-11-25 06:40:00",
@@ -251,6 +311,26 @@
       "duration_ms": 139315,
       "name": "No Longer Lovers",
       "url": "https://open.spotify.com/track/6DykI3K2Ib9BC1E9JgaSoE"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 162875,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
     },
     {
       "added_at": "2022-12-02 17:00:00",

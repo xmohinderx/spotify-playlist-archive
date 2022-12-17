@@ -2,9 +2,9 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Aleman y Nicki Nicole en portada.
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. McKlopedia en portada.
 
-136 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+137 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 | 2022-09-09 |  |
 | [Bitman Shiet](https://open.spotify.com/track/3A1rpugzLtrJ93vpXRyy7Y) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Bitman Shiet](https://open.spotify.com/album/3qP2HaThCH1EhcTZaab9eE) | 3:17 | 2021-12-30 | 2022-10-29 |
 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-04-18 |  |
+| [Caliente](https://open.spotify.com/track/7JDIPgGybOZ8gPS81i0Ho6) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Caliente](https://open.spotify.com/album/0x2AgjiW79US1Z9GnT6RqS) | 3:01 | 2022-12-16 |  |
 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 | 2022-09-09 |  |
 | [Chambean](https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Chambean](https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3) | 3:12 | 2022-01-28 |  |
 | [CLASE G](https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [CashMoneyAp](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri) | [CLASE G](https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ) | 2:07 | 2021-12-30 | 2022-10-07 |
@@ -39,7 +40,7 @@
 | [Cómo Diamante](https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 3:27 | 2022-07-29 |  |
 | [DA KNOWLEDGE](https://open.spotify.com/track/63AIqDwBLmJyiVnxMfqCCa) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv) | [DA KNOWLEDGE](https://open.spotify.com/album/6YkpmJ3cNCP6F3BwPO7sZ1) | 2:48 | 2021-12-30 | 2022-08-25 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-30 |  |
-| [Dangerous](https://open.spotify.com/track/5lXgD4rhegsXgu1e0B3z3l) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Dangerous](https://open.spotify.com/album/57kemSNzw4eIfcB4Txky8L) | 3:10 | 2022-11-07 |  |
+| [Dangerous](https://open.spotify.com/track/5lXgD4rhegsXgu1e0B3z3l) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Dangerous](https://open.spotify.com/album/57kemSNzw4eIfcB4Txky8L) | 3:10 | 2022-11-07 | 2022-12-17 |
 | [DHARMA](https://open.spotify.com/track/1UAQ5fMPGXDzVZO9jojOUV) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [DHARMA](https://open.spotify.com/album/2XbXnRwQEPXLSusESfJl2J) | 4:31 | 2021-12-30 | 2022-01-14 |
 | [DIOS Y LA MUERTE](https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [DIOS Y LA MUERTE](https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe) | 2:52 | 2022-03-25 |  |
 | [DISCIPLINA](https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [DISCIPLINA](https://open.spotify.com/album/1PecmtWamLOvWahwn4aFbX) | 3:40 | 2021-12-30 |  |

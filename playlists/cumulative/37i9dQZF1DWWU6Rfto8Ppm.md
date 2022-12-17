@@ -2,9 +2,9 @@
 
 ### [Reggaetón Viejito](https://open.spotify.com/playlist/37i9dQZF1DWWU6Rfto8Ppm)
 
-> Acuérdate de estos clásicos\. Foto: Daddy Yankee.
+> Acuérdate de estos clásicos\. Foto: Don Omar.
 
-367 songs - 22 hr 9 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+368 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Dale Don Dale](https://open.spotify.com/track/7zK02QSoQlMO0RAVqN0CI7) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Obsesión Latina](https://open.spotify.com/album/1qAvdZ9qvDBNEwzAJkZ68V) | 3:34 | 2021-12-17 | 2022-03-16 |
 | [Dembow](https://open.spotify.com/track/1JV7GONwi6qMLb9J7kcSTV) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mi Vida…My Life](https://open.spotify.com/album/0y7oxuXXNYU62jnrvutSSm) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Descara](https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 4:48 | 2021-12-17 |  |
-| [Dile](https://open.spotify.com/track/1ji6mY9Gv7dO48rohMIr6p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Reggaeton Hitmakers Tropical Blend](https://open.spotify.com/album/6CqWsUd484u7T1xQzQGBYy) | 3:26 | 2021-12-17 |  |
+| [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-12-17 |  |
+| [Dile](https://open.spotify.com/track/1ji6mY9Gv7dO48rohMIr6p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Reggaeton Hitmakers Tropical Blend](https://open.spotify.com/album/6CqWsUd484u7T1xQzQGBYy) | 3:26 | 2021-12-17 | 2022-12-17 |
 | [Dile a Ella](https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7) | [Magnate](https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Exitos](https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3) | 4:36 | 2021-12-17 |  |
 | [Dile a Tu Amiga](https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S) | [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Dile a Tu Amiga](https://open.spotify.com/album/6q8dHB9YC18YbIqU2Q0j7X) | 3:34 | 2022-07-27 |  |
 | [Dile A Tu Amiga](https://open.spotify.com/track/5I0u5YHYvA6fQZstVCFwqC) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Ñejo & Dalmata \(Special Edition\)](https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo) | 3:34 | 2021-12-17 | 2022-07-29 |

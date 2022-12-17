@@ -1793,7 +1793,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 225882,
       "name": "Felina",
       "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
@@ -2015,7 +2015,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 147088,
       "name": "Fuma\u00e7a no Studio",
       "url": "https://open.spotify.com/track/4Yimh4Ut4dskqAJtuuTu0l"
@@ -2239,6 +2239,40 @@
       "duration_ms": 300506,
       "name": "INVEJOSO",
       "url": "https://open.spotify.com/track/1yecpnQJ3PL2BtOt8Eon6O"
+    },
+    {
+      "album": {
+        "name": "Invenc\u00edvel",
+        "url": "https://open.spotify.com/album/3OyWndHk674qqcC2kSD6ms"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212459,
+      "name": "Invenc\u00edvel",
+      "url": "https://open.spotify.com/track/6MFN6SOlKjYelQBTGHrbQ0"
     },
     {
       "album": {
@@ -5013,6 +5047,32 @@
       "duration_ms": 141557,
       "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
+    },
+    {
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/0cvbu8Y9cgDtAwSHvMUtHA"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181641,
+      "name": "Vis\u00e3o do Morro",
+      "url": "https://open.spotify.com/track/0WIvVill7Gql99kJ8C4JmW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Mecánico
 
-295 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+297 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Acorde Digital](https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Acorde Digital](https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO) | 2:48 | 2022-10-07 |  |
 | [Actitud](https://open.spotify.com/track/11JRqjddI6Znfd0YIeEgF1) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [Actitud](https://open.spotify.com/album/2wkGD4lTmhxNp2hm5yQZzV) | 2:25 | 2022-04-15 | 2022-07-29 |
 | [Adolescencia](https://open.spotify.com/track/7lRwxlvyAkYFgXFiDgcLMZ) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Mar Adentro](https://open.spotify.com/album/2BzXETPGRSHbyV5m1dfpgF) | 3:16 | 2022-04-15 | 2022-07-28 |
-| [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 |  |
+| [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 | 2022-12-17 |
 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 | 2022-04-15 | 2022-12-10 |
 | [Al Borde del Abismo](https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo) | [Al Borde del Abismo](https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten) | 3:09 | 2022-04-15 |  |
 | [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 |  |
@@ -73,6 +73,7 @@
 | [Devorarte](https://open.spotify.com/track/66JRlkCDrKxJo25iBqO2Co) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Vida Mía ♡](https://open.spotify.com/album/0lodGLPms9cyzlTtnuuHno) | 3:45 | 2022-04-15 | 2022-12-10 |
 | [diamantes \(lorelei remix\)](https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN), [Lorelei](https://open.spotify.com/artist/3whh4zpCGGs2fAhqeJ18qI) | [arde lento \(remixes\)](https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8) | 6:31 | 2022-04-15 |  |
 | [diamantes ✧✧](https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8) | 3:39 | 2022-04-15 | 2022-12-10 |
+| [Donde Mueren Todos](https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Donde Mueren Todos](https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM) | 3:09 | 2022-12-16 |  |
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-04-15 | 2022-12-10 |
 | [Días Que No Lloro](https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Días Que No Lloro](https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14) | 2:41 | 2022-04-15 |  |
 | [Ea Dem \(Demo 2009\)](https://open.spotify.com/track/24l4gnnZhsfEDQsKntUFQX) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Ea Dem \(Demo 2009\)](https://open.spotify.com/album/0wCC8j4kfKZwrDR4OeHcns) | 3:05 | 2022-04-15 | 2022-12-13 |
@@ -108,7 +109,7 @@
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 |  |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
-| [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 |  |
+| [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2022-12-17 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
 | [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 |  |
 | [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 |  |
@@ -144,6 +145,7 @@
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2022-09-02 |  |
 | [la paz](https://open.spotify.com/track/1ZJm8ES9wMWmb64oyZMHb5) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX) | [¿nos veremos en diciembre?](https://open.spotify.com/album/0Za4wmkIP6VFTlE92ikh1F) | 3:12 | 2022-04-15 | 2022-10-15 |
 | [La Pócima](https://open.spotify.com/track/3478RKENZliWK21KgkqCxs) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [La Pócima](https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq) | 2:59 | 2022-10-14 |  |
+| [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 |  |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 |  |
 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 | 2022-11-11 |  |
 | [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 |  |

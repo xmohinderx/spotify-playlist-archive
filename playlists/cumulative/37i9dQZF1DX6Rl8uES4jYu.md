@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-334 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+335 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-01-21 | 2022-10-13 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 | 2022-01-21 |  |
 | [Citrus](https://open.spotify.com/track/1q6vmLQcqhMfvzWmQYxl1K) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Citrus](https://open.spotify.com/album/04GX57XcprIl7mxLyoLXDm) | 3:38 | 2021-04-30 | 2022-05-23 |
-| [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 |  |
+| [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2022-12-17 |
 | [Coffee](https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Coffee](https://open.spotify.com/album/3lwy2PkY9ySC5xj0teYHiH) | 2:56 | 2021-09-21 | 2022-07-21 |
 | [Coffee Bean](https://open.spotify.com/track/5vELlkkfUGP2OJ32wqrMKa) | [Zaniah](https://open.spotify.com/artist/20ffkBo6mbfR82Lvt6HjvH) | [Coffee Bean](https://open.spotify.com/album/74rQ5m43jTqx4GTbQkjiMd) | 2:39 | 2020-11-13 | 2022-03-23 |
 | [Company](https://open.spotify.com/track/3SlKn22we9mXaoRY6t78i6) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Company](https://open.spotify.com/album/07yfD6iFop3fOAH5zV5mje) | 2:45 | 2021-04-30 | 2022-05-19 |
@@ -192,6 +192,7 @@
 | [Motion \(with Yot Club\)](https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Motion \(with Yot Club\)](https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR) | 2:59 | 2022-11-04 |  |
 | [Move Along](https://open.spotify.com/track/7ePI88B6EPUq9IpCn76LYT) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Move Along](https://open.spotify.com/album/3Ufb6V4uYXB6HG7wmIVSMT) | 3:59 | 2020-11-13 | 2022-03-26 |
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2022-07-29 |
+| [Musta Been a Ghost](https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [Kind Reminder](https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc) | 3:40 | 2022-12-17 |  |
 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 | 2021-02-05 | 2022-10-01 |
 | [MY BEST!](https://open.spotify.com/track/7LTAVYf8CmgGqaI1ynOSbg) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [MY BEST!](https://open.spotify.com/album/1bhFAysJcmTSSTItooIW0M) | 3:19 | 2022-08-08 | 2022-08-13 |
 | [My Shade My Color](https://open.spotify.com/track/5IGzKMRnUUWAaxP0GxHLVW) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [My Shade My Color](https://open.spotify.com/album/705VoW6yvKnTtuAcpVDxqB) | 3:20 | 2021-09-21 | 2022-05-25 |

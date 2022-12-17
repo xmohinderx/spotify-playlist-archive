@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 35298,
+  "num_followers": 35353,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDc0NDhkZDdiZTIzOTY5NzY5YTgzMWEwYjc4ZWE0Yzdk",
+  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDI0ZGM0ODQyZmMzZGM5ODBjMTE5YjEyYTY4NTU3YmE0",
   "tracks": [
     {
       "added_at": "2022-12-16 00:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-12-16 00:00:00",
       "album": {
+        "name": "Mi\u00fada",
+        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
+      },
+      "artists": [
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        }
+      ],
+      "duration_ms": 168133,
+      "name": "Mi\u00fada",
+      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
+    },
+    {
+      "added_at": "2022-12-16 00:00:00",
+      "album": {
         "name": "Vivi Good",
         "url": "https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 214872,
       "name": "Vivi Good",
       "url": "https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP"
-    },
-    {
-      "added_at": "2022-12-16 00:00:00",
-      "album": {
-        "name": "Mi\u00fada",
-        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
-      },
-      "artists": [
-        {
-          "name": "Holly Hood",
-          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "Mi\u00fada",
-      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
     },
     {
       "added_at": "2022-12-16 00:00:00",

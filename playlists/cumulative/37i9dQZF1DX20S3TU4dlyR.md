@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-202 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/5wJsWdiqLgGKoWe7fmymn2)
+203 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/5wJsWdiqLgGKoWe7fmymn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 | 2022-05-06 |  |
 | [Nena](https://open.spotify.com/track/5NSEK3BVC2yhk7M4TsXNgw) | [Seraqueda!](https://open.spotify.com/artist/1BIsnjnNAlNgB8geDbo6He) | [Nena](https://open.spotify.com/album/4pXGaS8iHjleykeUIbbkgy) | 2:57 | 2022-07-01 | 2022-07-06 |
 | [No al Remate de Ceramica Neuquen](https://open.spotify.com/track/6lkf0F3opf4dYQx1Czxaka) | [Sinsemina](https://open.spotify.com/artist/2YM0PO35h2YylHTLFGwBj0), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [No al Remate de Ceramica Neuquen](https://open.spotify.com/album/2kZYuhKSB61cMUwW6tpbRQ) | 3:31 | 2022-05-06 | 2022-06-29 |
+| [No Insistas](https://open.spotify.com/track/4PvvhS8ntwMJEzXMlzGqcA) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [No Insistas](https://open.spotify.com/album/5QElG8KePpyHtSvjzo2hpq) | 3:26 | 2022-12-16 |  |
 | [No Insistas](https://open.spotify.com/track/4SdoaFB9giKlapsCBwja6c) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [No Insistas](https://open.spotify.com/album/6cStDaBPLOF6xgcGemDM7E) | 3:26 | 2022-05-06 | 2022-07-29 |
 | [No Mires Atras](https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 4:20 | 2022-05-06 |  |
 | [No veo nada](https://open.spotify.com/track/1oAZmndoZfcGuVPS1TpoRC) | [Razteria](https://open.spotify.com/artist/3CK8YD6mYiZujhznS6b3G0) | [No veo nada](https://open.spotify.com/album/3lnpz4x9K3ITmXFQWkpLGy) | 4:37 | 2022-05-06 | 2022-07-19 |
@@ -175,7 +176,7 @@
 | [Su Galán](https://open.spotify.com/track/0ZVUDB9PwvaeZLQbBc7bz2) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93), [Fabio Zambrana](https://open.spotify.com/artist/1oE7Qu3oJjxsCMKGauY7rp) | [Su Galán](https://open.spotify.com/album/5o2w80GzEIwynrfs0VxFTX) | 3:30 | 2022-05-06 | 2022-06-01 |
 | [Take Me to the Stars](https://open.spotify.com/track/0L9YyBg37GmbajbyEs7YZU) | [Tempranos](https://open.spotify.com/artist/492Ggq79DwN14yeaPKnUhW) | [Tempranos](https://open.spotify.com/album/4eVtVdKSJHWlLZqt2qosWp) | 2:27 | 2022-05-06 | 2022-06-20 |
 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 | 2022-05-06 |  |
-| [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 | 2022-05-06 |  |
+| [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 | 2022-05-06 | 2022-12-17 |
 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 | 2022-05-06 |  |
 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 | 2022-05-06 |  |
 | [Todo Es Así](https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU) | [Todo Es Así](https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K) | 3:50 | 2022-05-06 | 2022-07-29 |

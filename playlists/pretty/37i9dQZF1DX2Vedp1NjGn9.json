@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 67483,
+  "num_followers": 67622,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGNmYTM3MTYxZDc3YjBhYjJiYWZhOTU4NWRiMDlkZWY0",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGI1N2NkY2E4NmZhNjZkNzg3NjE2MmVjOTMxNDg5MDY1",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "Colour Of The Trap",
+        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
         }
       ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
+      "duration_ms": 179240,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Colour Of The Trap",
-        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9"
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 333466,
-      "name": "What The Water Gave Me",
-      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 265866,
       "name": "Amor Fati",
       "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 333466,
+      "name": "What The Water Gave Me",
+      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
     },
     {
       "added_at": "2021-09-02 08:15:11",

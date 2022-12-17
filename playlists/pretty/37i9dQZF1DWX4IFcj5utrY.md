@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3?si=4H\_KfjZOSBuAL\_qQ9EsQoA">Goodluck</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,051 likes - 55 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,105 likes - 55 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

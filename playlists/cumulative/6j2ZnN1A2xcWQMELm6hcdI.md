@@ -4,7 +4,7 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Latto
 
-170 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
+171 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [80/20](https://open.spotify.com/track/3UGjJ29o2HC4Sb06DXjkFQ) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour \(Chrome Edition\)](https://open.spotify.com/album/6hMkD2lSkRG7ZJZ3iGpQyz) | 2:48 | 2022-06-03 | 2022-11-12 |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-17 |  |
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 |  |
+| [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2022-12-16 |  |
 | [ASK ABOUT ME](https://open.spotify.com/track/7JKIdU78mVa2FIh13FDdRA) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [STUNNA THIS STUNNA THAT](https://open.spotify.com/album/6tAS0lVufnFfzdBfXyGHvN) | 2:28 | 2022-06-03 | 2022-11-05 |
 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 | 2022-06-03 |  |
 | [Back to My Ex](https://open.spotify.com/track/0j5Y4oYuV6lsdHuXCqIeh4) | [Aligned](https://open.spotify.com/artist/73C2bnFcb506kbjBF2OHws), [Magna](https://open.spotify.com/artist/1pOWb7iXvk6ICKXwG7KL7P) | [Back to My Ex](https://open.spotify.com/album/4B3wpUb244VozgEv2k3ooj) | 2:25 | 2022-11-04 |  |

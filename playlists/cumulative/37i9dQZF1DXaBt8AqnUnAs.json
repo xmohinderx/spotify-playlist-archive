@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "A Gente Brisa",
+        "url": "https://open.spotify.com/album/69ijO5mr84PxDxlH9H6E4D"
+      },
+      "artists": [
+        {
+          "name": "Lab Legado",
+          "url": "https://open.spotify.com/artist/67gaNnayiWz4DzF4izQj1i"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215936,
+      "name": "A Gente Brisa",
+      "url": "https://open.spotify.com/track/1UmCtXyI4xCsTiyuZ92SgM"
+    },
+    {
+      "album": {
         "name": "SOCORRO (Deluxe)",
         "url": "https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22"
       },
@@ -325,6 +347,28 @@
       "duration_ms": 143076,
       "name": "Avisa Quando Chegar",
       "url": "https://open.spotify.com/track/6ecOPJYN05Ws5djQwsPu4z"
+    },
+    {
+      "album": {
+        "name": "Babe",
+        "url": "https://open.spotify.com/album/6dPEtY6LwZVgv81ibwXBRr"
+      },
+      "artists": [
+        {
+          "name": "Lili AM",
+          "url": "https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw"
+        },
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/6kwxjtKTRxI4wC6aCRtKdc"
     },
     {
       "album": {
@@ -735,7 +779,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 151361,
       "name": "Cartas de Amor",
       "url": "https://open.spotify.com/track/0aZb9eB8KXi7q2vMi88eZU"
@@ -1405,7 +1449,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 145956,
       "name": "Eu T\u00f4 Voando",
       "url": "https://open.spotify.com/track/5wcaTad9QMmXQPdyC0vMUJ"

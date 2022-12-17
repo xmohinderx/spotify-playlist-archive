@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-74 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+75 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Close Friend](https://open.spotify.com/track/6e9OGvs2eyNWlJWoGBpabH) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 1:51 | 2022-11-08 |  |
 | [A King's Sadness](https://open.spotify.com/track/35kpiigbRx8E3LL1ayRpnC) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [The Tale Of Despereaux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VthH60GXdvR7Y6FtkCiDb) | 2:00 | 2022-11-08 |  |
 | [A New Home](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 | 2022-08-05 |  |
-| [A Once Great City](https://open.spotify.com/track/7cFWmwzHLPgg5XM1wzF9io) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [His Dark Materials Series 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/6z2ojH722cYDVIlGf8xkf6) | 2:15 | 2022-08-05 |  |
+| [A Once Great City](https://open.spotify.com/track/6l1Mtb8co9A64rXbmzHIMj) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [His Dark Materials Series 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5OH3JEmM5qbQGCe3WvSn62) | 2:15 | 2022-11-11 |  |
+| [A Once Great City](https://open.spotify.com/track/7cFWmwzHLPgg5XM1wzF9io) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [His Dark Materials Series 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/6z2ojH722cYDVIlGf8xkf6) | 2:15 | 2022-08-05 | 2022-12-17 |
 | [A Princess Without A Voice](https://open.spotify.com/track/49QdvSsXLaZU2hzF0hc7Wq) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Shape Of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/058fiqH1NYYmur8cicws4l) | 1:50 | 2022-08-05 |  |
 | [A Rose in Spanish Harlem \(Bonus Track\)](https://open.spotify.com/track/3jbDmjnUYXoEbuwHEnt12O) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:56 | 2022-08-05 |  |
 | [A Shine Upon Inkwater Marsh](https://open.spotify.com/track/6yvy7IGCod8A2aeyKvMysF) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Will of the Wisps \(Original Soundtrack Recording\)](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) | 3:06 | 2022-08-05 |  |

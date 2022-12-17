@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-246 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/2kZ1zZmes8GAXikynt0gqK)
+247 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/2kZ1zZmes8GAXikynt0gqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [DISCOTHEQUE](https://open.spotify.com/track/13cBduKLG8MagInFwkjmen) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Trickster](https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq) | 3:57 | 2022-10-12 |  |
 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 | 2022-08-30 |  |
 | [Dokidokitokidokitokimekiss?](https://open.spotify.com/track/1umqkFzdRAqcE2W1x7QSv6) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Toyful Basket](https://open.spotify.com/album/3sPrKf36F1RZtrOzL2OtQC) | 4:38 | 2022-08-16 |  |
-| [Dream Shift](https://open.spotify.com/track/7MoVUDJz3fMsBl6abERGL1) | [SILK](https://open.spotify.com/artist/7aBLRszK8Sn0oRvzRd452L) | [Matchless Raijin\-Oh Original Motion Picture Soundtrack 1](https://open.spotify.com/album/6rog2spF1W7ayO2PVCyRMd) | 4:08 | 2022-12-07 |  |
+| [Dream Shift](https://open.spotify.com/track/7MoVUDJz3fMsBl6abERGL1) | [SILK](https://open.spotify.com/artist/7aBLRszK8Sn0oRvzRd452L) | [Matchless Raijin\-Oh Original Motion Picture Soundtrack 1](https://open.spotify.com/album/6rog2spF1W7ayO2PVCyRMd) | 4:08 | 2022-12-07 | 2022-12-17 |
 | [DuDi DuWa \* lalala](https://open.spotify.com/track/2kQA3NvTdYakZDF0Ev2UIN) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [覚えてていいよ/DuDi DuWa\*lalala](https://open.spotify.com/album/0rvvFZpsVFQls7ydPZyN9C) | 5:17 | 2022-06-22 |  |
 | [ENISHI](https://open.spotify.com/track/4I3ovCt7gPjndiqi652tCY) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [TVアニメ「幻想三國誌 天元霊心記」オープニング・テーマ「ENISHI」](https://open.spotify.com/album/75h1b4oejd4wZHPSwu2XdX) | 4:15 | 2022-06-07 | 2022-06-23 |
 | [ETERNAL BLAZE](https://open.spotify.com/track/4xWpriGI2MYpeMXfPkTkxr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ETERNAL BLAZE](https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV) | 5:08 | 2022-10-12 |  |
@@ -162,6 +162,7 @@
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-06-22 |  |
 | [チューリングラブ](https://open.spotify.com/track/2wJQeK1ioxlgF82oAzzPNB) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [チューリングラブ / ピヨ](https://open.spotify.com/album/2uEMUunji8kPD2QHiWWfaj) | 3:40 | 2022-06-07 | 2022-06-23 |
 | [ドラえもん音頭](https://open.spotify.com/track/2aPQabTyAkXawhIdjbSVSu) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:45 | 2022-08-16 |  |
+| [ドリーム・シフト](https://open.spotify.com/track/7bTwUygo2Fl1GwPidJXxo0) | [SILK](https://open.spotify.com/artist/7aBLRszK8Sn0oRvzRd452L) | [Voice](https://open.spotify.com/album/0i0vSM82WIa3rNGLoHB6lt) | 4:05 | 2022-12-07 |  |
 | [ハッピークレセント](https://open.spotify.com/track/0Psjuelr8tvRtmR8F5l0UA) | [中川かのん starring 東山奈央](https://open.spotify.com/artist/0ZdW8nxNZorYWXEtJ8K5Fd) | [Birth](https://open.spotify.com/album/73YLneRRR9Fs10qGcPFj8q) | 3:40 | 2022-11-22 |  |
 | [ハニージェットコースター](https://open.spotify.com/track/5SucxRQYFHqB2YEPKN35iw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [ハニージェットコースター](https://open.spotify.com/album/6PRPWkHY4EfDWMt5mK0jut) | 3:35 | 2022-06-22 |  |
 | [ハピネス](https://open.spotify.com/track/14GrpPBazpGF5Y8Wfurv1U) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ハピネス](https://open.spotify.com/album/5Bfc1BsJvJdMubPx0NZUfx) | 3:12 | 2022-06-07 | 2022-06-23 |

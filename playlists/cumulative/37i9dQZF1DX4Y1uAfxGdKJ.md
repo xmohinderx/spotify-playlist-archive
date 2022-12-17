@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-106 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
+107 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Fourth Great Year](https://open.spotify.com/track/4Dc8vlnTDInfrPrHgBC4HS) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Fourth Great Year](https://open.spotify.com/album/5G8WnxsQ0KdNPKl9PArltd) | 2:25 | 2022-10-28 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-09-23 |  |
 | [From Here To Eternity](https://open.spotify.com/track/0CVApUBXDYlSnqFtAl7E1S) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [From Here To Eternity](https://open.spotify.com/album/5yvourEPzugOQ0Z4RkrFf7) | 4:41 | 2022-09-23 |  |
+| [full throttle](https://open.spotify.com/track/2IBYFJJgdQvE83nt5q3Mds) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [full throttle](https://open.spotify.com/album/4I5SkvhNL9K4jXHDq2Ml9J) | 2:51 | 2022-12-16 |  |
 | [Galaxies](https://open.spotify.com/track/0HvT91CmD0AyTLPHzlABrn) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Galaxies](https://open.spotify.com/album/3bSYn35WoiHldPymVmaU4d) | 2:44 | 2022-10-07 |  |
 | [Glaskupad \- Axel E Remix \(Radio Edit\)](https://open.spotify.com/track/3fUtw6vacMxmpRHay1VztG) | [LEHNBERG](https://open.spotify.com/artist/7BRf7UkrsYXvgABbadmh3L), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Axel E](https://open.spotify.com/artist/1GHddwV8QFsOhnDlLlYANI) | [Glaskupad \(Axel E Remix\)](https://open.spotify.com/album/2kcieKSF7jELFFBZ7UOVIP) | 3:51 | 2022-09-23 |  |
 | [Half\-Light](https://open.spotify.com/track/3VGEC6MUbZTRjg93etNpw8) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Half\-Light](https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2) | 2:47 | 2022-09-23 |  |

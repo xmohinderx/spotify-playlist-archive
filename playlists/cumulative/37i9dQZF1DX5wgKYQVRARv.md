@@ -2,9 +2,9 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
+> Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-579 songs - 2 day 2 hr 18 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+581 songs - 2 day 2 hr 23 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Final Tale](https://open.spotify.com/track/4MWWBvlwxNE6mZ58u3hScY) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka) | [Final Tale](https://open.spotify.com/album/674JZuzPnJtJ7JjN04GZEo) | 3:46 | 2022-07-13 | 2022-07-23 |
 | [Finding the Paragon](https://open.spotify.com/track/4ODvTpn9Dddu8rZyHD7WX8) | [Paralydium](https://open.spotify.com/artist/65X6T9OJ2gXGpkc1DgrYgR) | [Finding the Paragon](https://open.spotify.com/album/45iBbad8sSZoHwgXz2EWqc) | 5:38 | 2021-12-17 | 2022-07-24 |
 | [Flooded Ruins](https://open.spotify.com/track/1YBJlczQBTidHtijtqppv1) | [BillyTheBard11th](https://open.spotify.com/artist/1NWS9zltQ2PT5YXsAbQVLE) | [Towards The Sun](https://open.spotify.com/album/2ZNCXlSWQMQOGVeiybemmX) | 3:02 | 2022-07-13 | 2022-07-28 |
+| [Flow](https://open.spotify.com/track/0FB5RGj1qwh4x8grFbiYDn) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj), [Syncatto](https://open.spotify.com/artist/3CJshVeVyOmL8H1RlcXiIX) | [Flow](https://open.spotify.com/album/0tJxWTiYYvX7drrvzc2l5G) | 3:05 | 2022-12-16 |  |
 | [Foothold](https://open.spotify.com/track/0b8W7J6p0X3wYCuqbkjnh8) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Foothold](https://open.spotify.com/album/1tZrhuRFGYuIbwHf7iXRTL) | 7:19 | 2021-12-17 | 2022-07-29 |
 | [Foothold](https://open.spotify.com/track/5hCep3iIvDnEGNu8FFlmxb) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Coherence](https://open.spotify.com/album/0BH4HBaIx4uUsVQ1wId0Ix) | 7:19 | 2022-07-08 |  |
 | [Forever Outsider](https://open.spotify.com/track/4KlTRjEcQvESo8jVVc7cLv) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Forever Outsider](https://open.spotify.com/album/5ueD5cxSXc04cLtz4YXaiP) | 4:09 | 2021-12-17 | 2022-07-29 |
@@ -223,7 +224,7 @@
 | [Heartstrings](https://open.spotify.com/track/6ryxUe5HxnzSFoXM5T1KFl) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Heartstrings](https://open.spotify.com/album/5djqsU8yb4Xy9JV365WZkF) | 6:20 | 2021-12-17 | 2022-01-29 |
 | [Heirloom](https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om) | [A Sense of Purpose](https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM) | [Heirloom](https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1) | 4:22 | 2022-07-13 |  |
 | [Hello Death](https://open.spotify.com/track/2LEXNkVRuDfroBJRQ1zitM) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Hello Death](https://open.spotify.com/album/6MFXRy30nk6khmwq6GWuHq) | 4:54 | 2022-04-08 |  |
-| [Hero](https://open.spotify.com/track/4gWQgoWxCPeuR1GcUuqNYK) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Paragon](https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT) | 4:42 | 2022-07-13 |  |
+| [Hero](https://open.spotify.com/track/4gWQgoWxCPeuR1GcUuqNYK) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Paragon](https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT) | 4:42 | 2022-07-13 | 2022-12-17 |
 | [Hidden Window](https://open.spotify.com/track/0WOGPQwYgOl3wtdzCSJ5Xl) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Coherence](https://open.spotify.com/album/0BH4HBaIx4uUsVQ1wId0Ix) | 8:24 | 2022-07-08 |  |
 | [Hidden Window](https://open.spotify.com/track/4RPDDNZ5fk0RgeppdEYwTR) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Hidden Window](https://open.spotify.com/album/5SxMs83K4lloEcYeAUTThH) | 8:24 | 2021-12-17 | 2022-07-29 |
 | [Hideous](https://open.spotify.com/track/5tqhz6V5vVrEitYkTGqAGa) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Hideous](https://open.spotify.com/album/4qftklc0DH2DWxanvoXSNG) | 4:14 | 2021-12-17 | 2022-07-29 |
@@ -520,7 +521,7 @@
 | [Three Bridges](https://open.spotify.com/track/7IwuxtmnfC5rjxmk49it95) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Three Bridges](https://open.spotify.com/album/3vb21L1QoverZCitHOoOhq) | 8:45 | 2021-12-17 | 2022-07-29 |
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 |  |
-| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 |  |
+| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 | 2022-12-17 |
 | [Total](https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo) | 4:24 | 2022-03-25 |  |
 | [Transcend](https://open.spotify.com/track/0BPlqGBFXNrgO7H3H4SB6T) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss), [Vitaly Machunsky](https://open.spotify.com/artist/4mXWfRVvpyFuXhPeUcGKXK) | [Transcend](https://open.spotify.com/album/0sqwBRnSwTe1zoO2dYnhxC) | 5:25 | 2022-01-07 | 2022-07-26 |
 | [Tsitsushka](https://open.spotify.com/track/50oIQfiIQbNnDyhkI0S3sB) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Tsitsushka](https://open.spotify.com/album/313qBhwyl3mlW91CCBIKf2) | 5:38 | 2021-12-17 | 2022-07-29 |
@@ -587,5 +588,6 @@
 | [Yonder](https://open.spotify.com/track/6ORWPNIEmo78ohwOZbsOtP) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Yonder](https://open.spotify.com/album/7nTaFlHdv9U3K9970yDTs4) | 7:32 | 2021-12-17 | 2022-07-29 |
 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 | 2021-12-17 |  |
 | [Young Bloods](https://open.spotify.com/track/0t38MySDtnGG5hh47p8WiA) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Young Bloods](https://open.spotify.com/album/1R2Bl5GtUt6KadrCI3B70u) | 3:42 | 2021-12-17 | 2022-07-01 |
+| [Zoro Kokonotsu No Yaiba \- From "One Piece"](https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Zoro Kokonotsu No Yaiba \(From "One Piece"\)](https://open.spotify.com/album/7IYQjOr9PKX8axdmoJgwc8) | 1:59 | 2022-12-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

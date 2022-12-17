@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > Lo\-Fi, Beats, for Study and Focus..\. but around the Holidays.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,863 likes - 30 songs - 1 hr 17 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,866 likes - 40 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,15 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 | 28 | [O Holy Night \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/4zxfVkTZGVB9suzU26sPvB) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Christmas In Lofi](https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ) | 1:27 |
 | 29 | [The Little Drummer Boy \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/6sufXyokCJgkXKeySyfolN) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Christmas In Lofi](https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ) | 1:43 |
 | 30 | [White Christmas \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/4XYKwuLc6ycLXdVXuZCd7c) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Christmas In Lofi](https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ) | 1:57 |
+| 31 | [O Christmas Trēē](https://open.spotify.com/track/7BQu5Zz9lrB191ZMvl0Fq3) | [KOFĒSHOP](https://open.spotify.com/artist/5c4d9QG7fbjcTj24vaUBZ5) | [Lo\-Ho\-Ho\-Fi](https://open.spotify.com/album/5AHQTYvPX19HDZNJUm7AmX) | 2:57 |
+| 32 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
+| 33 | [A Lofi Christmas](https://open.spotify.com/track/12ajoxiqK9Pip1lI6Ewrye) | [Nydia](https://open.spotify.com/artist/4OFZyUhVwfmPVGd6Bw0N6q) | [Two Turtle Doves](https://open.spotify.com/album/7lGovFUngwaXIVhcN7wlQb) | 2:48 |
+| 34 | [night bells](https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [night bells](https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI) | 1:58 |
+| 35 | [Winter Magic](https://open.spotify.com/track/0cGzwpykgJQig8zN8SyWPv) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Chilling with Santa](https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl) | 2:42 |
+| 36 | [Cozy Christmas](https://open.spotify.com/track/4wqYyc6Jjv0zuUgV9CdCFy) | [Haru Pandi](https://open.spotify.com/artist/58qAcScNzgiOslgGsv9In9) | [Chilling with Santa](https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl) | 2:09 |
+| 37 | [Snow Cake](https://open.spotify.com/track/4O5GCSIkMB5LklWaOUf2VZ) | [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr), [Greenfinch](https://open.spotify.com/artist/7bjnkMztY48CVSiBUaZOCN) | [Chilling with Santa](https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl) | 1:45 |
+| 38 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
+| 39 | [Santa's a Bit Drunk](https://open.spotify.com/track/4BH5EayAmND7PHgSAWp1gz) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [Chilling with Santa](https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl) | 2:25 |
+| 40 | [Night Owl](https://open.spotify.com/track/3t9EVEYrWEo9jnYzuK5ZGI) | [Nephele](https://open.spotify.com/artist/3LT1YUHdetgIEclHsGn4Hs) | [Cosmic Tea](https://open.spotify.com/album/6JepTumzo8hBBQIP33Blnf) | 2:01 |
 
-Snapshot ID: `MTA5NyxkZGU5NDg4ZTU4YTMwZjBkZjFkNWE3MTMzMzQ3OGMzNjFlYmQ4Y2M3`
+Snapshot ID: `MTExMSw0ZWNjYWM2MTAyNDE4Yjc5ZmJmMzNhOTFmZDMxZWQ2YjY4Nzg3MjVl`

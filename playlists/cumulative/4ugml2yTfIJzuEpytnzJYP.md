@@ -4,7 +4,7 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-187 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+188 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Kindness Mistaken For Weakness](https://open.spotify.com/track/5de6yMWZWQo6jk3G1ZvsYv) | [Ape Suit](https://open.spotify.com/artist/6kiXpyEqFD9Ozhq0zRihH9) | [Maybe This is It](https://open.spotify.com/album/6pWW9h61nbbreHBnKv5aWs) | 3:48 | 2021-09-17 | 2022-02-28 |
 | [Kindred Spirits](https://open.spotify.com/track/4eZhS8oWElqOcF9acq3iJG) | [LitaLotus](https://open.spotify.com/artist/096jdva2vCbGgulvRdQrA8), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Essence](https://open.spotify.com/album/6uyvvUKCvBz2KFaKPGaebK) | 4:06 | 2022-10-14 |  |
 | [Lessons](https://open.spotify.com/track/1hrKjYBJDWZw4xWLIOPIT3) | [Vyhara](https://open.spotify.com/artist/0uxBvW7LTgKjr721ks2a6O) | [Lessons](https://open.spotify.com/album/16QDJ6WVKUnUIedEyVQdEy) | 2:32 | 2022-01-17 | 2022-02-18 |
+| [Lightwerker](https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag) | [Light Language](https://open.spotify.com/artist/2qkiYF4wgiIsQ4kF63YsmU) | [Lightwerker](https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo) | 3:25 | 2022-12-16 |  |
 | [Lost Souls \- ATYYA Remix](https://open.spotify.com/track/60KhEnHybUOC0a0ziqR9Yb) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Lost Souls \(ATYYA Remix\)](https://open.spotify.com/album/09yEzA91373rOjUnxYzrIk) | 4:03 | 2022-09-17 | 2022-10-17 |
 | [Lotus Flower \(Special Edition\)](https://open.spotify.com/track/4KtJs4bQl9Sq5ZiOEBD7Ro) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Lotus Flower / with Dimond Saints](https://open.spotify.com/album/2ZMc6j04fiWOKP2Vkm43DI) | 3:32 | 2022-01-07 | 2022-08-23 |
 | [Love Conspiration](https://open.spotify.com/track/2ztafS9ba55k5K2pZFYiuQ) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Love Conspiration](https://open.spotify.com/album/2QVnzc77wuvWcq5Cwraenp) | 4:51 | 2022-10-14 |  |

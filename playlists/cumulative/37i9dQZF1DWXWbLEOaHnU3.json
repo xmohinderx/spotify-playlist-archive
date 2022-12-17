@@ -1070,6 +1070,36 @@
     },
     {
       "album": {
+        "name": "Dance Lullaby",
+        "url": "https://open.spotify.com/album/4t8nlmINrKisC35vyIMm6X"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        },
+        {
+          "name": "Luca Noise",
+          "url": "https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA"
+        },
+        {
+          "name": "GIGI DAG",
+          "url": "https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0"
+        },
+        {
+          "name": "LUC ON",
+          "url": "https://open.spotify.com/artist/3cqBxpIKwsKRTitMMl1Td8"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Dance Lullaby (Radio Night MIX)",
+      "url": "https://open.spotify.com/track/0KRBzhDVHk6ueeINrLushR"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/3HLysNwDBKFdCJBlLXAsbv"
       },
@@ -1377,7 +1407,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 155217,
       "name": "Esta Si",
       "url": "https://open.spotify.com/track/3reyHrjQqNBv35CBKKfX2s"

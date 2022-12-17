@@ -953,6 +953,24 @@
     {
       "album": {
         "name": "Behind The Black Door",
+        "url": "https://open.spotify.com/album/3yjIpDvaSjj2RmhoQmwHEU"
+      },
+      "artists": [
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194706,
+      "name": "Behind The Black Door",
+      "url": "https://open.spotify.com/track/4U3LUpc0XYEQKSmaARZwzX"
+    },
+    {
+      "album": {
+        "name": "Behind The Black Door",
         "url": "https://open.spotify.com/album/63z5fTQbDY9VjotK8FRPBH"
       },
       "artists": [
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 194706,
       "name": "Behind The Black Door",
       "url": "https://open.spotify.com/track/5Frhfvb1IsADUdBl5KUeiK"

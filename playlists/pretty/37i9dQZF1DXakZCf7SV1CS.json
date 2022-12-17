@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 21630,
+  "num_followers": 21783,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc0MTE1MCwwMDAwMDAwMDlmZmJiMTRhYjlkMjNjOGZiYTE1YTE3OWJkZTVjNjI0",
+  "snapshot_id": "MTY2OTc0MTE1MCwwMDAwMDAwMDM2OTFjZmRhOGZlOGExYmQyNjBmYjVkODJmNjExMjY4",
   "tracks": [
     {
       "added_at": "2022-11-10 20:03:46",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "IRIS",
-        "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
-      },
-      "artists": [
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 102362,
-      "name": "IRIS",
-      "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "think abt it",
         "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 144332,
       "name": "think abt it",
       "url": "https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "IRIS",
+        "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 102362,
+      "name": "IRIS",
+      "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "Peace & Love",
-        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Of Course I Still Love You",
-      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "Good Luck (Deluxe)",
         "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 120754,
       "name": "Drama",
       "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "Peace & Love",
+        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
     },
     {
       "added_at": "2022-11-10 20:03:46",

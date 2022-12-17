@@ -1,13 +1,113 @@
 {
-  "description": "New music breaking waves.  Cover: Jay Glavany ",
-  "num_followers": 20907,
+  "description": "New music breaking waves. ",
+  "num_followers": 20925,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAxODc1OSwwMDAwMDAwMDc0ODY5MTg4ZjQyZTg4MzY5N2FmMmI0OWQ4OGY0Mjgw",
+  "snapshot_id": "MTY3MTE2ODkzMywwMDAwMDAwMGQyOGFmNDk0ZjViMzY1Y2JmNjIyM2VhZTcyNWQ3Mjg2",
   "tracks": [
+    {
+      "added_at": "2022-12-16 05:35:33",
+      "album": {
+        "name": "wish that i could (Memphis LK Remix)",
+        "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/1P5YwT9JBMmRTrwTtUCIpk"
+        }
+      ],
+      "duration_ms": 181330,
+      "name": "wish that i could - Memphis LK Remix",
+      "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
+    },
+    {
+      "added_at": "2022-12-16 05:35:33",
+      "album": {
+        "name": "Shut The Door",
+        "url": "https://open.spotify.com/album/47zFR7hPucglskk6vWsCkh"
+      },
+      "artists": [
+        {
+          "name": "SIV",
+          "url": "https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Shut The Door",
+      "url": "https://open.spotify.com/track/4r6eiYt8C6HmBh584gNKRW"
+    },
+    {
+      "added_at": "2022-12-16 05:35:33",
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 208618,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu"
+    },
+    {
+      "added_at": "2022-12-16 05:35:33",
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/2Pw6yUJVTGSqYiDHriSGX2"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 104700,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/0eQjeOTNSzUudwy7dyTExY"
+    },
+    {
+      "added_at": "2022-12-16 05:35:33",
+      "album": {
+        "name": "Get The Gat",
+        "url": "https://open.spotify.com/album/48THGiijGql0YItnekn1C8"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "duration_ms": 132017,
+      "name": "Get The Gat",
+      "url": "https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn"
+    },
+    {
+      "added_at": "2022-12-16 05:35:33",
+      "album": {
+        "name": "Imaginary Friend",
+        "url": "https://open.spotify.com/album/3bSVNfpgs4OasLqpvgJoeE"
+      },
+      "artists": [
+        {
+          "name": "Tae Dawg",
+          "url": "https://open.spotify.com/artist/5HxD1kjjKZ0K0adufI1JXN"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Imaginary Friend",
+      "url": "https://open.spotify.com/track/6L2QU0UQqEBxbOiaKUJmiE"
+    },
     {
       "added_at": "2022-12-02 22:05:59",
       "album": {

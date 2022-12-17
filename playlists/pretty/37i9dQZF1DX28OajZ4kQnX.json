@@ -1,12 +1,12 @@
 {
   "description": "Kick it with some of the hottest bars from Uganda +256",
-  "num_followers": 582,
+  "num_followers": 589,
   "original_name": "256 Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzU0MywwMDAwMDAwMDVmN2I2NDQzNjY1ZjQ0MDIwNWM2YTU5NjI4MTA1Y2U3",
+  "snapshot_id": "MTY3MTE4OTg5NiwwMDAwMDAwMGMzNzYyMDEyOTM0MWVlZjVjZjdlNjY5M2M5ZjVkNGY1",
   "tracks": [
     {
       "added_at": "2022-12-02 05:05:43",
@@ -31,6 +31,30 @@
       "duration_ms": 195181,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/6ycW5J1uecd4kiVDy0RUvc"
+    },
+    {
+      "added_at": "2022-12-16 11:24:56",
+      "album": {
+        "name": "HARD GUY",
+        "url": "https://open.spotify.com/album/3o4ph9M09W1bW766vd3akX"
+      },
+      "artists": [
+        {
+          "name": "GEOXwill",
+          "url": "https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX"
+        },
+        {
+          "name": "Lamech Berry",
+          "url": "https://open.spotify.com/artist/1Vz5PJozFRzOFzPGjJm5jk"
+        },
+        {
+          "name": "GEOX the Producer",
+          "url": "https://open.spotify.com/artist/2EbpyBhiZwwbUERx4EjXFP"
+        }
+      ],
+      "duration_ms": 202187,
+      "name": "HARD GUY",
+      "url": "https://open.spotify.com/track/2CPRMzFiUTyDakOcR1aalx"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -69,6 +93,22 @@
       "url": "https://open.spotify.com/track/5bnX5oi9viuOLqaehmyhYt"
     },
     {
+      "added_at": "2022-10-14 11:06:38",
+      "album": {
+        "name": "Street",
+        "url": "https://open.spotify.com/album/6vNNGsH4eBjFjsO4JEsc6H"
+      },
+      "artists": [
+        {
+          "name": "Prince Ghetto",
+          "url": "https://open.spotify.com/artist/4eMzMqx857Dz0v0UUktdKN"
+        }
+      ],
+      "duration_ms": 223111,
+      "name": "Street",
+      "url": "https://open.spotify.com/track/1Whqh8FYChDUfc0WWdtzwt"
+    },
+    {
       "added_at": "2022-09-08 10:44:20",
       "album": {
         "name": "Welcome to Ug (Poa Remix)",
@@ -101,22 +141,6 @@
       "url": "https://open.spotify.com/track/3VLLom5tY6D7vTMmJQz4oN"
     },
     {
-      "added_at": "2022-10-14 11:06:38",
-      "album": {
-        "name": "Street",
-        "url": "https://open.spotify.com/album/6vNNGsH4eBjFjsO4JEsc6H"
-      },
-      "artists": [
-        {
-          "name": "Prince Ghetto",
-          "url": "https://open.spotify.com/artist/4eMzMqx857Dz0v0UUktdKN"
-        }
-      ],
-      "duration_ms": 223111,
-      "name": "Street",
-      "url": "https://open.spotify.com/track/1Whqh8FYChDUfc0WWdtzwt"
-    },
-    {
       "added_at": "2022-09-08 10:44:20",
       "album": {
         "name": "Make Dat Money",
@@ -137,54 +161,6 @@
       "url": "https://open.spotify.com/track/2FjGWI79TdNs9rJjfBsIWP"
     },
     {
-      "added_at": "2022-10-14 11:06:38",
-      "album": {
-        "name": "Let it Slide",
-        "url": "https://open.spotify.com/album/6MNXQqzROLdIy9mb1gwgA6"
-      },
-      "artists": [
-        {
-          "name": "GEOXwill",
-          "url": "https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX"
-        }
-      ],
-      "duration_ms": 269897,
-      "name": "Let it Slide",
-      "url": "https://open.spotify.com/track/1aTklUbZo5dCBpXBk4oBa2"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
-        "name": "Just Left Rubaga",
-        "url": "https://open.spotify.com/album/5WxzIlz1Su1ru4LGe6ynfQ"
-      },
-      "artists": [
-        {
-          "name": "Tucker HD",
-          "url": "https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp"
-        }
-      ],
-      "duration_ms": 122526,
-      "name": "Just Left Rubaga",
-      "url": "https://open.spotify.com/track/0dLjBERZzgPpnx4KjRLmrp"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Pound or Shilling (PoS)",
-        "url": "https://open.spotify.com/album/3RVR6krSIK3yv2Sx45U8Rd"
-      },
-      "artists": [
-        {
-          "name": "MooTowNoh",
-          "url": "https://open.spotify.com/artist/2Gh5PAnWSuY0vpn7UNcBU2"
-        }
-      ],
-      "duration_ms": 194377,
-      "name": "Pound or Shilling (PoS)",
-      "url": "https://open.spotify.com/track/3WYgiM9KmW90ZasO3Zj2z3"
-    },
-    {
       "added_at": "2022-09-08 10:44:20",
       "album": {
         "name": "RZR",
@@ -199,22 +175,6 @@
       "duration_ms": 106750,
       "name": "4",
       "url": "https://open.spotify.com/track/6mIVsZSRdArkSIyRBZsckR"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
-        "name": "StepBack",
-        "url": "https://open.spotify.com/album/3Tlz9vfEbltuYfNzHqctDX"
-      },
-      "artists": [
-        {
-          "name": "Ynxg_Brian",
-          "url": "https://open.spotify.com/artist/7gb2liYztEueG9OqFjGxdV"
-        }
-      ],
-      "duration_ms": 128242,
-      "name": "StepBack",
-      "url": "https://open.spotify.com/track/4kBWaLZse3pejcPzEr89kH"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -233,6 +193,38 @@
       "url": "https://open.spotify.com/track/1fsXR9y56hVIl5pfjB3fm2"
     },
     {
+      "added_at": "2022-10-14 11:06:38",
+      "album": {
+        "name": "Let it Slide",
+        "url": "https://open.spotify.com/album/6MNXQqzROLdIy9mb1gwgA6"
+      },
+      "artists": [
+        {
+          "name": "GEOXwill",
+          "url": "https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX"
+        }
+      ],
+      "duration_ms": 269897,
+      "name": "Let it Slide",
+      "url": "https://open.spotify.com/track/1aTklUbZo5dCBpXBk4oBa2"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
+        "name": "StepBack",
+        "url": "https://open.spotify.com/album/3Tlz9vfEbltuYfNzHqctDX"
+      },
+      "artists": [
+        {
+          "name": "Ynxg_Brian",
+          "url": "https://open.spotify.com/artist/7gb2liYztEueG9OqFjGxdV"
+        }
+      ],
+      "duration_ms": 128242,
+      "name": "StepBack",
+      "url": "https://open.spotify.com/track/4kBWaLZse3pejcPzEr89kH"
+    },
+    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Plaine Residence",
@@ -247,6 +239,30 @@
       "duration_ms": 190249,
       "name": "Plaine Residence",
       "url": "https://open.spotify.com/track/22ku0T0CRQNhv6MyPPRjYd"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Vibes Out The East",
+        "url": "https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz"
+      },
+      "artists": [
+        {
+          "name": "Navio",
+          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
+        },
+        {
+          "name": "Stogie T",
+          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
+        },
+        {
+          "name": "Ben Pol",
+          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "Extra Mile",
+      "url": "https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq"
     },
     {
       "added_at": "2022-09-08 10:44:20",
@@ -303,6 +319,54 @@
     {
       "added_at": "2022-09-08 10:44:20",
       "album": {
+        "name": "Just Left Rubaga",
+        "url": "https://open.spotify.com/album/5WxzIlz1Su1ru4LGe6ynfQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker HD",
+          "url": "https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp"
+        }
+      ],
+      "duration_ms": 122526,
+      "name": "Just Left Rubaga",
+      "url": "https://open.spotify.com/track/0dLjBERZzgPpnx4KjRLmrp"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6jOaaBvrDq3OKVRkVujc9E"
+      },
+      "artists": [
+        {
+          "name": "The Abstract Kid",
+          "url": "https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW"
+        }
+      ],
+      "duration_ms": 148721,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7dPEajZhYQWXSivOPXbJwV"
+    },
+    {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Pound or Shilling (PoS)",
+        "url": "https://open.spotify.com/album/3RVR6krSIK3yv2Sx45U8Rd"
+      },
+      "artists": [
+        {
+          "name": "MooTowNoh",
+          "url": "https://open.spotify.com/artist/2Gh5PAnWSuY0vpn7UNcBU2"
+        }
+      ],
+      "duration_ms": 194377,
+      "name": "Pound or Shilling (PoS)",
+      "url": "https://open.spotify.com/track/3WYgiM9KmW90ZasO3Zj2z3"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
         "name": "Sensible Rebel",
         "url": "https://open.spotify.com/album/1nmdOZzdcFJLHnBwLX7Y8p"
       },
@@ -345,30 +409,6 @@
       "url": "https://open.spotify.com/track/6pA2AGT6p7kniOdoZYZGJs"
     },
     {
-      "added_at": "2022-09-22 20:59:00",
-      "album": {
-        "name": "Vibes Out The East",
-        "url": "https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz"
-      },
-      "artists": [
-        {
-          "name": "Navio",
-          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
-        },
-        {
-          "name": "Stogie T",
-          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
-        },
-        {
-          "name": "Ben Pol",
-          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "Extra Mile",
-      "url": "https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq"
-    },
-    {
       "added_at": "2022-09-08 10:44:20",
       "album": {
         "name": "Dotted Lines & Commas",
@@ -389,24 +429,52 @@
       "url": "https://open.spotify.com/track/0hw8BvO4OQ2f6GaF7NQI7p"
     },
     {
-      "added_at": "2022-10-14 11:06:38",
+      "added_at": "2022-09-08 10:44:20",
       "album": {
-        "name": "Independent",
-        "url": "https://open.spotify.com/album/59gYjH3D1JdjTvoQdcIat5"
+        "name": "Zinge",
+        "url": "https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo"
       },
       "artists": [
         {
-          "name": "GEOXwill",
-          "url": "https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX"
+          "name": "Play01",
+          "url": "https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG"
         },
         {
-          "name": "Ogezi",
-          "url": "https://open.spotify.com/artist/64qdnBh641xfeuHEevY9l2"
+          "name": "Adrenalyn Muzik",
+          "url": "https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo"
         }
       ],
-      "duration_ms": 231131,
-      "name": "Independent",
-      "url": "https://open.spotify.com/track/424DjMFtS0JGIVM8aBFntp"
+      "duration_ms": 205000,
+      "name": "Zinge",
+      "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
+        "name": "Mwana Weika on the Track, Yo! (MWOTTY)",
+        "url": "https://open.spotify.com/album/3JzYMICgm13vm77SPGTKzt"
+      },
+      "artists": [
+        {
+          "name": "Wake",
+          "url": "https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn"
+        },
+        {
+          "name": "Flex D'paper",
+          "url": "https://open.spotify.com/artist/1dKjmFQXS1G1Z1D64tN8ek"
+        },
+        {
+          "name": "Mal-X",
+          "url": "https://open.spotify.com/artist/57nDy9lY3LLm1FKSsyIFUx"
+        },
+        {
+          "name": "Tucker HD",
+          "url": "https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp"
+        }
+      ],
+      "duration_ms": 237168,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/7Cex0YgjvbShlR9GE9o89W"
     },
     {
       "added_at": "2022-09-08 10:44:20",
@@ -455,42 +523,6 @@
     {
       "added_at": "2022-09-08 10:44:20",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ"
-      },
-      "artists": [
-        {
-          "name": "ml godi",
-          "url": "https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg"
-        }
-      ],
-      "duration_ms": 158981,
-      "name": "Naomi birthday song",
-      "url": "https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
-        "name": "Zinge",
-        "url": "https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo"
-      },
-      "artists": [
-        {
-          "name": "Play01",
-          "url": "https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG"
-        },
-        {
-          "name": "Adrenalyn Muzik",
-          "url": "https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Zinge",
-      "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
         "name": "The Ugandan",
         "url": "https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8"
       },
@@ -509,32 +541,40 @@
       "url": "https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c"
     },
     {
-      "added_at": "2022-09-08 10:44:20",
+      "added_at": "2022-10-14 11:06:38",
       "album": {
-        "name": "Mwana Weika on the Track, Yo! (MWOTTY)",
-        "url": "https://open.spotify.com/album/3JzYMICgm13vm77SPGTKzt"
+        "name": "Independent",
+        "url": "https://open.spotify.com/album/59gYjH3D1JdjTvoQdcIat5"
       },
       "artists": [
         {
-          "name": "Wake",
-          "url": "https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn"
+          "name": "GEOXwill",
+          "url": "https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX"
         },
         {
-          "name": "Flex D'paper",
-          "url": "https://open.spotify.com/artist/1dKjmFQXS1G1Z1D64tN8ek"
-        },
-        {
-          "name": "Mal-X",
-          "url": "https://open.spotify.com/artist/57nDy9lY3LLm1FKSsyIFUx"
-        },
-        {
-          "name": "Tucker HD",
-          "url": "https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp"
+          "name": "Ogezi",
+          "url": "https://open.spotify.com/artist/64qdnBh641xfeuHEevY9l2"
         }
       ],
-      "duration_ms": 237168,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/7Cex0YgjvbShlR9GE9o89W"
+      "duration_ms": 231131,
+      "name": "Independent",
+      "url": "https://open.spotify.com/track/424DjMFtS0JGIVM8aBFntp"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ"
+      },
+      "artists": [
+        {
+          "name": "ml godi",
+          "url": "https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg"
+        }
+      ],
+      "duration_ms": 158981,
+      "name": "Naomi birthday song",
+      "url": "https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8"
     },
     {
       "added_at": "2022-09-08 10:44:20",
@@ -551,22 +591,6 @@
       "duration_ms": 194250,
       "name": "Skin Care",
       "url": "https://open.spotify.com/track/24ToDCZUSlY2mCHFR5YOVO"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6jOaaBvrDq3OKVRkVujc9E"
-      },
-      "artists": [
-        {
-          "name": "The Abstract Kid",
-          "url": "https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW"
-        }
-      ],
-      "duration_ms": 148721,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7dPEajZhYQWXSivOPXbJwV"
     },
     {
       "added_at": "2022-09-08 10:44:20",
@@ -611,6 +635,70 @@
       "duration_ms": 140513,
       "name": "Trap House",
       "url": "https://open.spotify.com/track/43zm30JtK99xSDIGGnGnXU"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
+        "name": "Can You Imagine",
+        "url": "https://open.spotify.com/album/26ZsfOw4zyS5q3QUh0mZdk"
+      },
+      "artists": [
+        {
+          "name": "Rey Macc",
+          "url": "https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ"
+        },
+        {
+          "name": "J-Wats",
+          "url": "https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv"
+        },
+        {
+          "name": "Isaiah Misanvu",
+          "url": "https://open.spotify.com/artist/5mR64cshBueO6oPDga4cgh"
+        }
+      ],
+      "duration_ms": 197513,
+      "name": "Can You Imagine",
+      "url": "https://open.spotify.com/track/2RFWIe4Kyuydzgo7kBJQ8E"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
+        "name": "NDURA EP",
+        "url": "https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG"
+      },
+      "artists": [
+        {
+          "name": "Byg Ben Sukuya",
+          "url": "https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH"
+        },
+        {
+          "name": "Sharon Sento",
+          "url": "https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy"
+        }
+      ],
+      "duration_ms": 203702,
+      "name": "Ndolelele",
+      "url": "https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9"
+    },
+    {
+      "added_at": "2022-09-08 10:44:20",
+      "album": {
+        "name": "Geezy",
+        "url": "https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd"
+      },
+      "artists": [
+        {
+          "name": "Lyrical G",
+          "url": "https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ"
+        },
+        {
+          "name": "GNL Zamba",
+          "url": "https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "Been Bout My Thang",
+      "url": "https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K"
     },
     {
       "added_at": "2022-09-08 10:44:20",
@@ -803,34 +891,6 @@
     {
       "added_at": "2022-09-08 10:44:20",
       "album": {
-        "name": "Better than you",
-        "url": "https://open.spotify.com/album/1I9N0OFw8OFUpdclB60RkD"
-      },
-      "artists": [
-        {
-          "name": "Nsokwa",
-          "url": "https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz"
-        },
-        {
-          "name": "Rambe",
-          "url": "https://open.spotify.com/artist/3Iiug7IJtwOIdXyIFL1TXJ"
-        },
-        {
-          "name": "Kxngz",
-          "url": "https://open.spotify.com/artist/7Mm93xcywDAJtCm2cHKzPm"
-        },
-        {
-          "name": "Jeatee",
-          "url": "https://open.spotify.com/artist/6U82VZXLy23VS126xtHzFA"
-        }
-      ],
-      "duration_ms": 156629,
-      "name": "Better than you",
-      "url": "https://open.spotify.com/track/6akP9GpmVUmdRa1KZ7FLjz"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
         "name": "Crocs &jersey",
         "url": "https://open.spotify.com/album/21XTnqu53Mkb5xyQ0M2Dal"
       },
@@ -915,70 +975,6 @@
       "duration_ms": 265777,
       "name": "Trophy Season",
       "url": "https://open.spotify.com/track/4OsqHANw0wJI3g6QzESXQQ"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
-        "name": "Can You Imagine",
-        "url": "https://open.spotify.com/album/26ZsfOw4zyS5q3QUh0mZdk"
-      },
-      "artists": [
-        {
-          "name": "Rey Macc",
-          "url": "https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ"
-        },
-        {
-          "name": "J-Wats",
-          "url": "https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv"
-        },
-        {
-          "name": "Isaiah Misanvu",
-          "url": "https://open.spotify.com/artist/5mR64cshBueO6oPDga4cgh"
-        }
-      ],
-      "duration_ms": 197513,
-      "name": "Can You Imagine",
-      "url": "https://open.spotify.com/track/2RFWIe4Kyuydzgo7kBJQ8E"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
-        "name": "NDURA EP",
-        "url": "https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG"
-      },
-      "artists": [
-        {
-          "name": "Byg Ben Sukuya",
-          "url": "https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH"
-        },
-        {
-          "name": "Sharon Sento",
-          "url": "https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy"
-        }
-      ],
-      "duration_ms": 203702,
-      "name": "Ndolelele",
-      "url": "https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9"
-    },
-    {
-      "added_at": "2022-09-08 10:44:20",
-      "album": {
-        "name": "Geezy",
-        "url": "https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd"
-      },
-      "artists": [
-        {
-          "name": "Lyrical G",
-          "url": "https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ"
-        },
-        {
-          "name": "GNL Zamba",
-          "url": "https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "Been Bout My Thang",
-      "url": "https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K"
     },
     {
       "added_at": "2022-09-08 10:44:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 143 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 143 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,9 +115,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 105 | [Lotus Blossom](https://open.spotify.com/track/1n6WfVhvWfj6zhehLJh82q) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Billy and Friends](https://open.spotify.com/album/6KYDeR2jJDrmJW544RXEV2) | 3:06 |
 | 106 | [Total Jazz \(Final Movement Of "Portrait Of Ella Fitzgerald"\)](https://open.spotify.com/track/5wDO63teFXXvFS9IarBkc4) | [Lincoln Center Jazz Orchestra](https://open.spotify.com/artist/57tcqQ5NpKmaGE9zHMTiez), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Portraits By Ellington](https://open.spotify.com/album/0LIkxSapjR9etoqmQ0gLNq) | 7:15 |
 | 107 | [All Roads Lead Back to You](https://open.spotify.com/track/19GEHeehDAz2SVAa53N40O) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT), [Kyle Poole](https://open.spotify.com/artist/5J4qaZ0wUvADmFAR3T4GIE) | [Lovesome Thing](https://open.spotify.com/album/2LwV0Qj6AlGJkEeCGxTh6K) | 4:22 |
-| 108 | [Take It Slow](https://open.spotify.com/track/0H9a4zpizfYCJfSGZF0a0G) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 3: Studio Sessions New York, 1962](https://open.spotify.com/album/2oXIDWgIOizWWqy97bAhl4) | 2:57 |
-| 109 | [Too Late](https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz) | [Black Moonlight Vol\. 5](https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j) | 3:11 |
-| 110 | [Girls](https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:40 |
+| 108 | [Girls](https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:40 |
+| 109 | [Take It Slow](https://open.spotify.com/track/0H9a4zpizfYCJfSGZF0a0G) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 3: Studio Sessions New York, 1962](https://open.spotify.com/album/2oXIDWgIOizWWqy97bAhl4) | 2:57 |
+| 110 | [Too Late](https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz) | [Black Moonlight Vol\. 5](https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j) | 3:11 |
 | 111 | [A Lonely CoEd](https://open.spotify.com/track/05D9j2TH4OAXUkgEJwGBz4) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 3:18 |
 | 112 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 |
 | 113 | [There Was Nobody Looking](https://open.spotify.com/track/0I9tEYd8foW37GdzmIPuvo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 2:57 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 142 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 143 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc4NTI1NDEsMDAwMDAwMDAxZDIzNzVkYzA1NzE4ZDIxZGFhZjA1YWYyMjRjZDM0Yg==`
+Snapshot ID: `Mjc4NTM5ODEsMDAwMDAwMDA2NTAzMjQ5ZTQyNTllNjQ2NTk4MWZhZTc1MmMwZGZhOA==`

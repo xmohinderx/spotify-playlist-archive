@@ -2,7 +2,7 @@
 
 ### [Contemporary Blend](https://open.spotify.com/playlist/37i9dQZF1DWViBxWcYEI1b)
 
-> For those with a taste for both the new and the classic\. Cover: Alexander Stewart
+> For those with a taste for both the new and the classic\. Cover: Michael Bublé
 
 499 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 

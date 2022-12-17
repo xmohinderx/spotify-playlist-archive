@@ -1254,6 +1254,36 @@
     },
     {
       "album": {
+        "name": "Sun Zara (From \"Cirkus\")",
+        "url": "https://open.spotify.com/album/2tMKjBxs2QKAk6woe8MJEn"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215498,
+      "name": "Sun Zara (From \"Cirkus\")",
+      "url": "https://open.spotify.com/track/6lBUJpovAhtc7WqhDNiLtX"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU"
       },

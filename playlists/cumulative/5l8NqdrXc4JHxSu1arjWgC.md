@@ -4,7 +4,7 @@
 
 > 
 
-661 songs - 1 day 20 hr 29 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+662 songs - 1 day 20 hr 35 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [The Man Who Sold The World \- ChangesNowBowie Version](https://open.spotify.com/track/0atAxHERXu5HExZZGKFRfV) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Is It Any Wonder?](https://open.spotify.com/album/137bBAX7QKK24yqSgRNJq0) | 4:01 | 2020-02-18 |  |
 | [The Meeting Place \- Remastered 2001](https://open.spotify.com/track/3lVj1Ybfk9VhK9x9N8F2MM) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:14 | 2019-02-07 |  |
 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 | 2020-07-16 |  |
+| [The Mole From The Ministry \- 2001 Mix](https://open.spotify.com/track/2RHt1SrW1M4yBG3cUBjBz2) | [The Dukes Of Stratosphear](https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo) | [Chips From The Chocolate Fireball](https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7) | 5:58 | 2022-12-16 |  |
 | [The Motel](https://open.spotify.com/track/2KhnA8nG3tGcGhYoN7FKbF) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [1\. Outside \(The Nathan Adler Diaries: A Hyper Cycle\) \[Expanded Edition\]](https://open.spotify.com/album/0pUursvGUAgcDiEqYlnZ0q) | 6:50 | 2020-10-16 |  |
 | [The One I Love \- Remastered 2012](https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:17 | 2019-09-20 |  |
 | [The Pink Phantom \(feat\. Elton John and 6LACK\)](https://open.spotify.com/track/2qNsvDflYHGxWIBDKXyB5g) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Song Machine Episode 7](https://open.spotify.com/album/6Q7UcRmIOmzGpXkMzyWYkN) | 4:13 | 2020-10-01 |  |

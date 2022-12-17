@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 560533,
+  "num_followers": 560966,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDg3YmMxM2Q1MTA1NTUxYzAyZjA1ZWQyYThmOTI2NWFl",
+  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDc0ZDE2YTQ1MjVlYTE1ZmQ4N2VmN2Y0YTRjODllNTQy",
   "tracks": [
     {
       "added_at": "2022-11-21 18:03:24",
@@ -2131,26 +2131,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Suave (Remix)",
-        "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
       },
       "artists": [
         {
-          "name": "Jey Blessing",
-          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Los Fantastikos",
-          "url": "https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Suave - Remix",
-      "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
+      "duration_ms": 198613,
+      "name": "Imaginaste",
+      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
     }
   ],
   "unique_name": "suave",

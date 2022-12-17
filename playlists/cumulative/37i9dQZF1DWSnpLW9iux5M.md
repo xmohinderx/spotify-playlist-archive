@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-117 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/0vVrKPue9z9QkuqZM5OJDu)
+118 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0vVrKPue9z9QkuqZM5OJDu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [O What A Night \(with Vision\)](https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Rejoice](https://open.spotify.com/album/2vENNMJ5dsWEf2bjpcvN97) | 5:40 | 2021-12-24 |  |
 | [O' Holy Night \(feat\. Michelle Williams\)](https://open.spotify.com/track/2WAHk7Lno9MgQk7bUnZu01) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 4:23 | 2021-12-24 | 2022-11-27 |
 | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/track/6xjVbr6rKmM1KIu0lvIDd9) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/album/7b1uYXS3lvyK5mKOnE9hFH) | 2:30 | 2021-12-24 |  |
-| [Oh Come All Ye Faithful](https://open.spotify.com/track/5FMoCyIlPwmEE5mdyBCJBi) | [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:57 | 2021-12-24 |  |
+| [Oh Come All Ye Faithful](https://open.spotify.com/track/5FMoCyIlPwmEE5mdyBCJBi) | [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:57 | 2021-12-24 | 2022-12-17 |
 | [Oh Come Emmanuel](https://open.spotify.com/track/2M4bPMboF6KmA4paixqo0I) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 2:47 | 2021-12-24 |  |
 | [Reason For The Season](https://open.spotify.com/track/7kAiSopIZQPmJIr2uxhlyP) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [This Christmas](https://open.spotify.com/album/2Av22aITO2k7nSWL0QeRvY) | 5:05 | 2021-12-24 |  |
 | [Silent Night](https://open.spotify.com/track/0mGKRZQz3uENGLjEhXbsSr) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Silent Night](https://open.spotify.com/album/5WrSkuYU9dh2AbYMR5thQ0) | 4:22 | 2022-12-10 |  |
@@ -106,6 +106,7 @@
 | [Someday At Christmas](https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [At Christmas](https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt) | 3:20 | 2021-12-24 |  |
 | [Song For The Hopeful \(feat\. Kim Burrell\)](https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:35 | 2021-12-24 |  |
 | [Sweet Little Jesus Boy](https://open.spotify.com/track/7lOXKKbn55lAJuTQIRopL1) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [He Is Christmas](https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR) | 3:26 | 2021-12-24 |  |
+| [Tell God Thank You](https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Tell God Thank You](https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ) | 3:38 | 2022-12-10 |  |
 | [The Christmas Song](https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [R&B Christmas Songs](https://open.spotify.com/album/5ij3UzfTQaLv6etmkHNjaU) | 2:38 | 2021-12-24 |  |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-11-26 |  |
 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 | 2021-12-24 |  |

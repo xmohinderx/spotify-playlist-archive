@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Eric Bibb
 
-169 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+170 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Angels](https://open.spotify.com/track/3aZpkDDCKbu9WqvnyuNGyn) | [Félix Rabin](https://open.spotify.com/artist/0xzQonoJ1bGbnjLLk26Xgu) | [Pogboy](https://open.spotify.com/album/0iqAkwpiPwem6AXPAAvGev) | 3:26 | 2021-02-05 | 2022-03-26 |
 | [Another Life Goes By \- Mississippi Mix](https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Another Life Goes By \(Mississippi Mix\)](https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH) | 3:48 | 2022-10-14 |  |
 | [Bad Habit](https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Bad Habit](https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb) | 2:44 | 2022-04-01 | 2022-06-19 |
+| [Bad to the Bone \- Extended Version](https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU) | 4:17 | 2022-12-16 |  |
 | [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 | 2022-07-15 |  |
 | [Be The Love You Want](https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:16 | 2021-08-30 | 2022-06-19 |
 | [Bees Making Honey](https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bees Making Honey](https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4) | 2:49 | 2022-08-26 |  |

@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 141176,
       "name": "Axioma",
       "url": "https://open.spotify.com/track/5Fuxzf7mYaAGfdXwSh317y"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 211257,
       "name": "Deixa Girar",
       "url": "https://open.spotify.com/track/5vS3poJ0YgEYFJuyXzSSaI"
@@ -2776,6 +2776,28 @@
     },
     {
       "album": {
+        "name": "Mesma Confec\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2Ljbm8oTvrklyWsGRfdVXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234832,
+      "name": "Mesma Confec\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7tc73pstdmItIt7ZpNyUDc"
+    },
+    {
+      "album": {
         "name": "Mesmo Que Demore",
         "url": "https://open.spotify.com/album/6XG1oTFNh8dbvAFniA6ll1"
       },
@@ -3795,6 +3817,32 @@
       "duration_ms": 125538,
       "name": "Protegido",
       "url": "https://open.spotify.com/track/1uL7N4JRmzZT3Ly4eNl58x"
+    },
+    {
+      "album": {
+        "name": "Protocolo",
+        "url": "https://open.spotify.com/album/5a2VRWNrrAvZ9Et65YOnPG"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Protocolo",
+      "url": "https://open.spotify.com/track/47gW6e3JYGiLpmOPz0CNAS"
     },
     {
       "album": {
@@ -5489,7 +5537,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 199429,
       "name": "\u00c0 La Carte",
       "url": "https://open.spotify.com/track/1KlWWuV0B9lZ3kdnGXHr6t"

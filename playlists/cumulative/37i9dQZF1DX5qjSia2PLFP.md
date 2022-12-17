@@ -2,9 +2,9 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\.  Cover: Jay Glavany
+> New music breaking waves.
 
-208 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+214 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1722](https://open.spotify.com/track/3LZ4y6jNGLW5PiSxxqmWSI) | [OTR CHAZ](https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx) | [Longwood Legends](https://open.spotify.com/album/7yB6Yw9gzbtYsCOMpMfvQv) | 2:36 | 2022-09-23 |  |
 | [1OF1](https://open.spotify.com/track/4eeBkMilZ85ie8eBZCRs3O) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [1OF1](https://open.spotify.com/album/6baQwRelsChN4b0zmU5tRO) | 3:12 | 2022-10-28 |  |
 | [2much \- YCO Jay Remix](https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [yung dastard](https://open.spotify.com/artist/29QmqvNrylI5sgRYsCvdUU), [YCO Jay](https://open.spotify.com/artist/1ySQjU8BZWZLMQD317oF2C) | [2much \(YCO Jay Remix\)](https://open.spotify.com/album/0szOMBJCj3bT35xlKq6IjA) | 3:31 | 2021-12-28 | 2022-03-26 |
+| [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 | 2022-12-16 |  |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-24 | 2022-11-19 |
 | [Aint No Fun](https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Aint No Fun](https://open.spotify.com/album/2hcZSipx5KrhW4Rxp74BhC) | 2:08 | 2022-08-05 | 2022-10-29 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-10-07 |  |
@@ -75,6 +76,7 @@
 | [For Me](https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [For Me](https://open.spotify.com/album/66M1yxhYoJ0iT7k36rOpid) | 2:14 | 2022-02-25 | 2022-06-08 |
 | [Fortified](https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Fortified](https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w) | 3:17 | 2022-02-25 | 2022-06-08 |
 | [Function](https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Rebirth](https://open.spotify.com/album/7dZEbiYj7YziJFSJWTf6D8) | 2:40 | 2022-02-11 | 2022-05-13 |
+| [Get The Gat](https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Get The Gat](https://open.spotify.com/album/48THGiijGql0YItnekn1C8) | 2:12 | 2022-12-16 |  |
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-05-06 | 2022-08-13 |
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2022-05-12 | 2022-08-20 |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-09-01 | 2022-03-05 |
@@ -97,6 +99,7 @@
 | [IDGAF](https://open.spotify.com/track/4CLhyYJHsCAMy9FuRh1EJm) | [K'von](https://open.spotify.com/artist/68H0pgJPzDHXwJk8q19GDc) | [Piscean 2 Then Came Tomorrow](https://open.spotify.com/album/4TfV1jJwrnS6hg0BaYB0Wk) | 3:15 | 2022-03-04 | 2022-06-08 |
 | [If I Had A Dollar \(feat\. Benjamin Earl Turner\)](https://open.spotify.com/track/62wCJ41qEAobGOxrtdgo6X) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Benjamin Earl Turner](https://open.spotify.com/artist/2TUB08yLNa9nOKoPDxh7mv) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:13 | 2022-02-18 | 2022-08-06 |
 | [If You Must Go](https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft) | [Sækyi](https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB) | [If You Must Go](https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr) | 3:16 | 2022-09-30 |  |
+| [Imaginary Friend](https://open.spotify.com/track/6L2QU0UQqEBxbOiaKUJmiE) | [Tae Dawg](https://open.spotify.com/artist/5HxD1kjjKZ0K0adufI1JXN) | [Imaginary Friend](https://open.spotify.com/album/3bSVNfpgs4OasLqpvgJoeE) | 2:15 | 2022-12-16 |  |
 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 | 2022-08-12 |  |
 | [Independent Like Webbie](https://open.spotify.com/track/4Lp6mBPRk5IaPM8Bg8J3fu) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [Independent Like Webbie](https://open.spotify.com/album/12FfrxRL65gxdnVeI5JQSB) | 1:37 | 2022-06-07 | 2022-10-01 |
 | [INSIDE](https://open.spotify.com/track/1j1KbCOTYAGdfDJ0hsuLhc) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [INSIDE](https://open.spotify.com/album/3K1RiDgcaxkA2NctK2jdID) | 3:54 | 2022-01-28 | 2022-06-08 |
@@ -126,6 +129,7 @@
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-03 | 2022-03-05 |
 | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/track/27r0boXgMC64byb513mJNu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg) | 2:33 | 2022-08-26 |  |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-09 |  |
+| [My Heart](https://open.spotify.com/track/0eQjeOTNSzUudwy7dyTExY) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [My Heart](https://open.spotify.com/album/2Pw6yUJVTGSqYiDHriSGX2) | 1:44 | 2022-12-16 |  |
 | [Name of Love](https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Name of Love](https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI) | 1:46 | 2022-10-14 | 2022-10-29 |
 | [Neva Goin Broke](https://open.spotify.com/track/25n2o2iXsML4I0xIAFOINj) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Neva Goin Broke](https://open.spotify.com/album/4rUicHcb8xZS9zuyVlPZrd) | 1:20 | 2022-08-19 |  |
 | [Neva Goin Broke](https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Codeine Files](https://open.spotify.com/album/7tgZb9ATpg16l6wcSnOBtT) | 1:20 | 2022-08-19 | 2022-11-13 |
@@ -165,6 +169,7 @@
 | [Searching](https://open.spotify.com/track/53k7LfWJFhHOaavpvuNEVg) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [W I L D](https://open.spotify.com/album/2AK8jOgh0YJ2dQ8wwemipK) | 3:06 | 2021-10-29 | 2022-03-05 |
 | [Selfish](https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 2:41 | 2021-10-29 | 2022-03-05 |
 | [Set It Up](https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Set It Up](https://open.spotify.com/album/1e3u8uTl5quNGWVIbpD9aF) | 3:37 | 2022-03-04 | 2022-08-27 |
+| [Shut The Door](https://open.spotify.com/track/4r6eiYt8C6HmBh584gNKRW) | [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [Shut The Door](https://open.spotify.com/album/47zFR7hPucglskk6vWsCkh) | 2:43 | 2022-12-16 |  |
 | [Sim Simma](https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Sim Simma](https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg) | 2:25 | 2021-12-01 | 2022-08-27 |
 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 |  |
 | [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-16 | 2022-10-13 |
@@ -212,6 +217,7 @@
 | [Wildones](https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Wildones](https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR) | 3:04 | 2022-02-04 | 2022-05-21 |
 | [Wine](https://open.spotify.com/track/2m4wIrcNODvfPVTgb9EhAi) | [SYRA](https://open.spotify.com/artist/376xuz3AmMyx0WHWhHDONP), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Pill](https://open.spotify.com/album/5Op1K05P73W2xrkiP8TbFs) | 2:45 | 2022-01-21 | 2022-05-13 |
 | [Wish I Knew](https://open.spotify.com/track/3qx7ig57062kyFMNqBHWPn) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Wish I Knew](https://open.spotify.com/album/2dgFS2T4BTuoewTy6MjpiD) | 2:25 | 2022-12-02 |  |
+| [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/1P5YwT9JBMmRTrwTtUCIpk) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2022-12-16 |  |
 | [Xtasy](https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Xtasy](https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV) | 2:58 | 2022-05-20 | 2022-08-27 |
 | [Y I Want U](https://open.spotify.com/track/07BT6pHeHuXycLNH4Jr2zD) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 1:46 | 2022-12-02 |  |
 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 | 2021-08-14 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all\. Cover: My Vitriol
 
-301 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+302 songs - 18 hr 48 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Loser](https://open.spotify.com/track/5jJtTHIf1NMtYNhVVqXnjR) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Loser](https://open.spotify.com/album/0BrOQwhdwCktoB5NYlYFDu) | 2:31 | 2021-12-15 | 2022-07-25 |
 | [Losing My Touch](https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Forever Whatever](https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS) | 3:58 | 2021-12-15 |  |
 | [Low](https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ) | [Gates](https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6) | [Bloom and Breathe](https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f) | 4:07 | 2021-12-15 | 2022-11-18 |
+| [Make Tonight](https://open.spotify.com/track/7afP5szYNk5vMxYv81bUMu) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml) | 3:44 | 2022-12-16 |  |
 | [Make Yourself](https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:03 | 2022-11-02 |  |
 | [McFearless](https://open.spotify.com/track/0obzF8a4DaF3XrlOB16xlx) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:09 | 2021-12-15 | 2022-01-04 |
 | [Medicine](https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY) | 4:07 | 2022-10-11 |  |
@@ -190,7 +191,7 @@
 | [Note To Self](https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 3:49 | 2022-06-23 |  |
 | [Nothing Wrong](https://open.spotify.com/track/3PsdW0QuEbQsO58KsDD7m0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures](https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y) | 3:07 | 2021-12-15 |  |
 | [Nowhere](https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:26 | 2022-11-02 |  |
-| [One Armed Scissor](https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 4:20 | 2022-09-21 |  |
+| [One Armed Scissor](https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 4:20 | 2022-09-21 | 2022-12-17 |
 | [One Side Road](https://open.spotify.com/track/7p7dYBkb9UlvH3YqSa7xtZ) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Fragile](https://open.spotify.com/album/7r0miyRCwcvLff1aQTY7qw) | 5:18 | 2022-04-15 | 2022-04-21 |
 | [One Way Mule](https://open.spotify.com/track/6WfuJb0HmIzA45sBFZ9j3F) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:14 | 2022-11-02 |  |
 | [Palahniuk's Laughter](https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3) | [Fightstar](https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn) | [They Liked You Better When You Were Dead](https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj) | 4:15 | 2022-11-02 |  |

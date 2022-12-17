@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-591 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
+591 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,6 @@
 | [Goodnight Mr Bear](https://open.spotify.com/track/55LyKRj9oRi4HVHJsILhDf) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Goodnight Mr Bear](https://open.spotify.com/album/5jBxQMaffyQjCA7TmFJ8Fi) | 1:50 | 2021-11-08 | 2022-10-29 |
 | [Goodnight My Love](https://open.spotify.com/track/5tjJQQgUdR5QPFK5mAruo2) | [Everett Boggs](https://open.spotify.com/artist/1A7qAjBkahgHjczpVSjB8A) | [Goodnight My Love](https://open.spotify.com/album/4vx8SIz2sfZJGPpRwybsxB) | 2:59 | 2021-11-08 |  |
 | [Grand\-père le pirate](https://open.spotify.com/track/2mbliew6kCBxW2OJ8lUKJW) | [Fifine Lambert](https://open.spotify.com/artist/5NGndt3Ai0J5S6pQODYt3M) | [Grand\-père le pirate](https://open.spotify.com/album/6u0GZoQ3sru1NkWWJSy74s) | 1:50 | 2021-11-08 | 2022-10-29 |
-| [Grandma's Joy](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Grandma's Joy](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:00 | 2022-12-16 |  |
 | [Grandma’s Glasses](https://open.spotify.com/track/2BR8GLIPPjkljm7nr9UnCk) | [Janell Stallings](https://open.spotify.com/artist/5pAwiiwEYIYJtDLJwi4TbV) | [Grandma’s Glasses](https://open.spotify.com/album/6cooTVwXenEWDgAoq3k7IL) | 1:56 | 2021-11-08 |  |
 | [Grandpa Is Coming](https://open.spotify.com/track/07mxW2F347d0aBeUqFsjQI) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [Grandpa Is Coming](https://open.spotify.com/album/3lcb0ZJck8g4o6d0i6S8Li) | 2:40 | 2022-12-16 |  |
 | [Grandpa’s Song](https://open.spotify.com/track/55rrtoTbE086eqXir3r1Fp) | [Royle Payne](https://open.spotify.com/artist/6NZwAiGhq9WlOTmzKLDf8X) | [Grandpa’s Song](https://open.spotify.com/album/54xCky42AFaif8X7IsMSvW) | 1:36 | 2021-11-08 |  |
@@ -313,6 +312,7 @@
 | [Lullaby for You](https://open.spotify.com/track/3Y11BmKJIARE8lLPbZMSVQ) | [Anson Knight](https://open.spotify.com/artist/0PnFa3HmKei2HqzxzDZEos) | [Lullaby for You](https://open.spotify.com/album/35a1nBvmh8y0x31tak9GVJ) | 1:30 | 2022-01-21 |  |
 | [Lullaby Love](https://open.spotify.com/track/77u9y7owrOxvmcPl4tXX2u) | [Harper Wootton](https://open.spotify.com/artist/5WVXOF9dThJk2O5KEgbph4) | [Lullaby Love](https://open.spotify.com/album/100CtdiyYeLcGNftTdOUGJ) | 1:09 | 2022-07-29 |  |
 | [Lullaby of Colors](https://open.spotify.com/track/0tBZQVRq7zRvTUHv7LnpkT) | [Peggy Roxie](https://open.spotify.com/artist/3FWKZdvRjRtGSgMNnVis04) | [Lullaby of Colors](https://open.spotify.com/album/7kf9KGjbvQqRIMHeynnkPP) | 1:10 | 2022-02-10 |  |
+| [Lust](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Lust](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:09 | 2022-12-16 |  |
 | [Lykke](https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR) | [Erna Kristiansen](https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp) | [Lykke](https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H) | 1:50 | 2022-12-16 |  |
 | [Main Theme \(From "Babar"\) Music Box Version](https://open.spotify.com/track/4QYZumVgfGNaP52IVEb6uT) | [Orson's Library](https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT) | [Main Theme \(From "Babar"\)](https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL) | 1:17 | 2022-10-28 |  |
 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 | 2022-10-28 |  |
@@ -378,7 +378,6 @@
 | [Når du sovnet](https://open.spotify.com/track/3E1HUM219guDCovVxKINMX) | [Trude Egeland](https://open.spotify.com/artist/70nfwQmdbDzaXCx5aQxmry) | [Når du sovnet](https://open.spotify.com/album/4jPsPb4iVviFleHwk9ULPM) | 1:59 | 2022-10-28 |  |
 | [Oh Dear What Can The Matter Be](https://open.spotify.com/track/515HlA9jR6X2deb9ip6C6e) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Oh Dear What Can The Matter Be](https://open.spotify.com/album/5K3M9LU3glsJGEXUsNHDZk) | 1:36 | 2021-11-08 | 2022-10-29 |
 | [Old Man Noah](https://open.spotify.com/track/79vPABqHj4zEuSrs7xpDty) | [Adeimferry](https://open.spotify.com/artist/4nwwOJA6YtmbEX2KIr121J) | [Old Man Noah](https://open.spotify.com/album/4GNvVOdgQtGJeXwzj9ZIlw) | 1:29 | 2021-11-08 | 2022-07-01 |
-| [On The Field Of Dreams](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Izabella Kirk](https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED) | [On The Field Of Dreams](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 1:11 | 2022-12-16 |  |
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-23 |  |
 | [One Finger One Thumb](https://open.spotify.com/track/22stRqJ2Av94yvBn213fWY) | [Lacie Palmer](https://open.spotify.com/artist/6cKhJWZ1pgXqGT3y8tLlve) | [One Finger One Thumb](https://open.spotify.com/album/3CJ38TFdZFLSmGJB4WC23J) | 1:55 | 2022-12-16 |  |
 | [One for you, one for me](https://open.spotify.com/track/3D5eIqkrGvHEe42hEaBTwK) | [Amy\-leigh Hill](https://open.spotify.com/artist/3EKtt09Qwccgxvs5QiIazR) | [Peek\-a\-boo](https://open.spotify.com/album/1FoAFlOjirEpU0bHgNhxBZ) | 1:48 | 2021-11-08 | 2022-12-16 |
@@ -422,6 +421,7 @@
 | [Siesta](https://open.spotify.com/track/4gCz5o087cR8iTCsDSNWan) | [Dahlia Greene](https://open.spotify.com/artist/5ktRI2Uh0Kzq21ZfNC7ZAm) | [Siesta](https://open.spotify.com/album/6wxh5PhxtXFWbgtBorWMkD) | 1:42 | 2021-11-08 | 2022-12-16 |
 | [Singing for You](https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Singing for You](https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG) | 1:43 | 2021-11-08 |  |
 | [Singing for You](https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa) | [Willy Cotterill](https://open.spotify.com/artist/3nGSuqJpKUO7hQA0DFXJ5i) | [Singing for You](https://open.spotify.com/album/7s4mt8kbI8rNKnPasfOvca) | 1:43 | 2021-11-08 |  |
+| [Sinnlig](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [Sinnlig](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 2:03 | 2022-12-16 |  |
 | [Sisters](https://open.spotify.com/track/327ydynonFKIBVoW9e5wXO) | [Cosy Pillows](https://open.spotify.com/artist/08x9OqSYuvqdN6K60DHIj7) | [Sisters](https://open.spotify.com/album/0nvdJRcQBlwoMwiOmLXEqU) | 1:04 | 2021-11-08 | 2022-11-12 |
 | [Skogen Sover](https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [Skogen Sover](https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI) | 2:41 | 2022-04-22 |  |
 | [Skymningsvisan](https://open.spotify.com/track/4guXLGmN7Xp0UnnGiXgfkg) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [Skymningsvisan](https://open.spotify.com/album/1s8qEltYoiq8U80SzLuEoi) | 1:47 | 2021-11-08 | 2022-08-12 |

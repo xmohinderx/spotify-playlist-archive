@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Ben Gregory
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,581 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,601 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 82 | [Poolside](https://open.spotify.com/track/6hLl2nFQvImmvDbbyBpc7u) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/0RHUyYyxidTJp1lDmxbaxB) | 2:04 |
 | 83 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 84 | [Waiting for My Turn to Speak](https://open.spotify.com/track/72AaUURjD0tS0mZUjkI9ok) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Realising How to Act in Certain Instances](https://open.spotify.com/album/46QVzhVxvOsqagSTuExF1t) | 2:20 |
-| 85 | [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 |
+| 85 | [rid of me](https://open.spotify.com/track/42rzGiopJljAAAPqS9zEnx) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 3:37 |
 | 86 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 |
 | 87 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
 | 88 | [GARDEN OF DOOM](https://open.spotify.com/track/6diRLocbSj9vV4FVNUOmCv) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [UNDER THE FLOOR](https://open.spotify.com/album/6IGooPMTgWHzDjS1QLHRkM) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Check For Signs Of Life](https://open.spotify.com/track/2LswW8KbYNsM36agVAWeF0) | [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH) | [Check For Signs Of Life](https://open.spotify.com/album/6kAl3cYMeh0BV0CGBU1jp3) | 4:21 |
 | 100 | [To Repel Ghosts](https://open.spotify.com/track/2mkZJYJmjrLYFEWn7q5kLx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [To Repel Ghosts](https://open.spotify.com/album/06B3ihAJGFAeMbpAOJWtQn) | 3:26 |
 
-Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMDYwMzUxZDUyNDg4ZWRiYzExNzZiZTU5ZDViNGQzZTg1`
+Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMDYwZDE1ODAxOGYxMWEzNGQ2MjU0MTk5OTA2Y2ZhOTU4`

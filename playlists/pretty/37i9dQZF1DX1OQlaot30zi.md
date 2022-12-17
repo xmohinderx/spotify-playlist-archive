@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di TY1, Lazza, Nabi, Quentin40, Mezzosangue e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,634 likes - 86 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,706 likes - 86 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2586,6 +2586,32 @@
     },
     {
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/070FNqSBKHnK1eSfWKDSLX"
+      },
+      "artists": [
+        {
+          "name": "FUZ",
+          "url": "https://open.spotify.com/artist/28mupEzJS8KFPMErekosRL"
+        },
+        {
+          "name": "Ar\u00e9na",
+          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
+        },
+        {
+          "name": "ALB",
+          "url": "https://open.spotify.com/artist/2UNdu0HGPQtiPJCSpOzptI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7sC171rY7e1cVA75yHpIjR"
+    },
+    {
+      "album": {
         "name": "Fix It",
         "url": "https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL"
       },
@@ -4447,7 +4473,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 252463,
       "name": "Miss Chance",
       "url": "https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3"

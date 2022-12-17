@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-218 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+219 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Miss This](https://open.spotify.com/track/2O0tojYEkArXefAqL93mrj) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu) | [Miss This](https://open.spotify.com/album/6Jc2mARX4L9WneAlYrLWJw) | 1:42 | 2022-01-25 | 2022-02-26 |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2022-01-25 | 2022-10-15 |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-11-11 | 2022-12-10 |
+| [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 | 2022-12-16 |  |
 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 |  |
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2022-01-25 |  |
 | [NO EXES](https://open.spotify.com/track/20hscPaq1dRsF43LI27gWS) | [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [NO EXES](https://open.spotify.com/album/23Cu6yShu6qOrJIqLxpFtn) | 2:33 | 2022-10-14 |  |
@@ -216,7 +217,7 @@
 | [Used To](https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Used To](https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q) | 3:19 | 2022-11-11 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-07-08 |  |
 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-09-05 |  |
-| [WAKEUPNEXT2U](https://open.spotify.com/track/0QQIwU7QxB2lfXYvm3JA4A) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [WAKEUPNEXT2U](https://open.spotify.com/album/2yiE8oVwt7RNsVEg9IQdAz) | 2:23 | 2022-01-25 |  |
+| [WAKEUPNEXT2U](https://open.spotify.com/track/0QQIwU7QxB2lfXYvm3JA4A) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [WAKEUPNEXT2U](https://open.spotify.com/album/2yiE8oVwt7RNsVEg9IQdAz) | 2:23 | 2022-01-25 | 2022-12-17 |
 | [Waste My Time](https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Waste My Time](https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W) | 3:36 | 2022-07-08 |  |
 | [Wear A Mask](https://open.spotify.com/track/128tbNuUe5DhIQbdDWDRbH) | [Young Vax](https://open.spotify.com/artist/625vmdQPFd69fuv2hRWmcX) | [Wear A Mask](https://open.spotify.com/album/5bphKIH62F4xg8xoFTK5xB) | 3:04 | 2022-01-25 | 2022-07-12 |
 | [What They Want](https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 2:45 | 2022-01-25 | 2022-09-06 |

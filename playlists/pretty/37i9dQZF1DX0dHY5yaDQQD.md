@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,227 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,239 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 9 | [SEQUENCE](https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [22122](https://open.spotify.com/album/0mEMOUGU3MA2epy6Xk38Ai) | 2:39 |
 | 10 | [Ballast](https://open.spotify.com/track/26UfYyC9eZyavP1oJ4Dpsg) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#5](https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj) | 4:57 |
 | 11 | [in my closet](https://open.spotify.com/track/2Tyz2yalMYgk9evio4Pc8W) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 3:32 |
-| 12 | [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 |
+| 12 | [Hard Tarantella](https://open.spotify.com/track/0XStJCyj4Q8eNtuyFcoifu) | [NZIRIAA](https://open.spotify.com/artist/708GD7wt7fEo1CrRTCfdld) | [XXYBRID](https://open.spotify.com/album/2uKd4O9RA1lWwetOeQZ31J) | 5:05 |
 | 13 | [Subroutines](https://open.spotify.com/track/63mxkfFKoOlZclXgs7IbMs) | [Ctrls](https://open.spotify.com/artist/5PM5HE3CFA2qdDnVucPMRc) | [Your Data](https://open.spotify.com/album/6zZxNXfiYxofTYciOsGbYD) | 5:03 |
 | 14 | [Kekuasaan \(Prontaxan Remix\)](https://open.spotify.com/track/5ZCUAO9sJoRi6t9g8k91Mg) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ) | [Alkisah Dikisahkan](https://open.spotify.com/album/2vWMINv5ZtiZsfiG2chFKI) | 6:34 |
 | 15 | [Gazelles](https://open.spotify.com/track/5NXtSlE0fIxHedvt8bMlQd) | [Safa](https://open.spotify.com/artist/24Szdb46cXuW37aog0aosQ) | [Ibtihalat](https://open.spotify.com/album/3UYnjb0u2MQPEwkanjQzdr) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 59 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 |
 | 60 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDE4ZDJiYzkxYTc4NmE2ZDRlMzkyZjZjZDFlY2VlNjA2`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDE4ZDE4ODYyYTgyM2ZlOTdhMWFkMDU1NzMyMWY3ODI4`

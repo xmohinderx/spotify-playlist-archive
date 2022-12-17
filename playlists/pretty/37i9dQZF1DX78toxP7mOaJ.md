@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,178 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,205 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 8 | [Eraser](https://open.spotify.com/track/0nkAPLYLJpOkIDY8AvGQ1e) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Eraser](https://open.spotify.com/album/4FLgMLbRhhZ1qOUV0T4mDn) | 2:30 |
 | 9 | [Cinnamon](https://open.spotify.com/track/4WBFBguZw3irFdhWlBemA3) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Cinnamon](https://open.spotify.com/album/3UoxoqoJehdKekydjznAhU) | 2:38 |
 | 10 | [I Hope You're Right](https://open.spotify.com/track/3MW6Nrv1iaFPgwlxWTyoDH) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 3:18 |
-| 11 | [Behind The Black Door](https://open.spotify.com/track/5Frhfvb1IsADUdBl5KUeiK) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Behind The Black Door](https://open.spotify.com/album/63z5fTQbDY9VjotK8FRPBH) | 3:14 |
+| 11 | [Behind The Black Door](https://open.spotify.com/track/4U3LUpc0XYEQKSmaARZwzX) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Behind The Black Door](https://open.spotify.com/album/3yjIpDvaSjj2RmhoQmwHEU) | 3:14 |
 | 12 | [Wires Crossed](https://open.spotify.com/track/09ptkV4dUhzP9mAZP0QjvI) | [Cowboy Mugshot](https://open.spotify.com/artist/5thsoHnpZYZq587Po0NgUI) | [Wires Crossed](https://open.spotify.com/album/2xfITxrVpJ2huuzLOoGccV) | 2:46 |
 | 13 | [I Don't Know You Like I Used To](https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don't Know You Like I Used To](https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK) | 4:19 |
 | 14 | [Bombs Away](https://open.spotify.com/track/4eWY1BzZYH6ctYfFfO8awU) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Bombs Away](https://open.spotify.com/album/3YgGhvqCPXW7mQ28QSuIQE) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [i got what i asked for](https://open.spotify.com/track/73zlBhD7TDSIFrmcdUYoH3) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [i got what i asked for](https://open.spotify.com/album/7uHrq6RsMnfWJOkgwGoftj) | 3:11 |
 | 100 | [To Feel Young](https://open.spotify.com/track/2UVXTxWKffcUMcvSbGNua7) | [Tennis Courts](https://open.spotify.com/artist/1KiCYjJuX19VhFGFjztXn3) | [To Feel Young](https://open.spotify.com/album/5X5R6oiS8mBoOqSn44nf8W) | 4:27 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDJhODFjNWU4MTc2OTZmN2ViNjA4ZjFkYjEyNGRjY2Jh`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGRjZGFiYWJhYThjZjA3M2Y5YTA3NzkzYmM2NGFmZjc3`

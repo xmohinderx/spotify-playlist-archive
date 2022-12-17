@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-113 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
+114 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 | 2020-10-30 | 2022-12-08 |
 | [Frosty \(Live\)](https://open.spotify.com/track/5mWpxiRT5itAt6u2RAD2Y4) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frosty \(Live\)](https://open.spotify.com/album/0Y3RF1vbBHc8bTm0hFZvwS) | 5:52 | 2020-10-30 | 2022-07-29 |
 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 | 2020-10-30 |  |
+| [Gunslinger \- Live](https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Knows Diddley Live](https://open.spotify.com/album/2z1TNVOGgtg69QcZskgSdj) | 4:27 | 2022-12-16 |  |
 | [Hideaway](https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU) | [70th Birthday Concert](https://open.spotify.com/album/3e5hpW2IwWDYlTEAchPhTA) | 4:50 | 2020-10-30 | 2022-07-28 |
 | [High Class Girl \- Live](https://open.spotify.com/track/77PULbIYAM090fHatJgXe5) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [High Class Girl \(Live\)](https://open.spotify.com/album/3hC1eU6oCmdwuWP9haKloF) | 5:41 | 2021-04-09 | 2022-07-29 |
 | [How Many More Times \- Live](https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 15:22 | 2020-10-30 | 2022-07-29 |
@@ -63,7 +64,7 @@
 | [Lonesome Whistle Blues \- Live](https://open.spotify.com/track/75QEITVgnbtUomK27erkds) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 4:21 | 2020-10-30 | 2022-07-29 |
 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 | 2021-09-17 |  |
 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2020-10-30 | 2022-12-13 |
-| [Mississippi Nights \- Live](https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Mississippi Nights \(Live\)](https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji) | 5:00 | 2022-02-04 |  |
+| [Mississippi Nights \- Live](https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Mississippi Nights \(Live\)](https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji) | 5:00 | 2022-02-04 | 2022-12-17 |
 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 | 2021-09-17 |  |
 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 | 2020-10-30 |  |
 | [No Time For Cryin' \- Live](https://open.spotify.com/track/656eVNjToos4nqR0ZzUyUB) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [No Time For Cryin'](https://open.spotify.com/album/4WbqBP0zeGsnfSm3FEDvNw) | 5:22 | 2020-10-30 | 2022-07-29 |

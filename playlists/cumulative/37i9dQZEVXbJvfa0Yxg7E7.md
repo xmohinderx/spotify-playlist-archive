@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-888 songs - 1 day 22 hr 50 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+889 songs - 1 day 22 hr 53 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [Isabelle](https://open.spotify.com/track/6PjTpAsatvBKjIIOHziha7) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Isabelle](https://open.spotify.com/album/1JIIMm6iA1MHtadKzk4PSE) | 2:24 | 2021-10-17 | 2021-10-19 |
 | [It Gets Dark](https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [It Gets Dark](https://open.spotify.com/album/4jEjxmfyDepTh4ObH2qJtr) | 3:23 | 2022-03-12 | 2022-03-21 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-26 | 2022-03-06 |
-| [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-22 |  |
+| [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-22 | 2022-12-17 |
+| [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-16 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-11-30 |  |
 | [Italia](https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 2:50 | 2022-04-07 | 2022-12-05 |
 | [Ja, Vi Elsker Dette Landet](https://open.spotify.com/track/0GEeVI8Wa1KXGTStgBUerG) | [N/A](https://open.spotify.com/artist/0TssKMrMlrXSxIwNrghB1V), [Bodø Domkor](https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF) | [Fagert Er Landet](https://open.spotify.com/album/4xd4aloOZg3LAxNnhDPuFB) | 3:11 | 2021-05-19 | 2022-05-20 |
@@ -704,7 +705,7 @@
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2021-11-14 | 2021-11-28 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 2:51 | 2021-12-25 | 2021-12-27 |
 | [Santa Lucia](https://open.spotify.com/track/5Cz68SyqTHTXJwuHRZICGT) | [Levende Lys](https://open.spotify.com/artist/7nlz6YVvJKOJVxDROACxcv) | [Alle Barnas Julesanger](https://open.spotify.com/album/0eT7C2kaNWso8ukKSJbATo) | 2:39 | 2022-12-14 | 2022-12-16 |
-| [Santa Lucia](https://open.spotify.com/track/6JspRQrXelZuB0WUSeWdMf) | [Svingenkoret](https://open.spotify.com/artist/3S42tRBTRdxmtBii6z0Lt1) | [Jul i svingen](https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3) | 3:14 | 2021-12-15 |  |
+| [Santa Lucia](https://open.spotify.com/track/6JspRQrXelZuB0WUSeWdMf) | [Svingenkoret](https://open.spotify.com/artist/3S42tRBTRdxmtBii6z0Lt1) | [Jul i svingen](https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3) | 3:14 | 2021-12-15 | 2022-12-17 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-11-28 |  |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 | 2021-12-25 | 2021-12-27 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-05-29 |
@@ -737,7 +738,7 @@
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-11-28 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-04 | 2022-07-31 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 | 2022-11-29 |
-| [Snart Jul](https://open.spotify.com/track/3Q4I6aJiDWQ3OBbqz6USJj) | [Cesca](https://open.spotify.com/artist/5nHVx5SDrlqwZ7e8H3uncQ) | [Snart Jul](https://open.spotify.com/album/0ShJm54wWmz2KHHObuL6yd) | 3:28 | 2022-11-28 | 2022-12-14 |
+| [Snart Jul](https://open.spotify.com/track/3Q4I6aJiDWQ3OBbqz6USJj) | [Cesca](https://open.spotify.com/artist/5nHVx5SDrlqwZ7e8H3uncQ) | [Snart Jul](https://open.spotify.com/album/0ShJm54wWmz2KHHObuL6yd) | 3:28 | 2022-11-28 |  |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-11-06 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-20 |  |
 | [SO DONE](https://open.spotify.com/track/2gqWRRCXnma9L8xQ1RdemQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3jDDMndpwWL3yDcDQcxk7R) | 2:06 | 2021-03-27\* | 2021-04-11 |

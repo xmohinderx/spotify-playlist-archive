@@ -654,6 +654,24 @@
     },
     {
       "album": {
+        "name": "Dare You Be Mine",
+        "url": "https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "Dare You Be Mine",
+      "url": "https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4VIuikghlCfEl022xOlhaR"
       },
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 235213,
       "name": "It Rains Love",
       "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"

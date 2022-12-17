@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto, Matheus & Kauan",
   "name": "Esquenta Sertanejo",
   "published_playlist_ids": [
     "1QClRCShAKNcti565v7TOp"
@@ -427,6 +427,46 @@
       "duration_ms": 158057,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly"
+    },
+    {
+      "album": {
+        "name": "Buteco Goi\u00e2nia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161685,
+      "name": "Cara da Derrota - Ao Vivo",
+      "url": "https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ"
+    },
+    {
+      "album": {
+        "name": "Cavalo de Pau",
+        "url": "https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Denner",
+          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164029,
+      "name": "Cavalo de Pau",
+      "url": "https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23"
     },
     {
       "album": {
@@ -1795,7 +1835,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187381,
       "name": "Termina Comigo Antes",
       "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP"
@@ -2097,7 +2137,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 188951,
       "name": "\u00c1gua Nos Z\u00f3i - Ao Vivo",
       "url": "https://open.spotify.com/track/77rIMl1WIrLf4ZDKFYZ4ji"

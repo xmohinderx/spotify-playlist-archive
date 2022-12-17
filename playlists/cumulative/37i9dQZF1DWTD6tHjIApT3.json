@@ -4976,6 +4976,24 @@
     },
     {
       "album": {
+        "name": "Logbook",
+        "url": "https://open.spotify.com/album/4XpPPretRm4hVnvBi3depc"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Logbook",
+      "url": "https://open.spotify.com/track/7Dm0vGq2EZnok8p2PQjkMH"
+    },
+    {
+      "album": {
         "name": "Look At Me",
         "url": "https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR"
       },
@@ -10361,7 +10379,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 197333,
       "name": "\u3053\u3046\u304b\u3044\u306e\u3055\u304d",
       "url": "https://open.spotify.com/track/4YWIixtQ7jbEatj1Zyrsqx"

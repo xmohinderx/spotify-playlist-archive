@@ -1,15 +1,15 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 849830,
+  "num_followers": 850115,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg0MzI0NiwwMDAwMDAwMDM1OWZmMmI3ZGFjMDZkM2FlOGJhN2Y3YTgzZjEyOWEz",
+  "snapshot_id": "MTY3MDg0MzI0NiwwMDAwMDAwMDJhOThlZjIxOWM3ZGMwMzVjZTAzMmU3OTM2ZTI0OTI1",
   "tracks": [
     {
-      "added_at": "2022-12-16 00:30:46",
+      "added_at": "2022-12-17 00:47:45",
       "album": {
         "name": "Teenage Dirtbag 2020 / Mope",
         "url": "https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
     },
     {
-      "added_at": "2022-12-16 00:30:46",
+      "added_at": "2022-12-17 00:47:45",
       "album": {
         "name": "Bleed American (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Space (Orchestral Version)",
-        "url": "https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd"
+        "name": "Walk On Water (Acoustic)",
+        "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Space - Acoustic Version",
-      "url": "https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od"
+      "duration_ms": 188895,
+      "name": "Walk On Water - Acoustic",
+      "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
     }
   ],
   "unique_name": "Acoustic Rock",

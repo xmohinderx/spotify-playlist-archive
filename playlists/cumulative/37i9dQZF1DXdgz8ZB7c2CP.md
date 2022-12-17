@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-295 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+296 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2021-12-24 |  |
 | [Compact Objects](https://open.spotify.com/track/1v3HaK23f4QSOTOQz0blY6) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Compact Objects](https://open.spotify.com/album/1MM99sGlOvrYZI8uGIxlGA) | 4:42 | 2022-06-03 | 2022-07-29 |
 | [Context](https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Context](https://open.spotify.com/album/4xQ4aw8SmHshUSTLYDsa9B) | 4:00 | 2021-08-06 | 2022-10-16 |
+| [Context](https://open.spotify.com/track/6oPGuHXGQkViIavFLWj7BT) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Context](https://open.spotify.com/album/3SB7UA6NkQIBlQMnZQnPy1) | 4:00 | 2021-08-06 |  |
 | [Cosmopolitan](https://open.spotify.com/track/2e9cFzK33DGQC7mFGttobb) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/2MKcMdWlOzYDIkfqrRMakg) | 4:42 | 2021-08-06 | 2022-08-26 |
 | [Cosmopolitan](https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/5Jj425whuDpbmHTprH49gT) | 4:42 | 2021-08-06 |  |
 | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/track/4bs9wwmLKPKomthCjggWZH) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/album/0tuQ95JwJSUnvY7W9mhBxW) | 3:29 | 2021-12-10 | 2022-07-29 |
@@ -171,7 +172,7 @@
 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-26 |  |
 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 | 2022-04-08 |  |
 | [Never Be The One](https://open.spotify.com/track/7vJgFCSsvnzDLc5MWFkFnz) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Makeshift Moon](https://open.spotify.com/album/5aUCZI0mX5SZaPfdjbjL1h) | 3:57 | 2021-08-06 |  |
-| [Night Goggles \- Rome in Silver Remix](https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Night Goggles \(Rome in Silver Remix\)](https://open.spotify.com/album/7js3eob7PU1CkZhcB5Ueve) | 3:21 | 2021-08-06 |  |
+| [Night Goggles \- Rome in Silver Remix](https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Night Goggles \(Rome in Silver Remix\)](https://open.spotify.com/album/7js3eob7PU1CkZhcB5Ueve) | 3:21 | 2021-08-06 | 2022-12-17 |
 | [No Goodbyes](https://open.spotify.com/track/6ljsHgDtZkaiMPBw8GXQMY) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Contradictions](https://open.spotify.com/album/38kXQkFEPIDzTIvXRZcEQk) | 3:00 | 2021-08-06 | 2022-07-02 |
 | [no place i'd rather be](https://open.spotify.com/track/0Yt14hEqtPj9r0sYmtLiq9) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [no place i'd rather be](https://open.spotify.com/album/215sJkVSyodpuPd3TgVnqs) | 3:38 | 2021-12-10 | 2022-07-29 |
 | [NO TOMORROW](https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr) | 2:54 | 2021-08-06 |  |

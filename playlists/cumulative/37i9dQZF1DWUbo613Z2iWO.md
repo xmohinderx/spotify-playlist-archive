@@ -2,9 +2,9 @@
 
 ### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> Our favorite R&B artists on the rise! Cover: Rileyy Lanez
+> Our favorite R&B artists on the rise! Cover: Ambré
 
-489 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+493 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/track/5uuZhQMRejxWHF0CCkDLsi) | [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/album/5LBj5DyCxppA5x34N4KMIi) | 3:45 | 2022-04-08 | 2022-05-28 |
 | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/track/6kW0nkWiLGEEuEigY2orHw) | [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Should Come Over](https://open.spotify.com/album/6z8HADY94k7HxGJfUy4etZ) | 3:45 | 2022-07-15 | 2022-10-29 |
 | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/album/2SxvstE24VIYBAy8jQRswO) | 3:13 | 2022-03-18 | 2022-04-09 |
+| [Breaking Point](https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Breaking Point](https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4) | 4:53 | 2022-12-16 |  |
 | [Brown Sugar](https://open.spotify.com/track/2q5lWG2pP3KQ73cdWi0NTr) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz), [Daniel Novello](https://open.spotify.com/artist/3sBZ6NFwgh6f2uSJfr81sS), [Simmie](https://open.spotify.com/artist/3730JhzlwPpfNdE6a5qAv9) | [Brown Sugar](https://open.spotify.com/album/0ZBp4ME5Rb3XQi2ZTiMKnr) | 3:09 | 2022-04-08 | 2022-05-14 |
 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 | 2022-03-05 | 2022-04-16 |
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-20 | 2022-07-16 |
@@ -138,6 +139,7 @@
 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 | 2022-08-12 |  |
 | [Envy](https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Envy](https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax) | 4:07 | 2022-05-06 | 2022-07-10 |
 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2022-07-01 | 2022-09-10 |
+| [Every Pretty Girl In The City \(feat\. King Combs\)](https://open.spotify.com/track/1VLGeLbQDpTG0subu0PaFF) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Every Pretty Girl In The City \(feat\. King Combs\)](https://open.spotify.com/album/7sKLQSkmWhvQFwb4sQMwAa) | 2:56 | 2022-12-16 |  |
 | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/track/5NyONMWLkVKu8Mcgjn20aq) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Krysten Simone](https://open.spotify.com/artist/0hn6MIbOu7wcJcTpLD5KfQ) | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/album/7yk8zzo9gYc0GvfAENJsOc) | 2:47 | 2021-12-15 | 2022-03-18 |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-02 |  |
 | [Eyes](https://open.spotify.com/track/4wtniyqqJAs8ZRmUAhy4GI) | [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Eyes](https://open.spotify.com/album/6e86wqdUXeqszz46DTgyxg) | 3:12 | 2022-03-01 | 2022-03-26 |
@@ -302,6 +304,7 @@
 | [Marvin \- A COLORS SHOW](https://open.spotify.com/track/23XcjGXBJgeb6aLDb0ctKI) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Marvin \- A COLORS SHOW](https://open.spotify.com/album/6Ellw4Bij0X79QNjWoX8dM) | 2:44 | 2022-03-18 | 2022-04-09 |
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-01 | 2022-07-16 |
 | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/track/7v27vTy3PP70lBHgfvPnKQ) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/album/5EXnj8f715BdwncOrZQ2H1) | 2:42 | 2022-03-25 | 2022-04-16 |
+| [Mine](https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Meet Me Upstrz](https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY) | 2:36 | 2022-12-16 |  |
 | [Mirage](https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3) | 3:51 | 2022-02-12 | 2022-03-26 |
 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 | 2022-07-16 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-11-27 | 2022-12-03 |
@@ -391,6 +394,7 @@
 | [Selfish](https://open.spotify.com/track/4eRLolZhYKKKPN2zTHKGK1) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Selfish](https://open.spotify.com/album/3nAxtpFfQR8GoBJ9Ic4Mqz) | 3:52 | 2022-10-14 |  |
 | [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 |  |
 | [Serial Fboy](https://open.spotify.com/track/0841LwMiMNMa6GGTBqfh7j) | [Asha Maclean](https://open.spotify.com/artist/4uo6Vevug3g8cZIDuyigcb) | [Serial Fboy](https://open.spotify.com/album/4VcIRSsRXAs7e1Xy9rxmaM) | 2:59 | 2021-12-15 | 2022-03-12 |
+| [Shady Hills](https://open.spotify.com/track/7D77gQ7oEOUks2pHwGad7M) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 2:40 | 2022-12-16 |  |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-08-19 | 2022-10-22 |
 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 | 2022-03-18 | 2022-04-29 |
 | [Shoestring](https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Shoestring](https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH) | 3:58 | 2022-03-11 | 2022-04-02 |

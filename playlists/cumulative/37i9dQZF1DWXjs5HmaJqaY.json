@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "3 DAYS AWAKE",
+        "url": "https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143892,
+      "name": "3 DAYS AWAKE",
+      "url": "https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK"
+    },
+    {
+      "album": {
         "name": "6 A.M. / Maurader",
         "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
       },
@@ -59,7 +81,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 475766,
       "name": "Andromeda Mission",
       "url": "https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3"
@@ -147,7 +169,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 467627,
       "name": "Bending The End",
       "url": "https://open.spotify.com/track/78Bj94zrq8DgvjcZffBNS7"
@@ -346,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "album": {
         "name": "Dualism",
         "url": "https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN"
       },
@@ -375,10 +415,32 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 440624,
       "name": "Echodeltaalfaxray",
       "url": "https://open.spotify.com/track/4dDCPZhr8fCiCIMKEXZYnk"
+    },
+    {
+      "album": {
+        "name": "Echodeltaalfaxray",
+        "url": "https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB"
+      },
+      "artists": [
+        {
+          "name": "Der Dritte Raum",
+          "url": "https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO"
+        },
+        {
+          "name": "AKA AKA",
+          "url": "https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334715,
+      "name": "Echodeltaalfaxray - AKA AKA Remix",
+      "url": "https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD"
     },
     {
       "album": {
@@ -879,7 +941,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 382942,
       "name": "Mad Hatter",
       "url": "https://open.spotify.com/track/1nDoesWvttKVaXzQqOEemh"
@@ -1191,7 +1253,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 499354,
       "name": "Pictureoftheday - Breitenstein Remix",
       "url": "https://open.spotify.com/track/7FwnbicTkdRzrzwWc8hkHp"
@@ -1213,7 +1275,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 434516,
       "name": "Pictureoftheday - Marco Faraone Remix",
       "url": "https://open.spotify.com/track/4VxbQKewmC9zm1qYDVx64W"
@@ -1819,6 +1881,28 @@
       "duration_ms": 349090,
       "name": "Woow One",
       "url": "https://open.spotify.com/track/2zQJxkF4ikrCpUIVAMDgsu"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6vuHAobWZhR04B3NDRdOPC"
+      },
+      "artists": [
+        {
+          "name": "Fabique",
+          "url": "https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8"
+        },
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439069,
+      "name": "You - Wankelmut Remix",
+      "url": "https://open.spotify.com/track/1UbJMShJ8K22WX3vW9FVas"
     },
     {
       "album": {

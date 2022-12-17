@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,795 likes - 327 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,204 likes - 327 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 31 | [Song for Teddy](https://open.spotify.com/track/0z4GaZaZcXdm6bFhAcSLrh) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Song for Teddy](https://open.spotify.com/album/2NOyL3zlkGmaj7Cogw5a5e) | 1:32 |
 | 32 | [Bill the Fox](https://open.spotify.com/track/7h78CM43KEjbHXU8uHXCjP) | [Wilford Ware](https://open.spotify.com/artist/5fWCtKlxGJegVWtTpHOgWv) | [Bill the Fox](https://open.spotify.com/album/0dbrJwbAwDpWyN9swRr51P) | 1:22 |
 | 33 | [Head Shoulders Knees And Toes](https://open.spotify.com/track/31V9WShUNiw0m0o0yTe9s3) | [Carter Patterson](https://open.spotify.com/artist/0Q1CgGcVi6SOYB2J16Wp22) | [Head Shoulders Knees And Toes](https://open.spotify.com/album/0tghhD3fSxuZwtplbZoMKg) | 1:51 |
-| 34 | [Grandma's Joy](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Grandma's Joy](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:00 |
+| 34 | [Lust](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Lust](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:09 |
 | 35 | [No Monsters Here](https://open.spotify.com/track/32H9k365lmxbzQekfaD9Ik) | [Florian Faerber](https://open.spotify.com/artist/0WajMfwxqxEpvc8X2cK1P2) | [No Monsters Here](https://open.spotify.com/album/3cE0uAci6D1uTs7pKs7dnJ) | 1:30 |
 | 36 | [Soothing Lullaby](https://open.spotify.com/track/7Da5CqtHViUodLZ1vpwOsO) | [Sylvan Potter](https://open.spotify.com/artist/518Vo5g5C5V56nXlJuKq8z) | [Soothing Lullaby](https://open.spotify.com/album/7baqjbPK6NkpA0t3RZIxtD) | 2:01 |
 | 37 | [Lullaby Of Autumn](https://open.spotify.com/track/5VJxYA47q2UrtkqUcW3Dwg) | [Monroe Hershey](https://open.spotify.com/artist/3DKrRxq6WNjqIxwENVSepm) | [Lullaby Of Autumn](https://open.spotify.com/album/1kE4v6KJ5CmfmMQSlrfukA) | 1:20 |

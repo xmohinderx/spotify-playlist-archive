@@ -1320,6 +1320,32 @@
     },
     {
       "album": {
+        "name": "LOS GALACTICOS Vol.1",
+        "url": "https://open.spotify.com/album/6K7m6IhpfUzMMS8OGd3ILI"
+      },
+      "artists": [
+        {
+          "name": "A. Bahena",
+          "url": "https://open.spotify.com/artist/45M9Trx3miT27vCuZNW1m8"
+        },
+        {
+          "name": "Naldo Br",
+          "url": "https://open.spotify.com/artist/48xhWmlyKv5ETSCtJb91IA"
+        },
+        {
+          "name": "Barbie beat",
+          "url": "https://open.spotify.com/artist/3XPACYhBGd2y2wX5yq4JiR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302727,
+      "name": "Modales",
+      "url": "https://open.spotify.com/track/6QN7NiSb37BDD7VGMBmCv0"
+    },
+    {
+      "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq"
       },
@@ -1879,7 +1905,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 174629,
       "name": "Termin\u00e9 Contigo",
       "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soundtrack to the internet. Cover: TiaCorine",
+  "description": "The soundtrack to the internet. Cover: Riovaz",
   "name": "Internet People",
   "published_playlist_ids": [
     "22i2vvRs1o18fCRD821qvI"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 103993,
       "name": "BAGGY",
       "url": "https://open.spotify.com/track/5WCqx3pgABaG7EQgAXStSN"
@@ -2691,7 +2691,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
@@ -2887,7 +2887,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 208539,
       "name": "Dump It Dummy (feat. 2rare)",
       "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
@@ -3612,6 +3612,28 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/6SXp7tyMpyK65xrmEq0g0y"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        },
+        {
+          "name": "TRAQULA",
+          "url": "https://open.spotify.com/artist/7ulnU80aA4UleNCZ95c4PE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146028,
+      "name": "Fuego - Remix",
+      "url": "https://open.spotify.com/track/5PSn6lZpITagw70YBnLpSZ"
+    },
+    {
+      "album": {
         "name": "Gas Station",
         "url": "https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1"
       },
@@ -4209,10 +4231,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 160000,
       "name": "HUNNED%",
       "url": "https://open.spotify.com/track/55FiPmCZvjWHzwIPiRUfMm"
+    },
+    {
+      "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/4FYkhVaVxaarWtbpPX9Ske"
+      },
+      "artists": [
+        {
+          "name": "Montana99",
+          "url": "https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149563,
+      "name": "I Can't",
+      "url": "https://open.spotify.com/track/5jnyHKyzmQ5BvJjmPFfJ25"
     },
     {
       "album": {
@@ -4253,6 +4293,28 @@
       "duration_ms": 162858,
       "name": "I Deserve (w/ NOS.)",
       "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
+    },
+    {
+      "album": {
+        "name": "DIRTIESTNASTIEST$UICIDE",
+        "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145842,
+      "name": "I Dream of Chrome",
+      "url": "https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im"
     },
     {
       "album": {
@@ -4509,7 +4571,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 136267,
       "name": "ICE AGE",
       "url": "https://open.spotify.com/track/2YKh7Af4rxbr93AWpq7QP5"
@@ -4675,7 +4737,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 117562,
       "name": "Internet Shooter",
       "url": "https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw"
@@ -5833,7 +5895,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 162196,
       "name": "miles (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
@@ -7030,6 +7092,24 @@
     },
     {
       "album": {
+        "name": "Fast & Furious: Drift Tape (Phonk Vol 1)",
+        "url": "https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121763,
+      "name": "Press It",
+      "url": "https://open.spotify.com/track/3y71AHtNzmdBOLuUFz9buu"
+    },
+    {
+      "album": {
         "name": "Prettiest Problem",
         "url": "https://open.spotify.com/album/1B2TwkqjAO0CBknczIjuRk"
       },
@@ -7812,6 +7892,24 @@
     },
     {
       "album": {
+        "name": "SISTER",
+        "url": "https://open.spotify.com/album/6KUJLBltg7mBCgrHxrrCIg"
+      },
+      "artists": [
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139717,
+      "name": "SISTER",
+      "url": "https://open.spotify.com/track/4P0tTboEco1lLH522iCvOh"
+    },
+    {
+      "album": {
         "name": "Six Flags",
         "url": "https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk"
       },
@@ -8472,6 +8570,24 @@
     },
     {
       "album": {
+        "name": "Tantrum (Pace Yourself)",
+        "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123795,
+      "name": "Tantrum (Pace Yourself)",
+      "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
+    },
+    {
+      "album": {
         "name": "TBTF",
         "url": "https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg"
       },
@@ -8813,6 +8929,24 @@
       "duration_ms": 147732,
       "name": "TrapMania (feat. Gucci Mane & Cootie)",
       "url": "https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh"
+    },
+    {
+      "album": {
+        "name": "wood tip",
+        "url": "https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw"
+      },
+      "artists": [
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169323,
+      "name": "triflin'",
+      "url": "https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS"
     },
     {
       "album": {
@@ -9303,7 +9437,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 151017,
       "name": "Why Is Everything Chrome (Lean Swag Rock Wit It)",
       "url": "https://open.spotify.com/track/0wQL4dv6dQjuiGdmJIjRCu"

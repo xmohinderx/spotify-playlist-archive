@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 192000,
       "name": "Can't Lose (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o"
@@ -632,6 +632,24 @@
     },
     {
       "album": {
+        "name": "Da Rant",
+        "url": "https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Da Rant",
+      "url": "https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 242790,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0f4Q3Akc01C02qHpqzAA2Q"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 390861,
       "name": "Heaven For Thugs (Letter to Wap)",
       "url": "https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 197446,
       "name": "Nobody (ft. Vory)",
       "url": "https://open.spotify.com/track/4XJwoV192ks89Tdd6VCpCu"
@@ -2058,6 +2076,54 @@
     },
     {
       "album": {
+        "name": "Only The Family - Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Esparo",
+          "url": "https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS"
+        },
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157135,
+      "name": "Please Breathe",
+      "url": "https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W"
+    },
+    {
+      "album": {
+        "name": "Portland 2",
+        "url": "https://open.spotify.com/album/48V6VMvomnJ47t1V0DnHvO"
+      },
+      "artists": [
+        {
+          "name": "ITS HAB",
+          "url": "https://open.spotify.com/artist/0yTmOWyk27vjls6vsyEVIV"
+        },
+        {
+          "name": "FCG Heem",
+          "url": "https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "Portland 2",
+      "url": "https://open.spotify.com/track/61I7Ajq0MfzwTtqMv2o7sI"
+    },
+    {
+      "album": {
         "name": "Private Phones",
         "url": "https://open.spotify.com/album/69WSH1VDMGXIDCZIGANJNh"
       },
@@ -2218,6 +2284,24 @@
     },
     {
       "album": {
+        "name": "The Main Bird",
+        "url": "https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Rich And Dangerous",
+      "url": "https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq"
+    },
+    {
+      "album": {
         "name": "Rich How I'm Dyin",
         "url": "https://open.spotify.com/album/5L7WF303YbVt8FUDudC5xF"
       },
@@ -2259,6 +2343,24 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "album": {
+        "name": "Kevo Muney x Lil Muney",
+        "url": "https://open.spotify.com/album/05hifYLh6LdKxKcUjobidF"
+      },
+      "artists": [
+        {
+          "name": "Kevo Muney",
+          "url": "https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160993,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/0LC77EC3n9274WTLFDtw1v"
     },
     {
       "album": {
@@ -2379,7 +2481,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 156000,
       "name": "Save The Day (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp"
@@ -2503,6 +2605,24 @@
       "duration_ms": 147400,
       "name": "Silent (feat. Blac Youngsta)",
       "url": "https://open.spotify.com/track/5A8KtfonuRHv6EHr5Ofekq"
+    },
+    {
+      "album": {
+        "name": "Only The Family - Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Hypno Carlito",
+          "url": "https://open.spotify.com/artist/0ZVsDtaeXZtLz3qyVFViX4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188670,
+      "name": "Silly Rabbit",
+      "url": "https://open.spotify.com/track/5tJcWfPRu4K4jTFc4CTvSI"
     },
     {
       "album": {
@@ -3177,7 +3297,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"

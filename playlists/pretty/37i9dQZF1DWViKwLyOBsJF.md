@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,130 likes - 58 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,251 likes - 58 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 12 | [O Tannenbaum](https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:30 |
 | 13 | [Entre le bœuf et l'âne gris \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 2:14 |
 | 14 | [Carol of the Bells \(arr\. piano\)](https://open.spotify.com/track/5FCJXbQPOgC68fpHnBgHWx) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Carol of the Bells \(arr\. piano\) / Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7) | 4:53 |
-| 15 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 |
-| 16 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 3:17 |
-| 17 | [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 |
-| 18 | [We Three Kings \- Piano/Strings](https://open.spotify.com/track/6W2PFX6g7FlbatxRneeUCK) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 3:30 |
-| 19 | [A Baby Changes Everything](https://open.spotify.com/track/7JlChhx7Srvi2bOveY2HOI) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:33 |
+| 15 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 3:17 |
+| 16 | [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 |
+| 17 | [We Three Kings \- Piano/Strings](https://open.spotify.com/track/6W2PFX6g7FlbatxRneeUCK) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 3:30 |
+| 18 | [A Baby Changes Everything](https://open.spotify.com/track/7JlChhx7Srvi2bOveY2HOI) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:33 |
+| 19 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 |
 | 20 | [I Saw Three Ships](https://open.spotify.com/track/6vT9ESh7N1SPjLfME1oLcp) | [Traditional Song](https://open.spotify.com/artist/4xpFJ59XzXnBngXKoH9Uld), [Øyen](https://open.spotify.com/artist/4An8FdoKpdHizSEaWQlqmT) | [24 Christmas Songs & Carols Gently on My Piano](https://open.spotify.com/album/4lGJils3BIt3Uv5hQpCxM2) | 1:34 |
 | 21 | [A Virgin Unspotted](https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:13 |
 | 22 | [Bring a Torch, Jeannette, Isabella](https://open.spotify.com/track/70pc6gMEd1FNs4rLfBCfm9) | [Emile Pandolfi](https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU) | [White Christmas](https://open.spotify.com/album/1s1Qgr7AKrG5ciV6uic6jh) | 2:35 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 57 | [Unto Us a Boy Is Born](https://open.spotify.com/track/185LBcu5JoC1k6wbGBVryT) | [Zach Rogers](https://open.spotify.com/artist/2SnuUdtCpixnnrut9aAsVf) | [Christmas Piano Hits \- Classic Xmas Piano Moods](https://open.spotify.com/album/4Xgbrg5lv7FMUmhBiE8KHs) | 1:39 |
 | 58 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MTY3MDIyODYxMSwwMDAwMDAwMGViYmZlNTI1Y2EyM2JjNmFlMTQyYjc3ZmUxZjNhYjhh`
+Snapshot ID: `MTY3MTIwODE1NywwMDAwMDAwMGI4NjkwMTM1ODA5Y2NhODM0YjNmNzlkOTc1NmQyZWRm`

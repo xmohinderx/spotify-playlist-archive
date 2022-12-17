@@ -1,12 +1,12 @@
 {
-  "description": "Home to all the latest indie jams. Cover: Caroline Polachek",
-  "num_followers": 154786,
+  "description": "Home to all the latest indie jams. Cover: Black Country, New Road",
+  "num_followers": 154804,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGRhMmUxNWQ3YzJhOTgzZDJhZDZhZTc1YzhkOTUxMzJh",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGRhZWZhODJjODhjYmQ0Y2JiNDk5NjRhYWY2ZWUzOTFl",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 233278,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 433360,
+      "name": "The Place Where He Inserted the Blade",
+      "url": "https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -55,6 +71,22 @@
       "duration_ms": 285050,
       "name": "Did you know that there's a tunnel under Ocean Blvd",
       "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Catch Your Eye",
+        "url": "https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -113,10 +145,26 @@
       "url": "https://open.spotify.com/track/4rQlCooK88oFN819QAduCw"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Living in the Grey",
+        "url": "https://open.spotify.com/album/03ugnHlnMTFRZBKUz7RGzN"
       },
       "artists": [
         {
@@ -124,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 199066,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
+      "duration_ms": 234560,
+      "name": "Living in the Grey",
+      "url": "https://open.spotify.com/track/1KUnVcYDSrX4VrBrEsFGYp"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -161,6 +209,22 @@
       "url": "https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "WISH ME LUCK",
+        "url": "https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 203033,
+      "name": "WISH ME LUCK",
+      "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Seventeen Going Under (Live Deluxe)",
@@ -177,6 +241,30 @@
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "All That's Left Of Me Is You",
+        "url": "https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
+        }
+      ],
+      "duration_ms": 172607,
+      "name": "All That's Left Of Me Is You",
+      "url": "https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Calabasas",
@@ -191,6 +279,22 @@
       "duration_ms": 202999,
       "name": "Calabasas",
       "url": "https://open.spotify.com/track/4bFOOkNKX9eEsCvzGpKyqZ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Miracles (alt)",
+        "url": "https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 210871,
+      "name": "Miracles3",
+      "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -225,6 +329,22 @@
       "url": "https://open.spotify.com/track/6lhhLvkwJniNGJmZ01MCtI"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Bounds",
+        "url": "https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9"
+      },
+      "artists": [
+        {
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
+        }
+      ],
+      "duration_ms": 207072,
+      "name": "Bounds",
+      "url": "https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Eyez",
@@ -255,6 +375,22 @@
       "duration_ms": 236240,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "little pieces",
+        "url": "https://open.spotify.com/album/1XlopNNks2Ec52f9TP3lbe"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "little pieces",
+      "url": "https://open.spotify.com/track/4DIaaodvgCeL94wjFyqKig"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -307,6 +443,22 @@
       "duration_ms": 182203,
       "name": "Cold Like Me",
       "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "I Feel Alive",
+        "url": "https://open.spotify.com/album/6ze8ZP0donpbrLjr0QugVo"
+      },
+      "artists": [
+        {
+          "name": "Sean Nicholas Savage",
+          "url": "https://open.spotify.com/artist/6XC2sEBXW5xqpPSbYgMnvc"
+        }
+      ],
+      "duration_ms": 157352,
+      "name": "I Feel Alive",
+      "url": "https://open.spotify.com/track/586YPMscO3EUbnlYiI7BDE"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -373,6 +525,22 @@
       "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Part Time Lovers",
+        "url": "https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 190961,
+      "name": "Part Time Lovers",
+      "url": "https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Cold Night",
@@ -389,36 +557,20 @@
       "url": "https://open.spotify.com/track/3IdvQQFTnlXhkQHc2jOn4K"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Wasted On You",
-        "url": "https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ"
+        "name": "Doesn't Really Matter",
+        "url": "https://open.spotify.com/album/0BFnuCjyfWk2EVc4hyP1Nb"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 216186,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+      "duration_ms": 132817,
+      "name": "Doesn't Really Matter",
+      "url": "https://open.spotify.com/track/2lu9ElghP2Z0IB0FB6vXAG"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -459,22 +611,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/0VG6QgJlk6saDf0KoZbIML"
-      },
-      "artists": [
-        {
-          "name": "Palmaria",
-          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1pvUilXlvXaburqYE4A8hE"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Anything But You",
         "url": "https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1"
       },
@@ -507,22 +643,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "girlfriend",
-        "url": "https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 133150,
-      "name": "girlfriend",
-      "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB"
       },
@@ -537,40 +657,20 @@
       "url": "https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Raven And The Red-Tailed Hawk",
-        "url": "https://open.spotify.com/album/68y1voli462ztXQKzDj5rA"
+        "name": "Abalone",
+        "url": "https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT"
       },
       "artists": [
         {
-          "name": "Gord Downie",
-          "url": "https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc"
-        },
-        {
-          "name": "Bob Rock",
-          "url": "https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg"
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
         }
       ],
-      "duration_ms": 278493,
-      "name": "The Raven And The Red-Tailed Hawk",
-      "url": "https://open.spotify.com/track/1Llb0fVHFFlCRHUFz7rHJd"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
+      "duration_ms": 126524,
+      "name": "Abalone",
+      "url": "https://open.spotify.com/track/4OGBU3agg96CA483Q280FP"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -815,38 +915,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The Festival",
-        "url": "https://open.spotify.com/album/6FB8Z2KMnKTKUbsZp6Qc5K"
-      },
-      "artists": [
-        {
-          "name": "Tim Baker",
-          "url": "https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq"
-        }
-      ],
-      "duration_ms": 249765,
-      "name": "The Shield",
-      "url": "https://open.spotify.com/track/5gps9XXQPo90zgo1dLztdo"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Just Fine / Achievement of Youth",
         "url": "https://open.spotify.com/album/67OC0cA9pYXrSbUAS2gdVz"
       },
@@ -859,38 +927,6 @@
       "duration_ms": 252109,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/3zIoxxvAdOIRrGvnh3EypB"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Being Somewhere",
-        "url": "https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4Db3Xcq70L7Zcdb8sFqGVL"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We're Here, My Dear",
-      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1479,22 +1515,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Safe Space",
-        "url": "https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY"
-      },
-      "artists": [
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Safe Space",
-      "url": "https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Y tu te vas",
         "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
       },
@@ -1523,22 +1543,6 @@
       "duration_ms": 283823,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/6SmgLOxqcRtC6dbZqxkcuB"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "One Of A Million",
-        "url": "https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 216255,
-      "name": "One Of A Million",
-      "url": "https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj"
     },
     {
       "added_at": "2022-12-09 05:00:00",

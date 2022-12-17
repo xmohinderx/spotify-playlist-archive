@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-277 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
+278 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Dazed](https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W) | [THREESIXTY](https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5) | [Dazed](https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp) | 3:44 | 2022-08-08 |  |
 | [De Flore Sonos](https://open.spotify.com/track/4H7KeBPS3uoUN0LymB664I) | [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y) | [De Flore Sonos](https://open.spotify.com/album/1DzXiB37ADb5ABbdegXSBN) | 3:32 | 2021-07-09 | 2022-07-22 |
 | [Deux](https://open.spotify.com/track/22X6wz63oZcPVHvrknxgkH) | [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86), [Harry Kosminski](https://open.spotify.com/artist/7bCMn3cDvGs8Ua8f2JICZa) | [Sky City Tapes](https://open.spotify.com/album/5hyW8PPTjXW7FJgGPqzEcs) | 1:44 | 2022-05-20 | 2022-07-29 |
+| [Dimitive](https://open.spotify.com/track/7rGhZMJO80BnSgeCsYdP9B) | [Stan van Dijk](https://open.spotify.com/artist/25GV3gaaXXUYzESF1TiNFS) | [Dimitive](https://open.spotify.com/album/5D9SB5fEJjndOPxg2mbKnk) | 2:13 | 2022-12-16 |  |
 | [Dirty Mariposa](https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Moonlight Love Affair](https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp) | 5:24 | 2022-06-24 |  |
 | [Distant Siren](https://open.spotify.com/track/7BarE6oFEX8WTFGk35Brqr) | [Sunda Arc](https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj) | [Distant Siren](https://open.spotify.com/album/6MLbsv7Ty01NegwBQu6Ve9) | 5:43 | 2022-09-16 | 2022-11-24 |
 | [Doppelganger](https://open.spotify.com/track/1Zj4AHgqSCwkk0eSV6urkI) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF), [QSTN](https://open.spotify.com/artist/4064K2hGMavsOltwUzVRjG) | [Trouvaille](https://open.spotify.com/album/0UQwQHWci0xsj4jeoQOsmv) | 4:00 | 2021-01-29 | 2021-12-28 |
@@ -209,7 +210,7 @@
 | [Saga of Robert and Lauryn](https://open.spotify.com/track/6wLsSF1scWTuKUCcFtsFM5) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Saga of Robert and Lauryn](https://open.spotify.com/album/46748hpUzt23YnErcLskie) | 3:36 | 2021-04-09 | 2022-07-27 |
 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 | 2022-05-20 |  |
 | [Sauce Brazil](https://open.spotify.com/track/3qoi5xFFw0UhGVAEkjkva7) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Sauce Brazil](https://open.spotify.com/album/2kIe5TGnIaLKYh0g1tIW70) | 5:06 | 2022-05-16 | 2022-07-29 |
-| [Saudade da Festa](https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [Tali Lamaison](https://open.spotify.com/artist/7DuJwh4J3waP5PYvcLmO3e) | [Saudade da Festa](https://open.spotify.com/album/40zpDaK3TFAP53BtRM2Eqo) | 2:57 | 2021-03-26 |  |
+| [Saudade da Festa](https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [Tali Lamaison](https://open.spotify.com/artist/7DuJwh4J3waP5PYvcLmO3e) | [Saudade da Festa](https://open.spotify.com/album/40zpDaK3TFAP53BtRM2Eqo) | 2:57 | 2021-03-26 | 2022-12-17 |
 | [Seventh Wonder](https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Seventh Wonder](https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM) | 3:27 | 2022-09-02 | 2022-11-21 |
 | [Shift \(Mike Casey Remix\)](https://open.spotify.com/track/5FeU23ci1PjYzwg2vC3vUG) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Shift \(Mike Casey Remix\)](https://open.spotify.com/album/1xCJZNGDVgVTpz5NeEhtcP) | 2:24 | 2021-04-16 | 2022-07-19 |
 | [Shop FUNKY Flights](https://open.spotify.com/track/190WVA0VoDoVVmavzcEJXd) | [Joshua Morse](https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Chip Funk](https://open.spotify.com/album/2VL5DyZNpV6Ube1FiRYfTH) | 2:58 | 2022-08-12 | 2022-11-29 |

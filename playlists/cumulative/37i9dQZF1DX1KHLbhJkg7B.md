@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-277 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+278 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2021-12-10 |  |
 | [Drivers License](https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:22 | 2021-12-10 | 2022-11-13 |
 | [Dust on the Bottle](https://open.spotify.com/track/6IN6nAjQcLXtT1ToYrUzU9) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Pops 90's Country Weekend Mixtape](https://open.spotify.com/album/3Bf6b12SWWeLPaiYgIczCM) | 3:52 | 2022-03-25 | 2022-06-08 |
-| [East Bound And Down](https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [East Bound And Down](https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe) | 2:57 | 2021-12-10 |  |
+| [East Bound And Down](https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [East Bound And Down](https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe) | 2:57 | 2021-12-10 | 2022-12-17 |
 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 | 2022-03-25 |  |
 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/62q6KjbWuCZitSsWve9NNq) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [Every Which Way but Loose \- Friends and Heroes Session](https://open.spotify.com/track/2d94Il3qGrgAsv2m81S5u1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Every Which Way but Loose \(Friends and Heroes Session\)](https://open.spotify.com/album/4BuXZWzkJVMltc1ip4yorP) | 3:28 | 2021-12-10 | 2022-07-24 |
@@ -217,6 +217,7 @@
 | [Something Like That \- Pop Punk Cover](https://open.spotify.com/track/75xmRzTOaSrldjcTcimQdE) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA), [Ryan Scott Graham](https://open.spotify.com/artist/4goa0eLNaGxDcbhVcG7KM3) | [Something Like That / Secrets](https://open.spotify.com/album/0VtreAEeBIYvfIeSima8Bq) | 3:01 | 2022-03-25 | 2022-04-21 |
 | [Spanish Eyes \(with Willie Nelson\)](https://open.spotify.com/track/7spZfheSLhzlsT9D5lZgkg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [What A Wonderful World](https://open.spotify.com/album/3hP05skXXuQthotNtFrexa) | 3:33 | 2022-03-25 | 2022-04-19 |
 | [Sparks Fly](https://open.spotify.com/track/5vdvzc4drsamBYXaSF8l5u) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Sparks Fly](https://open.spotify.com/album/4zprx6Kbn9U7ca2JxakMxh) | 4:21 | 2022-03-25 | 2022-07-26 |
+| [Stand By Your Man](https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp) | [Jessica Chastain](https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF), [Michael Shannon](https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89) | [George & Tammy \(Original Series Soundtrack\)](https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT) | 2:45 | 2022-12-16 |  |
 | [Stay](https://open.spotify.com/track/2WS83LPXX6angsFsmUHies) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Stay](https://open.spotify.com/album/4RQynGVaqBsnvntk8Dap5r) | 4:48 | 2022-03-25 | 2022-04-15 |
 | [Stay](https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n) | 3:45 | 2022-07-29 |  |
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-04-15 | 2022-07-12 |

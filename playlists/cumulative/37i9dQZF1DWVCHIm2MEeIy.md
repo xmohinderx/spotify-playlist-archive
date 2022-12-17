@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-256 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
+257 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Athena](https://open.spotify.com/track/1RexdlwR5kbbzyQf4F3P5Y) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Dude EP](https://open.spotify.com/album/6445ilfquVMyJ09G3fLao7) | 6:56 | 2022-04-15 | 2022-07-13 |
 | [Atta Boys](https://open.spotify.com/track/2wYFv86T6BwOa9brHLbzrp) | [Andreas Henneberg](https://open.spotify.com/artist/32fCH0Z7B8ydcz40ybZdqg) | [Atta Boys](https://open.spotify.com/album/7ympEFSlm3AamH2UVxElfM) | 6:26 | 2022-04-15 | 2022-07-10 |
 | [Attaché \(Edit\)](https://open.spotify.com/track/0gG9nJ5flFX2qpzvp17ApI) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [DJ AroZe](https://open.spotify.com/artist/3CVkZk7wFCAjVfOiiAQaaN) | [Attaché \(Edit\)](https://open.spotify.com/album/0MsjUWG71j16XmrjzVdgfG) | 4:33 | 2022-04-15 | 2022-07-19 |
-| [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 | 2022-04-15 |  |
+| [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 | 2022-04-15 | 2022-12-17 |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-04-15 |  |
 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 | 2022-11-26 |  |
 | [Berlin Rhapsody](https://open.spotify.com/track/0qulQWo8lgciSrsr0ibNwy) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE) | [Ada](https://open.spotify.com/album/5Pa8ePQBOTjnBIKPB4QUY8) | 7:17 | 2022-05-20 | 2022-07-15 |
@@ -50,6 +50,7 @@
 | [Chiron](https://open.spotify.com/track/0877TW41INgRxwCBIhLwGm) | [Franca](https://open.spotify.com/artist/0T9mocL0H8qcDBnmJVc1gC) | [10 Years URSL \- INAYACHI](https://open.spotify.com/album/4oQax9hZ8Wmnc0GKP1qDgX) | 7:39 | 2022-04-15 | 2022-07-29 |
 | [Cocobolo](https://open.spotify.com/track/7Ac8bqsRr34uJZmNDHqy8N) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [Cocobolo](https://open.spotify.com/album/6ZubdaQhIB94oOnBMC3W3J) | 6:04 | 2022-04-15 | 2022-05-24 |
 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/6fxVUbJy29bvtfqUm94y5b) | 4:06 | 2022-04-15 | 2022-07-29 |
+| [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 | 2022-11-14 |  |
 | [Come Back Around \- Maya Jane Coles Remix](https://open.spotify.com/track/4n2gEtt5HWKGERlbGDj3Dz) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Come Back Around \(Maya Jane Coles Remix\)](https://open.spotify.com/album/3WCQXG4uUxlKMXzYGCwkWI) | 3:42 | 2022-04-15 | 2022-07-28 |
 | [Confide \(Contour 1\)](https://open.spotify.com/track/6q4NIJH9q9qXmjQtUBnGpM) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Confide \(Contour 1\)](https://open.spotify.com/album/1NXbRThuLLae8FHXkL4tgq) | 6:41 | 2022-09-30 | 2022-10-19 |
 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 | 2022-06-24 |  |

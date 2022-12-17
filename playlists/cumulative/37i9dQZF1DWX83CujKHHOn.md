@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-325 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+327 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2022-08-05 | 2022-09-24 |
 | [Crying in the Rain](https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Crying in the Rain](https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U) | 2:35 | 2022-03-04 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-02-02 |  |
-| [Darling](https://open.spotify.com/track/55Fs8h2Ui6YQZEFNaM7MdC) | [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr) | [Darling](https://open.spotify.com/album/3aknQm0iQILXnKPYSwCBlX) | 3:47 | 2021-12-06 |  |
+| [Darling](https://open.spotify.com/track/55Fs8h2Ui6YQZEFNaM7MdC) | [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr) | [Darling](https://open.spotify.com/album/3aknQm0iQILXnKPYSwCBlX) | 3:47 | 2021-12-06 | 2022-12-17 |
 | [Dear No One](https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Foreword](https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD) | 3:17 | 2021-12-06 |  |
 | [December](https://open.spotify.com/track/2GC4425uv5kHJzTueFnzlW) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/1H7DjGJfEFlMf9yHdithDa) | 4:20 | 2021-12-06 | 2022-07-29 |
 | [Dionne](https://open.spotify.com/track/2lKVd2seyW6OUlMtdPaG5H) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Dionne](https://open.spotify.com/album/0QHRQl3t7U9f0WDcNAbGMY) | 3:41 | 2021-12-06 | 2022-07-29 |
@@ -120,6 +120,7 @@
 | [I Feel Nothing](https://open.spotify.com/track/3ZSfV96QUPfBrVgeGGVlTz) | [Stefan Hjort](https://open.spotify.com/artist/2LxJgk9hfxaOFWTZRfV9kR) | [I Feel Nothing](https://open.spotify.com/album/39qmg94F46V2HwyXEb6LH9) | 3:26 | 2022-01-05 | 2022-07-28 |
 | [I Found \- Acoustic](https://open.spotify.com/track/3i7Iyc932rv1AZz7gl7dj8) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Pilot EP](https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB) | 4:19 | 2021-12-06 |  |
 | [I Get Lonely](https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:17 | 2022-09-02 | 2022-09-17 |
+| [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-12-16 |  |
 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 | 2021-12-06 |  |
 | [i hate you for this](https://open.spotify.com/track/4pVqrsykRGIyicylgR2gIx) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i hate you for this](https://open.spotify.com/album/483ZvZXLixgFx8hqyyp3Mf) | 2:17 | 2021-12-06 |  |
 | [I Have Nothing](https://open.spotify.com/track/5pToiT0Ux6xlNk9MYG5r3I) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Sad Songs](https://open.spotify.com/album/7izeaWTIMPh2kLE1htv4bQ) | 4:47 | 2022-01-05 | 2022-04-21 |
@@ -163,7 +164,7 @@
 | [Liar](https://open.spotify.com/track/4BokCZjL92n7h7Q1OaTGPf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Liar](https://open.spotify.com/album/0fsUSRF3oFrbX5KKuuVg9M) | 3:56 | 2021-12-06 | 2022-11-13 |
 | [Life Of The Party](https://open.spotify.com/track/6L6ra9mTlyQPmh7zGw58y1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Life Of The Party](https://open.spotify.com/album/4lAY3liGb0uX8O8pTjZyOl) | 3:34 | 2021-12-06 | 2022-07-29 |
 | [Life Of The Party](https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:34 | 2022-07-08 |  |
-| [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 | 2021-12-06 |  |
+| [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 | 2021-12-06 | 2022-12-17 |
 | [Little Waltz](https://open.spotify.com/track/55hcquIzoHMMS7e9qKYxLy) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Oh, My Darling \(US Standard Edition\)](https://open.spotify.com/album/3QF8mwjOebSxBKTdg9zPDL) | 2:54 | 2022-01-05 | 2022-04-21 |
 | [Loneliness](https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi) | [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd) | [Loneliness](https://open.spotify.com/album/0UJpeok7iX154IgLHvezYa) | 4:46 | 2021-12-06 | 2022-07-28 |
 | [Lonely](https://open.spotify.com/track/1UGMu0Tf5nmKoYIPPztbQQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya) | 3:55 | 2022-09-16 |  |
@@ -186,6 +187,7 @@
 | [Love Story](https://open.spotify.com/track/1JR0kZfJpeNPJKo4HhdQJP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story](https://open.spotify.com/album/28Nq4AiAa0BW54KGWYFxot) | 3:54 | 2021-12-06 | 2022-01-13 |
 | [Love You From a Distance](https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [One Eighty](https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu) | 3:24 | 2022-07-08 |  |
 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 | 2021-12-06 | 2022-07-29 |
+| [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2022-12-16 |  |
 | [Maybe It Was Me](https://open.spotify.com/track/0dlTFvu6sfzEenCh2IAPmu) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Maybe It Was Me](https://open.spotify.com/album/2SQwOrBSBV5cOaXA39ALrP) | 2:59 | 2021-12-06 |  |
 | [memories](https://open.spotify.com/track/2MZwipRl9tCBcsHNA0qBWZ) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [memories](https://open.spotify.com/album/4NMzBBnbxwKcifgnqdqqnA) | 3:54 | 2022-04-11 | 2022-04-21 |
 | [Misunderstood](https://open.spotify.com/track/1wiw9ZdiSm3PZfdZqCzb0A) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/6dyVIZIzfEgDXR4GmnyHvE) | 3:18 | 2021-12-06 | 2022-06-24 |

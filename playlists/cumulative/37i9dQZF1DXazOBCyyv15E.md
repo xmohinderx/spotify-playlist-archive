@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Ben Gregory
 
-1,220 songs - 3 day 0 hr 23 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,221 songs - 3 day 0 hr 27 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,7 +882,8 @@
 | [Remind You](https://open.spotify.com/track/3ujPhHwu1MYWjLZCmJWKRB) | [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Remind You](https://open.spotify.com/album/4ZIZePp7lNPCHuRgLuASiF) | 3:48 | 2021-01-15 | 2021-02-26 |
 | [Reprise](https://open.spotify.com/track/3CCH5hi83YlSBs484oAwPg) | [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Reprise](https://open.spotify.com/album/3poyf0yUBg4It6UWIvl0cx) | 4:37 | 2021-11-12 | 2022-02-04 |
 | [Rhetorical Figure](https://open.spotify.com/track/1MgnKMohBBLMyHKAIor2HV) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Boy from Michigan](https://open.spotify.com/album/5NQjznG8qdcW1Hhz7VxESD) | 3:58 | 2021-07-04 | 2021-09-10 |
-| [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-22 |  |
+| [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-22 | 2022-12-17 |
+| [rid of me](https://open.spotify.com/track/42rzGiopJljAAAPqS9zEnx) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 3:37 | 2022-12-16 |  |
 | [Ride](https://open.spotify.com/track/6lP9Qnk5KPec2KXZAjic9T) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Ride](https://open.spotify.com/album/6y4uhFOzZuGeaYajfyjpBh) | 4:24 | 2022-04-14 | 2022-07-08 |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-18 | 2022-04-15 |
 | [Right on time \- Metronomy x Haich Ber Na](https://open.spotify.com/track/09TRyqEYRtTkhbzjsqrGej) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [Small World \(Special Edition\)](https://open.spotify.com/album/6uA27brKsNOywUHo3dUwpM) | 3:21 | 2022-12-02 |  |

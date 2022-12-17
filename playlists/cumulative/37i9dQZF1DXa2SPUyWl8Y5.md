@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-330 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+331 songs - 1 day 12 hr 53 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Finding Atlantis](https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 4:27 | 2022-09-30 |  |
 | [Finja](https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Finja](https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg) | 3:38 | 2021-10-30 |  |
 | [Flare](https://open.spotify.com/track/0XFCi1IecC9XgYyzCPVTvM) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Flare](https://open.spotify.com/album/4UsTAehprzeNMHUo9Xj1pQ) | 7:45 | 2019-05-26\* | 2021-05-08 |
-| [Flight Into the Void](https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Flight Into the Void EP](https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU) | 6:46 | 2020-10-03 |  |
+| [Flight Into the Void](https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Flight Into the Void EP](https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU) | 6:46 | 2020-10-03 | 2022-12-17 |
 | [Focus](https://open.spotify.com/track/1HaVfkvL5C9qawPtddY9Te) | [Josh Vincenzo](https://open.spotify.com/artist/07GItQymCRG6KtK8CkdA6M) | [Focus](https://open.spotify.com/album/6v1UjKBN5QZN9xen1xVITr) | 8:03 | 2019-05-31 | 2020-01-22 |
 | [Fog Machine](https://open.spotify.com/track/2snwKumReim2X6uXKqGdJk) | [Christian Bachmann](https://open.spotify.com/artist/3cC9tvQ67NMjZqx0FPnYd1) | [Fog Machine](https://open.spotify.com/album/1xog2VlmJgIheNweioMR9G) | 6:23 | 2019-05-26\* | 2021-05-28 |
 | [Forsaken Dream \- Extended Mix](https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude \(Extended Mixes\)](https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1) | 5:56 | 2022-09-30 |  |
@@ -248,6 +248,7 @@
 | [Raven](https://open.spotify.com/track/5mWIDc1qe2JeFgagKcCwlN) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Spectre](https://open.spotify.com/album/4CC88awM6ljOoXXoxczDtZ) | 6:35 | 2019-06-22 | 2019-11-09 |
 | [Ray](https://open.spotify.com/track/1W34fm437pe2u3mWBpGyx0) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Ray](https://open.spotify.com/album/0M3SzXbojNxKF8QoXx2ImR) | 6:32 | 2019-05-26\* | 2019-12-18 |
 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 | 2021-01-18 |  |
+| [Red Planet](https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz) | 9:30 | 2022-09-30 |  |
 | [Red Planet](https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx) | 9:30 | 2019-07-20 | 2022-11-18 |
 | [Reflection](https://open.spotify.com/track/2bmvyGjBwhjIqTNkMKYjrg) | [The Organism](https://open.spotify.com/artist/2ZbM7ypKR8jIF6sfyI54Kz) | [Perfect Strangers](https://open.spotify.com/album/1ocIKNd1qdeCHlv9dXQJjG) | 8:12 | 2019-06-22 | 2019-11-09 |
 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 | 2021-07-12 |  |

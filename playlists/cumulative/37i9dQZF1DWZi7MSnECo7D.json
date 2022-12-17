@@ -3354,6 +3354,28 @@
     },
     {
       "album": {
+        "name": "n\u00e3o posso ficar (pra sempre)",
+        "url": "https://open.spotify.com/album/3xaJvamcwjwwE51yIzVIRh"
+      },
+      "artists": [
+        {
+          "name": "camilobers",
+          "url": "https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO"
+        },
+        {
+          "name": "the.lazyb",
+          "url": "https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "n\u00e3o posso ficar (pra sempre)",
+      "url": "https://open.spotify.com/track/4xPYZzsyMbNTJISnGNRLnQ"
+    },
+    {
+      "album": {
         "name": "Crashes n' Crushes",
         "url": "https://open.spotify.com/album/5EVeip4LayRSxsJoIKXmKr"
       },
@@ -3557,7 +3579,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 157781,
       "name": "O Sol e a Lua",
       "url": "https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe"

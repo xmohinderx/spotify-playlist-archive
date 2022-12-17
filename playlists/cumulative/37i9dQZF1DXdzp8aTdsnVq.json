@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Churo D\u00edaz y El\u00edas Mendoza",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Diomedes D\u00edaz",
   "name": "Lo + del Vallenato",
   "published_playlist_ids": [
     "5DUAgqOUAUpm54q7WTV3qb"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 209042,
       "name": "Amor de Pap\u00e1",
       "url": "https://open.spotify.com/track/1azxbMS6WW6s00552wlN1d"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 295286,
       "name": "Caja de Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5tVTnPMM8xuaxDHeqnt6Zh"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 260049,
       "name": "Feliz Aniversario",
       "url": "https://open.spotify.com/track/5OTmOskSgLB3ZfH6mBL9gE"
@@ -787,6 +787,28 @@
       "duration_ms": 203809,
       "name": "La Solter\u00eda",
       "url": "https://open.spotify.com/track/4i7LiTgRjxjlf8PMwRpxEy"
+    },
+    {
+      "album": {
+        "name": "Las Que Faltaban",
+        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274546,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
     },
     {
       "album": {
@@ -1045,6 +1067,28 @@
       "duration_ms": 194050,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/6QaSczCtX0qhnsuhwTj3D2"
+    },
+    {
+      "album": {
+        "name": "M\u00e9tete en el Viaje",
+        "url": "https://open.spotify.com/album/4LvRWqfbUBfqyighpXs3Fm"
+      },
+      "artists": [
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        },
+        {
+          "name": "Tuto L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234260,
+      "name": "M\u00e9tete en el Viaje",
+      "url": "https://open.spotify.com/track/4iraYjp8zy8JG4KFptSWFo"
     },
     {
       "album": {

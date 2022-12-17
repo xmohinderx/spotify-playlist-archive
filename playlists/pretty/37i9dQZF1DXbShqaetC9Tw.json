@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 75947,
+  "num_followers": 76033,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA3ODc2MiwwMDAwMDAwMDhhYTBiNjFkZmE0ODViNjdlZWEyOTQ2ODE5YmJiZGVl",
+  "snapshot_id": "MTY3MTA3ODc2MiwwMDAwMDAwMGYzNDdkMDJhMzQwM2Q1YzE3MWE0MWU3NmM3MzMxNGY2",
   "tracks": [
     {
       "added_at": "2022-12-07 02:48:03",
@@ -809,20 +809,24 @@
       "url": "https://open.spotify.com/track/0CSfu5jtIJAoSMn1Y6ktL3"
     },
     {
-      "added_at": "2022-12-07 02:48:03",
+      "added_at": "2022-12-17 00:32:16",
       "album": {
-        "name": "Don't Be Blue",
-        "url": "https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk"
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
       "artists": [
         {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 183296,
-      "name": "Don't Be Blue",
-      "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2022-12-07 02:48:03",
@@ -839,6 +843,22 @@
       "duration_ms": 185169,
       "name": "Chrome Hearts",
       "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
+    },
+    {
+      "added_at": "2022-12-07 02:48:03",
+      "album": {
+        "name": "Don't Be Blue",
+        "url": "https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Don't Be Blue",
+      "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
     },
     {
       "added_at": "2022-12-07 02:48:03",
@@ -871,22 +891,6 @@
       "duration_ms": 173080,
       "name": "Mliy",
       "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
-    },
-    {
-      "added_at": "2022-12-07 02:48:03",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

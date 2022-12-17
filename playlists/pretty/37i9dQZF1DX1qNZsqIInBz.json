@@ -1,13 +1,29 @@
 {
   "description": "smooth drifting only",
-  "num_followers": 25372,
+  "num_followers": 25830,
   "original_name": "cosmic phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2OTU5OSwwMDAwMDAwMDZjMTZlMzBmMWU2NDc3MDNmOTBlNGQyNWE1NDhiNzky",
+  "snapshot_id": "MTY3MTE3OTA4NSwwMDAwMDAwMDFmNjhmOTMxN2JiMmQ3NWE1M2ViMWRkNmRhYmZjMDZl",
   "tracks": [
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "Dream Space",
+        "url": "https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "Dream Space",
+      "url": "https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18"
+    },
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
@@ -81,6 +97,26 @@
       "url": "https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1"
     },
     {
+      "added_at": "2022-12-16 08:24:45",
+      "album": {
+        "name": "Aria Math",
+        "url": "https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh"
+      },
+      "artists": [
+        {
+          "name": "bxkq",
+          "url": "https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW"
+        },
+        {
+          "name": "HARDX",
+          "url": "https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn"
+        }
+      ],
+      "duration_ms": 245484,
+      "name": "Aria Math",
+      "url": "https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd"
+    },
+    {
       "added_at": "2022-10-10 09:32:17",
       "album": {
         "name": "End of the World",
@@ -97,36 +133,56 @@
       "url": "https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH"
     },
     {
-      "added_at": "2022-12-09 07:06:39",
+      "added_at": "2022-11-11 07:01:59",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/5jQNBxuQV1LK4SsVuqX78Z"
+        "name": "Dark Mercer",
+        "url": "https://open.spotify.com/album/6GMEh5mGT9CVyXO3TFo8EU"
       },
       "artists": [
         {
-          "name": "VOLT VISION",
-          "url": "https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K"
+          "name": "5l33p",
+          "url": "https://open.spotify.com/artist/1JjSBnVH2QnmXFBmaIGdjq"
         }
       ],
-      "duration_ms": 120560,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/5ZTwRO2Yy2ardUblJsVSAA"
+      "duration_ms": 158419,
+      "name": "Dark Mercer",
+      "url": "https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1"
     },
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "Dream Space",
-        "url": "https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X"
+        "name": "Blow With The Hoe",
+        "url": "https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk"
       },
       "artists": [
         {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+          "name": "Falxce",
+          "url": "https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk"
         }
       ],
-      "duration_ms": 171466,
-      "name": "Dream Space",
-      "url": "https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18"
+      "duration_ms": 91976,
+      "name": "Blow With The Hoe",
+      "url": "https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "NIGHT RIDE",
+        "url": "https://open.spotify.com/album/0NaK3ZZFCdGpydTOBgfhDQ"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        },
+        {
+          "name": "BLESSED MANE",
+          "url": "https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "NIGHT RIDE",
+      "url": "https://open.spotify.com/track/5l5b7TnBr5naVGNZq7SPca"
     },
     {
       "added_at": "2022-11-18 04:01:00",
@@ -151,42 +207,6 @@
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "NIGHT RIDE",
-        "url": "https://open.spotify.com/album/0NaK3ZZFCdGpydTOBgfhDQ"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "BLESSED MANE",
-          "url": "https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "NIGHT RIDE",
-      "url": "https://open.spotify.com/track/5l5b7TnBr5naVGNZq7SPca"
-    },
-    {
-      "added_at": "2022-11-11 07:01:59",
-      "album": {
-        "name": "Dark Mercer",
-        "url": "https://open.spotify.com/album/6GMEh5mGT9CVyXO3TFo8EU"
-      },
-      "artists": [
-        {
-          "name": "5l33p",
-          "url": "https://open.spotify.com/artist/1JjSBnVH2QnmXFBmaIGdjq"
-        }
-      ],
-      "duration_ms": 158419,
-      "name": "Dark Mercer",
-      "url": "https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/4B9PcrMKaJupfqKvko3pYv"
       },
@@ -199,6 +219,62 @@
       "duration_ms": 173399,
       "name": "Omega",
       "url": "https://open.spotify.com/track/6yzDgOc9gruRxmaaiVsBy1"
+    },
+    {
+      "added_at": "2022-12-09 07:06:39",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5jQNBxuQV1LK4SsVuqX78Z"
+      },
+      "artists": [
+        {
+          "name": "VOLT VISION",
+          "url": "https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K"
+        }
+      ],
+      "duration_ms": 120560,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/5ZTwRO2Yy2ardUblJsVSAA"
+    },
+    {
+      "added_at": "2022-11-25 08:27:49",
+      "album": {
+        "name": "OBLIVION",
+        "url": "https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "HOSPICEMANE",
+          "url": "https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm"
+        }
+      ],
+      "duration_ms": 192012,
+      "name": "OBLIVION",
+      "url": "https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9"
+    },
+    {
+      "added_at": "2022-12-16 08:24:45",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/5aF2aTHcRscFUK1OaCLtGF"
+      },
+      "artists": [
+        {
+          "name": "LXST CXNTURY",
+          "url": "https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp"
+        },
+        {
+          "name": "Kingpin Skinny Pimp",
+          "url": "https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/6Lbn2QM3tyxPj4fQsCU0mk"
     },
     {
       "added_at": "2022-11-18 04:01:00",
@@ -219,22 +295,6 @@
       "duration_ms": 143292,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "Blow With The Hoe",
-        "url": "https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk"
-      },
-      "artists": [
-        {
-          "name": "Falxce",
-          "url": "https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk"
-        }
-      ],
-      "duration_ms": 91976,
-      "name": "Blow With The Hoe",
-      "url": "https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -289,26 +349,6 @@
       "url": "https://open.spotify.com/track/6ZbpaHInXckaSUDiGDCwHX"
     },
     {
-      "added_at": "2022-11-25 08:27:49",
-      "album": {
-        "name": "OBLIVION",
-        "url": "https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "HOSPICEMANE",
-          "url": "https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm"
-        }
-      ],
-      "duration_ms": 192012,
-      "name": "OBLIVION",
-      "url": "https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9"
-    },
-    {
       "added_at": "2022-10-10 09:32:17",
       "album": {
         "name": "Born to Fly",
@@ -323,6 +363,26 @@
       "duration_ms": 172800,
       "name": "Born to Fly",
       "url": "https://open.spotify.com/track/4o0g3KtUbz0nxSmH93RggE"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "nightexpress",
+        "url": "https://open.spotify.com/album/0306P7Fec99VYmoSguS97S"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0"
+        },
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 160870,
+      "name": "nightexpress",
+      "url": "https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK"
     },
     {
       "added_at": "2022-12-02 07:19:53",
@@ -395,26 +455,6 @@
       "duration_ms": 168669,
       "name": "\u041f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043c\u0435\u0447\u0442\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/7LmeYVqtNa5FUxLK2Iyam8"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "nightexpress",
-        "url": "https://open.spotify.com/album/0306P7Fec99VYmoSguS97S"
-      },
-      "artists": [
-        {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0"
-        },
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        }
-      ],
-      "duration_ms": 160870,
-      "name": "nightexpress",
-      "url": "https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -649,6 +689,26 @@
       "url": "https://open.spotify.com/track/006xxgBdSswgtgXOks59u4"
     },
     {
+      "added_at": "2022-12-16 08:24:45",
+      "album": {
+        "name": "nightriders",
+        "url": "https://open.spotify.com/album/0WvOrokciCcRELMBURq18R"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Wilee",
+          "url": "https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r"
+        }
+      ],
+      "duration_ms": 122020,
+      "name": "nightriders",
+      "url": "https://open.spotify.com/track/1bbnzRWj8vuOBQmoHFfqOg"
+    },
+    {
       "added_at": "2022-10-10 09:32:17",
       "album": {
         "name": "CRESTA LA CULTURA, Vol.1",
@@ -711,6 +771,22 @@
       "duration_ms": 153682,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/3o97gI0SFNTqzhPAXpxkGD"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B"
+      },
+      "artists": [
+        {
+          "name": "CYREX",
+          "url": "https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy"
+        }
+      ],
+      "duration_ms": 196673,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba"
     },
     {
       "added_at": "2022-12-09 07:06:39",
@@ -1171,22 +1247,6 @@
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "LAST SUMMER",
-        "url": "https://open.spotify.com/album/31TdY8uhStMWgpSFGYfAXz"
-      },
-      "artists": [
-        {
-          "name": "7ACE",
-          "url": "https://open.spotify.com/artist/66ymtDmx7RDJ6qoIflhBBj"
-        }
-      ],
-      "duration_ms": 145211,
-      "name": "LAST SUMMER",
-      "url": "https://open.spotify.com/track/18HmibGhzrtpOJjF7shVvB"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
         "name": "SUICIDE YEAR",
         "url": "https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1"
       },
@@ -1255,22 +1315,6 @@
       "duration_ms": 164164,
       "name": "Lost Generation",
       "url": "https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -1349,20 +1393,24 @@
       "url": "https://open.spotify.com/track/6J3RFzkd1gacuycGdj8V2s"
     },
     {
-      "added_at": "2022-10-10 09:32:17",
+      "added_at": "2022-12-16 08:24:45",
       "album": {
-        "name": "RENEGADE",
-        "url": "https://open.spotify.com/album/5N93SkOr64iOa2bwsf5oyr"
+        "name": "EMPHASIS",
+        "url": "https://open.spotify.com/album/5uc8aObzf0BH3nkv9wbSy1"
       },
       "artists": [
         {
-          "name": "Send 1",
-          "url": "https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV"
+          "name": "Lxght \u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/1jRut00RsTU5L8nJ7imTr9"
+        },
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
         }
       ],
-      "duration_ms": 208636,
-      "name": "RENEGADE",
-      "url": "https://open.spotify.com/track/6Yap10AMYjIDgRXLUcH1pt"
+      "duration_ms": 194787,
+      "name": "EMPHASIS",
+      "url": "https://open.spotify.com/track/33wy9ENUVmxzSVUuMFCKD3"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -1419,22 +1467,6 @@
       "duration_ms": 192000,
       "name": "South",
       "url": "https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "AFTERLIFE",
-        "url": "https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B"
-      },
-      "artists": [
-        {
-          "name": "CYREX",
-          "url": "https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy"
-        }
-      ],
-      "duration_ms": 196673,
-      "name": "AFTERLIFE",
-      "url": "https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -1683,22 +1715,6 @@
       "duration_ms": 192080,
       "name": "BEAT EM DOWN",
       "url": "https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "CULTURE OF FUTURITY",
-        "url": "https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF"
-      },
-      "artists": [
-        {
-          "name": "ETERNVL SVDNESS",
-          "url": "https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg"
-        }
-      ],
-      "duration_ms": 169248,
-      "name": "MUSEUM OF THE VOID",
-      "url": "https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT"
     },
     {
       "added_at": "2022-10-10 09:32:17",

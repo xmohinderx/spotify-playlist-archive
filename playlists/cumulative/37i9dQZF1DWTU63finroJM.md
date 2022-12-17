@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Rhove.
 
-896 songs - 2 day 2 hr 12 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+897 songs - 2 day 2 hr 16 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,8 @@
 | [Niets Tussen](https://open.spotify.com/track/5B2rTalh9FgvRftIZjmgbr) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Niets Tussen](https://open.spotify.com/album/6aFXnH4IkN4gs1Cste4EDF) | 2:59 | 2022-03-24 | 2022-08-02 |
 | [Nieładnie](https://open.spotify.com/track/5pPTUPUIFvhyWu5TbZ6D20) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Nieładnie](https://open.spotify.com/album/5QZejYOe9bw9EOJdmVgYhB) | 2:50 | 2022-04-07 | 2022-04-20 |
 | [Night Ride](https://open.spotify.com/track/054yWLQFJCISgsQxoTRKQK) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Night Ride](https://open.spotify.com/album/6aPgOliwsFfTbupVxZOIsS) | 2:32 | 2022-06-29 | 2022-08-02 |
-| [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 | 2022-12-02 |  |
+| [Nirvana](https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 3:31 | 2022-12-02 |  |
+| [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 | 2022-12-02 | 2022-12-17 |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-03-24 | 2022-04-16 |
 | [No Good 4 U](https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [No Good 4 U](https://open.spotify.com/album/4haWEqgtjW3G4DXXJBnNn4) | 2:15 | 2022-11-25 |  |
 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-02-03 |  |

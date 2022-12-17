@@ -4,7 +4,7 @@
 
 > Brand new music from Little Simz \(pictured\), Tom Grennan, Central Cee and more!
 
-999 songs - 2 day 6 hr 10 min - not published yet
+1,002 songs - 2 day 6 hr 21 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 | 2022-10-28 | 2022-11-04 |
 | [Balance](https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn) | 3:34 | 2022-12-09 | 2022-12-16 |
 | [Ballin](https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ballin](https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE) | 2:56 | 2022-11-04 | 2022-11-11 |
-| [Bask In Blue](https://open.spotify.com/track/37g4x1ygVPtYPzL1Yx4Yap) | [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Rising](https://open.spotify.com/album/3mZOTrdYFtWlTumx02FWJt) | 3:56 | 2022-12-16 |  |
+| [Bask In Blue](https://open.spotify.com/track/37g4x1ygVPtYPzL1Yx4Yap) | [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Rising](https://open.spotify.com/album/3mZOTrdYFtWlTumx02FWJt) | 3:56 | 2022-12-16 | 2022-12-17 |
+| [Bask In Blue](https://open.spotify.com/track/4S0NbY3smrLh6y4aI4vso5) | [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Rising](https://open.spotify.com/album/6lAzaD9Byngttsw9hfwWkA) | 3:56 | 2022-12-16 |  |
 | [Battle Cry](https://open.spotify.com/track/6Jfk5PbrveKNjLucRcV4MO) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Battle Cry](https://open.spotify.com/album/7d0iXsc4DMZCf6vYHXbIH2) | 3:11 | 2022-11-18 | 2022-11-25 |
 | [Be True](https://open.spotify.com/track/1ZuWe8aDRKxIjzYie8Lofl) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Be True](https://open.spotify.com/album/4Sb7yfOSOW4eY5Puntz7Qs) | 4:25 | 2022-11-25 | 2022-12-02 |
 | [Beautiful Morning](https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Beautiful Morning](https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL) | 3:07 | 2022-10-28 | 2022-11-04 |
@@ -533,6 +534,7 @@
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2022-12-09 |
 | [M1 Impulse](https://open.spotify.com/track/3D0Iy3NlwT9HosJudFISeU) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [M1 Impulse](https://open.spotify.com/album/0GarBJ7qVEoxu9jD8PlqAq) | 3:56 | 2022-12-16 |  |
 | [Mad About It](https://open.spotify.com/track/2EWY12sMN0zdTw8M7gRhKJ) | [Esme Bridie](https://open.spotify.com/artist/3TaFWqU5NWVj7F4pV84Mvn) | [Mad About It](https://open.spotify.com/album/7DpXPkic8H59SryzDilPqV) | 2:55 | 2022-10-28 | 2022-11-04 |
+| [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2022-12-16 |  |
 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 | 2022-11-11 | 2022-11-18 |
 | [Madge's Declaration](https://open.spotify.com/track/0ge9NjvRi1K1AfrKumsioo) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Madge's Declaration](https://open.spotify.com/album/6VUq8cJQA9dzK0wVoQ5fWu) | 3:10 | 2022-11-04 | 2022-11-11 |
 | [Magic 8 Ball](https://open.spotify.com/track/5SIpMgmPyoAwREm4ojjM6B) | [Joel Baker](https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY) | [Hush Now My Fears](https://open.spotify.com/album/4eLcJVRF8TxG8oMjYJ6lAA) | 3:20 | 2022-11-11 | 2022-11-18 |
@@ -620,6 +622,7 @@
 | [Not OK](https://open.spotify.com/track/06V8tMMLJS1lNNejvWFzDt) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK](https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg) | 2:39 | 2022-11-25 | 2022-12-02 |
 | [Not Puzzled](https://open.spotify.com/track/2nlxCjjmE46CRKlan1zWmv) | [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [Ceòl\-Mìn](https://open.spotify.com/artist/3KzLA61a8mXxalWPEzhOWv) | [Not Puzzled](https://open.spotify.com/album/7uAGlRfx37aJiwMpwVZr0n) | 3:39 | 2022-12-16 |  |
 | [Not That Far To Go](https://open.spotify.com/track/3OSZdQZ3tYX38Kand9Du2v) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Not That Far To Go](https://open.spotify.com/album/6RpyFlA5BqQgvE6DxjYcSZ) | 3:53 | 2022-10-28 | 2022-11-04 |
+| [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-16 |  |
 | [Nothing Like Me](https://open.spotify.com/track/0VY1WCcwvmPyOuZgJM5lCU) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [Nothing Like Me](https://open.spotify.com/album/3nntNLcAabIwSmIfjRtdks) | 2:55 | 2022-11-11 | 2022-11-18 |
 | [Nothing Without You](https://open.spotify.com/track/4HCjWPVlBQNVor12xzptGm) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Mandel Turner](https://open.spotify.com/artist/2oF8BMcZCAnRmMwrwVBm7R) | [Nothing Without You](https://open.spotify.com/album/6x05aytiXJutRJCI3V8kH8) | 6:29 | 2022-12-09 | 2022-12-16 |
 | [Now and Then](https://open.spotify.com/track/5LIguFOu7nFgk579aXXEdP) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Ep2](https://open.spotify.com/album/3SnjcJy7zSYZNmcnBz0OZ8) | 3:21 | 2022-11-04 | 2022-11-11 |

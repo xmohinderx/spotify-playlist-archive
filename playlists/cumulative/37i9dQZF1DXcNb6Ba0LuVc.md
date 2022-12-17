@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-395 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+396 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Hi and Lo\(fi\)](https://open.spotify.com/track/5DBgbH2SxV3XNYanN82cKV) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 3:38 | 2021-11-11 | 2022-10-29 |
 | [High Coast Beat](https://open.spotify.com/track/1uqbepnCPGf5eZZFKDKvQG) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Rhythmic Flows](https://open.spotify.com/album/5hRbJOC7CcZwjL6xhcFkNE) | 2:46 | 2022-07-15 |  |
 | [Holiday](https://open.spotify.com/track/3j7nBP1tUQq9ABXS02uZqD) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dang It](https://open.spotify.com/album/5kWRvFteI573uNGreILRUP) | 3:12 | 2021-11-11 | 2022-06-03 |
+| [Hollow Moon Party](https://open.spotify.com/track/1iI5xkHbEOG5wche1o681q) | [Psylone](https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2) | [Hollow Moon Party](https://open.spotify.com/album/6dIuNk78exWy1M7Ettz1QU) | 2:25 | 2022-12-16 |  |
 | [Homebound](https://open.spotify.com/track/7bqqQzMnUGjrauxOWTbZnH) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Marie](https://open.spotify.com/album/2mmH6a8S7d07KX8gTJRX2Z) | 3:23 | 2021-11-11 | 2022-06-03 |
 | [honey](https://open.spotify.com/track/4Iru0dqCxenHmei8t6dTeN) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:40 | 2022-02-18 | 2022-09-17 |
 | [Hot Hot Stuff](https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Hot Hot Stuff](https://open.spotify.com/album/6nACjiFL7fZuIjraKoTvdX) | 2:01 | 2021-11-11 |  |
@@ -221,7 +222,7 @@
 | [Meanwhile Uptown](https://open.spotify.com/track/5YsebZdAALKpif1pKAtBzg) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Meanwhile Uptown](https://open.spotify.com/album/6cCVDvnT6OIuBcRQMbIFb6) | 2:11 | 2022-06-03 | 2022-09-17 |
 | [meeting the dawn](https://open.spotify.com/track/0bnRhmmGCWZAqwGHvjL5TA) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT) | [Meeting the Dawn](https://open.spotify.com/album/6mc6HieAYfKA1ybnAnqGog) | 1:44 | 2022-07-01 |  |
 | [Mellow Mornings](https://open.spotify.com/track/444lm679kTAXCPTaccUjRx) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Mellow Mornings](https://open.spotify.com/album/4uQhOslC5gEVzcitp2BAm7) | 2:11 | 2022-05-13 |  |
-| [Mendihuaca](https://open.spotify.com/track/5q4ftydiLHarJNRZ4AtHOO) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Mendihuaca](https://open.spotify.com/album/6KzCs9xgIPVHBOp74MQwYm) | 1:52 | 2022-08-19 |  |
+| [Mendihuaca](https://open.spotify.com/track/5q4ftydiLHarJNRZ4AtHOO) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Mendihuaca](https://open.spotify.com/album/6KzCs9xgIPVHBOp74MQwYm) | 1:52 | 2022-08-19 | 2022-12-17 |
 | [Midnight Set](https://open.spotify.com/track/2SXFyO8D10xlpvKkyGWZrJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Midnight Set](https://open.spotify.com/album/1RX90FoRauEfhOjlmXSgZ0) | 2:43 | 2021-11-11 | 2022-09-17 |
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2021-11-11 | 2022-09-17 |
 | [Mo' Better Soul](https://open.spotify.com/track/22meHhwZXjre3IRkPBmYqD) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Mo' Better Soul](https://open.spotify.com/album/1ArYCq3OCYI3b1EYuP5Z8K) | 2:31 | 2022-02-18 |  |

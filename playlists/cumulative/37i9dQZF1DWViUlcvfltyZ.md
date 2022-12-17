@@ -4,7 +4,7 @@
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Måneskin
 
-257 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+258 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-08-25 | 2022-09-09 |
 | [Nothing](https://open.spotify.com/track/1rnHe2Pi76SGzyoYvXRBcb) | [FREEZ](https://open.spotify.com/artist/28vV7h4PvbAFJGNhkQQOE0) | [Nothing](https://open.spotify.com/album/4gb7fCkDqvfH5Xe5Dex8Md) | 1:33 | 2022-12-15 |  |
 | [Nubifragio](https://open.spotify.com/track/2I3pXS5CzCm8sfgdMJYaTQ) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Nubifragio](https://open.spotify.com/album/5L9oWRa76veQN7AFo0KQhX) | 3:51 | 2022-10-20 | 2022-12-16 |
+| [Nuvola II](https://open.spotify.com/track/6UobW347K3eotJka699l7a) | [Il nome è puramente indicativo](https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN) | [Nuvola II](https://open.spotify.com/album/5RzRZucmRpkc309el2IyKr) | 5:53 | 2022-12-15 |  |
 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 | 2022-05-09 | 2022-09-16 |
 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 | 2022-05-12 | 2022-05-27 |
 | [ORBO](https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [ORBO](https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf) | 3:55 | 2022-05-19 | 2022-07-01 |

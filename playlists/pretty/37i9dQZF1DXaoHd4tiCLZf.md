@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > The official playlist for Emily in Paris\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,991 likes - 119 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,130 likes - 119 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 51 | [L'Essor](https://open.spotify.com/track/3zHqYayNUAWF6KZP4ZqRXt) | [Biche](https://open.spotify.com/artist/1m0M7J2El2DioTfule3L41) | [La Nuit des Perséides](https://open.spotify.com/album/6jnFQFFlCiek9UNppBnKKH) | 3:53 |
 | 52 | [Le chevalier](https://open.spotify.com/track/6IpbDAzcdH3JXDONtFAlRP) | [Fille à Papa](https://open.spotify.com/artist/28YSrbk6xiTk3WhpkdidaW) | [Le chevalier](https://open.spotify.com/album/5hZWYyQaiqB71s7Gq1HDq6) | 3:44 |
 | 53 | [Cool Colorado](https://open.spotify.com/track/6lbkdQ51nx1XPMGoiG3BZ6) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:52 |
-| 54 | [Summer is Gone](https://open.spotify.com/track/42zDdOjb59esXiwAEPkcUZ) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Summer is Gone](https://open.spotify.com/album/4l0AKMvIPTscaDRKMx20dh) | 4:22 |
+| 54 | [Summer Is Gone](https://open.spotify.com/track/6L6LCfYY3czYJ5GBfhBqVU) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Summer Is Gone](https://open.spotify.com/album/1n8b8aqIxncnaKsacz5CYH) | 4:22 |
 | 55 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 |
 | 56 | [Moi je joue](https://open.spotify.com/track/7v3zsFlSU28kiv3sqRAPNl) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 1:42 |
 | 57 | [Vagues dans la Mer](https://open.spotify.com/track/4P11ppnBO6cX1p3ozbxmgm) | [Theodora](https://open.spotify.com/artist/4tO2VmVZyH5QbxK5GKVSv2) | [Too Much for One Heart](https://open.spotify.com/album/0g1LiQonjvG3E8HdYJT6GW) | 4:03 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 82 | [Standing in This Dream](https://open.spotify.com/track/1gLtmeg7Wo6zdOoh1wqbro) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Together We Go](https://open.spotify.com/album/3y8rIZGyjqGjaafn3aOmv7) | 3:46 |
 | 83 | [Magnifique](https://open.spotify.com/track/2FGU80enBVrYnGWTIWZ1Ls) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Magnifique](https://open.spotify.com/album/26TTubr4hPjO5NPKR2AuZ7) | 3:28 |
 | 84 | [Big Future](https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/6SASFuxKdxTIHtkfjBV2Na) | 2:35 |
-| 85 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 |
+| 85 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 |
 | 86 | [Vers les tombes](https://open.spotify.com/track/7iSu6nmqdxbuRcsDHCVT11) | [Chevalrex](https://open.spotify.com/artist/6bcotcCM02ayq6uAqvm9dG) | [Catapulte](https://open.spotify.com/album/4qMIV1gJlybY60zEm1Nr8M) | 2:30 |
 | 87 | [Rouge soleil](https://open.spotify.com/track/2BtrTeyutZQSPdpBfZTTxr) | [Ravages](https://open.spotify.com/artist/2CiP8cuzWyheJHIBTooapR) | [Abraxas](https://open.spotify.com/album/7GmFk4xUZLM9VIcNYfHBb4) | 3:41 |
 | 88 | [Cyclop \- Bonus track](https://open.spotify.com/track/2u575WsOcCPnA56f9CZWY2) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9) | [Aranda](https://open.spotify.com/album/3MPf2UhcwjPbLgY1NCPA5a) | 3:41 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 118 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 119 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY1MzA3NzIwOCwwMDAwMDAwMDQ1YzMzOGNhYmRmYTI3OGI4YTNiNGUwNDJkMDliZWI4`
+Snapshot ID: `MTY1MzA3NzIwOCwwMDAwMDAwMGVmZDNmNDAwZWQwYjAwOWI2Nzk3OWIwYmEyYjAzZDc1`

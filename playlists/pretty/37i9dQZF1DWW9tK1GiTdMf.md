@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 la sad e villa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,530 likes - 91 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,551 likes - 91 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 9 | [Silvia \(Sally\)](https://open.spotify.com/track/6sPqXjGIOkWvHG7rnkMHvh) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [Silvia \(Sally\)](https://open.spotify.com/album/69HThb2uUU7lraTA78Ksug) | 2:47 |
 | 10 | [AMAREGGIANTE](https://open.spotify.com/track/2Qc89TuAewUg1bf158o42k) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [AMAREGGIANTE](https://open.spotify.com/album/7DHAvzWxK0HhdZfrjoOD8s) | 2:10 |
 | 11 | [VIOLA – with Salmo](https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [VIOLA – with Salmo](https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC) | 3:02 |
-| 12 | [DIVERSO \(feat\. Steven Moses\)](https://open.spotify.com/track/48lwy3TzwHortdUm4n3WIg) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Steven Moses](https://open.spotify.com/artist/6dJVAeQqn8YeabhqrcA8ed), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 2:34 |
+| 12 | [DIVERSO \(feat\. Steven Moses\)](https://open.spotify.com/track/48lwy3TzwHortdUm4n3WIg) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Steven Moses](https://open.spotify.com/artist/0nYqn5H46JHtn3reTfo67I), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 2:34 |
 | 13 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
 | 14 | [Farmaci in bustine](https://open.spotify.com/track/0QzwyqqXT20TY2cneTmLz3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Farmaci in bustine](https://open.spotify.com/album/4NuSzjkAg3Tu6lLGTS9QdZ) | 2:51 |
 | 15 | [SOS](https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [SOS](https://open.spotify.com/album/28KZcEMzj3R0f0jSmuO6Bc) | 2:27 |

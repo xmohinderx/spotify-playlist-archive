@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-106 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+108 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,12 @@
 | [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 | 2022-10-28 |  |
 | [On Mount Tamalpais](https://open.spotify.com/track/3SGs1iMxX9zzv6Dz1uQwSl) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 2:37 | 2022-05-13 |  |
 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 | 2022-05-13 |  |
+| [Once I Dreamed](https://open.spotify.com/track/0yVsNXZjSNO0uLhPs8pynS) | [Tim Gourolis](https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp) | [Once I Dreamed](https://open.spotify.com/album/7FalXuyopTn0Ak30FjiAcG) | 3:12 | 2022-12-16 |  |
 | [One Fine Day](https://open.spotify.com/track/1TzWtETf8eo588fqJllZ4Y) | [Tip Tam](https://open.spotify.com/artist/2WeojxFCkGinfmkmpsi8B9) | [Flowcade](https://open.spotify.com/album/7GmBggUFdYbYHQErF6EzLi) | 2:38 | 2022-05-13 |  |
 | [Over the Highlands](https://open.spotify.com/track/0YnGWHjeqvBxbdf1T2RXbM) | [Stim Rush](https://open.spotify.com/artist/6oauPLbeRb1ShwhY7dzRUn) | [Expanse](https://open.spotify.com/album/5To2yLp2nIg7TZ11RGc9Ho) | 3:10 | 2022-05-13 |  |
 | [Pathways](https://open.spotify.com/track/4xDlA5m82NK3cPFBED5ttv) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Pathways](https://open.spotify.com/album/61FPjJzbfrVssH6ELwer5Z) | 3:20 | 2022-05-13 |  |
 | [Phoenicia](https://open.spotify.com/track/5d09BHHm15tqsHaEHkILOb) | [Lester Simon Trio](https://open.spotify.com/artist/4QKlnta4dWJLNF1yE94FF8) | [Phoenicia](https://open.spotify.com/album/1xYqWYfJaUuSa4AHdItMuR) | 4:18 | 2022-05-13 |  |
+| [remembrance](https://open.spotify.com/track/5NFybpngup7caMPSMiJ5ZO) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [remembrance](https://open.spotify.com/album/5CodeMIZq9ynQ0hSa4YHRw) | 3:15 | 2022-12-16 |  |
 | [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-28 |  |
 | [Roll](https://open.spotify.com/track/45hrCYJ27wKJEDW8DKh2Ko) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 2:50 | 2022-05-13 |  |
 | [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 | 2022-05-13 |  |

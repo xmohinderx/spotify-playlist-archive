@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Lim Young Woong(\uc784\uc601\uc6c5)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: 4FIRE(WSG Wannabe)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -372,6 +372,28 @@
     },
     {
       "album": {
+        "name": "track by YOON: After the uphill road",
+        "url": "https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        },
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256640,
+      "name": "After the uphill road",
+      "url": "https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.20",
         "url": "https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q"
       },
@@ -405,6 +427,24 @@
       "duration_ms": 230173,
       "name": "After you\u2019ve gone",
       "url": "https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6"
+    },
+    {
+      "album": {
+        "name": "Winter Songs",
+        "url": "https://open.spotify.com/album/0aTPUVSa8UApotqgfkrKaB"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232493,
+      "name": "ALL ABOUT FAREWELL (with JAMIE)",
+      "url": "https://open.spotify.com/track/6ZCjhym9SDLUcWhgy7mQ0T"
     },
     {
       "album": {
@@ -1335,6 +1375,24 @@
       "duration_ms": 218186,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/7BOZXsXcOKbHMjbBVcT4R6"
+    },
+    {
+      "album": {
+        "name": "breathless",
+        "url": "https://open.spotify.com/album/2OXz7sUcFYo1gXY8qmV4yh"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245613,
+      "name": "breathless",
+      "url": "https://open.spotify.com/track/4WuudTuu7CIaKJFDfj3fdA"
     },
     {
       "album": {
@@ -4317,8 +4375,8 @@
       },
       "artists": [
         {
-          "name": "WSG WANNABE (Sa-Fire)",
-          "url": "https://open.spotify.com/artist/6RbhPRkvqZ4YtziMIUVzeV"
+          "name": "WSG WANNABE(4FIRE)",
+          "url": "https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD"
         }
       ],
       "date_added": "2022-07-11",
@@ -5470,6 +5528,24 @@
     },
     {
       "album": {
+        "name": "Let's break up (2022)",
+        "url": "https://open.spotify.com/album/2OexZPJLBuWflTSkB3d9Dt"
+      },
+      "artists": [
+        {
+          "name": "Shin Hyun Woo",
+          "url": "https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246613,
+      "name": "Let's break up (2022)",
+      "url": "https://open.spotify.com/track/3SSX55BjRYW4Qal3wnfR5I"
+    },
+    {
+      "album": {
         "name": "Let's End It Here",
         "url": "https://open.spotify.com/album/5qUpfQ1O0Y70ibRHKXgBBr"
       },
@@ -5557,6 +5633,24 @@
       "duration_ms": 234750,
       "name": "Like a movie",
       "url": "https://open.spotify.com/track/0NQZqnWpk81nkgxZW5wgiL"
+    },
+    {
+      "album": {
+        "name": "Reborn Rich (Original Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2dRVuhkmaPDdRFGiqIarIV"
+      },
+      "artists": [
+        {
+          "name": "MOON SUA(Billlie)",
+          "url": "https://open.spotify.com/artist/1EC3MS97YT9lOI8YHSmOYp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215782,
+      "name": "Like a Star",
+      "url": "https://open.spotify.com/track/0uoXefj4KKRp6K30YGpMgP"
     },
     {
       "album": {
@@ -5889,6 +5983,24 @@
       "duration_ms": 207306,
       "name": "Love Alone",
       "url": "https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW"
+    },
+    {
+      "album": {
+        "name": "Love Contact",
+        "url": "https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Love Contact",
+      "url": "https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8"
     },
     {
       "album": {
@@ -6361,6 +6473,24 @@
       "duration_ms": 227640,
       "name": "Moody Night",
       "url": "https://open.spotify.com/track/0rq0zk8B67NMUH1tT8Amu2"
+    },
+    {
+      "album": {
+        "name": "Work Later Drink Now S2, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/12Mkp2HBj5ta7lEv4Bczsg"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186047,
+      "name": "Moon of Seoul",
+      "url": "https://open.spotify.com/track/6jmn2IEoU3Yfw3j4hKgSlm"
     },
     {
       "album": {
@@ -7102,6 +7232,24 @@
     },
     {
       "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.23",
+        "url": "https://open.spotify.com/album/2x3aDNlIC5WjRkWaN5KNEm"
+      },
+      "artists": [
+        {
+          "name": "Baek Yeseul",
+          "url": "https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206340,
+      "name": "Once, More Than Anyone",
+      "url": "https://open.spotify.com/track/4x6MZH5XsfnHH3D4fTiU8L"
+    },
+    {
+      "album": {
         "name": "Find Me In Your Memory (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/6k1q8lFDc6AC6NTVzcZxFj"
       },
@@ -7282,6 +7430,46 @@
     },
     {
       "album": {
+        "name": "Our Season",
+        "url": "https://open.spotify.com/album/5BwR3SR5PxOBdMG0kWUdjR"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNABE(4FIRE)",
+          "url": "https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "Our Season",
+      "url": "https://open.spotify.com/track/3yA7377j20H03qiukcBkjU"
+    },
+    {
+      "album": {
+        "name": "Our story",
+        "url": "https://open.spotify.com/album/1jCd0DcZBJpGNhVtCOjcMi"
+      },
+      "artists": [
+        {
+          "name": "Jung Chang Yong",
+          "url": "https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx"
+        },
+        {
+          "name": "Lee Ru DA",
+          "url": "https://open.spotify.com/artist/5KRcPRmGptkCL1QT6QR9qA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267013,
+      "name": "Our story (Feat. Lee Ru Da)",
+      "url": "https://open.spotify.com/track/5IwtQvh6siooeSKVvlmyLl"
+    },
+    {
+      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -7369,6 +7557,24 @@
       "duration_ms": 240626,
       "name": "Please Don't forget me (WEBTOON 'Discovery of Love' X GB9)",
       "url": "https://open.spotify.com/track/6mj9CHo8FmFSsDH9VaOfD8"
+    },
+    {
+      "album": {
+        "name": "Please take on me",
+        "url": "https://open.spotify.com/album/59le5xdqY4RfjCeovcUymh"
+      },
+      "artists": [
+        {
+          "name": "BongGu (GB9)",
+          "url": "https://open.spotify.com/artist/2hpfwA7tV7CTgMDZKqJwbv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264956,
+      "name": "Please take on me",
+      "url": "https://open.spotify.com/track/3dzXWDMHvWIt5j1iNyYxm0"
     },
     {
       "album": {
@@ -7589,6 +7795,24 @@
       "duration_ms": 248360,
       "name": "Regret",
       "url": "https://open.spotify.com/track/3xAWMzJepYvpalL66VmuVq"
+    },
+    {
+      "album": {
+        "name": "Regret",
+        "url": "https://open.spotify.com/album/46QvS5goez23zF11tYuGqT"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Hyun",
+          "url": "https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255013,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/6FAVrqY03qByQMzBhjdT8B"
     },
     {
       "album": {
@@ -8372,6 +8596,42 @@
     },
     {
       "album": {
+        "name": "Stairs",
+        "url": "https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx"
+      },
+      "artists": [
+        {
+          "name": "Ouf Of Campus",
+          "url": "https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183103,
+      "name": "Stairs",
+      "url": "https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ"
+    },
+    {
+      "album": {
+        "name": "Stand By Your Side (CURTAIN CALL OST Part.7)",
+        "url": "https://open.spotify.com/album/7c0jTAaxnlZgPAhvYsdr0a"
+      },
+      "artists": [
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270693,
+      "name": "Stand By Your Side",
+      "url": "https://open.spotify.com/track/1h2EjiRBZu1geZrxV5dWhz"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/61haIPm5s5cfRCgqkbGKJ2"
       },
@@ -9149,6 +9409,24 @@
       "duration_ms": 217935,
       "name": "The name of the song we never knew",
       "url": "https://open.spotify.com/track/58xLgrmrBJIkttaf67KjgH"
+    },
+    {
+      "album": {
+        "name": "Police Station Next To Fire Station (Original Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/5neeCg2mR1zseHWLJKJIYy"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "The Name of You",
+      "url": "https://open.spotify.com/track/6B5f8dNLVXYRoZD67bEfwo"
     },
     {
       "album": {
@@ -10148,6 +10426,24 @@
     },
     {
       "album": {
+        "name": "When we were together",
+        "url": "https://open.spotify.com/album/67NQMoLfX5wj1skqonZBml"
+      },
+      "artists": [
+        {
+          "name": "CLASSMATE",
+          "url": "https://open.spotify.com/artist/2g61dDVF8H6bdFigHldp8R"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262146,
+      "name": "When we were together",
+      "url": "https://open.spotify.com/track/2IyOkE4P1dF0fUjDn40oAJ"
+    },
+    {
+      "album": {
         "name": "When We Were Us - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2"
       },
@@ -10903,6 +11199,24 @@
       "duration_ms": 282806,
       "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
       "url": "https://open.spotify.com/track/3fLufMRaQboaen5AGMdCLT"
+    },
+    {
+      "album": {
+        "name": "Themselves (Original Soundtrack) Chapter. 2",
+        "url": "https://open.spotify.com/album/38pMPeUiYvIIFLnySQoLt6"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "\uadf8\ub0a0\uc758 \uadf8\ub300\uc5ec",
+      "url": "https://open.spotify.com/track/01Phm3foggf3vXgAbQy1ht"
     },
     {
       "album": {

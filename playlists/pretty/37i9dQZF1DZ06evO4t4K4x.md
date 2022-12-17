@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925 likes - 32 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 927 likes - 32 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 31 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
 | 32 | [Science and Health](https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:57 |
 
-Snapshot ID: `Mjc4NTE5MTIsMDAwMDAwMDA0ZmMwZjFiYTViOTdkNDdhY2NkMDE3ZmEyZjlhYjAyYg==`
+Snapshot ID: `Mjc4NTMzMDksMDAwMDAwMDAzODZmOGUwZmY5NmU0MWMzOWI5ZmIyMWFhODk4M2FiYw==`

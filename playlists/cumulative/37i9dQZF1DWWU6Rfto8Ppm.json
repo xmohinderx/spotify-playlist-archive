@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Daddy Yankee.",
+  "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
   "name": "Reggaet\u00f3n Viejito",
   "published_playlist_ids": [
     "5SgU8PR0wDw30k07Az00VU"
@@ -1442,6 +1442,24 @@
     },
     {
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "album": {
         "name": "Reggaeton Hitmakers Tropical Blend",
         "url": "https://open.spotify.com/album/6CqWsUd484u7T1xQzQGBYy"
       },
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 206986,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1ji6mY9Gv7dO48rohMIr6p"

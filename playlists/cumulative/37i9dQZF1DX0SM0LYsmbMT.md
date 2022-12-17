@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,254 songs - 5 day 5 hr 45 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,255 songs - 5 day 5 hr 46 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,7 +1239,7 @@
 | [Hurdfytsparti](https://open.spotify.com/track/5aueuaaCScQs1hxFhDFgcl) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Hurdfytsparti](https://open.spotify.com/album/6JQX6fHIiGyRSGvsnWZwME) | 2:04 | 2019-05-26\* | 2019-06-15 |
 | [Hurry](https://open.spotify.com/track/58Ot5xC81N3JXinIPoXpEC) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Hurry](https://open.spotify.com/album/5Q2NBNmoasLyLE6lQkJfAA) | 2:12 | 2021-03-19 | 2021-08-06 |
 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-02 | 2022-11-21 |
-| [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 | 2022-11-17 |  |
+| [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 | 2022-11-17 | 2022-12-17 |
 | [Hydro](https://open.spotify.com/track/1tzHOvF8X9Hw9p1xRM6xCt) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Hydro](https://open.spotify.com/album/0zjeIDBUsH3kzgfePS5bZE) | 1:57 | 2019-11-29 | 2020-04-18 |
 | [Hypercolor](https://open.spotify.com/track/27cDgViO7oOuG2srPPXdxR) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Hypercolor](https://open.spotify.com/album/1mXmRiuUJMAvyFsg1khxvG) | 3:24 | 2020-10-23 | 2020-12-18 |
 | [Hypersonic](https://open.spotify.com/track/6m4X2QJxD7TgvYLb14AqSS) | [Nimzo](https://open.spotify.com/artist/28D6P4XqiQjHpwx21lEHZU), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Hypersonic](https://open.spotify.com/album/4TjkkrEbXqwfCpumklyEyL) | 1:42 | 2022-03-31 | 2022-04-08 |
@@ -2640,6 +2640,7 @@
 | [Stone](https://open.spotify.com/track/4VZUTzIfBt9GCi8UeOETvb) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Stone](https://open.spotify.com/album/2dVDinEF9jGW2cRwkevqOy) | 1:58 | 2022-11-17 |  |
 | [Stone](https://open.spotify.com/track/6E5MDo4QQ6KWSYSirONLMv) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Stone](https://open.spotify.com/album/3QnO4b06aa8aew0w40NwqC) | 1:58 | 2022-09-15 | 2022-11-20 |
 | [Stones](https://open.spotify.com/track/2f6nAGCq7u1dLobstbROyT) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Stones](https://open.spotify.com/album/0vcU2FMg5Tfrj2roeVdWJH) | 2:16 | 2021-03-19 | 2021-10-01 |
+| [Stopover](https://open.spotify.com/track/4WCjcN8mINu3oskCz1wtvN) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Not Coming Home](https://open.spotify.com/album/4nkGkrgIag9itFa6zjxuby) | 1:51 | 2022-12-15 |  |
 | [Stopover](https://open.spotify.com/track/5N9Tg62nS4YOpIedF4cxXt) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Not Coming Home](https://open.spotify.com/album/2i4DZxijGYXToXJIbydEGF) | 1:51 | 2021-07-30 | 2022-11-21 |
 | [Stow\-Away](https://open.spotify.com/track/4DPbjHtWbJsjxE8aS0H6nZ) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Divorced from Land \(Inspired by 'The Outlaw Ocean' a book by Ian Urbina\)](https://open.spotify.com/album/78I0OvKc6quq486sgBng6G) | 2:07 | 2020-08-07 | 2021-03-06 |
 | [Strafzettel](https://open.spotify.com/track/4PJJqailpy9FxDeCPkQZQq) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Strafzettel](https://open.spotify.com/album/6m1FrMrwdlLTrbzKr93Xzo) | 2:51 | 2020-03-13 | 2020-05-25 |

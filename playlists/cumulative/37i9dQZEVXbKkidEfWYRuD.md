@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-927 songs - 1 day 19 hr 10 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+928 songs - 1 day 19 hr 14 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [Бэйбитрон](https://open.spotify.com/track/7M0s9oTEkUzBSnkUnG0Idr) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:57 | 2022-04-30 | 2022-05-02 |
 | [Бэлмэйн](https://open.spotify.com/track/1IiTqFqIT8BNUsTcJIwqaH) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:41 | 2021-04-29 | 2021-04-30 |
 | [Бібліотека](https://open.spotify.com/track/6ekNzvEmnCPbIdTFjRtw6L) | [Колос](https://open.spotify.com/artist/362iRKPQbIK8S5Eu5rHqtU) | [Kamasutra](https://open.spotify.com/album/2eZfffj22Wsk7zFFkaP2Ld) | 3:05 | 2021-10-09 | 2021-10-30 |
-| [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 |  |
+| [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 | 2022-12-17 |
 | [Біля тополі](https://open.spotify.com/track/3MqaB8TndvgRZ1QSQXH7J7) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/3ladULEuZfnDeQ43IL3kjy) | 3:29 | 2022-07-23 |  |
 | [В диапазоне](https://open.spotify.com/track/1cmIuauHOxvxzTCFXFnNRL) | [Pornofilmy](https://open.spotify.com/artist/47jBQjRmURjRn3XfLIaHvV) | [В диапазоне между отчаянием и надеждой](https://open.spotify.com/album/6qOOpX7g5uEw3NhOgmy3iq) | 5:31 | 2022-03-09 | 2022-03-27 |
 | [В Клубе](https://open.spotify.com/track/0GhGWqedLDtuNlNIJIlTC3) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:40 | 2021-08-15 | 2021-08-16 |
@@ -557,6 +557,7 @@
 | [ВЫКЛЮЧАТЕЛЬ](https://open.spotify.com/track/3oIvvpkmjxdzd7NYNg5fxm) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/4GuYZRioUTTM3OSDEUFCbV) | 1:34 | 2022-02-19 | 2022-03-27 |
 | [Выпей меня](https://open.spotify.com/track/5O1Y35vDQQjCXTFo8BEBrr) | [Kambulat](https://open.spotify.com/artist/4ENNw1y7XuWPt7tvzoQ8Pz) | [Выпей меня](https://open.spotify.com/album/3PZkGXmFOEhSmqPdIyF6GD) | 2:42 | 2022-02-05 | 2022-02-12 |
 | [Выстрелы](https://open.spotify.com/track/0WXJnzwQSpPk7Vwq6d3Zoo) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO), [WormGanger](https://open.spotify.com/artist/086P64oKI020Z4jiNCmYwf) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:55 | 2022-04-30 | 2022-05-02 |
+| [Відьми](https://open.spotify.com/track/7mCemRaeeezaB97MPPkhfG) | [BALKON](https://open.spotify.com/artist/3mRaoamjAyrixUbbej4KFu) | [Відьми](https://open.spotify.com/album/5BI2Pp4JUcfe47Dlbyp8Ah) | 3:21 | 2022-12-16 |  |
 | [ГАНЬГ Аутро \(feat\. Bushido Zho, Scally Milano, MAYOT, Magnum Opus, SEEMEE, YUNGWAY\)](https://open.spotify.com/track/3MfoVUFEXWX6bxbACLVZEG) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [Magnum Opus](https://open.spotify.com/artist/0WCOJtjn0LNnc0pLh2S6gu), [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt), [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ) | [FREERIO](https://open.spotify.com/album/5zkFFXDh9W9457YNxel2gO) | 1:45 | 2021-05-18 | 2021-08-15 |
 | [Гарно так](https://open.spotify.com/track/3yRDM5tBS7H8HG64y3x9kw) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Drama](https://open.spotify.com/album/4LLQjoYb7W1dBNkAX2eifI) | 3:02 | 2022-07-05 | 2022-09-07 |
 | [Генг](https://open.spotify.com/track/4DpmRTZZD8DJmU9W1X31nq) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:12 | 2021-08-15 | 2021-08-16 |

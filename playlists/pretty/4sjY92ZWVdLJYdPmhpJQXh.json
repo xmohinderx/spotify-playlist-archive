@@ -1,13 +1,265 @@
 {
   "description": "Atlantic Records Presents the hottest tracks in hip-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.",
-  "num_followers": 1858,
+  "num_followers": 1857,
   "original_name": "Atlantic Records: Presents",
   "owner": {
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NTI4Niw4ODQ4YjIwNTU3ZTA4ZTA2YTFmMWI4MDI4Yjc1NmNiMDI0NTQyNjll",
+  "snapshot_id": "NTMxOSw5OTAwNDRlYzc4NmE2NjFkYjAwYzA5YTE3OGYzODc0NTQ4ODk2NjMz",
   "tracks": [
+    {
+      "added_at": "2022-12-16 15:21:25",
+      "album": {
+        "name": "Needed That",
+        "url": "https://open.spotify.com/album/2iEGXMOjePFN7lzf91cfZ0"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 206294,
+      "name": "Needed That",
+      "url": "https://open.spotify.com/track/3W5Q7ydl53jYgqWHpEkoIT"
+    },
+    {
+      "added_at": "2022-12-16 15:21:44",
+      "album": {
+        "name": "Just When I Thought",
+        "url": "https://open.spotify.com/album/5C5NWVrJPECO7R9BmllyPQ"
+      },
+      "artists": [
+        {
+          "name": "Kevo Muney",
+          "url": "https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY"
+        }
+      ],
+      "duration_ms": 139643,
+      "name": "Just When I Thought",
+      "url": "https://open.spotify.com/track/1djdtT8qEy2P3mRGM0F1KU"
+    },
+    {
+      "added_at": "2022-12-16 15:22:06",
+      "album": {
+        "name": "The Main Bird",
+        "url": "https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Rich And Dangerous",
+      "url": "https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq"
+    },
+    {
+      "added_at": "2022-12-16 15:22:23",
+      "album": {
+        "name": "WISH ME LUCK",
+        "url": "https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 203033,
+      "name": "WISH ME LUCK",
+      "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
+    },
+    {
+      "added_at": "2022-12-16 15:22:41",
+      "album": {
+        "name": "1st Day of School",
+        "url": "https://open.spotify.com/album/7gXrFNnD9NopmuacVt0r7s"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "1st Day of School",
+      "url": "https://open.spotify.com/track/0GQ4pqjCYn5WTENwjb7eCJ"
+    },
+    {
+      "added_at": "2022-12-16 15:22:52",
+      "album": {
+        "name": "Pushin for Love (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/0t6XuwdVx5C5ohvmglnoyb"
+      },
+      "artists": [
+        {
+          "name": "2g Kaash",
+          "url": "https://open.spotify.com/artist/49iUa5AMhuPD6aoJmmolhg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 203913,
+      "name": "Pushin for Love (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/5LmDmAItyrIseBC2PNxUS5"
+    },
+    {
+      "added_at": "2022-12-16 15:23:05",
+      "album": {
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/4IM9rDl3qqwdXWlUsdYSpm"
+      },
+      "artists": [
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/3TLLHtbY3NheqCuRSjaOuS"
+    },
+    {
+      "added_at": "2022-12-16 15:23:25",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/3VSRbWNR7FBK54z6gWUY3f"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "duration_ms": 109435,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/6fXhozDwpdQEUKhq5Ak0mz"
+    },
+    {
+      "added_at": "2022-12-16 15:24:41",
+      "album": {
+        "name": "Red on My Mind",
+        "url": "https://open.spotify.com/album/0V7lso2skTahpWZBSp4e87"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 139594,
+      "name": "Red on My Mind",
+      "url": "https://open.spotify.com/track/1xjlu7pqQoqYRkFzSQKLr6"
+    },
+    {
+      "added_at": "2022-12-16 15:24:59",
+      "album": {
+        "name": "Bond Hold",
+        "url": "https://open.spotify.com/album/5kgsvtyOV9CuKzyT5hrz90"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        },
+        {
+          "name": "DCG Shun",
+          "url": "https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11"
+        },
+        {
+          "name": "DCG Bsavv",
+          "url": "https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL"
+        }
+      ],
+      "duration_ms": 190674,
+      "name": "Bond Hold",
+      "url": "https://open.spotify.com/track/3Oxw2qz5ecBwc9ZUeaSl6L"
+    },
+    {
+      "added_at": "2022-12-16 15:25:11",
+      "album": {
+        "name": "Shot Callerz",
+        "url": "https://open.spotify.com/album/21W5EspIXVuVOqxIlmBkmh"
+      },
+      "artists": [
+        {
+          "name": "Rico Cartel",
+          "url": "https://open.spotify.com/artist/0bgsCSm12Glnini09HIgnD"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Shot Callerz",
+      "url": "https://open.spotify.com/track/7pIaKT1fYaI68eFqn0giiY"
+    },
+    {
+      "added_at": "2022-12-16 15:25:27",
+      "album": {
+        "name": "All Went Wrong",
+        "url": "https://open.spotify.com/album/1V1PC5qOKobNVbxVvBK2fw"
+      },
+      "artists": [
+        {
+          "name": "Li Rye",
+          "url": "https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn"
+        }
+      ],
+      "duration_ms": 231331,
+      "name": "All Went Wrong",
+      "url": "https://open.spotify.com/track/12frQEo8zwlc9gkCP5Kgzj"
+    },
+    {
+      "added_at": "2022-12-16 15:26:29",
+      "album": {
+        "name": "Don't Give Up On Me (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/18msZzBRM22GEoDcHYZ7eF"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 166492,
+      "name": "Don't Give Up On Me - KC Lights Remix",
+      "url": "https://open.spotify.com/track/0FMb7To6Aiv4ZIS0NSMa2d"
+    },
+    {
+      "added_at": "2022-12-16 15:26:47",
+      "album": {
+        "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+        "url": "https://open.spotify.com/album/5M3YqVjk1HX7crUZMQwg9O"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+      "url": "https://open.spotify.com/track/4tvEEOn0swSHPHOifOb8x4"
+    },
     {
       "added_at": "2022-12-02 19:31:36",
       "album": {
@@ -1049,6 +1301,26 @@
       "url": "https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1"
     },
     {
+      "added_at": "2022-12-16 15:23:57",
+      "album": {
+        "name": "Success Before Destruction",
+        "url": "https://open.spotify.com/album/4K5NOI6L0fcQC7OPW6I74R"
+      },
+      "artists": [
+        {
+          "name": "Bway Yungy",
+          "url": "https://open.spotify.com/artist/7BDaqFWndPKDEGdbph2CNe"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 176901,
+      "name": "Far Away (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/14UNFQNRYX09D44GHED6L3"
+    },
+    {
       "added_at": "2022-11-04 14:27:15",
       "album": {
         "name": "Olvidar De Ti",
@@ -1887,22 +2159,6 @@
       "duration_ms": 152520,
       "name": "Okay Okay",
       "url": "https://open.spotify.com/track/0J7o6H1e1HhqGw6lRrBFzq"
-    },
-    {
-      "added_at": "2022-12-09 18:51:28",
-      "album": {
-        "name": "Just When I Thought",
-        "url": "https://open.spotify.com/album/5C5NWVrJPECO7R9BmllyPQ"
-      },
-      "artists": [
-        {
-          "name": "Kevo Muney",
-          "url": "https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY"
-        }
-      ],
-      "duration_ms": 139643,
-      "name": "Just When I Thought",
-      "url": "https://open.spotify.com/track/1djdtT8qEy2P3mRGM0F1KU"
     },
     {
       "added_at": "2022-12-09 18:51:42",

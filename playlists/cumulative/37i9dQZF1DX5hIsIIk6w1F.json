@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Gianluca.",
+  "description": "Este Flow tiene otro Flow. Foto: DrefQuila.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 170571,
       "name": "12:30",
       "url": "https://open.spotify.com/track/4vpXjguMioKefak80ytICn"
@@ -77,10 +77,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 200109,
       "name": "28",
       "url": "https://open.spotify.com/track/5jfDBp9jmQ9rfviQZSEGSW"
+    },
+    {
+      "album": {
+        "name": "THE LIFE OF XULO",
+        "url": "https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124254,
+      "name": "40 GRADOS EN LA CIUDAD",
+      "url": "https://open.spotify.com/track/0NJ8EStpxZZo8xUJ0A0STe"
     },
     {
       "album": {
@@ -530,6 +548,28 @@
     },
     {
       "album": {
+        "name": "Diablo Santo",
+        "url": "https://open.spotify.com/album/3VhjWwBpzemDHcytRUP5t9"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Bellakito",
+      "url": "https://open.spotify.com/track/5IOVbRnXblWdhz3AZRUeWa"
+    },
+    {
+      "album": {
         "name": "Beso de 3",
         "url": "https://open.spotify.com/album/0M7gEqM3GR1wrXvptaHT5D"
       },
@@ -909,10 +949,54 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 249854,
       "name": "Cu4tro",
       "url": "https://open.spotify.com/track/68V31zQa7VOH4P99PMeBna"
+    },
+    {
+      "album": {
+        "name": "Cuando Repetimo",
+        "url": "https://open.spotify.com/album/06K1ODIQk3H1akTQMBHcUT"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/2h3vGzEnHE3ZkEDHgpLgaj"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206296,
+      "name": "Cuando Repetimo",
+      "url": "https://open.spotify.com/track/2wXZID94XOUV7kB8GsVdzK"
+    },
+    {
+      "album": {
+        "name": "Cuchi Cuchi",
+        "url": "https://open.spotify.com/album/6YlYVw9UwdrACAYPwAZnqf"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "Cuchi Cuchi",
+      "url": "https://open.spotify.com/track/1Cnj7AYTdXFvIa0Y2PFyOH"
     },
     {
       "album": {
@@ -1165,6 +1249,24 @@
       "duration_ms": 225864,
       "name": "Dime T\u00fa",
       "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
+    },
+    {
+      "album": {
+        "name": "Discoteca",
+        "url": "https://open.spotify.com/album/65zVCWhUqWFoUM5qICRTWJ"
+      },
+      "artists": [
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170429,
+      "name": "Discoteca",
+      "url": "https://open.spotify.com/track/4P4y4o8I3z7sZUM7QcEBTA"
     },
     {
       "album": {
@@ -1930,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "Gimnasio",
+        "url": "https://open.spotify.com/album/7hi0BB6uaPRVyakJFGKIhF"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Rossy",
+          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220654,
+      "name": "Gimnasio",
+      "url": "https://open.spotify.com/track/3b760M9pvDVaHSvyUMGbAz"
+    },
+    {
+      "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
       },
@@ -2224,6 +2344,32 @@
     },
     {
       "album": {
+        "name": "Diablo Santo",
+        "url": "https://open.spotify.com/album/3VhjWwBpzemDHcytRUP5t9"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202058,
+      "name": "Kela Toke (feat. Tunechikidd)",
+      "url": "https://open.spotify.com/track/3IF7RBvlQMiXBwl4c66QDg"
+    },
+    {
+      "album": {
         "name": "Kieta Mina",
         "url": "https://open.spotify.com/album/0jA9SXbcKqWGBqqe5rwbIS"
       },
@@ -2449,7 +2595,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
@@ -3559,7 +3705,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 233056,
       "name": "Olvidona (feat. Lleflight, Best)",
       "url": "https://open.spotify.com/track/4o5DgFbeHH6kG84MrP85Ly"
@@ -3581,6 +3727,24 @@
       "duration_ms": 139094,
       "name": "Otra Mitad",
       "url": "https://open.spotify.com/track/1FrelRYcJihARwASLiy4if"
+    },
+    {
+      "album": {
+        "name": "PA K TE ENAMORE",
+        "url": "https://open.spotify.com/album/4xLrTiXtCAguTznMly4H5z"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140618,
+      "name": "PA K TE ENAMORE",
+      "url": "https://open.spotify.com/track/1DmPVoJJgSAMHEMamRV4DH"
     },
     {
       "album": {
@@ -4271,7 +4435,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 188047,
       "name": "Que se hace",
       "url": "https://open.spotify.com/track/5oIDyDmPYEzEOBIcZqfJ4C"
@@ -5103,7 +5267,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 205189,
       "name": "Te Quiero Ver (feat. Polim\u00e1 Westcoast y Young Cister)",
       "url": "https://open.spotify.com/track/4YQieyZIxrHaDiAPQosmoP"
@@ -5701,7 +5865,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 268979,
       "name": "Xipetiao",
       "url": "https://open.spotify.com/track/2NjMCSgDnIZw22PUwWg8lV"

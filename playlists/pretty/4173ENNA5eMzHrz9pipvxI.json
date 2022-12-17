@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet x Tungevaag",
-  "num_followers": 119572,
+  "num_followers": 119574,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjM1MixlMGE2ZTc0M2I2YjUzODVlZGZjOWMwNzdiNzQ1ZjliNWNmZTYwNmZi",
+  "snapshot_id": "NjM1NCwzYzUyMmEzNjllY2YyYmFkOGQ3YzcxZGQ2OTYwMmU0Y2MyMTdhOTUx",
   "tracks": [
     {
       "added_at": "2022-12-15 23:56:27",
@@ -165,6 +165,22 @@
       "url": "https://open.spotify.com/track/5Odwghtq7NisUYaerhjYvg"
     },
     {
+      "added_at": "2022-12-16 08:59:46",
+      "album": {
+        "name": "Overture EP",
+        "url": "https://open.spotify.com/album/0fA7O4H8tEI6NBk4U9jqsm"
+      },
+      "artists": [
+        {
+          "name": "Lost Capital",
+          "url": "https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t"
+        }
+      ],
+      "duration_ms": 143280,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3smSBKf1rot6aY2ScAMO8p"
+    },
+    {
       "added_at": "2022-12-15 23:56:27",
       "album": {
         "name": "Left & Right (BYOR Remix)",
@@ -259,6 +275,30 @@
       "duration_ms": 161538,
       "name": "Bounce Around (feat. Paolo Pellegrino, Lotus, Shibui)",
       "url": "https://open.spotify.com/track/5xjKdP0kcZtL2AsCeCIgpb"
+    },
+    {
+      "added_at": "2022-12-15 23:56:27",
+      "album": {
+        "name": "Better (NOME. Remix)",
+        "url": "https://open.spotify.com/album/0PutZEJ2lnuSqY44H5tj1c"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        },
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Better - NOME. Remix",
+      "url": "https://open.spotify.com/track/6djAxx7QLbeo6rYspJMMGB"
     },
     {
       "added_at": "2022-12-15 23:56:27",
@@ -443,30 +483,6 @@
       "duration_ms": 179047,
       "name": "Bounce That",
       "url": "https://open.spotify.com/track/3cz3isVn5lwlp2FLpY15pJ"
-    },
-    {
-      "added_at": "2022-12-15 23:56:27",
-      "album": {
-        "name": "Better (NOME. Remix)",
-        "url": "https://open.spotify.com/album/0PutZEJ2lnuSqY44H5tj1c"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        },
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Better - NOME. Remix",
-      "url": "https://open.spotify.com/track/6djAxx7QLbeo6rYspJMMGB"
     },
     {
       "added_at": "2022-12-15 23:56:27",

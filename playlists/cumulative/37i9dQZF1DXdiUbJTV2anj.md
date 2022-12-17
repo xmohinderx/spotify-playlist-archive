@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Zulu
+> Heavy new bands you need to have an eye on\. Cover: Cassyette
 
-124 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+125 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 | 2022-11-18 |  |
 | [Felt Like Home](https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Felt Like Home](https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE) | 3:30 | 2022-10-28 |  |
 | [Find You Soon](https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Find You Soon](https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L) | 4:23 | 2022-11-25 |  |
-| [FIX THIS](https://open.spotify.com/track/1qoQclrr4nysaJXt9NMQGA) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO) | [FIX THIS](https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ) | 2:27 | 2022-10-14 |  |
+| [FIX THIS](https://open.spotify.com/track/1qoQclrr4nysaJXt9NMQGA) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO) | [FIX THIS](https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ) | 2:27 | 2022-10-14 | 2022-12-17 |
 | [Flock](https://open.spotify.com/track/3kOCCO9FS1u4fGn7Khcmmt) | [Haunted By Silhouettes](https://open.spotify.com/artist/7cXEMDxakHoQn4QmGMUmGe) | [Flock](https://open.spotify.com/album/5mb26sOcVrRDb0cQOxT4Mf) | 3:01 | 2022-07-29 | 2022-08-20 |
 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 | 2022-10-14 |  |
 | [Forced to Smile](https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT) | [El Moono](https://open.spotify.com/artist/6JnVIkM76FVcDo5RXEwXTS) | [Temple Corrupted](https://open.spotify.com/album/1H7XITXYXGXytAUlXolo2P) | 3:58 | 2022-08-19 | 2022-10-29 |
@@ -89,6 +89,7 @@
 | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/track/6Evx0j5rPXT2QDihyAYBvZ) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/album/6kE2Vk9b5omyj9nfDbXgFf) | 3:49 | 2022-07-29 | 2022-10-01 |
 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 | 2022-07-29 | 2022-10-01 |
 | [Separation Souvenir](https://open.spotify.com/track/3TPX2opdVfRSWCnqslFECX) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Separation Souvenir](https://open.spotify.com/album/20d476doG98gErKY6sh38c) | 3:35 | 2022-07-29 | 2022-08-20 |
+| [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-12-16 |  |
 | [Servant](https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Servant](https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt) | 3:00 | 2022-07-29 | 2022-10-01 |
 | [Shallow \(feat\. Mike Perez\) \- Single Edit](https://open.spotify.com/track/1yH6xfN3nET67Ryux09k5s) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Mike Perez](https://open.spotify.com/artist/5PCYLbDOlfd0EyAWOp7umQ) | [Shallow](https://open.spotify.com/album/61WbhTzQSPw5CruJreLXQQ) | 3:25 | 2022-07-29 | 2022-09-10 |
 | [Siren's Calling](https://open.spotify.com/track/2Rid5rm3i8pAMWbMFTqFRT) | [Ginevra](https://open.spotify.com/artist/70jOf411lOeFa5k14DufSh) | [Siren's Calling](https://open.spotify.com/album/7BNlbfyuIkCpszLCo1exvi) | 3:40 | 2022-07-29 | 2022-09-03 |
@@ -113,7 +114,7 @@
 | [The Third Pillar](https://open.spotify.com/track/0hLMMjNkhEPUTelmWDtqLg) | [Ghosts Of Atlantis](https://open.spotify.com/artist/7vQmrGUUZlbNkjecfGuo61) | [3.6.2.4](https://open.spotify.com/album/5O6RXs6VeaXphvvrRi7hHH) | 5:05 | 2022-08-19 | 2022-10-15 |
 | [There's a Glitch in Human Consciousness](https://open.spotify.com/track/11dR6vXFCoZsTXD2uH6YlG) | [Netherlands](https://open.spotify.com/artist/1WUAsFAAm9aQttDw4M7seC) | [There's a Glitch in Human Consciousness](https://open.spotify.com/album/1I0Z5NYHR4AYENHiQPJATM) | 3:44 | 2022-08-19 | 2022-11-19 |
 | [Tiny Disappointments](https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj) | [The Offering](https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C) | [Tiny Disappointments](https://open.spotify.com/album/4itHsRrDzMue3SKuVcIoCw) | 6:36 | 2022-09-02 | 2022-12-03 |
-| [Toxic](https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Toxic](https://open.spotify.com/album/1o7TaQ4EMPhF8wHpUFv08z) | 3:10 | 2022-09-02 |  |
+| [Toxic](https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Toxic](https://open.spotify.com/album/1o7TaQ4EMPhF8wHpUFv08z) | 3:10 | 2022-09-02 | 2022-12-17 |
 | [Trench](https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/5XfEUtLHyx1mcHQ9bwWLZN) | 2:36 | 2022-07-29 | 2022-09-17 |
 | [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 | 2022-11-25 |  |
 | [UGLY](https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [UGLY](https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS) | 3:33 | 2022-07-29 | 2022-08-20 |

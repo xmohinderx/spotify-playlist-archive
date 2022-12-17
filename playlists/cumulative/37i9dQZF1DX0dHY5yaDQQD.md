@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-167 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+168 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Groove Alert \- Alarm Mix](https://open.spotify.com/track/79vAMz8olTgiMKB8LsUGCD) | [DJ Disrespect](https://open.spotify.com/artist/7pYWyaWDxwNFySF8tutXwI) | [Classic Cuts Vol\. 2](https://open.spotify.com/album/3awgzwVt09xnq5Pr0T8fUJ) | 7:21 | 2022-02-18 | 2022-07-28 |
 | [Grotto](https://open.spotify.com/track/7AzuzLx3KbomYpBbed83Fx) | [Loppy B](https://open.spotify.com/artist/4e594LAfePGRGVcgQ1Uk2Y), [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R), [SCAM](https://open.spotify.com/artist/0vyKPWjgqGEUgkMqhrcaim) | [Grotto](https://open.spotify.com/album/3iO9fAhL7ehzoulpBl0ems) | 3:49 | 2022-02-18 | 2022-09-17 |
 | [Gunjula \- Metrist Remix](https://open.spotify.com/track/45QvvNFHcZpIYTRGdbWp4s) | [Nihiloxica](https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL), [Metrist](https://open.spotify.com/artist/2EaMCfkZ07OvRk0w2UOEwg) | [Kaloli Recycled](https://open.spotify.com/album/27T0AEWnQ6RD554Qg40kLI) | 3:52 | 2022-07-29 |  |
-| [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-23 |  |
+| [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-23 | 2022-12-17 |
+| [Hard Tarantella](https://open.spotify.com/track/0XStJCyj4Q8eNtuyFcoifu) | [NZIRIAA](https://open.spotify.com/artist/708GD7wt7fEo1CrRTCfdld) | [XXYBRID](https://open.spotify.com/album/2uKd4O9RA1lWwetOeQZ31J) | 5:05 | 2022-09-16 |  |
 | [Harder Yodel](https://open.spotify.com/track/5fvU2UZPOZVEsGNrbYhdW5) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU), [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd) | [Harder Yodel](https://open.spotify.com/album/4IUDCmHByiDLlPvUEGeSA9) | 3:13 | 2022-02-18 | 2022-07-30 |
 | [Here's Johnny \- Original Mix](https://open.spotify.com/track/6Btedv3os2qHDzN3Ym0ufy) | [Jan Vervloet](https://open.spotify.com/artist/3Wh3NNmiXQb6KzLRWiS8Ps), [Dj Liberty](https://open.spotify.com/artist/5MBZ7DY8kZRew9S5fjKrgf) | [Here's Johnny](https://open.spotify.com/album/7gqyo6OfAB08agvbswSfQF) | 3:24 | 2022-02-18 | 2022-07-29 |
 | [Hidden Teeth](https://open.spotify.com/track/5iFPLOnxNlBZqTHoqghuLw) | [Osheyack](https://open.spotify.com/artist/1juz0H48u94THg3gHf0rGE) | [Empty Hell](https://open.spotify.com/album/0NGXTrjqRMtXpguErqr9aK) | 3:42 | 2022-02-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,264 likes - 88 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,272 likes - 88 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 38 | [遠在眼前](https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Awaken](https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn) | 4:05 |
 | 39 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 |
 | 40 | [新年快樂](https://open.spotify.com/track/2qfbVADQ4FbqlGj55T8t5U) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [新年快樂](https://open.spotify.com/album/32elQ6WhPVOADzfHMnzode) | 3:50 |
-| 41 | [AUNTIE](https://open.spotify.com/track/5a5oBAAjI6Z6AuZo2MEVB9) | [Jan Lamb](https://open.spotify.com/artist/42uvXrSYcxDx4zStor068I) | [AUNTIE](https://open.spotify.com/album/1qXfSreBUV1bHlja9b9pfi) | 4:16 |
+| 41 | [AUNTIE](https://open.spotify.com/track/5a5oBAAjI6Z6AuZo2MEVB9) | [Jan Lamb](https://open.spotify.com/artist/42uvXrSYcxDx4zStor068I) | [AUNTIE](https://open.spotify.com/album/1qXfSreBUV1bHlja9b9pfi) | 5:04 |
 | 42 | [裂](https://open.spotify.com/track/6siCl93Ei5QHzgRdNnPVkf) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [裂](https://open.spotify.com/album/02VYTcVpfz3YtM5kBKqCnk) | 3:51 |
 | 43 | [廢學](https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:28 |
 | 44 | [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 |

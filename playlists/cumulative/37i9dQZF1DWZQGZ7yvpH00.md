@@ -2,7 +2,7 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Conexión Divina en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 ERRE en portada.
 
 104 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
 

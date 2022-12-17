@@ -2,13 +2,15 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: Koil
+> Penggalan lagu lama dari kancah musik independen\. Cover: The Brandals
 
-101 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+107 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Ouch\) Mighty Love](https://open.spotify.com/track/6fKHg8pucl8ZFj07NVEBvk) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Unrescued World](https://open.spotify.com/album/0knRYnWDxaU96s6cOEu8BF) | 4:11 | 2021-11-25 |  |
+| [100 Km/Jam](https://open.spotify.com/track/1tfr5ePg7gEIt6WiXeorNJ) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [The Brandals](https://open.spotify.com/album/7umiNnEcvqhsCLFGmc1QDO) | 2:40 | 2022-12-16 |  |
+| [100% Kontrol](https://open.spotify.com/track/24giWUT5X8fFPFE8quTB3v) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 2:21 | 2022-12-16 |  |
 | [2 AM](https://open.spotify.com/track/71x7IYQXrCv8Pd2CX39oQm) | [Monday Math Class](https://open.spotify.com/artist/2TEO3mpRZL9jXJakMGTF3J) | [Volume 1 \- Ep](https://open.spotify.com/album/6cHlFXEzCz5A4zIIy0hdNX) | 4:32 | 2021-11-25 |  |
 | [A Spy in the House of Love](https://open.spotify.com/track/6Um6kOVCAV2LdFUAEWXgyS) | [The Jonis](https://open.spotify.com/artist/5Pq2ik6ubF4yTY3BcTsDqb) | [A Spy in the House of Love](https://open.spotify.com/album/2GvKZUcqklr89phbizRh7M) | 4:39 | 2021-11-25 |  |
 | [a Thousand Miles from the Atmosphere](https://open.spotify.com/track/43wDwERxDlI7shRV8siX07) | [LastElise](https://open.spotify.com/artist/79sjdrTXc4buTUKgEuspYl) | [a Thousand Miles from the Atmosphere](https://open.spotify.com/album/2UHFzT9qA6tnmQjAaAPqo2) | 3:17 | 2022-08-04 |  |
@@ -20,6 +22,7 @@
 | [Amerika](https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy) | [Armada Racun](https://open.spotify.com/artist/4eQQrNIgQpYGk0MvdNHncq) | [La Peste](https://open.spotify.com/album/2ymuB5HHTqFqKDN6y2ADwa) | 2:31 | 2021-11-25 |  |
 | [Another Song for Her](https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:10 | 2022-01-06 |  |
 | [Apple \(Suicide On Your Stereo Set\)](https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG) | [Annemarie](https://open.spotify.com/artist/510UvK3f9UNOBh4CNZuSoJ) | [ABC On Tv](https://open.spotify.com/album/712iSMC4r6ANdkzBCkqAz3) | 3:38 | 2021-11-25 |  |
+| [Awas Polizei!](https://open.spotify.com/track/2bPsnsvezXrMzck5HROMZ5) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [DGNR8](https://open.spotify.com/album/5g5AfLL7lcT9NjWhEZoN8i) | 4:07 | 2022-12-16 |  |
 | [Bedroom Avenue](https://open.spotify.com/track/4BhsOTApNxK4VxTjJgoLtT) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 3:03 | 2022-10-28 |  |
 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 | 2022-08-04 |  |
 | [Berlayar](https://open.spotify.com/track/2vGdIDuFo0EKPxywKCyWpu) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:01 | 2021-11-25 |  |
@@ -39,7 +42,7 @@
 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 5:14 | 2021-11-25 |  |
 | [Kabut](https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo) | 3:26 | 2022-09-16 |  |
 | [Kelopak Angsa \- Remastered](https://open.spotify.com/track/0YyNk502FhwF3KjTbyAMsb) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Kelopak Angsa \(Remastered\)](https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb) | 4:11 | 2021-11-25 |  |
-| [Kenyataan Dalam Dunia Fantasi](https://open.spotify.com/track/2zvwxYin8bajogul1xrJR5) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:05 | 2022-12-09 |  |
+| [Kenyataan Dalam Dunia Fantasi](https://open.spotify.com/track/2zvwxYin8bajogul1xrJR5) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:05 | 2022-12-09 | 2022-12-17 |
 | [Kisah Dari Selatan Jakarta](https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Together Whatever Sessions \(Live Version\)](https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl) | 4:15 | 2021-11-25 |  |
 | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/track/2MuNPjvtdsIIX46Felbx82) | [Baby Eats Crackers](https://open.spotify.com/artist/5ToCo2V5mapXG8lnr9mV3e) | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/album/0MBi0mMMAW1YoPWyLAtNGl) | 3:16 | 2022-08-04 |  |
 | [Kita Akan Bertemu di Sana](https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Cerah Berawan](https://open.spotify.com/album/3mXgaM6h0ZysTtrEahbhUF) | 4:43 | 2022-08-04 |  |
@@ -66,7 +69,9 @@
 | [Mesin Penenun Hujan](https://open.spotify.com/track/6WObOPPp4yKnwiL6abeA35) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 3:26 | 2021-11-25 |  |
 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 | 2021-11-25 |  |
 | [Nonton Srimulat](https://open.spotify.com/track/43YNype2Bng8TrSkWD3htz) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:20 | 2021-11-25 |  |
+| [Obsesi Mesin Kota](https://open.spotify.com/track/4dNFFPsWiC8RuRjGThmegd) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Audio Imperialist](https://open.spotify.com/album/3cSra7Q522rn7BvRIKYU5K) | 4:05 | 2022-12-16 |  |
 | [Ode Buat Kota](https://open.spotify.com/track/2jkubtUODXk1fbYFx4z9US) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Ode Buat Kota](https://open.spotify.com/album/00c4Anc1uWsQCVijdCTJwB) | 4:01 | 2021-11-25 |  |
+| [Ode Pinggiran Jakarta](https://open.spotify.com/track/4hG9copEXzRakxEozJAMH5) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Audio Imperialist](https://open.spotify.com/album/3cSra7Q522rn7BvRIKYU5K) | 4:33 | 2022-12-16 |  |
 | [Old Friend](https://open.spotify.com/track/6hGV9A3qjB3nBzLCXM4sPV) | [Ballads of the Cliche](https://open.spotify.com/artist/7fNOUKLAwWlOMfv3uAW3RD) | [Evergreen](https://open.spotify.com/album/73hSLzBNglYCR8TvyXJans) | 3:20 | 2021-11-25 |  |
 | [Our Little Secret](https://open.spotify.com/track/30UYhqjoFvR1IKBOuLY4Om) | [Clover](https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk), [Merdi Simanjuntak](https://open.spotify.com/artist/4N8LDmG9Rwaoix3Sylkgzw) | [Until Whenever](https://open.spotify.com/album/6R9s145A0ajId6I0yjlrZc) | 3:54 | 2022-06-23 |  |
 | [Pada Awalnya](https://open.spotify.com/track/41m65kJO5iZ4S42AqOSD0Q) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 3:43 | 2021-11-25 | 2022-01-07 |
@@ -103,6 +108,7 @@
 | [Teriak Gila](https://open.spotify.com/track/3O8aGQKFWHyq0UwJyzFtGG) | [Cuts](https://open.spotify.com/artist/6jnTaV0jKpS85zcC4ybsft) | [Rrradarrr](https://open.spotify.com/album/53HlDsygw2WROw5dc4vzt8) | 3:40 | 2021-11-25 |  |
 | [The Rain Always Had an Answer](https://open.spotify.com/track/4jYTgqXhW7aqdWE2VTVfaZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [Blossom Diary](https://open.spotify.com/album/2FbbUH7vKIV5vWcD6BXQjl) | 4:31 | 2022-05-12 |  |
 | [Tidur Dimanapun Bermimpi Kapanpun](https://open.spotify.com/track/13pS8pG9NDe5yX8lptvLu9) | [Morfem](https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59) | [Indonesia](https://open.spotify.com/album/0tkJ7mCa6Rct4HjOZAttxp) | 4:11 | 2022-06-23 |  |
+| [Tipu Jalanan](https://open.spotify.com/track/455lrM7CINDST62QTXwc4O) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 3:44 | 2022-12-16 |  |
 | [Train Song](https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67) | [LAIN](https://open.spotify.com/artist/7jl1uHLFhjyTBm7VhEJkfc) | [Djakarta Goodbye](https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo) | 3:16 | 2021-11-25 |  |
 | [Tribute for you](https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX) | [Pestolaer](https://open.spotify.com/artist/1gpfHCNfV3ODeF7f6YfsSF) | [Best of the Best](https://open.spotify.com/album/0ywMYhZ1UwaSMvuIO2HiMI) | 3:53 | 2022-04-14 |  |
 | [Waking Hour](https://open.spotify.com/track/0cs8SUKFfyO9yUPlVCY6oh) | [Hightime Rebellion](https://open.spotify.com/artist/6pdlU4FPMqLG74BWDxcTEO) | [Neurobic](https://open.spotify.com/album/6qwfwz47DEnXUQw6MD2dc6) | 4:43 | 2022-06-03 |  |

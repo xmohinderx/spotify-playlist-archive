@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-236 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+237 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [La Condesa](https://open.spotify.com/track/2AGOxoYeqI7nFJMA2AmG27) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [La Condesa](https://open.spotify.com/album/3l9FBpt6oDAkq9UMGgBQwZ) | 3:14 | 2022-06-17 |  |
 | [La Mestis](https://open.spotify.com/track/0blt7mXlKmi52DXcYUKiQL) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [La Mestis](https://open.spotify.com/album/0VPJYGbYJsCCMvWujKVoj7) | 2:00 | 2022-06-17 |  |
 | [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 | 2022-06-17 |  |
+| [Late Lullaby](https://open.spotify.com/track/0QT6t8v1xhNpTS365TTefJ) | [Rhys Lowe](https://open.spotify.com/artist/2SOP55SS8fB8moOlHWLROC) | [Late Lullaby](https://open.spotify.com/album/6nlaNhLk5WlJfW3lPCQcKG) | 1:46 | 2022-12-16 |  |
 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 | 2022-06-17 |  |
 | [Lilac](https://open.spotify.com/track/2ZllgmJ44JB80Xr1KkI5xK) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Lilac](https://open.spotify.com/album/5P1QxSMeZzIAaxCl3xRtDs) | 3:27 | 2022-11-18 |  |
 | [Live Forever](https://open.spotify.com/track/5FPdwD2bN2dhamXq48ahzk) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Live Forever](https://open.spotify.com/album/49dxWodL0FhB1Uzg9iUETV) | 2:43 | 2022-08-12 |  |
@@ -168,7 +169,7 @@
 | [Port Blair](https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Port Blair](https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd) | 2:34 | 2022-10-07 |  |
 | [Porte moi](https://open.spotify.com/track/4A6k2vAHalGrOKobg3yxna) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Porte moi](https://open.spotify.com/album/24kciXvVVsVoNmEm1qRv8z) | 2:10 | 2022-12-09 |  |
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-06-17 |  |
-| [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:43 | 2022-11-18 |  |
+| [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:16 | 2022-11-18 |  |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 |  |
 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 | 2022-06-17 |  |
 | [Put Some Coins In My Guitar Case](https://open.spotify.com/track/1VKSVewoEeEZSWGMmIHqJp) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Put Some Coins In My Guitar Case](https://open.spotify.com/album/7fmKjvUk9dVpPdaYgSu3TV) | 3:33 | 2022-10-28 |  |

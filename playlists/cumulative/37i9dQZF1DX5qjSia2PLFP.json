@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover: Jay Glavany ",
+  "description": "New music breaking waves. ",
   "name": "Ripple Effect",
   "published_playlist_ids": [
     "74YlDMgCbNeMMptS6g5iCD"
@@ -121,6 +121,24 @@
       "duration_ms": 211393,
       "name": "2much - YCO Jay Remix",
       "url": "https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208618,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu"
     },
     {
       "album": {
@@ -1306,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Get The Gat",
+        "url": "https://open.spotify.com/album/48THGiijGql0YItnekn1C8"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132017,
+      "name": "Get The Gat",
+      "url": "https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn"
+    },
+    {
+      "album": {
         "name": "Ghetto Praise",
         "url": "https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc"
       },
@@ -1751,6 +1787,24 @@
       "duration_ms": 196122,
       "name": "If You Must Go",
       "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
+    },
+    {
+      "album": {
+        "name": "Imaginary Friend",
+        "url": "https://open.spotify.com/album/3bSVNfpgs4OasLqpvgJoeE"
+      },
+      "artists": [
+        {
+          "name": "Tae Dawg",
+          "url": "https://open.spotify.com/artist/5HxD1kjjKZ0K0adufI1JXN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Imaginary Friend",
+      "url": "https://open.spotify.com/track/6L2QU0UQqEBxbOiaKUJmiE"
     },
     {
       "album": {
@@ -2321,6 +2375,24 @@
       "duration_ms": 104819,
       "name": "Munch (Feelin\u2019 U)",
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/2Pw6yUJVTGSqYiDHriSGX2"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104700,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/0eQjeOTNSzUudwy7dyTExY"
     },
     {
       "album": {
@@ -3075,6 +3147,24 @@
       "duration_ms": 217635,
       "name": "Set It Up",
       "url": "https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF"
+    },
+    {
+      "album": {
+        "name": "Shut The Door",
+        "url": "https://open.spotify.com/album/47zFR7hPucglskk6vWsCkh"
+      },
+      "artists": [
+        {
+          "name": "SIV",
+          "url": "https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163402,
+      "name": "Shut The Door",
+      "url": "https://open.spotify.com/track/4r6eiYt8C6HmBh584gNKRW"
     },
     {
       "album": {
@@ -4001,6 +4091,28 @@
       "duration_ms": 145494,
       "name": "Wish I Knew",
       "url": "https://open.spotify.com/track/3qx7ig57062kyFMNqBHWPn"
+    },
+    {
+      "album": {
+        "name": "wish that i could (Memphis LK Remix)",
+        "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/1P5YwT9JBMmRTrwTtUCIpk"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181330,
+      "name": "wish that i could - Memphis LK Remix",
+      "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
     },
     {
       "album": {

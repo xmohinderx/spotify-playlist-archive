@@ -224,6 +224,28 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/0ypQJe3UArCxJJKP1DJWw8"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157687,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv"
+    },
+    {
+      "album": {
         "name": "altitude",
         "url": "https://open.spotify.com/album/7GEhaT2jgkwaE5TrAGw13P"
       },
@@ -1110,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "Coloring Book",
+      "url": "https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7"
+    },
+    {
+      "album": {
         "name": "Todo Es Lo Que Parece",
         "url": "https://open.spotify.com/album/4MlUv21lIHvgXzpg5vPNNz"
       },
@@ -1518,6 +1558,24 @@
     },
     {
       "album": {
+        "name": "Glad U Made It",
+        "url": "https://open.spotify.com/album/2mXDLDMuVrcnD2OyAvoLL3"
+      },
+      "artists": [
+        {
+          "name": "HATAMITSUNAMI",
+          "url": "https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132717,
+      "name": "Earlybird",
+      "url": "https://open.spotify.com/track/2BdKiwPRV6UbxAwdqS8iDA"
+    },
+    {
+      "album": {
         "name": "The Afternoon Breeze",
         "url": "https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU"
       },
@@ -1879,6 +1937,24 @@
       "duration_ms": 111750,
       "name": "Fika",
       "url": "https://open.spotify.com/track/32gy3AZgAjxHUUpVzA42YD"
+    },
+    {
+      "album": {
+        "name": "Finding Answers",
+        "url": "https://open.spotify.com/album/2PQL43GznawqJyn1xIOZhg"
+      },
+      "artists": [
+        {
+          "name": "Kenobig",
+          "url": "https://open.spotify.com/artist/1YKfjPgzeaza19zUC9ZZAp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132541,
+      "name": "Finding Answers",
+      "url": "https://open.spotify.com/track/1K1Hl2R6gOTZBfx6vAc2bE"
     },
     {
       "album": {
@@ -5505,6 +5581,24 @@
       "duration_ms": 113250,
       "name": "She\u00b4s fly",
       "url": "https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB"
+    },
+    {
+      "album": {
+        "name": "sky high",
+        "url": "https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi"
+      },
+      "artists": [
+        {
+          "name": "eaup",
+          "url": "https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "sky high",
+      "url": "https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs"
     },
     {
       "album": {

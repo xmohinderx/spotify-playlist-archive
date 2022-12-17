@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-131 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+132 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Brokeboi](https://open.spotify.com/track/6go2VEJUSmwls8c3a8aggf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Las Crónicas De Ngangu](https://open.spotify.com/album/7Lj5OzGoQBzSb4PeghYlLp) | 3:43 | 2022-01-20 | 2022-07-29 |
 | [CARAS VEMOS \- Remix](https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [CARAS VEMOS \(Remix\)](https://open.spotify.com/album/6YDlWZ01O0RboiJIOs00Tz) | 6:50 | 2022-01-20 |  |
 | [CELULAR](https://open.spotify.com/track/0g0Ipiv8a9kWSq4acp8L1H) | [KAZE KENZO](https://open.spotify.com/artist/73pLtWPm3Lw8ikjuX6BX0P), [Max Valenzuela](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD) | [CELULAR](https://open.spotify.com/album/7zpODfVIHAMlfw0wNXWRFN) | 2:35 | 2022-02-11 | 2022-05-28 |
-| [CHAINZ](https://open.spotify.com/track/4CW58twcKqVT7nvtKoloHv) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [CHAINZ](https://open.spotify.com/album/6JKli5Wrp3272NFOpyapVO) | 2:15 | 2022-01-20 |  |
+| [CHAINZ](https://open.spotify.com/track/4CW58twcKqVT7nvtKoloHv) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [CHAINZ](https://open.spotify.com/album/6JKli5Wrp3272NFOpyapVO) | 2:15 | 2022-01-20 | 2022-12-17 |
+| [CHAINZ](https://open.spotify.com/track/5IZPp18xCMZBoIi0Ws2K1E) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 2:16 | 2022-08-25 |  |
 | [Chat](https://open.spotify.com/track/4Wa1K30gzHFlntJ7gijLMB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 3:01 | 2022-01-20 | 2022-03-18 |
 | [Como Lo Soñamos](https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW) | 3:16 | 2022-01-20 | 2022-07-29 |
 | [Como Lo Soñamos](https://open.spotify.com/track/41pHCnygRX0uSLjX27uIqa) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/2kIi0RG1UBF33p5FiWoTHb) | 3:18 | 2022-07-22 |  |

@@ -2770,6 +2770,24 @@
     },
     {
       "album": {
+        "name": "Hollow Moon Party",
+        "url": "https://open.spotify.com/album/6dIuNk78exWy1M7Ettz1QU"
+      },
+      "artists": [
+        {
+          "name": "Psylone",
+          "url": "https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145954,
+      "name": "Hollow Moon Party",
+      "url": "https://open.spotify.com/track/1iI5xkHbEOG5wche1o681q"
+    },
+    {
+      "album": {
         "name": "Marie",
         "url": "https://open.spotify.com/album/2mmH6a8S7d07KX8gTJRX2Z"
       },
@@ -4093,7 +4111,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 112215,
       "name": "Mendihuaca",
       "url": "https://open.spotify.com/track/5q4ftydiLHarJNRZ4AtHOO"

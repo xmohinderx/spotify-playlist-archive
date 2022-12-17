@@ -4,7 +4,7 @@
 
 > Fresh Finds Italia presenta il meglio della musica indipendente italiana del 2022\. Cover: <a href="spotify:artist:4vXFvvWirlvTwcl184KfDc">Sans Soucis</a>
 
-474 songs - 1 day 0 hr 2 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+475 songs - 1 day 0 hr 7 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Giuro](https://open.spotify.com/track/15ET8CADSZqc0nh7IquXXs) | [ioemiofratello](https://open.spotify.com/artist/4fDbHugHPkG4jV6GmtAYI7) | [Giuro](https://open.spotify.com/album/7E4eM2dgZTL3QwwtAKA6eV) | 3:05 | 2022-07-22 | 2022-09-30 |
 | [Giù](https://open.spotify.com/track/3ctMkJzFcEgNbN2CBYJ5sx) | [ehm.carbo](https://open.spotify.com/artist/1olvNHZrWoIy6uszZGrUGB) | [Giù](https://open.spotify.com/album/7v3R44AkhsnpCuZiIS1qVY) | 2:46 | 2022-06-02 | 2022-07-08 |
 | [goddamn](https://open.spotify.com/track/3BLgoDnKegcilQMQvcCl1W) | [mt36](https://open.spotify.com/artist/4u8sH1UCcEeS6lke6At8Fi), [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [goddamn](https://open.spotify.com/album/2VWCy3ui3OjSa6gqhxSHTR) | 2:06 | 2022-02-17 | 2022-03-04 |
-| [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-19 |  |
+| [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-19 | 2022-12-17 |
+| [Hard Tarantella](https://open.spotify.com/track/0XStJCyj4Q8eNtuyFcoifu) | [NZIRIAA](https://open.spotify.com/artist/708GD7wt7fEo1CrRTCfdld) | [XXYBRID](https://open.spotify.com/album/2uKd4O9RA1lWwetOeQZ31J) | 5:05 | 2022-11-30 |  |
 | [Harem](https://open.spotify.com/track/56DscQnCfTx3Mrzg0ilNYc) | [CARUCCIO](https://open.spotify.com/artist/7iEdkkrillq0ZTKEg0rADQ) | [Harem](https://open.spotify.com/album/2s69BagRedQ4zcbebXoP9s) | 2:58 | 2022-01-06 | 2022-02-18 |
 | [Ho perso il conto](https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [GENESI](https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw) | 3:19 | 2022-04-08 | 2022-06-17 |
 | [HOUDINI](https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA) | [Franek Windy](https://open.spotify.com/artist/1N0nTSt5dfmWS9kGChRAIL), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [HOUDINI](https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM) | 2:32 | 2022-04-19 | 2022-06-10 |

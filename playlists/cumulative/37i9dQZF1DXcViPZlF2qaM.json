@@ -2112,6 +2112,32 @@
     },
     {
       "album": {
+        "name": "LQRA Session #9",
+        "url": "https://open.spotify.com/album/3vuHYUMbcDbAQ6uRA75e0f"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "LQRA Session #9",
+      "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
+    },
+    {
+      "album": {
         "name": "Mam\u00e1",
         "url": "https://open.spotify.com/album/7BwXwHltlavtSymrUeug1V"
       },
@@ -2305,7 +2331,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
@@ -3411,7 +3437,7 @@
           "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "date_added": "2022-12-08",
+      "date_added": "2022-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201413,

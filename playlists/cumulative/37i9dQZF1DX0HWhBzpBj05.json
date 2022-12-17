@@ -326,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Mannheim Steamroller Christmas Symphony II",
+        "url": "https://open.spotify.com/album/5eoDnNf0YWYPH9KmFnLyaM"
+      },
+      "artists": [
+        {
+          "name": "Mannheim Steamroller",
+          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/2jLjMwY8thbmBhis9CsjFe"
+    },
+    {
+      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -341,7 +359,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -1427,6 +1445,24 @@
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
+    },
+    {
+      "album": {
+        "name": "Snow Waltz",
+        "url": "https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186484,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/69RcXwRKDJdUtkZyF5D925"
     },
     {
       "album": {

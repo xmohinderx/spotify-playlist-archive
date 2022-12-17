@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 419816,
+  "num_followers": 419891,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU5NzE5MiwwMDAwMDAwMDRmMDIzZGVkMGQ5NjZmYzA3Yjc3MjE1MDVjZjgxNWRh",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGNlMTEyMzdkM2ZkZDdjOGM3MWEyYWIwZjRlOTU3ZWUw",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2M6f90yKmcXK71HGVpnOcB"
     },
     {
-      "added_at": "2022-12-16 01:28:24",
+      "added_at": "2022-12-09 14:46:32",
       "album": {
         "name": "Pound Cake",
         "url": "https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK"
@@ -103,6 +103,22 @@
       "duration_ms": 179717,
       "name": "Pound Cake",
       "url": "https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "61 South",
+        "url": "https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 80976,
+      "name": "61 South",
+      "url": "https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -323,22 +339,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Good To You",
-        "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
-      },
-      "artists": [
-        {
-          "name": "Jonny P",
-          "url": "https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6"
-        }
-      ],
-      "duration_ms": 158855,
-      "name": "Good To You",
-      "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 242520,
       "name": "Mrs.",
       "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Good To You",
+        "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
+      },
+      "artists": [
+        {
+          "name": "Jonny P",
+          "url": "https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6"
+        }
+      ],
+      "duration_ms": 158855,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -399,22 +415,6 @@
       "duration_ms": 248386,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Lonesome as a Shadow",
@@ -497,22 +513,6 @@
       "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 195340,
-      "name": "belladonna",
-      "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Get Real High",
@@ -527,6 +527,22 @@
       "duration_ms": 247380,
       "name": "Get Real High",
       "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 195340,
+      "name": "belladonna",
+      "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -663,6 +679,22 @@
       "duration_ms": 172240,
       "name": "Ice Cream & Cigarettes",
       "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -809,38 +841,6 @@
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 299680,
-      "name": "Set My Soul on Fire",
-      "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "South Gotta Change",
@@ -887,6 +887,22 @@
       "duration_ms": 223490,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 299680,
+      "name": "Set My Soul on Fire",
+      "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -985,6 +1001,22 @@
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Trouble",
@@ -1003,22 +1035,6 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1205,22 +1221,6 @@
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "U kin B the Sun",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Southern Avenue",
-        "url": "https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL"
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
         }
       ],
-      "duration_ms": 232600,
-      "name": "What Did I Do",
-      "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     }
   ],
   "unique_name": "Blues Roots",

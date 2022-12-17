@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 119058,
+  "num_followers": 119092,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGMwNDE5ZjYzZjE3YzQ0MTQ1NmM2ZTA3ZjA1MzcwNzE0",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDJmNTBhZDhhYmY2NjJmNzYxY2M3NTBlNWFjOTNmM2Ew",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Heartaches And Pain",
-        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Everything's Gonna Be All Right",
-      "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "I Am The Blues",
@@ -471,6 +455,22 @@
       "duration_ms": 216373,
       "name": "The Little Red Rooster",
       "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Heartaches And Pain",
+        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Everything's Gonna Be All Right",
+      "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
     },
     {
       "added_at": "2018-02-27 18:08:29",

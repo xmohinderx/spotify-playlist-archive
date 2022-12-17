@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-263 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+265 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2022-05-20 |  |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2022-05-20 |  |
 | [Far Away](https://open.spotify.com/track/5nLzKWIMBakd1zvZXgaph7) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Far Away](https://open.spotify.com/album/3oEUzvMUFz4hABHlpYSlIe) | 3:09 | 2022-08-12 |  |
+| [Far Off](https://open.spotify.com/track/67guXHhZmdmC1GB7GxCQ3Y) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Far Off](https://open.spotify.com/album/4STEWF6LQZw4Y69ExDYfyQ) | 2:48 | 2022-12-16 |  |
 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2022-05-20 | 2022-09-02 |
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2022-05-20 |  |
 | [Feelings](https://open.spotify.com/track/6BfSu2jmPD8qk4tl3Wre3u) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/4XhTYWqq6hs3uWBdYDXdyw) | 2:31 | 2022-05-20 | 2022-06-24 |
@@ -134,6 +135,7 @@
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 |  |
 | [Le Lilo](https://open.spotify.com/track/0hGS08QMuu8V39NrGXwEoY) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [Le Lilo](https://open.spotify.com/album/4nczLStqN6TdpCSK8qDtgy) | 2:07 | 2022-05-20 |  |
 | [Leaning Backwards](https://open.spotify.com/track/5MXNVNhGjeAJ7iVTYZTAZm) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [Equality](https://open.spotify.com/album/4bCi8izrMc43Wdenchwy56) | 3:11 | 2022-05-20 |  |
+| [Leap Into The Air](https://open.spotify.com/track/1BlcH5OAy7871JAE5SXtUP) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Leap Into The Air](https://open.spotify.com/album/35wg9T0JJK0wuwQjFGJ6mC) | 2:51 | 2022-12-16 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-05-20 |  |
 | [Lipari](https://open.spotify.com/track/1d0XIRfBAwnyXxbyfhlFj3) | [Aeolian Islands](https://open.spotify.com/artist/0IP2xuR1mgcLD2xyeA2QTD) | [Lipari](https://open.spotify.com/album/7c4pPuVOCQ0MZZiEuc89up) | 3:41 | 2022-05-20 |  |
 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-07-01 |  |

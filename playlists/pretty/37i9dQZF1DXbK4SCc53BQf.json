@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 77515,
+  "num_followers": 77551,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGNhOGMwNmE5YWE1NTM3MmQyMDAwY2UzZmEwOGI3ZThk",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDg2MWVmNDMwMDIzNzMyODQyZGI5NDBmODYyMmE5NDY1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Los Revolucionarios",
-        "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
-      },
-      "artists": [
-        {
-          "name": "Batuqueadora",
-          "url": "https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw"
-        }
-      ],
-      "duration_ms": 235681,
-      "name": "Batugozo",
-      "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 283317,
       "name": "TRAPCHATA",
       "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Los Revolucionarios",
+        "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
+      },
+      "artists": [
+        {
+          "name": "Batuqueadora",
+          "url": "https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw"
+        }
+      ],
+      "duration_ms": 235681,
+      "name": "Batugozo",
+      "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
     },
     {
       "added_at": "2020-11-24 13:23:55",

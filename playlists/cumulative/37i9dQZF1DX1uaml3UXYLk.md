@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-511 songs - 1 day 8 hr 58 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+512 songs - 1 day 9 hr 0 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Drowning](https://open.spotify.com/track/5ssUr3AOt2Y1KeJ9IdNjcd) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Drowning](https://open.spotify.com/album/4oBdLuvSuBg9wdkcPwkbE9) | 3:32 | 2020-10-30 | 2021-06-23 |
 | [Easy Living](https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Easy Living](https://open.spotify.com/album/10WJanvowjMB3sktk90S1g) | 6:30 | 2020-11-13 | 2021-01-15 |
 | [Easy Walker](https://open.spotify.com/track/1KsV7SV875mBfBlb40wYLU) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [A Welcome Escape](https://open.spotify.com/album/6MNnXxeWGTY6Sc1u6SxgQJ) | 5:57 | 2021-06-04 |  |
+| [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-16 |  |
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2021-05-13 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2021-05-13 | 2021-08-25 |
 | [Embrace](https://open.spotify.com/track/5TXeBjOzQ5JXsIyopwEnec) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Embrace](https://open.spotify.com/album/46YVi0CuFan0r1Q6e3H8zx) | 2:56 | 2021-11-10 | 2022-08-05 |

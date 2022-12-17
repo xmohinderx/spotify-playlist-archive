@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156763,
+  "num_followers": 156755,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDdjMTM0NDAwNjRjZmEwMDgxYWQ5NDcxMGZmNjMxNmRm",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGVlYzhhMjBjMDE5ZTkxZDQ3ODkzNWY5OGFhYmE3YWEw",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Detroit 3 AM (Radio Edit)",
         "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 188640,
       "name": "Detroit 3 AM - Radio Edit",
       "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Te Bot\u00e9",
         "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
       },
@@ -1107,22 +1127,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 186180,
       "name": "No One Dies From Love (220 KID Remix)",
       "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
       },
@@ -1567,30 +1583,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Always Feels Like (MOTi Remix)",
-        "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
-      },
-      "artists": [
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 139922,
-      "name": "Always Feels Like - MOTi Remix",
-      "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
       },
@@ -1611,18 +1603,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb"
+        "name": "Always Feels Like (MOTi Remix)",
+        "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi"
+      "duration_ms": 139922,
+      "name": "Always Feels Like - MOTi Remix",
+      "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Something Like That",
+        "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "I'm Just Feelin' (Du Du Du)",
         "url": "https://open.spotify.com/album/2BHIfUecDNOWvsfZODiIJr"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 171427,
       "name": "I'm Just Feelin' (Du Du Du) - MOTi Remix",
       "url": "https://open.spotify.com/track/2Pgm12sMZieZZHw7G3MU9H"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Something Like That",
-        "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Ones You Miss",
+        "url": "https://open.spotify.com/album/2CXzUowHtyuE6bDvnO47jB"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 133669,
+      "name": "Ones You Miss",
+      "url": "https://open.spotify.com/track/2KzcmgRWwh7LsFskO706sS"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Let\u2019s Go Home Together (MOTi Remix)",
         "url": "https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN"
       },
@@ -2103,26 +2119,6 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "We Don\u2019t Talk Enough",
-        "url": "https://open.spotify.com/album/1E9Q39TqWoZnYF08dHuzIR"
-      },
-      "artists": [
-        {
-          "name": "Vigiland",
-          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
-        },
-        {
-          "name": "mha",
-          "url": "https://open.spotify.com/artist/60k9ZPN87OMsrz3h5lUGuL"
-        }
-      ],
-      "duration_ms": 180895,
-      "name": "We Don\u2019t Talk Enough",
-      "url": "https://open.spotify.com/track/62yfWgcfq5sYDcDkxfYZvV"
     }
   ],
   "unique_name": "Tr\u00e4ning",

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 208232,
+  "num_followers": 208253,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDJjMzRjZjYwMDkxOGI1ZGQzYTU5M2I1ZmU5ZjI4ZmM0",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDc0OWE5MTI0N2Y2ZmJkNTEzYmZmZjU5ZWY4Y2YxM2Vk",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Un Paso Mas en la Batalla",
         "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 316413,
       "name": "Deseando Destruir y Matar",
       "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+      },
+      "artists": [
+        {
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Dios Ha Muerto",
+        "url": "https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi"
+      },
+      "artists": [
+        {
+          "name": "Acutor",
+          "url": "https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Brutal Existencia",
+      "url": "https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "From the Abyss",
         "url": "https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 328800,
       "name": "Lowborn Bastard",
       "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Dios Ha Muerto",
-        "url": "https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi"
-      },
-      "artists": [
-        {
-          "name": "Acutor",
-          "url": "https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Brutal Existencia",
-      "url": "https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD"
     }
   ],
   "unique_name": "Metal del Nuestro",

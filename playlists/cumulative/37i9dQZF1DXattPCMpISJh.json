@@ -624,6 +624,28 @@
     },
     {
       "album": {
+        "name": "Crying At The Discoteque",
+        "url": "https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq"
+      },
+      "artists": [
+        {
+          "name": "Discotron",
+          "url": "https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf"
+        },
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238571,
+      "name": "Crying At The Discoteque",
+      "url": "https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC"
+    },
+    {
+      "album": {
         "name": "Crying on the Dance Floor",
         "url": "https://open.spotify.com/album/7pzEWRSHiJ6SZA8lviN99M"
       },
@@ -1198,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "I Believe It",
+        "url": "https://open.spotify.com/album/7IqVMiFRYTIOkQP0TC5dW8"
+      },
+      "artists": [
+        {
+          "name": "Venice Club",
+          "url": "https://open.spotify.com/artist/5nn6vlKul0h0t1ESe524Vx"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "I Believe It",
+      "url": "https://open.spotify.com/track/5yuscwN84KrGaj06WiUUKy"
+    },
+    {
+      "album": {
         "name": "I Ran (So Far Away) [The Liongold Remixes]",
         "url": "https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy"
       },
@@ -1469,7 +1509,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 130253,
       "name": "JUST US TWO",
       "url": "https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A"
@@ -2041,7 +2081,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 268520,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml"

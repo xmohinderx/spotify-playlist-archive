@@ -2,9 +2,9 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Niki
+> Reimagined pop covers of your favorite songs\.  Cover: Adam Lambert
 
-350 songs - 20 hr 7 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+352 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 | 2022-03-25 | 2022-04-16 |
 | [Counting Stars](https://open.spotify.com/track/6cD4KV8z3UERMz4DvnDTAw) | [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Counting Stars](https://open.spotify.com/album/15Y12uSvIOf87NZFEr3hOH) | 2:10 | 2021-12-17 | 2022-05-02 |
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2022-03-25 |  |
+| [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 | 2022-12-16 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-03-25 |  |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/3jbYY3Bufg13nGMaTyE3By) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/4cAhtcqdyshti4UotFGVqJ) | 2:56 | 2022-10-28 | 2022-11-13 |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU) | 2:56 | 2022-07-08 |  |
@@ -242,6 +243,7 @@
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2021-12-17 |  |
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-02 |  |
 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 | 2021-12-17 |  |
+| [Ordinary World](https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Ordinary World](https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi) | 3:20 | 2022-12-16 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2022-03-25 | 2022-04-16 |
 | [positions](https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [positions](https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT) | 2:25 | 2021-12-17 |  |
 | [Positions](https://open.spotify.com/track/4KqLPikOQ5FrIXAvUUVwhJ) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Positions](https://open.spotify.com/album/2dCyDymSOx4CVYj9x2tcg4) | 2:50 | 2021-12-17 | 2022-05-02 |

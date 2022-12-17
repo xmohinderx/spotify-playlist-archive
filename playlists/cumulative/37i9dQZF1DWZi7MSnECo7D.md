@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-302 songs - 17 hr 17 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+303 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Nunca foi descaso \(feat\. Gab Ferreira\) \- Ao Vivo](https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr) | 3:44 | 2022-12-02 |  |
 | [Não foi por mal](https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não foi por mal](https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g) | 2:15 | 2022-02-11 | 2022-04-16 |
 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-07-08 |  |
+| [não posso ficar \(pra sempre\)](https://open.spotify.com/track/4xPYZzsyMbNTJISnGNRLnQ) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [não posso ficar \(pra sempre\)](https://open.spotify.com/album/3xaJvamcwjwwE51yIzVIRh) | 3:19 | 2022-12-16 |  |
 | [O Amor Se Acabou](https://open.spotify.com/track/30kvSA3nmIdNcEn7Qbz62V) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [Crashes n' Crushes](https://open.spotify.com/album/5EVeip4LayRSxsJoIKXmKr) | 2:55 | 2022-01-14 | 2022-01-22 |
 | [o barco](https://open.spotify.com/track/62f4fwsxf54IGvy4ri3z3a) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [o barco](https://open.spotify.com/album/6RmddTpIczOcAEAwuzlcCr) | 4:26 | 2022-08-12 | 2022-09-24 |
 | [o caminho que há em mim](https://open.spotify.com/track/2HEu3ht1zRZTxQF6y26fmd) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Lorena Chaves](https://open.spotify.com/artist/6xYIkRmqYk6u2mDSfetr31) | [o caminho que há em mim](https://open.spotify.com/album/4XfDE3WGVWVmALbfNWkfoi) | 2:54 | 2022-06-17 |  |
@@ -189,7 +190,7 @@
 | [O Que Eu Vou Levar Quando Eu For](https://open.spotify.com/track/6N1PV55RcI141zHTrRAxTp) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [O Que Eu Vou Levar Quando Eu For](https://open.spotify.com/album/2eqjBo30J652ViNP9QXpou) | 3:59 | 2022-07-29 |  |
 | [O Que É](https://open.spotify.com/track/7k5BUux0pDo8OtRH2YHnK7) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [O Que É](https://open.spotify.com/album/50paoVozSUVrqInbWnl3mk) | 3:53 | 2022-03-11 | 2022-03-26 |
 | [O Seu Amor](https://open.spotify.com/track/1zwyRV5lzk7EdmVa9rR6tN) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [O Seu Amor](https://open.spotify.com/album/65ojqlctQXLh8xDyuq1Mq6) | 4:17 | 2022-05-06 | 2022-05-20 |
-| [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 | 2022-09-16 |  |
+| [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 | 2022-09-16 | 2022-12-17 |
 | [O Som Dos Golfinhos](https://open.spotify.com/track/5W0m2UCowu8lY8anIFQHyO) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Self](https://open.spotify.com/album/6KOuaiicX4JZwEf20FWGuK) | 4:53 | 2022-05-13 | 2022-07-23 |
 | [O Teste](https://open.spotify.com/track/1WDvirXKvsQWaM2RK8jD1A) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC) | [O Teste](https://open.spotify.com/album/1yKzHbiYpGdUpQfDoi3EBt) | 3:13 | 2022-02-11 | 2022-04-09 |
 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 | 2022-04-08 |  |

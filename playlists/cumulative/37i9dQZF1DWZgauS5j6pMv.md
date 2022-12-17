@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-256 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+257 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Life's Been Good To Me](https://open.spotify.com/track/70maYMm40ytuPewZ63bzd6) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Life's Been Good To Me](https://open.spotify.com/album/06uPzH5sNiyThjWFLLc48O) | 5:20 | 2021-10-22 | 2022-07-02 |
 | [Living Backwards](https://open.spotify.com/track/2FRX6fs6wXkf8jJigGdpGm) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Living Backwards](https://open.spotify.com/album/2BZziXEUmY61NXLni2LOSJ) | 3:16 | 2021-03-19 | 2022-06-04 |
 | [Lost Myself](https://open.spotify.com/track/5YZYw60dD9M1NZDjHSByqs) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Lost Myself](https://open.spotify.com/album/3sklQMiJt3Nzjparx4K4N9) | 3:28 | 2022-01-21 |  |
-| [Lost Without You](https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/3m5pYFGe7wrujfqMJMeyHF) | 3:11 | 2022-07-01 |  |
+| [Lost Without You](https://open.spotify.com/track/0bJRy8fhup9rKOnk7SMwL2) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/4gNsuthQHyqYvSQJMNG7iM) | 3:11 | 2022-07-01 |  |
+| [Lost Without You](https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/3m5pYFGe7wrujfqMJMeyHF) | 3:11 | 2022-07-01 | 2022-12-17 |
 | [Love In A Groove](https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [Love In A Groove](https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe) | 3:30 | 2022-11-04 |  |
 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 | 2022-03-11 |  |
 | [made of](https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X) | [Skyler Acord](https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4) | [made of](https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f) | 3:02 | 2022-11-25 |  |

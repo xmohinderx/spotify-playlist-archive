@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 62457,
+  "num_followers": 62496,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDFmYzc4M2Y1MmFlNWI1M2M5YjFlNjljODViNmYzYjZk",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDFhMjg2ZjIxYWQ5Mzc5ZjJiZmE2YjljYjA4MDJiNWRk",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -281,24 +281,20 @@
       "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
+      "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -359,6 +355,22 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 325920,
+      "name": "Micaela - Live",
+      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
         "name": "Orchestra Harlow Presenta a Ismael Miranda",
         "url": "https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4"
       },
@@ -379,22 +391,6 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 325920,
-      "name": "Micaela - Live",
-      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
         "name": "Psychedelic Goes Latin",
         "url": "https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC"
       },
@@ -409,20 +405,24 @@
       "url": "https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
+      "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "A Man And His Music: The Player",
-        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 446400,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
       "added_at": "2021-09-07 18:02:03",

@@ -280,6 +280,24 @@
     },
     {
       "album": {
+        "name": "Fire Deh Deh",
+        "url": "https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm"
+      },
+      "artists": [
+        {
+          "name": "Felista Di Superstar",
+          "url": "https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Fire Deh Deh",
+      "url": "https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7"
+    },
+    {
+      "album": {
         "name": "Blue Detail",
         "url": "https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz"
       },

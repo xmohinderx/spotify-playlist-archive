@@ -2,15 +2,15 @@
 
 ### [skad'aká](https://open.spotify.com/playlist/37i9dQZF1DXdNw9eeM3mpo)
 
-> 100 % ska latinoamericano\. Los Fabulosos Cadillacs en portada.
+> 100 % ska latinoamericano\. Los Auténticos Decadentes y Andrea Echeverri en portada.
 
-261 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
+263 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 | 2021-12-21 | 2022-11-13 |
 | [A Beber Ron](https://open.spotify.com/track/7jDxZOrNK2oUstpupqrEko) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [De Vuelta Atrás](https://open.spotify.com/album/7thrKGgXnGuF3a9ArQFdwq) | 4:30 | 2021-12-21 | 2022-07-16 |
-| [A Rianxeira](https://open.spotify.com/track/5bnz3fQJMiu8WsIAM5UZdf) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO), [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Alvarino](https://open.spotify.com/artist/66nV2rjaXypopvC4tOEsCy) | [A Rianxeira](https://open.spotify.com/album/796dod5MMuXxHfLhYKAbuP) | 3:09 | 2022-09-11 |  |
+| [A Rianxeira](https://open.spotify.com/track/5bnz3fQJMiu8WsIAM5UZdf) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO), [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Alvarino](https://open.spotify.com/artist/66nV2rjaXypopvC4tOEsCy) | [A Rianxeira](https://open.spotify.com/album/796dod5MMuXxHfLhYKAbuP) | 3:09 | 2022-09-11 | 2022-12-17 |
 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 | 2022-04-01 | 2022-07-23 |
 | [Abrázame](https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Abrázame](https://open.spotify.com/album/6FvczgJQ93Surwfpn4Q9ba) | 4:03 | 2022-03-18 | 2022-07-24 |
 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 | 2021-12-21 |  |
@@ -25,7 +25,7 @@
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2021-12-21 |  |
 | [Amor Enfermo](https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Amor Enfermo](https://open.spotify.com/album/3CF7yIyzFIW9Z3S0yjRuP9) | 3:33 | 2021-12-21 | 2022-07-29 |
 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 | 2021-12-21 | 2022-07-22 |
-| [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 | 2021-12-21 |  |
+| [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 | 2021-12-21 | 2022-12-17 |
 | [Ay Amor](https://open.spotify.com/track/3vb0Vq9dqrtgIazWxXMb0j) | [República Fortuna](https://open.spotify.com/artist/0GkZTYuobOGpjKah2pLi7Q), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ay Amor](https://open.spotify.com/album/6x7eMSp5kYibwCO7eiDxzj) | 3:46 | 2021-12-21 | 2022-07-13 |
 | [Ay Mamita](https://open.spotify.com/track/3jmvirL7t4yJ0nAo0FNbzM) | [Niña Carolo](https://open.spotify.com/artist/17Zm7wv7XFZZ5T4a2hoWlt) | [Homonimo](https://open.spotify.com/album/1yGaLTvNsf0HQ626vpKcYU) | 3:10 | 2021-12-21 | 2022-01-22 |
 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 | 2021-12-21 |  |
@@ -198,10 +198,12 @@
 | [Runaway](https://open.spotify.com/track/793iCE1VWmcmJxtU0Tkj8Y) | [La Rufina Ska](https://open.spotify.com/artist/6iQqBSRNPd39pZvLKg7ugz) | [En la Victor](https://open.spotify.com/album/1T4O3vUUIu0vm7RI87sJPG) | 3:17 | 2021-12-21 | 2022-03-07 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2021-12-21 |  |
 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 | 2021-12-21 |  |
+| [Salú](https://open.spotify.com/track/1CDM8ubMSiRrmBzOB44YT0) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Salú](https://open.spotify.com/album/1ykAyNxQOlw509Y3UZLmrK) | 3:19 | 2022-12-16 |  |
 | [Sanguchito](https://open.spotify.com/track/4LJqVbAfZleoJFKeINXEWb) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Sanguchito](https://open.spotify.com/album/109r0LI2S9nrtN9rwY31x9) | 3:39 | 2021-12-21 | 2022-04-20 |
 | [Sanguchito](https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena \(Deluxe\)](https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG) | 3:39 | 2021-12-21 |  |
 | [Sarrera VIII](https://open.spotify.com/track/0KrN8YMLtzx9PSiLWkQfbr) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rudi Records](https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx) | 2:23 | 2021-12-21 | 2022-01-10 |
 | [Se Acabo El Amor 2005](https://open.spotify.com/track/3coJHOVnYPPrDq0sDU7nUV) | [Jamaica 69](https://open.spotify.com/artist/5WR89QzeMWyvWN9l4thUHM) | [The Rough and Tough Anthology](https://open.spotify.com/album/0btV40JfMq3w7X1YY7Oqhu) | 3:01 | 2021-12-21 | 2022-07-25 |
+| [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/6OfrAyy51UhReRVKm4O4gO) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Se Me Ha Perdido un Corazón](https://open.spotify.com/album/3sHqU9KQzlVj6Mm00Irtah) | 3:21 | 2022-12-16 |  |
 | [Seamos más que amigos \- Remastered](https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 | 2021-12-21 |  |
 | [Ser Fuertes](https://open.spotify.com/track/6W62ieUxxt94f4XAlA3GFI) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Ser Fuertes en el Alicia](https://open.spotify.com/album/0jsJGklcmoBVS5I0WVZY8t) | 2:56 | 2021-12-21 | 2022-07-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1937917,
+  "num_followers": 1938019,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDk1ZDU2MzFmZWFjMjE4MjhkOTQ3ZDE2MmE4ZTEzYWRi",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGE2OTg5MGNjZmU0YzJhZTU5MGQ2OWE5MGQxMGIxNGIw",
   "tracks": [
     {
       "added_at": "2022-06-21 23:04:28",
@@ -243,18 +243,22 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
       "artists": [
         {
           "name": "Shakey Graves",
           "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -403,22 +407,18 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
       "artists": [
         {
           "name": "Shakey Graves",
           "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Puppy and a Truck",
-        "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 214213,
       "name": "What If I",
       "url": "https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Puppy and a Truck",
+        "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191453,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Shaky Ground",
-        "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Shaky Ground",
-      "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "A Blaze of Feather",
         "url": "https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Shaky Ground",
+        "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Shaky Ground",
+      "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/1SkyQQYMVEndQV77xPhYFH"
-      },
-      "artists": [
-        {
-          "name": "Cereus Bright",
-          "url": "https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G"
-        }
-      ],
-      "duration_ms": 227946,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/4V70CXma5EqVlQ6SvxDLYO"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 169177,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/1SkyQQYMVEndQV77xPhYFH"
+      },
+      "artists": [
+        {
+          "name": "Cereus Bright",
+          "url": "https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G"
+        }
+      ],
+      "duration_ms": 227946,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/4V70CXma5EqVlQ6SvxDLYO"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Omaha",
-        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
-      },
-      "artists": [
-        {
-          "name": "Falls",
-          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
       },
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Guess Again",
-        "url": "https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ"
+        "name": "Omaha",
+        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
       "artists": [
         {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+          "name": "Falls",
+          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
         }
       ],
-      "duration_ms": 197386,
-      "name": "Guess Again",
-      "url": "https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs"
+      "duration_ms": 198600,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
     }
   ],
   "unique_name": "Happy Folk",

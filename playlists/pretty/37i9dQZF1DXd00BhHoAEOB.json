@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 38432,
+  "num_followers": 38491,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQyNzM1OSwwMDAwMDAwMDEyYzkwODhjYmEzMGFiNzJlMjJlNTRmN2Y0ZTQ1ZTE4",
+  "snapshot_id": "MTY3MDQyNzM1OSwwMDAwMDAwMGQ2NjgzOGE2ZTllMzE3ZGEwOWU4MGM5MmJmNzNjNTM4",
   "tracks": [
     {
       "added_at": "2022-10-28 20:24:03",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-28 20:24:03",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
-    },
-    {
-      "added_at": "2022-10-28 20:24:03",
-      "album": {
         "name": "Las Curanderas",
         "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2022-10-28 20:24:03",
+      "album": {
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
     },
     {
       "added_at": "2022-10-28 20:24:03",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2022-10-28 20:24:03",
       "album": {
-        "name": "No tenemos prisa",
-        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
-      },
-      "artists": [
-        {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
-        },
-        {
-          "name": "Eleonor",
-          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Como una punzada",
-      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
-    },
-    {
-      "added_at": "2022-10-28 20:24:03",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/2OQoV2aCykRNe95vvZC6Vl"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 180500,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/5j6tIKVYQm4IX34SWQGQoE"
+    },
+    {
+      "added_at": "2022-10-28 20:24:03",
+      "album": {
+        "name": "No tenemos prisa",
+        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
+      },
+      "artists": [
+        {
+          "name": "Silvia & Karmen",
+          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
+        },
+        {
+          "name": "Eleonor",
+          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "Como una punzada",
+      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
     },
     {
       "added_at": "2022-10-28 20:24:03",

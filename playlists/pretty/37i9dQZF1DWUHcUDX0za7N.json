@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 13084,
+  "num_followers": 13129,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDBjZTMwOWI2MDRiZjRjZWIzN2I4YzFhNDBkY2RiYzRm",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDlhOWYxNzBjODQ2NGJkZTg0Nzg1ZDBmNGIxOWJkNDNm",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -761,20 +761,24 @@
       "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
-      "added_at": "2022-10-28 12:56:05",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "BBO (Bad Bxtches Only)",
-        "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
         }
       ],
-      "duration_ms": 163976,
-      "name": "BBO (Bad Bxtches Only)",
-      "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
+      "duration_ms": 161379,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -797,24 +801,20 @@
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2022-10-28 12:56:05",
       "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
+        "name": "BBO (Bad Bxtches Only)",
+        "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
       },
       "artists": [
         {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
+      "duration_ms": 163976,
+      "name": "BBO (Bad Bxtches Only)",
+      "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
-      "added_at": "2022-09-12 09:50:28",
-      "album": {
-        "name": "Disturb / Pablo Moves",
-        "url": "https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Disturb",
-      "url": "https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Alaye Toh Se Gogo",
@@ -1107,6 +1091,22 @@
       "duration_ms": 149250,
       "name": "Alaye Toh Se Gogo",
       "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
+    },
+    {
+      "added_at": "2022-09-12 09:50:28",
+      "album": {
+        "name": "Disturb / Pablo Moves",
+        "url": "https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Disturb",
+      "url": "https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1281,6 +1281,38 @@
       "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Ball Till We Fall",
@@ -1299,22 +1331,6 @@
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1337,20 +1353,24 @@
       "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2KiZjho3dmMgLVNm0Ja1Pb"
       },
       "artists": [
         {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+          "name": "Skaa",
+          "url": "https://open.spotify.com/artist/5Z1pJHnETn6fqC37KYfi3Z"
+        },
+        {
+          "name": "Payper Corleone",
+          "url": "https://open.spotify.com/artist/5pNye0bGTXUivn8zdEBIfj"
         }
       ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+      "duration_ms": 196657,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 205090,
       "name": "Crown Of Clay",
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2KiZjho3dmMgLVNm0Ja1Pb"
-      },
-      "artists": [
-        {
-          "name": "Skaa",
-          "url": "https://open.spotify.com/artist/5Z1pJHnETn6fqC37KYfi3Z"
-        },
-        {
-          "name": "Payper Corleone",
-          "url": "https://open.spotify.com/artist/5pNye0bGTXUivn8zdEBIfj"
-        }
-      ],
-      "duration_ms": 196657,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 226253,
       "name": "galet",
       "url": "https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 261213,
       "name": "Mumpsimus",
       "url": "https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3"
@@ -1705,6 +1705,24 @@
       "duration_ms": 401333,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q"
+    },
+    {
+      "album": {
+        "name": "Out The Light",
+        "url": "https://open.spotify.com/album/4bpokh1FHd4HtG6sHYQM7w"
+      },
+      "artists": [
+        {
+          "name": "L\u0169p\u1e01GangGang",
+          "url": "https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "Out The Light",
+      "url": "https://open.spotify.com/track/0RLbMwI4Yxl9HPe42lxRd7"
     },
     {
       "album": {
@@ -2049,6 +2067,24 @@
       "duration_ms": 335920,
       "name": "SLECHGAAN",
       "url": "https://open.spotify.com/track/5KrLhcvytXRFBCsx2tQrdS"
+    },
+    {
+      "album": {
+        "name": "Solace In Solitude",
+        "url": "https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P"
+      },
+      "artists": [
+        {
+          "name": "Profound Observer",
+          "url": "https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348906,
+      "name": "Solace In Solitude",
+      "url": "https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's dance hits. Cover: HoneyLuv, Dope Earth Alien",
-  "num_followers": 303996,
+  "description": "The best of today's dance hits. Cover: HNTR",
+  "num_followers": 303991,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU5MTk3OSwwMDAwMDAwMGU5ZDRmOTQyYjVlODA5NmQ4YzYxOTU0NjYxY2Q5MzYz",
+  "snapshot_id": "MTY3MTE5OTUzMSwwMDAwMDAwMGJjYjYzZDNhZDY4MDAxODMzOWNiMDA4ODA0NThmMmMy",
   "tracks": [
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Oh Please",
+        "url": "https://open.spotify.com/album/5SGYbVeHfDIGkTRbwG0gUv"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 254285,
+      "name": "Oh Please",
+      "url": "https://open.spotify.com/track/7l22c5ZACFSzIV5Lwomq9c"
+    },
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
@@ -71,6 +87,26 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -161,6 +197,26 @@
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Body Love",
+        "url": "https://open.spotify.com/album/0n0DwUBnOTypoVY5EGRI25"
+      },
+      "artists": [
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Body Love",
+      "url": "https://open.spotify.com/track/4nnjabY2jXxrt0LDU3Hvmb"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Bel Mercy",
@@ -175,6 +231,26 @@
       "duration_ms": 169606,
       "name": "Bel Mercy",
       "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -283,6 +359,26 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "I Don't Wanna Know",
+        "url": "https://open.spotify.com/album/5gUDqhWjIzsG7lI1nWTqhN"
+      },
+      "artists": [
+        {
+          "name": "Setou & Senyo",
+          "url": "https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv"
+        },
+        {
+          "name": "Rickysee",
+          "url": "https://open.spotify.com/artist/14BurngfdQAWg2wC7eaGQt"
+        }
+      ],
+      "duration_ms": 181352,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/0xeeAmrwhDnV8ctqQWEpW3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -401,6 +497,22 @@
       "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Crucible",
+        "url": "https://open.spotify.com/album/5P2Wqvd5Xaxm91tGZJ6rxI"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "duration_ms": 286947,
+      "name": "Crucible",
+      "url": "https://open.spotify.com/track/7BrbDaxiewXA38HI7aVwHN"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "spotify singles",
@@ -435,6 +547,30 @@
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "CONTROVERSIA by Alok Vol. 008",
+        "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "Suark",
+          "url": "https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD"
+        },
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/4JSChvgYDHRIC9CbaxReS9"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Children Of The Resistance",
+      "url": "https://open.spotify.com/track/6AZbOBDqfbUOMiZfEGKCQO"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -491,6 +627,26 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/3mupnDkyb9I7DUiMkAVngr"
+      },
+      "artists": [
+        {
+          "name": "Kiinjo",
+          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
+        },
+        {
+          "name": "Oliver",
+          "url": "https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K"
+        }
+      ],
+      "duration_ms": 214334,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0FZnUKsmGA6kPwi0NShlBy"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -769,26 +925,6 @@
       "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "messy in heaven",
-        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 170437,
-      "name": "messy in heaven",
-      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Take Me Home",
@@ -807,6 +943,22 @@
       "duration_ms": 150967,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6ffAjqj8GGhvCx9flPcARn"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/0NRLVkSWH1xHkJzC6fTVPP"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        }
+      ],
+      "duration_ms": 248275,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2BHdxupfXLLSs3BVTVNd9w"
     },
     {
       "added_at": "2022-12-05 16:35:51",
@@ -947,6 +1099,26 @@
       "duration_ms": 214647,
       "name": "Would You Lie",
       "url": "https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "added_at": "2022-10-21 10:33:10",
@@ -1205,54 +1377,6 @@
       "url": "https://open.spotify.com/track/1Q9adFpSAeMjAL6iofQl71"
     },
     {
-      "added_at": "2022-09-23 04:35:15",
-      "album": {
-        "name": "In The Calm",
-        "url": "https://open.spotify.com/album/0VYu7fpG7YAL9l73E6y9M7"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        },
-        {
-          "name": "Aamourocean",
-          "url": "https://open.spotify.com/artist/45XImXCRH7XiKTOINsqTd1"
-        }
-      ],
-      "duration_ms": 290660,
-      "name": "In The Calm",
-      "url": "https://open.spotify.com/track/6BxvOQ9CtW8MQTPEpHELpv"
-    },
-    {
-      "added_at": "2022-09-16 14:29:16",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Danny Howard",
-          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 199967,
-      "name": "Remember (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Arch of Light",
@@ -1267,50 +1391,6 @@
       "duration_ms": 453634,
       "name": "Arch of Light",
       "url": "https://open.spotify.com/track/1IaarLMqmBuOsQDVi60Rl8"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "What Is Left Of Me",
-        "url": "https://open.spotify.com/album/45EzNhiGYiooDtlXZ0WlP7"
-      },
-      "artists": [
-        {
-          "name": "Jack Trades",
-          "url": "https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s"
-        },
-        {
-          "name": "Jodie Knight",
-          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
-        }
-      ],
-      "duration_ms": 190159,
-      "name": "What Is Left Of Me",
-      "url": "https://open.spotify.com/track/2Q8oSLV6VkFe9WC8Dw85IA"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/42J8joitu0uE2c5WgEpqmZ"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "Uncle Chucc",
-          "url": "https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/17Dy4XO1nEqL15OoO0303B"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1331,22 +1411,6 @@
       "duration_ms": 181874,
       "name": "Supah Fly",
       "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
-    },
-    {
-      "added_at": "2022-09-16 14:29:16",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e"
-      },
-      "artists": [
-        {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        }
-      ],
-      "duration_ms": 238085,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1394,6 +1458,10 @@
         {
           "name": "HI-LO",
           "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
       "duration_ms": 238736,
@@ -1421,22 +1489,6 @@
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/3ld6eLkg5UurwvwSKraSUX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Shepherd",
-          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/5bABQWkbZQAdVGhD9HIX4l"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Pieces",
@@ -1459,30 +1511,6 @@
       "duration_ms": 153548,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/0nPaWkxRGHwPsJ65vv0eQA"
-    },
-    {
-      "added_at": "2022-09-23 04:35:15",
-      "album": {
-        "name": "Under Pressure",
-        "url": "https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Ben Samama",
-          "url": "https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Under Pressure",
-      "url": "https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1591,46 +1619,6 @@
       "duration_ms": 196314,
       "name": "Call On Me (with Tove Lo)",
       "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
-    },
-    {
-      "added_at": "2022-10-21 10:33:10",
-      "album": {
-        "name": "Dream About You",
-        "url": "https://open.spotify.com/album/505Swy2YfuiUBAGNjYsQGH"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 241931,
-      "name": "Dream About You",
-      "url": "https://open.spotify.com/track/4VLjG1xYxMN7jKgDjqWw9s"
-    },
-    {
-      "added_at": "2022-10-21 10:33:10",
-      "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/0e0i3tOTZITqs0MofFmAc5"
-      },
-      "artists": [
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/6aV9EOdZlvcEDUgBzhCBIA"
     },
     {
       "added_at": "2022-10-14 04:00:00",

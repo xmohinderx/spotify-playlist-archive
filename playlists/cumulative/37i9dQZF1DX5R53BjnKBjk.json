@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 147842,
       "name": "20 e poucos",
       "url": "https://open.spotify.com/track/6zsyDhdQb7Kk0HLeRjUeLA"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 209486,
       "name": "Fugitivos",
       "url": "https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk"
@@ -3353,7 +3353,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 191425,
       "name": "Prazer, Eu sou...",
       "url": "https://open.spotify.com/track/6tCC3PrYMoCj2znusZwEel"
@@ -3705,7 +3705,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 161250,
       "name": "Rouquid\u00e3o",
       "url": "https://open.spotify.com/track/4zoAger8ZaHL6bRujicqSF"
@@ -4173,7 +4173,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 136002,
       "name": "TARA",
       "url": "https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt"
@@ -4741,6 +4741,28 @@
       "duration_ms": 260608,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/01qSQbvzNX5K5NoJ6Xhrjd"
+    },
+    {
+      "album": {
+        "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+        "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        },
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162045,
+      "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+      "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
     },
     {
       "album": {

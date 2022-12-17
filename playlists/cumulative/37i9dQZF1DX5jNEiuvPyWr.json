@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "100 ans",
+        "url": "https://open.spotify.com/album/55IJ9CgUSLuU72XAs7N0al"
+      },
+      "artists": [
+        {
+          "name": "Diddi Trix",
+          "url": "https://open.spotify.com/artist/52h6A1y99QgoEf5FzKEHs1"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121931,
+      "name": "100 ans",
+      "url": "https://open.spotify.com/track/2guJAJFWNnaujR0iVYM1pB"
+    },
+    {
+      "album": {
         "name": "prepa21",
         "url": "https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw"
       },

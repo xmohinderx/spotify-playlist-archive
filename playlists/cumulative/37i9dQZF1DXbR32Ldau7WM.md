@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: The Birthday
 
-431 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+432 songs - 1 day 4 hr 31 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-10 | 2022-07-28 |
 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 | 2022-08-16 |  |
 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 | 2022-05-10 |  |
-| [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 | 2022-10-11 |  |
+| [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 | 2022-10-11 | 2022-12-17 |
 | [Dumb](https://open.spotify.com/track/2wHdToVrYPjymTvp2Tm2bN) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Strike It Out](https://open.spotify.com/album/36NZdT4c4aVOaCmC5swiMs) | 3:18 | 2022-05-12 | 2022-10-12 |
 | [Edge Of The World \(New mastering 2021\)](https://open.spotify.com/track/3vxiGWVotDkIkPYPYzDSU5) | [Lovebites](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [In The Beginning \- The Best Of 2017\-2021](https://open.spotify.com/album/4UrV9uJWU2HaLZVpomztEP) | 6:46 | 2022-05-12 | 2022-06-15 |
 | [Emotions](https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Intergalactic](https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2) | 3:24 | 2022-09-13 | 2022-09-28 |
@@ -167,7 +167,7 @@
 | [oiの中の蛙](https://open.spotify.com/track/0mjoRduEfRPNAfDtsuSjC0) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [THEガガガSP](https://open.spotify.com/album/2fftHCw5wj2J0qp7gr41nM) | 2:42 | 2022-05-10 | 2022-06-24 |
 | [One Day](https://open.spotify.com/track/7yyAxWHScMLgWAP5SwhR0T) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Like A Fable](https://open.spotify.com/album/2kSV9jRU3B346I5qUYr82i) | 3:29 | 2022-06-02 | 2022-06-08 |
 | [One More Time](https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [One More Time](https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ) | 3:27 | 2022-05-10 | 2022-11-16 |
-| [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 | 2022-09-25 | 2022-11-23 |
+| [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 | 2022-09-25 |  |
 | [Onozomidori](https://open.spotify.com/track/5zylPPIua3ORvZxLudnjzc) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Onozomidori](https://open.spotify.com/album/4gSVJvKLVGJP7cHuQue9qQ) | 3:33 | 2022-11-29 | 2022-12-07 |
 | [Opening Ceremony](https://open.spotify.com/track/1MqPv9ROTNpcrLVqgHJcYj) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/11d3rQ6GBFxUuiOIir59dj) | 3:39 | 2022-07-26 | 2022-07-29 |
 | [Opening Ceremony](https://open.spotify.com/track/6QYOM6759mUjFhoY6UIcj6) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/6jVguby1S0bUwSB5I5AAPJ) | 3:39 | 2022-07-28 | 2022-08-03 |
@@ -275,6 +275,7 @@
 | [Zanshin](https://open.spotify.com/track/7nNnwATQnctS6yLREghFwO) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Seimei](https://open.spotify.com/album/6jQP5MIL7cCNHeWxyl8ryg) | 3:24 | 2022-11-08 | 2022-11-16 |
 | [○か×](https://open.spotify.com/track/2VbxCJgAXOYcf5ashGYuHh) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [○か×](https://open.spotify.com/album/0Ew3ozhOSJz96Np4YTWPXB) | 3:51 | 2022-05-12 | 2022-07-26 |
 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 | 2022-07-19 | 2022-08-17 |
+| [あばよ](https://open.spotify.com/track/3sYN90hvV6jedPy3KeTbgP) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [秋の日に](https://open.spotify.com/album/57Tf5KfkT3lwQYR9tghnZn) | 3:40 | 2022-12-13 |  |
 | [ある朝](https://open.spotify.com/track/3a2qX03Ctq69PEqG89cDM9) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [CORE 4](https://open.spotify.com/album/3TXOMUTuFQGhPOpNEYdUCq) | 4:00 | 2022-05-10 | 2022-07-13 |
 | [いっそ分裂](https://open.spotify.com/track/5gzVCsND9HT8HD7KjrT15G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [Unite / Divide](https://open.spotify.com/album/0nTYoNvUKtILpU8EdS73I3) | 4:42 | 2022-05-10 | 2022-07-21 |
 | [いつか何処かで\(I FEEL THE ECHO\)](https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 5:20 | 2022-11-22 | 2022-12-14 |
@@ -422,7 +423,7 @@
 | [秘密 \- band arrange](https://open.spotify.com/track/4doFF3dxn4Xrw3pSOQpD2i) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [秘密 \(band arrange\) / boys & girls \(band arrange\)](https://open.spotify.com/album/2AhF44xKGvyMj7ap14lDfF) | 4:52 | 2022-10-29 | 2022-11-02 |
 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 | 2022-05-10 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-12-01 |  |
-| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 |  |
+| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 | 2022-12-17 |
 | [群青](https://open.spotify.com/track/06x5F8O4ZqSTgdo9EqiE3T) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [七色とかげ](https://open.spotify.com/album/38PMNzLOxdREwrxOS87crH) | 3:34 | 2022-05-10 | 2022-05-24 |
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 | 2022-09-13 |
 | [証](https://open.spotify.com/track/1Nm8xR8SIiphGCW1sn11Qr) | [ZIGGY](https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb) | [証](https://open.spotify.com/album/2JqFzGT35Ted5pM3PKP6Os) | 3:26 | 2022-05-12 | 2022-07-26 |

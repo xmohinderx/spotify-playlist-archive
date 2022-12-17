@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Topic, HRVY
 
-4,605 songs - 9 day 19 hr 1 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+4,608 songs - 9 day 19 hr 8 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,7 +679,8 @@
 | [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-02-11 | 2022-02-18 |
 | [Busy](https://open.spotify.com/track/2VG8dvyYnyj4WtzNIj2fOC) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/68Saky2gc5DtvcQlRHKm1g) | 2:46 | 2022-06-02 | 2022-06-10 |
 | [Butterflies](https://open.spotify.com/track/5G9RU9810ADmr5hpY8eC2J) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Butterflies](https://open.spotify.com/album/6oMITAMwyhPqG9TFNiS2QO) | 3:50 | 2022-12-15 |  |
-| [Butterflies & Bandaids](https://open.spotify.com/track/1Cvm3lwCSGnC41iHxsIspV) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Butterflies & Bandaids](https://open.spotify.com/album/5YxigBkLESrsM5xFBNkbsQ) | 2:05 | 2022-12-15 |  |
+| [Butterflies & Bandaids](https://open.spotify.com/track/1Cvm3lwCSGnC41iHxsIspV) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Butterflies & Bandaids](https://open.spotify.com/album/5YxigBkLESrsM5xFBNkbsQ) | 2:05 | 2022-12-15 | 2022-12-17 |
+| [Butterflies & Bandaids](https://open.spotify.com/track/4mU0GgWkV6X1IEuIXtrAGe) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Butterflies & Bandaids](https://open.spotify.com/album/75mjArJOL2mVqNNhqMTh2A) | 2:05 | 2022-12-15 |  |
 | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/track/3sNt9m05GSYtBe54cRq5H2) | [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq), [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [NOK1D](https://open.spotify.com/artist/3aiVrUEKRgBLXMGsh2IIJ5), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/album/38LPOdHU8M07c4KFayHNpW) | 2:23 | 2022-08-25 | 2022-09-02 |
 | [Butterfly Pen](https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Butterfly Pen](https://open.spotify.com/album/3xeLy3TWOvf9Moggth5pHn) | 3:33 | 2022-08-04 | 2022-08-12 |
 | [Buzz Down](https://open.spotify.com/track/7Je6BkJF9PnQ3lefOw1RrT) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Buzz Down](https://open.spotify.com/album/6UXiwMwG846ghIK9nJm29R) | 2:41 | 2022-12-08 | 2022-12-16 |
@@ -2545,6 +2546,7 @@
 | [Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [Mach kaputt](https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4) | 3:55 | 2022-04-21 | 2022-04-29 |
 | [Mach kein Film](https://open.spotify.com/track/3fGJrgl31vHtunzft7kH0S) | [Schwesta Ewa](https://open.spotify.com/artist/7jDSMakHqXFe8kIaXfz8jD), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Mach kein Film](https://open.spotify.com/album/1jVQ06eIJFHBJQoQ0SikcR) | 2:33 | 2022-09-01 | 2022-09-09 |
 | [Mad about You](https://open.spotify.com/track/4QbK481k7VsiGnEFolzsJ5) | [ELIS NOA](https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf) | [Mad about You](https://open.spotify.com/album/6ghtBgMMJniKqB9IACjlCi) | 3:48 | 2022-05-19 | 2022-05-27 |
+| [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2022-12-15 |  |
 | [Mad World](https://open.spotify.com/track/0oZLUnUYFvtLe5w8qftQK7) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/42VjrV9y1EAb8TC1TfG42R) | 2:30 | 2022-10-27 | 2022-10-29 |
 | [Mad World](https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/0OUG8M7SX8AXQCs9LfI3ke) | 2:30 | 2022-10-28 | 2022-11-04 |
 | [Madan \(King\)](https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU) | 3:03 | 2022-06-16 | 2022-06-24 |
@@ -4142,7 +4144,8 @@
 | [UBER \(feat\. reezy\)](https://open.spotify.com/track/1kkMqXh3utANcRM3PTgM6n) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [UBER \(feat\. reezy\)](https://open.spotify.com/album/6rE5errMqargWX71B3yYwU) | 2:19 | 2022-10-20 | 2022-10-28 |
 | [UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [UGG BOOTS](https://open.spotify.com/album/4wBDoWAXFkchW4zuTbEUhH) | 1:32 | 2022-11-17 | 2022-11-25 |
 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 | 2022-11-10 | 2022-11-18 |
-| [Ugly](https://open.spotify.com/track/4Z52ZdHXLt3vOveK5mIBw2) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Ugly](https://open.spotify.com/album/0JGgvTtfCpyS18mXqATzBp) | 2:23 | 2022-12-15 |  |
+| [Ugly](https://open.spotify.com/track/1L7v8Odozigp9jEEJBjYm8) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Ugly](https://open.spotify.com/album/21jdbzp50oMiVHpXLDW1uc) | 2:23 | 2022-12-15 |  |
+| [Ugly](https://open.spotify.com/track/4Z52ZdHXLt3vOveK5mIBw2) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Ugly](https://open.spotify.com/album/0JGgvTtfCpyS18mXqATzBp) | 2:23 | 2022-12-15 | 2022-12-17 |
 | [Uh Ah](https://open.spotify.com/track/7lWDHNwF1Rvt0vuOoDUhR3) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Uh Ah](https://open.spotify.com/album/0r0AWlCiPLIqSRcOvRoDii) | 2:13 | 2022-07-14 | 2022-07-22 |
 | [Uh Baby](https://open.spotify.com/track/1XjQskdFwxKqQxw42XR6jm) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Uh Baby](https://open.spotify.com/album/3QbJiPSgxXBOoNIE5FvlDe) | 2:48 | 2022-04-07 | 2022-04-15 |
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2022-09-29 | 2022-10-07 |

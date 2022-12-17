@@ -4,7 +4,7 @@
 
 > Hear all of SMTOWN's biggest and best hits in one playlist.
 
-196 songs - 12 hr 44 min - not published yet
+197 songs - 12 hr 48 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bilnd](https://open.spotify.com/track/7F8EbEz3RApZMns5z1MKLN) | [Fly to the Sky](https://open.spotify.com/artist/4Va11kshAHkYONJgZqhi0C) | [2002 Winter Vacation in SMTOWN.com](https://open.spotify.com/album/4pdwJZhAyJ16LurCp7hG4a) | 4:30 | 2022-12-14 |  |
 | [Blue…](https://open.spotify.com/track/1eMBsHmG4cShtOwBSrM15V) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [2002 SUMMER VACATION in SMTOWN.COM](https://open.spotify.com/album/59KnIxsURaQ1wabZZpyf67) | 4:32 | 2022-12-14 |  |
 | [Brand\-new Weekend](https://open.spotify.com/track/0jHoPl5m5v8mbG7t2uFIAC) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [2002 SUMMER VACATION in SMTOWN.COM](https://open.spotify.com/album/59KnIxsURaQ1wabZZpyf67) | 3:51 | 2022-12-14 |  |
+| [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-16 |  |
 | [Catch the shooting star](https://open.spotify.com/track/3W0mHod2lH4FcPZcePBMqi) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2006 Summer Smtown](https://open.spotify.com/album/2DWlSJ0MVDJKq11VNCeHcT) | 3:53 | 2022-12-14 |  |
 | [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 |  |
 | [Chocolate](https://open.spotify.com/track/7nvlIM7y9aLX6bYyFHORAL) | [Dana](https://open.spotify.com/artist/2U1kXH85zg4so8V6xMctYF) | [Winter Vacation in SMTOWN.com \- Angel Eyes](https://open.spotify.com/album/3nHNulZ1pybkNcM5NeErQA) | 3:47 | 2022-12-14 |  |

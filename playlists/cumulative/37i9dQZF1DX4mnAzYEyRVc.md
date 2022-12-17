@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-467 songs - 1 day 3 hr 4 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+468 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Driving Me Mad](https://open.spotify.com/track/41BJ66ENW3JY7kgstL0bA4) | [The Hotknives](https://open.spotify.com/artist/2uoezM6j8nCGupNI3zeMcb) | [Home](https://open.spotify.com/album/79n7x6CoNJxH0k9KypOCpA) | 2:27 | 2021-12-06 | 2022-11-13 |
 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 | 2021-12-06 | 2022-07-29 |
 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 | 2021-12-06 |  |
-| [El Mión](https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc) | [Vantroi](https://open.spotify.com/artist/0oq1cXEszwrTtuGmiju7Cn) | [Bajo Palabra](https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct) | 2:43 | 2021-12-06 |  |
+| [El Mión](https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc) | [Vantroi](https://open.spotify.com/artist/0oq1cXEszwrTtuGmiju7Cn) | [Bajo Palabra](https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct) | 2:43 | 2021-12-06 | 2022-12-17 |
 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-06 |  |
 | [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 | 2021-12-06 |  |
 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 | 2021-12-06 |  |
@@ -275,6 +275,7 @@
 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 | 2021-12-06 | 2022-08-09 |
 | [Nobody but Me](https://open.spotify.com/track/4AcLEMpXmqWJwdVU1bRd5W) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 3:06 | 2021-12-06 | 2022-07-13 |
 | [Noise Complaint](https://open.spotify.com/track/1VgnOv5Ss0mHQRmzheBKBb) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Strictly Rude](https://open.spotify.com/album/6wXIc6k3g78DC4S29smQ8Q) | 3:12 | 2021-12-06 | 2022-07-29 |
+| [Noise Complaint](https://open.spotify.com/track/5Cq3iRZZEBUTfKRTXmiz5L) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Strictly Rude](https://open.spotify.com/album/1kuObhSxafq6parqT4omr8) | 3:12 | 2021-12-06 |  |
 | [Non Voglio Più](https://open.spotify.com/track/67hCaExBuHA5zRx5xZ1Ap8) | [Matrioska](https://open.spotify.com/artist/3Ut51rRtTTigBYWL6SWlFJ) | [La Domenica Mattina](https://open.spotify.com/album/7ytTWa9GuCALoyRLwQ996j) | 3:01 | 2021-12-06 |  |
 | [O Guarani](https://open.spotify.com/track/2rMTnYDEjOTzKfwBYWd7sZ) | [Orquestra Brasileira de Música Jamaicana](https://open.spotify.com/artist/28RBIZhnFFXuj6ST2ELsMS) | [OBMJ, Vol\. I](https://open.spotify.com/album/1uNL5DSj98YeAKwVEnmecC) | 3:41 | 2021-12-06 | 2022-07-29 |
 | [O Guarani](https://open.spotify.com/track/74FgXyMVJm4muoRSZQRCVw) | [Orquestra Brasileira de Música Jamaicana](https://open.spotify.com/artist/28RBIZhnFFXuj6ST2ELsMS) | [Volume I](https://open.spotify.com/album/1Jgh4Wiuzw3fMfuJHTNmuG) | 3:41 | 2021-12-06 |  |

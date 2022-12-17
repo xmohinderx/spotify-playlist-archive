@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,108 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,134 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 48 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
 | 49 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |
 | 50 | [2411](https://open.spotify.com/track/7187aqQ77ROGubLXO9Jv36) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 2:23 |
-| 51 | [Let Us Go](https://open.spotify.com/track/49a7NWJpx8Q3EjLDWxTui7) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k) | 3:41 |
+| 51 | [Let Us Go](https://open.spotify.com/track/3RhwOffN5GMvTZZ7ZYXTQk) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE) | 3:41 |
 | 52 | [nostalgia](https://open.spotify.com/track/0hTCnNS4OR0ATtCWMMv62y) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 2:17 |
 | 53 | [놀면 뭐해?](https://open.spotify.com/track/54BUmWA6AIml1x6EiSgkTf) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [GRAY](https://open.spotify.com/artist/6LMcmmQS5He6ostugaq6Fv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [유플래쉬](https://open.spotify.com/album/3gBVwZjW9Db4zUN8HQI8qn) | 3:51 |
 | 54 | [fall](https://open.spotify.com/track/01jZKFyNcPRUP2gX9zxScj) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 3:51 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 101 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 102 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 |
 
-Snapshot ID: `MTY2NDQyMTM1NCwwMDAwMDAwMDE4ZWI4NTcyNjZjZTJlOWRkMjI4ZmUzNDM2Zjc0Nzcz`
+Snapshot ID: `MTY2NDQyMTM1NCwwMDAwMDAwMDRlZjZlMWEwNGZiYWNiMmU2MTFiYjQ3MDllMTZjZTgy`

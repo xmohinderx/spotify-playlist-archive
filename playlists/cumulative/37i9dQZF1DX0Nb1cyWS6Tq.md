@@ -4,7 +4,7 @@
 
 > Release The Bats! Siouxsie and the Banshees on the cover.
 
-260 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
+261 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [His Box](https://open.spotify.com/track/4auQElRGeVu94YhwonIdek) | [Dalis Car](https://open.spotify.com/artist/26K835MEHI621LFChKL16Z) | [The Waking Hour](https://open.spotify.com/album/7HmNnZyCLb2tkxwdwDtpqd) | 4:42 | 2021-10-15 | 2022-07-29 |
 | [Hit](https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 2:58 | 2021-10-15 | 2022-04-21 |
 | [Holiday on the Moon](https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 6:05 | 2021-10-15 | 2022-07-29 |
-| [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 |  |
+| [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 | 2022-12-17 |
 | [Hollow Eyes](https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl) | [Red Lorry Yellow Lorry](https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq) | [Talk About The Weather](https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8) | 3:39 | 2021-10-15 | 2022-07-27 |
 | [I Put A Spell On You \- Remastered 2020](https://open.spotify.com/track/7cls5t47NYg0pfP1djxGu5) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [I Put A Spell On You \(Remastered 2020\)](https://open.spotify.com/album/5SDB6dlRVY9YsW4qHC4cP5) | 2:16 | 2021-10-15 | 2022-07-24 |
 | [I Walk The Line](https://open.spotify.com/track/4c7JcQKPQP3o5ojUcrZ42B) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/3ycsLfUjtUL3pjSk96bB3S) | 4:51 | 2021-10-15 | 2022-07-29 |
@@ -217,6 +217,7 @@
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2021-10-15 | 2022-11-14 |
 | [Stigmata Martyr](https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 3:46 | 2021-10-15 | 2022-07-29 |
 | [Strangers](https://open.spotify.com/track/59JCFnXKnbVDihSdhDpNa9) | [Then Comes Silence](https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy) | [III \- Nyctophilian](https://open.spotify.com/album/7AVvNgSuWnRAn8sRjUGRRM) | 3:58 | 2021-10-15 | 2022-07-28 |
+| [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-17 |  |
 | [Swamp Thing](https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Strange Times](https://open.spotify.com/album/0OyyvqyS0iVQZXNhcwd3F6) | 5:56 | 2021-10-15 | 2022-07-29 |
 | [Swamp Thing](https://open.spotify.com/track/6myTigUAh8oKT2iQUNUHIL) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Cuando Sale El Sol: Rock](https://open.spotify.com/album/7Ff5wvB7uhwLNYUutyHMrq) | 5:56 | 2021-10-15 |  |
 | [Sweet Lover Hangover](https://open.spotify.com/track/2UNKWKv1dLFPhNlQEbvC4r) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 5:06 | 2021-10-15 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-123 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
+124 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [O Holy Night](https://open.spotify.com/track/2ClC0UkO46ZOGLk9R6M8c2) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/5MaXMlmiT3f2wZ5oqYKebv) | 2:13 | 2022-11-09 |  |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/1hmwBO0NO72Kn6jcRubbXZ) | [Milos Foreman](https://open.spotify.com/artist/76UnKxgXMyljNuYnFp2ieZ) | [O Little Town of Bethlehem](https://open.spotify.com/album/1jkYdCQ6NU6EkTKvOvtTHF) | 2:21 | 2022-10-14 |  |
 | [Oh Holy Night](https://open.spotify.com/track/5aKLsTh2eSp1cZxWidGU8K) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Oh Holy Night](https://open.spotify.com/album/6MxlnQlKdMrLDZwPnzbGXZ) | 4:04 | 2021-12-14 | 2022-11-10 |
+| [Peaceful Midnight Vignette](https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Holiday Improvisations](https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo) | 1:19 | 2022-12-16 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/53ke8sTyEWjVjiBoE8kbkS) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 3:34 | 2021-12-14 |  |
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2021-12-14 |  |
 | [Santa Tell Me](https://open.spotify.com/track/1AToYrtSByKZq8a6uIEsmg) | [Pam Hill](https://open.spotify.com/artist/2G0kAA5t60WuLGOa1FSFRB) | [Santa Tell Me](https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P) | 2:14 | 2022-10-14 |  |

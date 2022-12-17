@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-352 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+354 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-09-17 | 2022-05-28 |
 | [Human \(feat\. Night Lovell\)](https://open.spotify.com/track/4zrYnAzX1CMRt9SoZdixMz) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Human \(feat\. Night Lovell\)](https://open.spotify.com/album/7iQcMBuqbzJSnPV8VDix6h) | 2:52 | 2021-09-17 | 2022-06-11 |
 | [I Chose Violence](https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [I Chose Violence](https://open.spotify.com/album/0VGDZJXfVVi3vEgbJTRXQ8) | 2:19 | 2021-10-28 |  |
+| [I Dream of Chrome](https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:25 | 2022-12-16 |  |
 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 | 2022-10-28 |  |
 | [I Know Your Ways](https://open.spotify.com/track/66M3TNwc5Kn1wuyAMAc1Ba) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Just Say You Don't Care](https://open.spotify.com/album/4nPKWikt1QDHHTfYhno0ze) | 3:12 | 2021-09-17 | 2022-06-04 |
 | [I SAW A GHOST](https://open.spotify.com/track/308nDdX2dufnNzssguoaoi) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [XXII](https://open.spotify.com/album/6uoO6YlUEdnR1ynxrG4qEu) | 2:00 | 2022-04-11 |  |
@@ -202,6 +203,7 @@
 | [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 | 2022-09-02 |  |
 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 | 2022-07-01 | 2022-11-05 |
 | [LED](https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/5MkM3ISDVqh2ZHMaxF65K5) | 2:14 | 2021-09-17 | 2022-07-29 |
+| [let them know](https://open.spotify.com/track/6YPrPTPUEnfXA1gvTJ8jDe) | [Cyfal](https://open.spotify.com/artist/1y7xXVW5JbzXEPTNiYG7xh), [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [Nhelson](https://open.spotify.com/artist/5IcjBunAPqrymBPxDoCW21) | [let them know](https://open.spotify.com/album/4Lz5j6OnwBOtjDWhVPzOwo) | 2:13 | 2022-12-16 |  |
 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 | 2022-04-08 | 2022-04-19 |
 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 | 2021-09-17 | 2022-05-17 |
 | [LIGHTNING](https://open.spotify.com/track/2TAYhTjo2swsdQbERc87fh) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc) | [LIGHTNING](https://open.spotify.com/album/7fi13uklZxLOvkjV6Yxgg9) | 2:38 | 2022-05-20 | 2022-07-27 |

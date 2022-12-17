@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 145756,
+  "num_followers": 145838,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMGQyZmMyOWFkYzJlMzQwYTM0ZGIwYjk5OWM5MGNmMWJj",
+  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMGNhMmU5MzlmZmRlMmJjM2MyOGY1YjVkOTVmMjk1MDQ2",
   "tracks": [
     {
       "added_at": "2022-12-15 23:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Pasilda",
-        "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
-      },
-      "artists": [
-        {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
-        },
-        {
-          "name": "Knee Deep",
-          "url": "https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Pasilda - Knee Deep Mix",
-      "url": "https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "The Reset",
         "url": "https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Pasilda",
+        "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
+      },
+      "artists": [
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        },
+        {
+          "name": "Knee Deep",
+          "url": "https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Pasilda - Knee Deep Mix",
+      "url": "https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Hold U (feat. James Tone)",
-        "url": "https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB"
-      },
-      "artists": [
-        {
-          "name": "Lenno",
-          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
-        },
-        {
-          "name": "James Tone",
-          "url": "https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC"
-        }
-      ],
-      "duration_ms": 208355,
-      "name": "Hold U (feat. James Tone)",
-      "url": "https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Let the Sun Shine (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 166750,
       "name": "Let the Sun Shine - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Hold U (feat. James Tone)",
+        "url": "https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB"
+      },
+      "artists": [
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        },
+        {
+          "name": "James Tone",
+          "url": "https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "Hold U (feat. James Tone)",
+      "url": "https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "All 4 Love (feat. Tasty Lopez)",
-        "url": "https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
-        },
-        {
-          "name": "Tasty Lopez",
-          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
-        }
-      ],
-      "duration_ms": 205645,
-      "name": "All 4 Love (feat. Tasty Lopez)",
-      "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Oh Yes (feat. Marvin Gaye & Tammi Terrell)",
         "url": "https://open.spotify.com/album/1WQt1d6HXFKXMCtxN7Zpud"
       },
@@ -1167,26 +1143,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Black Girl Magic",
-        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Ramona Renea",
-          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
-      "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Spotlight (feat. Sarah Ikumu)",
         "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
       },
@@ -1207,18 +1163,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Dance (Hills Mix)",
-        "url": "https://open.spotify.com/album/4PejagKHSIAq3Qy3LdqDUB"
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
       },
       "artists": [
         {
-          "name": "Os Digitalistas",
-          "url": "https://open.spotify.com/artist/5O4Wo1qbQZNpzBYC2qNahm"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
         }
       ],
-      "duration_ms": 179072,
-      "name": "Dance - Hills Mix",
-      "url": "https://open.spotify.com/track/6YPTwdX857pt8aukdjWqBW"
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1235,6 +1195,22 @@
       "duration_ms": 415417,
       "name": "Doin Ya Thang",
       "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Dance (Hills Mix)",
+        "url": "https://open.spotify.com/album/4PejagKHSIAq3Qy3LdqDUB"
+      },
+      "artists": [
+        {
+          "name": "Os Digitalistas",
+          "url": "https://open.spotify.com/artist/5O4Wo1qbQZNpzBYC2qNahm"
+        }
+      ],
+      "duration_ms": 179072,
+      "name": "Dance - Hills Mix",
+      "url": "https://open.spotify.com/track/6YPTwdX857pt8aukdjWqBW"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1319,6 +1295,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Higher Than You",
+        "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Higher Than You",
+      "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Pasci\u00e0",
         "url": "https://open.spotify.com/album/4qA2PpHEBkVquV3KFjCz5q"
       },
@@ -1395,18 +1387,18 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Higher Than You",
-        "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
+        "name": "Cada Vez (Ultimate Mix Collection)",
+        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
       },
       "artists": [
         {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+          "name": "Negrocan",
+          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
         }
       ],
-      "duration_ms": 192755,
-      "name": "Higher Than You",
-      "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
+      "duration_ms": 232058,
+      "name": "Cada Vez - Grant Nelson Radio Edit",
+      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1427,18 +1419,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Cada Vez (Ultimate Mix Collection)",
-        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
+        "name": "Cortez (Laidback Luke's 1997 Remix)",
+        "url": "https://open.spotify.com/album/3wRcmlQ9jYqH1nT82M83ew"
       },
       "artists": [
         {
-          "name": "Negrocan",
-          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
         }
       ],
-      "duration_ms": 232058,
-      "name": "Cada Vez - Grant Nelson Radio Edit",
-      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
+      "duration_ms": 233333,
+      "name": "Cortez - Laidback Luke 1997 Remix",
+      "url": "https://open.spotify.com/track/5mRbflnp2y4Dxe9GLVq8JO"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1479,26 +1475,6 @@
       "duration_ms": 186479,
       "name": "Stuck On Repeat",
       "url": "https://open.spotify.com/track/0Ib2lnmQqbAzuHNkGtYtNC"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Cortez (Laidback Luke's 1997 Remix)",
-        "url": "https://open.spotify.com/album/3wRcmlQ9jYqH1nT82M83ew"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Cortez - Laidback Luke 1997 Remix",
-      "url": "https://open.spotify.com/track/5mRbflnp2y4Dxe9GLVq8JO"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1583,22 +1559,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/54plo17ubysAyjHQbOPPHF"
-      },
-      "artists": [
-        {
-          "name": "Bwi-Bwi",
-          "url": "https://open.spotify.com/artist/6nibSpN3AnF0paj7POwS7h"
-        }
-      ],
-      "duration_ms": 413929,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/0xMb4W2SZeHpzzyxz9rID2"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Stand By Me",
         "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
       },
@@ -1611,6 +1571,22 @@
       "duration_ms": 174435,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/54plo17ubysAyjHQbOPPHF"
+      },
+      "artists": [
+        {
+          "name": "Bwi-Bwi",
+          "url": "https://open.spotify.com/artist/6nibSpN3AnF0paj7POwS7h"
+        }
+      ],
+      "duration_ms": 413929,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/0xMb4W2SZeHpzzyxz9rID2"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1755,6 +1731,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Lay It On Me",
+        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Guy Burns",
+          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
+        }
+      ],
+      "duration_ms": 170258,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Bon Bini EP",
         "url": "https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF"
       },
@@ -1787,26 +1783,6 @@
       "duration_ms": 453973,
       "name": "Momma's Groove - Jimpster's Hip Replacement Mix",
       "url": "https://open.spotify.com/track/6HjdHMNIFf6OLGE14LfqWW"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Lay It On Me",
-        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Guy Burns",
-          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
-        }
-      ],
-      "duration_ms": 170258,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1959,8 +1935,8 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "R U",
-        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
+        "name": "Spirit of House",
+        "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
       },
       "artists": [
         {
@@ -1972,9 +1948,9 @@
           "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
         }
       ],
-      "duration_ms": 214285,
-      "name": "R U",
-      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
+      "duration_ms": 191500,
+      "name": "Spirit of House",
+      "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2059,6 +2035,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/6rEWmgcCkLgFmfdh0gJt1M"
+      },
+      "artists": [
+        {
+          "name": "Silque",
+          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
+        }
+      ],
+      "duration_ms": 178032,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Life So Bright EP",
         "url": "https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo"
       },
@@ -2075,8 +2067,24 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Spirit of House",
-        "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "R U",
+        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
       },
       "artists": [
         {
@@ -2088,25 +2096,9 @@
           "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Spirit of House",
-      "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Like I Used To",
-        "url": "https://open.spotify.com/album/6rEWmgcCkLgFmfdh0gJt1M"
-      },
-      "artists": [
-        {
-          "name": "Silque",
-          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
-        }
-      ],
-      "duration_ms": 178032,
-      "name": "Like I Used To",
-      "url": "https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou"
+      "duration_ms": 214285,
+      "name": "R U",
+      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2135,18 +2127,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Organ",
-        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+        "name": "Brazilian Love Song (Jengi Remix)",
+        "url": "https://open.spotify.com/album/21GGi7gu8ZBKDSMusMMAAv"
       },
       "artists": [
         {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Organ (DJ-Kicks) - Edit",
-      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
+      "duration_ms": 261160,
+      "name": "Brazilian Love Song (Jengi Remix)",
+      "url": "https://open.spotify.com/track/1pAXNItTnpF2RcsFiPgwGc"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2175,26 +2171,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Jungle Trip (Edit Versions)",
-        "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        },
-        {
-          "name": "Iara (BR)",
-          "url": "https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Vida Delicia - Edit",
-      "url": "https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "krypt. vol2",
         "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
       },
@@ -2211,22 +2187,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Brazilian Love Song (Jengi Remix)",
-        "url": "https://open.spotify.com/album/21GGi7gu8ZBKDSMusMMAAv"
+        "name": "Jungle Trip (Edit Versions)",
+        "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
       },
       "artists": [
         {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
         },
         {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+          "name": "Iara (BR)",
+          "url": "https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv"
         }
       ],
-      "duration_ms": 261160,
-      "name": "Brazilian Love Song (Jengi Remix)",
-      "url": "https://open.spotify.com/track/1pAXNItTnpF2RcsFiPgwGc"
+      "duration_ms": 211428,
+      "name": "Vida Delicia - Edit",
+      "url": "https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2311,26 +2287,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
-        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
-      },
-      "artists": [
-        {
-          "name": "Grooveyard",
-          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 215648,
-      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
-      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Yours & Mine",
         "url": "https://open.spotify.com/album/6HhKMcTgZZ5c6lTHH7yIkP"
       },
@@ -2371,6 +2327,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
+        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
+      },
+      "artists": [
+        {
+          "name": "Grooveyard",
+          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 215648,
+      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
+      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Tell You What It Is (Shermanology SoulTec Mix)",
         "url": "https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV"
       },
@@ -2387,6 +2363,26 @@
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "My Own Way",
+        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
+      },
+      "artists": [
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "My Own Way - Extended",
+      "url": "https://open.spotify.com/track/5x0e4uMMRFnRMxcsEYaSgC"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2411,26 +2407,6 @@
       "duration_ms": 159344,
       "name": "You Got Me Calling",
       "url": "https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "My Own Way",
-        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "My Own Way - Extended",
-      "url": "https://open.spotify.com/track/5x0e4uMMRFnRMxcsEYaSgC"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2571,22 +2547,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -2603,6 +2563,22 @@
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2787,22 +2763,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Move On Up",
-        "url": "https://open.spotify.com/album/0Y036kJi773Vx3ibIsAehS"
-      },
-      "artists": [
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 217741,
-      "name": "Move On Up",
-      "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "SILLAGE",
         "url": "https://open.spotify.com/album/7KPZHgbUpEH2W8gIb6bOgX"
       },
@@ -2815,6 +2775,22 @@
       "duration_ms": 203346,
       "name": "SILLAGE",
       "url": "https://open.spotify.com/track/01p0P5yMqqXmUEKS6ok1be"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Move On Up",
+        "url": "https://open.spotify.com/album/0Y036kJi773Vx3ibIsAehS"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "duration_ms": 217741,
+      "name": "Move On Up",
+      "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -2875,6 +2851,34 @@
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Gettin' Started",
+        "url": "https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        },
+        {
+          "name": "Labi Ramaj",
+          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
+        },
+        {
+          "name": "Arild Aas",
+          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Gettin' Started",
+      "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
     }
   ],
   "unique_name": "House Supreme",

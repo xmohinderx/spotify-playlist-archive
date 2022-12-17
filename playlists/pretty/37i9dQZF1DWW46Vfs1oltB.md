@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: RM\) \(가장 핫한 한국 힙합 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,930 likes - 106 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,332 likes - 106 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

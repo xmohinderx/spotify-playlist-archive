@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,541 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,622 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 46 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 47 | [Vazio](https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Vazio](https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA) | 2:34 |
 | 48 | [Poder](https://open.spotify.com/track/4SHnNqSXIwT7u2Lnc5guWy) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Poder](https://open.spotify.com/album/7HzShhhdEOtWNmXc7g6KrK) | 3:40 |
-| 49 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 |
-| 50 | [BABY](https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [BABY](https://open.spotify.com/album/4dzKbTq1stnawn67OPO024) | 2:27 |
+| 49 | [BABY](https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [BABY](https://open.spotify.com/album/4dzKbTq1stnawn67OPO024) | 2:27 |
+| 50 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 |
 | 51 | [Vale da Sombra](https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Vale da Sombra](https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF) | 3:12 |
 | 52 | [Apologetas](https://open.spotify.com/track/5VO6wd9GZRZUQSq149WuIM) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Apologetas](https://open.spotify.com/album/634hOgzEX0ZjtPLI52bCTm) | 2:58 |
 | 53 | [Eu Sou Iluminado](https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO) | [Mc Miller](https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6) | [Iluminado](https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd) | 3:53 |
-| 54 | [Por Um](https://open.spotify.com/track/1VVorN6krkHg0M2RhOd769) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r) | [Por Um](https://open.spotify.com/album/6RFgNle0IylqKa6wfSXqIl) | 3:13 |
-| 55 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 |
-| 56 | [Efêmero Atemporal](https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Efêmero Atemporal](https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV) | 3:33 |
-| 57 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
+| 54 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 |
+| 55 | [Efêmero Atemporal](https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Efêmero Atemporal](https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV) | 3:33 |
+| 56 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
+| 57 | [Esperança para o Perdido](https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Esperança para o Perdido](https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q) | 3:50 |
 | 58 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
-| 59 | [Esperança para o Perdido](https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Esperança para o Perdido](https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q) | 3:50 |
+| 59 | [Por Um](https://open.spotify.com/track/1VVorN6krkHg0M2RhOd769) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r) | [Por Um](https://open.spotify.com/album/6RFgNle0IylqKa6wfSXqIl) | 3:13 |
 | 60 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 |
 | 61 | [Se Cair](https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Gui Souz MSC](https://open.spotify.com/artist/4JsEcRRMcKUPDgIeUuEvJ9) | [Se Cair](https://open.spotify.com/album/7M8bKWCmVtrUK3hrk3NSSQ) | 3:36 |
 | 62 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 69 | [Vai Mudar](https://open.spotify.com/track/1q6OSrmIVmh5gOm7iGu2IJ) | [Fabão MC](https://open.spotify.com/artist/7brrQUJkLSTzfWltuszqDQ), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Vai Mudar](https://open.spotify.com/album/78s4csR8NETKObiZTMkvXJ) | 3:47 |
 | 70 | [Palavras Tem Poder](https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO) | [BB Rocha](https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp) | [Palavras Tem Poder](https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh) | 1:45 |
 
-Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMDc1NmI1YmU1ZGUyMzdmMTE1Y2M3YjIxYzRiNmVkMTYw`
+Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMDhlNGU4MDBmZjI1YTg5ZTM1ZmFiY2MzZjU1N2VkMTZk`

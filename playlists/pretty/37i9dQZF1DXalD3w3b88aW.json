@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11088,
+  "num_followers": 11089,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMDBkYjhjY2ZlNzBkM2Q1OTBlODBhM2JjNDE2NzQxMDQw",
+  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMDlkNWMzYzRkZmMzMzExOTdmNzkyN2UzODhkYjI2Mjhi",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Whoomp (Interlude)",
-      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 76173,
       "name": "The Meaning - Interlude",
       "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Whoomp (Interlude)",
+      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
     },
     {
       "added_at": "2022-12-03 05:29:16",

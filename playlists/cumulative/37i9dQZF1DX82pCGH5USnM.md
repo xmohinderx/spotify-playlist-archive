@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-650 songs - 1 day 13 hr 49 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+653 songs - 1 day 14 hr 1 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Fools](https://open.spotify.com/track/3nKnBwJRH8UG0aZcAZpsr3) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Fools](https://open.spotify.com/album/2HJGnKATv1ZE9KOKuCjpxl) | 3:01 | 2022-07-22 |  |
 | [For The First Time](https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [For The First Time](https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4) | 3:17 | 2021-07-08 |  |
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2021-11-08 | 2022-02-11 |
+| [Forget About It](https://open.spotify.com/track/3j1OuqbJEvfy51u6oAUjqB) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Club Highs](https://open.spotify.com/album/6L3AfoDQZVHFfVU3d2se2S) | 2:51 | 2022-12-16 |  |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2021-11-08 | 2022-08-05 |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-07-08 |
 | [Free](https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM) | [DANEGIAN](https://open.spotify.com/artist/2k1h6uRnsiIMNavFowk5hc) | [Free](https://open.spotify.com/album/7uhejgr38JOpUCH43v0hkz) | 2:19 | 2021-08-20 |  |
@@ -261,6 +262,7 @@
 | [I Know](https://open.spotify.com/track/0BIM3gGtCwD0YTqxDGnNgT) | [Illumia](https://open.spotify.com/artist/3g79aLcgoTfoQTUrsiyPtC) | [Winter Selections 03](https://open.spotify.com/album/3m3sGoHbH0xI84V9PvUeBR) | 4:14 | 2020-04-03\* | 2020-04-14 |
 | [I Lost You but I Got HBO](https://open.spotify.com/track/5pNInkBWfWgYf05f0Gq7Va) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 3:07 | 2020-04-03\* | 2020-04-07 |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2020-12-09 | 2022-04-15 |
+| [i SEE u DanCin](https://open.spotify.com/track/49tPsezrSnuzAhwasEPwvY) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [i SEE u DanCin](https://open.spotify.com/album/67CtGUpvw9BJRWbH9JrRUy) | 6:11 | 2022-12-16 |  |
 | [I Will Never Forget You](https://open.spotify.com/track/2xzs9kG0mrIjpj8119bqqp) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [We Are on Our Way](https://open.spotify.com/album/26AtOGT8UraqnSOJSKDq41) | 2:58 | 2020-04-03\* | 2021-01-05 |
 | [Ice Cold Beverage](https://open.spotify.com/track/1n3bk90iiGHZU55iqApBgL) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Graduation](https://open.spotify.com/album/45FzEUejMPhJnCpynuVseZ) | 2:06 | 2020-12-02 | 2021-08-20 |
 | [If I Could I Would](https://open.spotify.com/track/0wx7ZtHC12OTHIWW9hJafV) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Euch die Uhren uns die Zeit](https://open.spotify.com/album/47c58ulJOzSaw2iLkSWfI9) | 7:19 | 2020-11-04 | 2021-03-06 |
@@ -306,6 +308,7 @@
 | [Koh Musica](https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:36 | 2020-12-24 | 2022-06-24 |
 | [Kuiu](https://open.spotify.com/track/29ogdGp1JAeyUaPBXqSL2c) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs) | [Kuiu / Infinite Rainbows](https://open.spotify.com/album/7rkkd44qnpobW93lOmTPY7) | 6:22 | 2020-04-03\* | 2021-03-06 |
 | [Kyoto](https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Kyoto](https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS) | 3:40 | 2020-10-27 | 2022-06-24 |
+| [L.I.E.](https://open.spotify.com/track/5XQFjgHLSvzpNIsDZEIEjX) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [L.I.E.](https://open.spotify.com/album/5c8uvWSGXZSmvVnWR3dzma) | 3:09 | 2022-12-16 |  |
 | [Lagoon](https://open.spotify.com/track/2vKK6rJqYfeFOMMjQlvO7M) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Lagoon](https://open.spotify.com/album/4BAdgIlpj9wGnR5ovLaqbf) | 2:13 | 2022-10-07 |  |
 | [Last Dream](https://open.spotify.com/track/1p3kZCSx1LxmemXq7efQ5U) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 3:34 | 2020-04-21 | 2021-03-06 |
 | [Last Time](https://open.spotify.com/track/2h4wIFtj26OnX7aW1zmest) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Last Time](https://open.spotify.com/album/73YAZ9qBPpSx3bn2oK0FOl) | 2:13 | 2022-10-07 |  |

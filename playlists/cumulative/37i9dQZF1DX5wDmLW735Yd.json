@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skibadee & Gardna",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skepsis & Raphaella",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -616,6 +616,24 @@
     },
     {
       "album": {
+        "name": "NQ State of Mind, Vol. 3",
+        "url": "https://open.spotify.com/album/2uLM234mLlxB0wgVUQd8iE"
+      },
+      "artists": [
+        {
+          "name": "Lenzman",
+          "url": "https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/2n55X4AhjRpaflNXXvVcCD"
+    },
+    {
+      "album": {
         "name": "Before You (goddard. Remix)",
         "url": "https://open.spotify.com/album/3el1Y1U0U1kOCHCaA4lWGN"
       },
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 216093,
       "name": "Censor (feat. Popcaan & IRAH)",
       "url": "https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC"
@@ -1219,7 +1237,7 @@
           "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
         }
       ],
-      "date_added": "2022-12-10",
+      "date_added": "2022-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 126258,
@@ -1921,7 +1939,7 @@
           "url": "https://open.spotify.com/artist/5gXXODq8Y20txFk5hJxBUa"
         }
       ],
-      "date_added": "2022-12-10",
+      "date_added": "2022-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199502,
@@ -3462,6 +3480,28 @@
     },
     {
       "album": {
+        "name": "Know What It Means",
+        "url": "https://open.spotify.com/album/3IexPXzS8noVX2EpbQx5Ds"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Know What It Means",
+      "url": "https://open.spotify.com/track/0RQuLXr0cWjAombfMjdvc3"
+    },
+    {
+      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
       },
@@ -3689,7 +3729,7 @@
           "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
         }
       ],
-      "date_added": "2022-12-10",
+      "date_added": "2022-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 134305,
@@ -4027,7 +4067,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 220800,
       "name": "Meditation",
       "url": "https://open.spotify.com/track/35Y8HLgNVqMuqfxWZPAvP5"
@@ -5013,7 +5053,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 182117,
       "name": "Reebok Classic (feat. Salo)",
       "url": "https://open.spotify.com/track/3Of4NVE43PjfzyhSWFl8QD"
@@ -5681,6 +5721,32 @@
       "duration_ms": 222068,
       "name": "Silverlined",
       "url": "https://open.spotify.com/track/2Cg6f0J6nIK46GvOZSkQ8n"
+    },
+    {
+      "album": {
+        "name": "Sinner (Flava D Remix)",
+        "url": "https://open.spotify.com/album/71WWczFHQ77tATsX3hsmY4"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193201,
+      "name": "Sinner - Flava D Remix",
+      "url": "https://open.spotify.com/track/00jhoNQKPTaWwi7zgvTFWd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-275 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+276 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dance Through the Day](https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:35 | 2022-11-23 |  |
 | [Dance Through the Day](https://open.spotify.com/track/3VNxMj6URsie6GJbHGWmmO) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:35 | 2022-10-07 | 2022-11-24 |
 | [Dance Through the Day](https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:35 | 2021-10-22 | 2022-10-13 |
+| [DESPECHÁ](https://open.spotify.com/track/0yPGcE1uBETUcterjypiEf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [DESPECHÁ](https://open.spotify.com/album/1okSyF4STR0MTXbgUGMMfm) | 2:08 | 2022-12-16 |  |
 | [Do It To It](https://open.spotify.com/track/6UCdk22sl1f76cMBmem6T3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Do It To It](https://open.spotify.com/album/0ovB3nWOd0rRD1SAMufPht) | 2:17 | 2022-06-10 |  |
 | [Don't Start Now](https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Start Now](https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq) | 3:04 | 2021-10-22 |  |
 | [Don’t Let Me Down](https://open.spotify.com/track/0yTGOMRv5oWECS6wqqQXOJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE) | 3:15 | 2021-10-22 | 2022-07-29 |

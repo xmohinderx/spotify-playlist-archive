@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/4WksqqScs7SRWvx2c3Ej8o"
+      },
+      "artists": [
+        {
+          "name": "RC Jay",
+          "url": "https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "180",
+      "url": "https://open.spotify.com/track/5wPr1S5YKwSh1BKdwRuB1o"
+    },
+    {
+      "album": {
         "name": "a quiet fire",
         "url": "https://open.spotify.com/album/2twzW1LzWnlRXm9UZnegsW"
       },
@@ -5154,6 +5172,24 @@
     },
     {
       "album": {
+        "name": "Multiplier",
+        "url": "https://open.spotify.com/album/2V0GpuUAm7bemnCGEQ0TT6"
+      },
+      "artists": [
+        {
+          "name": "Zoulzest",
+          "url": "https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93099,
+      "name": "Multiplier",
+      "url": "https://open.spotify.com/track/7EMwd7BIruS3fqakmMcnW3"
+    },
+    {
+      "album": {
         "name": "My greenhouse",
         "url": "https://open.spotify.com/album/6lQfts5lYwKlmnh1uQvJoT"
       },
@@ -5625,6 +5661,24 @@
       "duration_ms": 194400,
       "name": "Oh La La",
       "url": "https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9"
+    },
+    {
+      "album": {
+        "name": "Oh, silly old me",
+        "url": "https://open.spotify.com/album/6n8CTsHh2Z6OzxtfLjCu6N"
+      },
+      "artists": [
+        {
+          "name": "Wruce Billis",
+          "url": "https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Oh, silly old me",
+      "url": "https://open.spotify.com/track/3iF6IvHypN92ozus6M222C"
     },
     {
       "album": {
@@ -8403,6 +8457,24 @@
       "duration_ms": 300385,
       "name": "Velvet Sky",
       "url": "https://open.spotify.com/track/1o3BAaLMa0ENw0PoG8uCaG"
+    },
+    {
+      "album": {
+        "name": "wakens bright",
+        "url": "https://open.spotify.com/album/3kOMZJfPKUMdmUVZgGuudj"
+      },
+      "artists": [
+        {
+          "name": "gnerf",
+          "url": "https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "wakens bright",
+      "url": "https://open.spotify.com/track/6tfOG7WshG7cEm8zx7KYYT"
     },
     {
       "album": {

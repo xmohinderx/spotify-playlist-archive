@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 114135,
+  "num_followers": 114161,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEyMDAwMCwwMDAwMDAwMGU4Y2I3OTYzZjU0N2U0ZDA0MjJiYWYwOTAyODEyNWQ3",
+  "snapshot_id": "MTY3MTEyMDAwMCwwMDAwMDAwMGVmYmFmNjY0MDAxZjliNmM0NGUxZmE3M2Q5NjFiNjk0",
   "tracks": [
     {
       "added_at": "2022-12-15 16:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-12-15 16:00:00",
       "album": {
+        "name": "\u7d66\u5929\u738b\u661f",
+        "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
+      },
+      "artists": [
+        {
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
+        }
+      ],
+      "duration_ms": 225655,
+      "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
+      "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
+    },
+    {
+      "added_at": "2022-12-15 16:00:00",
+      "album": {
         "name": "\u84cb\u4e16\u82f1\u96c4",
         "url": "https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 247324,
       "name": "\u597d\u5f37",
       "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
-    },
-    {
-      "added_at": "2022-12-15 16:00:00",
-      "album": {
-        "name": "\u7d66\u5929\u738b\u661f",
-        "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
-      },
-      "artists": [
-        {
-          "name": "Enno Cheng",
-          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
-        }
-      ],
-      "duration_ms": 225655,
-      "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
-      "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
     },
     {
       "added_at": "2022-12-15 16:00:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2022-12-15 16:00:00",
       "album": {
-        "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
-        "url": "https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL"
+        "name": "Thank You (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4BK2pzxYpwVqeuGosGCHBf"
       },
       "artists": [
         {
-          "name": "\u5289\u5b78\u752b",
-          "url": "https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH"
-        },
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+          "name": "Ben Wu",
+          "url": "https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM"
         }
       ],
-      "duration_ms": 226702,
-      "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
-      "url": "https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR"
+      "duration_ms": 221666,
+      "name": "Thank You (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0V75pOC9kDcSy94Ch3ChQ0"
     },
     {
       "added_at": "2022-12-15 16:00:00",

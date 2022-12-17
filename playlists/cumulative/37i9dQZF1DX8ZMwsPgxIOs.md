@@ -2,9 +2,9 @@
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind\. Cover: Prospa
+> Techno is a state of mind\. Cover: Carl Cox
 
-155 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
+159 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [BOYZ](https://open.spotify.com/track/79ixYcSOhGVaG69GHfVOXJ) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/42RXpd1cxEckm91miDtiAs) | 4:00 | 2022-04-15 | 2022-07-29 |
 | [Bricks](https://open.spotify.com/track/32USvckVhWpGreJKB5Q4Um) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Bricks EP](https://open.spotify.com/album/4xeUF0jCtNurMrL3IPzxKO) | 7:12 | 2022-07-01 |  |
 | [Bring The Noise](https://open.spotify.com/track/5f5yWTulFlrBE0DhPtVnEd) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:27 | 2022-04-15 |  |
+| [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2022-12-16 |  |
 | [Check Mate](https://open.spotify.com/track/22CE5S0W2mBnuQnIQS6O0N) | [Asquith](https://open.spotify.com/artist/43fmnXKQExCZ0KyHTKwkXv) | [Check Mate](https://open.spotify.com/album/7ChLldwhU48jHZGpMlBb51) | 4:32 | 2022-07-01 |  |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-05-26 |  |
 | [Contagion](https://open.spotify.com/track/6FohMf7tim4EKslVqCB4y1) | [quest?onmarq](https://open.spotify.com/artist/6wc03P0FC3KCKciiZVZ6H9) | [Contagion / Spinout](https://open.spotify.com/album/73P8UugCrvjQIFPz4zP7BZ) | 3:57 | 2022-04-15 | 2022-07-15 |
@@ -39,6 +40,7 @@
 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 | 2022-09-23 |  |
 | [Dancing in Berlin in 90S](https://open.spotify.com/track/7DM4O1uQO3WiRiZJm1zk81) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Never Ending Sounds](https://open.spotify.com/album/11bThZOv2PQOZBjumvIx8L) | 9:21 | 2022-05-26 |  |
 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 | 2022-09-23 |  |
+| [Deep Space X](https://open.spotify.com/track/6X1c9HhslDe4ykuXb7d9vI) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 6:28 | 2022-12-16 |  |
 | [Diffusus](https://open.spotify.com/track/4FLZkM2KJn8kj5A4J03ooQ) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Diffusus](https://open.spotify.com/album/5mJ9jkh3ufpXiCAzJtCrKf) | 3:55 | 2022-04-15 | 2022-10-14 |
 | [Dvizhenie](https://open.spotify.com/track/3S3UQpc9k18zwl90vMS0uA) | [Maruwa](https://open.spotify.com/artist/6jvVhsNfiC1BXMtZHKpgHF) | [Dvizhenie](https://open.spotify.com/album/1vZjKLmDFaQBdu8VC7yP5y) | 5:18 | 2022-04-15 | 2022-05-27 |
 | [Dystopia](https://open.spotify.com/track/0hJb963pbosuVwVViwGnAZ) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/2GsZ5MnJTIFOKf3FiuQISk) | 3:37 | 2022-07-29 |  |
@@ -71,6 +73,7 @@
 | [If I Die](https://open.spotify.com/track/5xNPAzaDPe0yB4RIfvFqRJ) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Sky Scraping](https://open.spotify.com/album/6xsPCh9ptJbW0Qr0afy5L7) | 5:36 | 2022-04-15 | 2022-10-29 |
 | [Ignite](https://open.spotify.com/track/4DTIk73G5Eur9dGeIoZPPv) | [Ramu](https://open.spotify.com/artist/1UUitgHAhWlBTcwXTIQeYl) | [Ignite](https://open.spotify.com/album/3LIFa2bkZNXW5aQjIcae3U) | 6:08 | 2022-09-23 |  |
 | [IN YOUR BLOOD \- Jessica Winter Remix](https://open.spotify.com/track/1l1KHnZUruHCJmTg9cM2CI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [IN YOUR BLOOD \(Remixes\)](https://open.spotify.com/album/29ENTVp1M01KZJuvMS0v9m) | 4:13 | 2022-04-15 |  |
+| [Intelligent Energy](https://open.spotify.com/track/7GOBFwwgn3cpWj6OwVZ1A6) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Prince Of Flowers EP](https://open.spotify.com/album/7tAFeC1V1AlOdE2OUYhPGd) | 4:23 | 2022-12-16 |  |
 | [Is Mine](https://open.spotify.com/track/2OVKwL3wYbbaKjGTCKS0Cc) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [Is Mine](https://open.spotify.com/album/1KSDLMWVPRjKQgxafjrdJR) | 5:44 | 2022-11-11 |  |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-07-01 |  |
 | [Keep The Body Dancing \- Spatial Awareness Remix \(EDIT\)](https://open.spotify.com/track/7wHK1wnd7wEelsDMm3OyuI) | [Cozmic Cat](https://open.spotify.com/artist/5VzgwnVckvQk1ET9tyGeN2), [Spatial Awareness](https://open.spotify.com/artist/2OdmLaSN87wH3r7ilfaKmc) | [Keep The Body Dancing \[Spatial Awareness Remix \(EDIT\)\]](https://open.spotify.com/album/7nYROmlF9JQIpsUZ85Y6wC) | 3:37 | 2022-04-15 | 2022-10-14 |
@@ -125,6 +128,7 @@
 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 | 2022-09-23 |  |
 | [Send Help](https://open.spotify.com/track/6jVlTi2ftKk02j3mCWsSKQ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Send Help](https://open.spotify.com/album/2BzFB5SNQazAUMzqi9VXv1) | 3:15 | 2022-04-15 | 2022-05-27 |
 | [Shine](https://open.spotify.com/track/6GJYSPLEP0sjZzzpuiKIcx) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Shine](https://open.spotify.com/album/5rOgqcs2ZryO3cZg03B27l) | 4:04 | 2022-07-01 |  |
+| [Snapshot '99](https://open.spotify.com/track/11gGOwStTHjiOlWbQgJCeB) | [Ben Sims](https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt) | [Circular Motions EP](https://open.spotify.com/album/5VjCr8Wo4yIlRjkFXNaT2h) | 6:03 | 2022-12-16 |  |
 | [Sometimes The Nights Last For Months](https://open.spotify.com/track/0jhUKXv10QyXRK1x2JAYGE) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Sometimes The Nights Last For Months](https://open.spotify.com/album/5sy9G2eYwYz7WPaqRVGIqe) | 6:49 | 2022-09-23 |  |
 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 | 2022-04-15 |  |
 | [Spread Love](https://open.spotify.com/track/0ejrSEMYTaKg8ui2uCAzaQ) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spread Love](https://open.spotify.com/album/0Tx4Knu8JDLJNXmScBf0KN) | 2:52 | 2022-10-13 |  |

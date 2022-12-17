@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-389 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+391 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Natsunoyo](https://open.spotify.com/track/177z4X3Na4sE1Hgf9IWfOH) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Natsunoyo](https://open.spotify.com/album/6XwKddDQoFjI9dO7AHo2Ar) | 2:03 | 2022-07-01 | 2022-09-17 |
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2021-12-08 | 2022-04-22 |
 | [New Season](https://open.spotify.com/track/00MR3lqcuALQH6JuJhzAcp) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/3fGMi62FQUhFEn8muqHqSj) | 2:00 | 2022-10-07 | 2022-11-04 |
-| [New Season](https://open.spotify.com/track/6EDhbMrFPSRamUaDotdn6v) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/0Oy5FpXNS4Uy9Gy3vqcT7o) | 2:00 | 2022-10-28 |  |
+| [New Season](https://open.spotify.com/track/6EDhbMrFPSRamUaDotdn6v) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/0Oy5FpXNS4Uy9Gy3vqcT7o) | 2:00 | 2022-10-28 | 2022-12-17 |
 | [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2022-09-09 |  |
 | [No es mi mente](https://open.spotify.com/track/7ni5mRayDGv27vipkVC1Gg) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [No es mi mente](https://open.spotify.com/album/1bus1UdLODz3yjXO1czJKt) | 2:30 | 2021-12-08 |  |
 | [Norske Danser](https://open.spotify.com/track/6xXLnSFpf5WViZrDbLr7n2) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Norske Danser](https://open.spotify.com/album/2YpOK5hE3INrNHYZwMpWW3) | 3:12 | 2021-12-08 | 2022-04-06 |
@@ -303,8 +303,10 @@
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2021-12-08 | 2022-04-06 |
 | [Shift Of Focus](https://open.spotify.com/track/7MYziA9LrwwtlYlRGqTOTE) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Shift Of Focus](https://open.spotify.com/album/2atrHCFeptmvfEK8Q8qVBh) | 2:33 | 2021-12-08 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
+| [Sine Qua Non](https://open.spotify.com/track/1O2iWnAVqXWYaOXCOTezfo) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Miracle Mountain](https://open.spotify.com/album/1H6xXlZDDFMpu9MIj4rPqT) | 2:42 | 2022-12-16 |  |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-09-17 |
 | [Slow Us Down](https://open.spotify.com/track/2pJVa3BEetPJLgBUCaVW7n) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Slow Us Down](https://open.spotify.com/album/3BUWNWluuCHelTAihZMTKB) | 3:51 | 2022-09-23 |  |
+| [Sognefjord](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 2:40 | 2022-12-16 |  |
 | [Solus Iterum](https://open.spotify.com/track/4xFhPhpAFyMFMZkySfjcIC) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Solus Iterum](https://open.spotify.com/album/35rpeAjXlKdZnPbs6zrRyH) | 2:00 | 2022-09-02 |  |
 | [Sombras Brillantes](https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ferreyra](https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U) | 2:17 | 2021-12-08 |  |
 | [Someday](https://open.spotify.com/track/40Prhj76wY4JkKWl130prE) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Someday](https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6) | 2:34 | 2022-09-16 |  |
@@ -363,7 +365,7 @@
 | [Verlorenes Glück](https://open.spotify.com/track/4cAT9a3DWt0smBFsmC7WEt) | [Lisa Tutti](https://open.spotify.com/artist/3l6n7qWmVJ0c8XquSgiFNX) | [Regental](https://open.spotify.com/album/6NGhehTZxgqdp8yZGHao3F) | 3:04 | 2021-12-08 | 2022-02-02 |
 | [Viento Verde](https://open.spotify.com/track/5RQeIDANgnsWqY9rqHgFG6) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:18 | 2021-12-08 | 2022-09-03 |
 | [Vieques](https://open.spotify.com/track/6CGR3tEuN7SpgKphMgX29Y) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Vieques](https://open.spotify.com/album/7a3lu2zOOxadhzI3Z2cRpV) | 2:43 | 2021-12-08 |  |
-| [Viktoria](https://open.spotify.com/track/0CPpze3C7NCI1djQKMebSR) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Viktoria](https://open.spotify.com/album/5hjsoNapAD0V3Tmk4ueXSw) | 2:43 | 2022-10-14 |  |
+| [Viktoria](https://open.spotify.com/track/0CPpze3C7NCI1djQKMebSR) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Viktoria](https://open.spotify.com/album/5hjsoNapAD0V3Tmk4ueXSw) | 2:43 | 2022-10-14 | 2022-12-17 |
 | [Viola](https://open.spotify.com/track/5RV00BhineeA8Pridv87II) | [R.J\. Smith](https://open.spotify.com/artist/0ViPLqxFKIDH5MH3YaTN28) | [Viola](https://open.spotify.com/album/2lWNoK5SqMEQw5DmmohMr9) | 3:09 | 2021-12-08 | 2022-09-09 |
 | [Virginia Roads](https://open.spotify.com/track/4mvPV4OfTqTr3BphyM4Rz1) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 3:21 | 2021-12-08 | 2022-08-05 |
 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-08 | 2022-09-03 |

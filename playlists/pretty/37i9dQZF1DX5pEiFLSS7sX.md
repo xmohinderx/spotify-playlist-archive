@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,900 likes - 100 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,961 likes - 100 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 61 | [Abba \(Arms Of A Father\)](https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 5:30 |
 | 62 | [Pieces \(Spontaneous\)](https://open.spotify.com/track/5yHC5TI4GAuKaeNYgCpLju) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Moments: Mighty Sound](https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3) | 10:44 |
 | 63 | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE) | 5:15 |
-| 64 | [Your Love is Strong](https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:36 |
+| 64 | [All Hail King Jesus \- Live](https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [SarahBeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 8:15 |
 | 65 | [See The Light](https://open.spotify.com/track/1xIHfkc6IJB76YjB9EDcez) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:07 |
-| 66 | [All Hail King Jesus \- Live](https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [SarahBeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 8:15 |
+| 66 | [Your Love is Strong](https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:36 |
 | 67 | [Wonder \(Spontaneous\) \- Live](https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:31 |
 | 68 | [More Like Jesus \- Live](https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [More Like Jesus \(Live\)](https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC) | 5:38 |
 | 69 | [Now is Forever \- Bonus Track](https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Take a Moment \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3J7vBrecAaQpAf5CpbXpj4) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel B\-Sides](https://open.spotify.com/album/3HwQXwC4V5Gbhwz8QJ6t80) | 9:40 |
 | 100 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDgxNDlmNDZmYjg0YTUzYTZjYjZkZDliOTViYzhhYWY3`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDdmZWJiYzIxMjFlNzhmZDc5ODE5NDJhN2U2MWE3NjNk`

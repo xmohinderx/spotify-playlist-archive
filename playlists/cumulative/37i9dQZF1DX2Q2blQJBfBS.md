@@ -4,7 +4,7 @@
 
 > Welcome to the underground
 
-453 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/4PYEIAGZSBaHZFeTD19bqu)
+454 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/4PYEIAGZSBaHZFeTD19bqu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Headwear Discount](https://open.spotify.com/track/4rini0sODLmNIljPpcC3qh) | [Fresh Daily](https://open.spotify.com/artist/149uYnRRWb0kMLiuCw1FTp) | [Vintage Thrift Score](https://open.spotify.com/album/4dvckByj51CKa8bd7KM8YA) | 1:57 | 2022-04-01 | 2022-07-26 |
 | [Heavy Water](https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Breeze Brewin](https://open.spotify.com/artist/37P8o5UzvXLuw3lQsjgdHq) | [Aethiopes](https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD) | 2:23 | 2022-04-29 |  |
 | [Hell or High Water](https://open.spotify.com/track/7u5dc7gDcwNOjd1lUmoMwo) | [Krohme](https://open.spotify.com/artist/6XXtbUbK2Oa1EbIb9Sgtgw), [Breez Evahflowin](https://open.spotify.com/artist/70xrbRtjVHDxBEygUzbu2n), [Muja Messiah](https://open.spotify.com/artist/4ZCr420Dwsxwi9h6dEkAeZ), [Kahlee](https://open.spotify.com/artist/3zV5RE9mE3JCEk38F8yggk), [Cesar Comanche](https://open.spotify.com/artist/11ldsqpW5UobwcQFXLi4B8), [L.I.F.E\. Long](https://open.spotify.com/artist/7C4DCJIk8e4CtaqQ95fUNd) | [Cursed Earth](https://open.spotify.com/album/0h1zCH70k6ef62FZshnFpd) | 4:05 | 2022-06-10 | 2022-07-25 |
-| [Here's Johnny](https://open.spotify.com/track/67FR0DOmWxB3bzmrPq3vxJ) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Here's Johnny](https://open.spotify.com/album/3AbO3nnT7l8rL3DMqgQ8ga) | 2:35 | 2022-12-03 |  |
+| [Here's Johnny](https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [YOD Presents: The Shining](https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM) | 2:33 | 2022-12-17 |  |
+| [Here's Johnny](https://open.spotify.com/track/67FR0DOmWxB3bzmrPq3vxJ) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Here's Johnny](https://open.spotify.com/album/3AbO3nnT7l8rL3DMqgQ8ga) | 2:35 | 2022-12-03 | 2022-12-17 |
 | [Highway Robbery](https://open.spotify.com/track/5eFnlvOiuOVicC2eVGGBej) | [Bane Capital](https://open.spotify.com/artist/31bDSGSOB0Lgc1FIDWFmeL), [Koncept Jack$on](https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF) | [Good Product](https://open.spotify.com/album/2YiuCQ2ilkgvYOUVbtbfng) | 2:00 | 2022-02-18 | 2022-04-29 |
 | [His Pain](https://open.spotify.com/track/2uujJLrRplaQMkEx8CybZ8) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Pineapple Now\-Laters](https://open.spotify.com/album/2pGf7mMaV60uMDchGAMcXF) | 5:29 | 2022-01-11 | 2022-03-22 |
 | [Hit Me Wit da Hard](https://open.spotify.com/track/7kymg9zRFElWqM9nND8QBE) | [Uptown XO](https://open.spotify.com/artist/6ToYJQ5swaMheU8tgw5rYq) | [Culture over Corporate](https://open.spotify.com/album/1oOAKsaI7SAyZSjqQRxXz6) | 3:57 | 2022-02-18 | 2022-04-20 |

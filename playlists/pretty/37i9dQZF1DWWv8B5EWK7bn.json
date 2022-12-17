@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 126314,
+  "num_followers": 126497,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGM4YThhN2Q5MjAzNzI3MzkzYTlmYzkyMTEzMDI4N2E3",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDc5MGE1OTZjMTUzNDg5MjdkZjQyM2MzYjA5NWE5NWI4",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -417,6 +417,22 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
+      "added_at": "2022-08-31 05:00:32",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -435,22 +451,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2022-08-31 05:00:32",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2022-08-31 04:34:22",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
       "added_at": "2022-09-11 03:49:06",
       "album": {
         "name": "Forever",
@@ -773,20 +789,20 @@
       "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-10-05 14:12:30",
       "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
       },
       "artists": [
         {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+          "name": "Laundromat",
+          "url": "https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm"
         }
       ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+      "duration_ms": 145641,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
     },
     {
       "added_at": "2022-09-12 20:45:15",
@@ -809,22 +825,6 @@
       "url": "https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC"
     },
     {
-      "added_at": "2022-10-05 14:12:30",
-      "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
-      },
-      "artists": [
-        {
-          "name": "Laundromat",
-          "url": "https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm"
-        }
-      ],
-      "duration_ms": 145641,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "As The Love Continues",
@@ -839,22 +839,6 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
-    },
-    {
-      "added_at": "2022-08-13 01:40:58",
-      "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -873,6 +857,22 @@
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
       "added_at": "2022-09-29 00:31:07",
       "album": {
         "name": "After School Club",
@@ -889,6 +889,22 @@
       "url": "https://open.spotify.com/track/09Vq5hMGi8Rzn2ZSLSVJEa"
     },
     {
+      "added_at": "2022-02-25 03:06:43",
+      "album": {
+        "name": "Unpeopled Space",
+        "url": "https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 369231,
+      "name": "Unpeopled Space",
+      "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Cosmorama",
@@ -903,22 +919,6 @@
       "duration_ms": 258420,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
-    },
-    {
-      "added_at": "2022-01-20 01:49:28",
-      "album": {
-        "name": "Shadow in the Frame",
-        "url": "https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 316769,
-      "name": "Shadow in the Frame",
-      "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
+      "added_at": "2022-01-20 01:49:28",
+      "album": {
+        "name": "Shadow in the Frame",
+        "url": "https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 316769,
+      "name": "Shadow in the Frame",
+      "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
+    },
+    {
       "added_at": "2022-04-20 13:58:09",
       "album": {
         "name": "Las Olas Contra Todos",
@@ -1035,6 +1051,22 @@
       "duration_ms": 165113,
       "name": "Las Olas Contra Todos",
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2022-09-27 21:46:39",
@@ -1057,36 +1089,20 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
-      "added_at": "2022-02-25 03:06:43",
-      "album": {
-        "name": "Unpeopled Space",
-        "url": "https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 369231,
-      "name": "Unpeopled Space",
-      "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+        "name": "Heartlow",
+        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
       },
       "artists": [
         {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
         }
       ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+      "duration_ms": 218925,
+      "name": "Heartlow - Edit",
+      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
     },
     {
       "added_at": "2022-09-29 01:39:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 160000,
       "name": "Two minutes",
       "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Heartlow",
-        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 218925,
-      "name": "Heartlow - Edit",
-      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
     },
     {
       "added_at": "2022-09-29 00:40:57",
@@ -1169,6 +1169,38 @@
       "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
     },
     {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
+      },
+      "artists": [
+        {
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
+        }
+      ],
+      "duration_ms": 237999,
+      "name": "Travel Lite",
+      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Revolution Of Super Visions",
+        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution Of Super Visions",
+      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -1191,22 +1223,6 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
-    },
-    {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
-      },
-      "artists": [
-        {
-          "name": "Perera Elsewhere",
-          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
-        }
-      ],
-      "duration_ms": 237999,
-      "name": "Travel Lite",
-      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
       "added_at": "2022-02-09 04:04:07",
@@ -1243,22 +1259,6 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Revolution Of Super Visions",
-        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution Of Super Visions",
-      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
     },
     {
       "added_at": "2022-01-21 20:15:30",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
-      "added_at": "2022-09-21 02:36:16",
-      "album": {
-        "name": "Face The Music",
-        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
-      },
-      "artists": [
-        {
-          "name": "Lolina",
-          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
-        }
-      ],
-      "duration_ms": 460945,
-      "name": "Face The Music",
-      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
-    },
-    {
       "added_at": "2022-07-15 05:20:53",
       "album": {
         "name": "K\u00fcbler-Ross",
@@ -1365,20 +1349,36 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2022-09-21 02:36:16",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u"
+        "name": "Face The Music",
+        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
       },
       "artists": [
         {
-          "name": "Leatherette",
-          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+          "name": "Lolina",
+          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
         }
       ],
-      "duration_ms": 186580,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t"
+      "duration_ms": 460945,
+      "name": "Face The Music",
+      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
+    },
+    {
+      "added_at": "2022-08-13 01:26:08",
+      "album": {
+        "name": "Escultura Misterio",
+        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
+      },
+      "artists": [
+        {
+          "name": "Tarik Rahim",
+          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
+        }
+      ],
+      "duration_ms": 173862,
+      "name": "Escultura Misterio",
+      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
     },
     {
       "added_at": "2021-12-01 01:36:10",
@@ -1401,6 +1401,22 @@
       "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
     },
     {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "duration_ms": 186580,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t"
+    },
+    {
       "added_at": "2022-03-11 04:34:08",
       "album": {
         "name": "P.O.N",
@@ -1415,38 +1431,6 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
-    },
-    {
-      "added_at": "2022-08-13 01:26:08",
-      "album": {
-        "name": "Escultura Misterio",
-        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
-      },
-      "artists": [
-        {
-          "name": "Tarik Rahim",
-          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "Escultura Misterio",
-      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
-    },
-    {
-      "added_at": "2022-09-03 03:42:34",
-      "album": {
-        "name": "Velvet Station",
-        "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
-      },
-      "artists": [
-        {
-          "name": "Base Stereo Club",
-          "url": "https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q"
-        }
-      ],
-      "duration_ms": 170750,
-      "name": "Sue Me",
-      "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1467,6 +1451,22 @@
       "duration_ms": 182800,
       "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
+    },
+    {
+      "added_at": "2022-09-03 03:42:34",
+      "album": {
+        "name": "Velvet Station",
+        "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
+      },
+      "artists": [
+        {
+          "name": "Base Stereo Club",
+          "url": "https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q"
+        }
+      ],
+      "duration_ms": 170750,
+      "name": "Sue Me",
+      "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
     },
     {
       "added_at": "2022-09-03 04:22:45",

@@ -1,12 +1,12 @@
 {
   "description": "Explore a genre bending universe centered around jazz. Cover: DOMi & JD BECK",
-  "num_followers": 67376,
+  "num_followers": 67493,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDdjYjE4Mjc2YmJkODI0YjgzNDIxMTc5NDgxMGQ1MTQ3",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDZhZjQ3NzFjMzQyOGQ5M2EyYmU3MWYxYzFhZDdmYjZj",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -59,6 +59,30 @@
       "duration_ms": 171608,
       "name": "Sweet Distraction",
       "url": "https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/070FNqSBKHnK1eSfWKDSLX"
+      },
+      "artists": [
+        {
+          "name": "FUZ",
+          "url": "https://open.spotify.com/artist/28mupEzJS8KFPMErekosRL"
+        },
+        {
+          "name": "Ar\u00e9na",
+          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
+        },
+        {
+          "name": "ALB",
+          "url": "https://open.spotify.com/artist/2UNdu0HGPQtiPJCSpOzptI"
+        }
+      ],
+      "duration_ms": 195008,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7sC171rY7e1cVA75yHpIjR"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -2055,22 +2079,6 @@
       "duration_ms": 190026,
       "name": "SOMETHIN' (feat. Ego Ella May)",
       "url": "https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq"
-      },
-      "artists": [
-        {
-          "name": "Latanya Alberto",
-          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
-        }
-      ],
-      "duration_ms": 252463,
-      "name": "Miss Chance",
-      "url": "https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3"
     }
   ],
   "unique_name": "Orbit",

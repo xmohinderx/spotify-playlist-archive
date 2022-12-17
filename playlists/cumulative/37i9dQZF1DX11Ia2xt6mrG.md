@@ -4,12 +4,13 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Tom & Collins en portada.
 
-176 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
+177 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 | 2022-05-06 |  |
 | [Agua Pa Beber](https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Gerardo Varela](https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny) | [Agua Pa Beber](https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p) | 2:30 | 2022-05-06 |  |
+| [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 | 2022-12-17 |  |
 | [Angel](https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Angel](https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi) | 2:24 | 2022-05-06 |  |
 | [Asteria](https://open.spotify.com/track/3vcmc3kheY2009Lt5p7giZ) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [Youth In Circles](https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b) | [Asteria](https://open.spotify.com/album/18bTlhk9U5LR3TarabRiMf) | 4:15 | 2022-05-06 | 2022-07-27 |
 | [Back To You](https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Back To You](https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f) | 2:51 | 2022-05-06 |  |
@@ -109,7 +110,7 @@
 | [Ojos \- La Noche Mix \- Radio Edit](https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ) | [Jenna Kyle](https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Ojos \(La Noche Mix\)](https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45) | 3:00 | 2022-05-06 |  |
 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 | 2022-05-06 |  |
 | [Only One](https://open.spotify.com/track/3w6JyzlT07ySZPpiWpbfne) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Matrino](https://open.spotify.com/artist/0jw0ZstZ0up9QaLPhOZsRi), [Norise](https://open.spotify.com/artist/3B6ycrAB8xJLpioUPHPoSD) | [Only One](https://open.spotify.com/album/2mn51btXWHfZ8KN2AbNzsF) | 3:04 | 2022-05-06 | 2022-07-29 |
-| [Panda](https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk) | [Ivan Dola](https://open.spotify.com/artist/0qjUt7xh6qxdB8bUAwPBsb) | [Panda](https://open.spotify.com/album/0WTcHPgqhJrd5WsyknBepl) | 3:20 | 2022-05-06 |  |
+| [Panda](https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk) | [Ivan Dola](https://open.spotify.com/artist/0qjUt7xh6qxdB8bUAwPBsb) | [Panda](https://open.spotify.com/album/0WTcHPgqhJrd5WsyknBepl) | 3:20 | 2022-05-06 | 2022-12-17 |
 | [Paradise](https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3) | [Artelax](https://open.spotify.com/artist/1cmngJeHHZi2ZWodpFOLv3) | [Paradise](https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx) | 1:52 | 2022-05-06 | 2022-07-26 |
 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 | 2022-12-07 |  |
 | [Parallels](https://open.spotify.com/track/6vtgIWQ2yCEcT4PTwdcPHg) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Parallels](https://open.spotify.com/album/2SxPs12skpRjx4oS0dWSdW) | 3:09 | 2022-06-17 | 2022-07-14 |

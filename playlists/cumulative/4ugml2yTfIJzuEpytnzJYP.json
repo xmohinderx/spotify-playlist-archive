@@ -1934,6 +1934,24 @@
     },
     {
       "album": {
+        "name": "Lightwerker",
+        "url": "https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo"
+      },
+      "artists": [
+        {
+          "name": "Light Language",
+          "url": "https://open.spotify.com/artist/2qkiYF4wgiIsQ4kF63YsmU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Lightwerker",
+      "url": "https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag"
+    },
+    {
+      "album": {
         "name": "Lost Souls (ATYYA Remix)",
         "url": "https://open.spotify.com/album/09yEzA91373rOjUnxYzrIk"
       },

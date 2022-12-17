@@ -972,6 +972,24 @@
     },
     {
       "album": {
+        "name": "John Rutter: The Colours of Christmas",
+        "url": "https://open.spotify.com/album/5EQU41n7Lj7OAn0wuRMwGt"
+      },
+      "artists": [
+        {
+          "name": "John Lenehan",
+          "url": "https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177017,
+      "name": "Rutter: The Colours of Christmas - Arr. for Piano by John Lenehan",
+      "url": "https://open.spotify.com/track/5hxJyjM1uI60T8xJB5U4yg"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA"
       },

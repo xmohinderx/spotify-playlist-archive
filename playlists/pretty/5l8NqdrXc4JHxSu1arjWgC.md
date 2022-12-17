@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,783 likes - 661 songs - 1 day 20 hr 29 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,785 likes - 662 songs - 1 day 20 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -669,5 +669,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 659 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 |
 | 660 | [It's All In Your Mind \(feat\. Graham Coxon & Rahel Debebe\-Dessalegne\)](https://open.spotify.com/track/0GybSKd5oGeLMtCLbXhBoQ) | [Superstate](https://open.spotify.com/artist/0TLcN68jey7bYM2HQEdRgi), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rahel Debebe\-Dessalegne](https://open.spotify.com/artist/2SDNXRQ8uX3TJxu4t6EEO3) | [Superstate \(feat\. Graham Coxon\)](https://open.spotify.com/album/265K7BOpojsq3RvCVbjz1z) | 4:38 |
 | 661 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
+| 662 | [The Mole From The Ministry \- 2001 Mix](https://open.spotify.com/track/2RHt1SrW1M4yBG3cUBjBz2) | [The Dukes Of Stratosphear](https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo) | [Chips From The Chocolate Fireball](https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7) | 5:58 |
 
-Snapshot ID: `MTY4NCw1Mjc3N2NiNDAzZTY1ZDM2YWE0YTQwMjNlMjY4MTU2ZTQ5ZGY1OWRm`
+Snapshot ID: `MTY4NSwwNjE4ZDljNGJlNWUwMjU3OGU1ZDAyZmYyMTMyYjIwYWYxODRhZThi`

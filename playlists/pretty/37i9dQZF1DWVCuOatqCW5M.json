@@ -1,13 +1,193 @@
 {
-  "description": "New music from popular Hindi artists. Cover- Shalmali Kholgade",
-  "num_followers": 14150,
+  "description": "New music from popular Hindi artists. Cover- Vishal Mishra",
+  "num_followers": 14222,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MzQxMywwMDAwMDAwMDZlYzUyMjA5Y2ExYzY5YjRlOTJhNTc3ODllZGI4ZmI5",
+  "snapshot_id": "MTY3MTE2ODI1MiwwMDAwMDAwMDZkZjFmMmU5MjU0YmNlNWNlMzA4YjBmMDQxY2E1OTkw",
   "tracks": [
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Chandni",
+        "url": "https://open.spotify.com/album/0EMHzP3umQX2DBKjSGVB8S"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 157335,
+      "name": "Chandni",
+      "url": "https://open.spotify.com/track/78c8OfjPabqsnu3b1NVkrD"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Pehli Baar Mile",
+        "url": "https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "duration_ms": 203137,
+      "name": "Pehli Baar Mile",
+      "url": "https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Nazdeek Aa",
+        "url": "https://open.spotify.com/album/0oc9nXJMTafqGDrbAHcboy"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "duration_ms": 204499,
+      "name": "Nazdeek Aa",
+      "url": "https://open.spotify.com/track/6HGYF23ssfitIgMvewmXFM"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Mera Dil",
+        "url": "https://open.spotify.com/album/3hgkTCfd85et2sQSDI3mgm"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        },
+        {
+          "name": "Charanpreet Singh",
+          "url": "https://open.spotify.com/artist/53IJ55alfjeq639D76KS6p"
+        },
+        {
+          "name": "Lekha Prajapati",
+          "url": "https://open.spotify.com/artist/2AL8Pr3oImQDcw3ISkDrXl"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "Mera Dil",
+      "url": "https://open.spotify.com/track/6VGUWNTvZu24fTBYgVSHM4"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Ae Ri Sakhi",
+        "url": "https://open.spotify.com/album/20xPx4VES7QkL2C2ncflsa"
+      },
+      "artists": [
+        {
+          "name": "Sumedha Karmahe",
+          "url": "https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Ae Ri Sakhi",
+      "url": "https://open.spotify.com/track/0vWHsHZAWTZquLkTfOM2Gd"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Bidaai",
+        "url": "https://open.spotify.com/album/6lvHqFoVIEA0RCdMiXywq5"
+      },
+      "artists": [
+        {
+          "name": "Yashita Sharma",
+          "url": "https://open.spotify.com/artist/6pgJBbF3h8R4XlwetvZ9J3"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Bidaai",
+      "url": "https://open.spotify.com/track/4SXT5bpVDotStoHxNECxOB"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Charcha Parcha",
+        "url": "https://open.spotify.com/album/7CGFsP0GS7bhLXo106MzKp"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Charcha Parcha",
+      "url": "https://open.spotify.com/track/7jBPBqiOUOG7Vri9PWnV8R"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Parda",
+        "url": "https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "duration_ms": 192323,
+      "name": "Parda",
+      "url": "https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Aao Na",
+        "url": "https://open.spotify.com/album/1QdtXX9vMP2P7PldhkMboq"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "duration_ms": 199371,
+      "name": "Aao Na",
+      "url": "https://open.spotify.com/track/7jHxMddr8mtxqdlyw1cN7l"
+    },
+    {
+      "added_at": "2022-12-16 01:02:00",
+      "album": {
+        "name": "Majboori - Single",
+        "url": "https://open.spotify.com/album/0CrcaIaNOEGO6ZVCM6cpCU"
+      },
+      "artists": [
+        {
+          "name": "Rajiv",
+          "url": "https://open.spotify.com/artist/7aPxzAud7a3NKzoYvTLXVe"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 276500,
+      "name": "Majboori",
+      "url": "https://open.spotify.com/track/62yjTtZN16rPfJWSf22W37"
+    },
     {
       "added_at": "2022-12-09 05:16:26",
       "album": {
@@ -751,198 +931,6 @@
       "duration_ms": 187428,
       "name": "Baawra Mann",
       "url": "https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Parchhayi",
-        "url": "https://open.spotify.com/album/2cH3mXLJITBSZkUMT8nFGF"
-      },
-      "artists": [
-        {
-          "name": "Sejal",
-          "url": "https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU"
-        },
-        {
-          "name": "Hanita Bhambri",
-          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
-        }
-      ],
-      "duration_ms": 189069,
-      "name": "Parchhayi",
-      "url": "https://open.spotify.com/track/18N9vliPBBcqJValK1vKge"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Gunehgar",
-        "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
-      },
-      "artists": [
-        {
-          "name": "DIVINE",
-          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 179690,
-      "name": "Sitara",
-      "url": "https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Kaise Jaane Du",
-        "url": "https://open.spotify.com/album/3MPlJFPWrJkAYtaRF5ZPmN"
-      },
-      "artists": [
-        {
-          "name": "DRG",
-          "url": "https://open.spotify.com/artist/7Lf3ofdkcKobEtagUlq7on"
-        },
-        {
-          "name": "Joyditya Verma",
-          "url": "https://open.spotify.com/artist/5WDHfkPORrMNsLqlkruYLl"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Kaise Jaane Du",
-      "url": "https://open.spotify.com/track/3nMc2ybTSfCyCQpykR3E1n"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Kya Karein",
-        "url": "https://open.spotify.com/album/1mztpgbKJgEuuK3PPhg95g"
-      },
-      "artists": [
-        {
-          "name": "Ananya Birla",
-          "url": "https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P"
-        },
-        {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
-        }
-      ],
-      "duration_ms": 162436,
-      "name": "Kya Karein",
-      "url": "https://open.spotify.com/track/4kBknWlaWOLZCbP5BL6PXg"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Sapne",
-        "url": "https://open.spotify.com/album/6bWxltsBsSChMUDrsrmsYS"
-      },
-      "artists": [
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Sapne",
-      "url": "https://open.spotify.com/track/0P9c5LI5pjiUDUnzGeP2tZ"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "YADON SE",
-        "url": "https://open.spotify.com/album/6KksGviHeMcobXtdnZeHkm"
-      },
-      "artists": [
-        {
-          "name": "KALAM INK",
-          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "YADON SE",
-      "url": "https://open.spotify.com/track/56oMv9F1phGIbYo9elLBBK"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Doob Ja",
-        "url": "https://open.spotify.com/album/2yBsjlugV3JzChZtTAARhI"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 246844,
-      "name": "Doob Ja",
-      "url": "https://open.spotify.com/track/1Y3W451uvsj7cz5KSaZFjn"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Together Forever",
-        "url": "https://open.spotify.com/album/7q3J5Z39LFEq1HEdOkfdD9"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 229218,
-      "name": "Together Forever",
-      "url": "https://open.spotify.com/track/2YMlGrhVHdbXeDejv0R77R"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Gunehgar",
-        "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
-      },
-      "artists": [
-        {
-          "name": "DIVINE",
-          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
-        },
-        {
-          "name": "Wazir Patar",
-          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Street Lori",
-      "url": "https://open.spotify.com/track/5zX5SGzWkMoMIPv1HKMaFa"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Inni Si Gal - Single",
-        "url": "https://open.spotify.com/album/675AWjsyb446jjoFk4hizO"
-      },
-      "artists": [
-        {
-          "name": "Stebin Ben",
-          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
-        },
-        {
-          "name": "Sanjeev Chaturvedi",
-          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
-        }
-      ],
-      "duration_ms": 202584,
-      "name": "Inni Si Gal",
-      "url": "https://open.spotify.com/track/4jj4pNTBG060Nqa3EH1agv"
     }
   ],
   "unique_name": "New Music Friday Hindi ",

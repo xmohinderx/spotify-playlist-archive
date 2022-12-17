@@ -1455,7 +1455,7 @@
     {
       "album": {
         "name": "Play Me Again",
-        "url": "https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD"
+        "url": "https://open.spotify.com/album/54vSb9255iZKykjuytWbZh"
       },
       "artists": [
         {
@@ -1470,6 +1470,28 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 390638,
+      "name": "Moon (And It Went Like)",
+      "url": "https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E"
+    },
+    {
+      "album": {
+        "name": "Play Me Again",
+        "url": "https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Julia Minkin",
+          "url": "https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
       "duration_ms": 390638,
       "name": "Moon (And It Went Like)",
       "url": "https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr"
@@ -1985,10 +2007,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 262222,
       "name": "Summer is Gone",
       "url": "https://open.spotify.com/track/42zDdOjb59esXiwAEPkcUZ"
+    },
+    {
+      "album": {
+        "name": "Summer Is Gone",
+        "url": "https://open.spotify.com/album/1n8b8aqIxncnaKsacz5CYH"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262222,
+      "name": "Summer Is Gone",
+      "url": "https://open.spotify.com/track/6L6LCfYY3czYJ5GBfhBqVU"
     },
     {
       "album": {

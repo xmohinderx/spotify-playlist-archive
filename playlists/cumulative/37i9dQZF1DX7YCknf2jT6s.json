@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Fred Hersch & Esperanza Spalding",
+  "description": "New jazz for open minds. Cover: Lionel Loueke",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 236851,
       "name": "Bagel Boy",
       "url": "https://open.spotify.com/track/2vtqbwWjj6DzHf01ydaqLz"
@@ -1305,6 +1305,24 @@
       "duration_ms": 395866,
       "name": "Be the Light",
       "url": "https://open.spotify.com/track/771Fw4TAwMkLz7pnu0N1Nm"
+    },
+    {
+      "album": {
+        "name": "Lofi Sauce",
+        "url": "https://open.spotify.com/album/58qF3qkx3l0rVxxKLjaeme"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118375,
+      "name": "Beach Comber",
+      "url": "https://open.spotify.com/track/5jC0c33jEW3arPHykQnyNQ"
     },
     {
       "album": {
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 287228,
       "name": "Choy Soda",
       "url": "https://open.spotify.com/track/2BiEJRkZsp931b4GW5RbDE"
@@ -4647,7 +4665,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 195187,
       "name": "Harmonics",
       "url": "https://open.spotify.com/track/0pXqxksckHfD3eXpC6K9KO"
@@ -5009,6 +5027,24 @@
       "duration_ms": 339858,
       "name": "Hors d'Oeuvre",
       "url": "https://open.spotify.com/track/3OICS3ShxY7KnOPsLHsj1g"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/7JEJzOuSLh5yDIYdZvuJfa"
+      },
+      "artists": [
+        {
+          "name": "Nadje Noordhuis",
+          "url": "https://open.spotify.com/artist/2gMxxfDcVbNcJH5VG2FCmY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273936,
+      "name": "Hudson",
+      "url": "https://open.spotify.com/track/1Znw9hnCZBzlXqI3UC1phx"
     },
     {
       "album": {
@@ -6821,7 +6857,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 147040,
       "name": "Loosie",
       "url": "https://open.spotify.com/track/6OinUwyf6k3sTyccVuOD19"
@@ -6917,6 +6953,48 @@
       "duration_ms": 205032,
       "name": "love + war (ft. Ophie)",
       "url": "https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk"
+    },
+    {
+      "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/6xMVvSFdgFZlt3Gug6DaDW"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Myron Walden",
+          "url": "https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR"
+        },
+        {
+          "name": "Monte Croft",
+          "url": "https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        },
+        {
+          "name": "Rogerio Boccato",
+          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+        },
+        {
+          "name": "John Hart",
+          "url": "https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339103,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/2pAeDg1MHRDeLGiZdTMTik"
     },
     {
       "album": {
@@ -7131,6 +7209,28 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
+    },
+    {
+      "album": {
+        "name": "Within This Stone",
+        "url": "https://open.spotify.com/album/0w2OgAeFY8VCct4xc8dknD"
+      },
+      "artists": [
+        {
+          "name": "Ziv Ravitz",
+          "url": "https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305792,
+      "name": "Malika",
+      "url": "https://open.spotify.com/track/1GPBGZ4OVHXQ8YqVdcoKEm"
     },
     {
       "album": {
@@ -7731,6 +7831,28 @@
       "duration_ms": 219653,
       "name": "My Ideal 1",
       "url": "https://open.spotify.com/track/0N0TlAikYM9i5lphpv04WR"
+    },
+    {
+      "album": {
+        "name": "My Kind of Poison",
+        "url": "https://open.spotify.com/album/4RIvcETLqCSy69hcCUbYk0"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Berne",
+          "url": "https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0"
+        },
+        {
+          "name": "Nine Sparks Riots",
+          "url": "https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "My Kind of Poison",
+      "url": "https://open.spotify.com/track/7yJeEPdXpXCLmQIUkWXs0n"
     },
     {
       "album": {
@@ -8761,7 +8883,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 88016,
       "name": "Peace Please",
       "url": "https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC"
@@ -10305,7 +10427,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 459809,
       "name": "Slow Change",
       "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
@@ -11503,6 +11625,40 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "album": {
+        "name": "The Art of Four",
+        "url": "https://open.spotify.com/album/4e55PTFF9Owl1o6NA8lyPu"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carniel",
+          "url": "https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk"
+        },
+        {
+          "name": "Hermon Mehari",
+          "url": "https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT"
+        },
+        {
+          "name": "St\u00e9phane Adsuar",
+          "url": "https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2"
+        },
+        {
+          "name": "Damien Varaillon",
+          "url": "https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M"
+        },
+        {
+          "name": "NO(w) Beauty",
+          "url": "https://open.spotify.com/artist/36pbhMHDmMUotharAzC35Q"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "The Art of Four",
+      "url": "https://open.spotify.com/track/5yPDLlpCMImluK1wHe1dtQ"
     },
     {
       "album": {

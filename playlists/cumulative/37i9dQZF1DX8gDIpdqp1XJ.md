@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-649 songs - 1 day 19 hr 17 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+650 songs - 1 day 19 hr 21 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [If You Don't Wanna Know](https://open.spotify.com/track/6u2sNdU0FNLbtZypNb2ubE) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [If You Don't Wanna Know](https://open.spotify.com/album/2bhkXqzbP7wROlIJPe0BE9) | 3:27 | 2021-04-02 | 2022-04-21 |
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-04-21 |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 | 2022-07-30 |
+| [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-17 |  |
 | [In Your Arms](https://open.spotify.com/track/2DgaPZppYXSYGCaBceXfTw) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Wonderer](https://open.spotify.com/album/3zmWJr754RgoD1u7BEk2Nk) | 4:39 | 2022-05-23 | 2022-07-30 |
 | [Inner Meet Me](https://open.spotify.com/track/13peHGuZastwBnvw1fVfff) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three EP's](https://open.spotify.com/album/387kRGMURjq8rAquMi3LLN) | 6:20 | 2021-04-02 | 2022-04-05 |
 | [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2022-07-14 |
@@ -398,7 +399,7 @@
 | [Nina](https://open.spotify.com/track/5eBWesgt493JjABBVdj8pr) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Nina](https://open.spotify.com/album/6LJHaWfBkwMApu8poG0WYc) | 3:20 | 2021-04-02 | 2022-04-20 |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-06-25 | 2022-04-19 |
 | [Ninja Partisi](https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Ninja Partisi](https://open.spotify.com/album/4onGiuk6cVH5MTREVJb2ZX) | 2:35 | 2021-06-04 | 2022-03-17 |
-| [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 | 2022-07-22 |  |
+| [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 | 2022-07-22 | 2022-12-17 |
 | [No Choice](https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No Choice](https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC) | 3:41 | 2021-12-14 | 2022-07-29 |
 | [No Nee Ta Slode Aln](https://open.spotify.com/track/0XUkl3jNKrJgZh6fTxYe01) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [No Nee Ta Slode Aln](https://open.spotify.com/album/4k9jGaOalPTQexjjM3UxMH) | 4:01 | 2021-04-02 | 2022-04-20 |
 | [Nobody Taught Me](https://open.spotify.com/track/5bVZ4C7MFM1tgsb8VjvLb3) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Nobody Taught Me](https://open.spotify.com/album/5Wjjrn5PxAzqwHDSSFfjtY) | 3:49 | 2021-07-19 | 2022-06-26 |
@@ -505,7 +506,7 @@
 | [Skateboard](https://open.spotify.com/track/6DuUfwLgh3aY4oKZR6UBOH) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Skateboard](https://open.spotify.com/album/5kLuYmONHbZaG0DfoD0Ej9) | 3:11 | 2021-06-04 | 2022-07-16 |
 | [Sleep Apnea](https://open.spotify.com/track/7H4AhGitjSmRZxKMaeH9wX) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Clash The Truth](https://open.spotify.com/album/40TgysF80nR70X6NCIvSHz) | 2:26 | 2021-04-02 | 2022-04-13 |
 | [Sleep Easy](https://open.spotify.com/track/3BNOUOBJVZJQM9O4ddbgR2) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Premium](https://open.spotify.com/album/7FWOwf5sFpunzLCCPpb21O) | 4:19 | 2021-04-02 | 2022-04-19 |
-| [Smalltown Stardust](https://open.spotify.com/track/5MGuTPMrvu15anEItc8GNg) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/4V5w4CUVri58aWlfQhyIs4) | 3:08 | 2022-10-28 | 2022-12-13 |
+| [Smalltown Stardust](https://open.spotify.com/track/5MGuTPMrvu15anEItc8GNg) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/4V5w4CUVri58aWlfQhyIs4) | 3:08 | 2022-10-28 |  |
 | [Snowdrops](https://open.spotify.com/track/6rZi99kOMT6JdawAJLX92u) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Snowdrops](https://open.spotify.com/album/65a4TDcrIXZd7NLfnlikZN) | 4:16 | 2022-04-20 | 2022-07-05 |
 | [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-15 |  |
 | [So Long Tomorrow](https://open.spotify.com/track/384wU9PSPK2iFuG2w1uQLm) | [Liam Kazar](https://open.spotify.com/artist/0wovYvR7eYIDf61MWmxjX9) | [Due North](https://open.spotify.com/album/76tlE2bLEsZmJq4SgZYbQt) | 4:20 | 2021-08-20 | 2022-07-29 |
@@ -649,7 +650,7 @@
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-06-07 | 2022-06-18 |
 | [You Ain't a Star](https://open.spotify.com/track/6QefRMFNbzTue9l66rEdNn) | [Psychic Temple](https://open.spotify.com/artist/5NKjZi3t7JxCPaiFcoV17h), [Mike Watt](https://open.spotify.com/artist/1MGR2y3msa1wBK06SSUNaf) | [III](https://open.spotify.com/album/5sFFKe51PrWIkYCWV5QIm6) | 3:09 | 2021-04-02 | 2022-04-15 |
 | [YOU ARE ENOUGH \- Caroline Rose Remix](https://open.spotify.com/track/7BDbWJkt8Hxoo6o9GU59W0) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg), [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [YOU ARE ENOUGH \(Caroline Rose Remix\)](https://open.spotify.com/album/0KRY7xpupgZTqWf7jYNdde) | 3:43 | 2021-04-02 | 2022-07-29 |
-| [You Are the Right One](https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 2:52 | 2022-07-11 |  |
+| [You Are the Right One](https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 2:52 | 2022-07-11 | 2022-12-17 |
 | [You Can Build a Palace, Or You Can Please People](https://open.spotify.com/track/0rjUbKBkR0afXEQfdOk89R) | [Badge Époque Ensemble](https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL) | [Badge Époque Ensemble](https://open.spotify.com/album/3wTgJk3izvzf9nqN8ZzoxO) | 3:33 | 2021-04-02 | 2022-04-19 |
 | [You Never Let Go](https://open.spotify.com/track/74xdnAQBe5iAiSokJcbI8S) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [You Never Let Go](https://open.spotify.com/album/2XERjmEI8tudeLb2c8E3d3) | 3:50 | 2021-04-02 | 2022-04-16 |
 | [You're Either On Something](https://open.spotify.com/track/5ZChGP01nfanQFCx2F4kcQ) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [You're Either On Something](https://open.spotify.com/album/5duiTi7izQc2iGzszYzrLJ) | 3:47 | 2021-04-02 | 2022-07-09 |

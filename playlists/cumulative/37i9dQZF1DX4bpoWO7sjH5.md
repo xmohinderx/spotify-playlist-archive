@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-166 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+167 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Medley de Coritos](https://open.spotify.com/track/68XTSxhJjqYLNrn6vqol1e) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Navidades en Mi Tierra](https://open.spotify.com/album/6rqzU8FpFgpCKsn5uyUsCX) | 4:32 | 2021-12-24 |  |
 | [Medley de Coritos](https://open.spotify.com/track/0KsL7ntQptxiIGfuLqH4ue) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Navidad en Mi Tierra](https://open.spotify.com/album/3bBEvMvpx2UnVRIYMTn6S0) | 4:32 | 2021-12-24 | 2022-07-29 |
 | [Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 4:23 | 2021-12-24 |  |
-| [Mi Burrito Sabanero](https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd) | [Gospa](https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ) | [Navidad Con Gospa](https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6) | 3:07 | 2021-12-24 |  |
+| [Mi Burrito Sabanero](https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd) | [Gospa](https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ) | [Navidad Con Gospa](https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6) | 3:07 | 2021-12-24 | 2022-12-17 |
 | [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 | 2022-12-10 |  |
 | [Mi Navidad](https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Mi Navidad](https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu) | 3:03 | 2021-12-24 |  |
 | [Mi Salvador](https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ) | [Familia Emanuel Worship](https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak) | [Mi Salvador](https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa) | 4:07 | 2022-12-10 |  |
@@ -136,6 +136,7 @@
 | [Puede Ser Navidad](https://open.spotify.com/track/7naVrw3GRQOQibLuD2TGye) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD) | [Estrella De Paz](https://open.spotify.com/album/0iGZXdsTLxQC3mUZgxlIMT) | 5:28 | 2021-12-24 | 2022-12-06 |
 | [Que Baje la Nube](https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Mujer Frente a la Cruz](https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d) | 6:07 | 2021-12-24 |  |
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 | 2021-12-24 |  |
+| [Regresé Para Navidad](https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Regresé Para Navidad](https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe) | 2:47 | 2022-12-10 |  |
 | [Rey de Gloria](https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM) | [Dauny](https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7), [Cindy Barrera](https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a), [Conexzion Directa](https://open.spotify.com/artist/5V5cqERMmCDUZipZYFZtXN) | [Rey de Gloria](https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB) | 3:22 | 2021-12-24 | 2022-12-11 |
 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2021-12-24 |  |
 | [Santa la Noche](https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX) | 3:56 | 2021-12-24 | 2022-07-29 |

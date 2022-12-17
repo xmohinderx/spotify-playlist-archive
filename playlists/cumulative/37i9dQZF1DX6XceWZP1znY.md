@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-646 songs - 1 day 19 hr 8 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+647 songs - 1 day 19 hr 11 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-06-07 | 2022-08-07 |
 | [キリフダ](https://open.spotify.com/track/0E7t1CSCWQaSqLvJo0tNHE) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [キリフダ](https://open.spotify.com/album/7HqGIrY65zULGtgwDfTe9b) | 2:29 | 2022-06-07 | 2022-07-25 |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2022-11-22 |  |
+| [ギリギリRide it out](https://open.spotify.com/track/7Ac881VKUrTcPWDpLG6Yiv) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Choo Choo TRAIN](https://open.spotify.com/album/2qB0JLYy2Ufq65f0NkjfPG) | 3:51 | 2022-11-22 |  |
 | [ケアレス](https://open.spotify.com/track/3TOu6gUa0EXmbYth06kR3e) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ケアレス](https://open.spotify.com/album/3oQVyEMEzbgROnz0MK3DiN) | 4:16 | 2022-06-07 | 2022-07-28 |
 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 | 2022-06-07 | 2022-07-25 |
 | [コガネゾラ \(TV size\)](https://open.spotify.com/track/0lINpdNxhDeWmPseWeKJJX) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ \(TV size\)](https://open.spotify.com/album/7BUZqoyy6UjD8XqL7HXyJs) | 1:30 | 2022-06-07 | 2022-07-28 |
@@ -502,7 +503,7 @@
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-06-07 |  |
 | [光あれ](https://open.spotify.com/track/32Af51Tolwru7wDH9sgauz) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [光あれ](https://open.spotify.com/album/68per7qELaTtnUTYjqduRy) | 3:38 | 2022-06-07 | 2022-07-12 |
 | [光の道標](https://open.spotify.com/track/1qKNT75TVw9lbS6Y4Su92i) | [Kano](https://open.spotify.com/artist/24HASvYQG1OvEFRWVWmOfx) | [光の道標](https://open.spotify.com/album/62EF4EjcoG5N9rPvLYE8mP) | 5:06 | 2022-06-07 | 2022-07-26 |
-| [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-06-07 |  |
+| [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-06-07 | 2022-12-17 |
 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 | 2022-06-07 | 2022-07-29 |
 | [冷めない魔法](https://open.spotify.com/track/6uKRow739ETuzlcJtWA6wt) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TVアニメ「異世界食堂2」エンディングテーマ 冷めない魔法](https://open.spotify.com/album/4SQLdGKpyjFmAdWIlaSstJ) | 4:37 | 2022-06-07 | 2022-06-29 |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-07 | 2022-11-24 |

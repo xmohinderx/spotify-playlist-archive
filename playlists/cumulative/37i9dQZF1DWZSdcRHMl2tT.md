@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-339 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+340 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [dune tune](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [dune tune](https://open.spotify.com/album/4HmvWfHAXKo1XpwKOnxPPK) | 2:38 | 2022-07-29 |  |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2022-04-05 |  |
 | [Effortless](https://open.spotify.com/track/6aCfDgXOwvl2KKYhRjcn3K) | [Maravilho5a](https://open.spotify.com/artist/13HgpUbnhaZEQvRTtijJiS) | [Effortless](https://open.spotify.com/album/7LyenxgrTQGPcMJ2HrlEy0) | 2:35 | 2022-04-05 |  |
+| [EivissAA](https://open.spotify.com/track/3eigPuKcaYb8wCYjptn6wr) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [LEO](https://open.spotify.com/album/7FgB0swov64l8PpCprNOh7) | 3:34 | 2022-12-16 |  |
 | [El Nido](https://open.spotify.com/track/5y4jIRCzdlaMVGiT4P9HPl) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [El Nido](https://open.spotify.com/album/4F84GW4s5CDhSGUz0xKBOG) | 2:52 | 2022-11-25 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-05 | 2022-07-29 |
 | [electric sea](https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [electric sea](https://open.spotify.com/album/7pQe4O9rXC4PeRMn92dLzA) | 2:33 | 2022-10-07 |  |

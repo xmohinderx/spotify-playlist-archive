@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > brazil i'm devasted
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,687 likes - 65 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,941 likes - 65 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

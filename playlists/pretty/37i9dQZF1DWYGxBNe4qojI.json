@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Mase",
-  "num_followers": 248790,
+  "num_followers": 249061,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGIxZDc2NzQ0NTkxNWU1ZTliNTRhZmU0YTlhMDQxYThm",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDA2M2Q0ODZjNzYwZGQxODEyMTkxOGU5NjU4ZTg4ZTBk",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Bucktown",
+      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Not Tonight EP",
         "url": "https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 275946,
       "name": "Crush on You (feat. Lil' Cease) - Remix",
       "url": "https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Bucktown",
-      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
     },
     {
       "added_at": "2022-10-28 04:00:00",

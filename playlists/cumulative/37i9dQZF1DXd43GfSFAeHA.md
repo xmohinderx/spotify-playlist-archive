@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Soulja
 
-178 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+179 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [L’allemagne \- Bonus](https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01) | 3:01 | 2022-10-04 |  |
 | [Maalish](https://open.spotify.com/track/42CFrgrQ2SOvAXPSbnaH3e) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:18 | 2022-05-08 | 2022-08-24 |
 | [Maktoub](https://open.spotify.com/track/5gcjlJBN0VbOcxMZlRTnmn) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Maktoub](https://open.spotify.com/album/1aodjEwWr0vyVMIOGgGHuP) | 3:14 | 2022-10-04 |  |
+| [MESAMA3EEN](https://open.spotify.com/track/6gg53gW5wlz0jSQmOcqIfY) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [MESAMA3EEN \(Deluxe\)](https://open.spotify.com/album/0F05Bs9oMtCyuAd22o4xKQ) | 3:00 | 2022-12-16 |  |
 | [Mia Mia](https://open.spotify.com/track/3ayLYD0w5LXcNXnV0S0Cek) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Mia Mia](https://open.spotify.com/album/5r12pt8Lw8cf65c3aYOOT7) | 2:17 | 2022-05-08 | 2022-08-24 |
 | [Mkahrab](https://open.spotify.com/track/0xMchpYiDzpvn66udMuDYE) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Mkahrab](https://open.spotify.com/album/6YA0eGg69qF9w2idEMxWaX) | 3:12 | 2022-05-08 | 2022-07-05 |
 | [MORAL](https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [MORAL](https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm) | 3:22 | 2022-05-08 | 2022-08-24 |
@@ -126,7 +127,7 @@
 | [Siri](https://open.spotify.com/track/224pf1HG3LAO6LvR3AlRNy) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Siri](https://open.spotify.com/album/1Ju4yo5yf3HZpeqEbaXPpi) | 3:33 | 2022-07-28 | 2022-08-24 |
 | [So Fresh](https://open.spotify.com/track/2oy8TFitLAgp3IOEAiclZo) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD), [2Two](https://open.spotify.com/artist/0mj273jWZNCOCMIorzMjtw) | [Passion](https://open.spotify.com/album/1ZOfTexH2xzLPCjzKluhT9) | 2:36 | 2022-05-08 | 2022-08-24 |
 | [Sparadra](https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:13 | 2022-05-08 | 2022-10-04 |
-| [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 | 2022-10-04 |  |
+| [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 | 2022-10-04 | 2022-12-17 |
 | [Styla Jamaiki](https://open.spotify.com/track/1ontuN6ddlysEYXzoYkLID) | [ARXP Cartel](https://open.spotify.com/artist/62rWseD8dlUp2w77shBrD1), [Eslam Jawaad](https://open.spotify.com/artist/3y7vb47gzj692Slqa8cKbv), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Styla Jamaiki](https://open.spotify.com/album/601BizZRIf2pr5QsnR6gDA) | 4:05 | 2022-06-09 | 2022-10-04 |
 | [Tchin Tchin](https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:31 | 2022-05-08 | 2022-10-04 |
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-08 | 2022-10-04 |

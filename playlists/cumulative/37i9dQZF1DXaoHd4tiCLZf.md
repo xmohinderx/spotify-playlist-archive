@@ -4,7 +4,7 @@
 
 > The official playlist for Emily in Paris\. Watch now on Netflix.
 
-120 songs - 7 hr 7 min - not published yet
+122 songs - 7 hr 17 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Mister Syncope](https://open.spotify.com/track/7dchc9SSmi1jA5tHHmSEpN) | [Bikini Machine](https://open.spotify.com/artist/39wrfK41IeM0MnyUb7w3X3) | [The Full Album](https://open.spotify.com/album/5h1fZnGgMbE9vIrqShzCcC) | 2:49 | 2022-05-20 |  |
 | [Moi je joue](https://open.spotify.com/track/7v3zsFlSU28kiv3sqRAPNl) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 1:42 | 2022-05-20 |  |
 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2022-05-20 |  |
-| [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 | 2022-05-20 |  |
+| [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 | 2022-05-20 |  |
+| [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 | 2022-05-20 | 2022-12-17 |
 | [Never Going Home Again](https://open.spotify.com/track/7h05YK8Wdos4ko2YprcQEL) | [Tyra Jutai](https://open.spotify.com/artist/70E4gETHoUpR12ukUrJ7Xf), [Think Differently](https://open.spotify.com/artist/5pdGU9QMtdGWapBKqVx2ez) | [Never Going Home Again](https://open.spotify.com/album/2IIjI7Lh23ImdyzrzXDhHG) | 2:20 | 2022-05-20 |  |
 | [No Shangri La](https://open.spotify.com/track/0P4Sf15I0czRVDrAS839Xf) | [David Shaw and The Beat](https://open.spotify.com/artist/2y3wW28lTVdgPLuqtF4Xcb) | [Love Songs With a Kick Vol\. One](https://open.spotify.com/album/5xobn0wZq7EJ94HSUCsyB0) | 4:26 | 2022-05-20 |  |
 | [Noir ou blanc](https://open.spotify.com/track/3h2uMfchV3OUUYoOnNRoNb) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Loveni](https://open.spotify.com/artist/3FX25sj0KYV6VNFlMDRZxo) | [Pour de vrai](https://open.spotify.com/album/0hhScQ5Q1Bb9IGD8AGlE3N) | 2:59 | 2022-05-20 |  |
@@ -114,7 +115,8 @@
 | [Sounds Familiar \- French Version](https://open.spotify.com/track/3I2D0Kpbtr0oXvWGxYUScQ) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Sounds Familiar \(French Version\)](https://open.spotify.com/album/1AxKROFWFlEL1Lt2Gbcckq) | 3:00 | 2022-05-20 |  |
 | [Springfield 61](https://open.spotify.com/track/4vPoqq7JbznVdtmhpPxgRo) | [L'Epee](https://open.spotify.com/artist/4r0FnBMOPmKACPLYhkcBtU) | [Diabolique](https://open.spotify.com/album/42QXQwn8uWTOoDutKMEQLk) | 3:39 | 2022-05-20 |  |
 | [Standing in This Dream](https://open.spotify.com/track/1gLtmeg7Wo6zdOoh1wqbro) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Together We Go](https://open.spotify.com/album/3y8rIZGyjqGjaafn3aOmv7) | 3:46 | 2022-05-20 |  |
-| [Summer is Gone](https://open.spotify.com/track/42zDdOjb59esXiwAEPkcUZ) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Summer is Gone](https://open.spotify.com/album/4l0AKMvIPTscaDRKMx20dh) | 4:22 | 2022-05-20 |  |
+| [Summer is Gone](https://open.spotify.com/track/42zDdOjb59esXiwAEPkcUZ) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Summer is Gone](https://open.spotify.com/album/4l0AKMvIPTscaDRKMx20dh) | 4:22 | 2022-05-20 | 2022-12-17 |
+| [Summer Is Gone](https://open.spotify.com/track/6L6LCfYY3czYJ5GBfhBqVU) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Summer Is Gone](https://open.spotify.com/album/1n8b8aqIxncnaKsacz5CYH) | 4:22 | 2022-05-20 |  |
 | [Tenir droit](https://open.spotify.com/track/1fmLevSes3HHyshFJC3gaE) | [Mélissende](https://open.spotify.com/artist/1WQ43Zwk8Ry5Q6Y46OWJkt) | [Tenir droit](https://open.spotify.com/album/1owRM89pHZPQDgRgxtXpjr) | 3:13 | 2022-05-20 |  |
 | [The Break](https://open.spotify.com/track/7JMZlCsevBlClH6MMENrZL) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [The Break](https://open.spotify.com/album/5FzGZk5IFH8u4ff4rxrt6h) | 3:03 | 2022-05-20 |  |
 | [Time](https://open.spotify.com/track/4ku64DuJxzDo7NDWzMptlj) | [EllaHarp](https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn) | [Who Asked You Back](https://open.spotify.com/album/3DHv2tZbagtDybW8XzZ6OP) | 3:46 | 2022-05-20 |  |
