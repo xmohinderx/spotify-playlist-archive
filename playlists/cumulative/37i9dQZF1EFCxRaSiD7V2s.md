@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-287 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+288 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Gravitron](https://open.spotify.com/track/6tHxTbhBFK3SkiqNQiExQu) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:36 | 2021-12-27 |  |
 | [Great Big Plans](https://open.spotify.com/track/2PJ0ZEVGQWwtMnUgKW46S7) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Great Big Plans](https://open.spotify.com/album/2fMST4xYVfOrXy9uWzhgec) | 4:31 | 2021-12-27 |  |
 | [Halloween](https://open.spotify.com/track/29VC2kQrNweVAnYkgVHdn5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:36 | 2021-12-27 |  |
+| [Hatchet](https://open.spotify.com/track/4RVQPQixdEwYaF5iTo6t0Y) | [Yellowbirddd](https://open.spotify.com/artist/3RAdJVSaypsA6vvo6yp5eV), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [while the light is fading](https://open.spotify.com/album/4fo8MGUW0ZqyIolLNVXWE9) | 4:16 | 2022-12-17 |  |
 | [Headmess](https://open.spotify.com/track/3qRMi1evJvfowhgZDuj20J) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 3:18 | 2021-12-27 |  |
 | [Hell's Bells](https://open.spotify.com/track/2qcdSOytptCu0TB3IWl6CS) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:43 | 2021-12-27 |  |
 | [Help](https://open.spotify.com/track/6DMoVhIb6jTRSD4ZXAHfXe) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 2:31 | 2022-11-10 |  |

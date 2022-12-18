@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-100 songs - 10 hr 2 min - not published yet
+101 songs - 10 hr 5 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Earth \- Mind Against Remix](https://open.spotify.com/track/1cQCfrLGc5GpBC6bNPlsUm) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 7:30 | 2022-11-23 |  |
 | [Ellipse](https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ellipse](https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj) | 6:51 | 2022-11-23 |  |
 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 | 2022-11-23 |  |
-| [Eternity](https://open.spotify.com/track/1qolXijooNmOF6qs5Jz7Aq) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Eternity](https://open.spotify.com/album/0PUSgcVtMYG0RkeE6IQyxC) | 6:56 | 2022-11-23 |  |
+| [Eternity](https://open.spotify.com/track/1qolXijooNmOF6qs5Jz7Aq) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Eternity](https://open.spotify.com/album/0PUSgcVtMYG0RkeE6IQyxC) | 6:56 | 2022-11-23 | 2022-12-18 |
 | [Faces](https://open.spotify.com/track/1pJnlza96BNgidDe5uiAPI) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Near Life Experience](https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv) | 4:29 | 2022-11-23 |  |
 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 | 2022-11-23 |  |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-11-23 |  |
@@ -106,6 +106,7 @@
 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 | 2022-11-23 | 2022-12-06 |
 | [Urania](https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Urania](https://open.spotify.com/album/6HNtAXj6JDQbfQeKPzTcYR) | 7:25 | 2022-11-23 | 2022-11-29 |
 | [Virgo](https://open.spotify.com/track/1OgmO9reLha6OiQ8PwMCz7) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Vomee](https://open.spotify.com/artist/7AoYKqkWmyz20OmuMC8OeS) | [Talisman](https://open.spotify.com/album/0Dnvoqw5glxqd4uVVDA0cy) | 7:54 | 2022-11-23 | 2022-12-13 |
+| [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 | 2022-12-09 |  |
 | [Waiting For Too Long](https://open.spotify.com/track/0VsCw4IqlcJ2GeYnQbV5zx) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Soul On Fire](https://open.spotify.com/album/0hhh9oROZpv3RBWY5FI6W4) | 4:30 | 2022-12-06 |  |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-11-23 |  |
 

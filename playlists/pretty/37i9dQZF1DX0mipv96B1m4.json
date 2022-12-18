@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 285,
+  "num_followers": 292,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDVlMTYxZDZjMzlkM2JiNmEzNmM0MmM3N2ZiZWNjOThi",
+  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDc5ZWE5ZWJlNGNmZjRkMmMwNGE3NjIwMWU5NzI4ODJj",
   "tracks": [
     {
       "added_at": "2022-11-17 20:59:00",
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih"
     },
     {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Boom Party",
+        "url": "https://open.spotify.com/album/2raBDiITs682lZEHzVaPiP"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 205659,
+      "name": "Boom Party",
+      "url": "https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F"
+    },
+    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "Second of All",
@@ -131,22 +147,6 @@
       "duration_ms": 176400,
       "name": "Bubble Up",
       "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Boom Party",
-        "url": "https://open.spotify.com/album/2raBDiITs682lZEHzVaPiP"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 205659,
-      "name": "Boom Party",
-      "url": "https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        }
-      ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Stupid",
@@ -559,6 +543,22 @@
       "duration_ms": 217338,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
+    },
+    {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "The One",
@@ -785,24 +769,20 @@
       "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
+      "added_at": "2022-05-19 20:59:00",
       "album": {
-        "name": "Kokonya",
-        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
       },
       "artists": [
         {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "King Saha",
-          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
         }
       ],
-      "duration_ms": 229433,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -831,6 +811,26 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Kokonya",
+        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "King Saha",
+          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -953,28 +953,32 @@
       "url": "https://open.spotify.com/track/2u2djNR80H5uTWHjYeOMhh"
     },
     {
-      "added_at": "2022-05-19 20:59:00",
+      "added_at": "2022-08-05 09:37:54",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/7BQ7Q0AFtmGvMF13XVyOID"
+        "name": "Kiziniro",
+        "url": "https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc"
       },
       "artists": [
         {
-          "name": "Nevo Aix",
-          "url": "https://open.spotify.com/artist/1fU6WsBUZXSOfKJT59Qxba"
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         },
         {
-          "name": "Dj Stubborn Pantar",
-          "url": "https://open.spotify.com/artist/7bJHgcS52Mec0Cj1FhUHMM"
+          "name": "Topic Kasente",
+          "url": "https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4"
         },
         {
-          "name": "All Stars",
-          "url": "https://open.spotify.com/artist/4fRGKm4ipbzmlrEwM8GPVz"
+          "name": "Lil Pazzo",
+          "url": "https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY"
+        },
+        {
+          "name": "Tip Swizzy",
+          "url": "https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv"
         }
       ],
-      "duration_ms": 254171,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/7JQCq8TJUyA7vWmYLkP73Y"
+      "duration_ms": 222599,
+      "name": "Kiziniro",
+      "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
     }
   ],
   "unique_name": "Kidandali Parte",

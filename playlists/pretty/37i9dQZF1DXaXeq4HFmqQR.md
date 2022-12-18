@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Las artistas que marcaron el año con Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,568 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,605 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 8 | [Libre Albedrío](https://open.spotify.com/track/5DovDrVCNh9qFp0GGnmJH7) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Libre Albedrío](https://open.spotify.com/album/6ywjX40yQQT3EVSuv0JcmV) | 3:04 |
 | 9 | [Beautiful Sadness](https://open.spotify.com/track/3gCU77vVGjA80B6cxXexWA) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:21 |
 | 10 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:40 |
-| 11 | [Canción Para Mi Ex](https://open.spotify.com/track/7JXdrYedUjDUn75naheO3y) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Canción Para Mi Ex](https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq) | 2:48 |
-| 12 | [Báilalo Mujer](https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 |
+| 11 | [Báilalo Mujer](https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 |
+| 12 | [Canción Para Mi Ex](https://open.spotify.com/track/7JXdrYedUjDUn75naheO3y) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Canción Para Mi Ex](https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq) | 2:48 |
 | 13 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
 | 14 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
 | 15 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 16 | [Besame](https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Besame](https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B) | 2:58 |
-| 17 | [Qué Tal](https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Qué Tal](https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT) | 2:59 |
-| 18 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
+| 17 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
+| 18 | [Qué Tal](https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Qué Tal](https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT) | 2:59 |
 | 19 | [Stefany](https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Saito ape](https://open.spotify.com/artist/0panVaEhbJCPqIRJfLuwap) | [Stefany](https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx) | 3:43 |
 | 20 | [Castillo de Cristal](https://open.spotify.com/track/6EKbtOGBq4tSpn8CkoDUoq) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:47 |
 | 21 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 |
 | 50 | [Música \- Quadman Remix](https://open.spotify.com/track/1tsOfeJb5PliHGBP4adsmD) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Quadman](https://open.spotify.com/artist/4pIRnTXA6rcHUXbdS7uxuE) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 6:15 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGUxZDE1YjZlZGNlNGU3NzAzMWQ1YmM1NWI4ZTA5ZWYw`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDYwYzg5MDE0ZDg1ZGU5OWFhYjNiY2NlMzE0MjVhMTcx`

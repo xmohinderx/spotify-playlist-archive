@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 
 > To the world, this is NCT! We are NCT DREAM! Our Winter Special Mini Album ‘Candy’ is out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,815 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,900 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

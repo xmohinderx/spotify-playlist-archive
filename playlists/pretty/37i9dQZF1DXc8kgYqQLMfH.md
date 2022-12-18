@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,903 likes - 465 songs - 17 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,909 likes - 465 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 221 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 |
 | 222 | [Monstera](https://open.spotify.com/track/66RNv89kzel0rASLTJBEMr) | [Olivia Bree](https://open.spotify.com/artist/5NhOlx5kRUSoXTwC01W6kl) | [Monstera](https://open.spotify.com/album/0Mt6UMiO30Ayt1kgc5dIMp) | 1:50 |
 | 223 | [Memories From Summer](https://open.spotify.com/track/14q9dOn3R4uJtyg0owI1JT) | [Dylan Boote](https://open.spotify.com/artist/4rS5YqGle242fTdHjfNk6L) | [Memories From Summer](https://open.spotify.com/album/046GDsndzjqWsDkjAhaWfM) | 2:02 |
-| 224 | [Astral Projection](https://open.spotify.com/track/5JpOdFmdumMpJ6WYovtLt4) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [Audiorealm](https://open.spotify.com/artist/6CxmksukboadF6WqD1KuE1), [Familiar Records](https://open.spotify.com/artist/0MroTgs6ubCMWuX689LPki) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:53 |
-| 225 | [Forgotten Photos](https://open.spotify.com/track/4hvCO4S2yEoIKV30nS7Fhz) | [patient wave](https://open.spotify.com/artist/2A5Rk0otLWV24A4IswyhTf), [Colens](https://open.spotify.com/artist/4l1PTmvLhCof1Px22Ph189), [Familiar Records](https://open.spotify.com/artist/0MroTgs6ubCMWuX689LPki) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:27 |
+| 224 | [Astral Projection](https://open.spotify.com/track/5JpOdFmdumMpJ6WYovtLt4) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [Audiorealm](https://open.spotify.com/artist/6CxmksukboadF6WqD1KuE1) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:53 |
+| 225 | [Forgotten Photos](https://open.spotify.com/track/4hvCO4S2yEoIKV30nS7Fhz) | [patient wave](https://open.spotify.com/artist/2A5Rk0otLWV24A4IswyhTf), [Colens](https://open.spotify.com/artist/4l1PTmvLhCof1Px22Ph189) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:27 |
 | 226 | [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 |
 | 227 | [Winter Dawn](https://open.spotify.com/track/5YU5fWdQqKjYPy8kigeWKl) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [johto](https://open.spotify.com/artist/7B2DA6KU0k3hJaENyOBXB4), [powerslacker](https://open.spotify.com/artist/1jawOx8A29jhyEQfnm7gMX) | [Winter Dawn](https://open.spotify.com/album/4tqF2LrvOFESOFRoe0Zl0J) | 2:37 |
 | 228 | [Oblivious](https://open.spotify.com/track/6JGRktSYyPOqIlUqxuEKQD) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Oblivious](https://open.spotify.com/album/3W0zN0qXJxk0Syqim6RQuV) | 1:57 |

@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-266 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
+267 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 | 2021-10-21 | 2022-07-29 |
 | [Berlin \(Ry X cover\)](https://open.spotify.com/track/3f6UOwEl6v3n3EjXcjxX9E) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Berlin \(Ry X cover\)](https://open.spotify.com/album/7JYiPQpbtta8oswaR48xhD) | 3:49 | 2022-03-22 | 2022-05-25 |
 | [Bills, Bills, Bills](https://open.spotify.com/track/3h9soIPxDnm7EqKv6u0cYu) | [Masquer](https://open.spotify.com/artist/4DsqMBB1CcYRrccjTV8rxB) | [Covers](https://open.spotify.com/album/5b1R3TKWbWNWeSwHn2VO5a) | 4:09 | 2022-03-22 | 2022-04-20 |
+| [Black Hole Sun](https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [Black Hole Sun](https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm) | 4:35 | 2022-03-22 |  |
 | [Black Hole Sun](https://open.spotify.com/track/3MoJoDStgGIfFEGkRzUSEB) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [Black Hole Sun](https://open.spotify.com/album/0uV1XGSaj9QYqJeS2P3f5v) | 4:35 | 2022-03-22 | 2022-04-18 |
 | [Blank Space](https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Blank Space](https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN) | 4:05 | 2022-03-22 | 2022-04-21 |
 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 | 2022-03-22 |  |
@@ -140,7 +141,7 @@
 | [Into the Black](https://open.spotify.com/track/78PuKTcvpFTh5PceV9kBM6) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill for Love](https://open.spotify.com/album/5Rz4NIqwoYGDbIh40UTylV) | 5:22 | 2022-03-22 | 2022-04-20 |
 | [Into The Black](https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill For Love](https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY) | 5:22 | 2022-03-22 |  |
 | [Into You](https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM) | 4:46 | 2021-10-21 | 2022-09-09 |
-| [Into You](https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI) | 4:46 | 2022-03-22 |  |
+| [Into You](https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI) | 4:46 | 2022-03-22 | 2022-12-18 |
 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 | 2021-10-21 |  |
 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/07eCZf9u22LsQH8wpFfjpj) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/album/32qgaOkiBYJqmFvRStyWtU) | 2:56 | 2021-10-21 | 2022-07-29 |
 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15) | 2:56 | 2022-03-22 |  |

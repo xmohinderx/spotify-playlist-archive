@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: The Brandals
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,430 likes - 101 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,453 likes - 101 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

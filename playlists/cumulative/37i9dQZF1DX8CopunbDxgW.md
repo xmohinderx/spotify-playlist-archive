@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Biig Piig.
 
-656 songs - 1 day 18 hr 59 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+657 songs - 1 day 19 hr 1 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\(to me\) your face is love](https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [\(to me\) your face is love](https://open.spotify.com/album/3pkXtqn98A5ANVrJSMQunk) | 3:36 | 2021-11-12 | 2022-02-10 |
 | [2 strings](https://open.spotify.com/track/7fGcGP4L201pDo9BBs7s5F) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [2 strings](https://open.spotify.com/album/1jN6oSiFt4DspfsMTdWlVq) | 3:38 | 2022-04-01 | 2022-07-29 |
 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2021-11-12 | 2022-02-11 |
-| [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2021-11-26 |  |
+| [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2021-11-26 | 2022-12-18 |
 | [2nd Round](https://open.spotify.com/track/47aIlnjYCoc2JOEOCe2AXy) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7nreaITfEOxOavaPVm16an) | 2:30 | 2021-10-15 | 2022-02-12 |
 | [32 Floors](https://open.spotify.com/track/18tuLCxBzxaHYhYMgBfxNm) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [32 Floors](https://open.spotify.com/album/7pUjf3WLukKM9ccpIhUKnU) | 3:01 | 2022-07-08 | 2022-08-10 |
 | [3AM](https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [3AM](https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT) | 3:45 | 2022-02-04 |  |
@@ -559,6 +559,7 @@
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2021-05-28 |  |
 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 | 2021-05-28 | 2022-07-28 |
 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2022-06-03 |  |
+| [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 |  |
 | [Tape](https://open.spotify.com/track/1pb2THB2CjcDmg8Fw2uS5Y) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush EP](https://open.spotify.com/album/3VOe1zgRaflxH5R0RuqUTu) | 3:56 | 2022-04-08 | 2022-07-16 |
 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 | 2021-06-15 |  |
 | [Temporary Love \- il:lo Remix](https://open.spotify.com/track/4gSIbyOjmtFOYgJYax0xpy) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Temporary Love \(il:lo Remix\)](https://open.spotify.com/album/7kl5K9V6DTpbD00kXn6t9K) | 5:17 | 2021-07-09 | 2022-01-28 |

@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-647 songs - 1 day 8 hr 16 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
+648 songs - 1 day 8 hr 20 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Bury Me](https://open.spotify.com/track/7o0CzCmFo363J5JgmT1nRd) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bury Me](https://open.spotify.com/album/3VoQCX0OelwD41YczNaRFP) | 3:43 | 2020-03-22 | 2022-07-10 |
 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 | 2021-01-23 | 2022-07-25 |
 | [California Addiction](https://open.spotify.com/track/1qYw4sfjBvvkxNkbxF7dy5) | [Death By Stereo](https://open.spotify.com/artist/6ZnqizbzAJTqXgRTje6IcF) | [California Addiction](https://open.spotify.com/album/6lrwLXh7AkDeL7UKA2Sutl) | 2:38 | 2020-06-13 | 2022-07-28 |
+| [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 | 2022-07-26 |  |
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-07-26 | 2022-11-26 |
 | [Can't Be Saved](https://open.spotify.com/track/7AGO0iN6e1NGwPj29zEYhY) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe\)](https://open.spotify.com/album/0AqTsQRY2x8Npg0E2hBvM8) | 3:07 | 2021-01-23 | 2022-07-29 |
 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 | 2022-07-26 |  |
@@ -307,7 +308,7 @@
 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 | 2020-03-30 | 2022-06-20 |
 | [Kill Em All](https://open.spotify.com/track/3HGToWWnpWDYe8sd5UcnH2) | [Part Time Killer](https://open.spotify.com/artist/1PDjdSn9YCXz1reA1PUcC0) | [Kill Em All](https://open.spotify.com/album/3VM7ycOlsqm59FOGjZfjKk) | 3:10 | 2020-03-23 | 2022-03-05 |
 | [Kitty Sucker](https://open.spotify.com/track/457BpNlDPJnuf94rY1fuWw) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:44 | 2020-03-21 | 2022-10-13 |
-| [Kitty Sucker](https://open.spotify.com/track/7ajm14wJT1HiZOVCf4d00F) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/3hS3M535B8REpnp1gCK2v6) | 3:44 | 2022-07-26 |  |
+| [Kitty Sucker](https://open.spotify.com/track/7ajm14wJT1HiZOVCf4d00F) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/3hS3M535B8REpnp1gCK2v6) | 3:44 | 2022-07-26 | 2022-12-18 |
 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 | 2020-04-09 | 2022-07-24 |
 | [LALA](https://open.spotify.com/track/0iocf3gyrsfmnZI8az4Xyn) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [LALA](https://open.spotify.com/album/67FkDCOWBRadkt1HiaGWbn) | 1:48 | 2020-04-22 | 2022-06-18 |
 | [Last Man Standing](https://open.spotify.com/track/6JNIbZaVV9wkiv0ZNBfRrk) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Ronin](https://open.spotify.com/album/1dMvXfgG3u4lJ144uO4elO) | 2:07 | 2020-04-18 | 2022-07-10 |

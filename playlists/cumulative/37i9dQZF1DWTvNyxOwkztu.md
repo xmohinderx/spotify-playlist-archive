@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-225 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+226 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Stardust](https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Room for Thought](https://open.spotify.com/album/5EjPFBdTPs7tFd2N1K9spD) | 2:24 | 2021-12-09 | 2022-05-10 |
 | [Stay by My Side](https://open.spotify.com/track/2wk7mBr6JlorYMwESY7lyi) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [CLOSR](https://open.spotify.com/artist/1QIjx8SUfvxycTLJGoxww3) | [Stay by My Side](https://open.spotify.com/album/2cWi7kzQZpOCdnoMLUf6GD) | 1:51 | 2022-11-25 |  |
 | [Step By Step](https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Step By Step](https://open.spotify.com/album/488BJzweFOikT4WEI2PD0N) | 2:47 | 2021-12-09 | 2022-07-28 |
+| [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-11-25 |  |
 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 | 2021-12-09 |  |
 | [Summer Vibe](https://open.spotify.com/track/1s7MlV77vmjAHqzVq60Vfd) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/3eXCBTg64X3AuakWQGuQ7Y) | 2:59 | 2021-12-09 | 2022-02-27 |
 | [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 | 2021-12-09 |  |
@@ -228,7 +229,7 @@
 | [White Sand](https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [White Sand](https://open.spotify.com/album/2UsS2tEkeUIi4vRS1dkRQH) | 3:08 | 2021-12-09 | 2022-08-14 |
 | [White Sand](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 3:08 | 2022-09-12 | 2022-10-04 |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 | 2022-10-13 |
-| [Wingspan](https://open.spotify.com/track/3MIMhAWM5nEAzMtGn81ZYm) | [7and5](https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi) | [Dragonfly](https://open.spotify.com/album/2hAiAbZpvHQpi012pPizS2) | 4:34 | 2022-11-25 |  |
+| [Wingspan](https://open.spotify.com/track/3MIMhAWM5nEAzMtGn81ZYm) | [7and5](https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi) | [Dragonfly](https://open.spotify.com/album/2hAiAbZpvHQpi012pPizS2) | 4:34 | 2022-11-25 | 2022-12-18 |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |
 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Ron Flatter
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,389 likes - 79 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,516 likes - 79 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 26 | [Moonlife](https://open.spotify.com/track/1Au3EfQy4GFGRetPC5cdhE) | [ONEDEFINED](https://open.spotify.com/artist/4SUQ1GFY0jmck4xkXmMKlk) | [Moonlife EP](https://open.spotify.com/album/3Py96yWsv5vQzYGbQ4GFSK) | 5:41 |
 | 27 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 |
 | 28 | [Choir To The Wild](https://open.spotify.com/track/1Roz7FfvXU50hWjdjEPvDo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Choir To The Wild](https://open.spotify.com/album/5zMfAruiLEHVRTctUnFiGu) | 4:43 |
-| 29 | [Remind Me \- Booka Shade Remix](https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Remind Me \(Booka Shade Remix\)](https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu) | 5:53 |
+| 29 | [REMIND ME \- Booka Shade Remix](https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [REMIND ME \(Booka Shade Remix\)](https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu) | 5:53 |
 | 30 | [Reflections \- Sam Shure Remix](https://open.spotify.com/track/1KYtiR7ZOdwXz1v0gGSR8X) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Reflections \(Sam Shure Remix\)](https://open.spotify.com/album/1RqBdAPDoC1GvILO1c1p7P) | 6:04 |
 | 31 | [Noise In Between](https://open.spotify.com/track/4p6olPKdqMG1lqiHMoT1Ml) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Mark Hoffen](https://open.spotify.com/artist/3A8kUNQpjSMpY7v37aw2Rm) | [Reto V](https://open.spotify.com/album/12VUfqz8QL0DxyPGEkuPXT) | 6:40 |
 | 32 | [Voices \- Malandra Jr\. Remix](https://open.spotify.com/track/2z52FxRUYc13V25jBtI9PL) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF), [Malandra Jr.](https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ) | [Unfold Voices Remixes](https://open.spotify.com/album/5nLteuz9han8SVe4foGVCS) | 7:05 |

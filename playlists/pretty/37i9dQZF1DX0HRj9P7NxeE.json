@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1745451,
+  "num_followers": 1745592,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGJkMDVmNDg4ZmRlODZmMDQ2NzVjOTFmMTkwZjQzMGQx",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGM0MGM0ZGUyZDBiMGIyYTc5MGZmNmU0NzdjNmUwMTMx",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/7qjfG80Q4046ra6Pvn6yLc"
-      },
-      "artists": [
-        {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Nann Hoe",
-      "url": "https://open.spotify.com/track/3umaJVPB3ux55pcPAUNOZn"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 189887,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/7qjfG80Q4046ra6Pvn6yLc"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Nann Hoe",
+      "url": "https://open.spotify.com/track/3umaJVPB3ux55pcPAUNOZn"
     },
     {
       "added_at": "2022-12-16 05:00:00",

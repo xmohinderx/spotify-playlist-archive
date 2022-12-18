@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 679786,
+  "num_followers": 680016,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwNTI5OSwwMDAwMDAwMDEwYTU5NzE0OWZkYTRkNjZlNzBjYTYwZGZhNWFkOWIw",
+  "snapshot_id": "MTY3MTIwNTI5OSwwMDAwMDAwMDE3MTBhYWNmZjI0NzAzMzI0NjMxOWUyMmNhYWJhNTY5",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+        "name": "Get Inspired",
+        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
+      "duration_ms": 173152,
+      "name": "Get Inspired",
+      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Get Inspired",
-        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 173152,
-      "name": "Get Inspired",
-      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Sundays",
+        "url": "https://open.spotify.com/album/0q14hXSgBRBv33M3s8eGne"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/0troHdGkx1ORKsnR8Kehht"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "fall at the same time",
@@ -941,36 +957,28 @@
       "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sundays",
-        "url": "https://open.spotify.com/album/0q14hXSgBRBv33M3s8eGne"
+        "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
+        "url": "https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0"
       },
       "artists": [
         {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 109866,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/0troHdGkx1ORKsnR8Kehht"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "608",
-        "url": "https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi"
-      },
-      "artists": [
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        },
         {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+          "name": "Flatbush Zombies",
+          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
+        },
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         }
       ],
-      "duration_ms": 204760,
-      "name": "608",
-      "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
+      "duration_ms": 144484,
+      "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
+      "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -991,6 +999,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "608",
+        "url": "https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "608",
+      "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
       },
@@ -1007,22 +1031,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Toyota Reckless",
-        "url": "https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy"
-      },
-      "artists": [
-        {
-          "name": "KANADA THE LOOP",
-          "url": "https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Cali4nia",
-      "url": "https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "play pretend",
         "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
       },
@@ -1035,6 +1043,22 @@
       "duration_ms": 117774,
       "name": "play pretend",
       "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Toyota Reckless",
+        "url": "https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy"
+      },
+      "artists": [
+        {
+          "name": "KANADA THE LOOP",
+          "url": "https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Cali4nia",
+      "url": "https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1139,6 +1163,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Feel Like",
+        "url": "https://open.spotify.com/album/3YFOnhb8l2mF3sCcQeSXSY"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Feel Like",
+      "url": "https://open.spotify.com/track/2dx4NA5EVXaYFlYqlFK3as"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "I Did Drugs For You",
         "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
       },
@@ -1155,18 +1195,38 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Feel Like",
-        "url": "https://open.spotify.com/album/3YFOnhb8l2mF3sCcQeSXSY"
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
       },
       "artists": [
         {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 170958,
-      "name": "Feel Like",
-      "url": "https://open.spotify.com/track/2dx4NA5EVXaYFlYqlFK3as"
+      "duration_ms": 179060,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "High Beams (JPEGMAFIA Remix)",
+        "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 157150,
+      "name": "High Beams - JPEGMAFIA Remix",
+      "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1199,42 +1259,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "High Beams (JPEGMAFIA Remix)",
-        "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 157150,
-      "name": "High Beams - JPEGMAFIA Remix",
-      "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -1247,46 +1271,6 @@
       "duration_ms": 171013,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
-        "url": "https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0"
-      },
-      "artists": [
-        {
-          "name": "Meechy Darko",
-          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
-        },
-        {
-          "name": "Flatbush Zombies",
-          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
-        },
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 144484,
-      "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
-      "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Cold Blood",
-        "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 164610,
-      "name": "Cold Blood",
-      "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1303,6 +1287,22 @@
       "duration_ms": 158451,
       "name": "Made Your Mama Cry",
       "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Cold Blood",
+        "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 164610,
+      "name": "Cold Blood",
+      "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1525,6 +1525,22 @@
       "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
     },
     {
+      "added_at": "2022-12-08 15:20:00",
+      "album": {
+        "name": "HARRISONBORTS 2022",
+        "url": "https://open.spotify.com/album/1nDUU71dKAMO6dtXwjAc2C"
+      },
+      "artists": [
+        {
+          "name": "Harrison Borts",
+          "url": "https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv"
+        }
+      ],
+      "duration_ms": 109923,
+      "name": "SEPTEMBER 17",
+      "url": "https://open.spotify.com/track/1fNXOSx9FcXhrF6o6IkxkK"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "off the map",
@@ -1575,22 +1591,6 @@
       "duration_ms": 137000,
       "name": "Thick of the Honey",
       "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
-    },
-    {
-      "added_at": "2022-12-08 15:20:00",
-      "album": {
-        "name": "HARRISONBORTS 2022",
-        "url": "https://open.spotify.com/album/1nDUU71dKAMO6dtXwjAc2C"
-      },
-      "artists": [
-        {
-          "name": "Harrison Borts",
-          "url": "https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv"
-        }
-      ],
-      "duration_ms": 109923,
-      "name": "SEPTEMBER 17",
-      "url": "https://open.spotify.com/track/1fNXOSx9FcXhrF6o6IkxkK"
     },
     {
       "added_at": "2022-11-30 19:41:15",

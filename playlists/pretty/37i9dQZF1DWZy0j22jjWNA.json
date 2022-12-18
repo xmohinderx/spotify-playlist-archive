@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73741,
+  "num_followers": 73756,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDgwZThjMGUyMzM2ZDdiZjAwOTgzZDQwYWViZmIzNmFl",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDZjZDQyZDhiOGM1NzRkN2E5YjViMjQ2NWMzYjlhYTE2",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Like Myself",
+        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Like Myself",
+      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Beautiful Anyway",
         "url": "https://open.spotify.com/album/7nBneg4Rg24xh4awr2PJye"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Like Myself",
-        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
       "artists": [
         {
-          "name": "Elizabeth Grace",
-          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+          "name": "Aalok Bala",
+          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
         }
       ],
-      "duration_ms": 148571,
-      "name": "Like Myself",
-      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -663,22 +679,6 @@
       "duration_ms": 246081,
       "name": "Grateful (feat. Poo Bear)",
       "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
-      },
-      "artists": [
-        {
-          "name": "Aalok Bala",
-          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
-        }
-      ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Wildwood Kin",
-        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
-      },
-      "artists": [
-        {
-          "name": "Wildwood Kin",
-          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
-        }
-      ],
-      "duration_ms": 246686,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Portals",
         "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198026,
       "name": "Constellate",
       "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Wildwood Kin",
+        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
+      },
+      "artists": [
+        {
+          "name": "Wildwood Kin",
+          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
+        }
+      ],
+      "duration_ms": 246686,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "One Wild Life",
-        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 480893,
       "name": "Queen Songs/Human",
       "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "One Wild Life",
+        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
     },
     {
       "added_at": "2020-09-04 04:02:00",

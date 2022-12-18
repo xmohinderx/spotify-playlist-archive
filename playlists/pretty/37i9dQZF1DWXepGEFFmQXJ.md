@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: The Wolfe Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,077 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,182 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 10 | [Face In The Crowd](https://open.spotify.com/track/4rdl2BHBQ58Q9X4iopHTnx) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Face In The Crowd](https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh) | 2:41 |
 | 11 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 12 | [Start Nowhere](https://open.spotify.com/track/33bMASZzuBL82YERsMyozx) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Start Nowhere](https://open.spotify.com/album/2T1qRB6zSSGdNgcTD3Dg8H) | 3:13 |
-| 13 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 |
+| 13 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 |
 | 14 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
 | 15 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 |
 | 16 | [Spin Me Around](https://open.spotify.com/track/11O5vNAyZk5Ls2NcuALmcj) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Spin Me Around](https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 |
 | 80 | [Bar High](https://open.spotify.com/track/1HTmE3WQOuahpTwpoyji5i) | [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Bar High](https://open.spotify.com/album/2obFqMJf41lw1DUTMRgQOk) | 2:52 |
 
-Snapshot ID: `MTY3MTEzNjg2OCwwMDAwMDAwMGQ3NjI0Mjk3ZTc1YmFmNTA4YWNhMzlmNDNlMDA5NDky`
+Snapshot ID: `MTY3MTEzNjg2OCwwMDAwMDAwMGZhNWYxNWMzZGEyOTJiMDhkNmEwYWY5NzhlMWZmYzgw`

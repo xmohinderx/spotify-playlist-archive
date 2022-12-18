@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1035777,
+  "num_followers": 1035974,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMTg1NCwwMDAwMDAwMDE3MTY5OGNmMzA5ZGZmOGE3ZTI0OTkzNTI3NzZkMGQ3",
+  "snapshot_id": "MTY3MTIxMTg1NCwwMDAwMDAwMGQ3YzdjZjJiZGM1YzI5MjkxZmMyMzNiYjUyZGFjYzAw",
   "tracks": [
     {
       "added_at": "2022-12-14 19:43:31",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "I Love You So",
-        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160239,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
       "added_at": "2022-12-16 17:29:36",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 202248,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 188301,
       "name": "Tree Among Shrubs",
       "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 202248,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-12-14 19:43:31",
       "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "added_at": "2022-12-14 19:43:31",
+      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 102468,
       "name": "80's makeout session",
       "url": "https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU"
-    },
-    {
-      "added_at": "2022-12-14 19:43:31",
-      "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
     },
     {
-      "added_at": "2022-12-16 17:29:36",
-      "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
-      },
-      "artists": [
-        {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
-    },
-    {
       "added_at": "2022-09-14 21:31:42",
       "album": {
         "name": "Talk to You (remixes)",
@@ -1067,6 +1051,22 @@
       "duration_ms": 214724,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/2xi7ZaCjI9UPek4MpWabZ6"
+    },
+    {
+      "added_at": "2022-12-16 17:29:36",
+      "album": {
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+      },
+      "artists": [
+        {
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6"
-      },
-      "artists": [
-        {
-          "name": "Jakob",
-          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
-        }
-      ],
-      "duration_ms": 175241,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 229113,
       "name": "Taking Over The Sun",
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+        }
+      ],
+      "duration_ms": 175241,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "Over the Hill",
+        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 167771,
+      "name": "Over the Hill",
+      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Over the Hill",
-        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ],
-      "duration_ms": 167771,
-      "name": "Over the Hill",
-      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/1qja4itnsquIxIofomg2PE"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1359,22 +1375,6 @@
       "duration_ms": 156279,
       "name": "Picture",
       "url": "https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/1qja4itnsquIxIofomg2PE"
     },
     {
       "added_at": "2022-09-14 21:31:42",

@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-657 songs - 1 day 12 hr 13 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+659 songs - 1 day 12 hr 19 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [control freak](https://open.spotify.com/track/1iNHewDPTVRKdjdcZLbd9v) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Picture Us Tiny](https://open.spotify.com/artist/1ZzI9ohe9Ekq5yZhK3U9pF) | [control freak](https://open.spotify.com/album/3dNvERZ52CjS14gqwvLN76) | 2:35 | 2022-07-20 | 2022-08-25 |
 | [Couldn't Be Anybody Else](https://open.spotify.com/track/3FKymZJkx9clfOqxgc6GsL) | [Jean Claude and the Eclairs](https://open.spotify.com/artist/7k9WtW2oTAPRJEhQs5IT5J) | [Couldn't Be Anybody Else](https://open.spotify.com/album/4CLXK3xvTX2LoKny51NQ0A) | 4:01 | 2022-06-08 | 2022-06-30 |
 | [Covered In Sunshine](https://open.spotify.com/track/59OnNNCfCEaaIGNf8efV3t) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z) | [Covered In Sunshine](https://open.spotify.com/album/18L9jA6pBoa0UCNTdrPHFd) | 3:28 | 2022-06-29 | 2022-08-25 |
-| [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-06-29 |  |
+| [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-06-29 | 2022-12-18 |
+| [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-11-30 |  |
 | [Crocodile Tears](https://open.spotify.com/track/1Ogx9hdaApNyMTDLIYLh4L) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/50z98bFMiIfpH5ZoTfhTTG) | 4:03 | 2022-03-30 | 2022-06-30 |
 | [Crocodile Tears](https://open.spotify.com/track/6m1VlQPcjfEEBdWniFuhI7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/7n0RbDSBuZtgSV4V7pPUWQ) | 4:03 | 2022-11-30 |  |
 | [Crushed](https://open.spotify.com/track/7tQqk7Z3TyyC4QcY0Ie4yf) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Honey, WTF](https://open.spotify.com/album/6Swk35DNkG3MmsdmQXhvQ6) | 3:34 | 2022-01-12 |  |
@@ -503,8 +504,9 @@
 | [See](https://open.spotify.com/track/1QmAPsQAOwgnbMgadQHkwn) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [See](https://open.spotify.com/album/4VrHjYS30FygMu7azuzmKV) | 4:25 | 2022-06-08 | 2022-06-30 |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2022-01-19 |  |
 | [Seed](https://open.spotify.com/track/4vchQBjUyGzAA38N4WQLBm) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Seed](https://open.spotify.com/album/5tIAVEebX67yVlhYTHcdUb) | 4:48 | 2022-05-25 | 2022-06-16 |
-| [serotonin](https://open.spotify.com/track/3sQjpiC3fOS3oE9Rgg8DZI) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [am i making sense?](https://open.spotify.com/album/5685RucccRVkD9RamYqNRe) | 3:03 | 2022-11-30 |  |
+| [serotonin](https://open.spotify.com/track/3sQjpiC3fOS3oE9Rgg8DZI) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [am i making sense?](https://open.spotify.com/album/5685RucccRVkD9RamYqNRe) | 3:03 | 2022-11-30 | 2022-12-18 |
 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 | 2022-06-15 | 2022-12-05 |
+| [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2022-11-30 |  |
 | [Shadow](https://open.spotify.com/track/6py2BcgFyBBocwb5n1soLr) | [3lh](https://open.spotify.com/artist/3ZJ3kHmCqRUqK4fYltHc7f) | [Shadow](https://open.spotify.com/album/0P5f5jogXYq4nTgv1t6DgT) | 3:20 | 2022-04-06 | 2022-07-07 |
 | [Shame](https://open.spotify.com/track/2MVVtBE7WkhmbbSYaUwZaZ) | [Puppy](https://open.spotify.com/artist/1k7YEgitylDPEwY0oLo8lH) | [Shame](https://open.spotify.com/album/3uoU0mPGRYKKDhnJIRKmhM) | 3:11 | 2022-03-09 | 2022-05-05 |
 | [Shapes](https://open.spotify.com/track/1ca1NzHafMzPWubaf5zUtB) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [Shapes](https://open.spotify.com/album/3emjaatbNmhEIkvN3isPJl) | 3:10 | 2021-12-01 | 2022-01-20 |

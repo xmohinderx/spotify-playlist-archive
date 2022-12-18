@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
-  "num_followers": 105394,
+  "num_followers": 105490,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDFlMjRmYmFhODYyZmVlMDc2ZDllNDQxNzM1OGY5ZjVj",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDM4YmFjMjFmODUyYmMyOGRmZDU1ZGUwMzY3YjIyMmNl",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 164071,
       "name": "Una Calle Nos Separa - En Vivo",
       "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 269848,
+      "name": "Perdoname / Te Quiero a Ti - En Vivo",
+      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
         "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 330339,
       "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
       "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 269848,
-      "name": "Perdoname / Te Quiero a Ti - En Vivo",
-      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -755,38 +755,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "La Misma Cancion (En Vivo)",
-        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "La Misma Cancion (En Vivo)",
-      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -803,18 +771,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -836,6 +804,38 @@
       "added_at": "2022-12-02 03:00:00",
       "album": {
         "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "En Vivo",
         "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo En La Quinta Vergara",
-        "url": "https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 224806,
-      "name": "Ahora Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
+      "duration_ms": 255973,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -899,18 +899,34 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 255973,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "En Vivo En La Quinta Vergara",
+        "url": "https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 224806,
+      "name": "Ahora Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
-      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
       },
@@ -999,38 +999,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Crecer (En Vivo)",
-        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Dime Si Eres Feliz - En Vivo",
-      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -1051,18 +1019,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
       },
       "artists": [
         {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 168253,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - En Vivo",
+      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1083,6 +1051,38 @@
       "duration_ms": 131120,
       "name": "Sencillamente - En Vivo",
       "url": "https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
     },
     {
       "added_at": "2022-12-02 03:00:00",

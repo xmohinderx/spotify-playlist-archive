@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Trueno & JID",
-  "num_followers": 456529,
+  "num_followers": 456592,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA2MTk3MCwwMDAwMDAwMDlmYjViNDQ1NGU2ZGUxMWQ4YzM1MzU0NjA4MTUzMzc0",
+  "snapshot_id": "MTY3MTA2MTk3MCwwMDAwMDAwMDAxZDdiN2RhZTBlYTdlZmJjYTc2NTUwM2YxNWFlYTli",
   "tracks": [
     {
       "added_at": "2022-12-14 23:52:50",
@@ -459,18 +459,22 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Se Fue la Luz",
-        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
+        "name": "Mujer\u00f3n",
+        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 225542,
-      "name": "Se Fue la Luz",
-      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -527,22 +531,18 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Mujer\u00f3n",
-        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
+        "name": "Se Fue la Luz",
+        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 170721,
-      "name": "Mujer\u00f3n",
-      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
+      "duration_ms": 225542,
+      "name": "Se Fue la Luz",
+      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "No Me Pregunten",
-        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "No Me Pregunten",
-      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "Envidia",
         "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 180000,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "No Me Pregunten",
+        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "No Me Pregunten",
+      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 182435,
+      "name": "El Mundo Es Tuyo",
+      "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "FASHION DILLER",
         "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 161638,
       "name": "FASHION DILLER",
       "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "El Mundo Es Tuyo",
-        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 182435,
-      "name": "El Mundo Es Tuyo",
-      "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 217228,
+      "name": "G-500",
+      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "En La M\u00eda",
         "url": "https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 212773,
       "name": "En La M\u00eda",
       "url": "https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 217228,
-      "name": "G-500",
-      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
       "artists": [
         {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 109830,
-      "name": "Michael Jackson",
-      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 109830,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "Un Domingo",
         "url": "https://open.spotify.com/album/3bx1vymv5nd076Bv8kxEHR"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 225000,
       "name": "Un Domingo",
       "url": "https://open.spotify.com/track/1OEY0Z5dLj14WQTRES44s5"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "Socios I",
         "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 236500,
       "name": "Flor",
       "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Fuma Fuma",
-        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Fuma Fuma",
-      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "No Creyeron",
         "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
@@ -1651,6 +1631,30 @@
       "duration_ms": 150422,
       "name": "No Creyeron",
       "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "Siempre Es Lo Mismo",
+        "url": "https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 246605,
+      "name": "Siempre Es Lo Mismo",
+      "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1691,30 +1695,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Siempre Es Lo Mismo",
-        "url": "https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 246605,
-      "name": "Siempre Es Lo Mismo",
-      "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "Banquetera",
         "url": "https://open.spotify.com/album/64Ko1LhGkxnukkLuad8lco"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 256053,
       "name": "Banquetera",
       "url": "https://open.spotify.com/track/2p2ezOq5rUJxdJXuks1TlE"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "Fuma Fuma",
+        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Fuma Fuma",
+      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Cuando Toca Toca",
+        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Cuando Toca Toca",
+      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "YEYO",
         "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 133333,
       "name": "No Boss",
       "url": "https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Cuando Toca Toca",
-        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Cuando Toca Toca",
-      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2287,42 +2287,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "So\u00f1ando en PR",
-        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Stripper X",
-      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Cotidiano",
-        "url": "https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM"
-      },
-      "artists": [
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Cotidiano",
-      "url": "https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "Kevin, Hugo & Jorge",
         "url": "https://open.spotify.com/album/4kzxuzLBkbGGnqeQ3dO8JT"
       },
@@ -2351,18 +2315,38 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Flight 0006",
-        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
+        "name": "Cotidiano",
+        "url": "https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM"
       },
       "artists": [
         {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Flight 0006",
-      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
+      "duration_ms": 132680,
+      "name": "Cotidiano",
+      "url": "https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "So\u00f1ando en PR",
+        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Stripper X",
+      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2379,6 +2363,22 @@
       "duration_ms": 228292,
       "name": "Seres de Noche",
       "url": "https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "Flight 0006",
+        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Flight 0006",
+      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
     },
     {
       "added_at": "2022-12-14 23:52:50",

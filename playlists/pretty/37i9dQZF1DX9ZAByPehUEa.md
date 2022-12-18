@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,013 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,069 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 37 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
 | 38 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 39 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/2jAaDaQ01dk74X4njfkXP3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 4:23 |
-| 40 | [24](https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [24](https://open.spotify.com/album/7pkYBo20zBpRzfyTqBkzhM) | 3:20 |
-| 41 | [All I Need \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All I Need \(DJ\-Kicks\)](https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO) | 3:39 |
+| 40 | [All I Need \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All I Need \(DJ\-Kicks\)](https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO) | 3:39 |
+| 41 | [24](https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [24](https://open.spotify.com/album/7pkYBo20zBpRzfyTqBkzhM) | 3:20 |
 | 42 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
 | 43 | [Best Of Me](https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [Best Of Me](https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c) | 3:49 |
 | 44 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
 | 50 | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/track/3hrN93f0xTIsejwDB3avn6) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/album/2UzDkeFYB2PkXUDq192KbP) | 3:59 |
 
-Snapshot ID: `MTY2Njk3NTA5NCwwMDAwMDAwMDFjOTFjY2M2NGJjNTc4MjNmYzIwYzdkMDk5MDU2M2M5`
+Snapshot ID: `MTY2Njk3NTA5NCwwMDAwMDAwMDZhYTkzYjA1YTViNDA5YmQwODY2YmExY2RiOTFjZDg4`

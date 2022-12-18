@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,412 songs - 3 day 8 hr 11 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
+1,413 songs - 3 day 8 hr 15 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [Heard it On The Radio](https://open.spotify.com/track/3yJa4GqFIs1qyNfugXIG9T) | [Luke Million](https://open.spotify.com/artist/1khu4DLsGK5MWLbUlfKkgz), [Asta](https://open.spotify.com/artist/3cmUhYaAl8ZVz3coS1T3VC) | [Heard it On The Radio](https://open.spotify.com/album/05XB5sGgRI9yCOyzMncFEg) | 3:37 | 2022-04-05 | 2022-04-16 |
 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 | 2019-08-02 | 2022-04-17 |
 | [Heartbeats](https://open.spotify.com/track/77s6rpwP3usU5q7t7tzcXt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Heartbeats](https://open.spotify.com/album/5NVDWUgK9CdWEhhzk53zu9) | 3:12 | 2019-11-08 | 2022-04-12 |
-| [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-07-01 |  |
+| [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-07-01 | 2022-12-18 |
 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 | 2019-08-11 | 2022-04-11 |
 | [Heaven \(Must Be There\) \- 2007 Remastered](https://open.spotify.com/track/3xYJgyDaDaTEetvC0IAee5) | [Eurogliders](https://open.spotify.com/artist/48kXmrNGCBMAz7N8x1J2na) | [The Essential](https://open.spotify.com/album/0KAv7K0ZTcXPAbwoUneSbK) | 3:40 | 2019-08-01 | 2021-05-24 |
 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 | 2019-07-30 | 2022-04-12 |
@@ -843,6 +843,7 @@
 | [Never Enough](https://open.spotify.com/track/0irgkspMpvzCCg9LSevt9i) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/7MenxXNX8NaBCcQtu40ccR) | 2:51 | 2021-03-16 | 2022-04-20 |
 | [Never Go Back](https://open.spotify.com/track/2QrXzOqLCVDRZHkToA0tSR) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Never Go Back](https://open.spotify.com/album/5EqITahBSjWcU71mbhFPEf) | 2:55 | 2019-08-05 | 2021-05-18 |
 | [Never Gonna Be The Same](https://open.spotify.com/track/0G3VfgzZQv8c6AyyIp1gxd) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Never Gonna Be The Same](https://open.spotify.com/album/5UQjhMLOQa4kR530D1nbhC) | 3:15 | 2021-03-08 | 2022-04-20 |
+| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-12-18 |  |
 | [Never Let You Go](https://open.spotify.com/track/6H15f8zwZSiFE1iseSvkLT) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Never Let You Go](https://open.spotify.com/album/29aFzMPjs687GKSJCPLfNI) | 3:47 | 2021-03-22 | 2022-04-19 |
 | [Never Let You Go \- 2008 Remaster](https://open.spotify.com/track/1sxUaLi0G2vB7dl4ogtCxH) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Blue](https://open.spotify.com/album/7z6LqzGLGd6tnWvsH9iojB) | 3:57 | 2019-07-30 | 2022-04-05 |
 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2019-08-08 | 2022-04-05 |

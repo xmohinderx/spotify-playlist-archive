@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-191 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+191 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Luz Oculta](https://open.spotify.com/track/0u7uSvFJUQ4iOVU1MORvBm) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Luz Oculta](https://open.spotify.com/album/5LIoNLXzODduC2rShCaG2J) | 2:40 | 2022-09-02 |  |
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-17 |  |
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
+| [Matter](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Matter](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 2:19 | 2022-12-16 |  |
 | [Medianoche](https://open.spotify.com/track/1UAlByio9nRgNa1eIMvdtr) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Medianoche](https://open.spotify.com/album/16jVhTdkRtcfjnCWnOnmbL) | 2:19 | 2022-06-17 |  |
 | [Mediterranean Flavour Outro](https://open.spotify.com/track/7xrYy1Wp8drWIsUMVk8qhk) | [Matiacardia](https://open.spotify.com/artist/0yHitjtcKBLXaA8PYshhjj), [Stefan Postoronca](https://open.spotify.com/artist/3P1y51qedu9y9O8UVmRMxR), [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G) | [World & Music](https://open.spotify.com/album/2j9sg3MHsfjfO3D7Qx0RDr) | 2:11 | 2022-06-17 | 2022-07-29 |
 | [Memories of San Isidro](https://open.spotify.com/track/54Yse6pF3DrMcmPWm00361) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Memories of San Isidro](https://open.spotify.com/album/63bsQLEu2S7jErqakHmpV3) | 1:42 | 2022-09-16 |  |
@@ -184,7 +185,6 @@
 | [Una Vida Prospera](https://open.spotify.com/track/65sHNlUnVH9M0dzNcGEn0Y) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Una Vida Prospera](https://open.spotify.com/album/5liLr3r2atOTzyGDuugGsB) | 2:06 | 2022-07-29 |  |
 | [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 | 2022-09-09 |  |
 | [Valeria](https://open.spotify.com/track/14YLpb5I76rn2fvFLdbhuq) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Valeria](https://open.spotify.com/album/359dhOPYz6AjtYsEjYMzFh) | 2:22 | 2022-10-28 |  |
-| [Valle dei Templi](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Valle dei Templi](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 3:00 | 2022-12-16 |  |
 | [Vals del Poniente](https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Vals del Poniente](https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE) | 2:02 | 2022-07-15 |  |
 | [Valsa Sem Nome](https://open.spotify.com/track/1zJafeATKvIfikaHqheJIc) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm) | [Valsa Sem Nome](https://open.spotify.com/album/7Gqab034S6MlTLAjdiFZcz) | 2:57 | 2022-08-12 |  |
 | [Valsa Sergipana \(Litoca\)](https://open.spotify.com/track/3N9A4p320JeK7lvDJbH0pA) | [Igor Brasil](https://open.spotify.com/artist/7I410Dp3d5DOJAqTJe9PGo) | [Valsa Sergipana \(Litoca\)](https://open.spotify.com/album/2MxMeTDTZV9bX19HsgnXcv) | 2:33 | 2022-10-28 |  |

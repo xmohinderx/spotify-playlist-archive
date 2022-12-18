@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-110 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
+111 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Bit of Faith](https://open.spotify.com/track/3AnCxW4JAndjVO7Uj1Onzi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [MY PARADE](https://open.spotify.com/artist/4odBqe9WOqpaQWwokqQyyt) | [Colors](https://open.spotify.com/album/6uhw5SnjSw9VGjjYEhlZuB) | 3:02 | 2022-09-15 | 2022-09-30 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-15 |  |
 | [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 |  |
+| [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 |  |
 | [Anything](https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Anything](https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF) | 2:23 | 2022-09-15 |  |
 | [Beautiful](https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Beautiful](https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC) | 2:55 | 2022-09-15 | 2022-09-30 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Belong](https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs) | 2:40 | 2022-09-15 | 2022-09-30 |
@@ -28,7 +29,7 @@
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 | 2022-10-22 |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 |  |
 | [Chasing Daydreams](https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Chasing Daydreams](https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw) | 2:45 | 2022-10-13 |  |
-| [Close To Me](https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close To Me](https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj) | 4:57 | 2022-12-01 |  |
+| [Close To Me](https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close To Me](https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj) | 4:57 | 2022-12-01 | 2022-12-18 |
 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 | 2022-09-15 |  |
 | [Crazy](https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Crazy](https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA) | 3:40 | 2022-09-15 |  |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-09-15 |  |

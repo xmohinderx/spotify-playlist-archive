@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 378697,
+  "num_followers": 378965,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMGQzMzY4YTY2YmY2ZGUwMzBjZDg0MzQ0YzU2NGM4OGRk",
+  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMDQ1YzFjNTgwOTI2YzNiNDg0MGY0MjE5ZWQzOTJiZDNj",
   "tracks": [
     {
       "added_at": "2022-11-09 13:17:01",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-11-09 13:17:01",
       "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00c1 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
-    },
-    {
-      "added_at": "2022-11-09 13:17:01",
-      "album": {
         "name": "Varrendo a Lua",
         "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+    },
+    {
+      "added_at": "2022-11-09 13:17:01",
+      "album": {
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00c1 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
       "added_at": "2022-11-09 13:17:01",
@@ -847,22 +847,18 @@
     {
       "added_at": "2022-11-09 13:17:01",
       "album": {
-        "name": "Um amor puro",
-        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
+        "name": "Transforma(dor)",
+        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Um amor puro",
-      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
+      "duration_ms": 143461,
+      "name": "Transforma(dor)",
+      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
     },
     {
       "added_at": "2022-11-09 13:17:01",
@@ -883,18 +879,22 @@
     {
       "added_at": "2022-11-09 13:17:01",
       "album": {
-        "name": "Transforma(dor)",
-        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
+        "name": "Um amor puro",
+        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
         }
       ],
-      "duration_ms": 143461,
-      "name": "Transforma(dor)",
-      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
+      "duration_ms": 285000,
+      "name": "Um amor puro",
+      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
     },
     {
       "added_at": "2022-11-09 13:17:01",

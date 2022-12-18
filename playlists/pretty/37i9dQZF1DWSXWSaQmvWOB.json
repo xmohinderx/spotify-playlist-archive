@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 428952,
+  "num_followers": 429086,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA5NTkxOSwwMDAwMDAwMGE1YjA0NzY4NDUyZDBjZWM0MjQ2OTBhZDI3OWY1M2Vk",
+  "snapshot_id": "MTY3MTA5NTkxOSwwMDAwMDAwMDBmOTYzMGFmYzZiODNjMzFkMGNlMzg1MGIxM2Q1MDE5",
   "tracks": [
     {
       "added_at": "2022-12-12 14:02:32",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "When Everything Is Better, I'll Let You Know",
-        "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Figures",
         "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Hills",
-        "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
+        "name": "When Everything Is Better, I'll Let You Know",
+        "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 181279,
-      "name": "Hills",
-      "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
+      "duration_ms": 217200,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -567,6 +551,22 @@
       "duration_ms": 208537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Hills",
+        "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 181279,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "All The Things I Couldn't Say To You",
-        "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
-      },
-      "artists": [
-        {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        }
-      ],
-      "duration_ms": 264285,
-      "name": "All The Things I Couldn't Say To You",
-      "url": "https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Fighting for Peace",
         "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
@@ -687,6 +671,38 @@
       "duration_ms": 202058,
       "name": "Fighting for Peace",
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 229992,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "All The Things I Couldn't Say To You",
+        "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        }
+      ],
+      "duration_ms": 264285,
+      "name": "All The Things I Couldn't Say To You",
+      "url": "https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -723,22 +739,6 @@
       "duration_ms": 210873,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
-        "name": "Take Care",
-        "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 229992,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -839,38 +839,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Easier Said Than Done",
         "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
       },
@@ -907,22 +875,34 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Red To Violet (Feat. Jamila Woods)",
-        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 202746,
-      "name": "Red To Violet - Feat. Jamila Woods",
-      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -943,22 +923,22 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Black Radio (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C"
+        "name": "Red To Violet (Feat. Jamila Woods)",
+        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         },
         {
-          "name": "Hindi Zahra",
-          "url": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 408360,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR"
+      "duration_ms": 202746,
+      "name": "Red To Violet - Feat. Jamila Woods",
+      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -979,6 +959,26 @@
       "duration_ms": 235061,
       "name": "Hurts So Bad - with Josh Teskey",
       "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Black Radio (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Hindi Zahra",
+          "url": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
+        }
+      ],
+      "duration_ms": 408360,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Dead Inside Shuffle",
-        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dead Inside Shuffle",
-      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Home Cooking",
         "url": "https://open.spotify.com/album/3rcysrlQvRv3kgZR461Lz7"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
+        "name": "Dead Inside Shuffle",
+        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
       },
       "artists": [
         {
-          "name": "Liquid Spirits",
-          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
         }
       ],
-      "duration_ms": 169986,
-      "name": "Pure Gold",
-      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
+      "duration_ms": 200000,
+      "name": "Dead Inside Shuffle",
+      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
+      },
+      "artists": [
+        {
+          "name": "Liquid Spirits",
+          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
         "name": "More To Learn",
         "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
       },
@@ -1239,6 +1239,30 @@
       "duration_ms": 270722,
       "name": "More To Learn",
       "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "duration_ms": 252185,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1279,26 +1303,18 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4"
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
       "artists": [
         {
-          "name": "LIKEMINDS",
-          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        },
-        {
-          "name": "Rebiere",
-          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 252185,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
+      "duration_ms": 223060,
+      "name": "Joy & Pain",
+      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1343,22 +1359,6 @@
       "duration_ms": 217791,
       "name": "Treat U Good",
       "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Joy & Pain",
-      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Pills",
-        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Pills - Single Version",
-      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Help Yourself",
         "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 195666,
       "name": "Help Yourself",
       "url": "https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Pills - Single Version",
+      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 192724,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2022-12-12 14:02:32",

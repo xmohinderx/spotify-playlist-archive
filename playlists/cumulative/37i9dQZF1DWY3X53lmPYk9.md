@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-206 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+207 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [you must believe in spring](https://open.spotify.com/track/4PfwJAIyn4509emIeIHkGs) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 3:30 | 2022-03-10 |  |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2022-10-27 |  |
 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 | 2021-12-14 |  |
-| [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-27 |  |
+| [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-27 | 2022-12-18 |
+| [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 | 2022-12-09 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

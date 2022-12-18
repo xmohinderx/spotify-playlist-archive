@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd \(pictured\), Zeds Dead, Diddy ft\. PARTYNEXTDOOR, Little Simz, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,214 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,343 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 68 | [Insomnia](https://open.spotify.com/track/05BYGdbe061g9o9CnAqPBA) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Insomnia](https://open.spotify.com/album/1cVLhJnU0AR3kc81kHim96) | 3:09 |
 | 69 | [Bet On Me](https://open.spotify.com/track/0UdTr627CgGqPErda2qx5l) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I) | [Bet On Me](https://open.spotify.com/album/37v5nEkEwhfGTJkrYvseIa) | 3:10 |
 | 70 | [Living in the Grey](https://open.spotify.com/track/1KUnVcYDSrX4VrBrEsFGYp) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Living in the Grey](https://open.spotify.com/album/03ugnHlnMTFRZBKUz7RGzN) | 3:54 |
-| 71 | [Slow Jam](https://open.spotify.com/track/72askOGbEdBluTvJi6iSUm) | [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Slow Jam](https://open.spotify.com/album/1ZS8KT6YfDGumvzLBs7pEo) | 2:44 |
+| 71 | [Slow Jam](https://open.spotify.com/track/72askOGbEdBluTvJi6iSUm) | [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf), [Kaleb Mitchell](https://open.spotify.com/artist/4gnlgU9q35TxIXueKnZUYu) | [Slow Jam](https://open.spotify.com/album/1ZS8KT6YfDGumvzLBs7pEo) | 2:44 |
 | 72 | [Yalla](https://open.spotify.com/track/1LOSAg9eiaXNXX88lE1h0p) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g), [Jordac Y.I.C](https://open.spotify.com/artist/6Wc8l3bPkvwLLMdpDfaMfa) | [Yalla](https://open.spotify.com/album/4pLBmafmQQlwKlWHEK3dsb) | 3:31 |
 | 73 | [STAY THE COURSE](https://open.spotify.com/track/5Xrh2U2VBJzshkQUiS1Y4H) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [SKIP THE SMALL TALK](https://open.spotify.com/album/68tbunurVY6SbXp7TW8dMG) | 2:15 |
 | 74 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,668 likes - 309 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,182 likes - 309 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,12 +239,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 229 | [8 Hours](https://open.spotify.com/track/4l784SyfBJrM3PPo8FH1p3) | [Sleep Soul](https://open.spotify.com/artist/0HzsPQN69GRhcIPfjGaThS) | [Sleep Soul Relaxing R&B Baby Sleep Music \(Vol\. 2 / Presented by Jhené Aiko\)](https://open.spotify.com/album/3NmfLWcT023WA9xkFxUOVK) | 3:51 |
 | 230 | [Sailing on a cloud](https://open.spotify.com/track/6gtYNsLRL0HK6HAcA3agO5) | [MkBr](https://open.spotify.com/artist/1RSNXqCOEBQO3TLipKENnN) | [Sleeparium](https://open.spotify.com/album/2L7UzvKbCO0DmnBDxjMQTb) | 3:22 |
 | 231 | [watching the rain](https://open.spotify.com/track/1B686nuuCXZmEYcaqIZWGE) | [Emre Şen](https://open.spotify.com/artist/5Lf7SvAxwwvwdwG4U9zRk0) | [watching the rain](https://open.spotify.com/album/61NlcR3kxH9w0zCjEov1bi) | 2:06 |
-| 232 | [i wish i knew](https://open.spotify.com/track/2TwDOKYmuwe6TUIFvDvirX) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi), [Familiar Records](https://open.spotify.com/artist/0MroTgs6ubCMWuX689LPki) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:38 |
+| 232 | [i wish i knew](https://open.spotify.com/track/2TwDOKYmuwe6TUIFvDvirX) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:38 |
 | 233 | [Untroubled](https://open.spotify.com/track/3BM6eztAb6mpU54ptvRJVz) | [Dozy Blank](https://open.spotify.com/artist/3Z4yBB7X6uBREX8Uouu0Ds), [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0) | [Untroubled](https://open.spotify.com/album/7LtbSMTmH8dp9vSCOwUCtL) | 2:00 |
-| 234 | [Barely Awake](https://open.spotify.com/track/6fCkOrUX3uULjAPSBuLYGI) | [Corey J\. Beats](https://open.spotify.com/artist/0CpOAY2TliyvzxykFggFVS), [Familiar Records](https://open.spotify.com/artist/0MroTgs6ubCMWuX689LPki) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:49 |
+| 234 | [Barely Awake](https://open.spotify.com/track/6fCkOrUX3uULjAPSBuLYGI) | [Corey J\. Beats](https://open.spotify.com/artist/0CpOAY2TliyvzxykFggFVS) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:49 |
 | 235 | [Wishmaster](https://open.spotify.com/track/5lZLHEZtkaCpD2AJPVxBBE) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH), [b e r t h](https://open.spotify.com/artist/7rS6EV9KaFOxLB72NUHNwQ) | [Wishmaster](https://open.spotify.com/album/7h4UNp6IzSMjzhZmzxSbJ3) | 2:02 |
 | 236 | [distant dream](https://open.spotify.com/track/2xvVl7QYFnTXq7WMpgfiUd) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [distant dream](https://open.spotify.com/album/29kAqBCkD18quyrbBOCdGU) | 2:24 |
-| 237 | [New Beginnings](https://open.spotify.com/track/61rpSyti85miQNzJnkgMCT) | [kian.](https://open.spotify.com/artist/3t6yw4eSfBy9Yq0Oaiup0i), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ), [Familiar Records](https://open.spotify.com/artist/0MroTgs6ubCMWuX689LPki) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:56 |
+| 237 | [New Beginnings](https://open.spotify.com/track/61rpSyti85miQNzJnkgMCT) | [kian.](https://open.spotify.com/artist/3t6yw4eSfBy9Yq0Oaiup0i), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:56 |
 | 238 | [breath of snow](https://open.spotify.com/track/3HXV416XC9h0mTyuw7wbOc) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [breath of snow](https://open.spotify.com/album/2c2kNhAGT2T21apTWjg8CB) | 2:16 |
 | 239 | [When You Left](https://open.spotify.com/track/2goWJ1bFFAtCENJ5pfxptz) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [When You Left](https://open.spotify.com/album/3R6WFuduv3OWxRo5Qfm1h7) | 2:02 |
 | 240 | [As a Friend](https://open.spotify.com/track/30rfKLLYkq4OtrRWTYAu2c) | [Eamon Lee](https://open.spotify.com/artist/48L5RaQhOrbyJQg3ZC0lo9) | [Real Down Tropical](https://open.spotify.com/album/3xEqVBh6H0vw0HBXOloHvu) | 1:59 |

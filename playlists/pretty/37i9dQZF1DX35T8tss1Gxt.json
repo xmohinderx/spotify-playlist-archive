@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 165210,
+  "num_followers": 165243,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDZiNjM0MDY4NGFiYjNmMGFiM2NiYTY3ZmM0Nzg5NzFm",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDY2NDAyNzY4Y2MyMGVkMWU4MDZiZDlkNjQyOTg0ZTZi",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Here Comes the Joy",
-        "url": "https://open.spotify.com/album/6SwtN1RwT1NXeEdd00Oe69"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 252332,
-      "name": "Here Comes the Joy",
-      "url": "https://open.spotify.com/track/4MYKJSucTbUsNkOQYIIohw"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 174545,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Here Comes the Joy",
+        "url": "https://open.spotify.com/album/6SwtN1RwT1NXeEdd00Oe69"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 252332,
+      "name": "Here Comes the Joy",
+      "url": "https://open.spotify.com/track/4MYKJSucTbUsNkOQYIIohw"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Tell That (feat. Mr. Talkbox)",
-        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
-      },
-      "artists": [
-        {
-          "name": "Juan Winans",
-          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Tell That (feat. Mr. Talkbox)",
-      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Tell That (feat. Mr. Talkbox)",
+        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
+      },
+      "artists": [
+        {
+          "name": "Juan Winans",
+          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Tell That (feat. Mr. Talkbox)",
+      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Learning to Forgive",
-        "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Nicks",
-          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
-        }
-      ],
-      "duration_ms": 184541,
-      "name": "Learning to Forgive",
-      "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "King of Kings",
         "url": "https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 298250,
       "name": "King of Kings",
       "url": "https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Learning to Forgive",
+        "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Nicks",
+          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+        }
+      ],
+      "duration_ms": 184541,
+      "name": "Learning to Forgive",
+      "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Authentic Love",
-        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Carroll",
-          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
-        }
-      ],
-      "duration_ms": 282125,
-      "name": "Authentic Love",
-      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
-      },
-      "artists": [
-        {
-          "name": "Kelechi",
-          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
-        }
-      ],
-      "duration_ms": 205618,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Vol 3",
         "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
       },
@@ -1599,6 +1567,38 @@
       "duration_ms": 281250,
       "name": "Thanks and Praise",
       "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
+      },
+      "artists": [
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
+        }
+      ],
+      "duration_ms": 205618,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Authentic Love",
+        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Carroll",
+          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
+        }
+      ],
+      "duration_ms": 282125,
+      "name": "Authentic Love",
+      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "GUIDE MY HEART",
-        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
-      },
-      "artists": [
-        {
-          "name": "Ben Lawrence",
-          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
-        }
-      ],
-      "duration_ms": 143671,
-      "name": "GUIDE MY HEART",
-      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "GUIDE MY HEART",
+        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
+      },
+      "artists": [
+        {
+          "name": "Ben Lawrence",
+          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        }
+      ],
+      "duration_ms": 143671,
+      "name": "GUIDE MY HEART",
+      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
     },
     {
       "added_at": "2022-07-17 05:38:31",

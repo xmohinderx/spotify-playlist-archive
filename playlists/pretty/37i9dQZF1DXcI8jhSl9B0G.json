@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 68089,
+  "num_followers": 68253,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDcxNjY2NmQyMThjY2Q4YTM5ZWY5ZTZhY2U3YmRhYWYy",
+  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDUwMGFiODNiMmVmMmE0NTY4ZGY0NGNlNmRlZTYzNmYy",
   "tracks": [
     {
       "added_at": "2022-12-15 08:41:30",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
-      },
-      "artists": [
-        {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
+        "name": "this is how you fall in love",
+        "url": "https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp"
+      },
+      "artists": [
+        {
+          "name": "Parker Rose",
+          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
         "name": "Carry You With Me",
         "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "this is how you fall in love",
-        "url": "https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp"
-      },
-      "artists": [
-        {
-          "name": "Parker Rose",
-          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "A Song To Be Named",
         "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 222520,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "The Future of an End",
         "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 194453,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 222520,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb"
     },
     {
       "added_at": "2022-12-15 08:41:30",

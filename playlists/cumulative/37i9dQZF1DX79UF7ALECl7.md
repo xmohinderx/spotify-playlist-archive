@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee.
 
-115 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+115 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,12 @@
 | [Blues On](https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck) | [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd) | [Ruby Veil](https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN) | 8:05 | 2022-09-15 | 2022-11-08 |
 | [Coffee and Feels](https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Reunion](https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK) | 4:07 | 2022-09-15 |  |
 | [Company](https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Arturia](https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2) | 5:31 | 2022-09-15 |  |
+| [Danny's Dream](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Danny's Dream](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 3:20 | 2022-12-15 |  |
 | [Deneb Cygni \- Original Mix](https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX) | [Takuya Yamashita](https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v) | [Deneb Cygni](https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP) | 7:33 | 2022-09-15 |  |
 | [Do This](https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Hyara](https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0) | [Do This](https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl) | 3:51 | 2022-09-15 |  |
 | [Don't Say Goodbye](https://open.spotify.com/track/1Z6uwcyE8ffTTpaPhBwDTx) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Don't Say Goodbye](https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3) | 2:48 | 2022-09-15 |  |
 | [Don't Stop the Dance \- Kraak & Smaak Radio Edit](https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY) | [Martin Brodin](https://open.spotify.com/artist/7etTPm2rH9ITrhUVUkeyPu), [Mikael Surdi](https://open.spotify.com/artist/0MQyQjUuh0q7RRVnHRUc5P), [Alexandra Hamnede](https://open.spotify.com/artist/5WbT9sTM2jMWXfcZzMLF36), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Don't Stop the Dance \(Kraak & Smaak Radio Edit\)](https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY) | 3:33 | 2022-09-15 |  |
 | [Dub 002](https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dub 002](https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6) | 6:10 | 2022-09-15 |  |
-| [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-15 |  |
 | [Endurance](https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Endurance / Heart](https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW) | 3:20 | 2022-09-15 |  |
 | [Falling](https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Falling](https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL) | 3:02 | 2022-09-15 |  |
 | [Falling Upwards](https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Falling Upwards](https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj) | 5:43 | 2022-09-15 |  |

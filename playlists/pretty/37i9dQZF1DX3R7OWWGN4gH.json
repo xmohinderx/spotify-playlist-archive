@@ -1,12 +1,12 @@
 {
   "description": "Lately I've been dressing for revenge",
-  "num_followers": 791363,
+  "num_followers": 792633,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGJmMWMxM2YyMmNhNWNkNGMwZjczZTJiMjg4MDI5ZjJh",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDY5MGRiN2RjYTcxZWQ3MDcyMGYyYjZmYjRhZjgyMmFh",
   "tracks": [
     {
       "added_at": "2022-11-27 06:38:04",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-11-27 06:38:04",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2022-11-27 06:38:04",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+      "added_at": "2022-11-27 06:38:04",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2022-11-27 06:38:04",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-11-27 06:38:04",
       "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 214087,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe"
+    },
+    {
+      "added_at": "2022-11-27 06:38:04",
+      "album": {
         "name": "K-12",
         "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 241893,
       "name": "Teacher's Pet",
       "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
-    },
-    {
-      "added_at": "2022-11-27 06:38:04",
-      "album": {
-        "name": "Public Void",
-        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
-      },
-      "artists": [
-        {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 194165,
-      "name": "R\u00e4t",
-      "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
     },
     {
       "added_at": "2022-11-27 06:38:04",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-11-27 06:38:04",
       "album": {
-        "name": "Party Favors",
-        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
       },
       "artists": [
         {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
         }
       ],
-      "duration_ms": 214087,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe"
+      "duration_ms": 194165,
+      "name": "R\u00e4t",
+      "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
     },
     {
       "added_at": "2022-11-27 06:38:04",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-27 06:38:04",
       "album": {
-        "name": "killer queen",
-        "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 178888,
-      "name": "killer queen",
-      "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
-    },
-    {
-      "added_at": "2022-11-27 06:38:04",
-      "album": {
         "name": "engravings",
         "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 180186,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "added_at": "2022-11-27 06:38:04",
+      "album": {
+        "name": "killer queen",
+        "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 178888,
+      "name": "killer queen",
+      "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
     },
     {
       "added_at": "2022-11-27 06:38:04",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-11-27 06:38:04",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2022-11-27 06:38:04",
-      "album": {
         "name": "Little Dark Age",
         "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 263880,
       "name": "When You Die",
       "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
+    },
+    {
+      "added_at": "2022-11-27 06:38:04",
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2022-11-27 06:38:04",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-11-27 06:38:04",
       "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf"
+        "name": "Wish You the Worst",
+        "url": "https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS"
+      "duration_ms": 143466,
+      "name": "Wish You the Worst",
+      "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
     }
   ],
   "unique_name": "Villain Mode",

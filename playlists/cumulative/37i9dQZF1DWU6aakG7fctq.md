@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Cuco
 
-206 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
+207 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Desire](https://open.spotify.com/track/4nZvLTVVLLbl6kVYymOBME) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2Qs5WqjxU8zMBYKZ8PD6PH) | 2:46 | 2021-11-18 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/5SqRowxFjgPMvGMPzJAGw6) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2pd1kVBQvwAecDy4Glqwkr) | 2:46 | 2022-06-29 | 2022-08-12 |
 | [Despejao](https://open.spotify.com/track/647jFWacZ3OiV3OmKhbu4q) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Despejao](https://open.spotify.com/album/6H4XoMzMjFlmLVprP5lGFb) | 2:46 | 2022-11-24 |  |
-| [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-09-06 |  |
+| [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-09-06 | 2022-12-18 |
 | [Diferente](https://open.spotify.com/track/1vK7Gxe6CjN9Tai74qeoIF) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 2:22 | 2021-11-18 | 2022-09-03 |
 | [do re mi](https://open.spotify.com/track/0V90Q0ubClSBrxpAmxEytl) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [do re mi](https://open.spotify.com/album/4xBH1ldoCiXeiYwKf7rwRe) | 1:17 | 2022-04-01 | 2022-04-21 |
 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 | 2022-06-29 | 2022-09-07 |
@@ -197,6 +197,7 @@
 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 | 2022-11-24 |  |
 | [todo bien :\-\)](https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [todo bien :\-\)](https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS) | 2:56 | 2022-09-06 | 2022-12-17 |
 | [Todo Es Perfecto](https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Todo Es Perfecto](https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp) | 3:31 | 2022-10-27 | 2022-12-16 |
+| [Todo está bien](https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Todo está bien](https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0) | 6:16 | 2022-12-16 |  |
 | [tus ojos](https://open.spotify.com/track/3VWpfOSxv0h8W98iyHbc8E) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [tus ojos](https://open.spotify.com/album/4Gf3X9qjiQMjkzFJHn6Wie) | 2:22 | 2021-11-18 | 2022-07-27 |
 | [Tú Me Dejaste de Querer \- Tigre Den Session](https://open.spotify.com/track/0HylNfozeWymkQ8T6hIWPU) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Tú Me Dejaste de Querer \(Tigre Den Session\)](https://open.spotify.com/album/5WaKQ4jWa5DP6AjwukSThj) | 4:30 | 2022-09-06 | 2022-10-28 |
 | [un día en París](https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [un día en París](https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo) | 4:02 | 2022-11-24 |  |

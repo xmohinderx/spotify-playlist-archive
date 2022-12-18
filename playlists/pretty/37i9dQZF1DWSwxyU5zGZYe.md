@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,897 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,989 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 5 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:00 |
 | 6 | [Mitra Re \(Reprise\)](https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(Reprise\)](https://open.spotify.com/album/1IeFurDxEca30wboHFE2I7) | 3:29 |
 | 7 | [Ananya](https://open.spotify.com/track/6ikAlFXHkc3OCZDCaHgfCP) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Toofaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OyNs3aq7N8uwIRlZS7pdq) | 3:52 |
-| 8 | [Lamha](https://open.spotify.com/track/6NoZFaxMEH9VN1xNa7NYaE) | [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 3:38 |
+| 8 | [Lamha](https://open.spotify.com/track/6NoZFaxMEH9VN1xNa7NYaE) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 3:38 |
 | 9 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 |
 | 10 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 |
 | 11 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |

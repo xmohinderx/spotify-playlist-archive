@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,499 likes - 134 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,528 likes - 134 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 35 | [The Priest's Little Crow](https://open.spotify.com/track/6YWfwQi9Hh8LDi8zAurFdk) | [Stina\-Liv Nilsson](https://open.spotify.com/artist/7tbXwiB9QwEyTcuc8vSDrV) | [The Priest's Little Crow](https://open.spotify.com/album/5Df0YMOxZOIoqJdv9tQIN1) | 3:00 |
 | 36 | [Byssan Lull](https://open.spotify.com/track/6WmVu5QBY4uO0wvUTGfYjw) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Byssan Lull](https://open.spotify.com/album/2Q9FYlKgK2eNIPqfbuq9pI) | 2:34 |
 | 37 | [Edelweiss](https://open.spotify.com/track/7aa9kUH7qZonH3URpYBZ5k) | [Sleepy Puppies](https://open.spotify.com/artist/2jAIiERKgjiqD2qRpAtii3) | [Edelweiss](https://open.spotify.com/album/4rjTw6MmyKd847DGoO36Pj) | 1:53 |
-| 38 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/3bdPLfE1SWwduU96P5o922) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 |
+| 38 | [I'm A Fool To Want You](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm A Fool To Want You](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 3:58 |
 | 39 | [I trollskogen](https://open.spotify.com/track/5kz2PDCQ8kTkSyT3jhZdn8) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [I trollskogen](https://open.spotify.com/album/1vC9LVXA3ifzigFY332i0q) | 1:37 |
 | 40 | [Mandy's Song \- Guitar Version](https://open.spotify.com/track/0KomfDHKjVqexfCnVfiu07) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Mandy's Song \(Guitar Version\)](https://open.spotify.com/album/2Td1CuNdeqzmma0FNTjM1f) | 1:50 |
 | 41 | [Danny Boy](https://open.spotify.com/track/4ZQLfom7VIzjZRTqpOvwgj) | [Yolanda Merino](https://open.spotify.com/artist/2nfRzxqddLRQtP2kFJOnNT) | [Danny Boy](https://open.spotify.com/album/7KL3DEev4LEflUFJX2gBe7) | 2:06 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 52 | [When I Close My Eyes](https://open.spotify.com/track/4ck5iWqo3zaJkN3nWvvcOb) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When I Close My Eyes](https://open.spotify.com/album/7IPtbyxxt9gpkPd8FXp0uW) | 2:29 |
 | 53 | [You Are My Sunshine](https://open.spotify.com/track/6nyz1bSoTRCFFU28oMfNTA) | [Dean Dreams](https://open.spotify.com/artist/1TKNjw0zeyr7h15apaCSoN) | [You Are My Sunshine](https://open.spotify.com/album/4fZpFsRvj1NW9p1cKcBCop) | 1:58 |
 | 54 | [The Happy Cow](https://open.spotify.com/track/776scT1OUEP6QU4y12h2I9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [The Happy Cow](https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO) | 2:37 |
-| 55 | [Ponnien min](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Ponnien min](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:14 |
+| 55 | [Sognefjord](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:40 |
 | 56 | [A Waltz For a King](https://open.spotify.com/track/3l4zbS4lRIdRVbq0mavDZt) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 3:08 |
 | 57 | [Det gåtfulla folket](https://open.spotify.com/track/3LJaPZaJQMDAPd4NWZMnU9) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Det gåtfulla folket](https://open.spotify.com/album/4jkbKpDaccNPhnDACXwGOr) | 3:44 |
 | 58 | [Wobble Bobble](https://open.spotify.com/track/1Hd5NaOb0HqlFsMnud8eIX) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [Wobble Bobble](https://open.spotify.com/album/06fbqt6G9BCyE8sYnibtLN) | 2:58 |

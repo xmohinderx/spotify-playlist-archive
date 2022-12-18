@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭 / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,601 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,621 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [hikari no asani](https://open.spotify.com/track/4bPnw1VA4zcRtXz9YD8XPf) | [Nenne](https://open.spotify.com/artist/4moh6zdR5Ndqd4Fvcleko5) | [hikari no asani](https://open.spotify.com/album/54O7uE0tMZk0srvrAvT8rV) | 3:14 |
 | 60 | [chord](https://open.spotify.com/track/1XyBpaXQaxWZeOqBCmi72A) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [chord](https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE) | 3:36 |
 
-Snapshot ID: `MTY3MTExNjQwMCwwMDAwMDAwMDA1MWE4MDI5Y2Y3NGVhYTYxMzBmNDUzNmU2YTg1MjMy`
+Snapshot ID: `MTY3MTI5MjgwMCwwMDAwMDAwMDU5NDgzN2Y2NGFhNmNlZjU4OWVlYmNkN2U3YmNkY2E2`

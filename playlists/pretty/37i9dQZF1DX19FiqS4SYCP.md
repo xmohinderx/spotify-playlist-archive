@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,011 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,014 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 20 | [Por Fin Decidí](https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Por Fin Decidí](https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl) | 3:14 |
 | 21 | [Así Fue](https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Así Fue](https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf) | 4:43 |
 | 22 | [Me Decías](https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov) | [Sonja De La Paz](https://open.spotify.com/artist/4Z8RA77GGwuKlmpv5pLhR3), [Veno Mona](https://open.spotify.com/artist/37IPrPpo8zMf7SZ0qpMJpL) | [Me Decías](https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ) | 3:17 |
-| 23 | [Amor Traicionero](https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP) | [Anjelique](https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww) | [Sweet City Style](https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb) | 2:48 |
-| 24 | [Quedate](https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7) | [Frankie Caballero Jr](https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR) | [Quedate](https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb) | 2:59 |
+| 23 | [Quedate](https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7) | [Frankie Caballero Jr](https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR) | [Quedate](https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb) | 2:59 |
+| 24 | [Amor Traicionero](https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP) | [Anjelique](https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww) | [Sweet City Style](https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb) | 2:48 |
 | 25 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
-| 26 | [Soñar Contigo](https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ) | [Cris Medina](https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx) | [Soñar Contigo](https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab) | 2:56 |
-| 27 | [La Primavera](https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3) | [Severo y Grupo Fuego](https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6) | [La Primavera](https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp) | 3:12 |
+| 26 | [La Primavera](https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3) | [Severo y Grupo Fuego](https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6) | [La Primavera](https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp) | 3:12 |
+| 27 | [Soñar Contigo](https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ) | [Cris Medina](https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx) | [Soñar Contigo](https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab) | 2:56 |
 | 28 | [Ya No Te Aguanto Moe \(Live\)](https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO) | [Mesteño](https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K) | [Live Sessions 1](https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX) | 3:33 |
 | 29 | [After Party](https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts) | [Sunny Sauceda Y Todo Eso](https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP) | [After Party](https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW) | 3:51 |
 | 30 | [Ni Todo el Dinero](https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP) | [MARISELA HERNANDEZ](https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ) | [Ni Todo el Dinero](https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR) | 3:09 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 40 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 |
 | 41 | [Entre El Frio Y El Calor](https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e) | [Andie](https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT) | [Entre El Frio Y El Calor](https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb) | 3:35 |
 | 42 | [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 3:47 |
-| 43 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
-| 44 | [Desastre Natural](https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ) | [Nacido](https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5) | [Desastre Natural](https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT) | 3:08 |
+| 43 | [Desastre Natural](https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ) | [Nacido](https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5) | [Desastre Natural](https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT) | 3:08 |
+| 44 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
 | 45 | [Mentias](https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK) | [Brooke T](https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ) | [Mentias](https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv) | 3:19 |
 | 46 | [Mentiras](https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6) | [Lydia Castillo](https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs) | [Mentiras](https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu) | 3:40 |
 | 47 | [Final De Tu Amor](https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD) | [Grupo Vidal](https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X) | [Final De Tu Amor](https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 49 | [El Besito](https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24) | [Laura Linda](https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K) | [El Besito](https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK) | 3:00 |
 | 50 | [Un Día Veras](https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV) | [Grupo Daño](https://open.spotify.com/artist/1MB82Th55brI9PDoanCs9k), [Rene De la Cerda](https://open.spotify.com/artist/1U5bYBgPSlRchxFEWTtlAl) | [Un Día Veras](https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9) | 3:47 |
 
-Snapshot ID: `MTY3MDQ1NjY2MiwwMDAwMDAwMGVkZTUzMDlkYmQ2ZTdkZTQzNTljMDA0YTg2MDhlNWI4`
+Snapshot ID: `MTY3MDQ1NjY2MiwwMDAwMDAwMDgxNDc1ZGY1ZTYyNjdjM2I4NTY1N2JkYTIwYzI0YTlj`

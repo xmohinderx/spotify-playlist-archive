@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,229 likes - 135 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,310 likes - 135 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 34 | [Objects In The Mirror](https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Objects In The Mirror](https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk) | 2:50 |
 | 35 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 |
 | 36 | [Across](https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind Vol.5](https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd) | 2:06 |
-| 37 | [Valle dei Templi](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Valle dei Templi](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 3:00 |
+| 37 | [Matter](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Matter](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 2:19 |
 | 38 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 |
 | 39 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 |
 | 40 | [Mare](https://open.spotify.com/track/3GVWH7adVHhwep2kAtDdc4) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 2:28 |

@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 114218,
+  "num_followers": 114415,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMDY3NzA3MmVkZjFjZmZhZWJlMmNkMDk0YWQ1MGYwMTM1",
+  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMGMyZmI2NzBhZDJjNTVhMjU4NjExODk0MTdkZjQ4MTZk",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Superficies de Placer",
-        "url": "https://open.spotify.com/album/3U7AIHXCUhuOOkNeFhKoOM"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 305093,
-      "name": "Encuentro en el R\u00edo",
-      "url": "https://open.spotify.com/track/3282skqQXz0H4vWm3SYWGB"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 237626,
       "name": "Vistete",
       "url": "https://open.spotify.com/track/5ZrtHP3Kzdgw8tzELrmKqA"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Superficies de Placer",
+        "url": "https://open.spotify.com/album/3U7AIHXCUhuOOkNeFhKoOM"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 305093,
+      "name": "Encuentro en el R\u00edo",
+      "url": "https://open.spotify.com/track/3282skqQXz0H4vWm3SYWGB"
     }
   ],
   "unique_name": "Rock en tu Idioma",

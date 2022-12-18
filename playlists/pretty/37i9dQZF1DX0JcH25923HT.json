@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 283310,
+  "num_followers": 283833,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcxMjgyOSwwMDAwMDAwMGZkMGNhYTBlZTk0MzY2YzY0N2VmMGQ5YjViMjYwODcw",
+  "snapshot_id": "MTY1NDcxMjgyOSwwMDAwMDAwMDNkMDhiNmRmN2FmNmIyMTAxM2YxM2MzZDMxMjZjMmZm",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Nunca Me Amo",
-        "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) [Remix]",
         "url": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 456939,
       "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) - Remix",
       "url": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 154991,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 230520,
       "name": "Krippy Kush",
       "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 154991,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Error 93",
-        "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "Mucha Data",
-      "url": "https://open.spotify.com/track/57x0IGrEHEdoy5QMBlcitJ"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Flakk Daniel's Lp",
         "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 179078,
       "name": "Es Mejor",
       "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Error 93",
+        "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 154065,
+      "name": "Mucha Data",
+      "url": "https://open.spotify.com/track/57x0IGrEHEdoy5QMBlcitJ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "PURPURA",
+        "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "PURPURA",
+      "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Calle Amor",
         "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 259200,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "PURPURA",
-        "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "PURPURA",
-      "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
     },
     {
       "added_at": "2022-06-08 18:27:09",

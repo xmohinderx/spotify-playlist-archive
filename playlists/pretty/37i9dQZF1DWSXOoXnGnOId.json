@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14879,
+  "num_followers": 14891,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDZlNjE0OWRhZDM2MWUyNTMwYjIxOTkwNWU4OGRlNDhl",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDg5OTNjYWM1YjZmNWFmN2QxMzkxMTY0MDNkMTgxNDM0",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -463,34 +463,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
-        "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Suli Breaks",
-          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
-        },
-        {
-          "name": "Jazzie B.",
-          "url": "https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
-      "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Tu Tu Tu (That's Why We) [Dubdogz & SUBB Remix]",
         "url": "https://open.spotify.com/album/4Vu4LBX4InGWNzpox8avBo"
       },
@@ -519,6 +491,34 @@
       "duration_ms": 172741,
       "name": "Tu Tu Tu (That's Why We) - Dubdogz & SUBB Remix",
       "url": "https://open.spotify.com/track/2QL6BEpabXndvf3tSuTc4A"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
+        "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        },
+        {
+          "name": "Jazzie B.",
+          "url": "https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
+      "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Get Out My Head (Todd Terry Remix)",
-        "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "Get Out My Head - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Let's Love (feat. Sia) [Vintage Culture, Fancy Inc Remix]",
         "url": "https://open.spotify.com/album/12X0NZhNTn734YUWNL6Ojo"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 220194,
       "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
       "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Get Out My Head (Todd Terry Remix)",
+        "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "Get Out My Head - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Spa (James Hype Remix)",
+        "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Spa - James Hype Remix",
+      "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Way Too Long (feat. Anne-Marie & MoStack) [Clean Bandit Remix]",
         "url": "https://open.spotify.com/album/1vRHkXLF6mnJfuf7eiSqs0"
       },
@@ -1463,30 +1487,6 @@
       "duration_ms": 158654,
       "name": "Way Too Long (feat. Anne-Marie & MoStack) [Clean Bandit Remix]",
       "url": "https://open.spotify.com/track/5PTsOdz21tg6lwzEXYEiY0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Spa (James Hype Remix)",
-        "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Spa - James Hype Remix",
-      "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1783,22 +1783,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
       },
       "artists": [
         {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1835,26 +1839,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
         },
         {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2259,30 +2259,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Thing Called Love (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 338442,
-      "name": "Thing Called Love - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Moving Blind (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
       },
@@ -2303,6 +2279,30 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Thing Called Love (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 338442,
+      "name": "Thing Called Love - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2379,22 +2379,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+        "name": "Paradise (Wh0 Remix)",
+        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
         }
       ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+      "duration_ms": 222720,
+      "name": "Paradise - Wh0 Remix",
+      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
     }
   ],
   "unique_name": "mint Remix",

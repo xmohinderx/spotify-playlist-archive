@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,090 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,165 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 13 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |
 | 14 | [6ex In The Morning](https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:40 |
 | 15 | [Mine](https://open.spotify.com/track/4cnoSXd1N69dEyf0TVsWyn) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Tombolo \(Réédition\)](https://open.spotify.com/album/597zMwmxvoBtRDUsOjk54P) | 3:10 |
-| 16 | [U'r Bad](https://open.spotify.com/track/6fJmOSkPSqTETDvBFyiyXb) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Dopeman](https://open.spotify.com/artist/6Nb8fL0D79vBxOEV1YC3Ur) | [U'r Bad](https://open.spotify.com/album/5U9wRqpFlPI7qENyw9vHfX) | 2:26 |
+| 16 | [U'r Bad](https://open.spotify.com/track/6fJmOSkPSqTETDvBFyiyXb) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Dopeman](https://open.spotify.com/artist/3uPMES49lCQUHHnCaWaeLr) | [U'r Bad](https://open.spotify.com/album/5U9wRqpFlPI7qENyw9vHfX) | 2:26 |
 | 17 | [Bong Bing](https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Bong Bing](https://open.spotify.com/album/1jrrIPwjrDSsnx7Ciaqge6) | 2:48 |
 | 18 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 |
 | 19 | [Douce comme l'aloco](https://open.spotify.com/track/12eCla0Dc4Ki5jejarfxVg) | [Yelsha](https://open.spotify.com/artist/5i7fohl7VTuGVVn5o9BXQo), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Douce comme l'aloco](https://open.spotify.com/album/2HwyYfkQ3BEaWRmPnVoGZA) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Antía Muíño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,172 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,246 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 56 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
 | 57 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 |
 | 58 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
-| 59 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 |
-| 60 | [Mesa Para Dos](https://open.spotify.com/track/2KFvKwbWqJKtjHq3Cblrtf) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Fredi Leis](https://open.spotify.com/artist/74JhFJgvnRd6yB9uVbtvLW) | [Mesa para dos](https://open.spotify.com/album/40NPpKJy5gaL9j9mKk1Lhn) | 2:27 |
+| 59 | [Mesa Para Dos](https://open.spotify.com/track/2KFvKwbWqJKtjHq3Cblrtf) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Fredi Leis](https://open.spotify.com/artist/74JhFJgvnRd6yB9uVbtvLW) | [Mesa para dos](https://open.spotify.com/album/40NPpKJy5gaL9j9mKk1Lhn) | 2:27 |
+| 60 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 |
 | 61 | [La Malquerida \- En Vivo](https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Malquerida](https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n) | 8:05 |
 | 62 | [Canción Con Vos](https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c) | [Alejandro Balbis](https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti) | [Sin Remitente](https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho) | 3:11 |
 | 63 | [Dame Más \(Acústico\)](https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5) | 3:39 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 92 | [Momentánea](https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Momentánea](https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a) | 4:00 |
 | 93 | [Alma Sola](https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 4:31 |
 | 94 | [Cuando los Años Pasen](https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 3:03 |
-| 95 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
+| 95 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 |
 | 96 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
-| 97 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 |
+| 97 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
 | 98 | [Nunha Estrela](https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Nunha Estrela](https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG) | 3:52 |
 | 99 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 |
 | 100 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDJlMDNlMTE0NTg0MjJmNGQ1MjgwNDg3NjNjMTFiMWJk`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDlhMDA3YTZiYzczMTRjOTBjYTQwZTIyNzNiYWNjYjdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di TY1, Lazza, Nabi, Quentin40, Mezzosangue e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,706 likes - 86 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,746 likes - 86 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 48 | [Amare come un thug](https://open.spotify.com/track/2ZiMHcFrDG3ofdQPY7goDm) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K) | [Amare come un thug](https://open.spotify.com/album/1yHOvh1RkhrzcQbdlIO6Ar) | 2:55 |
 | 49 | [La vie est belle](https://open.spotify.com/track/7KVrbZEAS2zlejR5NICIJ4) | [Stamani](https://open.spotify.com/artist/3LTVcULlc7Sf1iIKujc9u9), [Promo L'inverso](https://open.spotify.com/artist/5OmsU0hnwhVFFkr4cVoz2M), [Erika](https://open.spotify.com/artist/7zoGBcYwTK8COIAdCQmwmR) | [La vie est belle](https://open.spotify.com/album/6D80xYC72sP9nDKDKJbA6y) | 3:23 |
 | 50 | [Halo Halo](https://open.spotify.com/track/3fqPRTAucXG4RpEyzoSP9J) | [Ronny 167](https://open.spotify.com/artist/6W4RbYcnJGkxxmoNBLxlb8), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw) | [LIFESTYLE](https://open.spotify.com/album/2X7Nfk5kRaRLmnNmlcnJ6d) | 2:29 |
-| 51 | [DERNIÈRE DANSE](https://open.spotify.com/track/6lY6POWNq1xxEzF86KoYAa) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [DERNIÈRE DANSE](https://open.spotify.com/album/0TyAtbE74bOAUCEUMd8HHk) | 3:22 |
+| 51 | [DERNIÈRE DANSE](https://open.spotify.com/track/6lY6POWNq1xxEzF86KoYAa) | [A1](https://open.spotify.com/artist/6rTM68RrcrscQ8LNIBhPsK) | [DERNIÈRE DANSE](https://open.spotify.com/album/0TyAtbE74bOAUCEUMd8HHk) | 3:22 |
 | 52 | [GANGSTA POETRY](https://open.spotify.com/track/4sTBV2C3Sw1zDuT327yUgR) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE) | [GANGSTA POETRY](https://open.spotify.com/album/2HiBYnjrtfDQGEkZFLFn8H) | 3:10 |
 | 53 | [Business](https://open.spotify.com/track/6Ewyi8JQK0ioVIG4lFvPL3) | [Rico Mendossa](https://open.spotify.com/artist/4eXlyJqMlVt2JSNIvxqkr6), [Manny Rivera](https://open.spotify.com/artist/6ZYRE0mIlDHokAfamI9WLv), [Santiago KeiKei](https://open.spotify.com/artist/66EUgBOuRtHhly2Wslz9GR) | [Business](https://open.spotify.com/album/64bHnqpdt83iLLo867crsQ) | 2:54 |
 | 54 | [Pula Ciao](https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Pula Ciao](https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT) | 3:01 |

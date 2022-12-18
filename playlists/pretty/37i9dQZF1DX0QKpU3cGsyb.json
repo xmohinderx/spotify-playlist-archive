@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1672592,
+  "num_followers": 1673353,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGI0NGI2ZDJkNDAyYzNjMDg1YzJhYTcyZjkyZDkwZjI4",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDA5MjllMDQ2ODA1ZDk2ZDViMWRkYmMxNDMxZDM0NjJm",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -339,18 +339,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+        "name": "Get Back (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
       },
       "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 190440,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo"
+      "duration_ms": 222168,
+      "name": "Get Back (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -371,22 +375,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Get Back (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
       "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 222168,
-      "name": "Get Back (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
+      "duration_ms": 190440,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -529,24 +529,20 @@
       "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 267740,
-      "name": "Leak It (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/42j49u8GO8zuWiDCbZq2W4"
+      "duration_ms": 209493,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -573,20 +569,40 @@
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
+      "duration_ms": 267740,
+      "name": "Leak It (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/42j49u8GO8zuWiDCbZq2W4"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "EVERYTHING I WANT",
+        "url": "https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 138473,
+      "name": "EVERYTHING I WANT",
+      "url": "https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -639,18 +655,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "EVERYTHING I WANT",
-        "url": "https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe"
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 138473,
-      "name": "EVERYTHING I WANT",
-      "url": "https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg"
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/1C6xuOPHkIpmgHWgjyoiTI"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "Bl\u00fc Moon",
+        "url": "https://open.spotify.com/album/0QfoZb8MSbOoR6vdRs1WLr"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
         }
       ],
-      "duration_ms": 152175,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/1C6xuOPHkIpmgHWgjyoiTI"
+      "duration_ms": 189226,
+      "name": "Bl\u00fc Moon",
+      "url": "https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -703,22 +719,6 @@
       "duration_ms": 173887,
       "name": "B.E.D",
       "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Bl\u00fc Moon",
-        "url": "https://open.spotify.com/album/0QfoZb8MSbOoR6vdRs1WLr"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "Bl\u00fc Moon",
-      "url": "https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "FWM",
-        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 129666,
       "name": "Spoon & Bang",
       "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
       "added_at": "2022-07-15 04:00:00",

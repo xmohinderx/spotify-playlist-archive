@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 10912,
+  "num_followers": 10928,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDUxNWYyOWFmNzA0M2FlNzA4YjlmZmViOTYzOTBhYzdk",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGFiNjEzNDVkYTQ0OTA2YTBmMWIyZWQ2NWIyOWExMWM0",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Dead Sea",
-      "url": "https://open.spotify.com/track/1DDNfRbtLn2dxm4onBxhOV"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 148866,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Dead Sea",
+      "url": "https://open.spotify.com/track/1DDNfRbtLn2dxm4onBxhOV"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -791,22 +791,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Blue Spotted Tail",
-      "url": "https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 146199,
       "name": "Lady On the Water",
       "url": "https://open.spotify.com/track/4l9jbpaoqY2GLSGkwiWgzm"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Blue Spotted Tail",
+      "url": "https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv"
     },
     {
       "added_at": "2018-11-19 19:02:53",

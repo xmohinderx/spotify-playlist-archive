@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,769 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,830 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 |
 | 22 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 |
 | 23 | [Ohne Dich](https://open.spotify.com/track/1BEPigtMbtG17OrhDzXMCn) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Ohne Dich](https://open.spotify.com/album/6y92v3LsEb8pImMFX2Bfuk) | 2:43 |
-| 24 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 |
-| 25 | [ABCD Ey \(Ich hasse es so\)](https://open.spotify.com/track/6ESo3KS2IpeglMKkMRZNOS) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [ABCD Ey \(Ich hasse es so\)](https://open.spotify.com/album/6zPOqPdQBdzOEMSkV8PeKF) | 2:48 |
+| 24 | [ABCD Ey \(Ich hasse es so\)](https://open.spotify.com/track/6ESo3KS2IpeglMKkMRZNOS) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [ABCD Ey \(Ich hasse es so\)](https://open.spotify.com/album/6zPOqPdQBdzOEMSkV8PeKF) | 2:48 |
+| 25 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 |
 | 26 | [LET’S GO](https://open.spotify.com/track/0ft4lVjLYVrQ6IkMVUuOOu) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LET’S GO](https://open.spotify.com/album/2Sc5e9l1NAUq0FS9JpYtXv) | 2:44 |
 | 27 | [BEIFAHRERSITZ](https://open.spotify.com/track/1YZU0P3SdMWIjNWdUixYzd) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [BEIFAHRERSITZ](https://open.spotify.com/album/1ydhVNe1Gut5PMC5hXr92D) | 3:04 |
 | 28 | [Wasser](https://open.spotify.com/track/6JL3BHxeR7jiGY6SOIxq2m) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Wasser](https://open.spotify.com/album/1mL6Awa2c23Y8TAZEU3kHb) | 2:31 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Unstoppable](https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Unstoppable](https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa) | 3:11 |
 | 37 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 |
 | 38 | [Pose](https://open.spotify.com/track/6gjTBagyl527aB9iMUa0W6) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Pose](https://open.spotify.com/album/0TFg2kMG4asTEDP334NmJr) | 1:52 |
-| 39 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
-| 40 | [Signal](https://open.spotify.com/track/2Y6dYM6KjTEPhfvM8a7zTI) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Signal](https://open.spotify.com/album/1b5h1zGp7FDEgnJjFxFQzZ) | 3:23 |
+| 39 | [Signal](https://open.spotify.com/track/2Y6dYM6KjTEPhfvM8a7zTI) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Signal](https://open.spotify.com/album/1b5h1zGp7FDEgnJjFxFQzZ) | 3:23 |
+| 40 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
 | 41 | [Filmriss](https://open.spotify.com/track/2hCiXG7TpQ43uYzeCRF8Gb) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Filmriss](https://open.spotify.com/album/7oCwaTiAhFIYZGHJc8nVVm) | 2:10 |
 | 42 | [Lose Yourself](https://open.spotify.com/track/5wJkHw2lQZ1sNUumIEf2Ab) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/2db0jBeEkExuy5uv7G1Qei) | 3:41 |
 | 43 | [Ophelia](https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6dQzvpLz9qwutLYx6GUYCM) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Mirrors](https://open.spotify.com/album/0KnR5gUhV3Hb6mL13zU05z) | 4:21 |
 | 50 | [Shitlife](https://open.spotify.com/track/2LL9g7WEYzeVM2q7wtORWW) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Softness, Pt\. 2](https://open.spotify.com/album/1kFBJy9PoFDTiVlfAPuqDF) | 3:45 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDQzODVkMGU0MDljMDI0NmIyMWUyYjdkNzI4MzAzNzU1`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDY3MzBkOTEzMGE2ZjZmOGYyOTU2Yjk5MjU2YzkxYWQ4`

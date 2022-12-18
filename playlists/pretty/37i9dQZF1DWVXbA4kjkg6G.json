@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 339353,
+  "num_followers": 339736,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDMwYmUwNDNlYWY4MGMwMDA0ZjMyNjc3N2I2YmQ4N2Qy",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDAzYTc3YzJmOWFjZWMyYjczMGRiNDc3MDc5NGU5NjNi",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "My Left Pussyfoot",
+        "url": "https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt"
+      },
+      "artists": [
+        {
+          "name": "Howie B.",
+          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+        }
+      ],
+      "duration_ms": 322200,
+      "name": "Five Days",
+      "url": "https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "MAJOR FORCE RARE TRACKS",
-        "url": "https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd"
-      },
-      "artists": [
-        {
-          "name": "MAJOR FORCE PRODUCTIONS",
-          "url": "https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "ESSENTIAL DUB",
-      "url": "https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd"
     }
   ],
   "unique_name": "Trip Hop",

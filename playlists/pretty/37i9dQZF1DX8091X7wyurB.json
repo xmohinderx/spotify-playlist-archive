@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 26096,
+  "num_followers": 26165,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDU2NzIzNDdjYTIxZGE0Y2RhMzU4M2M0MjQwYTZhNDk1",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGFlM2E1ZWNiNDUyODllZjgxNTI4ZTM5Y2IyYmIzYmMy",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 156831,
       "name": "This Loving",
       "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
     },
     {
       "added_at": "2022-09-19 07:16:17",
@@ -615,26 +615,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Ife Wami",
-        "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "121SELAH",
-          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
-        }
-      ],
-      "duration_ms": 137739,
-      "name": "Ife Wami",
-      "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Final Say",
         "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
       },
@@ -675,6 +655,26 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
+        "name": "Ife Wami",
+        "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "Ife Wami",
+      "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
         "name": "Wobeye Kese",
         "url": "https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 298396,
       "name": "Wobeye Kese - Version 1",
       "url": "https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -723,22 +707,18 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Never Leave Me",
-        "url": "https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG"
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 160959,
-      "name": "Never Leave Me",
-      "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -755,6 +735,26 @@
       "duration_ms": 164651,
       "name": "Worry About Nothing",
       "url": "https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Never Leave Me",
+        "url": "https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "duration_ms": 160959,
+      "name": "Never Leave Me",
+      "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1097,6 +1097,26 @@
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Give Him Praise",
+        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Give Him Praise",
+      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Other Side",
@@ -1117,24 +1137,20 @@
       "url": "https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Greenland",
-        "url": "https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK"
+        "name": "Joy (Reason)",
+        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
       },
       "artists": [
         {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        },
-        {
-          "name": "Joseph Company",
-          "url": "https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 258893,
-      "name": "Green Land",
-      "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
+      "duration_ms": 141531,
+      "name": "Joy (Reason)",
+      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1157,40 +1173,24 @@
       "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Give Him Praise",
-        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
+        "name": "Greenland",
+        "url": "https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK"
       },
       "artists": [
         {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
         },
         {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+          "name": "Joseph Company",
+          "url": "https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Give Him Praise",
-      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Joy (Reason)",
-        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 141531,
-      "name": "Joy (Reason)",
-      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
+      "duration_ms": 258893,
+      "name": "Green Land",
+      "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1429,26 +1429,6 @@
       "url": "https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6"
-      },
-      "artists": [
-        {
-          "name": "Kobby Mantey",
-          "url": "https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 316290,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe"
-    },
-    {
       "added_at": "2022-10-21 06:09:31",
       "album": {
         "name": "Show Dem",
@@ -1467,6 +1447,26 @@
       "duration_ms": 206897,
       "name": "Show Dem",
       "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6"
+      },
+      "artists": [
+        {
+          "name": "Kobby Mantey",
+          "url": "https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 316290,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe"
     }
   ],
   "unique_name": "Praise and Worship",

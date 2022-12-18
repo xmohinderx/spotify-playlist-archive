@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 250594,
+  "num_followers": 250783,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDBhNDljZDIzNDBjMjk0OTFmZmQ1M2JhMWI4ODkwMTMw",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMGE4MTY4YmMzMjRiNGU2ODI4YWQ0ZTdmNmY4NzYwNmY0",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Metro City",
         "url": "https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 160000,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Mari Iijima - Night Tempo presents The Showa Groove",
-        "url": "https://open.spotify.com/album/0p880y8z907ga4mFt4abRD"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Mari Iijima",
-          "url": "https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij"
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
         }
       ],
-      "duration_ms": 287999,
-      "name": "Cecile no Amagasa (Version II) (Night Tempo Showa Groove Mix)",
-      "url": "https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5"
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1247,18 +1243,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+        "name": "Mari Iijima - Night Tempo presents The Showa Groove",
+        "url": "https://open.spotify.com/album/0p880y8z907ga4mFt4abRD"
       },
       "artists": [
         {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Mari Iijima",
+          "url": "https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+      "duration_ms": 287999,
+      "name": "Cecile no Amagasa (Version II) (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "This Is Just a Test",
-        "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
-      },
-      "artists": [
-        {
-          "name": "UniBe@t",
-          "url": "https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg"
-        }
-      ],
-      "duration_ms": 363156,
-      "name": "This Is Just a Test",
-      "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Orca Adventure DX",
         "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 171135,
       "name": "Orca Adventure DX",
       "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "This Is Just a Test",
+        "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
+      },
+      "artists": [
+        {
+          "name": "UniBe@t",
+          "url": "https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg"
+        }
+      ],
+      "duration_ms": 363156,
+      "name": "This Is Just a Test",
+      "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Montaime, Vol. 1",
-        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
-      },
-      "artists": [
-        {
-          "name": "Bazz",
-          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
-        }
-      ],
-      "duration_ms": 369500,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 170634,
       "name": "Kratos in Love",
       "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Montaime, Vol. 1",
+        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
+      },
+      "artists": [
+        {
+          "name": "Bazz",
+          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+        }
+      ],
+      "duration_ms": 369500,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+      },
+      "artists": [
+        {
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/5LK3DAyr8xWegy8Ho4dNMA"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
-      },
-      "artists": [
-        {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2022-11-04 05:37:30",

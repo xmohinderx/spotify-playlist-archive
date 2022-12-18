@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 412294,
       "name": "All Creatures Get It",
       "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 193194,
       "name": "Altamirage V",
       "url": "https://open.spotify.com/track/73XUdV2DFnlyq1gE8qrS6I"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 180040,
       "name": "Body Stories",
       "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 485186,
       "name": "Cyber Talk",
       "url": "https://open.spotify.com/track/6ZgMWgmu62nxrwXDxde71A"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 392040,
       "name": "From the Backstretch - Live",
       "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 510040,
       "name": "Inner",
       "url": "https://open.spotify.com/track/3c7GNksSHLQRQDAwSdc6vk"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 215880,
       "name": "Jupiter Smiles",
       "url": "https://open.spotify.com/track/3USmotICBcaGGxPfqATu64"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 193159,
       "name": "Last Night in the Holocene",
       "url": "https://open.spotify.com/track/7JWRsHoHsEcl2iD8fl0Vru"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 654386,
       "name": "Maritime Rites: Rattlesnake Mountain",
       "url": "https://open.spotify.com/track/3Eg7ej0MOufgqKkFZFAu1V"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 273560,
       "name": "Natto Breath",
       "url": "https://open.spotify.com/track/0Kwj0pY2OSlF67FDT2L09h"
@@ -1793,7 +1793,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 988306,
       "name": "Nite",
       "url": "https://open.spotify.com/track/4TOzYJCeDzFzKcbPkOschJ"
@@ -2305,7 +2305,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 156986,
       "name": "River of Folk Dance",
       "url": "https://open.spotify.com/track/24fiipMerltXpOy7M51hDF"
@@ -2461,6 +2461,36 @@
       "duration_ms": 818825,
       "name": "SILENCE",
       "url": "https://open.spotify.com/track/49fyeNpsMltrcGYsZBBskd"
+    },
+    {
+      "album": {
+        "name": "The Space Between with Jo\u00eblle L\u00e9andre",
+        "url": "https://open.spotify.com/album/5R0cXznPxS9DvS49jYJKKa"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Jo\u00eblle L\u00e9andre",
+          "url": "https://open.spotify.com/artist/6Vl8OiMNnnLoHgrJTUBaru"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/5UtlbbhPS9yHx3ujQ2SRwW"
     },
     {
       "album": {
@@ -2807,7 +2837,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 1504466,
       "name": "The Beauty Of Sorrow",
       "url": "https://open.spotify.com/track/078txIRiyvxbjjYesA9qy6"
@@ -3229,7 +3259,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 66069,
       "name": "Trio For Trumpet, Accordion, and String Bass II",
       "url": "https://open.spotify.com/track/6FsBdZhfDo6UmvcOgyHSus"
@@ -3393,7 +3423,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 555893,
       "name": "Untitled #273",
       "url": "https://open.spotify.com/track/5IZeF6Cn3v6ePZalWN2G5R"
@@ -3518,6 +3548,36 @@
     },
     {
       "album": {
+        "name": "The Space Between with Jo\u00eblle L\u00e9andre",
+        "url": "https://open.spotify.com/album/5R0cXznPxS9DvS49jYJKKa"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Jo\u00eblle L\u00e9andre",
+          "url": "https://open.spotify.com/artist/6Vl8OiMNnnLoHgrJTUBaru"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443733,
+      "name": "Vittoria",
+      "url": "https://open.spotify.com/track/6vsMJbyrCpH7iM3dc7pFRh"
+    },
+    {
+      "album": {
         "name": "The Orchestra of Futurist Noise Intoners (A Performa Comission)",
         "url": "https://open.spotify.com/album/1g4jRYbuN0Sj82NDINDfnK"
       },
@@ -3625,7 +3685,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 492093,
       "name": "What Gets Left Behind - Live",
       "url": "https://open.spotify.com/track/5DEY6mY9VkgFlzNQYOr7nO"

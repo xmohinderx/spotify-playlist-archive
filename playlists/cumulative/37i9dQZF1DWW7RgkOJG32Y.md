@@ -4,7 +4,7 @@
 
 > Top trending new and recent tracks from the last few months\. Cover: Chase Rice
 
-253 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
+254 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Talk About](https://open.spotify.com/track/5KQnhh9IUGf3Xa0g6iJIGa) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Talk About](https://open.spotify.com/album/6Lw5Eps3vN86YqNdQtfu9o) | 3:15 | 2022-07-22 | 2022-08-15 |
 | [Talk About](https://open.spotify.com/track/5eruZy4m1S2YGaE1oKhI60) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Talk About](https://open.spotify.com/album/7IBeNpSb9G6TU19iPMzxAD) | 3:15 | 2022-02-11 | 2022-07-29 |
 | [Talk About](https://open.spotify.com/track/75eGq7M9P5pFrEeJHb4AwH) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Thank God For All The Boys](https://open.spotify.com/album/6XEhHN6bknsDNn0Y8OCP0Z) | 3:15 | 2022-08-12 | 2022-12-17 |
-| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-10-01 |  |
+| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-10-01 | 2022-12-18 |
+| [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-16 |  |
 | [Tequila Talkin'](https://open.spotify.com/track/2aQp76uccAVLEM9jUlvPap) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Tequila Talkin'](https://open.spotify.com/album/3mFgRtQQYZ4lTVayUqHgqs) | 3:21 | 2021-12-17 | 2022-03-26 |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-23 |  |
 | [That Was Us](https://open.spotify.com/track/10Aj75ID8Rkuq62hUmEsZy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:28 | 2021-12-17 | 2022-02-05 |

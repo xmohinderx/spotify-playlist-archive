@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,827 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,852 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 65 | [SPIDERCAT](https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [SPIDERCAT](https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer) | 1:42 |
 | 66 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
 | 67 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
-| 68 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
-| 69 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 |
+| 68 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 |
+| 69 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
 | 70 | [SAUCE ME UP](https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [SAUCE ME UP PESO](https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp) | 3:13 |
 | 71 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
 | 72 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 | 80 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
 
-Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMDg2ZGVhM2VhY2I4ZjBhZDQxZDM5MGNhMzc5ODY5ZjNj`
+Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMGMwYjU4ZGI4NDY2OWY1MGZlY2E4NTE0M2FmM2NkNGZh`

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-396 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+397 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2022-09-23 |  |
 | [Agua Marfil](https://open.spotify.com/track/6mYdnKt43uGw3gmtOz4yQi) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/6ZSWmVkucGkNzqWZYGMGMK) | 4:11 | 2022-01-07 | 2022-09-26 |
 | [Ahinoa](https://open.spotify.com/track/54Kijzvio3D7phfsOZswpQ) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [17 Canciones para Autopista](https://open.spotify.com/album/3AanjgFzLrCKprTwBY3wYW) | 3:44 | 2022-04-01 | 2022-07-15 |
-| [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 | 2022-01-07 |  |
+| [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 | 2022-01-07 | 2022-12-18 |
 | [Aislado Pero a Tu Lado](https://open.spotify.com/track/5XqJR12vXDEg7uk33UhBoP) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [Aislado Pero a Tu Lado](https://open.spotify.com/album/20nbi5kxENVeByVLv00X7Y) | 1:08 | 2022-04-01 | 2022-04-04 |
 | [Al Calor de Tu Vida](https://open.spotify.com/track/3cJY5WOnWeEoXn8P1a6Je4) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Al Calor de Tu Vida](https://open.spotify.com/album/5GH7puYPyFATystAy5SYrs) | 3:03 | 2022-01-07 | 2022-07-27 |
 | [Al oeste](https://open.spotify.com/track/6fe8ZuY4fiKcTzeIV9oXYG) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Halo](https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL) | 3:37 | 2022-04-01 | 2022-04-20 |
@@ -343,6 +343,7 @@
 | [Sos Tan Perfecta](https://open.spotify.com/track/1kMSSiTNKUDC4qI1e2dJ62) | [Bröder](https://open.spotify.com/artist/3VcnxGSCx7N2B17v615v0g) | [Bröder](https://open.spotify.com/album/0p4g6SmATh0ihg0wQAxXvU) | 2:35 | 2022-01-07 | 2022-07-10 |
 | [Subtítulo: Te Amo](https://open.spotify.com/track/04T6yie5egZkdNjOfuMOw1) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Subtítulo: Te Amo](https://open.spotify.com/album/6bW9BQdiMATcuQLXRYn8VF) | 3:29 | 2022-01-07 | 2022-07-29 |
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-01-07 | 2022-11-27 |
+| [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 | 2022-12-16 |  |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2022-01-07 |  |
 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 | 2022-01-28 | 2022-06-25 |
 | [Te Alejas Más De Mí](https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Te Alejas Más De Mí](https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9) | 3:39 | 2022-01-07 |  |

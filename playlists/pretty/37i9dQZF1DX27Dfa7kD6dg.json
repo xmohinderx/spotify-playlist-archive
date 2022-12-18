@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 13187,
+  "num_followers": 13248,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDFiNmJlMzliYTczMzVlOGJiZTAzZjJhYWEyMmRhNzUw",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDc3ZDgzYTc3YjlmM2ZmYzhhOTU5MGYwYTRiODE3MDAz",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "La Epoca de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
-      },
-      "artists": [
-        {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
-        },
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Tutuneco",
-      "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Sorpresa La Flauta",
         "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 279333,
       "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
       "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "La Epoca de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
+      },
+      "artists": [
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Tutuneco",
+      "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
     },
     {
       "added_at": "2022-08-17 18:30:29",

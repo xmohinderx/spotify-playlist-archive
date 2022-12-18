@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds Country this year\. Cover: Megan Moroney \#SpotifyWrapped
 
-1,068 songs - 2 day 10 hr 24 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+1,069 songs - 2 day 10 hr 28 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,7 +883,8 @@
 | [Tell Me Twice](https://open.spotify.com/track/68fFVpUfXAoREXKumXM4jp) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Tell Me Twice](https://open.spotify.com/album/0sC1yKrihueJ1Uh4XoDVGa) | 2:34 | 2022-08-03 | 2022-09-15 |
 | [Tell Your Mama Hi](https://open.spotify.com/track/1SwpfwNCw4WwyoFTWew0Vz) | [American Blonde](https://open.spotify.com/artist/39YDuE2oHcTxsAKLncyenN) | [Tell Your Mama Hi](https://open.spotify.com/album/3aFUWfXIFxsZf52X7xcFpD) | 3:54 | 2022-04-13 | 2022-05-26 |
 | [Tell Yourself](https://open.spotify.com/track/0a6trIYsKWfrpvpzYzXfsp) | [PJ North](https://open.spotify.com/artist/6NWptU8WArewy8NBT9JN7B) | [Tell Yourself](https://open.spotify.com/album/2J6UGyiJLZkmzqkJAyTuBR) | 3:31 | 2022-03-02 | 2022-04-14 |
-| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-07 |  |
+| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-07 | 2022-12-18 |
+| [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-11-30 |  |
 | [Tequila for Two](https://open.spotify.com/track/1eAiavN1GgIM1xqzVOZZdW) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Tequila for Two](https://open.spotify.com/album/3Qh3PpaELJq9ypvqeNOSMJ) | 3:29 | 2022-04-13 | 2022-05-26 |
 | [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 | 2022-09-21 | 2022-12-01 |
 | [Tequila Sunrise](https://open.spotify.com/track/48szBB0lKzdhNGJQLbO2LB) | [Cole Whittlesey](https://open.spotify.com/artist/7HXqXIdYlbvbv0IFDpuTDF) | [Tequila Sunrise](https://open.spotify.com/album/6IY80Yend4DylJWqRVPc1X) | 3:45 | 2022-06-09 | 2022-07-21 |

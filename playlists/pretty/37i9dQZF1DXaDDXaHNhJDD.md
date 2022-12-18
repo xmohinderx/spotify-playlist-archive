@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: GOLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,160 likes - 76 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,271 likes - 76 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 50 | [Vennilave](https://open.spotify.com/track/4YjA4ibJwUvRCKitHwGLU3) | [Harisankar](https://open.spotify.com/artist/2tRNoMJzgk0Fn8Iy2db0rK), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Zia Ul Hag](https://open.spotify.com/artist/61NOCTXdmzHwoKimDmVOd6), [Ajaey Shravan](https://open.spotify.com/artist/3U1ldHA1sIAPz4WfN3yJDW) | [Queen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zJJZhzOM1rkKwuuPy8X32) | 5:27 |
 | 51 | [Poomuthole](https://open.spotify.com/track/6gCENembQSBTbuVLvjMerP) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Joseph \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4IRajabvtEQsiitJjKvK2P) | 4:50 |
 | 52 | [Kannu \- From "Visudha Mejo"](https://open.spotify.com/track/5kRHq7ShB1VqgCz7e7n2SM) | [Adheef Muhamed](https://open.spotify.com/artist/6Vaa0LrrwLHwX69gYjghH4), [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh) | [Kannu \(From "Visudha Mejo"\)](https://open.spotify.com/album/3o4GmyuH13xMxORlnTvO9j) | 3:21 |
-| 53 | [Mohabathin](https://open.spotify.com/track/3eL7Cus1aYM7WlreJW7oxQ) | [Muhammed Maqbool Manzoor](https://open.spotify.com/artist/7jhj9NB1Dg3sCUCzhy22N2), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Divya S Menon](https://open.spotify.com/artist/3fjEU4fb7YikO0zObLz159) | [Take Off \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r1NZFVZaR7M36Eh4wA4ag) | 2:09 |
+| 53 | [Mohabathin](https://open.spotify.com/track/3eL7Cus1aYM7WlreJW7oxQ) | [Mohammed Maqbool Mansoor](https://open.spotify.com/artist/4Y82LR5X1lk8t9bzoVgnjq), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Divya S Menon](https://open.spotify.com/artist/3fjEU4fb7YikO0zObLz159) | [Take Off \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r1NZFVZaR7M36Eh4wA4ag) | 2:09 |
 | 54 | [Aaro Nenjil](https://open.spotify.com/track/6YINoRUOzEFYOnGwOafdEI) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Godha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fK4A4OH1dG8XNCQ2KtpZQ) | 4:27 |
 | 55 | [Aaraanu Athu? \(From "Jo & Jo"\)](https://open.spotify.com/track/45hT6fBPYL0T0nXGxetOql) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Aaraanu Athu? \(From "Jo & Jo"\) \- Single](https://open.spotify.com/album/11FzDPdBqjwoFwqe9WqGVm) | 3:22 |
 | 56 | [Ollulleru](https://open.spotify.com/track/1G3XirmJ0RtchEDr85da3R) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Praseetha Chalakudy](https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu) | [Ajagajantharam](https://open.spotify.com/album/78WdQY7KXYmNr6SS1OlG58) | 3:21 |

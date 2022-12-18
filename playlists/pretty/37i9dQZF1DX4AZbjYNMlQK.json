@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 288112,
+  "num_followers": 288271,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk2MTAyOSwwMDAwMDAwMDA5ZDU1NjFiYjhkNDI5Y2M4Y2FlM2Y0NzM0OGNjODZm",
+  "snapshot_id": "MTY3MDk2MTAyOSwwMDAwMDAwMGU2MWQ2M2Q1OGZhMDIzZTRmZDNhNjA1YzA3OGY3YzBl",
   "tracks": [
     {
       "added_at": "2022-12-13 19:50:29",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-12-13 19:50:29",
       "album": {
+        "name": "Navidad Con Mariachi",
+        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 128729,
+      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
+    },
+    {
+      "added_at": "2022-12-13 19:50:29",
+      "album": {
         "name": "Villancicos",
         "url": "https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 152160,
       "name": "Dime Ni\u00f1o \u00bfde Quien Eres?",
       "url": "https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy"
-    },
-    {
-      "added_at": "2022-12-13 19:50:29",
-      "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/5zw4mHXQxQDEKh1hUTBUvy"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/26I1JLJM7vns3zSlKKEvbX"
     },
     {
       "added_at": "2022-12-13 19:50:29",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-12-13 19:50:29",
       "album": {
-        "name": "Navidad Con Mariachi",
-        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/5zw4mHXQxQDEKh1hUTBUvy"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 128729,
-      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
+      "duration_ms": 230466,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/26I1JLJM7vns3zSlKKEvbX"
     },
     {
       "added_at": "2022-12-13 19:50:29",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-12-13 19:50:29",
       "album": {
-        "name": "Villancicos",
-        "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        },
-        {
-          "name": "MON SIERRA",
-          "url": "https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK"
-        }
-      ],
-      "duration_ms": 260143,
-      "name": "El Tamborilero",
-      "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
-    },
-    {
-      "added_at": "2022-12-13 19:50:29",
-      "album": {
         "name": "un deseo m\u00e1s",
         "url": "https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4"
       },
@@ -711,6 +691,22 @@
     {
       "added_at": "2022-12-13 19:50:29",
       "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 322066,
+      "name": "M\u00e1s All\u00e1 - Beyond",
+      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
+    },
+    {
+      "added_at": "2022-12-13 19:50:29",
+      "album": {
         "name": "Navidad Con Tatiana",
         "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
       },
@@ -727,18 +723,22 @@
     {
       "added_at": "2022-12-13 19:50:29",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
+        "name": "Villancicos",
+        "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        {
+          "name": "MON SIERRA",
+          "url": "https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK"
         }
       ],
-      "duration_ms": 322066,
-      "name": "M\u00e1s All\u00e1 - Beyond",
-      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
+      "duration_ms": 260143,
+      "name": "El Tamborilero",
+      "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
     },
     {
       "added_at": "2022-12-13 19:50:29",

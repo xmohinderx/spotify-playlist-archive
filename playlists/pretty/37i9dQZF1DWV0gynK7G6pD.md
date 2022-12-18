@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yaffle
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,215 likes - 33 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,341 likes - 33 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 15 | [1923 Opus \(from "1923" Original Series Soundtrack, Season 1, Vol\. 1\)](https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [1923 Opus \(from "1923" Original Series Soundtrack, Season 1, Vol\. 1\)](https://open.spotify.com/album/0f0ohvltggTLzAHOYV955K) | 4:43 |
 | 16 | [Nocturne IV](https://open.spotify.com/track/1mIxBhCMhQznHxFOaB9j2e) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sonus Noctis](https://open.spotify.com/album/0havSh9StjqiVjyUlgWieV) | 3:16 |
 | 17 | [Sonata for Piano and Violin in F Major, K\. 377, No\. 25: II\. Andante](https://open.spotify.com/track/25td9lf7lnod6QZ3KwVHib) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Claudio Cruz](https://open.spotify.com/artist/6Bpfb5XDqRahzoMnrL5iaO), [Olga Kopylova](https://open.spotify.com/artist/10b6IIxvCkupBJNb1gRW1U) | [Sonata for Piano and Violin in F Major, K\. 377, No\. 25: II\. Andante](https://open.spotify.com/album/0o2TvBaHCbfBaHfwNEZlZt) | 8:52 |
-| 18 | [Beneath the Waves](https://open.spotify.com/track/1FLBMehaGC3JcHfUCF63Vs) | [Melbourne Symphony Orchestra](https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH), [Benjamin Northey](https://open.spotify.com/artist/3oUe7sIQ7vuMOXYtffyT6R) | [Blueback \(Original Motion Picture Score\)](https://open.spotify.com/album/4hfXCNPGIPZYYi77QKlppO) | 3:08 |
+| 18 | [Beneath the Waves](https://open.spotify.com/track/1FLBMehaGC3JcHfUCF63Vs) | [Nigel Westlake](https://open.spotify.com/artist/49bnfbvLYFN3S29cK5ttgx), [Melbourne Symphony Orchestra](https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH), [Benjamin Northey](https://open.spotify.com/artist/3oUe7sIQ7vuMOXYtffyT6R) | [Blueback \(Original Motion Picture Score\)](https://open.spotify.com/album/4hfXCNPGIPZYYi77QKlppO) | 3:08 |
 | 19 | [Christmas Silence](https://open.spotify.com/track/0hgprkDx7GNrGjuG33eAam) | [Lillie Harris](https://open.spotify.com/artist/287cbQjuu1CFQFL2rhUlJu), [Margaret Deland](https://open.spotify.com/artist/3Jjy1WvbWXOc6Qx2L9dBXV), [National Youth Chamber Choir of Great Britain](https://open.spotify.com/artist/2dYFGOEGvxa4u4x5gtBDZ1), [Ben Parry](https://open.spotify.com/artist/29WzzsoFvLAKulpjdtIaT9) | [Christmas Silence](https://open.spotify.com/album/7JAIsOTfEPYRSzXE3Q42nZ) | 4:20 |
 | 20 | [Asgard](https://open.spotify.com/track/2f5wZo3N3l3ICF8EqrIGYO) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Lucie Paradis](https://open.spotify.com/artist/62IE8780a3EQi3hqeKVZFJ) | [Asgard](https://open.spotify.com/album/4DhSkG8yFKIgHyMStSmBlN) | 2:00 |
 | 21 | [Poetic Entity \- Solo Piano Version](https://open.spotify.com/track/6r4UJu9M8kUvxiKPWqVs75) | [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [Poetic Entity \(Solo Piano Version\)](https://open.spotify.com/album/6lUjeSeGj1Hxf0urYxYTyx) | 3:43 |

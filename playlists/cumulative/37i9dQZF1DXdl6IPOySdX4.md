@@ -4,7 +4,7 @@
 
 > you up?
 
-345 songs - 19 hr 40 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+346 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Out of the Blue](https://open.spotify.com/track/3w6qEOd9WRwi2ABP347c5H) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:17 | 2022-02-04 | 2022-07-29 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-02-04 | 2022-12-08 |
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2022-03-18 | 2022-07-29 |
+| [OXYGEN](https://open.spotify.com/track/0I0GYTjpNXVZmFr6eUX4sR) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [OXYGEN](https://open.spotify.com/album/3jz9pTG9fHLsewVucPfVjK) | 2:51 | 2022-12-16 |  |
 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 | 2022-03-25 | 2022-04-18 |
 | [Pain In My Voice](https://open.spotify.com/track/2bfJu4MiQBfJNGH1HCDoUX) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Pain In My Voice](https://open.spotify.com/album/4KhipHygaz7sHCtY8X0PQs) | 2:37 | 2022-09-21 | 2022-10-15 |
 | [Papi Pacify](https://open.spotify.com/track/5JpNSjRIGjXmeiE45CBc6g) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EP2](https://open.spotify.com/album/5ycDOijAUr2HFYNEkVC2eX) | 4:53 | 2022-04-01 | 2022-04-18 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,327 likes - 165 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,338 likes - 165 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 |
 | 2 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 |
-| 3 | [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 |
+| 3 | [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 |
 | 4 | [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 |
 | 5 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 |
 | 6 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 164 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 |
 | 165 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 |
 
-Snapshot ID: `MTY3MDU3MzQyNiwwMDAwMDAwMDI1YWIxNDNiZDEyZjY3MWUzOWE1YWIxMTk1M2JmOGIw`
+Snapshot ID: `MTY3MDU3MzQyNiwwMDAwMDAwMGMzOWIzMmQ4MGM5YjQ3YWFjZjJmNDFmNjlkZjRhMmM5`

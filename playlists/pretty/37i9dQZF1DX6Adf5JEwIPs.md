@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,491 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,558 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 19 | [Por Besarla \- Banda](https://open.spotify.com/track/004TZsXmUcKUMBF1wBh5Jd) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Por Besarla \(Banda\)](https://open.spotify.com/album/5qHma881n2wb895Tw55SRx) | 3:00 |
 | 20 | [Le He Batallado](https://open.spotify.com/track/4fZiBUOm8HvkzSl0blRlUT) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los De Valpa](https://open.spotify.com/artist/7B8eKaAsHLwl3zB8z9AUG7) | [Le He Batallado](https://open.spotify.com/album/5C2LoYCZHihJ7qB4H3ttmy) | 2:44 |
 | 21 | [Con Estrella De Borracho](https://open.spotify.com/track/6ftV3N0IVioCroR1ZnIn1x) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Con Estrella De Borracho](https://open.spotify.com/album/7mCIJYO4dR2J5LTZy7NMsC) | 2:58 |
-| 22 | [The Cookie Club \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Club](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 |
+| 22 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 |
 | 23 | [Los Delta \- En Vivo](https://open.spotify.com/track/1DMZcd3E5pSaLZSVmcJlcd) | [Joey Rodriguez](https://open.spotify.com/artist/5xsEefvmSiW1Azw0vatQZA), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Los Delta \(En Vivo\)](https://open.spotify.com/album/3Gm4jPFSU3A5Gjjg5JgGmb) | 2:07 |
 | 24 | [En Esta Navidad](https://open.spotify.com/track/5e8bZqH7wiXU2LVGFqBlZz) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [En Esta Navidad](https://open.spotify.com/album/6eF4ne6FmuXMhDl0JoncIQ) | 2:45 |
 | 25 | [Duele Saber](https://open.spotify.com/track/5fpGrIzDQumJmPvk0RVZjo) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Duele Saber](https://open.spotify.com/album/7oM7maiPO2qA8zXJyGXuny) | 3:39 |

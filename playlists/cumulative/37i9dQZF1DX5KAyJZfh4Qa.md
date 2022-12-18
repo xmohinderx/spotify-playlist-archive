@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU?si=gfm00MdpTL63d2aPVJdtZg">Can't Swim</a>.
 
-73 songs - 4 hr 0 min - not published yet
+74 songs - 4 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-11-25 |  |
 | [Company Calls Epilogue](https://open.spotify.com/track/1Y8BZ7eR0mPp9oO1RLPrvE) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Company Calls Epilogue](https://open.spotify.com/album/4u10umzNn7CKQFSlOSB6F5) | 4:32 | 2022-11-25 |  |
 | [computer exploder](https://open.spotify.com/track/1H7FYm7jZgINmMAsWsLaQL) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/5Qcv0Vr8N5XOwfR7IyzOh8) | 3:18 | 2022-11-25 |  |
-| [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-11-25 |  |
+| [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-11-25 | 2022-12-18 |
+| [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-12-09 |  |
 | [Curly Q](https://open.spotify.com/track/5etEJrn4QNlm0Z7xIbmnDi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Prince Daddy & The Hyena](https://open.spotify.com/album/4Os6Tb2ris9W7QgWSHEUye) | 4:17 | 2022-11-25 |  |
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2022-12-02 |  |
 | [Day Drunk](https://open.spotify.com/track/0ajpmHagIPCaaYP11S2Hk5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Day Drunk](https://open.spotify.com/album/02g2OE0ocT6kbLj9p6jXMX) | 2:39 | 2022-11-25 |  |

@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: The Wolfe Brothers
 
-269 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+270 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Summer Rain](https://open.spotify.com/track/47lk3vZPjzsmKUsMCR89vz) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Summer Rain](https://open.spotify.com/album/50P7qe9VNgSoooPKOKN5QH) | 2:21 | 2022-09-01 |  |
 | [Sunday Best](https://open.spotify.com/track/6nnVrHv3oozFP5XeJZzedx) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t), [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Sunday Best](https://open.spotify.com/album/6ICdRiXlIgUk87yd43eBsP) | 3:25 | 2022-06-09 | 2022-09-16 |
 | [Takin' Me Back](https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Takin' Me Back](https://open.spotify.com/album/7pLkHBQvgIPDH0AGXDZrkG) | 3:01 | 2021-12-30 | 2022-03-18 |
-| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-29 |  |
+| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-29 | 2022-12-18 |
+| [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-15 |  |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-08 |  |
 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-12-04 |  |
 | [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 | 2022-10-28 |

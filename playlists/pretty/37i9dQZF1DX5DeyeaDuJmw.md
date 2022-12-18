@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,089 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,247 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 53 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 |
 | 54 | [Bandolera](https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8) | 3:21 |
 | 55 | [Skyline](https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Skyline](https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH) | 2:53 |
-| 56 | [Pantano](https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Pantano](https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad) | 3:20 |
-| 57 | [Christian Dior](https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 2:26 |
+| 56 | [Christian Dior](https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 2:26 |
+| 57 | [Pantano](https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Pantano](https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad) | 3:20 |
 | 58 | [La Jeepeta](https://open.spotify.com/track/4RaWbMItxVbuUExNkFsITP) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Jeepeta](https://open.spotify.com/album/0pUFniwv3FndU1FlNN3apc) | 3:24 |
 | 59 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 |
 | 60 | [TOTA](https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [INMORTALES](https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3) | 2:35 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 95 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 |
 | 96 | [GOTIKA](https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [GOTIKA](https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0) | 3:02 |
 | 97 | [Antonio](https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Antonio](https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR) | 2:38 |
-| 98 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 |
-| 99 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
+| 98 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
+| 99 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 |
 | 100 | [Sin Tabú](https://open.spotify.com/track/7xJeg4TFZBwoK63G98YRaA) | [Nakary](https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Sin Tabú \(Remix\)](https://open.spotify.com/album/0OjGPsF7wQtx1jmbv0IhQt) | 3:52 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDIwMjg1MmI1YTdhNDAwYTcyNDRiM2Y2NzkwOWJlNTY3`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMGE5Mjg5N2VlMTdmZTE3YThkNzMwY2JkNjlmOTBiY2E4`

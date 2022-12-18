@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 60788,
+  "num_followers": 60822,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMDdmMmU4MTFkYzkwMDhjYzg1MDQ0YWY1ODVhOGE3MzU1",
+  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMDUxOGQ1MTljOWNmMjZiZWE4N2VkODlhYzg5NTQ5NmQz",
   "tracks": [
     {
       "added_at": "2022-12-09 05:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -895,18 +879,38 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Mala Memoria",
-        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
       "artists": [
         {
-          "name": "West Blanco",
-          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 178240,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Cu\u00e1ndo Ser\u00e1",
+        "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cu\u00e1ndo Ser\u00e1",
+      "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -955,22 +959,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Cu\u00e1ndo Ser\u00e1",
-        "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
+        "name": "Mala Memoria",
+        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Cu\u00e1ndo Ser\u00e1",
-      "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
+      "duration_ms": 178240,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
     },
     {
       "added_at": "2022-12-09 05:01:00",

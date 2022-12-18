@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from FLO, SZA, Mike Dimes, Metro Boomin, PinkPantheress, UMI, and OG Ron C
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,804 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,914 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 36 | [All I Have](https://open.spotify.com/track/1RWM1cbjpZkePBkFYgfI9P) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn), [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [All I Have](https://open.spotify.com/album/1qeuBrPJGk6XMqWoMQV98B) | 2:22 |
 | 37 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 |
 | 38 | [Ain’t Right](https://open.spotify.com/track/5cJoIc7QehxhaX6MthuGsZ) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Main Bird](https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo) | 2:06 |
-| 39 | [Sorry Ms\. Jones](https://open.spotify.com/track/6DHnnnC9VHdCBCUW42fwUi) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [Sorry Ms\. Jones](https://open.spotify.com/album/0HsUiPJpZdMXgtrFp6pXuD) | 3:15 |
+| 39 | [Sorry Ms Jones](https://open.spotify.com/track/0hL2Y4GsWyKF5wHkiKsd8U) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [Sorry Ms Jones](https://open.spotify.com/album/4gZ663zaevw07OmvZdpILf) | 3:16 |
 | 40 | [Here \(For Christmas\)](https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Here \(For Christmas\)](https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw) | 4:13 |
 | 41 | [Christmas Sometin](https://open.spotify.com/track/6n9YcfhakSR3LqeDxu0pX9) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Christmas Sometin](https://open.spotify.com/album/1rn2xr0jZ6tsQTscXdODpU) | 2:49 |
 | 42 | [Dark Cloud \(Ghost\)](https://open.spotify.com/track/2onbrFfs2zKqJlTVBjKHuQ) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [uhhh 2](https://open.spotify.com/album/3kqVaQM07ocPzx5LlyuQl6) | 2:29 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 97 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 |
 | 98 | [Underrated](https://open.spotify.com/track/3WT6yVyFwS38gGiftAG8qv) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Underrated](https://open.spotify.com/album/21SdIqju7srs1SNntOX9Jq) | 3:45 |
 
-Snapshot ID: `MTY3MTE2NzY1NCwwMDAwMDAwMGEyZjI5N2QyMThlMTFiYTFkNzAxYzYwZDQyMGMyYTdj`
+Snapshot ID: `MTY3MTE2NzY1NCwwMDAwMDAwMGNlZmUyYzk0ZGFkZDMzMGQ3YjE5ODBhZDljYjJlYTJh`

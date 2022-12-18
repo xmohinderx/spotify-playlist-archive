@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-325 songs - 1 day 5 hr 39 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+326 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Free \(HOSH Edit\)](https://open.spotify.com/track/3sYqmgwyGHmbmGjRJtz9AK) | [Tone Depth](https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf), [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Fetsum](https://open.spotify.com/artist/6woLhP7pzj8pbWsZ5VUOck), [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Free \(HOSH Edit\)](https://open.spotify.com/album/51FqS4tKuPKWkZAXEfhuR6) | 6:58 | 2022-10-28 |  |
 | [Free \- HOSH Edit](https://open.spotify.com/track/2Of6ELgB41N4REAnQvbpwD) | [Tone Depth](https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf), [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Fetsum](https://open.spotify.com/artist/6woLhP7pzj8pbWsZ5VUOck), [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Free \(HOSH Edit\)](https://open.spotify.com/album/0lWf8cP6COXoub6Pxng8gn) | 6:58 | 2021-12-08 | 2022-11-20 |
 | [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-12-08 |  |
+| [Gira](https://open.spotify.com/track/03q9AtM0x9F3a6IegdR4C8) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/37CKAnHq973TQx6Dz8gKoS) | 7:45 | 2022-10-28 |  |
 | [Gira](https://open.spotify.com/track/4b7ip6Jw2XG8avLgM41kcl) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/4gw2Z16cnAt917rOGlPBA2) | 7:45 | 2021-12-08 | 2022-11-20 |
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 |  |
@@ -246,7 +247,7 @@
 | [Silhouette](https://open.spotify.com/track/0OHMCa0Rkui2VLkQxgVpVs) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Sebee](https://open.spotify.com/artist/15eS4ELao0UYSVtHMLlxcq) | [Anjunadeep Explorations 18](https://open.spotify.com/album/5o2l23PO9MXRLLe6Y602CP) | 3:49 | 2021-12-08 |  |
 | [Simply Put](https://open.spotify.com/track/5F8ZtPUBSVjNygbxNfp4vR) | [Bakai](https://open.spotify.com/artist/5O7M8SLNNzWp0TJWufgUxA), [Orah](https://open.spotify.com/artist/4t0cROlLdti1op48QSOHmn) | [Kiwi Daze](https://open.spotify.com/album/2Knyl8PMxuUU2vHI0h9lgx) | 3:24 | 2021-12-08 |  |
 | [Sin City](https://open.spotify.com/track/1YQiIO9Lfx00x2Ce55316v) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/6a6PwmzMz6P2T3SZez82Mj) | 6:31 | 2021-12-08 | 2022-07-28 |
-| [Sinuous](https://open.spotify.com/track/6v6YqwH38kDXhTxPHGi1UN) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Sinuous EP](https://open.spotify.com/album/0pyomTkFrKNckotPAbWSKw) | 4:09 | 2021-12-08 |  |
+| [Sinuous](https://open.spotify.com/track/6v6YqwH38kDXhTxPHGi1UN) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Sinuous EP](https://open.spotify.com/album/0pyomTkFrKNckotPAbWSKw) | 4:09 | 2021-12-08 | 2022-12-18 |
 | [Skyline](https://open.spotify.com/track/6RkBU15iuIWpNA67pL4ZE7) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu) | [Skyline EP](https://open.spotify.com/album/4mDdzRcCfgkleAYlKB17VG) | 8:26 | 2021-12-08 |  |
 | [Sofia's Theme](https://open.spotify.com/track/16qgL8moRXVRZA5K0yU4yZ) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/2GBTgLWpMzjDS3LPazU8C1) | 5:26 | 2021-12-08 | 2022-07-29 |
 | [Sofia's Theme](https://open.spotify.com/track/6H1qRu7bx0H8MwUHHQQ5P4) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/0ehVZfAiALYIbzocHRBfpF) | 5:26 | 2022-05-03 |  |

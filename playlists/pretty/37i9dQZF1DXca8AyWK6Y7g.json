@@ -1,12 +1,12 @@
 {
   "description": "it's the holiday remix with Miss Sabrina Carpenter",
-  "num_followers": 1440668,
+  "num_followers": 1441117,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxNDIxMSwwMDAwMDAwMGExYmVhYzBkODEzMWFkNDZkZTRjYzU3N2NlY2QxMTUy",
+  "snapshot_id": "MTY3MTIxNDIxMSwwMDAwMDAwMGNmMmU0YzRjNjI1NDJkZjk5NDAyZDU2YTg2NThlM2Zi",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -75,22 +75,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -143,18 +139,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "All 4 Nothing (I'm So In Love)",
-      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sneakers",
-        "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Sneakers",
-      "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Lego Blocks",
         "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Just A Kiss (Muah)",
         "url": "https://open.spotify.com/album/2KfGtk53MnZ6Wb7vw4Afsy"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 156804,
       "name": "Just A Kiss (Muah)",
       "url": "https://open.spotify.com/track/2wN8OUgQDQTCkMSctWq1c2"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Crush(ed)",
-        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 150645,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Shit Show",
         "url": "https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 200080,
       "name": "Shit Show",
       "url": "https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Crush(ed)",
+        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 150645,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Happening Again",
-        "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 173951,
-      "name": "Happening Again",
-      "url": "https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 170564,
       "name": "Friends",
       "url": "https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Happening Again",
+        "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 173951,
+      "name": "Happening Again",
+      "url": "https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/4XxNQ8VlWCDT6kEwWDuW4u"
     },
     {
+      "added_at": "2022-12-18 00:42:04",
+      "album": {
+        "name": "Take me home",
+        "url": "https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "Take me home",
+      "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Leave It On The Dancefloor",
@@ -1499,6 +1515,22 @@
       "duration_ms": 175016,
       "name": "Leave It On The Dancefloor",
       "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "happy f***ing birthday",
+        "url": "https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "happy f***ing birthday",
+      "url": "https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1567,22 +1599,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "happy f***ing birthday",
-        "url": "https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "happy f***ing birthday",
-      "url": "https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7qOX8bMACIwT1T2wGRNj08"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "I Blame The World",
-        "url": "https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "I Blame The World",
-      "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Taste It",
         "url": "https://open.spotify.com/album/4cPPZ4jLUU1aa942DlVXy2"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 147750,
       "name": "Taste It",
       "url": "https://open.spotify.com/track/2CJ6Dn7diAVvJPLm79o3Xp"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "I Blame The World",
+        "url": "https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "I Blame The World",
+      "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "this is what i get",
-        "url": "https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 136045,
-      "name": "i can't do anything right",
-      "url": "https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "IDK SH!T",
         "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
       },
@@ -1819,6 +1819,22 @@
       "duration_ms": 171576,
       "name": "IDK SH!T",
       "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "this is what i get",
+        "url": "https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 136045,
+      "name": "i can't do anything right",
+      "url": "https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 198139,
-      "name": "gentle",
-      "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "U Taste Like Sundays",
         "url": "https://open.spotify.com/album/1amY4kdkg7tx1wIj83vzb0"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 250071,
       "name": "U Taste Like Sundays",
       "url": "https://open.spotify.com/track/7zSIaxd1mgB53fm4PNX7qA"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 198139,
+      "name": "gentle",
+      "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1919,22 +1935,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "End of an Era",
         "url": "https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc"
       },
@@ -1947,6 +1947,38 @@
       "duration_ms": 133985,
       "name": "End of an Era",
       "url": "https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 165563,
+      "name": "Reality Television",
+      "url": "https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1983,22 +2015,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "001",
-        "url": "https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 165563,
-      "name": "Reality Television",
-      "url": "https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "CLONES",
         "url": "https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe"
       },
@@ -2011,38 +2027,6 @@
       "duration_ms": 124636,
       "name": "CLONES",
       "url": "https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "flowers",
-        "url": "https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R"
-      },
-      "artists": [
-        {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "flowers",
-      "url": "https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "ELIO'S INFERNO (deluxe)",
-        "url": "https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Rich Like That - deluxe",
-      "url": "https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2063,18 +2047,34 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hot Crush Lover",
-        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
+        "name": "ELIO'S INFERNO (deluxe)",
+        "url": "https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn"
       },
       "artists": [
         {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
         }
       ],
-      "duration_ms": 193731,
-      "name": "Hot Crush Lover",
-      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
+      "duration_ms": 141575,
+      "name": "Rich Like That - deluxe",
+      "url": "https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2091,6 +2091,22 @@
       "duration_ms": 160613,
       "name": "Trophy",
       "url": "https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hot Crush Lover",
+        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 193731,
+      "name": "Hot Crush Lover",
+      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Nothing to Lose",
         "url": "https://open.spotify.com/album/1uCGYnhs8ZtHHzkI5ribT2"
       },
@@ -2203,6 +2203,22 @@
       "duration_ms": 182005,
       "name": "Nothing to Lose",
       "url": "https://open.spotify.com/track/5OpEhKpaybK0hRwrq1yXEE"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2255,22 +2271,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Love Letters From Houston",
-        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 195151,
-      "name": "Can You Love Me Tonight?",
-      "url": "https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Penny",
         "url": "https://open.spotify.com/album/4aTl0bLTNY0GMApLdUOlkt"
       },
@@ -2287,50 +2287,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82"
+        "name": "Love Letters From Houston",
+        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
       },
       "artists": [
         {
-          "name": "Mia Rodriguez",
-          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
         }
       ],
-      "duration_ms": 159095,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "I Hate Cardio",
-        "url": "https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc"
-      },
-      "artists": [
-        {
-          "name": "Ellee Duke",
-          "url": "https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N"
-        }
-      ],
-      "duration_ms": 209913,
-      "name": "I Hate Cardio",
-      "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Mouthwash",
-      "url": "https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5"
+      "duration_ms": 195151,
+      "name": "Can You Love Me Tonight?",
+      "url": "https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2351,6 +2319,70 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "I Hate Cardio",
+        "url": "https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc"
+      },
+      "artists": [
+        {
+          "name": "Ellee Duke",
+          "url": "https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N"
+        }
+      ],
+      "duration_ms": 209913,
+      "name": "I Hate Cardio",
+      "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82"
+      },
+      "artists": [
+        {
+          "name": "Mia Rodriguez",
+          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi"
+      },
+      "artists": [
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Mouthwash",
+      "url": "https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Smoke Signal",
+        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Knox",
+          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
+        }
+      ],
+      "duration_ms": 173808,
+      "name": "GORGEOUS",
+      "url": "https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO"
       },
@@ -2367,18 +2399,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Smoke Signal",
-        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
+        "name": "Alive and Unwell (Deluxe)",
+        "url": "https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn"
       },
       "artists": [
         {
-          "name": "Olivia Knox",
-          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 152727,
-      "name": "Smoke Signal",
-      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
+      "duration_ms": 164131,
+      "name": "My Bed",
+      "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2415,46 +2447,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "That's What Makes Me Love You",
-      "url": "https://open.spotify.com/track/37UjK6VOVPIqzASUz6EcdW"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "let's run away",
-        "url": "https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Orion Song",
-          "url": "https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd"
-        },
-        {
-          "name": "Patrick Hizon",
-          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "let's run away",
-      "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Smoke Signal",
         "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
       },
@@ -2464,9 +2456,9 @@
           "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
         }
       ],
-      "duration_ms": 173808,
-      "name": "GORGEOUS",
-      "url": "https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh"
+      "duration_ms": 152727,
+      "name": "Smoke Signal",
+      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
     }
   ],
   "unique_name": "young & free",

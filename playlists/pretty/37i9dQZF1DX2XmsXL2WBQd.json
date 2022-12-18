@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 328689,
+  "num_followers": 328771,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAzMzQ5MiwwMDAwMDAwMGRhMGZlM2I0ZjNmYmM4M2U1NmM2ZWM1MGMzYmRmYWM5",
+  "snapshot_id": "MTY2OTAzMzQ5MiwwMDAwMDAwMDZkM2Q0ZTc1MmU4YWE2NjhhOGZlYzU2NTM4NTRlZTQ3",
   "tracks": [
     {
       "added_at": "2022-10-13 11:26:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-10-13 11:26:14",
       "album": {
-        "name": "In Full Gear",
-        "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
-      },
-      "artists": [
-        {
-          "name": "Stetsasonic",
-          "url": "https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Talkin' All That Jazz",
-      "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
-    },
-    {
-      "added_at": "2022-10-13 11:26:14",
-      "album": {
         "name": "King Of Rock (Expanded Edition)",
         "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2022-10-13 11:26:14",
+      "album": {
+        "name": "In Full Gear",
+        "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
+      },
+      "artists": [
+        {
+          "name": "Stetsasonic",
+          "url": "https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Talkin' All That Jazz",
+      "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
     },
     {
       "added_at": "2022-10-13 11:26:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-10-13 11:26:14",
       "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "So Wat Cha Sayin'",
-      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
-    },
-    {
-      "added_at": "2022-10-13 11:26:14",
-      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 422493,
       "name": "Looking for the Perfect Beat - Original 12\" Version",
       "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
+    },
+    {
+      "added_at": "2022-10-13 11:26:14",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "So Wat Cha Sayin'",
+      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
     },
     {
       "added_at": "2022-10-13 11:26:14",

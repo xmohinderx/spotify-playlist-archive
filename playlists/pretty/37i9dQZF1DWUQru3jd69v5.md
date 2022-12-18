@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Nabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,762 likes - 63 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,789 likes - 63 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

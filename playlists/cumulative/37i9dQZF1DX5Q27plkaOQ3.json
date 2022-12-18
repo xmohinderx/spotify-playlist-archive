@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 198399,
       "name": "(Never Gonna) Be Alone",
       "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 188607,
       "name": "Backbreaker",
       "url": "https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 201931,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 213517,
       "name": "Bussin Bussin (feat. JV Rhymes)",
       "url": "https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "CAKE SHAKE",
       "url": "https://open.spotify.com/track/317KO2y39CAzDjpP8djR0k"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 192857,
       "name": "Crash Landing",
       "url": "https://open.spotify.com/track/3nwiXEeuhYGWszEWPOzvK4"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 243400,
       "name": "Don\u2019t Look Down (feat. Linney)",
       "url": "https://open.spotify.com/track/6Rzv2CVwDi7hYnVU5wKcXe"
@@ -2000,6 +2000,28 @@
     },
     {
       "album": {
+        "name": "ANTIFRACTALS",
+        "url": "https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "A Hundred Drums",
+          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253263,
+      "name": "Flute Dub - A Hundred Drums Remix",
+      "url": "https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr"
+    },
+    {
+      "album": {
         "name": "From My Grave",
         "url": "https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ"
       },
@@ -2179,7 +2201,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 212258,
       "name": "GIGACHAD",
       "url": "https://open.spotify.com/track/2VXSei3puBk9C8EW5v1MmF"
@@ -2689,7 +2711,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 222861,
       "name": "Invane",
       "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
@@ -2859,7 +2881,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
@@ -2983,7 +3005,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 233379,
       "name": "Last One Standing - Ace Aura Remix",
       "url": "https://open.spotify.com/track/0I0ZJ1IBED5wOAlm7RvRjP"
@@ -3329,7 +3351,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "Mind & Body",
       "url": "https://open.spotify.com/track/6YsT7iK2yKRamjUI0Gt5Rh"
@@ -3351,7 +3373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 223098,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71"
@@ -3643,7 +3665,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 226285,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os"
@@ -4479,7 +4501,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 226333,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
@@ -4793,7 +4815,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 214631,
       "name": "Sleep (with Calcium)",
       "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
@@ -5167,7 +5189,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 265500,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/7ztFTiaEtc1TF5AV9909Bb"
@@ -5535,7 +5557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 308400,
       "name": "This Could Be Us",
       "url": "https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o"
@@ -5677,7 +5699,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "UMBRA",
       "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
@@ -5801,7 +5823,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 303882,
       "name": "Walk Me Home - Blanke Remix",
       "url": "https://open.spotify.com/track/3DWH2ElS137GfWMzGcXVp2"

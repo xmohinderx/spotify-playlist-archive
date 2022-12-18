@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,879 likes - 123 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,973 likes - 123 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 74 | [破線の涙](https://open.spotify.com/track/6p16SQ6gD5TgWI9Sunw9Qw) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [破線の涙](https://open.spotify.com/album/07D1QO5OjgCf9RTD35NViD) | 4:51 |
 | 75 | [罠](https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [BEST THE BACK HORN](https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v) | 4:22 |
 | 76 | [宇宙の彼方で](https://open.spotify.com/track/6x1bX99bVUhBbhzH3gLO8Z) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [宇宙の彼方で](https://open.spotify.com/album/4lv8NOmvqjKAfF1lEDxrCf) | 5:35 |
-| 77 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/4XqMFwKVaoSboem4IVfmnk) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 |
+| 77 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 |
 | 78 | [AFTER ALL](https://open.spotify.com/track/1sL49SqeRgfUxvVjP5Bm65) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [AFTER ALL](https://open.spotify.com/album/7kZY7Et5C6TFM21t9Z4W43) | 4:15 |
 | 79 | [遠い記憶](https://open.spotify.com/track/2OwfPv0pQUegppj9xNW79U) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [遠い記憶](https://open.spotify.com/album/33Vbs8fOIG5nAEkgxtqyJV) | 4:14 |
 | 80 | [vestige \-ヴェスティージ\-](https://open.spotify.com/track/3HP9BI6rFPO41uSNVnTnjv) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [CLOUD NINE](https://open.spotify.com/album/6TSLuI1wZYcXkpQcymNWjW) | 5:24 |

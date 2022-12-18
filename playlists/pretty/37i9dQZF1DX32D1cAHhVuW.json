@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 6952,
+  "num_followers": 7041,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDBkODc0OTMwZWJlMzgxM2I2YjJiNWQwMmZjOWYxMWU5",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDBjNTdhMzQ1Zjc2MGE0YjA4ZTBiZmYxZTZiNmFlM2Q0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Young & Turnt 2",
-        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
+        "name": "Vaccine",
+        "url": "https://open.spotify.com/album/3NhMZdOVKu2RWctws9Zk4n"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 119409,
-      "name": "Been Turnt",
-      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
+      "duration_ms": 126256,
+      "name": "Vaccine",
+      "url": "https://open.spotify.com/track/1t7H77FNwoit8U4NiXij66"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Vaccine",
-        "url": "https://open.spotify.com/album/3NhMZdOVKu2RWctws9Zk4n"
+        "name": "Young & Turnt 2",
+        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
       },
       "artists": [
         {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 126256,
-      "name": "Vaccine",
-      "url": "https://open.spotify.com/track/1t7H77FNwoit8U4NiXij66"
+      "duration_ms": 119409,
+      "name": "Been Turnt",
+      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -747,26 +747,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "G.I.H.F.",
-        "url": "https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ"
       },
       "artists": [
         {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 276239,
-      "name": "Walk (feat. Lil Baby & 42 Dugg)",
-      "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
+      "duration_ms": 87040,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -787,6 +779,30 @@
       "duration_ms": 231771,
       "name": "Get Ready (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "G.I.H.F.",
+        "url": "https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 276239,
+      "name": "Walk (feat. Lil Baby & 42 Dugg)",
+      "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -839,22 +855,6 @@
       "duration_ms": 208194,
       "name": "Baby Boy",
       "url": "https://open.spotify.com/track/0qeNJtldeoVelVsOUahnbw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 87040,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Don\u2019t Leave Me",
-      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Gotti Outta Here",
         "url": "https://open.spotify.com/album/28UAekns23I51HBjwmAaAN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 274285,
       "name": "Biggest Opp (feat. 5th Ward Greedy, Real Taker & Yung Mal)",
       "url": "https://open.spotify.com/track/6slucYWVAkGbdMXxrmwMED"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Don\u2019t Leave Me",
+      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
     }
   ],
   "unique_name": "Druski's Taste",

@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Jekalyn Carr
 
-2,274 songs - 6 day 11 hr 11 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
+2,275 songs - 6 day 11 hr 15 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1733,6 +1733,7 @@
 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 | 2022-07-01 | 2022-07-09 |
 | [Silent Night](https://open.spotify.com/track/4vgPZaZf6mZib4FO0KBsqY) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cassia & Myrrh](https://open.spotify.com/artist/5gQZwYs3GNecx5mXkWEoV9) | [Silent Night](https://open.spotify.com/album/2Y8WECLIhD8EvAexL4STpB) | 3:17 | 2022-12-16 |  |
 | [Silent Night](https://open.spotify.com/track/0mGKRZQz3uENGLjEhXbsSr) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Silent Night](https://open.spotify.com/album/5WrSkuYU9dh2AbYMR5thQ0) | 4:22 | 2022-12-16 |  |
+| [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2022-12-16 |  |
 | [Silver Bells](https://open.spotify.com/track/7HPEWRrERaNOmLwEWSqaEy) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Olivia Bruce](https://open.spotify.com/artist/4x83S4ablwezU5ABsZarq3) | [Silver Bells](https://open.spotify.com/album/2wxfV6G1kG7J4cU69D1pVM) | 3:45 | 2022-12-16 |  |
 | [Simple](https://open.spotify.com/track/1ukEemrhBfOFWAyIRRgDT0) | [aftrthght](https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY) | [Simple](https://open.spotify.com/album/6tmGb1dB7i0VrAq60Kt4ze) | 3:11 | 2022-08-26 | 2022-09-10 |
 | [Simple](https://open.spotify.com/track/43afkyZUN5gJEBd19zedx3) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Simple](https://open.spotify.com/album/43LOws1RaNJqWSDEf4JIp6) | 4:29 | 2022-09-16 | 2022-10-01 |
@@ -1984,7 +1985,7 @@
 | [Think of Me](https://open.spotify.com/track/2n8PXB9sQMIuo91MQ6KACy) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Think of Me](https://open.spotify.com/album/46NMUaEPuQdNjX3dJPexqt) | 3:43 | 2022-03-25 | 2022-04-09 |
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-12-16 |  |
 | [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-12-16 |  |
-| [This Christmas](https://open.spotify.com/track/75sAx38u4XrPO6SF4MSQug) | [Hannah Oliver](https://open.spotify.com/artist/0c8qtKHRxGbuh0DisS9pJK) | [This Christmas](https://open.spotify.com/album/5hAqaQHAIVy1CqVDf8MuDo) | 2:56 | 2022-12-16 |  |
+| [This Christmas](https://open.spotify.com/track/75sAx38u4XrPO6SF4MSQug) | [Hannah Oliver](https://open.spotify.com/artist/0c8qtKHRxGbuh0DisS9pJK) | [This Christmas](https://open.spotify.com/album/5hAqaQHAIVy1CqVDf8MuDo) | 2:56 | 2022-12-16 | 2022-12-18 |
 | [This Far \- Live](https://open.spotify.com/track/7naZaNVIbUPphwCKLjlqIn) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [This Far \(Live\)](https://open.spotify.com/album/2LsdaBgQDpWujN729P5C3G) | 9:52 | 2022-05-27 | 2022-06-11 |
 | [This House](https://open.spotify.com/track/5LehMttoY2seun4m7ezMNm) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This House](https://open.spotify.com/album/4VZQEB5rYcIoXFySWRXjoN) | 4:23 | 2022-09-02 | 2022-09-17 |
 | [This House](https://open.spotify.com/track/19tKzld3WZbewp6NiFK6Au) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [This House](https://open.spotify.com/album/3Yj9e7Ll5anleQIivblUFx) | 4:20 | 2022-09-09 | 2022-09-24 |

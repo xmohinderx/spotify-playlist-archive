@@ -4,7 +4,7 @@
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 23 min - not published yet
+42 songs - 2 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Stalemate](https://open.spotify.com/track/5jpH92KeCAHVFyrmOyuGGw) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 2:33 | 2022-11-17 |  |
 | [Stories With Unhappy Endings](https://open.spotify.com/track/1nR2maqQdyrb7xEpzUyfOL) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:48 | 2022-11-17 |  |
 | [The Great Test](https://open.spotify.com/track/29AGJhFoJ0y31oZ49r7J6D) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 1:59 | 2022-11-17 |  |
-| [The Old School Way](https://open.spotify.com/track/4PDmSqrIbeSusqWxHzCafh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/7e4zPgziPQixuydmHlWAJc) | 3:31 | 2022-12-15 |  |
+| [The Old School Way](https://open.spotify.com/track/2s03Z86G09dg3K0ogdwcjR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/0cpDwmTqLL5iqiSCofJb1d) | 3:31 | 2022-12-17 |  |
+| [The Old School Way](https://open.spotify.com/track/4PDmSqrIbeSusqWxHzCafh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/7e4zPgziPQixuydmHlWAJc) | 3:31 | 2022-12-15 | 2022-12-18 |
 | [The Perfect Gift](https://open.spotify.com/track/6fRVeAhnfpfpmTRMndS2FK) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:50 | 2022-11-17 |  |
 | [The Prance](https://open.spotify.com/track/2sk0ldLco4NrGyAk9quFHw) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 3:38 | 2022-11-17 |  |
 | [What You Get](https://open.spotify.com/track/0dGSOoOgiwqguvIO0WH39s) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:27 | 2022-11-17 |  |

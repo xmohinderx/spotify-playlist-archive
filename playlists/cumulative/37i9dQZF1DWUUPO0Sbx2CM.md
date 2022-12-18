@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-245 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
+246 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [I Will Wait](https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 3:19 | 2021-10-31 | 2022-11-13 |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2021-10-31 |  |
 | [If You Only Knew!](https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [If You Only Knew!](https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd) | 2:50 | 2021-10-31 |  |
+| [Influencer](https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Nubes](https://open.spotify.com/album/33365bfVKn4qAztySXLsBm) | 3:25 | 2021-10-31 |  |
 | [It's Gonna Get Better](https://open.spotify.com/track/4xq5lrkKBwpT8QB0iiBjSp) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [It's Gonna Get Better](https://open.spotify.com/album/6ZXqQXiHmTfQQIC1MOC9lI) | 3:36 | 2021-10-31 | 2022-07-28 |
 | [It's Your Love](https://open.spotify.com/track/5FiQ8fKxKN3ROICLV1aDKG) | [Marshall Marshall](https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad) | [Sunset Sunrise](https://open.spotify.com/album/0WolJ0CvYwNsn6wrk7VIke) | 2:52 | 2021-10-31 | 2022-03-18 |
 | [IWKY](https://open.spotify.com/track/1bGKjyrC5SKldCSLFp5AsJ) | [We Are Leo](https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu), [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [IWKY](https://open.spotify.com/album/0WMM3M7bSAV5RzMpHcd32Z) | 3:26 | 2021-10-31 | 2022-07-12 |
@@ -242,7 +243,7 @@
 | [Without You](https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 3:41 | 2021-10-31 |  |
 | [Without You](https://open.spotify.com/track/3SA2Ao8KCeGGAL4AjmI3nx) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Without You](https://open.spotify.com/album/43A7XIVa5atx6NunUajkcd) | 3:41 | 2021-10-31 | 2022-07-28 |
 | [Without You \- Abe Parker Remix](https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Without You](https://open.spotify.com/album/1zF2M4uUPg8qrKDzOkOYJy) | 3:47 | 2021-10-31 | 2022-08-31 |
-| [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 |  |
+| [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 | 2022-12-18 |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 |  |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 |  |
 | [WTSOTLI \- LAEL Remix](https://open.spotify.com/track/2SWYkkjug4DxuMlO8ozWku) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [WTSOTLI \(LAEL Remix\)](https://open.spotify.com/album/40OaSIYsxjAz2JthcpNVsG) | 3:00 | 2021-10-31 | 2022-07-22 |

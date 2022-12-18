@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 83079,
+  "num_followers": 83083,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMGRkZWU2ZmY2NzY3OTE2NmIwOTRhNDFlZjY4NTRkZjE2",
+  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDRjZDViYTk0NTcyOTc4MjRiODhkOWVhNTJjN2IwMWEx",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -23,22 +23,6 @@
       "duration_ms": 207375,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0Xp0lKqJIdgrjSH6sgzgZd"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Build a Boat",
-        "url": "https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "Build a Boat",
-      "url": "https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -63,18 +47,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
+        "name": "Build a Boat",
+        "url": "https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
         }
       ],
-      "duration_ms": 216286,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
+      "duration_ms": 170549,
+      "name": "Build a Boat",
+      "url": "https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -95,6 +79,22 @@
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -279,6 +279,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Life After Death",
+        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Cornerstone (feat. Zach Williams)",
+      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Same God (Radio Version)",
         "url": "https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 233301,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Life After Death",
-        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Cornerstone (feat. Zach Williams)",
-      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Steady Light",
         "url": "https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 283885,
       "name": "Open",
       "url": "https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Rest On Us - Single Version",
-      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 260708,
       "name": "Jesus Called My Name",
       "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Rest On Us - Single Version",
+      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fight On My Knees",
-        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Fight On My Knees",
-      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Fight On My Knees",
+        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Fight On My Knees",
+      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Light a Fire",
         "url": "https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 294320,
       "name": "Light a Fire",
       "url": "https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+      "duration_ms": 199573,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
+        "name": "No Hurt",
+        "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
       },
       "artists": [
         {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Good Lord",
-      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
+      "duration_ms": 192613,
+      "name": "No Hurt",
+      "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1219,22 +1235,6 @@
       "duration_ms": 253800,
       "name": "When The World Is Changing",
       "url": "https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "No Hurt",
-        "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "No Hurt",
-      "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+        "name": "All Things Well",
+        "url": "https://open.spotify.com/album/27u6mmnkk26qEnXlKz5cIo"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Justin Warren",
+          "url": "https://open.spotify.com/artist/6bBzJpCoyyPxIZ6KooTqcU"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+      "duration_ms": 196663,
+      "name": "All Things Well",
+      "url": "https://open.spotify.com/track/6221ByWUvnTPaSMDpjgsfi"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "All Things Well",
-        "url": "https://open.spotify.com/album/27u6mmnkk26qEnXlKz5cIo"
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
       "artists": [
         {
-          "name": "Justin Warren",
-          "url": "https://open.spotify.com/artist/6bBzJpCoyyPxIZ6KooTqcU"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 196663,
-      "name": "All Things Well",
-      "url": "https://open.spotify.com/track/6221ByWUvnTPaSMDpjgsfi"
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "If The Lord Builds The House",
+        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "If The Lord Builds The House",
+      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
       },
@@ -1371,18 +1387,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "If The Lord Builds The House",
-        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
+        "name": "Show Up Choose Love",
+        "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
       },
       "artists": [
         {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 235640,
-      "name": "If The Lord Builds The House",
-      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
+      "duration_ms": 212253,
+      "name": "Show Up Choose Love (feat. Jon Reddick)",
+      "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Show Up Choose Love",
-        "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Show Up Choose Love (feat. Jon Reddick)",
-      "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
         "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 206400,
       "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
       "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 251185,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1487,22 +1503,6 @@
       "duration_ms": 190586,
       "name": "KEEP YOUR WORD",
       "url": "https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 251185,
-      "name": "First Things First",
-      "url": "https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 210118,
+      "name": "The Great Awakening",
+      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp"
       },
@@ -1591,22 +1611,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
         }
       ],
-      "duration_ms": 210118,
-      "name": "The Great Awakening",
-      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1627,22 +1643,6 @@
       "duration_ms": 365909,
       "name": "Common Ground (feat. Dee Wilson) - Live",
       "url": "https://open.spotify.com/track/3armidhEXA4Ky23Wj97pFQ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
     },
     {
       "added_at": "2022-10-29 07:17:38",

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60?si=Ou4Tx5czRIKXB5m8i__EAw\"> Tayc </a>  ",
-  "num_followers": 389460,
+  "num_followers": 389969,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGY2ZDI5MTgyNTlkYTcxYTUyMDJjMTM3MWY5MjZkNjJh",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDg4OWVkN2FhM2RkNjY5NDZkMzk3ODc5ZWYyOTYyZWYz",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1117,10 +1117,10 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
       "added_at": "2022-11-18 11:13:02",
       "album": {
         "name": "Maitama (Going)",
@@ -1319,6 +1303,22 @@
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/7bQn6pdb6524vpGGxftUA9"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/273uUYBv3zZoqSR8VOk6vV"
     }
   ],
   "unique_name": "Afropop",

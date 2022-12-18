@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 25944,
+  "num_followers": 25970,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NDcwMCwwMDAwMDAwMGZhNTMzOTk2MTIzYWYzZDIxY2FlNjE1ZjQ0ZjBhZDU4",
+  "snapshot_id": "MTY2NDg5NDcwMCwwMDAwMDAwMDViOTcwNWQ2YTkwODBiNzc2YWEzOTU4ZmZkNWQ5OWFk",
   "tracks": [
     {
       "added_at": "2022-10-04 14:45:00",
@@ -323,18 +323,22 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf"
+        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
       "artists": [
         {
-          "name": "Lisa Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl"
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 1168386,
-      "name": "Sun - Midnight Version",
-      "url": "https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr"
+      "duration_ms": 288693,
+      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -375,22 +379,18 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf"
       },
       "artists": [
         {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+          "name": "Lisa Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl"
         }
       ],
-      "duration_ms": 288693,
-      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+      "duration_ms": 1168386,
+      "name": "Sun - Midnight Version",
+      "url": "https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Rushes Recede",
-        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Welfare / Practice",
         "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 231731,
       "name": "How to build an automaton",
       "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Rushes Recede",
+        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
     },
     {
       "added_at": "2022-10-04 14:45:00",

@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Mec\u00e1nico",
-  "num_followers": 126845,
+  "num_followers": 126858,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDI4ZDQzNDYwZDBhM2I5ZTZiMTU3Nzc0NDgzYTM1MzFj",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDY5YzE0YTNkNWQ2ZmQwNGQ0YTJkOGE4ZWFlYzQzNTE3",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 229740,
       "name": "Pasos de Gigantes",
       "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Laurel",
+        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 313885,
+      "name": "Laurel",
+      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Cae la Noche",
         "url": "https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 190681,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Laurel",
-        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 313885,
-      "name": "Laurel",
-      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Tu Momento",
-        "url": "https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki"
-      },
-      "artists": [
-        {
-          "name": "Blanco Leal",
-          "url": "https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq"
-        },
-        {
-          "name": "EnSecreto",
-          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
-        }
-      ],
-      "duration_ms": 229985,
-      "name": "Tu Momento",
-      "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "despacito",
         "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 218997,
       "name": "pienso tanto en abrazarte",
       "url": "https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Tu Momento",
+        "url": "https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki"
+      },
+      "artists": [
+        {
+          "name": "Blanco Leal",
+          "url": "https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq"
+        },
+        {
+          "name": "EnSecreto",
+          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
+        }
+      ],
+      "duration_ms": 229985,
+      "name": "Tu Momento",
+      "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Al Borde del Abismo",
-        "url": "https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten"
-      },
-      "artists": [
-        {
-          "name": "Paco Miranda",
-          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Al Borde del Abismo",
-      "url": "https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "arde lento (remixes)",
         "url": "https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 391125,
       "name": "diamantes (lorelei remix)",
       "url": "https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Al Borde del Abismo",
+        "url": "https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten"
+      },
+      "artists": [
+        {
+          "name": "Paco Miranda",
+          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Al Borde del Abismo",
+      "url": "https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 186922,
-      "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
       },
@@ -1731,18 +1715,34 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "No Es Tarde",
-        "url": "https://open.spotify.com/album/3Kq5jEJvqx1Mwev62asIzB"
+        "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU"
       },
       "artists": [
         {
-          "name": "Vale Castillo",
-          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
         }
       ],
-      "duration_ms": 156430,
-      "name": "No Es Tarde",
-      "url": "https://open.spotify.com/track/3POg7duhY3fUIi0vJce5Cq"
+      "duration_ms": 186922,
+      "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Fargo",
+        "url": "https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF"
+      },
+      "artists": [
+        {
+          "name": "Frucola Frapp\u00e9",
+          "url": "https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Fargo",
+      "url": "https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF"
     }
   ],
   "unique_name": "Indie Chile",

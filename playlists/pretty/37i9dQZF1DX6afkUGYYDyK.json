@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 14872,
+  "num_followers": 14880,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMGU2YmNjMDdmNGM4OWFlNmMwNTFjNDA4OGVkZWUyMWVm",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMGJmY2JjNWZkNTU5OGFkZTc3NjRhMjg3YmMzMmY2MGMz",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Faith Of My Father",
         "url": "https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 249186,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -464,22 +464,6 @@
       "added_at": "2022-11-23 15:01:23",
       "album": {
         "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thankful",
         "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
       },
       "artists": [
@@ -491,6 +475,22 @@
       "duration_ms": 203800,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Kingdom Come - The Soundtrack",
         "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 280333,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thank God!",
-        "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
-      },
-      "artists": [
-        {
-          "name": "Tracy Nitschke",
-          "url": "https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Thank God!",
-      "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "We Say Yes",
         "url": "https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 353769,
       "name": "Give Thanks to God",
       "url": "https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank God!",
+        "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
+      },
+      "artists": [
+        {
+          "name": "Tracy Nitschke",
+          "url": "https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW"
+        }
+      ],
+      "duration_ms": 142151,
+      "name": "Thank God!",
+      "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
     },
     {
       "added_at": "2022-11-23 15:01:23",

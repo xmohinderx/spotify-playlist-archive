@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-581 songs - 2 day 2 hr 23 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+582 songs - 2 day 2 hr 27 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,8 @@
 | [The World Without a View](https://open.spotify.com/track/7oqgn5cQi0dJD8Vc1nDQMv) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [The World Without a View](https://open.spotify.com/album/3wOUZYGoZgJkYvZdKLWNsH) | 9:33 | 2021-12-17 | 2022-07-28 |
 | [The Worst of Us](https://open.spotify.com/track/5B2p6lmbUGO9g0kKuXfejU) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/1t9N7b0bbwH5csgeyxgBCe) | 4:39 | 2022-07-13 | 2022-07-15 |
 | [They Drew First Blood](https://open.spotify.com/track/69tvPkBYldOqUGkLY2QxVP) | [The Monolith Deathcult](https://open.spotify.com/artist/30R1cSs562qWPmRHZtmZom) | [Vernedering \- Connect the Goddamn Dots](https://open.spotify.com/album/7CIafEi4HSEMjLPhOgeXGD) | 7:48 | 2021-12-17 | 2022-07-27 |
-| [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 |  |
+| [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 | 2022-12-18 |
+| [This Is It](https://open.spotify.com/track/4TEtqylSt1QhGBEfSi6tWA) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [The Fundamental Slimes and Humours](https://open.spotify.com/album/2UtymwEf1sKP4SgOYx1O8F) | 4:00 | 2022-12-16 |  |
 | [Thousand\-Arms Fortress](https://open.spotify.com/track/36WfOjorByjWNJXJ96Op8u) | [Returning We Hear the Larks](https://open.spotify.com/artist/2g5SOob5tmBbErT2JNY4fh) | [Thousand\-Arms Fortress](https://open.spotify.com/album/6222MQeLrdKWbBYmCqrotk) | 5:49 | 2022-07-13 |  |
 | [Three Bridges](https://open.spotify.com/track/7IwuxtmnfC5rjxmk49it95) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Three Bridges](https://open.spotify.com/album/3vb21L1QoverZCitHOoOhq) | 8:45 | 2021-12-17 | 2022-07-29 |
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |

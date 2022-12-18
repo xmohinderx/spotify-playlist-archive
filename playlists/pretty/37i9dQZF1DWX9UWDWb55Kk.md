@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,214 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,289 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 50 | [Trancesizer](https://open.spotify.com/track/5K4trn2IYoHZTAuS1oZSNv) | [E\-bony](https://open.spotify.com/artist/6XznOPxK8736MxOoKyZBvA) | [Stray Cats](https://open.spotify.com/album/3C7vNh81bdzlDEgXhiP3II) | 5:48 |
 | 51 | [Inmortal](https://open.spotify.com/track/71ZPU4m7TYxlPoqjqIld8T) | [Choley](https://open.spotify.com/artist/498vJ548Oigp5VEGisWq1q) | [Inmortal](https://open.spotify.com/album/6I3OAl6Sp1f6gz5rVSOXBn) | 3:56 |
 | 52 | [You Are the One](https://open.spotify.com/track/4Gbz85VVwnbNbrnwkuTMPJ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/4KLLfHTlpdPMbZEyeVwnD8) | 3:36 |
-| 53 | [C'était un loup](https://open.spotify.com/track/2YiGhkPYgtK0etRNzQelaE) | [Palatine](https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp) | [Grand paon de nuit](https://open.spotify.com/album/04cYAN07Os29D9HvnzwQdo) | 3:40 |
+| 53 | [C'était un loup](https://open.spotify.com/track/75vjzLRf20xOD3UsEsE9GK) | [Palatine](https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp) | [Grand Paon de Nuit](https://open.spotify.com/album/65Tk6BUEhq8rLyCFUUtWZy) | 3:40 |
 | 54 | [5AM Empanada with You](https://open.spotify.com/track/0UQF9Z1szgyxbMjfJGqdKb) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [5AM Empanada with You](https://open.spotify.com/album/3i52R3QnIBb4knh1CZf3n6) | 5:41 |
 | 55 | [Bailar](https://open.spotify.com/track/29WDzFwyuYZC2pOPCygqoS) | [Finesse](https://open.spotify.com/artist/0AUUGd16M55jGRXZNbsfj9), [BNMP](https://open.spotify.com/artist/6lQ1BWAXAl2sBmtFvsfuy7), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Ellegas](https://open.spotify.com/artist/4xD2oueqRvCDui9NWjdPQu) | [El Dorado](https://open.spotify.com/album/0eLoADTd1HpL3Fm9wYUzOw) | 3:48 |
 | 56 | [Internationally \- Prod\. Jam City & Dubbel Dutch](https://open.spotify.com/track/3PLcsZsfC1jt2E1zsKIE8A) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Dubbel Dutch](https://open.spotify.com/artist/08k2TtlE1pYESgljfijLaI) | [Worldwide Angel](https://open.spotify.com/album/4CseW0RVZOocevhdVs3pLV) | 3:14 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 354 | [You Are the One](https://open.spotify.com/track/4Gbz85VVwnbNbrnwkuTMPJ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/4KLLfHTlpdPMbZEyeVwnD8) | 3:36 |
 
-Snapshot ID: `MTY3MDM3MzI0OCwwMDAwMDAwMDlkYzMyYTg3ZmI0NGY1YjJiMWVhNGNkYTA5OTg1MDA4`
+Snapshot ID: `MTY3MDM3MzI0OCwwMDAwMDAwMDNmM2VmY2YwZjQzNDczMTIzMWFmMDRhY2FmY2ZkNDBm`

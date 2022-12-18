@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,566 likes - 122 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,822 likes - 122 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,010 likes - 500 songs - 18 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,812 likes - 500 songs - 18 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 26 | [We Are Love](https://open.spotify.com/track/5wZetUDyN1GQypcfUyxPqo) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 1:57 |
 | 27 | [Time Moves Slower \(With You\)](https://open.spotify.com/track/6LZC5e9rFpuNPyqoFOUEqx) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Time Moves Slower \(With You\)](https://open.spotify.com/album/7asoQYQQjkfrCqxQAlyYjj) | 2:44 |
 | 28 | [The Careforce](https://open.spotify.com/track/1VkY2mmufR03gKcIhLRk0L) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [The Careforce](https://open.spotify.com/album/4U4PKpvDXVZznXfJo8YCk9) | 2:16 |
-| 29 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/4PyoUIuuyaDWkzOqCPMC8v) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 |
+| 29 | [My Faith Is Growing](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Faith Is Growing](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 3:44 |
 | 30 | [Exploring Time](https://open.spotify.com/track/3384bG1DpYYZnQanvYS2rQ) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Exploring Time](https://open.spotify.com/album/3eF8x8rc3UvZJ5WRe9AdNk) | 1:44 |
 | 31 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 |
 | 32 | [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 |
 | 33 | [Fresh Tires](https://open.spotify.com/track/6LLsU0zVgPcQKb7Rnf1MeV) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Fresh Tires](https://open.spotify.com/album/7oQp36kWOf04mfm2LLnSiO) | 2:33 |
 | 34 | [Plant Haze](https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu) | [WFPB](https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM) | [Plant Haze](https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA) | 2:01 |
-| 35 | [Like Saffron](https://open.spotify.com/track/05YRpkQ35gr4CWIYY35Lic) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Like Saffron](https://open.spotify.com/album/3aFt9TpuvBySq2zPJsHewR) | 2:25 |
-| 36 | [Someday](https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR) | [This is moving](https://open.spotify.com/artist/0nvDH14l6ACu7fJXKyaGQg) | [Someday](https://open.spotify.com/album/2hSAOh15pAteCBD9wP2vOB) | 2:03 |
+| 35 | [Ik wacht op jou](https://open.spotify.com/track/05YRpkQ35gr4CWIYY35Lic) | [Juultje Berben](https://open.spotify.com/artist/7y7TQWBzst8y1iWH8V4bxM) | [Ik wacht op jou](https://open.spotify.com/album/3aFt9TpuvBySq2zPJsHewR) | 2:32 |
+| 36 | [Da4am](https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Da4am](https://open.spotify.com/album/2hSAOh15pAteCBD9wP2vOB) | 2:26 |
 | 37 | [Humble Thoughts](https://open.spotify.com/track/38QAKMfUQMUVOkVsDJ1tlh) | [Somebody's Son](https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny) | [Humble Thoughts](https://open.spotify.com/album/1rWA1dux14RbyTupsbWiUa) | 1:29 |
-| 38 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 |
-| 39 | [Matter](https://open.spotify.com/track/3HuDqJGKJA8ahPtlBes06z) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Matter](https://open.spotify.com/album/0iAQ4hyyLoQYQ6PtzORG09) | 2:19 |
+| 38 | [I can feel it](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [I can feel it](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 1:47 |
+| 39 | [Goodnight Already](https://open.spotify.com/track/3HuDqJGKJA8ahPtlBes06z) | [Olivia Boward](https://open.spotify.com/artist/5qlZWNHgu2oBOjY6hSvfOe) | [Goodnight Already](https://open.spotify.com/album/0iAQ4hyyLoQYQ6PtzORG09) | 2:02 |
 | 40 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 |
 | 41 | [Free](https://open.spotify.com/track/2fI7xNA7dEskW6fGjq623B) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Free](https://open.spotify.com/album/5eDB2lujlCVEe0v1wxZQYN) | 2:48 |
 | 42 | [ting](https://open.spotify.com/track/2EpkC5rovFu6Kqb6Rw9uYA) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [ting](https://open.spotify.com/album/2MJC68gu7gXgSGiht2JdcJ) | 2:18 |

@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
-  "num_followers": 137536,
+  "num_followers": 137578,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMGZlZTU0NDY1ZDQxYTVlODQ0ZTM2ZjFlYWEzZjQyZTk2",
+  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMDk3OGE5Zjk4ZmRmMDYyNjhmYTVlZDUxYjNlYmEyNDlh",
   "tracks": [
     {
       "added_at": "2022-11-11 06:03:45",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "Cambio Estacional",
+        "url": "https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 218175,
+      "name": "Los Imanes",
+      "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "Nada Te Lastima",
         "url": "https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 248750,
       "name": "Nada Te Lastima",
       "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Cambio Estacional",
-        "url": "https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 218175,
-      "name": "Los Imanes",
-      "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -691,8 +691,8 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 311720,
-      "name": "SKR",
-      "url": "https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ"
+      "duration_ms": 257466,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -799,8 +799,8 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "El Duelo",
-        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 257466,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
+      "duration_ms": 311720,
+      "name": "SKR",
+      "url": "https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1247,8 +1247,8 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Dejarte Ir",
-        "url": "https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc"
+        "name": "Mi Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1YcVrh4wME3hr6ZY7yk3d6"
       },
       "artists": [
         {
@@ -1256,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
         }
       ],
-      "duration_ms": 192416,
-      "name": "Dejarte Ir",
-      "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
+      "duration_ms": 188181,
+      "name": "Mi Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

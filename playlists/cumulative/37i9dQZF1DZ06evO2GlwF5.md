@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/5ygZUlIVEGyKj8FsaadfcX)
+72 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/5ygZUlIVEGyKj8FsaadfcX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [cloud 9](https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:00 | 2022-08-10 |  |
 | [DOWN TOWN](https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:55 | 2022-08-11 |  |
 | [FOLLOW ME](https://open.spotify.com/track/6q49z2CInohThqhW5UAXa6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:08 | 2022-08-10 | 2022-10-15 |
-| [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 | 2022-08-10 |  |
+| [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 | 2022-08-10 | 2022-12-18 |
 | [Gyakko \-unplugged session\-](https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Dokuhaku \- Yakudo / FGO Disc](https://open.spotify.com/album/7yyduDmSkZ0ZTNjUOs9JoH) | 5:43 | 2022-08-11 | 2022-10-31 |
 | [Hidden Notes](https://open.spotify.com/track/6gfY8im5MigHx4Okp0YzRU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:39 | 2022-11-29 |  |
 | [MAP for LOVE](https://open.spotify.com/track/5zFVf5N47rMPLuq7vvc5S1) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長塚健斗](https://open.spotify.com/artist/08ftsfTtZCt0hnBLmKW39a), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK), [ペトロールズ](https://open.spotify.com/artist/1OjAHV47gQmtPllmLKVdhd), [Naz](https://open.spotify.com/artist/6kImBuGqfeArVBGal435PO), [bird](https://open.spotify.com/artist/6olAp2GUsGUnz29wI3NWHB), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj), [吉田沙良](https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [KANDYTOWN](https://open.spotify.com/artist/7mHhol5QNVG1q32KBz8Xi1) | [MAP for LOVE](https://open.spotify.com/album/5cm2ehQJ6mh9upvgvRno59) | 4:47 | 2022-08-10 |  |
@@ -37,6 +37,7 @@
 | [これから](https://open.spotify.com/track/5LDIB7WhwNvV4emxxEfq7g) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:16 | 2022-08-10 |  |
 | [さいごの果実](https://open.spotify.com/track/3HMuIXGPVWXGUsdZpxyqrv) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [さいごの果実/ミツバチと科学者](https://open.spotify.com/album/7FFDPVVPKMnjlduHESU0CJ) | 4:48 | 2022-08-10 | 2022-11-22 |
 | [はじまりの海](https://open.spotify.com/track/4E6U0JujRf3zyPBe35rXC2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 | 2022-08-10 | 2022-10-13 |
+| [ひとくちいかが? feat\. 土岐麻子](https://open.spotify.com/track/5OXT2oFI8Mm8E0iqkV7zCd) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:44 | 2022-12-17 |  |
 | [まだうごく](https://open.spotify.com/track/7cLNdxNArBlr3J5ArlbyeB) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [あなたを保つもの/まだうごく](https://open.spotify.com/album/5d3fMo5ShVeEdncXnSAtYy) | 5:48 | 2022-08-10 | 2022-10-11 |
 | [やさしさに包まれたなら](https://open.spotify.com/track/5Hu070bWBz5I4QDLo267N1) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 3:51 | 2022-08-10 |  |
 | [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 | 2022-08-10 | 2022-10-13 |

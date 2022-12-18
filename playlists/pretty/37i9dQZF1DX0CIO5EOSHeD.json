@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 401102,
+  "num_followers": 401275,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMGM3YTA5YzlhM2U1NDVlZDQ4ZjJjODFjOWE5NzA2NWQx",
+  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMDAwNWI3N2FmZmE1ZTQ5ZTA4NWVhM2IwZmExODM4MjNl",
   "tracks": [
     {
       "added_at": "2022-09-23 10:47:53",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Antisocialites",
         "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127085,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127085,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Inner World Peace",
         "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 155609,
       "name": "One Year Stand",
       "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
         "url": "https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 233320,
       "name": "Intersection",
       "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "HeatDeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "FULL TIME LOVER",
-        "url": "https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Franky Villani",
-          "url": "https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb"
-        }
-      ],
-      "duration_ms": 102500,
-      "name": "IN THE DOG HOUSE",
-      "url": "https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
@@ -1067,18 +1047,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+        "name": "FULL TIME LOVER",
+        "url": "https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Franky Villani",
+          "url": "https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb"
         }
       ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+      "duration_ms": 102500,
+      "name": "IN THE DOG HOUSE",
+      "url": "https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1095,6 +1079,22 @@
       "duration_ms": 242053,
       "name": "PIERCED ARROWS",
       "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Bee Eyes",
-          "url": "https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf"
-        }
-      ],
-      "duration_ms": 163709,
-      "name": "Midnight on a Sunny Day",
-      "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Bee Eyes",
+          "url": "https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf"
+        }
+      ],
+      "duration_ms": 163709,
+      "name": "Midnight on a Sunny Day",
+      "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "ALLTHETIME",
         "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
       },
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Year Of The Rat",
+        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "QUEEN CITY",
         "url": "https://open.spotify.com/album/2v2bIVg2RT8VWWF2u6lj1q"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 214426,
       "name": "GROWING PAINS",
       "url": "https://open.spotify.com/track/7hTFHCtOfsMFaiNVDPzUJ9"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Year Of The Rat",
-        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
     },
     {
       "added_at": "2022-09-13 23:04:24",

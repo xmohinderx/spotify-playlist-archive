@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: ZENE THE ZILLA\(제네 더 질라\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-548 songs - 1 day 5 hr 59 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+549 songs - 1 day 6 hr 2 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 | 2022-04-01 |  |
 | [I Love Your Dog](https://open.spotify.com/track/64NlxAIgOAzuEJg8v2jTIx) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [I Love Your Dog](https://open.spotify.com/album/4ZGFcvvu4Ox2RmlRvi3SVP) | 2:57 | 2022-05-31 | 2022-06-30 |
 | [I Told You I Like You](https://open.spotify.com/track/1xwhtsqSw267BHGQN7gFOP) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/0dIq5a5jOBt6Ha7ix8D8mD) | 2:47 | 2022-04-01 | 2022-07-29 |
-| [I Told You I Like You](https://open.spotify.com/track/72TNvGiSdA1WOeS3Lbxs80) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/5zpRt1JvhbULUaUnxVTCKy) | 2:47 | 2022-07-24 |  |
+| [I Told You I Like You](https://open.spotify.com/track/72TNvGiSdA1WOeS3Lbxs80) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/5zpRt1JvhbULUaUnxVTCKy) | 2:47 | 2022-07-24 | 2022-12-18 |
 | [I wish](https://open.spotify.com/track/3A27WAE8Uj0jeC7cmZKjD5) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx) | [JAEHO](https://open.spotify.com/album/3Rdp3uLt6BdeV8a64pNTbi) | 2:54 | 2022-05-05 | 2022-06-02 |
 | [I'm Fine](https://open.spotify.com/track/2VxGghBQ7dapjd4klCSsIk) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I'm Fine](https://open.spotify.com/album/3r9GmelOBdg4Qz6UaU0Ca1) | 4:08 | 2022-05-03 | 2022-07-22 |
 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 | 2022-05-05 | 2022-06-20 |
@@ -294,6 +294,7 @@
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-05-11 |  |
 | [LOYAL \(Feat\. Ruf.d\)](https://open.spotify.com/track/76prvUJ9OkeoCyAObWjhB3) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR), [Ruf.d](https://open.spotify.com/artist/14YZN6ahjzUJWTqFYc3945) | [MOONLIGHT \(ALL ABOUT YOU\)](https://open.spotify.com/album/6ezx4OUNOWc9O90NAD219H) | 2:57 | 2022-05-31 | 2022-07-29 |
 | [Luv Intuition \(feat\. Kenichiro Nishihara\)](https://open.spotify.com/track/43yeUjMR8Rnbapjnw16OFO) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Cherry Blossom](https://open.spotify.com/album/2zee1zbiVi9SyM3nQZDyIL) | 3:28 | 2022-04-21 | 2022-07-28 |
+| [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 | 2022-12-13 |  |
 | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/track/4nEJDV6OOOww5gucLVgmZY) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/album/2jSpSqvYB1Us8C1HYmNG3I) | 2:41 | 2022-04-21 | 2022-07-19 |
 | [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 | 2022-04-01 |  |
 | [Man in the mirror](https://open.spotify.com/track/58qmDZFkUSf2IiDVJYodgH) | [MALO](https://open.spotify.com/artist/1GpnEcGb1GXE5jD0iyThM1), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [Man in the mirror](https://open.spotify.com/album/4xSDnQ6FdVSe5won1iyv0I) | 3:34 | 2022-04-01 | 2022-04-21 |

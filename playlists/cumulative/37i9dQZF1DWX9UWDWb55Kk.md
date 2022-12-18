@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-350 songs - 22 hr 26 min - not published yet
+351 songs - 22 hr 30 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Burn \- Matador Remix](https://open.spotify.com/track/5AZXtxCeMSLM13vz07Osyf) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Matador](https://open.spotify.com/artist/0mkOml01ubShhJsFDyKdlm) | [Burn](https://open.spotify.com/album/7dyemaX0uVPZupR5VBans6) | 6:56 | 2021-09-01 |  |
 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 | 2022-11-24 |  |
 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 | 2022-04-08 |  |
-| [C'était un loup](https://open.spotify.com/track/2YiGhkPYgtK0etRNzQelaE) | [Palatine](https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp) | [Grand paon de nuit](https://open.spotify.com/album/04cYAN07Os29D9HvnzwQdo) | 3:40 | 2022-11-29 |  |
+| [C'était un loup](https://open.spotify.com/track/2YiGhkPYgtK0etRNzQelaE) | [Palatine](https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp) | [Grand paon de nuit](https://open.spotify.com/album/04cYAN07Os29D9HvnzwQdo) | 3:40 | 2022-11-29 | 2022-12-18 |
+| [C'était un loup](https://open.spotify.com/track/75vjzLRf20xOD3UsEsE9GK) | [Palatine](https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp) | [Grand Paon de Nuit](https://open.spotify.com/album/65Tk6BUEhq8rLyCFUUtWZy) | 3:40 | 2022-11-29 |  |
 | [Call Me Back](https://open.spotify.com/track/3Bzil9UjZsRWDJjC4qcrdR) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Call Me Back](https://open.spotify.com/album/1ySQGObz5yro8lpeAmDOy6) | 3:03 | 2021-09-01 |  |
 | [Can't Take It No More](https://open.spotify.com/track/1JPymKFXn0ZyvNynAVYRTN) | [Brigitte Laverne](https://open.spotify.com/artist/7izngL0eNHQmTmeNgwrMSx) | [Can't Take It No More](https://open.spotify.com/album/7h8c7AB32t3e28bq00Xa61) | 3:49 | 2021-09-01 |  |
 | [Cariñito](https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Uno](https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX) | 3:23 | 2022-04-08 |  |

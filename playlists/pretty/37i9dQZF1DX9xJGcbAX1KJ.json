@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 10579,
+  "num_followers": 10596,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDYxMWM5NmM1OWI3OWJjNjhhOTBiN2RmZDI3NTUwZGNi",
+  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDg0ZDdhOWUyNzRhNjJiMmU1OTVhM2YzNjIxNWZjMTU1",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -483,22 +483,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
-      },
-      "artists": [
-        {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
       },
@@ -523,26 +507,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "All or Nothing / Fast Car",
-        "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        },
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 272966,
-      "name": "Fast Car (feat. Tall Heights)",
-      "url": "https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "As Long as You Love Me",
         "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
       },
@@ -559,6 +523,42 @@
       "duration_ms": 151618,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "All or Nothing / Fast Car",
+        "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        },
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 272966,
+      "name": "Fast Car (feat. Tall Heights)",
+      "url": "https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -823,18 +823,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
+        "name": "Happy Together (feat. Ray Toro)",
+        "url": "https://open.spotify.com/album/5aoP0bnk5GoiW2NAX779eO"
       },
       "artists": [
         {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        },
+        {
+          "name": "Ray Toro",
+          "url": "https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E"
         }
       ],
-      "duration_ms": 414466,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
+      "duration_ms": 179392,
+      "name": "Happy Together (feat. Ray Toro)",
+      "url": "https://open.spotify.com/track/0n0XAmYCMWlzj3W9VdMejw"
     }
   ],
   "unique_name": "Under the Covers",

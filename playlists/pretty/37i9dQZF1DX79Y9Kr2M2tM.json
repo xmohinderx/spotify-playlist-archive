@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 828129,
+  "num_followers": 828178,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMGY1YzQ4MWQ1YjIwMjJlODBhMTAxMDQ0ZDc4NTQ2OTRk",
+  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMDEyM2E3ZTg2YTQ1ZWVlZWVhNjY4Yjc1N2NkYWY4NmQ5",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Samara",
         "url": "https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 256120,
       "name": "Samara",
       "url": "https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 180440,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 225017,
-      "name": "Warm Foothills",
-      "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Colder Heavens EP",
         "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 225017,
+      "name": "Warm Foothills",
+      "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Alabama Haint",
-        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Alabama Haint",
-      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Open Season (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 150521,
       "name": "Bridge",
       "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Alabama Haint",
+        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Alabama Haint",
+      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Different Kinds of Light",
-      "url": "https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "A Light Left On",
         "url": "https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 269746,
       "name": "I Still Remain",
       "url": "https://open.spotify.com/track/4PRgUvIwL0u3fSe5Eyg7oS"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Different Kinds of Light",
+      "url": "https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1581,7 +1581,7 @@
       "url": "https://open.spotify.com/track/45dfUwQFVgKBi4aoPHi0Ie"
     },
     {
-      "added_at": "2022-12-17 01:14:53",
+      "added_at": "2022-12-18 01:08:27",
       "album": {
         "name": "Late Afternoon in the Meadow (1887)",
         "url": "https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi"

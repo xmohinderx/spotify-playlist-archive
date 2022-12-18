@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6649,
+  "num_followers": 6647,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk3OTU0NSwwMDAwMDAwMGEyMzYzNmQ0ZjdiMzE0MTA3NjU5ZDlmZWM2OTE4Mjlk",
+  "snapshot_id": "MTY2Nzk3OTU0NSwwMDAwMDAwMDNlY2VjNTkzZjdmM2IyMjRhZmQxYTEwZTA0OTRkMmE3",
   "tracks": [
     {
       "added_at": "2022-11-09 07:39:05",
@@ -539,46 +539,6 @@
     {
       "added_at": "2022-11-09 07:39:05",
       "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
-      },
-      "artists": [
-        {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "\ubcc0\ud558\uc9c0 \uc54a\uc544",
-      "url": "https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2022-11-09 07:39:05",
-      "album": {
         "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
         "url": "https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO"
       },
@@ -599,6 +559,46 @@
       "duration_ms": 209205,
       "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
+    },
+    {
+      "added_at": "2022-11-09 07:39:05",
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
+      },
+      "artists": [
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "\ubcc0\ud558\uc9c0 \uc54a\uc544",
+      "url": "https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV"
     },
     {
       "added_at": "2022-11-09 07:39:05",

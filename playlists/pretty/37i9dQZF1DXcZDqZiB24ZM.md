@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,318 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,323 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 69 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
 | 70 | [Dans L'trap](https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [Encore Des Histoires De Trap](https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw) | 3:39 |
 | 71 | [G\-code](https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Cash Out](https://open.spotify.com/album/0IylneHtusMBsWufSs54aE) | 2:51 |
-| 72 | [Explosif](https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Gesamtkunstwerk](https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW) | 8:01 |
-| 73 | [Sang Sur les Mains](https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [IMPRÉVU](https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE) | 4:21 |
+| 72 | [Sang Sur les Mains](https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [IMPRÉVU](https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE) | 4:21 |
+| 73 | [Explosif](https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Gesamtkunstwerk](https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW) | 8:01 |
 | 74 | [On Fouette](https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF) | [51tr4p Fr4p50](https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG) | 3:46 |
 | 75 | [Dollaz](https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:13 |
 | 76 | [Pavel Bure](https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [T1zzo](https://open.spotify.com/artist/4n4dNfR2DGdbQSIgasNHby) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:24 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 80 | [Bruce Wayne](https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Bonhomme Pendu \(Chapitre 2\)](https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl) | 3:55 |
 | 81 | [La famille](https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Le sens des paroles](https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck) | 4:14 |
 | 82 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 |
-| 83 | [Remember](https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1) | [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Remember](https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0) | 3:30 |
+| 83 | [Univers parallèle](https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Le set up](https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc) | 2:38 |
 | 84 | [Parle\-Moé Don D'ça](https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:47 |
-| 85 | [Univers parallèle](https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Le set up](https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc) | 2:38 |
+| 85 | [Remember](https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1) | [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Remember](https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0) | 3:30 |
 | 86 | [Fanny](https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Aujourd'hui ou jamais](https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J) | 4:21 |
 | 87 | [Xoxo](https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 4:11 |
 | 88 | [Faits d'hiver](https://open.spotify.com/track/300wnPpERq0OFEG92ur2Nn) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Faits d'hiver](https://open.spotify.com/album/4kk3W4tg7QRzm0UEQfBBWf) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [PERE NOEL](https://open.spotify.com/track/6Q6GGjCCYlWTHCAiBlRRRw) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Désolé Pour L'Attente](https://open.spotify.com/album/5dmhIDk1O9n2M1zufAGMqd) | 2:14 |
 | 100 | [Désirée \(feat\. Cape Tula & Yen Dough\)](https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Yen Dough](https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG), [Cape Tula](https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf) | [OUI \(tout, tout, tout, toutttte\)](https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK) | 4:14 |
 
-Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMGE3MTYzNDJjODJkYjdhMjVmNjczMWVmNTA4YTEwZDJi`
+Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMDA4NTlhZTA4ZjM3Nzg4NzM5OTBmMDc4NGY5YjQyYmNi`

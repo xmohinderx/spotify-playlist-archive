@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-899 songs - 2 day 2 hr 31 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+900 songs - 2 day 2 hr 34 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-03-16 | 2022-03-19 |
 | [DE CAROLINA](https://open.spotify.com/track/7xQdrZO18sSodsnJ7XCqto) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:01 | 2022-12-11 | 2022-12-15 |
 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2022-12-13 |  |
-| [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-29 |  |
+| [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-29 | 2022-12-18 |
 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2022-09-14 |  |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-02-16 | 2022-04-28 |
 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 | 2022-08-21 | 2022-08-31 |
@@ -650,6 +650,7 @@
 | [Qué Prefieres?](https://open.spotify.com/track/4rJkczClRlhGsUgVqj97Pg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Qué Prefieres?](https://open.spotify.com/album/75TTjGjlpLgV3o2m7gnQq3) | 3:22 | 2022-10-18 | 2022-11-02 |
 | [Qué Sufras Más](https://open.spotify.com/track/5896oDAbxu2P8PF6qKZze9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado\)](https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm) | 3:48 | 2022-01-31 | 2022-02-06 |
 | [Qué Te Pasó](https://open.spotify.com/track/2tCgoVcyjGWC3cCFwaNr64) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [Qué Te Pasó](https://open.spotify.com/album/2ihF2WSuymzTKNHAQo2Kel) | 3:56 | 2022-06-09 | 2022-06-18 |
+| [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2022-12-17 |  |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-12 | 2022-06-15 |
 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 | 2022-05-02 | 2022-05-08 |
 | [Respuesta Cero](https://open.spotify.com/track/4rU3aBUWgxb8htYFwflpFc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [BlueFire](https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n) | [Respuesta Cero](https://open.spotify.com/album/1xWjLIRYerOH0xAmoYr8RM) | 3:23 | 2022-03-01 | 2022-04-13 |

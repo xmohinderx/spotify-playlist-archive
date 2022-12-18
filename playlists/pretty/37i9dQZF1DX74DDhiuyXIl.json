@@ -1,12 +1,12 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 56553,
+  "num_followers": 56563,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgyMTIzMSwwMDAwMDAwMGRlODY3MWM2MDNhNWEwMDlkNDgwYjc3MDE1NWQ4YTBj",
+  "snapshot_id": "MTY3MDgyMTIzMSwwMDAwMDAwMGI2N2IwZGZlYTNkM2ZlYjE3MGQ0YTUyZjc1ODA0OTA5",
   "tracks": [
     {
       "added_at": "2022-12-12 05:00:31",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-12 05:00:31",
       "album": {
-        "name": "NUNA",
-        "url": "https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC"
-      },
-      "artists": [
-        {
-          "name": "\u961f\u957f",
-          "url": "https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz"
-        }
-      ],
-      "duration_ms": 222612,
-      "name": "NUNA",
-      "url": "https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj"
-    },
-    {
-      "added_at": "2022-12-12 05:00:31",
-      "album": {
         "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
         "url": "https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 327228,
       "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
       "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
+    },
+    {
+      "added_at": "2022-12-12 05:00:31",
+      "album": {
+        "name": "NUNA",
+        "url": "https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC"
+      },
+      "artists": [
+        {
+          "name": "\u961f\u957f",
+          "url": "https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz"
+        }
+      ],
+      "duration_ms": 222612,
+      "name": "NUNA",
+      "url": "https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj"
     },
     {
       "added_at": "2022-12-12 05:00:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-12 05:00:31",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u6b21",
-        "url": "https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo"
-      },
-      "artists": [
-        {
-          "name": "Kelly Pan",
-          "url": "https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "\u6700\u5f8c\u4e00\u6b21",
-      "url": "https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9"
-    },
-    {
-      "added_at": "2022-12-12 05:00:31",
-      "album": {
         "name": "\u9cb8\u843d\u6d77\u5e95",
         "url": "https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 283997,
       "name": "\u9cb8\u843d\u6d77\u5e95",
       "url": "https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p"
+    },
+    {
+      "added_at": "2022-12-12 05:00:31",
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u6b21",
+        "url": "https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo"
+      },
+      "artists": [
+        {
+          "name": "Kelly Pan",
+          "url": "https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "\u6700\u5f8c\u4e00\u6b21",
+      "url": "https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9"
     },
     {
       "added_at": "2022-12-12 05:00:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-12 05:00:31",
       "album": {
-        "name": "\u767d\u9e3d",
-        "url": "https://open.spotify.com/album/2xtp5cx9nv9lJ4r6xhDLgV"
-      },
-      "artists": [
-        {
-          "name": "\u4f60\u7684\u4e0a\u597d\u4f73",
-          "url": "https://open.spotify.com/artist/1k06YlN2x0BDLE7EeBpGap"
-        }
-      ],
-      "duration_ms": 208461,
-      "name": "\u767d\u9e3d",
-      "url": "https://open.spotify.com/track/0qrzbXs43YrxdaSAhLUA5v"
-    },
-    {
-      "added_at": "2022-12-12 05:00:31",
-      "album": {
         "name": "Insignificance",
         "url": "https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 280524,
       "name": "You Better Not Think About Me",
       "url": "https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr"
+    },
+    {
+      "added_at": "2022-12-12 05:00:31",
+      "album": {
+        "name": "\u767d\u9e3d",
+        "url": "https://open.spotify.com/album/2xtp5cx9nv9lJ4r6xhDLgV"
+      },
+      "artists": [
+        {
+          "name": "\u4f60\u7684\u4e0a\u597d\u4f73",
+          "url": "https://open.spotify.com/artist/1k06YlN2x0BDLE7EeBpGap"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "\u767d\u9e3d",
+      "url": "https://open.spotify.com/track/0qrzbXs43YrxdaSAhLUA5v"
     },
     {
       "added_at": "2022-12-12 05:00:31",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-12 05:00:31",
       "album": {
-        "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 268507,
-      "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
-    },
-    {
-      "added_at": "2022-12-12 05:00:31",
-      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 248280,
       "name": "\u611b\u60c5\u600e\u9ebc\u4e86\u55ce",
       "url": "https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od"
+    },
+    {
+      "added_at": "2022-12-12 05:00:31",
+      "album": {
+        "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 268507,
+      "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
     },
     {
       "added_at": "2022-12-12 05:00:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-12 05:00:31",
       "album": {
-        "name": "\u7372\u734e\u4eba",
-        "url": "https://open.spotify.com/album/03o1FOmIQdIOjgSnj93RFb"
-      },
-      "artists": [
-        {
-          "name": "Ronghao Li",
-          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
-        }
-      ],
-      "duration_ms": 240777,
-      "name": "\u7372\u734e\u4eba",
-      "url": "https://open.spotify.com/track/5s8u5uW7zXvWfes7xh0Gr8"
-    },
-    {
-      "added_at": "2022-12-12 05:00:31",
-      "album": {
         "name": "\u7121\u540d\u7684\u4eba(\u96fb\u5f71\u300a\u96c4\u7345\u5c11\u5e74\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5ksD6oRRGRd1zr4vW7bB7g"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 282181,
       "name": "\u7121\u540d\u7684\u4eba(\u96fb\u5f71\u300a\u96c4\u7345\u5c11\u5e74\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F"
+    },
+    {
+      "added_at": "2022-12-12 05:00:31",
+      "album": {
+        "name": "\u7372\u734e\u4eba",
+        "url": "https://open.spotify.com/album/03o1FOmIQdIOjgSnj93RFb"
+      },
+      "artists": [
+        {
+          "name": "Ronghao Li",
+          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
+        }
+      ],
+      "duration_ms": 240777,
+      "name": "\u7372\u734e\u4eba",
+      "url": "https://open.spotify.com/track/5s8u5uW7zXvWfes7xh0Gr8"
     },
     {
       "added_at": "2022-12-12 05:00:31",

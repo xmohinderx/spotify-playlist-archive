@@ -1456,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+    },
+    {
+      "album": {
         "name": "Deep Sleep",
         "url": "https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg"
       },
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 204335,
       "name": "Gamma Sinus 80 Hz - 120 Hz",
       "url": "https://open.spotify.com/track/4uoKvNOS3juPZeI1rqvWmR"

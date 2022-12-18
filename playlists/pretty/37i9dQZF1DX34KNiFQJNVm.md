@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez com Murilo Huff, Maiara & Maraisa, MC Hariel e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,804,930 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,805,735 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 17 | [No Love](https://open.spotify.com/track/607HW8Uz3PS50TI38917iT) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Tamborzão Raiz \(Deluxe\)](https://open.spotify.com/album/3YtT3aMR7tyXJ1hqeYrzhr) | 2:29 |
 | 18 | [Energia](https://open.spotify.com/track/4gtHqyZMvcppVuv32fXl9Y) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Energia](https://open.spotify.com/album/3BYtn3F4LyZZbXkAbkfAzp) | 5:01 |
 | 19 | [Vixe Maria](https://open.spotify.com/track/4gWZi9hZBn7nCcTuNIGb3w) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Pra Você](https://open.spotify.com/album/5J44pwWmBxmRvara0pcUZA) | 2:33 |
-| 20 | [Se Você For Embora](https://open.spotify.com/track/13SWee2K1tLqE8rzgoIAzC) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Se Você For Embora](https://open.spotify.com/album/74ieAYOF8EhRxQ4dIkhrN0) | 2:10 |
+| 20 | [Se Você For Embora](https://open.spotify.com/track/13SWee2K1tLqE8rzgoIAzC) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Se Você For Embora](https://open.spotify.com/album/74ieAYOF8EhRxQ4dIkhrN0) | 2:10 |
 | 21 | [quem disse q n pode](https://open.spotify.com/track/6aNuPQ2Kx356IfDJNS2rgM) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [DogDu BEAT$](https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO) | [quem disse q n pode](https://open.spotify.com/album/1USNEsROPG02eYvAQ0xIkl) | 3:38 |
 | 22 | [Conexão Incomum](https://open.spotify.com/track/2mligYZ0IYItgvci3P5g47) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Menino do Cabelo Roxo](https://open.spotify.com/album/2GTc4W0kt28rIOKeRl6bgJ) | 2:09 |
 | 23 | [Assim](https://open.spotify.com/track/6lsjRcH4aTU4otvziy3hJX) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Assim](https://open.spotify.com/album/7tMmHHhxEQ2XUhftmWyj71) | 2:49 |

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 144421,
+  "num_followers": 144475,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5NTIzMCwwMDAwMDAwMGIyMWRiZjM1ZWY1NTQxNjFmNGE1NDhhZmJlZTcyNjEx",
+  "snapshot_id": "MTY2ODc5NTIzMCwwMDAwMDAwMDE2OTkxNWViZGU4NWMxOThmMDI1NDEwYTFmYjA2MWU4",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
-      "added_at": "2022-12-17 00:30:54",
+      "added_at": "2022-12-18 01:25:24",
       "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Three for Love",
         "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 304000,
       "name": "This Is for the Lover in You",
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Dur&",
-        "url": "https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR"
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
       },
       "artists": [
         {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 259493,
-      "name": "Stuck.",
-      "url": "https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc"
+      "duration_ms": 240920,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
     }
   ],
   "unique_name": "Love Language",

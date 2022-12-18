@@ -1,15 +1,15 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 488932,
+  "num_followers": 489089,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMjQwOSwwMDAwMDAwMDUwODAxYzQ3YTY5OTZiMzM5Mjk0YmZkZjlhYWE0Mjlj",
+  "snapshot_id": "MTY3MTIxMjQwOSwwMDAwMDAwMGEwNGFlMzA4M2Q0NTk1NmVhNzE1ZDllYzMzNGE2MWE5",
   "tracks": [
     {
-      "added_at": "2022-12-17 01:12:21",
+      "added_at": "2022-12-18 00:41:01",
       "album": {
         "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
         "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0Rkq46Qo069QwWDdrVur8f"
     },
     {
-      "added_at": "2022-12-17 01:12:21",
+      "added_at": "2022-12-18 00:41:01",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2dOUErBzFZJ8l7MbV6FcYW"
     },
     {
-      "added_at": "2022-12-17 01:12:21",
+      "added_at": "2022-12-18 00:41:01",
       "album": {
         "name": "What I Didn't Tell You",
         "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
     },
     {
-      "added_at": "2022-12-17 01:12:21",
+      "added_at": "2022-12-18 00:41:01",
       "album": {
         "name": "The Hurtbook",
         "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"

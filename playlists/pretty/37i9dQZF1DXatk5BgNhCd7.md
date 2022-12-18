@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Eme MalaFe & Jorge Carmona en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,790 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,842 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Niño](https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [El Niño](https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1) | 4:54 |
 | 2 | [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 |
 | 3 | [La Música](https://open.spotify.com/track/6I7AoKn4uoS6fj3dn2Xwef) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Sigo Pa'lante](https://open.spotify.com/album/3hAqqZw0KWyCwsZzUBNZp1) | 4:31 |
-| 4 | [¿Y Quién Es Ella? \- Remix](https://open.spotify.com/track/1au64vRY2ApjoQKHWW1VtL) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh), [Yorgo Jabbour](https://open.spotify.com/artist/5Gq5JyxXntjxwUEW8E8gar) | [Cumbiones](https://open.spotify.com/album/2vpwDwaIiO1n4OAG5L3SUN) | 3:50 |
+| 4 | [¿Y Quién Es Ella? \- Remix](https://open.spotify.com/track/1au64vRY2ApjoQKHWW1VtL) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Cumbiones](https://open.spotify.com/album/2vpwDwaIiO1n4OAG5L3SUN) | 3:50 |
 | 5 | [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 |
 | 6 | [No Te Confundas](https://open.spotify.com/track/5ZOLvkyS5xkkfzLe9ytDmQ) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [No Te Confundas](https://open.spotify.com/album/1of5ndRyyQ4LjADe7wlO9U) | 3:20 |
 | 7 | [Y Si No Fuera \(En Vivo En El Luna Park\)](https://open.spotify.com/track/5J3spnYXI8JU7hBwwtZews) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Y Si No Fuera \(En Vivo En El Luna Park\)](https://open.spotify.com/album/28MEkWZaWg85lNbsKlpLmT) | 3:52 |

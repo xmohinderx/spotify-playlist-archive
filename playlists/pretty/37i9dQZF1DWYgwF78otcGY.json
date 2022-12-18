@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24319,
+  "num_followers": 24326,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDJlM2Y3MTQ2MDI5Yzg5ZDNmZTI0ZTA1ZjIzZjY5MmFm",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGJjZGY2ODY1Y2Y3ZjY4YzE2YWUyYmM2NTJiNDMwZTk1",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -287,6 +287,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "N\u00e4r vindarna viskar mitt namn - Single",
+        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
+      },
+      "artists": [
+        {
+          "name": "Roger Pontare",
+          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "N\u00e4r vindarna viskar mitt namn",
+      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
         "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
@@ -303,34 +319,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+        "name": "Sean den f\u00f6rste Banan",
+        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
       "artists": [
         {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+          "name": "Sean Banan",
+          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
         }
       ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "N\u00e4r vindarna viskar mitt namn - Single",
-        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
-      },
-      "artists": [
-        {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "N\u00e4r vindarna viskar mitt namn",
-      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+      "duration_ms": 183373,
+      "name": "Sean den f\u00f6rste Banan",
+      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -351,18 +351,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Sean den f\u00f6rste Banan",
-        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
       "artists": [
         {
-          "name": "Sean Banan",
-          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
         }
       ],
-      "duration_ms": 183373,
-      "name": "Sean den f\u00f6rste Banan",
-      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
     },
     {
       "added_at": "2019-02-28 12:57:58",

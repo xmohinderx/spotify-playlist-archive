@@ -4,7 +4,7 @@
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-75 songs - 4 hr 30 min - not published yet
+76 songs - 4 hr 34 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Reds, Go Together](https://open.spotify.com/track/7wBY3AMJTftdA5qcp7Vl63) | [버즈](https://open.spotify.com/artist/0ekkC4Hy7Ki03yVHhTWiws) | [Reds, Go Together](https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA) | 4:02 | 2022-11-07 |  |
 | [Seven Nation Army \(Remix\)](https://open.spotify.com/track/1M7yTI5RxTZUBrm0MmEPA5) | [Cardio Workout Crew](https://open.spotify.com/artist/3XIxhY2S2VX7TEK2PEymnr) | [Crossfit Power Up Jam, Vol\. 1](https://open.spotify.com/album/56XYOHFSzl3FE9XpoIaIrS) | 3:17 | 2022-11-07 | 2022-11-13 |
 | [Seven Nation Army \(Remix\)](https://open.spotify.com/track/0euZRoKYCN8HWgtwwxC1Re) | [CrossFit Junkies](https://open.spotify.com/artist/2cKjsHbyoiSZDPQaiWwghk) | [Remixed Hits for Crossfit Training](https://open.spotify.com/album/5AyF4HmU4qL9ubq5AwEe8i) | 3:17 | 2022-11-07 |  |
+| [Sign Of A Victory \(feat\. Soweto Spiritual Singers\) \- The Official 2010 FIFA World Cup\(TM\) Anthem](https://open.spotify.com/track/02Tvus8GNFWQDh6bKX9aH8) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Soweto Spiritual Singers](https://open.spotify.com/artist/3232leMew7GVv6CsB87gb8) | [Sign Of A Victory \(feat\. Soweto Spiritual Singers\) \[The Official 2010 FIFA World Cup\(TM\) Anthem\]](https://open.spotify.com/album/0dpeqKCpdTmHnAmBmn5E98) | 4:13 | 2022-11-21 |  |
 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 | 2022-11-07 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2022-11-07 |  |
 | [Stop This Flame](https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Stop This Flame](https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr) | 3:29 | 2022-11-07 |  |

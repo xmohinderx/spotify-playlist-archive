@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 272164,
+  "num_followers": 272250,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4NjkxMSwwMDAwMDAwMDJiMDIyYWFlOWU3ZDE2NTk0YTM4ZDc2MmMwNGZiNDJl",
+  "snapshot_id": "MTY3MTE4NjkxMSwwMDAwMDAwMGZlNzg2N2VkODIwOGJhY2MzZGI5YTJlZjliNDRjZjAx",
   "tracks": [
     {
       "added_at": "2022-12-16 10:35:11",
@@ -431,22 +431,22 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+        "name": "la danse",
+        "url": "https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
         },
         {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
         }
       ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+      "duration_ms": 177136,
+      "name": "la danse",
+      "url": "https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -495,6 +495,26 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+    },
+    {
+      "added_at": "2022-12-16 10:35:11",
+      "album": {
         "name": "Leader",
         "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 215413,
       "name": "Leader",
       "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
-    },
-    {
-      "added_at": "2022-12-16 10:35:11",
-      "album": {
-        "name": "la danse",
-        "url": "https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        },
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "la danse",
-      "url": "https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
-        "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
-        "url": "https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 227435,
-      "name": "Mystics - Live",
-      "url": "https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9"
-    },
-    {
-      "added_at": "2022-12-16 10:35:11",
-      "album": {
         "name": "Better Worlds",
         "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 181333,
       "name": "Better Worlds",
       "url": "https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0"
+    },
+    {
+      "added_at": "2022-12-16 10:35:11",
+      "album": {
+        "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
+        "url": "https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 227435,
+      "name": "Mystics - Live",
+      "url": "https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
-        "name": "Consortium",
-        "url": "https://open.spotify.com/album/4OKkAZ6kcuyzpK7KAQVePP"
-      },
-      "artists": [
-        {
-          "name": "Maliki",
-          "url": "https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk"
-        },
-        {
-          "name": "Aidan Newland",
-          "url": "https://open.spotify.com/artist/67buHEsCVsZq8BWDEptLEB"
-        }
-      ],
-      "duration_ms": 306012,
-      "name": "Consortium",
-      "url": "https://open.spotify.com/track/0hC7mPGowDqVgvgJJhYuOw"
-    },
-    {
-      "added_at": "2022-12-16 10:35:11",
-      "album": {
         "name": "Eat The Kiwi Skin (Deluxe)",
         "url": "https://open.spotify.com/album/4cosFoJnRiCtUDe8I6iojz"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 190466,
       "name": "Who Am I (eh-eh)",
       "url": "https://open.spotify.com/track/08PElxQZ8xfd8Ex3aH0zsI"
+    },
+    {
+      "added_at": "2022-12-16 10:35:11",
+      "album": {
+        "name": "Consortium",
+        "url": "https://open.spotify.com/album/4OKkAZ6kcuyzpK7KAQVePP"
+      },
+      "artists": [
+        {
+          "name": "Maliki",
+          "url": "https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk"
+        },
+        {
+          "name": "Aidan Newland",
+          "url": "https://open.spotify.com/artist/67buHEsCVsZq8BWDEptLEB"
+        }
+      ],
+      "duration_ms": 306012,
+      "name": "Consortium",
+      "url": "https://open.spotify.com/track/0hC7mPGowDqVgvgJJhYuOw"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
+        "name": "It's All Relative",
+        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+      },
+      "artists": [
+        {
+          "name": "J-Fills",
+          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+        }
+      ],
+      "duration_ms": 198843,
+      "name": "Begotten",
+      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
+    },
+    {
+      "added_at": "2022-12-16 10:35:11",
+      "album": {
         "name": "Next Stop",
         "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
-        "name": "It's All Relative",
-        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+        "name": "Dough",
+        "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
       },
       "artists": [
         {
-          "name": "J-Fills",
-          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
         }
       ],
-      "duration_ms": 198843,
-      "name": "Begotten",
-      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
+      "duration_ms": 151602,
+      "name": "Dough",
+      "url": "https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -1035,22 +1051,6 @@
       "duration_ms": 259247,
       "name": "Motherland Journey",
       "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
-    },
-    {
-      "added_at": "2022-12-16 10:35:11",
-      "album": {
-        "name": "Dough",
-        "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 151602,
-      "name": "Dough",
-      "url": "https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
-        "name": "Ina Crueler",
-        "url": "https://open.spotify.com/album/3YSL3M37LHDYbiU2r0MXxc"
-      },
-      "artists": [
-        {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
-        }
-      ],
-      "duration_ms": 214062,
-      "name": "Ina Crueler",
-      "url": "https://open.spotify.com/track/601p9XbcpwRGFMbkY2HgVY"
-    },
-    {
-      "added_at": "2022-12-16 10:35:11",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/6E4fyKEXySdsJMWYE3IDQn"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 313733,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
+    },
+    {
+      "added_at": "2022-12-16 10:35:11",
+      "album": {
+        "name": "Ina Crueler",
+        "url": "https://open.spotify.com/album/3YSL3M37LHDYbiU2r0MXxc"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 214062,
+      "name": "Ina Crueler",
+      "url": "https://open.spotify.com/track/601p9XbcpwRGFMbkY2HgVY"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
+        "name": "Invisible Things",
+        "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
+      },
+      "artists": [
+        {
+          "name": "Aurora Dee Raynes",
+          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
+        }
+      ],
+      "duration_ms": 209509,
+      "name": "Crazy That You Love",
+      "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
+    },
+    {
+      "added_at": "2022-12-16 10:35:11",
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 302822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
-    },
-    {
-      "added_at": "2022-12-16 10:35:11",
-      "album": {
-        "name": "Invisible Things",
-        "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
-      },
-      "artists": [
-        {
-          "name": "Aurora Dee Raynes",
-          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
-        }
-      ],
-      "duration_ms": 209509,
-      "name": "Crazy That You Love",
-      "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
     },
     {
       "added_at": "2022-12-16 10:35:11",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-12-16 10:35:11",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 355493,
-      "name": "Ego Killah",
-      "url": "https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5"
-    },
-    {
-      "added_at": "2022-12-16 10:35:11",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
+    },
+    {
+      "added_at": "2022-12-16 10:35:11",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 355493,
+      "name": "Ego Killah",
+      "url": "https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5"
     }
   ],
   "unique_name": "Jazz UK",

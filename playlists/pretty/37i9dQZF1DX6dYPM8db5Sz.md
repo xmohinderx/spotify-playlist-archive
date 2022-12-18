@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest South African indie music\. Cover: <a href="https://open.spotify.com/artist/4F67Td1MFg10RECDJz3YU6?si=lGQUfiV\-S6Ocjg6FaU8pgg">Valley Sixteen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,214 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,228 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

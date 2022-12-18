@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arc\u00e1ngel ",
-  "num_followers": 1513404,
+  "num_followers": 1513457,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA2MjUzNSwwMDAwMDAwMDE3MDkwNDZkYmE1MTZkMjMwNmI3N2I4OTI3YjUyYzJj",
+  "snapshot_id": "MTY3MTA2MjUzNSwwMDAwMDAwMGUwNGI0OGUzZWI3YzFkYTFlMmNjMjJmYmIyYzI3ZjQz",
   "tracks": [
     {
       "added_at": "2022-12-15 00:02:15",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Estrellas",
+      "url": "https://open.spotify.com/track/3RJtmjTdfo1Tz1Ys122y5y"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
         "name": "Mvrda Cartel",
         "url": "https://open.spotify.com/album/2nTgaQvTxMsk9DorINL6yy"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 192857,
       "name": "Mvrda Cartel",
       "url": "https://open.spotify.com/track/52gnw9ctHcycIpMREoMMt9"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Estrellas",
-      "url": "https://open.spotify.com/track/3RJtmjTdfo1Tz1Ys122y5y"
     },
     {
       "added_at": "2022-12-15 00:02:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "ENCHULETIAO",
-      "url": "https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
         "name": "Babymama (Remix)",
         "url": "https://open.spotify.com/album/1s00bDiU1JmP4Hpgb7A6Hs"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 444631,
       "name": "Babymama - Remix",
       "url": "https://open.spotify.com/track/1d3mQY9cJeyx0EMxBkXORn"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "ENCHULETIAO",
+      "url": "https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9"
     },
     {
       "added_at": "2022-12-15 00:02:15",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
+        "name": "Envidia",
+        "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
         "name": "Super Gremlin (El Diablo Mix)",
         "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 239939,
       "name": "Super Gremlin - El Diablo Mix",
       "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
-        "name": "Envidia",
-        "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
     },
     {
       "added_at": "2022-12-15 00:02:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
-        "name": "ANTI JUDAS RELOADED",
-        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "SACA Y PON",
-      "url": "https://open.spotify.com/track/3MPpKms5lIjULfNzZlcD32"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
         "name": "Ya Ni Se",
         "url": "https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
+        "name": "ANTI JUDAS RELOADED",
+        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "SACA Y PON",
+      "url": "https://open.spotify.com/track/3MPpKms5lIjULfNzZlcD32"
     },
     {
       "added_at": "2022-12-15 00:02:15",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
+        "name": "Mu\u00e9velo Lento",
+        "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Mu\u00e9velo Lento",
+      "url": "https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
         "name": "7D",
         "url": "https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS"
       },
@@ -1267,26 +1287,6 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
-        "name": "Mu\u00e9velo Lento",
-        "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Mu\u00e9velo Lento",
-      "url": "https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
         "name": "C4 x 73",
         "url": "https://open.spotify.com/album/78Xx2eT7AsNkxq4qoOXhrW"
       },
@@ -1355,6 +1371,22 @@
       "duration_ms": 164404,
       "name": "C4 x 73",
       "url": "https://open.spotify.com/track/40j4VmZ1eOCAPyWq4UXYmK"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
+        "name": "El Fucking MVP",
+        "url": "https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "El Fucking MVP",
+      "url": "https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub"
     },
     {
       "added_at": "2022-12-15 00:02:15",
@@ -1415,22 +1447,6 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
-        "name": "El Fucking MVP",
-        "url": "https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "El Fucking MVP",
-      "url": "https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
         "name": "La Mini",
         "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
       },
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
-        "name": "En La M\u00eda",
-        "url": "https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "En La M\u00eda",
-      "url": "https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
         "name": "Sicaria",
         "url": "https://open.spotify.com/album/6WIFpzg83yUpYDmFGmdAFG"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 259410,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/2h5kMJFJeZghxhPF3TTsrj"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
+        "name": "En La M\u00eda",
+        "url": "https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "En La M\u00eda",
+      "url": "https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5"
     },
     {
       "added_at": "2022-12-15 00:02:15",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2022-12-15 00:02:15",
       "album": {
+        "name": "Dinero en Movimiento",
+        "url": "https://open.spotify.com/album/0V3H8Ny1HOjb8NpKF25fg7"
+      },
+      "artists": [
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 161234,
+      "name": "Dinero En Movimiento",
+      "url": "https://open.spotify.com/track/0rcYXM0d7nsjsU480o0y1M"
+    },
+    {
+      "added_at": "2022-12-15 00:02:15",
+      "album": {
         "name": "Al Dia",
         "url": "https://open.spotify.com/album/5c7ikVWg62OlZWFC4iGOJP"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 315907,
       "name": "Al Dia",
       "url": "https://open.spotify.com/track/4ZX3ui4xclh7h5XXCZMo3p"
-    },
-    {
-      "added_at": "2022-12-15 00:02:15",
-      "album": {
-        "name": "Dinero en Movimiento",
-        "url": "https://open.spotify.com/album/0V3H8Ny1HOjb8NpKF25fg7"
-      },
-      "artists": [
-        {
-          "name": "Lil Geniuz",
-          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 161234,
-      "name": "Dinero En Movimiento",
-      "url": "https://open.spotify.com/track/0rcYXM0d7nsjsU480o0y1M"
     },
     {
       "added_at": "2022-12-15 00:02:15",

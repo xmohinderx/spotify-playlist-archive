@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 167553,
+  "num_followers": 167643,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDAwMzAwMTIxMWRmM2I0YjRkMjNlOGQ3YWM4ZmZkZjlj",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDlhMzhmNjlkYWM0N2QxYzJkNDE5NjFkNTk4NzkyNmNm",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
-      },
-      "artists": [
-        {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
-        }
-      ],
-      "duration_ms": 349520,
-      "name": "Night Cruise",
-      "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "MAINS",
@@ -235,6 +219,22 @@
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
+      },
+      "artists": [
+        {
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+        }
+      ],
+      "duration_ms": 349520,
+      "name": "Night Cruise",
+      "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Septet",
-        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 251643,
-      "name": "P64 By My Side",
-      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Black Market",
@@ -355,6 +339,22 @@
       "duration_ms": 390640,
       "name": "Black Market",
       "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Septet",
+        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 251643,
+      "name": "P64 By My Side",
+      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Face First",
-        "url": "https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf"
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
       },
       "artists": [
         {
-          "name": "Tribal Tech",
-          "url": "https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz"
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
         }
       ],
-      "duration_ms": 424973,
-      "name": "Face First",
-      "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
+      "duration_ms": 185191,
+      "name": "Seventh String",
+      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -553,20 +553,20 @@
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+        "name": "Face First",
+        "url": "https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf"
       },
       "artists": [
         {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+          "name": "Tribal Tech",
+          "url": "https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz"
         }
       ],
-      "duration_ms": 185191,
-      "name": "Seventh String",
-      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
+      "duration_ms": 424973,
+      "name": "Face First",
+      "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Time In Place",
         "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 462373,
       "name": "Chromazone",
       "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
+      },
+      "artists": [
+        {
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
-      },
-      "artists": [
-        {
-          "name": "Steps Ahead",
-          "url": "https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5"
-        }
-      ],
-      "duration_ms": 451440,
-      "name": "Trains",
-      "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
-    },
-    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -783,6 +767,38 @@
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
+      },
+      "artists": [
+        {
+          "name": "Steps Ahead",
+          "url": "https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5"
+        }
+      ],
+      "duration_ms": 451440,
+      "name": "Trains",
+      "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -823,22 +839,6 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -953,26 +953,6 @@
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Common Ground",
-        "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
-        }
-      ],
-      "duration_ms": 406453,
-      "name": "The Little Boxer",
-      "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Blues for Tony",
@@ -999,6 +979,26 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        }
+      ],
+      "duration_ms": 406453,
+      "name": "The Little Boxer",
+      "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
-      "added_at": "2022-02-11 19:09:35",
-      "album": {
-        "name": "The Description Is Not The Described",
-        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Cross",
-          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
-        }
-      ],
-      "duration_ms": 433160,
-      "name": "Goodbye for Now",
-      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Axiom",
@@ -1363,6 +1347,22 @@
       "duration_ms": 653190,
       "name": "Guinnevere",
       "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
+    },
+    {
+      "added_at": "2022-02-11 19:09:35",
+      "album": {
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+        }
+      ],
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
       "added_at": "2021-07-23 04:01:00",

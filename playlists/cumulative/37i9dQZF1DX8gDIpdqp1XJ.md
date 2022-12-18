@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 | 2022-12-13 |
+| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 |  |
 | [4\-U](https://open.spotify.com/track/3rOzx4VaqWIUmeod4k6Nc9) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Talk to Me When I'm Sober](https://open.spotify.com/album/4yKXpjNgwKMszBOUXYEFiv) | 3:45 | 2021-04-02 | 2022-04-21 |
 | [49 Years](https://open.spotify.com/track/0D0qXcu6qTrrVls156VipG) | [Club Kuru](https://open.spotify.com/artist/1AdQnmF6taa106PwtUBK6O) | [49 Years](https://open.spotify.com/album/2iuyzz6hPfbEBJEgikgoi6) | 3:56 | 2021-04-02 | 2022-04-21 |
 | [A Heavy Drug](https://open.spotify.com/track/0ZrT7h8W04PDhxTSBgsdrU) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Whatever & Ever](https://open.spotify.com/album/4EX14bfjBceEPyq5a3LAKI) | 5:26 | 2021-06-04 | 2022-04-18 |
@@ -363,7 +363,7 @@
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-07-11 |  |
 | [Marijuana's A Working Woman](https://open.spotify.com/track/0L1QZonkScY21TdgT6mXNG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Marijuana's A Working Woman](https://open.spotify.com/album/6zdJBz5aVJqMZzgxmkG8PF) | 5:27 | 2022-06-03 | 2022-07-30 |
 | [Marina](https://open.spotify.com/track/5meDgjjmLfSeFnCwezo9zu) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH) | 6:20 | 2022-07-22 | 2022-07-30 |
-| [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 |  |
+| [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 | 2022-12-18 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/4N5JhudHz0Wlj9r3FDpGyi) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Me Myself and Dollar Hell](https://open.spotify.com/album/3vZXuT5lKdbUFKNhXLtN81) | 3:00 | 2021-08-20 | 2022-07-09 |
 | [Meet You in the Dark](https://open.spotify.com/track/5QOmCG8ujCRA7lgDOFJXv6) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Meet You in the Dark](https://open.spotify.com/album/5BqQM6aij8GzQgcNyuOQln) | 2:55 | 2021-04-02 | 2022-07-07 |
 | [Message to Belial](https://open.spotify.com/track/10UowVLIvh4tRKl5fyyxEf) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Message to Belial](https://open.spotify.com/album/5SkWuKri1hKZj18j33maZ3) | 3:15 | 2022-03-08 | 2022-07-02 |

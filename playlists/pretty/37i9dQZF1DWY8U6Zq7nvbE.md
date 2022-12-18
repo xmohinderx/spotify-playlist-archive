@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,072 likes - 160 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,102 likes - 160 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 41 | [Beautiful Scars \- Acoustic](https://open.spotify.com/track/2rrkDFLwVL86ZYtiEnYE3H) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Rainy Day Chill](https://open.spotify.com/album/3vQ94ui6nzPdcN4C1EBOyq) | 2:37 |
 | 42 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
 | 43 | [Looking For Me \- Acoustic](https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking For Me \(Remixes\)](https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE) | 2:43 |
-| 44 | [Stay with me](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:54 |
+| 44 | [Scoop Up](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Scoop Up](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:38 |
 | 45 | [Glimpse of Us](https://open.spotify.com/track/7rhqdS0YOoPXsA4vHXvMPG) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Glimpse of Us](https://open.spotify.com/album/66yLm40MPtwijtTVfjIRv0) | 3:52 |
 | 46 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 |
 | 47 | [Light Switch \- Acoustic](https://open.spotify.com/track/7ul00JABAebIdiCvJlqsNh) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Fresh Acoustic](https://open.spotify.com/album/6qQCPP6vbF7hNZGdFM7goh) | 3:06 |
 | 48 | [Unholy](https://open.spotify.com/track/4Fe8z8q0PSm7DG0U1c5WUS) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Unholy](https://open.spotify.com/album/6oR5MgyHFD1EjfVBo3XzMj) | 2:55 |
 | 49 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 |
-| 50 | [Take me to church \- Acoustic](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Take Me To Church \(Acoustic\)](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 3:51 |
+| 50 | [Pour toi](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Pour toi](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 2:11 |
 | 51 | [Demons \- Acoustic](https://open.spotify.com/track/3TAr9I2A2kwQt9iCi1iRFN) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Demons \- Acoustic Cover](https://open.spotify.com/album/6mcNDNhARQFWyHzRG9Yz8K) | 3:04 |
 | 52 | [Fool Again](https://open.spotify.com/track/5ejNnWN2s5skuYYNfthVHT) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Fool Again](https://open.spotify.com/album/15l7FFHuKlgQuvYCzsGf4e) | 2:51 |
 | 53 | [Hang with Me \(Acoustic\)](https://open.spotify.com/track/0E9tvw1y0ljz0N4SFDT8R3) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Hang with Me \(Acoustic\)](https://open.spotify.com/album/7iOJTKZWjgHxUzGVsxAzbn) | 3:04 |

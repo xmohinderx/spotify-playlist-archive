@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,657 likes - 149 songs - 7 hr 5 min
+[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,656 likes - 149 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

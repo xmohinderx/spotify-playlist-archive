@@ -1,15 +1,15 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: Pardyalone",
-  "num_followers": 1385832,
+  "num_followers": 1386604,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDAwMCwwMDAwMDAwMGQ0M2MwZGJhYTRkZGVlYzM5ZjEzZGRiZTY4ZDQ0MGFh",
+  "snapshot_id": "MTY3MTIxMDAwMCwwMDAwMDAwMDhiMThlNjhiMDQ0ZjFjMDBiZGY5ZDAxMjg1OTIxNDUy",
   "tracks": [
     {
-      "added_at": "2022-12-17 01:10:49",
+      "added_at": "2022-12-18 00:39:16",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
     },
     {
-      "added_at": "2022-12-17 01:10:49",
+      "added_at": "2022-12-18 00:39:16",
       "album": {
         "name": "whts rght",
         "url": "https://open.spotify.com/album/32T7pErbR0Oj2lkOcgitah"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
-      "added_at": "2022-12-17 01:10:49",
+      "added_at": "2022-12-18 00:39:16",
       "album": {
         "name": "Devil In The Flesh",
         "url": "https://open.spotify.com/album/6iauzkIdWagMTjJjdbVBfk"
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "TOTAL XANARCHY",
+        "url": "https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H"
+      },
+      "artists": [
+        {
+          "name": "Lil Xan",
+          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Betrayed",
+      "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "TOTAL XANARCHY",
-        "url": "https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H"
-      },
-      "artists": [
-        {
-          "name": "Lil Xan",
-          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Betrayed",
-      "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -803,22 +803,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Can't Love Myself",
-        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
       },
       "artists": [
         {
-          "name": "Monty Datta",
-          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
         }
       ],
-      "duration_ms": 122723,
-      "name": "Can't Love Myself",
-      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
+      "duration_ms": 87408,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -843,18 +839,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "dream girl",
-        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
+        "name": "Can't Love Myself",
+        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
       },
       "artists": [
         {
-          "name": "8percent",
-          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
         }
       ],
-      "duration_ms": 87408,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+      "duration_ms": 122723,
+      "name": "Can't Love Myself",
+      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 134608,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -971,6 +971,22 @@
       "duration_ms": 168308,
       "name": "Never Be Alright",
       "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 199436,
       "name": "6 Kiss",
       "url": "https://open.spotify.com/track/7tgjDlQsMR8RvkdlNCJA58"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
-        }
-      ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1289,24 +1289,20 @@
       "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
-      "added_at": "2022-10-28 16:05:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
       },
       "artists": [
         {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
+      "duration_ms": 163260,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1325,20 +1321,24 @@
       "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2022-10-28 16:05:00",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 163260,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV"
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "The OC Season 3",
-        "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
-      },
-      "artists": [
-        {
-          "name": "Cold Hart",
-          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
-        },
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 209583,
-      "name": "Dying",
-      "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 160624,
       "name": "jaded",
       "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "The OC Season 3",
+        "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
+      },
+      "artists": [
+        {
+          "name": "Cold Hart",
+          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
+        },
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 209583,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Outta Time",
+        "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
+      },
+      "artists": [
+        {
+          "name": "KillBunk",
+          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
+        },
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Outta Time",
+      "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
       },
@@ -1571,6 +1591,22 @@
       "duration_ms": 177866,
       "name": "BLUE MOON (feat. Teddi Jones)",
       "url": "https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "LONEWOLF",
+        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
+      },
+      "artists": [
+        {
+          "name": "convolk",
+          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
+        }
+      ],
+      "duration_ms": 159149,
+      "name": "I fucked up",
+      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1599,42 +1635,6 @@
       "duration_ms": 177058,
       "name": "PILL BREAKER (feat. blackbear & Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/7jjnn6K7p5MgOFuqLypAcM"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Outta Time",
-        "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
-      },
-      "artists": [
-        {
-          "name": "KillBunk",
-          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
-        },
-        {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Outta Time",
-      "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "LONEWOLF",
-        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
-      },
-      "artists": [
-        {
-          "name": "convolk",
-          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
-        }
-      ],
-      "duration_ms": 159149,
-      "name": "I fucked up",
-      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1709,22 +1709,6 @@
       "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Go Wild",
-        "url": "https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc"
-      },
-      "artists": [
-        {
-          "name": "Drex Carter",
-          "url": "https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc"
-        }
-      ],
-      "duration_ms": 160090,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "DIE BOUT IT",
@@ -1739,6 +1723,22 @@
       "duration_ms": 124734,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/103xWcm9VB6V2tbfPvh8qq"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc"
+      },
+      "artists": [
+        {
+          "name": "Drex Carter",
+          "url": "https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc"
+        }
+      ],
+      "duration_ms": 160090,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
       "added_at": "2022-10-07 04:18:00",

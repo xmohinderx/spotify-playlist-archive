@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: it's\(이츠\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-524 songs - 1 day 8 hr 4 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+525 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Balance](https://open.spotify.com/track/03uTYVaTJWVvxYcnysHrtr) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Balance](https://open.spotify.com/album/1jh1crUoD4vl5c0KangkX4) | 3:03 | 2022-03-31 | 2022-04-21 |
 | [BBI\-YO](https://open.spotify.com/track/0BiompCTb9kPFJBHvnbIBH) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [BBI\-YO](https://open.spotify.com/album/2D44Gpm4wCcwR1YLDSDxtR) | 3:37 | 2022-06-09 | 2022-06-19 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-14 |  |
+| [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 | 2022-12-13 |  |
 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/4zoiPeH0WyFLqStxsHtUHT) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 2:38 | 2022-03-31 | 2022-04-18 |
 | [Beautiful as you are](https://open.spotify.com/track/1BfVGRvaVIkDXnwUFBtMxC) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Beautiful as you are](https://open.spotify.com/album/0rOTNm3Zm9VLzNE5DWIskJ) | 4:09 | 2022-03-31 | 2022-07-10 |
 | [Beautiful Life \- 2018 Ver.](https://open.spotify.com/track/52XdqMNLboEKlWpC14aCTu) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Little Heroes](https://open.spotify.com/album/2TPWeGjtfpcLJnMIOZG93x) | 5:01 | 2022-03-31 | 2022-04-20 |
@@ -71,7 +72,7 @@
 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 | 2022-06-18 | 2022-07-15 |
 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 | 2021-12-21 | 2022-07-27 |
 | [BUTTERFLY](https://open.spotify.com/track/2XA9T2vdhFBAVw1VxZ7DcK) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BUTTERFLY](https://open.spotify.com/album/6zBNYykxlqDalGHwz0pWLQ) | 3:08 | 2022-03-31 | 2022-04-09 |
-| [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 |  |
+| [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2022-12-18 |
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
 | [Cherry](https://open.spotify.com/track/5rQc2ZxLeXRcmusUrHDcVI) | [YOONCELL](https://open.spotify.com/artist/1JvaT2Ln0KyD2BH7apsQIT) | [Cherry](https://open.spotify.com/album/3SHy98pHEZyPAgfOEFRVIn) | 3:45 | 2021-12-21 | 2022-05-10 |
 | [CHERRY SHINE](https://open.spotify.com/track/2uMo1Dc6v2GVD75DjW3hyL) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [CHERRY SHINE](https://open.spotify.com/album/45ezUc1pJt4pFfT0nTNKG8) | 3:06 | 2022-03-21 | 2022-06-06 |

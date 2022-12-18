@@ -4,7 +4,7 @@
 
 > Accra's nightlife MC Kojo Manuel delivers the songs that keep Accra detty!
 
-193 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
+194 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Soundgasm](https://open.spotify.com/track/3FNj8xmImiSh0oEMBzSDL7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5cxI5fdlh6VrZjNuNXHn5Y) | 3:24 | 2022-01-07 | 2022-07-29 |
 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 | 2021-12-13 | 2022-01-08 |
 | [Soundgasm](https://open.spotify.com/track/6hp9eoQBAcjMVrbLCfsVab) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:24 | 2022-01-09 | 2022-11-14 |
-| [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-11-28 |  |
+| [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 | 2022-12-13 |  |
+| [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-11-28 | 2022-12-18 |
 | [SPUNK](https://open.spotify.com/track/6CY2Bg6y16n0OZ3NBdEqFY) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [MWWU](https://open.spotify.com/album/0NBaKfplyaTuveWlC1oB0z) | 3:44 | 2022-11-30 |  |
 | [Squeeze & Buss](https://open.spotify.com/track/18Fv8uvzBFfJOqBr0YizpO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Squeeze & Buss](https://open.spotify.com/album/5BlBrwpX4pyvZyUS1r8fUA) | 3:21 | 2021-12-31 | 2022-01-08 |
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-11-30 |  |

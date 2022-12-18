@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 53623,
+  "num_followers": 53701,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0NjUwNywwMDAwMDAwMDAzM2Q1Njg1ZjBiNjY3ZTNlN2YzNzE3OTYwOTEwZmIz",
+  "snapshot_id": "MTY3MDk0NjUwNywwMDAwMDAwMDMwYmNkOWE1YmMyNjdlMmY2MDBkNjAzNjY5MzNhZGUy",
   "tracks": [
     {
       "added_at": "2022-12-13 15:48:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-13 15:48:27",
       "album": {
-        "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/06G3jp8JrZdGeJqMKIAfiP"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u690e\u30e2\u30a4\u30df",
-          "url": "https://open.spotify.com/artist/09bfsJNaKxdLPpxiX1kfwZ"
-        }
-      ],
-      "duration_ms": 117055,
-      "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1YIr7kCHsECRkVclYvFRUY"
-    },
-    {
-      "added_at": "2022-12-13 15:48:27",
-      "album": {
         "name": "Shadow Shadow",
         "url": "https://open.spotify.com/album/0czcM9b8vvv9vGIoftmnMq"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 141777,
       "name": "Shadow Shadow",
       "url": "https://open.spotify.com/track/3kKrLW9Fi7FdPi5oeLER7U"
+    },
+    {
+      "added_at": "2022-12-13 15:48:27",
+      "album": {
+        "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/06G3jp8JrZdGeJqMKIAfiP"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u690e\u30e2\u30a4\u30df",
+          "url": "https://open.spotify.com/artist/09bfsJNaKxdLPpxiX1kfwZ"
+        }
+      ],
+      "duration_ms": 117055,
+      "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1YIr7kCHsECRkVclYvFRUY"
     },
     {
       "added_at": "2022-12-13 15:48:27",

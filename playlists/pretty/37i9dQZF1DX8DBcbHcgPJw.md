@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: El Polaco & La China.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,732 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,969 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 45 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 |
 | 46 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 |
 | 47 | [La Culpa](https://open.spotify.com/track/69QDHp3lfuEWNcYIuprlAO) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [La Culpa](https://open.spotify.com/album/7zQeYJNgusijQWXwYQD6mZ) | 2:19 |
-| 48 | [Piel a Piel](https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Piel a Piel](https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ) | 2:35 |
-| 49 | [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 |
+| 48 | [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 |
+| 49 | [Piel a Piel](https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Piel a Piel](https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ) | 2:35 |
 | 50 | [De los Besos Que Te Di](https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [De los Besos Que Te Di](https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws) | 3:06 |
 | 51 | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 |
 | 52 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 87 | [Hawai](https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Hawai](https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw) | 3:12 |
 | 88 | [Pegadito](https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Pegadito](https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt) | 2:45 |
 | 89 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 |
-| 90 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
-| 91 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 |
+| 90 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 |
+| 91 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
 | 92 | [Se Pone Loca](https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Eso Canto para Bailar](https://open.spotify.com/album/1q5McGPHaKrkksCbFYFzdA) | 3:21 |
 | 93 | [Gracias a Vos](https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Gracias a Vos](https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr) | 2:09 |
 | 94 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
 | 100 | [Get Lucky](https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 2:56 |
 
-Snapshot ID: `MTY3MTE1OTYwMCwwMDAwMDAwMDMzMTY2ZWRiZDhlYmM5ZDJhYjU1YTBjYTYzY2U1Mjg2`
+Snapshot ID: `MTY3MTE1OTYwMCwwMDAwMDAwMDY1N2Q4NWFjZDBkMDAyZWQ2OGQ1NDFkMDYwNjhlODBj`

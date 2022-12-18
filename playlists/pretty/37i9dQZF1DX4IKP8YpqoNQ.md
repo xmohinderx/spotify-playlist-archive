@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,008 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,028 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 33 | [A Woman's Worth \(Live\) \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 3:30 |
 | 34 | [Bring It on Home to Me \- Live at the Harlem Square Club, Miami, FL \- January 1963](https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [One Night Stand \- Sam Cooke Live At The Harlem Square Club, 1963](https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm) | 5:26 |
 | 35 | [On & On \- Live](https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 5:30 |
-| 36 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:44 |
-| 37 | [Heart Of The City \(Ain't No Love\) \- Live On MTV Unplugged / 2001](https://open.spotify.com/track/4xyPqgnOnH076SJEW2QUwF) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Jay\-Z Unplugged \(Live On MTV Unplugged / 2001\)](https://open.spotify.com/album/7ctCScnWG0nMedlfUiauOk) | 4:05 |
+| 36 | [Heart Of The City \(Ain't No Love\) \- Live On MTV Unplugged / 2001](https://open.spotify.com/track/4xyPqgnOnH076SJEW2QUwF) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Jay\-Z Unplugged \(Live On MTV Unplugged / 2001\)](https://open.spotify.com/album/7ctCScnWG0nMedlfUiauOk) | 4:05 |
+| 37 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:44 |
 | 38 | [The Sweetest Taboo \- Live](https://open.spotify.com/track/7iQv3X7TtjxJ5K6vw8Jwu1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Live](https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF) | 6:01 |
 | 39 | [Blackbird \(Live\)](https://open.spotify.com/track/2XTIXLumlviDE2eP0SpxEj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Recording Oasis](https://open.spotify.com/album/2wT5rThNPLGqxKGyKUjvjK) | 6:55 |
 | 40 | [Apple Tree](https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 4:04 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 70 | [Hey Laura \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 3:40 |
 | 71 | [Black Man In A White World \- Live From Spotify London](https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Spotify Sessions](https://open.spotify.com/album/1izqfeako1qgYLviORVoDT) | 7:49 |
 | 72 | [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \(Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006\)](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 |
-| 73 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
-| 74 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 |
+| 73 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 |
+| 74 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
 | 75 | [Lady \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 8:59 |
 | 76 | [I Keep Forgettin' \- Live](https://open.spotify.com/track/3lLdweMPFav5srRwselDyG) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Live on Soundstage](https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE) | 4:33 |
 | 77 | [Let's Get It On \- Live At The London Palladium/1976](https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live At The London Palladium](https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU) | 6:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 |
 | 100 | [California Dreamin' \- Live In Hollywood / 1968](https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack Live](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 6:06 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGYwMWZjMGFiZDI3OGU2M2U4ZmY4OGUxODQzNjdlMWE1`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDlhMDMyMWEwNjcxYTc1ZjQwYzgyMGQyYzkzODM4YzM0`

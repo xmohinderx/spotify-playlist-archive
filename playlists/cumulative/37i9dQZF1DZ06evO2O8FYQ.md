@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/5PgQ729HGWbu6zIVGiTFuJ)
+51 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/5PgQ729HGWbu6zIVGiTFuJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Gimme Something](https://open.spotify.com/track/3FL68SOwNkA0InUiFOY4GG) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 1:38 | 2022-09-20 | 2022-11-15 |
 | [Grim Valentine](https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:04 | 2022-11-16 |  |
 | [Grim Valentine](https://open.spotify.com/track/0TyyOLzfywqEvrdgkN1f3e) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:04 | 2022-09-16 | 2022-11-17 |
-| [Hanging by a Thread](https://open.spotify.com/track/7B2ZyQ9zyrosGaDcaQ7wLB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 3:34 | 2022-09-16 |  |
+| [Hanging by a Thread](https://open.spotify.com/track/531CCqquFFRIADRMcObVrz) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 3:34 | 2022-12-17 |  |
+| [Hanging by a Thread](https://open.spotify.com/track/7B2ZyQ9zyrosGaDcaQ7wLB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 3:34 | 2022-09-16 | 2022-12-18 |
 | [Heather](https://open.spotify.com/track/2X2WIIVRYQqeOkczFUzP92) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:55 | 2022-11-17 |  |
 | [Heather](https://open.spotify.com/track/3LrARCc1bfCx0IM83mFpmJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 2:55 | 2022-09-16 | 2022-11-18 |
 | [Hey Man \(Home You Ruin\)](https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:20 | 2022-09-16 |  |

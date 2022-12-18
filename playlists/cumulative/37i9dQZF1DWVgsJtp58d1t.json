@@ -23334,6 +23334,24 @@
     },
     {
       "album": {
+        "name": "Sorry Ms Jones",
+        "url": "https://open.spotify.com/album/4gZ663zaevw07OmvZdpILf"
+      },
+      "artists": [
+        {
+          "name": "Idontknowjeffery",
+          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196968,
+      "name": "Sorry Ms Jones",
+      "url": "https://open.spotify.com/track/0hL2Y4GsWyKF5wHkiKsd8U"
+    },
+    {
+      "album": {
         "name": "Sorry Ms. Jones",
         "url": "https://open.spotify.com/album/0HsUiPJpZdMXgtrFp6pXuD"
       },
@@ -23345,7 +23363,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 195840,
       "name": "Sorry Ms. Jones",
       "url": "https://open.spotify.com/track/6DHnnnC9VHdCBCUW42fwUi"
@@ -23670,7 +23688,7 @@
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172422,
+      "duration_ms": 172362,
       "name": "Stadiums",
       "url": "https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX"
     },

@@ -6503,7 +6503,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 224072,
       "name": "Gle\u00f0i og fri\u00f0arj\u00f3l",
       "url": "https://open.spotify.com/track/7znHeSOkpkYNF3FhiHwFta"
@@ -10478,6 +10478,24 @@
     },
     {
       "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
@@ -13393,7 +13411,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 269720,
       "name": "N\u00fa mega j\u00f3lin fara fyrir m\u00e9r",
       "url": "https://open.spotify.com/track/4djxHXYHoWCFkWxU182F4M"
@@ -16583,7 +16601,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 150883,
       "name": "Sofa urtub\u00f6rn",
       "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
@@ -16691,7 +16709,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 133050,
       "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
@@ -17493,7 +17511,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"

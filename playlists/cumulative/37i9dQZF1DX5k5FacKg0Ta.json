@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Corona",
+        "url": "https://open.spotify.com/album/04MAdee5JJQdLMfESDGYbX"
+      },
+      "artists": [
+        {
+          "name": "Aaro Laitinen Quintet",
+          "url": "https://open.spotify.com/artist/38NWfEYiJBllcdL6vE4Wb0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435773,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i"
+    },
+    {
+      "album": {
         "name": "Dead Sea",
         "url": "https://open.spotify.com/album/5kApCMPzvKjtUDRX4Fv7nb"
       },

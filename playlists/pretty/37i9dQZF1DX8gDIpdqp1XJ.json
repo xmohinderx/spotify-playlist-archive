@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 823642,
+  "num_followers": 823929,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NzM0MCwwMDAwMDAwMDkxYmQ0OGZhMzFlYWY4MDUwY2ZiMDI1ZDVlNWY5YzFl",
+  "snapshot_id": "MTY3MTE2NzM0MCwwMDAwMDAwMDQ3ZjczYzdkN2ZlYWE2YWI2MzFiOWFkOTBhMGQ4MTJi",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Apoptosis",
+        "url": "https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 174363,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Keep On Dreamin'",
         "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 201697,
       "name": "Shy",
       "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Apoptosis",
-        "url": "https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 174363,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Savanne",
-        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
-      },
-      "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 224448,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Savanne",
+        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Thanatophobia",
-        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
-      },
-      "artists": [
-        {
-          "name": "Worn-Tin",
-          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
-        }
-      ],
-      "duration_ms": 237741,
-      "name": "Sensitivity",
-      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "The Garden Series",
-        "url": "https://open.spotify.com/album/4CQXdBOTPDyxIfQ7x99bwA"
+        "name": "Thanatophobia",
+        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
       },
       "artists": [
         {
-          "name": "Post Animal",
-          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+          "name": "Worn-Tin",
+          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
         }
       ],
-      "duration_ms": 323200,
-      "name": "When I Get Home",
-      "url": "https://open.spotify.com/track/2rY4NvZAyYJi8Gvcp0pSI6"
+      "duration_ms": 237741,
+      "name": "Sensitivity",
+      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
     },
     {
       "added_at": "2022-12-09 05:09:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 268909,
       "name": "Let It Pass",
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "The Garden Series",
+        "url": "https://open.spotify.com/album/4CQXdBOTPDyxIfQ7x99bwA"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "When I Get Home",
+      "url": "https://open.spotify.com/track/2rY4NvZAyYJi8Gvcp0pSI6"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
+      "added_at": "2022-12-18 01:05:55",
+      "album": {
+        "name": "Dreaming Eyes",
+        "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        }
+      ],
+      "duration_ms": 256992,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/4rQlCooK88oFN819QAduCw"
+    },
+    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Foam",
@@ -1143,22 +1159,6 @@
       "duration_ms": 191630,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/0LLCHT7kYYjKrs4gD5WZPD"
-    },
-    {
-      "added_at": "2022-12-17 00:56:23",
-      "album": {
-        "name": "Dreaming Eyes",
-        "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        }
-      ],
-      "duration_ms": 256992,
-      "name": "In Between",
-      "url": "https://open.spotify.com/track/4rQlCooK88oFN819QAduCw"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "A Song About the Sun",
-        "url": "https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Song About the Sun",
-      "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Emperor Tomato Ketchup (Expanded Edition)",
         "url": "https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 474542,
       "name": "Metronomic Underground",
       "url": "https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "A Song About the Sun",
+        "url": "https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "A Song About the Sun",
+      "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Optical Wealth + Fox in a Hole",
-        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
-      },
-      "artists": [
-        {
-          "name": "Cap'n Marble",
-          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Optical Wealth",
-      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Don't Come Back",
         "url": "https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt"
       },
@@ -1421,20 +1405,20 @@
       "url": "https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj"
     },
     {
-      "added_at": "2022-11-10 18:56:35",
+      "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z"
+        "name": "Optical Wealth + Fox in a Hole",
+        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
       },
       "artists": [
         {
-          "name": "Scrimmage",
-          "url": "https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6"
+          "name": "Cap'n Marble",
+          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
         }
       ],
-      "duration_ms": 138461,
-      "name": "Magma",
-      "url": "https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3"
+      "duration_ms": 181521,
+      "name": "Optical Wealth",
+      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Blacklight Shine",
-        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
-      },
-      "artists": [
-        {
-          "name": "The Mars Volta",
-          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
-        }
-      ],
-      "duration_ms": 175657,
-      "name": "Blacklight Shine",
-      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -1505,20 +1473,36 @@
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2022-11-10 18:56:35",
       "album": {
-        "name": "Going Going Gone",
-        "url": "https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl"
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z"
       },
       "artists": [
         {
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+          "name": "Scrimmage",
+          "url": "https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Dionysian State",
-      "url": "https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B"
+      "duration_ms": 138461,
+      "name": "Magma",
+      "url": "https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Blacklight Shine",
+        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "duration_ms": 175657,
+      "name": "Blacklight Shine",
+      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1535,6 +1519,22 @@
       "duration_ms": 324000,
       "name": "Goggles",
       "url": "https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Going Going Gone",
+        "url": "https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl"
+      },
+      "artists": [
+        {
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Dionysian State",
+      "url": "https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt"
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
       },
       "artists": [
         {
-          "name": "All We Are",
-          "url": "https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 252319,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt"
       },
       "artists": [
         {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+          "name": "All We Are",
+          "url": "https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT"
         }
       ],
-      "duration_ms": 196964,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
+      "duration_ms": 252319,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Aquarium Drunkard's Lagniappe Sessions",
+        "url": "https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        }
+      ],
+      "duration_ms": 271349,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m"
     }
   ],
   "unique_name": "Modern Psychedelia",

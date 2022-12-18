@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6583023,
+  "num_followers": 6584143,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMGE2N2ZiOWFkNzk1MWRiOWY2YjlmMjhmZTcwNmQwMDYy",
+  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMDgxYjcyYzAzYWU5NDE1OTAyYTU1MzFjMzRiNzUxNDY2",
   "tracks": [
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "JUMPSTART",
-        "url": "https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "JUMPSTART",
-      "url": "https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 139435,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "JUMPSTART",
+        "url": "https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "JUMPSTART",
+      "url": "https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "GET GET DOWN",
-        "url": "https://open.spotify.com/album/59ViUAFNUzjSUHeM5Dmg1F"
-      },
-      "artists": [
-        {
-          "name": "CRISPIE",
-          "url": "https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL"
-        },
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "GET GET DOWN",
-      "url": "https://open.spotify.com/track/1lrfnDcU9fm3fEcp6uLtjF"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Jenny From The Block",
         "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
       },
@@ -1687,6 +1667,46 @@
       "duration_ms": 186377,
       "name": "Sugar (feat. Francesco Yates) - Billions Club Remix",
       "url": "https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "GET GET DOWN",
+        "url": "https://open.spotify.com/album/59ViUAFNUzjSUHeM5Dmg1F"
+      },
+      "artists": [
+        {
+          "name": "CRISPIE",
+          "url": "https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "GET GET DOWN",
+      "url": "https://open.spotify.com/track/1lrfnDcU9fm3fEcp6uLtjF"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1751,26 +1771,6 @@
       "duration_ms": 168893,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3P5uUrEfuvGy5i05I9It7M"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2022-12-15 23:00:00",

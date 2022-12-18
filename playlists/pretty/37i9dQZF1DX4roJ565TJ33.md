@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,241 likes - 104 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,250 likes - 104 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/track/5kUOeYFGgy6IcBiA7twicw) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Askanäs Kammarkvartett](https://open.spotify.com/artist/7DUIwGmSZbOvlg7qakClCC), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Ludvig Eriksson](https://open.spotify.com/artist/7Cyxcco8pURt6wdRtAGiT5), [Ludwig Gustavsson](https://open.spotify.com/artist/6QPdFsa3QG0DLEKhfsD42i) | [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/album/50PKsVQcaP239PGPYIpLyv) | 5:22 |
-| 2 | [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 |
+| 2 | [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 |
 | 3 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 |
 | 4 | [Mjuk grupp](https://open.spotify.com/track/1tDApryJcHjivjt5oLQgKm) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Mjuk grupp](https://open.spotify.com/album/0v5eDxQGFJ9qRFRmyQxYnB) | 6:56 |
 | 5 | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 103 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 104 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGUzNTA0ZjFkODlhZDVhYmViZjY1MzcyYWE5YmQ5MGM0`
+Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMDkxYWY1NTg0OWRlNTBkOWNjN2M4OTQ0YjljY2YzM2E1`

@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Get Me Home",
+        "url": "https://open.spotify.com/album/3IG4fRS5ULUtDo3zguUIXS"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Get Me Home",
+      "url": "https://open.spotify.com/track/7dGXVpFugwNnH0GO5W7Fqd"
+    },
+    {
+      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 210093,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/0EosY41ozajeAz7mCMwo1K"

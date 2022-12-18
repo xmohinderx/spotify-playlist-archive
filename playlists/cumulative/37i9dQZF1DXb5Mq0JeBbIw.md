@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-194 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+195 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cursed II](https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG) | [Chachi](https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S) | [Cursed](https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri) | 4:23 | 2022-05-30 | 2022-11-13 |
 | [Cut Me Loose \(feat\. SKAAR\) \- Acoustic](https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:15 | 2022-05-30 | 2022-11-28 |
 | [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/4W69KDBgfp43KZnUR10m1Z) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\) \[Acoustic Version\]](https://open.spotify.com/album/2jpS3BqlA8cHiOuCBy9wmT) | 3:37 | 2022-05-30 | 2022-07-29 |
-| [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 | 2022-06-24 |  |
+| [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 | 2022-06-24 | 2022-12-18 |
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 | 2022-06-24 |  |
 | [Darling This Isn't](https://open.spotify.com/track/6rpTwGaP1NcNVcFIsQivk4) | [Sorry, Peach](https://open.spotify.com/artist/6kDkKl4Yf2uYYzNxx83aTO), [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Darling This Isn't](https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0) | 3:13 | 2022-05-30 | 2022-07-29 |
 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 | 2022-05-30 |  |
@@ -145,6 +145,7 @@
 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 | 2022-06-24 |  |
 | [please](https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-05-30 |  |
 | [Please Keep Loving Me \- Acoustic](https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me \(Acoustic\)](https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX) | 3:17 | 2022-05-30 |  |
+| [Recompose](https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7) | [Kay Nambiar](https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX) | [Ep1](https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI) | 3:24 | 2022-12-02 |  |
 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 2:37 | 2022-05-30 |  |
 | [Rosie](https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sometimes It's Something, Sometimes It's Nothing at All](https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR) | 1:58 | 2022-05-30 |  |
 | [Saint](https://open.spotify.com/track/2yhCKiofDY2KHA8rMrQ5La) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Saint](https://open.spotify.com/album/3wuwMu2GRL3DndY9upxRsK) | 3:32 | 2022-05-30 | 2022-07-29 |

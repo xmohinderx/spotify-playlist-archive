@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,255 songs - 5 day 5 hr 46 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,256 songs - 5 day 5 hr 48 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1083,6 +1083,7 @@
 | [Golden Milk](https://open.spotify.com/track/45YuK4uUIJxlrOUjYL9IyJ) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Golden Milk](https://open.spotify.com/album/1NY4dtqFmerWnLiaS8OWxK) | 2:01 | 2022-09-08 |  |
 | [Golden Route](https://open.spotify.com/track/5sdRMVfel2Bc5pTpkhjsbv) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Golden Route](https://open.spotify.com/album/2rRVx1Ujfr2HwYipoJwO5a) | 1:58 | 2022-04-21 |  |
 | [Golf](https://open.spotify.com/track/4Q0ZofPES3MtMsPS5tiAtm) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Clueless Alchemy](https://open.spotify.com/album/0rfCvbnokYvLxSccXTll9c) | 2:33 | 2022-05-26 | 2022-06-22 |
+| [Gone](https://open.spotify.com/track/2cIhJbKQmwASz7jskATGqy) | [Akari Raheem](https://open.spotify.com/artist/5n3BCICNBvPPPIAEYnfHzn), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu), [F\. Raheem](https://open.spotify.com/artist/7bUNII7c3b3xI14EQWWP9Q), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Gone](https://open.spotify.com/album/5KIVevm18orsdanqyUjxAK) | 1:47 | 2022-12-15 |  |
 | [Gonfa](https://open.spotify.com/track/2MiOFnEyKmEcQsJ3RTl9aL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gonfa // Land of Birds](https://open.spotify.com/album/09Jqw7b6tIszpoBreOsoEK) | 1:43 | 2022-09-08 | 2022-09-23 |
 | [Good Life](https://open.spotify.com/track/5BPKNG6yHbj0Q2W6ksMbbH) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Good Life](https://open.spotify.com/album/14nfJf9nfZN9RcigywyrMI) | 2:20 | 2021-11-19 | 2021-12-11 |
 | [Good Morning](https://open.spotify.com/track/0RVzAEJdh4VsuRIkLqmo7t) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Good Morning](https://open.spotify.com/album/4SCB9uNYIdzpQeicMrtFFy) | 1:05 | 2020-01-17 | 2020-04-24 |
@@ -1499,7 +1500,7 @@
 | [last day here](https://open.spotify.com/track/1U6KgVzn06EUsoiPaaJ2po) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [last day here](https://open.spotify.com/album/3mvmhRvZ0ZKZGoDYg566kq) | 2:22 | 2022-05-12 | 2022-05-27 |
 | [Last Minute](https://open.spotify.com/track/5mnjO1q0D6UCkoRGzUE5Hm) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Last Minute](https://open.spotify.com/album/6g72ROZ3Eh6SX2IGGKA2qF) | 1:17 | 2020-01-26 | 2020-05-01 |
 | [Last Sunrays](https://open.spotify.com/track/56btGVzYBVYnNUE2YBk56L) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Last Sunrays](https://open.spotify.com/album/7JF70Di3sHb9bXpIfvFNnu) | 2:41 | 2022-01-13 | 2022-02-11 |
-| [Last Vacation](https://open.spotify.com/track/4f7MdpLF0XMTv9KsfBzTWR) | [Dolittlebeats](https://open.spotify.com/artist/3fk9GO2x9QE9ZHGmv1TTZz) | [Last Vacation](https://open.spotify.com/album/71NJnR9DvrOSFkXoPnBQQS) | 1:48 | 2022-09-22 |  |
+| [Last Vacation](https://open.spotify.com/track/4f7MdpLF0XMTv9KsfBzTWR) | [Dolittlebeats](https://open.spotify.com/artist/3fk9GO2x9QE9ZHGmv1TTZz) | [Last Vacation](https://open.spotify.com/album/71NJnR9DvrOSFkXoPnBQQS) | 1:48 | 2022-09-22 | 2022-12-18 |
 | [Late Checkout](https://open.spotify.com/track/3J0J198M7pTufTPMPVmVRL) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Late Checkout](https://open.spotify.com/album/73Z9yakHB9ndKjwi8p9tt4) | 2:14 | 2020-12-18 | 2021-03-06 |
 | [Late Night](https://open.spotify.com/track/2gTr8xwLmSvBWpbcYPz0zw) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Late Night](https://open.spotify.com/album/3aWusC713a4rxjxuXuzjrB) | 2:12 | 2020-09-25 | 2021-05-14 |
 | [Late Night Ride](https://open.spotify.com/track/3ZwzKAh0ISiKZ01g6JkXQl) | [The Aether](https://open.spotify.com/artist/6X2vxtl96oIHCQqzAB898T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Late Night Ride](https://open.spotify.com/album/1mxVS0hA3X1wtZsgtIklda) | 3:12 | 2021-05-07 | 2021-11-26 |

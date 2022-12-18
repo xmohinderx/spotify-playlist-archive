@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,568 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,576 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 16 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 |
 | 17 | [IFTK \- Vibe Chemistry Remix](https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [IFTK \(Vibe Chemistry Remix\)](https://open.spotify.com/album/62F2vp2ZSP3o2hbv75MzjQ) | 3:13 |
 | 18 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
-| 19 | [Sundown](https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf) | 4:28 |
+| 19 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 20 | [IMPULSE](https://open.spotify.com/track/1IHvLqS4SGHGoYpSZ4HX1K) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL) | [IMPULSE](https://open.spotify.com/album/1wjLLEUjAhTH7kQShxCazW) | 6:04 |
-| 21 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
+| 21 | [Sundown](https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf) | 4:28 |
 | 22 | [Nerd Starter Pack](https://open.spotify.com/track/4Be86Iyz32bO0CJAjhSQDg) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Nerd Starter Pack](https://open.spotify.com/album/1sgucleIJWW1ei72uWzuZs) | 4:30 |
 | 23 | [Brazil](https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Brazil](https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq) | 3:46 |
 | 24 | [Tekkers Riddim \(feat\. Harry Shotta & Mr Traumatik\)](https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Tekkers Riddim](https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X) | 4:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Come Alive](https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For) | [Deadbeat](https://open.spotify.com/artist/7DoljqvX8N0tjx7hC5ni7e), [Joey Illah](https://open.spotify.com/artist/6LqDmI7IuhPRe83EAdHAMV), [MR.O6OO](https://open.spotify.com/artist/6prEQtEIerqPBVuweTn39q) | [Come Alive](https://open.spotify.com/album/2FB5Jq7SWetNUBmr9w47lM) | 4:16 |
 | 55 | [Hazard](https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z) | [JMullaUK](https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Hazard](https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8) | 4:08 |
 
-Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMDNiYTQ5MGIwNWU1NzU5YTk5N2RlNmM2MzBiMmJkYWQ0`
+Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMGI3NWVmZGU1NzRlNjgxZDhlYzk3NjYwNjdmOTBlZjRj`

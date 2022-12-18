@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 2090,
+  "num_followers": 2206,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMDZlNDEzODJmNjFjNjgwMzBlMGFlMjViN2M5OTQzZjZk",
+  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMDkzODMwNTgxYWFmYjdhZmExYmY4YWQ2NWRkMTEyM2Vm",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -551,30 +551,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Lay Me Down",
-        "url": "https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX"
-      },
-      "artists": [
-        {
-          "name": "Ranji",
-          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
-        },
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem"
-        }
-      ],
-      "duration_ms": 210652,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 185316,
       "name": "Shady Intentions",
       "url": "https://open.spotify.com/track/1dldHTwGWbTXgGmflUQlbC"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Lay Me Down",
+        "url": "https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX"
+      },
+      "artists": [
+        {
+          "name": "Ranji",
+          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
+        },
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem"
+        }
+      ],
+      "duration_ms": 210652,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "PERFECT CHERRY BLOSSOM",
-        "url": "https://open.spotify.com/album/20FG884jVaTdrTHcnkev9d"
-      },
-      "artists": [
-        {
-          "name": "Swan Meat",
-          "url": "https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "PERFECT CHERRY BLOSSOM",
-      "url": "https://open.spotify.com/track/6ZPuQzivx212dWhy688ain"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Once Upon A Time In Cyberworld",
         "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
       },
@@ -979,6 +963,30 @@
       "duration_ms": 225346,
       "name": "Deathstalker",
       "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
     }
   ],
   "unique_name": "dance tracks we smashed our controllers to in 2022",

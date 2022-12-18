@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Kleber Lucas, Caetano Veloso
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,473 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,492 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,16 +68,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 58 | [Segure Minhas Mãos \- Acústico](https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Segure Minhas Mãos \(Acústico\)](https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY) | 7:17 |
 | 59 | [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 |
 | 60 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 |
-| 61 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 |
-| 62 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
+| 61 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
+| 62 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 |
 | 63 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Manu](https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
 | 64 | [Nunca Te Deixarei \- Acústico](https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Nunca Te Deixarei \(Acústico\)](https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55) | 3:21 |
 | 65 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
 | 66 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 |
-| 67 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
-| 68 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
-| 69 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 |
-| 70 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL) | 4:18 |
+| 67 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL) | 4:18 |
+| 68 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
+| 69 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
+| 70 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 |
 | 71 | [Prossiga](https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Prossiga](https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1) | 5:07 |
 | 72 | [Eu Te Agradeço \(Essência Sessions\)](https://open.spotify.com/track/2gMLLBjJgVTWiH4u8X3xVV) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Weslei Santos no Essência Sessions](https://open.spotify.com/album/57c7bRChhj4vPRaeafLnI5) | 5:00 |
 | 73 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Ao Único](https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Ao Único](https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL) | 4:17 |
 | 80 | [Amanheceu](https://open.spotify.com/track/2OFVWDZP3ikovgSWAzD4Dg) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [Elias Inácio](https://open.spotify.com/artist/0m3hCc4WOLzmHaXkBMg2ud) | [Amanheceu](https://open.spotify.com/album/7oJjbZCliayZ7kCBxR7GAe) | 3:58 |
 
-Snapshot ID: `MTY3MDE5ODQwMCwwMDAwMDAwMDk0MDBkMzQ3YTA2YzFkODQwNWJjNmNhNmVhZDI1MTk0`
+Snapshot ID: `MTY3MDE5ODQwMCwwMDAwMDAwMDY3Mzk0ZWZhZTQ5ZGYxZjE4Y2JmNmY0NjgyODA2MWQ3`

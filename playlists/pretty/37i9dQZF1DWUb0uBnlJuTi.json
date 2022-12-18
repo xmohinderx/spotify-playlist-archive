@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 230462,
+  "num_followers": 230729,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGU0YjhjNzE0YjE2MGRmYjBmYzdkYzBmMmQ4OGIxZTM2",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGY0ZTk5YTMwNmQwN2Q1ZTcyZjEyYTYwMzM3MDI2MTU4",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
     },
     {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Tutto Passa",
+        "url": "https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y"
+      },
+      "artists": [
+        {
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Capture This",
+      "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
+    },
+    {
       "added_at": "2021-08-02 13:59:54",
       "album": {
         "name": "Spare Tire",
@@ -635,22 +651,6 @@
       "duration_ms": 168208,
       "name": "Spare Tire",
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Tutto Passa",
-        "url": "https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y"
-      },
-      "artists": [
-        {
-          "name": "Gianni Brezzo",
-          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Capture This",
-      "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -699,6 +699,22 @@
       "duration_ms": 186324,
       "name": "Pizza Pie",
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Comedown",
+        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "duration_ms": 159228,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -769,20 +785,24 @@
       "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
+      "added_at": "2022-07-22 04:02:00",
       "album": {
-        "name": "Comedown",
-        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
       },
       "artists": [
         {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
         }
       ],
-      "duration_ms": 159228,
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -803,26 +823,6 @@
       "duration_ms": 203560,
       "name": "Life Goes On (feat. Sampa the Great)",
       "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
-    },
-    {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
-      },
-      "artists": [
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -901,30 +901,6 @@
       "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Friends Seen and Unseen (2022 Remaster)",
-        "url": "https://open.spotify.com/album/1rkhwQMkBsVhPjrw26Gfrm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "John Ellis",
-          "url": "https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR"
-        },
-        {
-          "name": "Derrek Phillips",
-          "url": "https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x"
-        }
-      ],
-      "duration_ms": 222044,
-      "name": "Running In Fear From Imaginary Assailants",
-      "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "All Kooked out!",
@@ -947,6 +923,30 @@
       "duration_ms": 299800,
       "name": "Blues for Ben",
       "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Friends Seen and Unseen (2022 Remaster)",
+        "url": "https://open.spotify.com/album/1rkhwQMkBsVhPjrw26Gfrm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "John Ellis",
+          "url": "https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR"
+        },
+        {
+          "name": "Derrek Phillips",
+          "url": "https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x"
+        }
+      ],
+      "duration_ms": 222044,
+      "name": "Running In Fear From Imaginary Assailants",
+      "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/1Fs2kqyfm1wnFE83eIAqF7"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2021-12-17 05:02:00",
       "album": {
-        "name": "Outtakes: 'Law of Attraction' Session",
-        "url": "https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo"
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
       },
       "artists": [
         {
-          "name": "Mike Casey",
-          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 120025,
-      "name": "Feel The Bern - Alt Take",
-      "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
+      "duration_ms": 290080,
+      "name": "Pull Your Pants Up",
+      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
     },
     {
-      "added_at": "2021-12-17 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Pull Your Pants Up",
-      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Be on the Lookout",
@@ -1079,6 +1063,22 @@
       "duration_ms": 193516,
       "name": "Be on the Lookout",
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Outtakes: 'Law of Attraction' Session",
+        "url": "https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "duration_ms": 120025,
+      "name": "Feel The Bern - Alt Take",
+      "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
     },
     {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Mutual Attraction Vol. 2",
+        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        }
+      ],
+      "duration_ms": 193598,
+      "name": "Presente Grego",
+      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Third Wave Mischief",
@@ -1153,22 +1169,6 @@
       "url": "https://open.spotify.com/track/5VX9c8VyCxUsSHILhUQSe5"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Mutual Attraction Vol. 2",
-        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
-      },
-      "artists": [
-        {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        }
-      ],
-      "duration_ms": 193598,
-      "name": "Presente Grego",
-      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Dig My Feeling",
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Looking Back / Paint It Black",
-        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+        "name": "Music Ruined My Life",
+        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
       },
       "artists": [
         {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
         }
       ],
-      "duration_ms": 221247,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
+      "duration_ms": 205829,
+      "name": "The Necessary Change",
+      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "The Swedish Songbook",
@@ -1231,22 +1247,6 @@
       "duration_ms": 278200,
       "name": "Limu, Limu, Lima",
       "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Music Ruined My Life",
-        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 205829,
-      "name": "The Necessary Change",
-      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Touchy (Tiny Room Sessions)",
@@ -1483,6 +1467,22 @@
       "duration_ms": 250451,
       "name": "Touchy - Tiny Room Sessions",
       "url": "https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     }
   ],
   "unique_name": "Jazz-Funk",

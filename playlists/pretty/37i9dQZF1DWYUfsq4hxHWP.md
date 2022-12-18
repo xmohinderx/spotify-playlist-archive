@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > The top tracks from Fresh Finds Country this year\. Cover: Megan Moroney \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,864 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,929 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 |
+| 1 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 |
 | 2 | [Got Married](https://open.spotify.com/track/2rokTN8Gw11ibwE04au8Gs) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Got Married](https://open.spotify.com/album/0YZQYkfuilZqwR5TT7fV4S) | 2:58 |
 | 3 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 |
 | 4 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Between You and Me](https://open.spotify.com/track/4x6k8f6GexZqifaWRtGixW) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Western & Roll](https://open.spotify.com/album/3yYi2yRTDctlJEsSddZ9yv) | 3:47 |
 | 75 | [Comin' from](https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Comin' from](https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0) | 2:58 |
 
-Snapshot ID: `MTY2OTg0NTgyMSwwMDAwMDAwMDAzNDIyMTIzMWJiMGRiOTRmYWYxNmJlMGFiZjYwNTM1`
+Snapshot ID: `MTY2OTg0NTgyMSwwMDAwMDAwMGYxNzI1NGIzZTFmNzQ0YWE2MmIzYzc2MzllYTI0YWMy`

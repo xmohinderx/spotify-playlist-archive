@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,649 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,647 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 26 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
 | 27 | [Too Far](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 |
 | 28 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
-| 29 | [변하지 않아](https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 4:03 |
+| 29 | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [LOTTE DEPARTMENT STORE](https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h) | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO) | 3:29 |
 | 30 | [gucci girl](https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:20 |
-| 31 | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [LOTTE DEPARTMENT STORE](https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h) | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO) | 3:29 |
+| 31 | [변하지 않아](https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 4:03 |
 | 32 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 33 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
 | 34 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 | 50 | [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 |
 
-Snapshot ID: `MTY2Nzk3OTU0NSwwMDAwMDAwMGEyMzYzNmQ0ZjdiMzE0MTA3NjU5ZDlmZWM2OTE4Mjlk`
+Snapshot ID: `MTY2Nzk3OTU0NSwwMDAwMDAwMDNlY2VjNTkzZjdmM2IyMjRhZmQxYTEwZTA0OTRkMmE3`

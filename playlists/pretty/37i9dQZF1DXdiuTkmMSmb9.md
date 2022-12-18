@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Ruger
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,433 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,470 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 45 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 |
 | 46 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
 | 47 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 |
-| 48 | [Be Mine](https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp) | [Bvg Boi Jay](https://open.spotify.com/artist/3kT1Y27lqDx35NbU1jGR5J), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI) | 3:45 |
+| 48 | [Be Mine](https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp) | [Byg Boy Jay](https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI) | 3:45 |
 | 49 | [Where You Been?](https://open.spotify.com/track/4HUMystaJMh6u6Voe2l1eQ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Where You Been?](https://open.spotify.com/album/0BmWKhB9B89Vt12ETbXLmw) | 2:40 |
 | 50 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
 | 51 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 |

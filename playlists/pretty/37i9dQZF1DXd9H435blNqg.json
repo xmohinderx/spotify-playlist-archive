@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 28311,
+  "num_followers": 28410,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGYxZGRjZTkzMzAwZWMwNjg5MmQ4M2U1NTk0ODExYjgx",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGQ3NzhjNmJjMWY2YmNhOGM4NmM5MzcwM2Q0NzlmMDJi",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Ones to Keep Close",
-        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 196843,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Color Where You Are",
         "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 227300,
       "name": "Under the Big Top",
       "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Ones to Keep Close",
+        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 196843,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ"
-      },
-      "artists": [
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
-        }
-      ],
-      "duration_ms": 284210,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Moonshine Blue",
         "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 168752,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ"
+      },
+      "artists": [
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+        }
+      ],
+      "duration_ms": 284210,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u"
     },
     {
       "added_at": "2022-08-31 19:45:43",

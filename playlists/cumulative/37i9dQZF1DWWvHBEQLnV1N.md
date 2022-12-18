@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-121 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
+122 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 | 2021-12-17 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/4Dgp0jxrJdpKrZfVmgxekz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/1AoFsqvJxNkiPnidP4mWhk) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/6Zr8jqdDNrwhZ3knkDLYfA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:26 | 2022-10-28 | 2022-11-13 |
-| [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-17 |  |
+| [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-17 | 2022-12-18 |
+| [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-16 |  |
 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/18J9Wt6fBBFjkQciPsxa3g) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/1kmXMD3SJfTEt4NmrSKRhe) | 2:52 | 2021-12-17 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/0CkxfYH7Q7XMhxYQmsY2r9) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Christmas Rock 2020](https://open.spotify.com/album/5wyjx7FJDmA9puWO2tdHk3) | 2:15 | 2022-10-28 | 2022-11-13 |
 | [Jingle Bell Rock](https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 2:15 | 2021-12-17 |  |

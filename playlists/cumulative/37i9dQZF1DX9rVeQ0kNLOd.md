@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-88 songs - 5 hr 16 min - not published yet
+89 songs - 5 hr 20 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-10-20 |  |
 | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 | 2022-10-20 | 2022-11-30 |
 | [Whales](https://open.spotify.com/track/4kPrGI5LIy7YV4juPMu43r) | [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J), [ayafuya](https://open.spotify.com/artist/42kH3WCXyXz38FvwjvloKN), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [Whales](https://open.spotify.com/album/09J50aZoqtJJ6JhAcgLpqY) | 4:43 | 2022-10-20 | 2022-12-14 |
+| [wish](https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [wish](https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO) | 4:24 | 2022-12-15 |  |
 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 | 2022-10-20 |  |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-10-20 | 2022-10-26 |
 | [あいこ](https://open.spotify.com/track/429C5mffD678cT8sUm2BZm) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [あいこ](https://open.spotify.com/album/6Cg2eW5eFytybKykpaZtjH) | 3:27 | 2022-11-08 | 2022-11-30 |
@@ -78,7 +79,7 @@
 | [ただで太った人生](https://open.spotify.com/track/3lYf2H0Vc0wQGj4OBhIRu5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 2:42 | 2022-11-30 | 2022-12-01 |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 |  |
 | [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 | 2022-11-25 |
-| [アーモンド \- feat\. りりあ。](https://open.spotify.com/track/5j3gYRcISt5cbd6VFLBXOv) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [アーモンド \(feat\. りりあ。\)](https://open.spotify.com/album/2TkMaI5NbwgnwodW7L4hgQ) | 4:33 | 2022-12-13 |  |
+| [アーモンド \- feat\. りりあ。](https://open.spotify.com/track/5j3gYRcISt5cbd6VFLBXOv) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [アーモンド \(feat\. りりあ。\)](https://open.spotify.com/album/2TkMaI5NbwgnwodW7L4hgQ) | 4:33 | 2022-12-13 | 2022-12-18 |
 | [イタズラなKiss](https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [イタズラなKiss](https://open.spotify.com/album/5zHx02UPVQDtT6BEj1JZCr) | 3:05 | 2022-10-25 | 2022-12-03 |
 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 | 2022-10-20 |  |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 76033,
+  "num_followers": 76104,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA3ODc2MiwwMDAwMDAwMGYzNDdkMDJhMzQwM2Q1YzE3MWE0MWU3NmM3MzMxNGY2",
+  "snapshot_id": "MTY3MTA3ODc2MiwwMDAwMDAwMGE1NjNhMDIzZTMzMmVlOThmZWUwMTU1YzNhMDc1ZjUy",
   "tracks": [
     {
       "added_at": "2022-12-07 02:48:03",
@@ -629,6 +629,26 @@
       "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
     },
     {
+      "added_at": "2022-12-18 00:46:49",
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
       "added_at": "2022-12-07 02:48:03",
       "album": {
         "name": "Like a Diamond",
@@ -707,6 +727,22 @@
     {
       "added_at": "2022-12-07 02:48:03",
       "album": {
+        "name": "D-day",
+        "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 181653,
+      "name": "When The Rain Stops",
+      "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
+    },
+    {
+      "added_at": "2022-12-07 02:48:03",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
@@ -727,22 +763,6 @@
     {
       "added_at": "2022-12-07 02:48:03",
       "album": {
-        "name": "D-day",
-        "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 181653,
-      "name": "When The Rain Stops",
-      "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
-    },
-    {
-      "added_at": "2022-12-07 02:48:03",
-      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 198000,
       "name": "Blue Candle",
       "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
-    },
-    {
-      "added_at": "2022-12-07 02:48:03",
-      "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 212627,
-      "name": "Abandoned Dog",
-      "url": "https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp"
     },
     {
       "added_at": "2022-12-07 02:48:03",
@@ -791,6 +795,22 @@
     {
       "added_at": "2022-12-07 02:48:03",
       "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 212627,
+      "name": "Abandoned Dog",
+      "url": "https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp"
+    },
+    {
+      "added_at": "2022-12-07 02:48:03",
+      "album": {
         "name": "Starlight No More",
         "url": "https://open.spotify.com/album/060gcufgjRhF72v78nCDI7"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 197670,
       "name": "Starlight No More",
       "url": "https://open.spotify.com/track/0CSfu5jtIJAoSMn1Y6ktL3"
-    },
-    {
-      "added_at": "2022-12-17 00:32:16",
-      "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2022-12-07 02:48:03",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-12-07 02:48:03",
       "album": {
+        "name": "Sinking Islands",
+        "url": "https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED"
+      },
+      "artists": [
+        {
+          "name": "Sinso",
+          "url": "https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Sinking Islands",
+      "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
+    },
+    {
+      "added_at": "2022-12-07 02:48:03",
+      "album": {
         "name": "Mondegreen",
         "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 199186,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
-    },
-    {
-      "added_at": "2022-12-07 02:48:03",
-      "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "Eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

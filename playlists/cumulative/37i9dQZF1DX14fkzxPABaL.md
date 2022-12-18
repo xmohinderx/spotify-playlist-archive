@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Pablo Alborán & Maria Becerra
+> La música que te acompaña en el amor\. Foto: Luciano Pereyra & Pedro Capó
 
-163 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+165 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,13 +79,14 @@
 | [Gracias Por Llegar](https://open.spotify.com/track/6qPSG0TR6gB1VgqGyYSWVl) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Gracias Por Llegar](https://open.spotify.com/album/24PzqVCUv6ZdlTQLIUqIPV) | 3:59 | 2022-10-24 |  |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2022-01-14 |  |
 | [High \(Remix\)](https://open.spotify.com/track/2HpbDdD3JLpAPMJFYCeC6o) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [High \(Remix\)](https://open.spotify.com/album/2zXlWd1wEWDpoAQfBShNwJ) | 4:04 | 2022-01-14 | 2022-02-12 |
+| [Humano](https://open.spotify.com/track/2jt6psRd4oIjVxs76GDZa6) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Humano](https://open.spotify.com/album/4aK99yUBq4s4rSDlOBQy7c) | 3:07 | 2022-12-17 |  |
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2022-01-14 | 2022-04-02 |
 | [Jodidamente \- Unplugged](https://open.spotify.com/track/0GRvMgKBqGZ4hOknpcPd1W) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Sesión Acústica \(Unplugged\)](https://open.spotify.com/album/6UEXqNcZ9kSoOqsDSG7LVJ) | 2:39 | 2022-01-14 |  |
 | [La Boca Junta](https://open.spotify.com/track/0wA3AZzA0gp0wfSS0SpZt5) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Boca Junta](https://open.spotify.com/album/5KiFt9khw9XuwkFCQ6ZTtB) | 3:47 | 2022-01-14 |  |
 | [La Culpa](https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Culpa](https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT) | 3:20 | 2022-10-07 |  |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2022-01-14 |  |
 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 |  |
-| [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-03-11 |  |
+| [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-03-11 | 2022-12-18 |
 | [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 | 2022-01-14 | 2022-10-08 |
 | [Lo Intenté Todo](https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Lo Intenté Todo](https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2) | 3:24 | 2022-01-14 |  |
 | [Lo Que en Ti Veo](https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:26 | 2022-01-14 |  |
@@ -140,6 +141,7 @@
 | [Si Tú No Estás](https://open.spotify.com/track/5jzMrVnmHJsQdXZL8yqy1P) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Si Tú No Estás](https://open.spotify.com/album/5WhncNpMugA9mTEpFwOIZY) | 2:56 | 2022-01-14 |  |
 | [Si Yo Estoy Loco](https://open.spotify.com/track/4IK4EszBJ2wzMuwNGh1YzF) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Si Yo Estoy Loco](https://open.spotify.com/album/26Bn7ZYhbejXkNV32jQLk5) | 3:33 | 2022-01-14 | 2022-07-16 |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2022-01-14 | 2022-04-02 |
+| [Sin Haber Dormido](https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sin Haber Dormido](https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh) | 3:07 | 2022-12-17 |  |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-01-14 |  |
 | [Somos lo Que Fuimos](https://open.spotify.com/track/3ibDGcd0T1w3hWQgyz3upr) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Somos lo Que Fuimos](https://open.spotify.com/album/0exDAUCLHgsfotuIoert13) | 4:24 | 2022-05-20 |  |
 | [Soy capaz](https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:25 | 2022-01-14 | 2022-04-02 |
@@ -170,6 +172,6 @@
 | [Ya No Quiero Verte](https://open.spotify.com/track/5lSbAT0W53MJJxWMIaPwRX) | [Emi D](https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ) | [Ya No Quiero Verte](https://open.spotify.com/album/3ilyCEmGHqHFwMNqNN1RB2) | 3:02 | 2022-03-11 | 2022-11-12 |
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-01-14 |  |
 | [¿Para Qué Quieres Volver?](https://open.spotify.com/track/0DRB4J5qRJ4gNbJAuIEZwZ) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [¿Para Qué Quieres Volver?](https://open.spotify.com/album/1rByHoBuAPQcayS0fYEGul) | 3:07 | 2022-01-14 | 2022-04-02 |
-| [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-01-14 |  |
+| [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-01-14 | 2022-12-18 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

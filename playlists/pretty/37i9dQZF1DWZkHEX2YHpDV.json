@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Against The Current",
-  "num_followers": 440116,
+  "num_followers": 440155,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDMzYTU4NmEwOTYzNjFlODM5OTJhMGM1Yjk3ZTc2MmYy",
+  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDFkMGRhOTk4ODhkMmQ0MTI3Zjc1NjI4Y2E3OGRhZmZj",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
     },
     {
-      "added_at": "2022-12-17 01:07:31",
+      "added_at": "2022-12-18 00:16:10",
       "album": {
         "name": "TELL ME SOMETHING",
         "url": "https://open.spotify.com/album/173wMqOzorgtnFnseokb1W"
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "<COPINGMECHANISM>",
-        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Falling Endlessly",
-      "url": "https://open.spotify.com/track/0LCHO5qNN5fEncfAIcjtAH"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Falling Endlessly",
+      "url": "https://open.spotify.com/track/0LCHO5qNN5fEncfAIcjtAH"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "We Made Plans & God Laughed",
+        "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+        }
+      ],
+      "duration_ms": 188423,
+      "name": "ALMOST FAMOUS",
+      "url": "https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Untitled Vol. 1",
         "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
       },
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "We Made Plans & God Laughed",
-        "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
-      },
-      "artists": [
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        },
-        {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
-        }
-      ],
-      "duration_ms": 188423,
-      "name": "ALMOST FAMOUS",
-      "url": "https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Battle Scars",
         "url": "https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Permanent Rebellion",
-        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 193976,
-      "name": "Permanent Rebellion",
-      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Chemical Warfare",
         "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 166858,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Permanent Rebellion",
+        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 193976,
+      "name": "Permanent Rebellion",
+      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 214922,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4SMRrkuRFwqociFBA2N122"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Plastic Heart",
+        "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 183350,
+      "name": "Plastic Heart",
+      "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "PARANOIA (with FEVER 333 & Point North) [Remix]",
         "url": "https://open.spotify.com/album/4efWmhXUdjNRQ2ZzBQpMyW"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Plastic Heart",
-        "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 183350,
-      "name": "Plastic Heart",
-      "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 183564,
       "name": "Act Like That",
       "url": "https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "CESSATION",
-        "url": "https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "CESSATION",
+        "url": "https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Timebomb (feat. MOD SUN)",
         "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1915,38 +1915,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 222617,
-      "name": "I MISS 2003",
-      "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
@@ -1959,6 +1927,22 @@
       "duration_ms": 217989,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Happiness is an Inside Job",
+        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1979,6 +1963,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 222617,
+      "name": "I MISS 2003",
+      "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Perfectly Imperfect",
         "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
       },
@@ -1991,22 +1991,6 @@
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
       "artists": [
         {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 218552,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2059,6 +2043,22 @@
       "duration_ms": 160000,
       "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
       "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 218552,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Teenagers",
-        "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        },
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Rest In Pieces (feat. Goody Grace)",
         "url": "https://open.spotify.com/album/0ycKAr2DznJKSPN6sl6Ueg"
       },
@@ -2379,6 +2359,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Teenagers",
+        "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "The Water",
         "url": "https://open.spotify.com/album/2GKMTSlnEfOs6EirxGlOwN"
       },
@@ -2391,22 +2391,6 @@
       "duration_ms": 194000,
       "name": "The Water",
       "url": "https://open.spotify.com/track/3QsLgPbGX8Tr5BK3y1c9d4"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 147259,
-      "name": "St. Girlfriend",
-      "url": "https://open.spotify.com/track/5kobpyghUySxs0Rxb3r5e3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2427,6 +2411,22 @@
       "duration_ms": 109857,
       "name": "The Baby Panda",
       "url": "https://open.spotify.com/track/4kRS2jPnDN9f0mDpCnYai5"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 147259,
+      "name": "St. Girlfriend",
+      "url": "https://open.spotify.com/track/5kobpyghUySxs0Rxb3r5e3"
     },
     {
       "added_at": "2022-12-02 05:00:00",

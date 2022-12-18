@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: WEi\(위아이\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,682 likes - 722 songs - 1 day 18 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,831 likes - 722 songs - 1 day 18 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 33 | [Chosun Savage](https://open.spotify.com/track/63mNHnrkWFa6ZqyxdbKJU7) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [Chosun Savage](https://open.spotify.com/album/6EL4tgrELUnKK8IoDQ2o2D) | 3:38 |
 | 34 | [Gift For You](https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Gift For You](https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6) | 3:33 |
 | 35 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 |
-| 36 | [Everyday Christmas \(feat\. TAN\)](https://open.spotify.com/track/7MaYwqjbAqdzvuK1hjMeno) | [CIELOGROOVE](https://open.spotify.com/artist/39Bud6jG9IdSbnZAx9ERUd), [TAN](https://open.spotify.com/artist/1oMfkB4b97eW8GMiCNK6wD) | [CIELOGROOVE 2022 Christmas \[with TAN\]](https://open.spotify.com/album/2et5AoyNVLgPNzcyG4fh2k) | 3:14 |
+| 36 | [Everyday Christmas \(feat\. TAN\)](https://open.spotify.com/track/7MaYwqjbAqdzvuK1hjMeno) | [CIELOGROOVE](https://open.spotify.com/artist/39Bud6jG9IdSbnZAx9ERUd), [TAN](https://open.spotify.com/artist/612p4bnOtCDNtuLI5hYqJ0) | [CIELOGROOVE 2022 Christmas \[with TAN\]](https://open.spotify.com/album/2et5AoyNVLgPNzcyG4fh2k) | 3:14 |
 | 37 | [그날의 그대여](https://open.spotify.com/track/01Phm3foggf3vXgAbQy1ht) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Themselves \(Original Soundtrack\) Chapter\. 2](https://open.spotify.com/album/38pMPeUiYvIIFLnySQoLt6) | 4:13 |
 | 38 | [Welcome to My Christmas \(Feat\. Yunsae, 0back\)](https://open.spotify.com/track/7vNJrzNpyRSTX8AeHv9xzm) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt), [0back](https://open.spotify.com/artist/1InkOzOwqLs08nQX7CBF6D) | [Welcome to My Christmas](https://open.spotify.com/album/0YYV3rQg39O1mcA7UvNFOF) | 3:15 |
 | 39 | [DSP](https://open.spotify.com/track/5scTqiSzRU0NpGSNkeJgiE) | [NINE](https://open.spotify.com/artist/4NgXkFawAZea0X9OQVQh3X) | [DSP](https://open.spotify.com/album/5mz86F594ovb8pRuyIeMrv) | 2:55 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 66 | [RAINBOW](https://open.spotify.com/track/4GHaC3tYh60eBz1oqOUQV3) | [Goyo](https://open.spotify.com/artist/0E6Z3xv7Qc9FKTbeApjSMw) | [Memories: cassette player](https://open.spotify.com/album/2bZZW6s3YxJW8OR6IG8Uqs) | 3:16 |
 | 67 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 |
 | 68 | [Let's break up \(2022\)](https://open.spotify.com/track/3SSX55BjRYW4Qal3wnfR5I) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Let's break up \(2022\)](https://open.spotify.com/album/2OexZPJLBuWflTSkB3d9Dt) | 4:06 |
-| 69 | [hypnosis \(feat\. Terry\)](https://open.spotify.com/track/538eP1hbGEyNAvIkeNAgk6) | [YU YEON WOO](https://open.spotify.com/artist/0zingQRloxUKGFDm0VLi4l), [Whistle](https://open.spotify.com/artist/4git3QqVfXNUA5z1FajHQw), [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [hypnosis](https://open.spotify.com/album/1FFhxeiP78xF5mirfbKFUW) | 3:41 |
+| 69 | [hypnosis \(feat\. Terry\)](https://open.spotify.com/track/538eP1hbGEyNAvIkeNAgk6) | [YU YEON WOO](https://open.spotify.com/artist/0zingQRloxUKGFDm0VLi4l), [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH), [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [hypnosis](https://open.spotify.com/album/1FFhxeiP78xF5mirfbKFUW) | 3:41 |
 | 70 | [Tempo](https://open.spotify.com/track/5Udhj6m82Xky0C03WpW69P) | [Noino](https://open.spotify.com/artist/20FxW9dMUCFieuLonAEqDj) | [Kinda fool](https://open.spotify.com/album/6Jb38a6XC1akktIp3DJleC) | 3:03 |
 | 71 | [Please take on me](https://open.spotify.com/track/3dzXWDMHvWIt5j1iNyYxm0) | [BongGu \(GB9\)](https://open.spotify.com/artist/2hpfwA7tV7CTgMDZKqJwbv) | [Please take on me](https://open.spotify.com/album/59le5xdqY4RfjCeovcUymh) | 4:24 |
 | 72 | [breathless](https://open.spotify.com/track/4WuudTuu7CIaKJFDfj3fdA) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [breathless](https://open.spotify.com/album/2OXz7sUcFYo1gXY8qmV4yh) | 4:05 |

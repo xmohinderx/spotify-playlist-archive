@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 52565,
+  "num_followers": 52619,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMGMwM2EzNTcwOWM1NzI0YzUwZjAyYWUwZjU2OTczYjZh",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDdiMzE1MzUxZjJjNjJmNWYxNjY5NmQxYzQ0MTU3YzMx",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "War In My Mind",
-        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 215911,
-      "name": "Bad Woman Blues",
-      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Two Bugs and a Roach",
@@ -1123,6 +1107,22 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "War In My Mind",
+        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 215911,
+      "name": "Bad Woman Blues",
+      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Baby, Please Come Home (Bonus Version)",
+        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Just a Game",
+      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 240493,
       "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
       "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Baby, Please Come Home (Bonus Version)",
-        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Just a Game",
-      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1601,20 +1601,20 @@
       "url": "https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Chosen Line",
-        "url": "https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn"
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
       "artists": [
         {
-          "name": "Benny Walker",
-          "url": "https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W"
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 230620,
-      "name": "Money and Fools",
-      "url": "https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie"
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1633,20 +1633,20 @@
       "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
+      "added_at": "2021-07-23 04:01:00",
       "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+        "name": "Chosen Line",
+        "url": "https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "Benny Walker",
+          "url": "https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W"
         }
       ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+      "duration_ms": 230620,
+      "name": "Money and Fools",
+      "url": "https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie"
     }
   ],
   "unique_name": "Blues Drive",

@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-463 songs - 1 day 4 hr 37 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+464 songs - 1 day 4 hr 41 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Freedom](https://open.spotify.com/track/4pilBzcDFw8G58jpQp3REK) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R) | [Thimayya & Thimayya](https://open.spotify.com/album/4OB36jYXZhHDxZDEHdmnEZ) | 3:04 | 2022-11-02 |  |
 | [Friendship \(From "Chowka Bara"\)](https://open.spotify.com/track/1M0jN3cIwCvBoaxSwncX7Z) | [Chaitra H\. G.](https://open.spotify.com/artist/5NZ2P8KBgZX2ZjSGU17EOA), [Vyasraj Sosale](https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE), [Ashwin P Kumar](https://open.spotify.com/artist/1VoEj343EcXb4UZ09dkkrG) | [Friendship \(From "Chowka Bara"\)](https://open.spotify.com/album/1kLVAZWvGDXFVHYHDhDeqQ) | 4:32 | 2022-08-08 | 2022-08-25 |
 | [Friendship Song](https://open.spotify.com/track/19EmTS1Zqyxwvc5ywqnFvJ) | [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF) | [Luckyman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4THkDjieEZKUIzVkLC10Co) | 3:27 | 2022-09-22 | 2022-11-23 |
+| [Friendship Song](https://open.spotify.com/track/6rvMdM5oOMynXEwfOpqI7e) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Keerthan Bhandary](https://open.spotify.com/artist/11tWC8HjuxlQblbCWuVATn) | [Vips Last Bench \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79hYal36XPu5A8Qf7xzLHU) | 3:33 | 2022-12-17 |  |
 | [Friendship Song \(From "Padavi Poorva"\)](https://open.spotify.com/track/1oTPrr6g1QzFwcmUmpfy7i) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Friendship Song \(From "Padavi Poorva"\)](https://open.spotify.com/album/3VxLebGKYgPtkAdQWw56zc) | 4:08 | 2022-08-06 | 2022-11-23 |
 | [Friendship Song \- From "Luckyman"](https://open.spotify.com/track/4m1sMGCkpOHTndQJEQ2zVO) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Dhananjay Rajan](https://open.spotify.com/artist/2iJ67BcXWSOW7dPJzeyjXc) | [Friendship Song \(From "Luckyman"\)](https://open.spotify.com/album/5sqwlEycFfkUNu2Poq1OFm) | 3:27 | 2022-09-07 | 2022-11-15 |
 | [Gaalipata 2 Title Track](https://open.spotify.com/track/1VdtmM1lQXGJkpKam0lkRz) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Gaalipata 2](https://open.spotify.com/album/3sNQeUKOMqjLBwkxP0gbe4) | 3:35 | 2022-08-23 |  |

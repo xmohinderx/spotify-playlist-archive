@@ -4994,24 +4994,6 @@
     },
     {
       "album": {
-        "name": "Lykke",
-        "url": "https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H"
-      },
-      "artists": [
-        {
-          "name": "Erna Kristiansen",
-          "url": "https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp"
-        }
-      ],
-      "date_added": "2022-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 110497,
-      "name": "Lykke",
-      "url": "https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR"
-    },
-    {
-      "album": {
         "name": "Main Theme (From Bj\u00f6rnes Magasin)",
         "url": "https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb"
       },
@@ -6899,6 +6881,24 @@
       "duration_ms": 85677,
       "name": "Shoo Fly, Don't Bother Me",
       "url": "https://open.spotify.com/track/3aUC3hwhufBQOUJTH5i0U6"
+    },
+    {
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H"
+      },
+      "artists": [
+        {
+          "name": "Bush Lily",
+          "url": "https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134086,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR"
     },
     {
       "album": {

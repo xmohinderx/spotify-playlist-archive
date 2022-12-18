@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-908 songs - 1 day 23 hr 38 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+909 songs - 1 day 23 hr 41 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [DRØM MIG VÆK](https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [DRØM MIG VÆK](https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA) | 2:43 | 2022-04-02 |  |
 | [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/1Qw3PDRBvbVzWMgi4qfPFD) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Julemusik 2022](https://open.spotify.com/album/1BzZZjo4xeT5HrJm2hiEBx) | 4:18 | 2022-11-29 | 2022-12-04 |
 | [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/3eizF6STI8NRAAoBMDW4mC) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Julekalendersange \- Stjernestøv, Tag Mig Med, Drømte Mig En Lille Drøm m.fl.](https://open.spotify.com/album/736fngzGFBYHVKZNli6Ar7) | 4:18 | 2021-11-23 | 2021-12-27 |
-| [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/3WcK48G0JoYgyasnFbmgZ3) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Absalons Hemmelighed](https://open.spotify.com/album/6NFEeb0NqHmXqXfD1YGfXn) | 4:18 | 2022-11-21 |  |
+| [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/3WcK48G0JoYgyasnFbmgZ3) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Absalons Hemmelighed](https://open.spotify.com/album/6NFEeb0NqHmXqXfD1YGfXn) | 4:18 | 2022-11-21 | 2022-12-18 |
 | [Du & Jeg \(Gobs X Jimilian\)](https://open.spotify.com/track/0AEd8cP7Rf7UmcErWxt1qT) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Du & Jeg \(Gobs X Jimilian\)](https://open.spotify.com/album/6m39vGcZhcKm5OZ2tZom9x) | 2:12 | 2021-08-08 | 2021-11-14 |
 | [Du Gør Det Godt \(feat\. Johnson & HEDEGAARD\)](https://open.spotify.com/track/1DlHOKshj1ITeV7GlI8ciV) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg), [Johnson](https://open.spotify.com/artist/4w1fUgGXRGXhhnTAxjtxfS), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Du Gør Det Godt \(feat\. Johnson & HEDEGAARD\)](https://open.spotify.com/album/1edVaUdn2b9vytHu8LwExV) | 2:35 | 2021-04-11 | 2021-08-08 |
 | [Du Min \(feat\. Benny Jamz & KESI\)](https://open.spotify.com/track/3uTT8etpCbp4qTEdXYBtyj) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 3:22 | 2022-10-15 | 2022-10-19 |
@@ -507,6 +507,7 @@
 | [Leave Your Life](https://open.spotify.com/track/0YbI9lWxUBsCJLb6EBydkr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:43 | 2021-11-02 | 2021-11-05 |
 | [LELELE](https://open.spotify.com/track/5fp40teaKjFmPGX3HvDLXZ) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [ALLO / LELELE](https://open.spotify.com/album/1bvGAsRdgFZkuRbZP7Us7F) | 2:16 | 2022-07-02 | 2022-09-25 |
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-08 | 2022-01-15 |
+| [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-17 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-11-28 |  |
 | [Let Love Be Love](https://open.spotify.com/track/4cEhVWWBqVf1JJOUdNRB4v) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF), [S.O.A.P.](https://open.spotify.com/artist/4tc5xhcuEtiRizloAL4wZI), [Christina](https://open.spotify.com/artist/5huUF1XazRSvkFuuJxMjj4), [Remee](https://open.spotify.com/artist/28vrsWsuA3zulqCB8paIrN) | [Let Love Be Love \(feat\. Remee\)](https://open.spotify.com/album/4Ons46mkiROekosrgZm4SK) | 4:54 | 2021-11-22 |  |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-17 | 2021-10-18 |

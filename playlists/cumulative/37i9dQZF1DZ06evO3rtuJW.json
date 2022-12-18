@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 160718,
       "name": "Him",
       "url": "https://open.spotify.com/track/50XKj7DDE5cFGpV6z90SD9"
@@ -884,6 +884,28 @@
     },
     {
       "album": {
+        "name": "Paraphernalia 2.0 (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5salZxwbYxM9BF54yeI6vf"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145688,
+      "name": "Paraphernalia 2.0 (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5vGKgOsISQNVqAjIRwdry5"
+    },
+    {
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -1039,7 +1061,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 153207,
       "name": "Shaderoom",
       "url": "https://open.spotify.com/track/56VdUlGYjJOeHd4FPZoutA"
@@ -1079,7 +1101,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 138718,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/4XR8LZWfJkrXJOS8zaC5DA"

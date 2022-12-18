@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-239 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
+240 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alright!](https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Alright!](https://open.spotify.com/album/0O6RkM76lLkKaY2HhbdGwO) | 3:04 | 2022-04-21 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/6O5mgpq2xv3ZQGXnL3TNVW) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Angel](https://open.spotify.com/album/41Vwyh4EilNUDh7Nj0Au2S) | 4:24 | 2022-04-12 | 2022-07-29 |
 | [Angel \(feat\. TAEYEON\)](https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Angel](https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs) | 4:24 | 2022-07-22 |  |
-| [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 |  |
+| [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2022-12-18 |
 | [aya](https://open.spotify.com/track/7dHmIDIWQ6HsKNa6iP5jGz) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [independence2](https://open.spotify.com/album/2XzbrNO0ujq2S97HYWoGfp) | 3:41 | 2022-07-04 | 2022-07-23 |
 | [BARABOM \(feat\. Jaehee of MIND U\)](https://open.spotify.com/track/39qmiUuzjdCnn9FGAutekp) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8), [Jaehee](https://open.spotify.com/artist/3x6kdr5qAfzrfPBLj7a9pO) | [BARABOM](https://open.spotify.com/album/7rOrDGrQzK0iY4PdNGcD2i) | 3:16 | 2022-05-11 | 2022-07-11 |
 | [Be\-e\-e\-e](https://open.spotify.com/track/3SReD892lOtkOUL4p8Tu92) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Be\-e\-e\-e](https://open.spotify.com/album/3foqu7kaVnLvLPUNmgbNUS) | 2:20 | 2022-08-18 | 2022-09-06 |
@@ -139,6 +139,7 @@
 | [My Lips Like Warm Coffee](https://open.spotify.com/track/7j59Opz7qhb2aj7cnu7iLr) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [My Lips Like Warm Coffee](https://open.spotify.com/album/1mqQdJZrS7jP4dSfOFMW3z) | 3:34 | 2022-04-12 | 2022-07-29 |
 | [My Violet and My Blue](https://open.spotify.com/track/1WoNUbJc0wZ7NKcwzI5lgg) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE) | [Violet Dreamer](https://open.spotify.com/album/6tTAKG3jF08PPeURW8vwxU) | 3:14 | 2022-04-12 | 2022-07-28 |
 | [Natural \- Korean Version](https://open.spotify.com/track/1mwq0SGUEV4owQf1vVP18V) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-04-12 | 2022-04-21 |
+| [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-12-09 |  |
 | [NO THING](https://open.spotify.com/track/17krGK7sT3GvG3m6DFbq8N) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [sunset blvd.](https://open.spotify.com/album/0n21696TLr3afBcKu4YMmZ) | 3:11 | 2022-04-21 | 2022-07-28 |
 | [NOBODY](https://open.spotify.com/track/0iBh2ZfirDzFDkqrvkvoiW) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/6UKL26DtG6OIrLPgQxhv77) | 3:21 | 2022-04-12 | 2022-07-28 |
 | [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 | 2022-07-22 |  |

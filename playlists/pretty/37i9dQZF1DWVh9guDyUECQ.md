@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,182 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,247 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 93 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 | 94 | [TBT](https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Coron3l](https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg) | [TBT](https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs) | 3:30 |
 | 95 | [Fronteamos Con Amor](https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Fronteamos Con Amor \(Christian Ponce \- Odanis BSK \- Ander Bock\)](https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5) | 3:42 |
-| 96 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
-| 97 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
-| 98 | [Viajes y Hoteles](https://open.spotify.com/track/4bF89S8CFHu4SeYmiiz69E) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Juanfer](https://open.spotify.com/artist/2jKfWzYkH8mLOKJ7SWFeRx) | [Fé](https://open.spotify.com/album/63hREkagC3FZpAAg7m2UeT) | 4:30 |
-| 99 | [Medicina](https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Medicina](https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF) | 3:06 |
-| 100 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
+| 96 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
+| 97 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
+| 98 | [Medicina](https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Medicina](https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF) | 3:06 |
+| 99 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
+| 100 | [Viajes y Hoteles](https://open.spotify.com/track/4bF89S8CFHu4SeYmiiz69E) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Juanfer](https://open.spotify.com/artist/2jKfWzYkH8mLOKJ7SWFeRx) | [Fé](https://open.spotify.com/album/63hREkagC3FZpAAg7m2UeT) | 4:30 |
 
-Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMGZmMzRhOTM5ZGM3MzAyMGFjYTA0ZmFiNzMyMzc0Zjhk`
+Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMDI5NDFjNmExZWQ5NmFmNGMyMzkyNTRiMjZhODlmMzZi`

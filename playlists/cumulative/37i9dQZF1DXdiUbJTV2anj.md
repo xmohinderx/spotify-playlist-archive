@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Cassyette
 
-125 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+126 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,9 +62,10 @@
 | [Ingsoc](https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [A Vision Of The End](https://open.spotify.com/album/1jRJTS1dobAT283CzlHHjh) | 3:14 | 2022-08-19 |  |
 | [It's Art](https://open.spotify.com/track/4dGunaOmjXIIVbcB3c4RW6) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [It's Art](https://open.spotify.com/album/3HB1H5mkWhIVBA4E5PBGgV) | 2:58 | 2022-07-29 | 2022-08-27 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-07-29 | 2022-08-20 |
+| [Lovecraft](https://open.spotify.com/track/2IzU2qbzP4agFgiKOXoBEt) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/4gzx8nvpuFGHpilzCVoAJ8) | 3:43 | 2022-12-16 |  |
 | [Lovecraft](https://open.spotify.com/track/3shdmpsiOHR7sQFW0KfpPx) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/2E2QYu9PesBC7iSgbwrcWk) | 3:43 | 2022-10-21 | 2022-12-02 |
 | [Lovecraft](https://open.spotify.com/track/4qkm2L5ytrdyWZSSTCV8x5) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Lovecraft](https://open.spotify.com/album/7JZIeHDXrDEUOwBBTpOZdC) | 3:43 | 2022-07-29 | 2022-09-23 |
-| [Lovecraft](https://open.spotify.com/track/5XMJ0iPqfYdVSAMZaZu6x3) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/222AtgmkJIArvoRoP5KC8S) | 3:43 | 2022-09-16 |  |
+| [Lovecraft](https://open.spotify.com/track/5XMJ0iPqfYdVSAMZaZu6x3) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/222AtgmkJIArvoRoP5KC8S) | 3:43 | 2022-09-16 | 2022-12-18 |
 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-07-29 | 2022-08-27 |
 | [Lust](https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [Lust](https://open.spotify.com/album/1BVCpyEynUaxaLYtsdOaYt) | 3:41 | 2022-07-29 | 2022-10-01 |
 | [MALIZIA](https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [MALIZIA](https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv) | 2:46 | 2022-07-29 |  |

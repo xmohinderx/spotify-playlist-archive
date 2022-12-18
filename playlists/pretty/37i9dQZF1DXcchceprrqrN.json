@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 14874,
+  "num_followers": 14981,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEzNTUyNCwwMDAwMDAwMDZlNjBiMDAwZTM5YjkwZjdhOGIzN2FjNjJjMzljMDgx",
+  "snapshot_id": "MTY2OTEzNTUyNCwwMDAwMDAwMDhmMTM5NzRjYzExZTY3MWYxOWU3ZTQyZTZkZGNlNTNl",
   "tracks": [
     {
       "added_at": "2022-11-04 04:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-04 04:01:00",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 260355,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
-    },
-    {
-      "added_at": "2022-11-04 04:01:00",
-      "album": {
         "name": "The Frights",
         "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 259239,
       "name": "Crust Bucket",
       "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
+    },
+    {
+      "added_at": "2022-11-04 04:01:00",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 260355,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
     },
     {
       "added_at": "2022-11-04 04:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-11-04 04:01:00",
       "album": {
-        "name": "In Too Deep",
-        "url": "https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 221238,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
-    },
-    {
-      "added_at": "2022-11-04 04:01:00",
-      "album": {
         "name": "Angelhood",
         "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193200,
       "name": "soft-glow",
       "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
+    },
+    {
+      "added_at": "2022-11-04 04:01:00",
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 221238,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
     },
     {
       "added_at": "2022-11-04 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 358089,
+  "num_followers": 358171,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk5OTA2NiwwMDAwMDAwMGE5OGViMWY0MDAyMTBiNTlkMjZhNTQ2Nzg2YTZmMWYx",
+  "snapshot_id": "MTY3MDk5OTA2NiwwMDAwMDAwMGY1ZjliNDY0NzUwYmMyZTI5MTEwOGFhMjliODQyYTkx",
   "tracks": [
     {
       "added_at": "2022-12-14 06:24:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-12-14 06:24:26",
       "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2022-12-14 06:24:26",
-      "album": {
         "name": "Runtuh",
         "url": "https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 223973,
       "name": "Runtuh",
       "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
+    },
+    {
+      "added_at": "2022-12-14 06:24:26",
+      "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     }
   ],
   "unique_name": "Mager Parah",

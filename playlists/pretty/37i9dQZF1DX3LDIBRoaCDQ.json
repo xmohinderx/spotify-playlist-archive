@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1445913,
+  "num_followers": 1446267,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMGRmYzI3ZTc3YTZmOWNlM2I4ODhiODNhNTBhZmRhMjA2",
+  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMGI2NDdhYzNhYmRmMWNlNGYyY2FhY2E5ZGU5Y2FjMzIz",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Add It Up",
-      "url": "https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 163133,
       "name": "I Can't Hardly Stand It",
       "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Add It Up",
+      "url": "https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
+      "duration_ms": 120333,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 120333,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
       "added_at": "2022-11-28 15:26:19",

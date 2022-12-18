@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-216 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+217 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Dejando Libre el Amor](https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:22 | 2022-04-08 | 2022-12-17 |
 | [Despacio \- Bonus Track Migra](https://open.spotify.com/track/4x2HBispFiJkuu5jtIv0Py) | [El Ultimo Viaje](https://open.spotify.com/artist/6fpbLCQo7cLpMV1g397HWL) | [Despacio \(Bonus Track Migra\)](https://open.spotify.com/album/46a0OY25sTGfKXaSxQnOl1) | 6:19 | 2022-04-08 | 2022-07-28 |
 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 | 2022-04-08 | 2022-07-29 |
-| [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 | 2022-04-08 |  |
+| [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 | 2022-04-08 | 2022-12-18 |
 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-04-08 |  |
 | [Digan Lo Que Digan](https://open.spotify.com/track/4bULkLH35pHeVl0NzlVzid) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Digan Lo Que Digan](https://open.spotify.com/album/2zmRkOB16XBx0QNXvlr469) | 2:41 | 2022-04-08 |  |
 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 | 2022-04-08 |  |
@@ -122,6 +122,7 @@
 | [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 | 2022-10-15 |
 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 | 2022-04-08 | 2022-12-17 |
 | [Luna Amarilla](https://open.spotify.com/track/4p3ztBZL2hIwDpaERqjQVB) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Luna Amarilla](https://open.spotify.com/album/6q9cTnFyVu2c0b4XvGolg4) | 2:54 | 2022-04-08 | 2022-07-25 |
+| [Madre Corazón de Átomo](https://open.spotify.com/track/3PSJCQuRCeowzPFRCVePsO) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Kaskivano](https://open.spotify.com/artist/0i36EQVtjFoow9nw3UgYCl) | [Madre Corazón de Átomo](https://open.spotify.com/album/5NIxNiU2TPC2bgjbJSyddE) | 3:52 | 2022-12-16 |  |
 | [Mala Fama](https://open.spotify.com/track/0t0uZpS1A6jXkUilUlVRVp) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Mala Fama](https://open.spotify.com/album/2zuZybH0KHlQ3X2rETX7zN) | 4:08 | 2022-04-08 | 2022-12-17 |
 | [Mala Fama \- En Vivo](https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Ases Falsos En El Coliseo](https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R) | 4:03 | 2022-04-08 |  |
 | [Maldito Traidor](https://open.spotify.com/track/28lutwqPZq9FZbz4jSaBv3) | [Tronic](https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw) | [With Música Is Mejor](https://open.spotify.com/album/0atO4HP9eBMmwkBCxdA9Hi) | 3:34 | 2022-04-08 | 2022-07-28 |
@@ -154,7 +155,7 @@
 | [Parte 2](https://open.spotify.com/track/6jHDDFc8CPGjjo3rsubBwC) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF), [rrropet](https://open.spotify.com/artist/6ak6X5gg1hO5QzlKEmFeUO) | [Parte 2](https://open.spotify.com/album/6SZlCR1OAOrTn2hPY0bdjj) | 3:52 | 2022-04-08 | 2022-07-25 |
 | [Pienso en Ti](https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Pienso en Ti](https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow) | 4:25 | 2022-04-08 | 2022-12-17 |
 | [Policía Loca](https://open.spotify.com/track/5XiCtLCLCv9pycjDaQTug1) | [Radio Veneno](https://open.spotify.com/artist/5iZe17DQj9sY3ME8rXFrfI) | [Policía Loca](https://open.spotify.com/album/090MnaImdhok2B2OXv6gwF) | 3:12 | 2022-04-08 |  |
-| [Post Mortem](https://open.spotify.com/track/55kLNgLK4Jxo5iBApjJVz8) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Post Mortem](https://open.spotify.com/album/2xP895xgdDobkJEasc3jEY) | 4:01 | 2022-04-08 | 2022-07-17 |
+| [Post Mortem](https://open.spotify.com/track/55kLNgLK4Jxo5iBApjJVz8) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Post Mortem](https://open.spotify.com/album/2xP895xgdDobkJEasc3jEY) | 4:01 | 2022-04-08 |  |
 | [Primavera Loka](https://open.spotify.com/track/0upepgbjktdFmTKIrsdxhx) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW), [Matahembra](https://open.spotify.com/artist/3SxWpsYyoAaE1guHbd0lfW) | [Primavera Loka](https://open.spotify.com/album/3PHLBfXv8wlQXh7y3JDWmc) | 5:34 | 2022-04-08 |  |
 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 | 2022-04-08 |  |
 | [Pálida Forma Nocturna](https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q) | [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Pálida Forma Nocturna](https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7) | 3:44 | 2022-04-08 |  |
@@ -217,7 +218,7 @@
 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 | 2022-04-08 |  |
 | [Voy Saliendo](https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Voy Saliendo](https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa) | 3:16 | 2022-04-08 |  |
 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 | 2022-04-08 |  |
-| [Y Es Verdad](https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Y Es Verdad](https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z) | 3:40 | 2022-04-08 |  |
+| [Y Es Verdad](https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Y Es Verdad](https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z) | 3:40 | 2022-04-08 | 2022-12-18 |
 | [Y Si No Quiero?](https://open.spotify.com/track/0WE2xvSSJo89qqtIHm4V7L) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Y Si No Quiero?](https://open.spotify.com/album/1UjEZihN2GjSDvzO57Ub1h) | 3:26 | 2022-04-08 | 2022-07-28 |
 | [Ya No Estamos para Mentiras](https://open.spotify.com/track/28obcE8LjmeZ0Z1De2rK02) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos para Mentiras](https://open.spotify.com/album/6iSH7Ha0Clp1v8cDefpNbn) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Ya No Estamos Para Mentiras](https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos Para Mentiras](https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm) | 3:16 | 2022-07-08 |  |

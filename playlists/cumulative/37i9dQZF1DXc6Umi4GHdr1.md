@@ -4,14 +4,13 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-157 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+157 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Hole In My Jeans](https://open.spotify.com/track/7b6g3CZ4ud4zllVhO9nSMT) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [A Little Hole In My Jeans](https://open.spotify.com/album/3QQLXcFcRaSRmA7WrWB9Wv) | 3:24 | 2022-03-03 | 2022-07-22 |
 | [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-09 |  |
 | [Airstream](https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Airstream](https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16) | 3:44 | 2022-03-03 |  |
-| [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/2ANLxDg2hl6GOU3FAtFYCT) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 | 2022-12-16 |  |
 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 | 2022-05-13 |  |
 | [Andorra](https://open.spotify.com/track/6LoBY8H1V4JMpXTcWO73Db) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Andorra](https://open.spotify.com/album/5Myhfafww3fj0Fb38ycbYx) | 2:23 | 2022-01-11 | 2022-07-29 |
 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 | 2021-12-10 | 2022-04-06 |
@@ -72,6 +71,7 @@
 | [Hesitation Theme and Variation Blues](https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 2:22 | 2021-12-10 |  |
 | [Hidden Treasures](https://open.spotify.com/track/5QMPnfATvvolBDWSvM2hjm) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [A Town on a Hill](https://open.spotify.com/album/6IpmlOnnDB4ilaK8mMZtuV) | 3:17 | 2021-12-10 | 2022-05-27 |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-03 |  |
+| [I Believe It Can Change](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [I Believe It Can Change](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:54 | 2022-12-16 |  |
 | [I Found The Right Bottle Of Wine](https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [I Found The Right Bottle Of Wine](https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB) | 3:20 | 2022-03-03 |  |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-03-03 |  |
 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 | 2021-12-10 | 2022-07-22 |

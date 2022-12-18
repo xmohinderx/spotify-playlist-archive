@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 150157,
+  "num_followers": 150379,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDlmZTZhODgzNzEyZmYyZTQ2MDc3YzM2YjczMWUzMmUy",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMGMwMDRmODBiMWQzYjQyOTA0Nzk2M2RiNWM3NWE4OTRk",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "25 A\u00f1os",
+        "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Donde Estar\u00e1 Mi Primavera",
+      "url": "https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Baila Santa Fe",
         "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 202946,
       "name": "Fuera",
       "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "25 A\u00f1os",
-        "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
-      },
-      "artists": [
-        {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        },
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 261747,
-      "name": "Donde Estar\u00e1 Mi Primavera",
-      "url": "https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "25 A\u00f1os",
+        "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 242501,
+      "name": "A Decirme Qu\u00e9",
+      "url": "https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Le Doy Gracias a la Vida (Y a Todos)",
         "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 235280,
       "name": "Si Me Ves Llorar por Ti",
       "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "25 A\u00f1os",
-        "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
-      },
-      "artists": [
-        {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 242501,
-      "name": "A Decirme Qu\u00e9",
-      "url": "https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
       "artists": [
         {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy (En Vivo)",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -743,18 +743,34 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
       "artists": [
         {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy (En Vivo)",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -771,22 +787,6 @@
       "duration_ms": 188839,
       "name": "Piropo",
       "url": "https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Todo a Su Tiempo (En Vivo)",
         "url": "https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 255465,
       "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
       "url": "https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 201066,
       "name": "Y Que De M\u00ed",
       "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Olvida Tus Penas",
-        "url": "https://open.spotify.com/album/323fnUvQnG6FT26KcRTfMS"
+        "name": "Una Eterna Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
       },
       "artists": [
         {
-          "name": "Grupo Alegria de Santa Fe",
-          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
         }
       ],
-      "duration_ms": 158378,
-      "name": "Olvida Tus Penas",
-      "url": "https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp"
+      "duration_ms": 239595,
+      "name": "Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Una Eterna Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
+        "name": "Olvida Tus Penas",
+        "url": "https://open.spotify.com/album/323fnUvQnG6FT26KcRTfMS"
       },
       "artists": [
         {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+          "name": "Grupo Alegria de Santa Fe",
+          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
         }
       ],
-      "duration_ms": 239595,
-      "name": "Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw"
+      "duration_ms": 158378,
+      "name": "Olvida Tus Penas",
+      "url": "https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp"
     },
     {
       "added_at": "2022-12-16 03:00:00",

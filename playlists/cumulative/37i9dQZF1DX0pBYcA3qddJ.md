@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-205 songs - 12 hr 55 min - not published yet
+206 songs - 13 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A New Base for an Unknown Friend](https://open.spotify.com/track/4tAvSeSV6AnhliDhJR9FoZ) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [A New Base EP](https://open.spotify.com/album/7rWa5b30jHvUxS7HmkaSC5) | 5:13 | 2022-11-22 | 2022-12-02 |
 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-10-20 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-11-24 |  |
+| [ache for](https://open.spotify.com/track/55FOR5Couja7pPTxHKGh84) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ache for](https://open.spotify.com/album/3pit8tQ6VzZ3ZoOxPiX5O0) | 5:28 | 2022-12-15 |  |
 | [Adoration \(Version for Solo Violin and String Orchestra\)](https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [America](https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ) | 3:52 | 2022-10-20 | 2022-12-14 |
 | [After Yang Main Theme \- Solo](https://open.spotify.com/track/7oUSWInt45VpluuZWOsygW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [After Yang Main Theme \(Solo\)](https://open.spotify.com/album/6RZKDe1h0m81vpKaDzkJLf) | 4:21 | 2022-10-20 | 2022-10-28 |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2022-11-24 | 2022-12-16 |
@@ -65,7 +66,7 @@
 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 | 2022-10-20 |  |
 | [G線上のアリア\(Air\)](https://open.spotify.com/track/32aXWDVLpSqOnIEvBftq0Z) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ikuko Kawai](https://open.spotify.com/artist/3Mn8t5WvKxtpW1vjxDjphD) | [The Melody \~100年の音楽\~](https://open.spotify.com/album/6qlcoQ2M33fJ9Y2Y7VW3kY) | 2:27 | 2022-10-20 | 2022-12-02 |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-11-29 |  |
-| [Halfway](https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi) | 3:02 | 2022-11-15 |  |
+| [Halfway](https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi) | 3:02 | 2022-11-15 | 2022-12-18 |
 | [hananoame](https://open.spotify.com/track/0pPlbgLKDPFlGKTbmApQiX) | [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [hananoame](https://open.spotify.com/album/3c2oU0PlWnVe0Eg4IZIb5D) | 4:20 | 2022-12-01 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-11-23 |  |
 | [Hawk](https://open.spotify.com/track/4tmN5DNeqyW1E2CL5nA5iI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Birds 2](https://open.spotify.com/album/5YRGHMPBe6bHwFzcs5sqyA) | 4:39 | 2022-11-01 | 2022-12-02 |

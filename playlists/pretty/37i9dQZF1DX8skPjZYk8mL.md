@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,322 likes - 371 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,517 likes - 371 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 38 | [Best Friends](https://open.spotify.com/track/7JYP1qkUvm7pq3Mb3UxSk3) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [Best Friends](https://open.spotify.com/album/17alm7Ps8Mi7HRhbTzbMOw) | 1:34 |
 | 39 | [This Willow Lullaby](https://open.spotify.com/track/3xM1HE5Uba8Mzo13G7O0Bn) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [This Willow Lullaby](https://open.spotify.com/album/5CcyMoMFcA0LBWePqqMPsf) | 2:14 |
 | 40 | [A Mother's Heart](https://open.spotify.com/track/24D5wWWgW6BoCtJNdpJZzk) | [Susie Helmick](https://open.spotify.com/artist/6Ri49QRsA8vnFUhtUiXipF) | [A Mother's Heart](https://open.spotify.com/album/1ATFQZOKu1iwKfezW8k6Fk) | 1:34 |
-| 41 | [Ponnien min](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Ponnien min](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:14 |
+| 41 | [Sognefjord](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:40 |
 | 42 | [Stars Are Falling](https://open.spotify.com/track/2wBE4R7c32EH49qRewtgr1) | [Finnegan Blakeley](https://open.spotify.com/artist/61uEvRFXik0o0l9Ld3Dw3S) | [Stars Are Falling](https://open.spotify.com/album/7qP2CxuCGvcHB65PFbFTZe) | 0:57 |
 | 43 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 |
 | 44 | [All the Stones](https://open.spotify.com/track/2sLZVCRKmNFUKRIVRIpCzO) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [All the Stones](https://open.spotify.com/album/4qLwaZGx47eBdPxyNnkqsJ) | 1:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 46 | [Arrorró mi niño](https://open.spotify.com/track/2evLEM6b40sSXZ5dILCsQb) | [Joaquin Moreno Silva](https://open.spotify.com/artist/5vSCkD7iPcBU0GgEASL4ss) | [Arrorró mi niño](https://open.spotify.com/album/732cnh2czygqCKQtOrBnzI) | 1:48 |
 | 47 | [Good Night](https://open.spotify.com/track/3tid5OWnyCTKcTJfpTypvp) | [Nash Hershey](https://open.spotify.com/artist/7Jb6ocugSaKblkdgODXbUN) | [Good Night](https://open.spotify.com/album/002aizJ09iALMXmjTneAjv) | 1:10 |
 | 48 | [Takk for i dag](https://open.spotify.com/track/3HER5Z79EqP5jrbAhnpFRm) | [Love Haugen](https://open.spotify.com/artist/4NsGWqS4NvkK8fWRW3d6GL) | [Takk for i dag](https://open.spotify.com/album/2gg0y9rLtLg3JHAHMA2Q1v) | 1:23 |
-| 49 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/3bdPLfE1SWwduU96P5o922) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 |
+| 49 | [I'm A Fool To Want You](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm A Fool To Want You](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 3:58 |
 | 50 | [Byssan Lull](https://open.spotify.com/track/6WmVu5QBY4uO0wvUTGfYjw) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Byssan Lull](https://open.spotify.com/album/2Q9FYlKgK2eNIPqfbuq9pI) | 2:34 |
 | 51 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 |
 | 52 | [Rain On The Roof](https://open.spotify.com/track/4B8RHheYV6ZglY4JN4BBO0) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:17 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 59 | [I'm Good \(Blue\)](https://open.spotify.com/track/3dsyTAFaheGia7mzN23joQ) | [Juanta](https://open.spotify.com/artist/5RfciIB2iDjbsiRisoyhKC) | [I'm Good \(Blue\)](https://open.spotify.com/album/6ZMVjygFYjdXdgmRyRYcFw) | 1:57 |
 | 60 | [Sommerferien min](https://open.spotify.com/track/30dqdGQgNnuOpYxP7uYEGE) | [Dagmar Eriksen](https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8) | [Sommerferien min](https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP) | 1:17 |
 | 61 | [The Path](https://open.spotify.com/track/0aQHD3ja7WN5etAtmpaCde) | [Durward Moon](https://open.spotify.com/artist/7icgsEqWluxq2LfkpHbyFg) | [The Path](https://open.spotify.com/album/32jBuvuiRMjnmJ3L9rbTDt) | 1:45 |
-| 62 | [Lykke](https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR) | [Erna Kristiansen](https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp) | [Lykke](https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H) | 1:50 |
+| 62 | [Signs](https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Signs](https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H) | 2:14 |
 | 63 | [Bug In A Rug](https://open.spotify.com/track/4gSBGniqtgW3gEDEoJjjTH) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Bug In A Rug](https://open.spotify.com/album/4gd2sy1xnO8iuip5WeXeCv) | 1:44 |
 | 64 | [Brevet Från Lillan \- Piano Version](https://open.spotify.com/track/3assP9NaW5ZNAORBULFOn2) | [Philip Underwood](https://open.spotify.com/artist/13sNPmjdlpABLkWPJV2Z0J) | [Brevet Från Lillan](https://open.spotify.com/album/68gTMIX1qtfW4hgmCY4MaQ) | 1:27 |
 | 65 | [ABC](https://open.spotify.com/track/3RtVTy9JuvHffpHK2amf3P) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [ABC](https://open.spotify.com/album/4vWoeS1YYFs4fitgqhrgaE) | 1:53 |

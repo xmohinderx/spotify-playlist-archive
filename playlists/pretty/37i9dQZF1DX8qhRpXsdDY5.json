@@ -1,12 +1,12 @@
 {
   "description": "The perfect Latin tunes to get in the Christmas spirit. Cover: Conexi\u00f3n Divina",
-  "num_followers": 193622,
+  "num_followers": 193888,
   "original_name": "Latin Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk2MDk5NywwMDAwMDAwMDk0ZDRjZmU3NDJmNTg0NDBkZmQzNjM5ZWNjNDRjMjVh",
+  "snapshot_id": "MTY3MDk2MDk5NywwMDAwMDAwMGI2OTQ5NjFiZjRkOGM0ZjZjMjhlYmEzNzllZWMwOTkx",
   "tracks": [
     {
       "added_at": "2022-12-13 19:49:57",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
+        "name": "Parranda All-Stars: Navidad",
+        "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "El Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
         "name": "5 pa las 12",
         "url": "https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 216208,
       "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
       "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Parranda All-Stars: Navidad",
-        "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "El Burrito Sabanero",
-      "url": "https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Por Ti - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
         "name": "Christmas Through Your Eyes",
         "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 300733,
       "name": "Christmas Through Your Eyes",
       "url": "https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Por Ti - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
         "name": "Laura Xmas (Deluxe)",
         "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "30th Anniversary",
-        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 237253,
-      "name": "La Fiesta de Pilito",
-      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -583,6 +567,22 @@
       "duration_ms": 156213,
       "name": "Los Peces En El R\u00edo",
       "url": "https://open.spotify.com/track/5p1pTmxWcGcCXO7czBADDB"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "30th Anniversary",
+        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "La Fiesta de Pilito",
+      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Silent Night (English/Spanish Version)",
-        "url": "https://open.spotify.com/album/0a0S7ADF3QllsUOARlp8AS"
-      },
-      "artists": [
-        {
-          "name": "Kat & Alex",
-          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
-        }
-      ],
-      "duration_ms": 207816,
-      "name": "Silent Night - English/Spanish Version",
-      "url": "https://open.spotify.com/track/17a2eOhGG6DzhfDXsapqK1"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 182120,
       "name": "Dulce Navidad",
       "url": "https://open.spotify.com/track/6WCcLjmWR4GStkBgty303j"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Silent Night (English/Spanish Version)",
+        "url": "https://open.spotify.com/album/0a0S7ADF3QllsUOARlp8AS"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "duration_ms": 207816,
+      "name": "Silent Night - English/Spanish Version",
+      "url": "https://open.spotify.com/track/17a2eOhGG6DzhfDXsapqK1"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -739,6 +739,42 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
+        "name": "Parranda All-Stars: Navidad",
+        "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "No Te Pongas Triste",
+      "url": "https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Baby, It's Cold Outside (Latin Version)",
+        "url": "https://open.spotify.com/album/3DpzzZYeSbKSKx1qoOttVm"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 173615,
+      "name": "Baby, It's Cold Outside - Latin Version",
+      "url": "https://open.spotify.com/track/3W8VMifot8x8b5VUpqOMb7"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -764,22 +800,6 @@
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "No Te Pongas Triste",
-      "url": "https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Parranda All-Stars: Navidad",
-        "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
-      },
-      "artists": [
-        {
           "name": "Prince Royce",
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
@@ -787,26 +807,6 @@
       "duration_ms": 236253,
       "name": "Mi Regalo Favorito",
       "url": "https://open.spotify.com/track/3VwFVdzHS7kEC0XKswiWA9"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Baby, It's Cold Outside (Latin Version)",
-        "url": "https://open.spotify.com/album/3DpzzZYeSbKSKx1qoOttVm"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 173615,
-      "name": "Baby, It's Cold Outside - Latin Version",
-      "url": "https://open.spotify.com/track/3W8VMifot8x8b5VUpqOMb7"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -995,58 +995,6 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Navidad Solita",
-        "url": "https://open.spotify.com/album/1WkS07zK6BjNtnH61SnBNJ"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 162821,
-      "name": "Navidad Solita",
-      "url": "https://open.spotify.com/track/3krg5QfcTguaKT2Hhhkc5j"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Maelo...El \u00danico",
-        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 431880,
-      "name": "Las Caras Lindas",
-      "url": "https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Top Latino Navidad (Remix - Audio)",
-        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 300720,
-      "name": "El Cuerpo Me Pide",
-      "url": "https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
         "name": "\u00a1Feliz Navidad!",
         "url": "https://open.spotify.com/album/2yWBsPObq6idXxXt6MlJqa"
       },
@@ -1087,6 +1035,58 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
+        "name": "Top Latino Navidad (Remix - Audio)",
+        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 300720,
+      "name": "El Cuerpo Me Pide",
+      "url": "https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Maelo...El \u00danico",
+        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 431880,
+      "name": "Las Caras Lindas",
+      "url": "https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Navidad Solita",
+        "url": "https://open.spotify.com/album/1WkS07zK6BjNtnH61SnBNJ"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 162821,
+      "name": "Navidad Solita",
+      "url": "https://open.spotify.com/track/3krg5QfcTguaKT2Hhhkc5j"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
         "name": "Mi Navidad (Remastered)",
         "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 257343,
       "name": "El abeto",
       "url": "https://open.spotify.com/track/4XVomOIxlU6YKcGEaUXul2"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Navidad Latina 2021 (Streaming)",
-        "url": "https://open.spotify.com/album/0szE9YO0h3e4C99oVAx6H1"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Macarena Christmas - Joy Mix",
-      "url": "https://open.spotify.com/track/0tfORpCYcR3aX6K8URKzRI"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
+        "name": "Navidad Latina 2021 (Streaming)",
+        "url": "https://open.spotify.com/album/0szE9YO0h3e4C99oVAx6H1"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Macarena Christmas - Joy Mix",
+      "url": "https://open.spotify.com/track/0tfORpCYcR3aX6K8URKzRI"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 181093,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "un deseo m\u00e1s",
-        "url": "https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "un deseo m\u00e1s",
-      "url": "https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
+        "name": "Behind This Guitar",
+        "url": "https://open.spotify.com/album/5FsRPLn0LijFONLY9HogEH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/364zaCkRaENgzJ9THwg6dD"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "un deseo m\u00e1s",
+        "url": "https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "un deseo m\u00e1s",
+      "url": "https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
         "name": "Noche de Paz",
         "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 221302,
       "name": "Noche de Paz",
       "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 322066,
-      "name": "M\u00e1s All\u00e1 - Beyond",
-      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Behind This Guitar",
-        "url": "https://open.spotify.com/album/5FsRPLn0LijFONLY9HogEH"
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/364zaCkRaENgzJ9THwg6dD"
+      "duration_ms": 322066,
+      "name": "M\u00e1s All\u00e1 - Beyond",
+      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1299,6 +1299,22 @@
       "duration_ms": 189593,
       "name": "Mi Navidad No Se Apaga",
       "url": "https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 148740,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1367,38 +1383,6 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Navidad - Canta Gallo, Canta",
-        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "Cantemos Todos Cantemos",
-      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 148740,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
         "name": "Abriendo Puertas",
         "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 279133,
       "name": "Farolito (Little Star)",
       "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Navidad - Canta Gallo, Canta",
+        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Cantemos Todos Cantemos",
+      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Mistletoe",
-        "url": "https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r"
-    },
-    {
-      "added_at": "2022-12-13 19:48:32",
-      "album": {
         "name": "Jingle Bells (Vamos All The Way)",
         "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Amor Real (Holiday Song)",
-        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Amor Real - Holiday Song",
-      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
+      "duration_ms": 198260,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2022-12-13 19:48:32",
       "album": {
-        "name": "Te Deseo Muy Felices Fiestas",
-        "url": "https://open.spotify.com/album/1MNgBagbBDYqLVodkPAX7f"
+        "name": "Amor Real (Holiday Song)",
+        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
       },
       "artists": [
         {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 231137,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/66NGgW8uNBnkSH40VM6bvC"
+      "duration_ms": 185454,
+      "name": "Amor Real - Holiday Song",
+      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
     },
     {
       "added_at": "2022-12-13 19:48:32",
@@ -1631,6 +1615,22 @@
       "duration_ms": 217613,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/7EwU9d3kRIthI865GqxFue"
+    },
+    {
+      "added_at": "2022-12-13 19:48:32",
+      "album": {
+        "name": "Te Deseo Muy Felices Fiestas",
+        "url": "https://open.spotify.com/album/1MNgBagbBDYqLVodkPAX7f"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "duration_ms": 231137,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/66NGgW8uNBnkSH40VM6bvC"
     },
     {
       "added_at": "2022-12-13 19:48:32",

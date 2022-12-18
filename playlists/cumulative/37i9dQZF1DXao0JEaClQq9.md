@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Weyes Blood
 
-471 songs - 1 day 5 hr 15 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+472 songs - 1 day 5 hr 18 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2021-06-03 | 2022-04-21 |
 | [For Now](https://open.spotify.com/track/6qThvX4x0IT4D5WCdPxJZV) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Ache of Victory](https://open.spotify.com/album/55ICRQmIlXrgsAS1JfKnEI) | 4:18 | 2021-06-03 | 2022-07-28 |
 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 | 2022-01-28 | 2022-04-20 |
+| [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 | 2022-12-16 |  |
 | [Found Out](https://open.spotify.com/track/6ZFMxafUQCxrqxDrdbwa1q) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Found Out](https://open.spotify.com/album/4HtiZ2cTwYgh1wGf8fw0RR) | 4:44 | 2021-06-03 | 2022-04-22 |
 | [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2022-07-01 | 2022-08-22 |
 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 | 2022-04-01 |  |
@@ -397,7 +398,7 @@
 | [STOOZY](https://open.spotify.com/track/0fJeAjnG71AMs8OJHALAuM) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [STOOZY](https://open.spotify.com/album/4dC20zyMBrpS1XHD2Dq5Hr) | 2:04 | 2021-06-11 | 2022-05-12 |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2022-10-21 | 2022-11-19 |
 | [Strangers](https://open.spotify.com/track/1xiL7VZGTXUcJRmHqlIY5a) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 5:44 | 2022-05-20 | 2022-07-29 |
-| [Strangers](https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:44 | 2022-10-28 |  |
+| [Strangers](https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:44 | 2022-10-28 | 2022-12-18 |
 | [Strawberry](https://open.spotify.com/track/3fh68vXcULsi9qkrjesuHN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/45WdUos0hOBOnDSme9YSwN) | 3:29 | 2021-06-03 | 2022-06-04 |
 | [Strawberry Privilege](https://open.spotify.com/track/6DJdXo8oT7kTA9mYpvpJRk) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:52 | 2021-06-03 | 2022-06-04 |
 | [Studying Your Door](https://open.spotify.com/track/2pAbcnRMvygn1WPqGQX7dS) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Studying Your Door](https://open.spotify.com/album/2D1sSDYQrKkXfDrJArdubC) | 3:20 | 2022-04-08 | 2022-06-17 |

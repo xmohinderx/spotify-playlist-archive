@@ -1,12 +1,12 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 4864624,
+  "num_followers": 4867350,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDQ4YWUzODVhMWVmMTExNzI5NTRhNDVhZTU4MGM2MWJl",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDEyZjJmNGU1MWNjZGJhNjdjYWVhN2Q3YzU0MjQzMzAz",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -288,7 +288,7 @@
           "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
         }
       ],
-      "duration_ms": 172422,
+      "duration_ms": 172362,
       "name": "Stadiums",
       "url": "https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX"
     },
@@ -351,6 +351,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
+        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
+      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
-        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
-      },
-      "artists": [
-        {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164629,
-      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210800,
       "name": "Godzilla (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "INCOMING",
-        "url": "https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F"
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
       },
       "artists": [
         {
-          "name": "MC ORSEN",
-          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
         }
       ],
-      "duration_ms": 140160,
-      "name": "INCOMING",
-      "url": "https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf"
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1715,22 +1699,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
@@ -1747,6 +1715,38 @@
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "INCOMING",
+        "url": "https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F"
+      },
+      "artists": [
+        {
+          "name": "MC ORSEN",
+          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "INCOMING",
+      "url": "https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "STOKELEY",
         "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "TROUBLED MEMORIES!",
         "url": "https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q"
       },
@@ -1847,22 +1847,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Dancing Feet (feat. DNCE)",
-        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
+        "name": "Close Eyes (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
         }
       ],
-      "duration_ms": 215203,
-      "name": "Dancing Feet (feat. DNCE)",
-      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+      "duration_ms": 143769,
+      "name": "Close Eyes - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
     }
   ],
   "unique_name": "Top Gaming Tracks",

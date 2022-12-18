@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,669 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,680 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 46 | [Metamorphosis](https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 5:38 |
 | 47 | [上田合戦](https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 1:49 |
 | 48 | [Prologue](https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [Ghosts 'n Goblins Resurrection Original Soundtrack](https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu) | 1:42 |
-| 49 | [Save Theme](https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:19 |
-| 50 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
+| 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
+| 50 | [Save Theme](https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:19 |
 
-Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMDcxOThiZTJjM2QxMDkwM2EyM2U5M2U0Mjc2ODFiM2I1`
+Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMDY4OTA3NTQyZGFmZWNiN2Q2NzU3YzhkYWNhMWE1NTVk`

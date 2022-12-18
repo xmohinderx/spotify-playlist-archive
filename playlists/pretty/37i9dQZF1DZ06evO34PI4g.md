@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,304 likes - 32 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,651 likes - 32 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 31 | [Suggestions](https://open.spotify.com/track/7phMc88qiwpKzOAIiR3xIU) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:43 |
 | 32 | [Know](https://open.spotify.com/track/1ByE7lUw6wWMTbCb3woHdK) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:56 |
 
-Snapshot ID: `Mjc4NTMzMDksMDAwMDAwMDBiODliNTNmODZjZDhiNzhmMTQ3NjY4MzkyYjkxNTFlOQ==`
+Snapshot ID: `Mjc4NTQ3MzcsMDAwMDAwMDA4YzFkNDE4NGVmYzA2MTEzNzc0MDBkM2FlNWQwZGU5Nw==`

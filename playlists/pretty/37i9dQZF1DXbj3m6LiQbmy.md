@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,945 likes - 73 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,949 likes - 73 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 27 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 |
 | 28 | [BANG](https://open.spotify.com/track/3JI2fFWxfepbkoLaYBHCJf) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [COBRAH](https://open.spotify.com/album/1MSVIDaDrvigdChfh3df4S) | 3:09 |
 | 29 | [SCANDALOSA](https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Malena](https://open.spotify.com/artist/2GMghh8UAwayZHkzkRPgcE) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:08 |
-| 30 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
-| 31 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
+| 30 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
+| 31 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
 | 32 | [Ogni pensiero vola](https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Magica Musica](https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB) | 3:53 |
-| 33 | [Menergy](https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Patrick Cowley: The Ultimate Collection](https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv) | 5:37 |
-| 34 | [Ancora Tu \- Original Mix](https://open.spotify.com/track/1XMvmOyw3Rxu76Rr1BXYR7) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Mi Senti](https://open.spotify.com/album/6gnG4Hov60aXPblNpKpumI) | 5:07 |
+| 33 | [Ancora Tu \- Original Mix](https://open.spotify.com/track/1XMvmOyw3Rxu76Rr1BXYR7) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Mi Senti](https://open.spotify.com/album/6gnG4Hov60aXPblNpKpumI) | 5:07 |
+| 34 | [Menergy](https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Patrick Cowley: The Ultimate Collection](https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv) | 5:37 |
 | 35 | [Ecco la Notte](https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Ecco la Notte](https://open.spotify.com/album/3KvGybqvwIKaGSSUGefaZ0) | 5:44 |
 | 36 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 |
 | 37 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 48 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
 | 49 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
 | 50 | [Story Untold](https://open.spotify.com/track/0GYzG6CKoOE76b08v1vAxs) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/5u2KQUMuGzBp9xxaUEe3H8) | 3:12 |
-| 51 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
-| 52 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve) | 1:31 |
+| 51 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve) | 1:31 |
+| 52 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
 | 53 | [Androgyny](https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:09 |
 | 54 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
 | 55 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 72 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 |
 | 73 | [MOVESET \(feat\. Kiddy Smile & David Blank\)](https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:16 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDhlMjRmNzQzYWJjZTY1MzdmNTA5N2VkYmU5Zjc4MzBk`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGQxYTAwZjBmNmU0YjZiZjYyZTA3OWUzNTlmYzRmNjI3`

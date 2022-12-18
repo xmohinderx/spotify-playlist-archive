@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1990s.",
-  "num_followers": 426617,
+  "num_followers": 427282,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMGUyYmZjODYxOTIxMjhiMDgyOTcxMDE4ZTkyOGNjN2U4",
+  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMDdkNWJhMzFkMjQ4YTNhM2Y0Y2Q3NTZkMzA3Njc1NTA1",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+      "duration_ms": 277266,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -507,6 +491,22 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Steam",
+        "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
+      },
+      "artists": [
+        {
+          "name": "East 17",
+          "url": "https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Stay Another Day",
+      "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Steam",
-        "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
-      },
-      "artists": [
-        {
-          "name": "East 17",
-          "url": "https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Stay Another Day",
-      "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "White On Blonde",
-        "url": "https://open.spotify.com/album/7KTPTo8TwG1firY7MAUJDl"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Say What You Want",
-      "url": "https://open.spotify.com/track/0oSS8NUmfgaX52yTuQWnen"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 259666,
       "name": "Endless Love (with Mariah Carey)",
       "url": "https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "White On Blonde",
+        "url": "https://open.spotify.com/album/7KTPTo8TwG1firY7MAUJDl"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "Say What You Want",
+      "url": "https://open.spotify.com/track/0oSS8NUmfgaX52yTuQWnen"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Michael Learns To Rock",
         "url": "https://open.spotify.com/album/1QIn6Ei16FidIGiHgylZDB"
       },
@@ -1911,22 +1927,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -1939,22 +1939,6 @@
       "duration_ms": 189826,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "Unpretty",
-      "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1975,6 +1959,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "Unpretty",
+      "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
       },
@@ -1987,22 +1987,6 @@
       "duration_ms": 265333,
       "name": "Angels",
       "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Colours (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Sleeping Child - 2014 Remaster",
-      "url": "https://open.spotify.com/track/27s15aCXPBi7RWlATpuLz6"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2051,6 +2035,22 @@
       "duration_ms": 236773,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Colours (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Sleeping Child - 2014 Remaster",
+      "url": "https://open.spotify.com/track/27s15aCXPBi7RWlATpuLz6"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "One Last Cry",
-      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Big Big World",
         "url": "https://open.spotify.com/album/2c85VjChgtdbeagZs9jYjM"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 205466,
       "name": "Big Big World",
       "url": "https://open.spotify.com/track/5I4xjdu4DeKUNMiufzQLoA"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "One Last Cry",
+      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
-      },
-      "artists": [
-        {
-          "name": "Lisa Loeb",
-          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 250560,
       "name": "The Power of Good-Bye",
       "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 280640,
-      "name": "Go the Distance",
-      "url": "https://open.spotify.com/track/3hS5RCp5EE1wUiiE7f8dM1"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -2715,6 +2699,22 @@
       "duration_ms": 271933,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1RQnYh2xw2BPpnzQFbO5r5"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 280640,
+      "name": "Go the Distance",
+      "url": "https://open.spotify.com/track/3hS5RCp5EE1wUiiE7f8dM1"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2803,6 +2803,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 304960,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa"
       },
@@ -2847,22 +2863,6 @@
       "duration_ms": 321360,
       "name": "Take a Bow",
       "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 304960,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Crash! Boom! Bang! (Extended Version)",
-        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Almost Unreal",
-      "url": "https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Bedtime Stories",
         "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
@@ -3239,6 +3223,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Almost Unreal",
+      "url": "https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -3251,22 +3251,6 @@
       "duration_ms": 293586,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/0bw1li9y32rw40HGodRShs"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Wilson Phillips",
-        "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
-      },
-      "artists": [
-        {
-          "name": "Wilson Phillips",
-          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
-        }
-      ],
-      "duration_ms": 295693,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3291,6 +3275,22 @@
       "duration_ms": 220533,
       "name": "All That I Need - Edit",
       "url": "https://open.spotify.com/track/2ZXJFFf0bisA3TtGUP0hZ9"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Wilson Phillips",
+        "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
+      },
+      "artists": [
+        {
+          "name": "Wilson Phillips",
+          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
+        }
+      ],
+      "duration_ms": 295693,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"
     }
   ],
   "unique_name": "Soft 90s",

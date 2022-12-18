@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
-  "num_followers": 3348802,
+  "num_followers": 3349105,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDU4Mzk2YzYyNjM1ZGY3ZDJjMzRhZTI5OGI4NzAwMmM1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGExYjMzMDFkMzEwODM4ZmNmMmYwMzgzZmZmMTE2OTRm",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -575,22 +575,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -959,30 +959,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
-        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "edamame (feat. Rich Brian) - Diplo Remix",
-      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 229586,
       "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
+        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "edamame (feat. Rich Brian) - Diplo Remix",
+      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Life Goes On (Alok Remix)",
-        "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 157647,
-      "name": "Life Goes On - Alok Remix",
-      "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Good Ones (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Life Goes On (Alok Remix)",
+        "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 157647,
+      "name": "Life Goes On - Alok Remix",
+      "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1451,6 +1451,26 @@
       "duration_ms": 176540,
       "name": "IT'S YOU - ARMNHMR Remix",
       "url": "https://open.spotify.com/track/6EmRDtmAq556gtaj0rOjsW"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "High (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "High - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Drop A Bomb (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
       },
@@ -1751,6 +1751,46 @@
       "duration_ms": 151475,
       "name": "Drop A Bomb - R3HAB Remix",
       "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "So Good (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 189143,
+      "name": "So Good - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "High (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "High - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1779,26 +1819,6 @@
       "duration_ms": 161257,
       "name": "I Got A Feeling - James Hype Remix",
       "url": "https://open.spotify.com/track/4SYbdrmyDpCvWkoC4skk5z"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "So Good (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 189143,
-      "name": "So Good - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1987,6 +2007,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "My Love (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/7MMKSqLZsScjyX29FNqDou"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "My Love - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/1yyQxEZcZBSTyI1sShNGKC"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
       },
@@ -2007,26 +2047,6 @@
       "duration_ms": 220593,
       "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "My Love (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/7MMKSqLZsScjyX29FNqDou"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "My Love - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/1yyQxEZcZBSTyI1sShNGKC"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2079,54 +2099,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
-        "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Suli Breaks",
-          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
-        },
-        {
-          "name": "Jazzie B.",
-          "url": "https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
-      "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Don\u2019t Wake Me Up (Sevenn Remix)",
         "url": "https://open.spotify.com/album/4CI8CduQt7feuYZeSyTuZi"
       },
@@ -2167,6 +2139,34 @@
       "duration_ms": 149500,
       "name": "Grand - TroyBoi Remix",
       "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
+        "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        },
+        {
+          "name": "Jazzie B.",
+          "url": "https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
+      "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
     },
     {
       "added_at": "2022-12-16 05:00:00",

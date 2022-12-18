@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks by independent artists around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-2,714 songs - 6 day 5 hr 25 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
+2,715 songs - 6 day 5 hr 29 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2358,7 +2358,8 @@
 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 | 2022-09-07 | 2022-09-15 |
 | [Template](https://open.spotify.com/track/4EFrD2CImPNjn1wUWETNIO) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Template](https://open.spotify.com/album/27uFfXEjpgDLcJpAxTNvSv) | 4:42 | 2022-10-05 | 2022-10-13 |
 | [Tender](https://open.spotify.com/track/256oQphx4dzjEGbSv47q5P) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Tender](https://open.spotify.com/album/3iNXth82Qc9glZX2626W0E) | 3:38 | 2022-08-24 | 2022-09-01 |
-| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-07 |  |
+| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-07 | 2022-12-18 |
+| [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-11-30 |  |
 | [Tentación](https://open.spotify.com/track/1gvFCRgGken7XUOF5f30P0) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Tentación](https://open.spotify.com/album/0nDVEBmYce69womm73alvZ) | 3:44 | 2022-06-15 | 2022-06-30 |
 | [Tequila](https://open.spotify.com/track/7oIkhniXc7nqFejXFrgM5j) | [Jeffers Insley](https://open.spotify.com/artist/5Kl5hPE1d877AIBR4O0kQ2) | [Tequila](https://open.spotify.com/album/1sroqnaDwtAI3WytaisYBr) | 2:42 | 2022-01-12 | 2022-01-20 |
 | [Tequila for Two](https://open.spotify.com/track/1eAiavN1GgIM1xqzVOZZdW) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Tequila for Two](https://open.spotify.com/album/3Qh3PpaELJq9ypvqeNOSMJ) | 3:29 | 2022-04-13 | 2022-04-28 |

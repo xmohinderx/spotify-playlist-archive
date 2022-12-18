@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 172266,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 156200,
       "name": "How Come",
       "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6tnOqc5lsMQYqfvo7wVWk7"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -1169,6 +1169,24 @@
       "duration_ms": 357600,
       "name": "Sweet Little Angel / Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3oaKdEHNcaRYIr1W8Z1W48"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
+      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
     },
     {
       "album": {
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 124480,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 199093,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/5dsIoP7IpHaFr8brlWN5Ux"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 172906,
       "name": "Yes, Baby",
       "url": "https://open.spotify.com/track/6pbty1OxEC31a2NdhiHhbq"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/76Q5gNEm1yxP7NDzdo2aOp"

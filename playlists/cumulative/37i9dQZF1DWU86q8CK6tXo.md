@@ -4,7 +4,7 @@
 
 > Highlights of 2022, listen to women at full volume\. Cover: <a href=“spotify:artist:55fhWPvDiMpLnE4ZzNXZyW”>Noah Cyrus</a>  \#SpotifyWrapped
 
-654 songs - 1 day 11 hr 18 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+655 songs - 1 day 11 hr 22 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,8 @@
 | [TELLY BAG](https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TELLY BAG](https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn) | 1:54 | 2022-06-01 | 2022-07-07 |
 | [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 | 2022-07-06 | 2022-08-04 |
 | [tendencies.](https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:12 | 2022-08-03 | 2022-09-09 |
-| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-11-30 |  |
+| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-11-30 | 2022-12-18 |
+| [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-11-30 |  |
 | [Thank You Very Much](https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Thank You Very Much](https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv) | 5:27 | 2022-11-02 | 2022-12-01 |
 | [THAT](https://open.spotify.com/track/6arwyWT9aIkzj7jRedpRN0) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [JACKIE EXTREME](https://open.spotify.com/album/2EgLkW1shKJc43nqvzToYN) | 2:12 | 2022-02-02 | 2022-03-09 |
 | [That Girl](https://open.spotify.com/track/0bMuCogMMHhNSq4fd3z1gA) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [That Girl](https://open.spotify.com/album/43C2nwKBVQEe5Eo2SZbi1i) | 2:20 | 2022-08-03 | 2022-09-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Stryper",
-  "num_followers": 102682,
+  "num_followers": 102731,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMDMxOWY4NjEwOWVlZGE5ZWJhYmM1MjIwOGU3OTAxMWI0",
+  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMDE5MTMxNzhhYzAzM2NkZTllNmEzNzNhMGI5ZDZmZTlk",
   "tracks": [
     {
       "added_at": "2022-10-29 07:12:44",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Farewell to Midnight",
         "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223011,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
+      },
+      "artists": [
+        {
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
+        }
+      ],
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Salvation For 100%",
-        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        },
-        {
-          "name": "Jacob Coyne",
-          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
-        }
-      ],
-      "duration_ms": 369191,
-      "name": "Salvation For 100%",
-      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Strong Enough to Live",
         "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Salvation For 100%",
+        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        },
+        {
+          "name": "Jacob Coyne",
+          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
+        }
+      ],
+      "duration_ms": 369191,
+      "name": "Salvation For 100%",
+      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Future Golden Age",
-        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
-      },
-      "artists": [
-        {
-          "name": "Fallstar",
-          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Radio (NW Hesh)",
-      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Sleight of Hand",
         "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 234831,
       "name": "Sleight of Hand",
       "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Future Golden Age",
+        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
+      },
+      "artists": [
+        {
+          "name": "Fallstar",
+          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Radio (NW Hesh)",
+      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
         "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        }
+      ],
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
     },
     {
       "added_at": "2022-10-29 07:12:44",

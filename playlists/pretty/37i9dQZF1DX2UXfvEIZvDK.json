@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 611057,
+  "num_followers": 611349,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczNTA5MSwwMDAwMDAwMGQwYzMzYzBhMGEyNmQ0Y2E0YmRjYWM0YjY0NzcxODI3",
+  "snapshot_id": "MTY2NTczNTA5MSwwMDAwMDAwMGJlYWQ3ZmQyY2M4MTg4NGRjZDBhN2QxMjM1ZDc5MzYx",
   "tracks": [
     {
       "added_at": "2022-10-14 08:11:31",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-14 08:11:31",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2022-10-14 08:11:31",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2022-10-14 08:11:31",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2022-10-14 08:11:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-14 08:11:31",
       "album": {
-        "name": "Neon Ballroom",
-        "url": "https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 240733,
-      "name": "Miss You Love",
-      "url": "https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw"
-    },
-    {
-      "added_at": "2022-10-14 08:11:31",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 250293,
       "name": "Thirty-Three - Remastered 2012",
       "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
+    },
+    {
+      "added_at": "2022-10-14 08:11:31",
+      "album": {
+        "name": "Neon Ballroom",
+        "url": "https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "Miss You Love",
+      "url": "https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw"
     },
     {
       "added_at": "2022-10-14 08:11:31",

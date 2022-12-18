@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196 likes - 75 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,201 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 12 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 |
 | 13 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
 | 14 | [Woven Planet](https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV) | [Craig Padilla](https://open.spotify.com/artist/5lloFkGFSO4m4XAgOpTAg1) | [Below the Mountain](https://open.spotify.com/album/0moWiLCjBdOtMSLk9YjAb4) | 4:50 |
-| 15 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
-| 16 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 |
+| 15 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 |
+| 16 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
 | 17 | [Rachel's Song](https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:48 |
 | 18 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
 | 19 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 55 | [Prepare the Stage of Night](https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Cities Last Broadcast](https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4) | [Black Corner Den](https://open.spotify.com/album/10flibooBjjwWKy02B5obV) | 4:24 |
 | 56 | [What the Earth Bore](https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Echo](https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT) | 4:44 |
 | 57 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 |
-| 58 | [Dance of the Mince Pie Martians](https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Perception Report 2](https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat) | 4:14 |
-| 59 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
+| 58 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
+| 59 | [Dance of the Mince Pie Martians](https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Perception Report 2](https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat) | 4:14 |
 | 60 | [Mannequin Metric](https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/17kJIlUTdZBateK6SysxZ1) | 4:14 |
 | 61 | [The Ruins And The Serene](https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Asleep And Well Hidden](https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ) | 7:10 |
 | 62 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 |
 | 75 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDczNDliNWQzODkwMTJiZWZkNzkzNzcyMTI3YTU3NWY1`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGRlZDZiNjUzMmRkZTZjOTU3NzExYWZkZTUzYzk2NjNj`

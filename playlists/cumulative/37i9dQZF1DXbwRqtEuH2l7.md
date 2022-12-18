@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-174 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+175 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [Dark Nails](https://open.spotify.com/track/2DtBlBP2Kw4T5ov7BjZO8U) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Dark Nails](https://open.spotify.com/album/5es5EDRuCLdsT6dD5uZjXg) | 10:30 | 2022-05-25 |  |
 | [Darkened Valley Lullaby](https://open.spotify.com/track/7GDbjLB0JxUt6f7nl2GBBO) | [Devin Sarno](https://open.spotify.com/artist/6H0BGNsWkD3AZNqJ3dEHPI) | [Evocation](https://open.spotify.com/album/1QPetxI3eJ5u6RdcKqsgfJ) | 5:12 | 2022-05-25 |  |
 | [Diamond Nights](https://open.spotify.com/track/0uK78BIKDhjAN6p78vBycJ) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Eyes Like Angels](https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP) | 5:56 | 2022-05-25 |  |
-| [Distant \- Drone Mix](https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv) | [CALM TRANSMISSIONS](https://open.spotify.com/artist/60LEwqfO4hiuirXepr8MXX) | [Distant \(Drone Mix\)](https://open.spotify.com/album/5w07cL98KrOheroP153LSq) | 4:23 | 2022-05-25 |  |
+| [Distant \- Drone Mix](https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv) | [CALM TRANSMISSIONS](https://open.spotify.com/artist/60LEwqfO4hiuirXepr8MXX) | [Distant \(Drone Mix\)](https://open.spotify.com/album/5w07cL98KrOheroP153LSq) | 4:23 | 2022-05-25 | 2022-12-18 |
 | [DRAHTKURBEL](https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE) | [Eckert & Hagen](https://open.spotify.com/artist/7sstIzjbXHYkMO1HpLVlrq), [No Bloom Now](https://open.spotify.com/artist/4woc6oFscmJHwXGCubSvrH) | [DRAHTKURBEL](https://open.spotify.com/album/5CTHrftpTIpWpUj6vifWW9) | 4:48 | 2022-05-25 | 2022-11-25 |
+| [Dream](https://open.spotify.com/track/4SHueg10m38WqyeLugSayp) | [Cholosus](https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv) | [Dream](https://open.spotify.com/album/5Z1kpyPx0btNe8O3jZZl1b) | 7:14 | 2022-11-24 |  |
 | [Dream](https://open.spotify.com/track/4oIAv5hE2WYfo75ibQA9GU) | [Cholosus](https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv) | [Dream](https://open.spotify.com/album/2saJZHSNvwPxaaArq3iKzP) | 7:14 | 2022-05-25 | 2022-12-07 |
 | [Drifter](https://open.spotify.com/track/6kDg5nDlueBEc7mAkMN2jw) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4), [David Wenngren](https://open.spotify.com/artist/5WDrO7XZNPb8krZgftfkpp) | [Strangers](https://open.spotify.com/album/783flv2FHsliDX36JbbmD3) | 5:25 | 2022-05-25 | 2022-07-05 |
 | [Drifting In The Third Person](https://open.spotify.com/track/2s51jbqjSZD5Z2QHbmNT5e) | [Significant Other](https://open.spotify.com/artist/2G3psMnjiEP21bOdCvmT8c) | [Residuum](https://open.spotify.com/album/0zQPuOl2XmT5rWbYyVr4zS) | 4:46 | 2022-05-25 |  |

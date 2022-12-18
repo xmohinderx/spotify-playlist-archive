@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53124,
+  "num_followers": 53118,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDZiOWI3MGFhYmE3NTE2ODhiZjBkZWE3ZjBjN2Q0MWVi",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDMyM2Y0YWE3M2EwNzBjMGRiYTQzNDcyYjI2MDUzODQ1",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Stars and Satellites",
-        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Walt Whitman",
-      "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 320240,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Stars and Satellites",
+        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "Walt Whitman",
+      "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Underachievers Please Try Harder",
-        "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 313666,
-      "name": "Books Written For Girls",
-      "url": "https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Underachievers Please Try Harder",
+        "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 313666,
+      "name": "Books Written For Girls",
+      "url": "https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -795,18 +795,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "First Songs",
-        "url": "https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ"
+        "name": "Sonic Nurse",
+        "url": "https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS"
       },
       "artists": [
         {
-          "name": "Michael Hurley",
-          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
         }
       ],
-      "duration_ms": 448013,
-      "name": "The Tea Song",
-      "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
+      "duration_ms": 392506,
+      "name": "Pattern Recognition",
+      "url": "https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP"
     }
   ],
   "unique_name": "The Writer's Playlist",

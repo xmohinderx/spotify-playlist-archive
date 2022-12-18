@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,013 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,019 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 36 | [Linoléum](https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Le cours des jours](https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o) | 5:17 |
 | 37 | [Les terres de la Couronne](https://open.spotify.com/track/0yz1HfQpwmJch18CPQf9OY) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Almanach](https://open.spotify.com/album/4XESOXhwzs3hsoohu1IHFl) | 4:12 |
 | 38 | [Ces mots simples](https://open.spotify.com/track/66Y3cW9YjIR9PQaiAebr6e) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Ces mots simples](https://open.spotify.com/album/2onsGEcbOmzE4RnWmIxXAI) | 2:54 |
-| 39 | [Super ordinaire](https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Tricot machine](https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe) | 3:23 |
-| 40 | [Once Every Billion Years](https://open.spotify.com/track/3Vq3qqSI2PWNBcV0v4WyvK) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 2:54 |
+| 39 | [Once Every Billion Years](https://open.spotify.com/track/3Vq3qqSI2PWNBcV0v4WyvK) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 2:54 |
+| 40 | [Super ordinaire](https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Tricot machine](https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe) | 3:23 |
 | 41 | [Milles fois par jour](https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:26 |
 | 42 | [Perséides](https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous Les Sens](https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE) | 5:21 |
 | 43 | [Le cœur de l'océan](https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Dire combien je t'aime](https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf) | 4:07 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 49 | [Je pourrai plus jamais](https://open.spotify.com/track/6lxNePxaJrBt3KkPj0bv6X) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:32 |
 | 50 | [Elles](https://open.spotify.com/track/2f1aeMuXIJDlI4YbaihQ4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Elles](https://open.spotify.com/album/0KNqhfKtNUKjQFiZFKR0Fp) | 4:13 |
 | 51 | [Blanche](https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B) | 2:36 |
-| 52 | [Rouge\-gorge](https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [La grande nuit vidéo](https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv) | 3:24 |
+| 52 | [Je ne t'oublie pas \- Bonus](https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 3:31 |
 | 53 | [7](https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC) | [Dear Criminals](https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg) | [Fatale](https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9) | 1:56 |
-| 54 | [Elton d'août \- Remix](https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Étienne d'août](https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE) | 5:12 |
-| 55 | [Je ne t'oublie pas \- Bonus](https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 3:31 |
+| 54 | [Rouge\-gorge](https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [La grande nuit vidéo](https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv) | 3:24 |
+| 55 | [Elton d'août \- Remix](https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Étienne d'août](https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE) | 5:12 |
 | 56 | [Vers le sud](https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [27 fois l'aurore](https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT) | 3:11 |
 | 57 | [L’oiseau mécanique](https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB) | [Stéphanie Lapointe](https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw) | [Les amours parallèles](https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82) | 3:38 |
 | 58 | [One Final Drink, One Final Smoke](https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 4:47 |
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 66 | [Le loup \- Version Vingt](https://open.spotify.com/track/7FZkU5hT76JMpnIlztIrTX) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Vingt](https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH) | 4:49 |
 | 67 | [J'irai là](https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD) | 4:06 |
 | 68 | [Rester là](https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn) | [Chloé Lacasse](https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz) | [LUNES](https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY) | 4:51 |
-| 69 | [Puits de lumière](https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 3:10 |
-| 70 | [Trop tard](https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Habit](https://open.spotify.com/album/47BeET8hEy09koztGMjD70) | 3:16 |
-| 71 | [And The Boys \- French Version](https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [And The Boys](https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu) | 4:10 |
+| 69 | [And The Boys \- French Version](https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [And The Boys](https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu) | 4:10 |
+| 70 | [Puits de lumière](https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 3:10 |
+| 71 | [Trop tard](https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Habit](https://open.spotify.com/album/47BeET8hEy09koztGMjD70) | 3:16 |
 | 72 | [Le nouveau vocabulaire](https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Les Ombres Longues](https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX) | 3:08 |
 | 73 | [L'atelier](https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2) | [David Giguère](https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B) | [Hisser haut](https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8) | 3:22 |
-| 74 | [Dis\-moi](https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Dis\-moi](https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt) | 5:06 |
-| 75 | [Je sais](https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E) | [Parades](https://open.spotify.com/album/68gezXq5hixi4zYIow8L22) | 3:33 |
+| 74 | [Je sais](https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E) | [Parades](https://open.spotify.com/album/68gezXq5hixi4zYIow8L22) | 3:33 |
+| 75 | [Dis\-moi](https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Dis\-moi](https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt) | 5:06 |
 | 76 | [Ta Chance](https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU) | [Nerina Pallot](https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK) | [Ta Chance](https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T) | 4:28 |
 | 77 | [Je ne viendrai pas demain](https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Pink Lady](https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI) | 4:35 |
 | 78 | [Domenico](https://open.spotify.com/track/7EDpfVvpvhHYztOSLci2ZL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:23 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 101 | [Grand mal](https://open.spotify.com/track/0LN18forBwwfYK9GU2vt92) | [ludovic alarie](https://open.spotify.com/artist/5YQJ21kmCLdhMccxqJoDWU) | [Ludovic Alarie](https://open.spotify.com/album/0FxH3Lu9Sxu501EFCauomP) | 4:50 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MTYxMjU4MTE2MCwwMDAwMDAwMGYwODVmNmVhZDdmNjJmYWM2NzVjZTU5MGNhZWIzZjNi`
+Snapshot ID: `MTYxMjU4MTE2MCwwMDAwMDAwMDEyY2I4ZDhmMWZiMTIxNjhkYTA1MDA5NGY1Zjg1YTBm`

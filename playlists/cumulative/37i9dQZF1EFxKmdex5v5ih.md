@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-264 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+265 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Hard For Me](https://open.spotify.com/track/00PesUdTmC3Y5xtZbZND0p) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 2:57 | 2022-12-15 |  |
 | [Heat](https://open.spotify.com/track/1zv5ce0HHLD90EByNsgBfD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:10 | 2021-12-27 |  |
 | [Heaven](https://open.spotify.com/track/0t0Dqao4DNlyZkhjA8MLbh) | [Michael Wills](https://open.spotify.com/artist/2EXbEUh36k3Qjh48mcXvpf) | [Fire](https://open.spotify.com/album/7fT0kivs4DxyxoeSk7KphV) | 3:20 | 2022-12-15 |  |
+| [Hold You](https://open.spotify.com/track/2rPOubfQk7EPpZXzoN8xCS) | [NR](https://open.spotify.com/artist/6mfVAG9kCKxuGJyRsnJJYS) | [Forever And Always](https://open.spotify.com/album/40ZZjmHDWBP94eQegfCUxS) | 3:10 | 2022-12-17 |  |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2021-12-27 |  |
 | [Hopeful](https://open.spotify.com/track/5NYoDiS8tn1pJgZ7z6r6vE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:18 | 2021-12-27 |  |
 | [Human \- The Age of L.U.N.A Remix](https://open.spotify.com/track/6gFdatlooNIg9IrE51vXI2) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [The Age of L.U.N.A](https://open.spotify.com/artist/5yAqULyufEDkH8oBRuFfYF) | [Human \(Remixes\)](https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3) | 3:29 | 2022-12-15 |  |

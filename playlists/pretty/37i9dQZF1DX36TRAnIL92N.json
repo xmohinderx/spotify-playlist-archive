@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 70982,
+  "num_followers": 71356,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDAxMCwwMDAwMDAwMDNhZmM1NTlhYzYxZTM4MDViY2M1MjVlNjBmYmMwYTM4",
+  "snapshot_id": "MTY3MTIxMDAxMCwwMDAwMDAwMGJjNGYyOTJlYWJmOTFiYmU5NzVlN2YxY2JjYzRmOGJm",
   "tracks": [
     {
       "added_at": "2022-12-16 17:00:10",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "You're Toxic",
-        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 371555,
-      "name": "You're Toxic",
-      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
         "name": "Formula EP",
         "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 433971,
       "name": "Doppler",
       "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 414545,
       "name": "You Are Mine - Original Mix",
       "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "Digital Age",
-        "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 296812,
-      "name": "UFOs & LFOs",
-      "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
+        "name": "Digital Age",
+        "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 296812,
+      "name": "UFOs & LFOs",
+      "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -723,22 +707,18 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
       },
       "artists": [
         {
-          "name": "Nusha",
-          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
-        },
-        {
-          "name": "Belocca",
-          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 390447,
-      "name": "Addiction - Original Mix",
-      "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -755,6 +735,26 @@
       "duration_ms": 192380,
       "name": "Platia",
       "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
+      },
+      "artists": [
+        {
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
+        },
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Addiction - Original Mix",
+      "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "Injection (Original Mix)",
-        "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
-      },
-      "artists": [
-        {
-          "name": "Kaspar",
-          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
-        },
-        {
-          "name": "A*S*Y*S",
-          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
-        }
-      ],
-      "duration_ms": 421846,
-      "name": "Injection - Original Mix",
-      "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 357227,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
+        "name": "Injection (Original Mix)",
+        "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        },
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+        }
+      ],
+      "duration_ms": 421846,
+      "name": "Injection - Original Mix",
+      "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
     }
   ],
   "unique_name": "Techno Workout",

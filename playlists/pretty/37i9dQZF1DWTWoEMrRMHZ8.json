@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Majur",
-  "num_followers": 329328,
+  "num_followers": 329377,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwOTcwNSwwMDAwMDAwMGNhNzQyM2IxMWZhNDI4NDI4M2VkYThhZmYwYjA4NGY0",
+  "snapshot_id": "MTY3MTIwOTcwNSwwMDAwMDAwMDdlNTM4N2ExZDZkNDIzZTk3MTZmMjA2YjI1ZTE5ZjJm",
   "tracks": [
     {
       "added_at": "2022-12-09 05:18:09",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
+        "name": "Sangue Latino",
+        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Spindel",
+          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 187934,
+      "name": "Sangue Latino",
+      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj"
       },
@@ -1247,42 +1267,6 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Sangue Latino",
-        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
-      },
-      "artists": [
-        {
-          "name": "Roberta Spindel",
-          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 187934,
-      "name": "Sangue Latino",
-      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
         "name": "Verdade na Fonte",
         "url": "https://open.spotify.com/album/54z94yuZnjKyjLr8L7IIis"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Purifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5bjpYeTq9oxZXSIGChuZRk"
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
       },
       "artists": [
         {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 263488,
-      "name": "Purifica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/53iCl146CrNjtMR06Dg5mn"
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1331,6 +1315,22 @@
       "duration_ms": 179656,
       "name": "Ano Que Vem",
       "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Purifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5bjpYeTq9oxZXSIGChuZRk"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        }
+      ],
+      "duration_ms": 263488,
+      "name": "Purifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/53iCl146CrNjtMR06Dg5mn"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1385,6 +1385,26 @@
       "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
+      "added_at": "2022-12-18 00:40:17",
+      "album": {
+        "name": "Som de Alceu",
+        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+    },
+    {
       "added_at": "2022-12-09 05:18:09",
       "album": {
         "name": "Aqui em Casa (Ep 02)",
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Nossos Planos",
-        "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 176968,
-      "name": "Nossos Planos",
-      "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
         "name": "A Palo Seco (Radio Edit)",
         "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
       },
@@ -1459,6 +1463,22 @@
       "duration_ms": 215660,
       "name": "A Palo Seco - Radio Edit",
       "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Nossos Planos",
+        "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 176968,
+      "name": "Nossos Planos",
+      "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1841,26 +1861,6 @@
       "url": "https://open.spotify.com/track/1RXXpNJcULM9cmuZwl4DPn"
     },
     {
-      "added_at": "2022-12-17 00:00:42",
-      "album": {
-        "name": "Som de Alceu",
-        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
-    },
-    {
       "added_at": "2022-12-09 05:18:09",
       "album": {
         "name": "Doce Carnaval",
@@ -1881,7 +1881,7 @@
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
-      "added_at": "2022-12-17 00:00:42",
+      "added_at": "2022-12-18 00:40:17",
       "album": {
         "name": "Corpo a Corpo",
         "url": "https://open.spotify.com/album/56jMSW9PRi6hQOUwqHrH5u"

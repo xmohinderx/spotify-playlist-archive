@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-373 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+374 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [12 AM Shuffle](https://open.spotify.com/track/0xAjCLCwfRUZQe6t2G2Ywe) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [12 AM Shuffle](https://open.spotify.com/album/6lJuJDBsovQL3Se2XBs64n) | 4:00 | 2021-10-29 | 2022-01-22 |
 | [2077](https://open.spotify.com/track/3aUw0b3ELuGIQozDT3bua9) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH), [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX) | [2077](https://open.spotify.com/album/3VUqlLwfhgY1UDR2UFGGvc) | 2:40 | 2021-10-29 | 2022-01-04 |
 | [2Step](https://open.spotify.com/track/6h6eZvyZ6TQX0wsK1bFJyg) | [One Day One Coke](https://open.spotify.com/artist/2B7tdyU1J3iiUU3AiKYxaX) | [Body Step EP](https://open.spotify.com/album/5ZyMfBh5IFIfTbzdIGlTGH) | 3:40 | 2021-10-29 | 2022-01-08 |
-| [4 The Love](https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al) | [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi) | [4 The Love](https://open.spotify.com/album/1VVeContseVgaxemdjoSDM) | 3:08 | 2022-07-29 |  |
+| [4 The Love](https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al) | [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi) | [4 The Love](https://open.spotify.com/album/1VVeContseVgaxemdjoSDM) | 3:08 | 2022-07-29 | 2022-12-18 |
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-06-10 |  |
 | [Aarena \(Knock2 Remix\)](https://open.spotify.com/track/61xflUm94Khk7PVeyJIyJ3) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [niteharts](https://open.spotify.com/album/6cCrdstrak2Yk4iITOOy7B) | 3:27 | 2022-10-28 |  |
 | [Act Up](https://open.spotify.com/track/3zMTtFESlmiuKeIx61e0Io) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [Act Up](https://open.spotify.com/album/1j8faQ7w6rOUUMZIJek2g9) | 3:06 | 2022-05-27 | 2022-10-29 |
@@ -93,6 +93,7 @@
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 |  |
 | [Dancerteria](https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Kickin Back](https://open.spotify.com/album/7sJhrdrW2NLgsZIemINUKa) | 3:54 | 2021-10-29 | 2022-01-07 |
 | [Danger](https://open.spotify.com/track/5Ztlpo0tihmvazlFYTL3fQ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Cipher One](https://open.spotify.com/album/0sXeA5zcpIua5syJn7RqIg) | 3:03 | 2021-10-29 | 2022-05-28 |
+| [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-16 |  |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2021-10-29 | 2022-07-30 |
 | [dashstar\* \- VIP](https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/1evGUMi2rIAvUewPRHm3sl) | 2:20 | 2022-07-29 |  |
 | [DBL Park](https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [DBL Park](https://open.spotify.com/album/6LhckcJg7vMmV6rB0f1mwt) | 3:24 | 2022-09-02 | 2022-11-20 |

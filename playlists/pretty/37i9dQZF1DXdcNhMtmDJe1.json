@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 74339,
+  "num_followers": 74368,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGZmMTZkMmU1YjIyNTNlYjg3NWQ3N2IzZTE2ZDFkZTQ0",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGYzYzAyNzliZGNjYjE2ZTI4N2IyYTJlYjliYjkwYzIw",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Shall We Dance: They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
+      "duration_ms": 510600,
+      "name": "A Damsel In Distress: A Foggy Day",
+      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 510600,
-      "name": "A Damsel In Distress: A Foggy Day",
-      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+      "duration_ms": 336000,
+      "name": "Shall We Dance: They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -783,34 +783,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
-        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Steven Browen",
-          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 412906,
-      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
-      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
       },
@@ -835,6 +807,34 @@
       "duration_ms": 438560,
       "name": "Piano Concerto in F Major: III. Allegro con brio",
       "url": "https://open.spotify.com/track/6VDflF21RwoPqEE4vmqGyi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Steven Browen",
+          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 412906,
+      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
+      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 826466,
-      "name": "Piano Concerto in F Major: I. Allegro moderato - Cantabile - Poco meno scherzando",
-      "url": "https://open.spotify.com/track/7ipGbrTaeuWvuRF3NYHeIk"
+      "duration_ms": 949253,
+      "name": "Second Rhapsody",
+      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1004,37 +1004,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 949253,
-      "name": "Second Rhapsody",
-      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
+      "duration_ms": 826466,
+      "name": "Piano Concerto in F Major: I. Allegro moderato - Cantabile - Poco meno scherzando",
+      "url": "https://open.spotify.com/track/7ipGbrTaeuWvuRF3NYHeIk"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1067,8 +1039,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
-        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
       "artists": [
         {
@@ -1076,21 +1048,21 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Peter Jablonski",
-          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
         },
         {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
         },
         {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
         }
       ],
-      "duration_ms": 799826,
-      "name": "Piano Concerto in F: 2. Adagio",
-      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1115,6 +1087,34 @@
       "duration_ms": 204920,
       "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
       "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
+        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 799826,
+      "name": "Piano Concerto in F: 2. Adagio",
+      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
     },
     {
       "added_at": "2022-08-05 04:02:00",

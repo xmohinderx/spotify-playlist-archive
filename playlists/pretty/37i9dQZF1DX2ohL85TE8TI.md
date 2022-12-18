@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Ditto\(동감\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,431 likes - 104 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,607 likes - 104 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 30 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 |
 | 31 | [With You](https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Mental Coach Jegal, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5fcdcwpZpn3LBTNHXQcMgh) | 3:09 |
 | 32 | [RINGING](https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn) | [Mi Joo Lee](https://open.spotify.com/artist/0aATviqzHMSQHDengVEH74) | [Cheer Up \(Original Soundtrack Part.3\)](https://open.spotify.com/album/5ycHYSK1rnY4YDCPGczxYH) | 3:31 |
-| 33 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu \(LOONA\)](https://open.spotify.com/artist/5cFdpa8OCO9JGIOB7O8ygU) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |
+| 33 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |
 | 34 | [LOVE SIGN](https://open.spotify.com/track/1WsgP7GRZjm6jvzZn2AS5i) | [yewon](https://open.spotify.com/artist/3cw1kWnPM3pDH7OZnMhlTp) | [OH MY KISS, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6KFNXaAltSnXaCf8KPPWep) | 3:15 |
 | 35 | [Be there \- Male Ver.](https://open.spotify.com/track/67iM5BSDg7tMfnGmwXDlsN) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0si7syMtQ2dRy78dRKzy3i) | 3:38 |
 | 36 | [1000won Lawyer](https://open.spotify.com/track/2PSAU5PZrNktV9fztrEWmN) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [1000won Lawyer \(Original Soundtrack\), Pt\. 4](https://open.spotify.com/album/12qdMvh1P5DxGnFlKdHVII) | 2:10 |

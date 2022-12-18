@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 414620,
+  "num_followers": 414679,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDczZDc5ZTMzMmVkNDA3YTI5ZmQ3Y2M5NjUxNDk3MWFj",
+  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDZjMmQ4ZjgxYTVjZDA2MmZhZmFmZmEyMjAxMzRmYzg1",
   "tracks": [
     {
       "added_at": "2022-12-01 15:00:00",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y"
     },
     {
-      "added_at": "2022-12-17 00:02:06",
+      "added_at": "2022-12-18 00:02:20",
       "album": {
         "name": "Carol",
         "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
-      "added_at": "2022-12-17 00:02:06",
+      "added_at": "2022-12-18 00:02:20",
       "album": {
         "name": "@luv",
         "url": "https://open.spotify.com/album/6KZ1AstbhLGt7Lmn4e7KQz"
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
         "name": "Spiritual State",
         "url": "https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 214000,
       "name": "Toucan",
       "url": "https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "China Town",
-        "url": "https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR"
-      },
-      "artists": [
-        {
-          "name": "Storkes",
-          "url": "https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom"
-        }
-      ],
-      "duration_ms": 152877,
-      "name": "China Town",
-      "url": "https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 163875,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3KW9TEb7G6BZu3XWVR8caI"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "China Town",
+        "url": "https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR"
+      },
+      "artists": [
+        {
+          "name": "Storkes",
+          "url": "https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom"
+        }
+      ],
+      "duration_ms": 152877,
+      "name": "China Town",
+      "url": "https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Breakin' up",
-        "url": "https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H"
-      },
-      "artists": [
-        {
-          "name": "SUKISHA",
-          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
-        }
-      ],
-      "duration_ms": 96333,
-      "name": "Breakin' up",
-      "url": "https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "City of light",
         "url": "https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 209412,
       "name": "City of light",
       "url": "https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "Breakin' up",
+        "url": "https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "duration_ms": 96333,
+      "name": "Breakin' up",
+      "url": "https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "tasty greens",
-        "url": "https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR"
-      },
-      "artists": [
-        {
-          "name": "Froowty Lupes",
-          "url": "https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2"
-        },
-        {
-          "name": "Yoshi Tanaka",
-          "url": "https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr"
-        },
-        {
-          "name": "Lazy Noodles",
-          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "tasty greens",
-      "url": "https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "Water Circles",
         "url": "https://open.spotify.com/album/0vqTCC4FGn6WosT2pGb2rD"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 117142,
       "name": "Water Circles",
       "url": "https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "tasty greens",
+        "url": "https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR"
+      },
+      "artists": [
+        {
+          "name": "Froowty Lupes",
+          "url": "https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2"
+        },
+        {
+          "name": "Yoshi Tanaka",
+          "url": "https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr"
+        },
+        {
+          "name": "Lazy Noodles",
+          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "tasty greens",
+      "url": "https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "on the way home",
-        "url": "https://open.spotify.com/album/1h5gtqYpoaqnVm85KyYQJW"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        },
-        {
-          "name": "Y-2",
-          "url": "https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "on the way home",
-      "url": "https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg"
       },
@@ -1591,6 +1571,26 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
+        "name": "on the way home",
+        "url": "https://open.spotify.com/album/1h5gtqYpoaqnVm85KyYQJW"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Y-2",
+          "url": "https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "on the way home",
+      "url": "https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
         "name": "Spring Fever",
         "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 243696,
       "name": "Spring Fever",
       "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 148125,
       "name": "meraki",
       "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H"
-      },
-      "artists": [
-        {
-          "name": "Rin Ishi",
-          "url": "https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup"
-        }
-      ],
-      "duration_ms": 172389,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "Sometime Somewhere",
         "url": "https://open.spotify.com/album/2ubohjSJIZdbI3cgd9hMBC"
       },
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H"
+      },
+      "artists": [
+        {
+          "name": "Rin Ishi",
+          "url": "https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup"
+        }
+      ],
+      "duration_ms": 172389,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
         "name": "Sliding Doors",
         "url": "https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO"
       },
@@ -1771,6 +1771,22 @@
       "duration_ms": 129229,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "afternoon shower",
+        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
+      },
+      "artists": [
+        {
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
+        }
+      ],
+      "duration_ms": 127595,
+      "name": "afternoon shower",
+      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1803,22 +1819,6 @@
       "duration_ms": 341613,
       "name": "ARUKAS",
       "url": "https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
-        "name": "afternoon shower",
-        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
-      },
-      "artists": [
-        {
-          "name": "AOI",
-          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
-        }
-      ],
-      "duration_ms": 127595,
-      "name": "afternoon shower",
-      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

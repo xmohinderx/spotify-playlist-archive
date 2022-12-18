@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,621 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 39 | [Fading Dreams](https://open.spotify.com/track/7xCCrULuI3kbxF5bzYo80f) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 2:04 |
 | 40 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 |
 | 41 | [I Can't Get Started](https://open.spotify.com/track/60leHFGR0dqQDVShBd0dhz) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/7hMdnLLykOS0hLi1IaoYT9) | 6:01 |
-| 42 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/2ANLxDg2hl6GOU3FAtFYCT) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 |
+| 42 | [I Believe It Can Change](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [I Believe It Can Change](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:54 |
 | 43 | [Lenny's Mood](https://open.spotify.com/track/7BPpIAd34qPhT5sHN8KwAB) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or) | [Cabin Fever](https://open.spotify.com/album/4OFna3RHjT4D2xgsrQBbXe) | 2:14 |
 | 44 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 |
 | 45 | [Responsibilities](https://open.spotify.com/track/1Dx14n9PXzZ94BdZ8EUuHR) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 4:26 |

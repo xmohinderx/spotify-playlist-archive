@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-220 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
+221 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,13 +88,14 @@
 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 | 2022-02-18 |  |
 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 | 2022-01-12 |  |
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2022-01-12 |  |
+| [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2022-01-12 |  |
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 |  |
 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 | 2022-04-13 | 2022-12-13 |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-01-12 | 2022-02-02 |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-04-16 |
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2022-01-12 |  |
-| [Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/4uoKvNOS3juPZeI1rqvWmR) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta Hz](https://open.spotify.com/album/27AWjUaOfAFqukeJGgV119) | 3:24 | 2022-01-12 |  |
+| [Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/4uoKvNOS3juPZeI1rqvWmR) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta Hz](https://open.spotify.com/album/27AWjUaOfAFqukeJGgV119) | 3:24 | 2022-01-12 | 2022-12-18 |
 | [Glade](https://open.spotify.com/track/4PIGadKUPZnug5cXtaMus2) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Rusted Waters](https://open.spotify.com/album/1kG7ooS7ra0bNHkwXCLf3c) | 3:16 | 2022-04-13 | 2022-04-19 |
 | [Glorious Glow](https://open.spotify.com/track/60SnZrB33lIY2BEY553JFl) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 3:26 | 2022-01-12 |  |
 | [Gold Coast Australia](https://open.spotify.com/track/6BNTFiV9i392ZnBLp4gpC2) | [Roman Roads](https://open.spotify.com/artist/2QUVHxjwBJB4Lok2MRT3Dh) | [Stay Safe](https://open.spotify.com/album/6D3qaysSHYi8dvpwslqB9A) | 3:32 | 2022-01-12 |  |

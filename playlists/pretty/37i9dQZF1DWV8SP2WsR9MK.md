@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,700 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,851 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 83 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 84 | [The More I See You](https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:13 |
 | 85 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 |
-| 86 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 |
-| 87 | [Odd Man Out](https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I Have The Room Above Her](https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3) | 4:13 |
+| 86 | [Odd Man Out](https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I Have The Room Above Her](https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3) | 4:13 |
+| 87 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 |
 | 88 | [Straight No Chaser](https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \(And Other Songs\)](https://open.spotify.com/album/6Az63x71f79GUhcyccTomF) | 5:24 |
 | 89 | [You'd Be So Nice To Come Home To \- alt\. take](https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 7:27 |
-| 90 | [Rumspringa](https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN) | [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39), [Lage Lund](https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E) | [Idlewild](https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV) | 7:28 |
-| 91 | [Brooklyn Sometimes](https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Deep Song](https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8) | 8:22 |
+| 90 | [Brooklyn Sometimes](https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Deep Song](https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8) | 8:22 |
+| 91 | [Rumspringa](https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN) | [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39), [Lage Lund](https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E) | [Idlewild](https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV) | 7:28 |
 | 92 | [All The Things You Are](https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Move! The Guitar Artistry Of Hank Garland](https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF) | 4:26 |
 | 93 | [The Big Push](https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l) | [Mike Moreno](https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Three for Three](https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1) | 6:54 |
 | 94 | [May Dance](https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gateway](https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y) | 11:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [How Long Has This Been Going On](https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg) | [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jimmy Raney Featuring Bob Brookmeyer](https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp) | 4:31 |
 | 100 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 
-Snapshot ID: `MTY2NTA0MTM2OCwwMDAwMDAwMGU3ZWVkZDRiMzc5OGRjNmRkOWI2M2ZjODhjYWQxNmYw`
+Snapshot ID: `MTY2NTA0MTM2OCwwMDAwMDAwMDM3YWY0MDkxNzkxMjAxZmYzZmRhNDFjNmJmODYyZTQ5`

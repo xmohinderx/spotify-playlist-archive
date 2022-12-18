@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 726,
+  "num_followers": 733,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMGVlNDFjZjcwMjkwNjQ5MmMwM2NlMjRkY2U4ZDQ5YmM4",
+  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMDhkOTE5MGU3NGM4MDc5ZmVhNzY2ODJlODE2NjM5NWEw",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Mi Barco",
-        "url": "https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 210005,
-      "name": "Mi Barco",
-      "url": "https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 257897,
       "name": "Nada de M\u00ed Vale Dinero",
       "url": "https://open.spotify.com/track/5imr697dT1gPajZWd376fL"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Mi Barco",
+        "url": "https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210005,
+      "name": "Mi Barco",
+      "url": "https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL"
     },
     {
       "added_at": "2022-11-30 14:18:55",

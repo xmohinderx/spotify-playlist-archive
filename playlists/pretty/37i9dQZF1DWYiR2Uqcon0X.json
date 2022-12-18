@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 697968,
+  "num_followers": 698062,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDJjZmM2MDAyNTVmZTE4ZTU3NjljZmZiMGY5NTUyNGUy",
+  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDM2OGMzMWFlNmMzZGU4YTA1ZmRmNzA1YTgwNWY1ZjI4",
   "tracks": [
     {
       "added_at": "2022-10-12 19:05:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Lovers and Leavers",
-        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "The Love That We Need",
-      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Far from Home",
         "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187253,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Lovers and Leavers",
+        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "The Love That We Need",
+      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
     },
     {
       "added_at": "2022-10-12 19:05:09",

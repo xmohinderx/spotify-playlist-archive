@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-672 songs - 1 day 12 hr 28 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+673 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,8 @@
 | [Senorita](https://open.spotify.com/track/2X43mUjx1b3Y2TPnRVU0oW) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Senorita](https://open.spotify.com/album/5UYxAn1wqzf3xOc1M9qxUe) | 3:33 | 2022-03-02 | 2022-04-06 |
 | [Shadow](https://open.spotify.com/track/0NWWEG9qTxDKNARVQf6eDS) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:45 | 2022-03-16 | 2022-04-06 |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 | 2022-07-06 |
-| [She Looked At Me](https://open.spotify.com/track/13OOUhzRPqKXmG2MawCVMv) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2), [Ardaas](https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8) | [She Looked At Me](https://open.spotify.com/album/3ls5rcpYqzcrlLzUtnW8FD) | 2:36 | 2022-12-16 |  |
+| [She Looked At Me](https://open.spotify.com/track/13OOUhzRPqKXmG2MawCVMv) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2), [Ardaas](https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8) | [She Looked At Me](https://open.spotify.com/album/3ls5rcpYqzcrlLzUtnW8FD) | 2:36 | 2022-12-16 | 2022-12-18 |
+| [She Looked At Me](https://open.spotify.com/track/4Eq7B4kyuXtmg12ypmhJ20) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2), [Ardaas](https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8) | [She Looked at Me \- Single](https://open.spotify.com/album/0la3jpT2u8Tl7KtoFfTkha) | 2:36 | 2022-12-16 |  |
 | [She Loves You](https://open.spotify.com/track/0VMgUVDBJOV1Zs7VFnS4yP) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 2:45 | 2022-01-17 | 2022-04-06 |
 | [She's The One](https://open.spotify.com/track/6Xh1mVYnEauD71lkhLfAz2) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [She's The One](https://open.spotify.com/album/3Vx20Ff07mWb790n5wBihN) | 3:24 | 2022-01-21 |  |
 | [Shiddat \- From "Jind Mahi”](https://open.spotify.com/track/2BZ4DouT143tx3ttLdY1Um) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo) | [Shiddat \(From "Jind Mahi”\)](https://open.spotify.com/album/3dg5unQzSCQD79o8bQbv3g) | 3:08 | 2022-07-23 |  |

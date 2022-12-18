@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/> ! غلاف: فليكس
 
-121 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+124 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 |  |
 | [El QOWA](https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:17 | 2022-05-10 | 2022-10-11 |
 | [El Rap Ghayarni](https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El Rap Ghayarni](https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk) | 4:12 | 2022-09-27 |  |
+| [ElNaw Wy](https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [ElNaw Wy](https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb) | 2:29 | 2022-12-17 |  |
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-05-10 | 2022-07-29 |
 | [Feeha La Khfeeha](https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Feeha La Khfeeha](https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg) | 3:09 | 2022-05-10 | 2022-08-24 |
 | [Fish Wa2t](https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Fish Wa2t](https://open.spotify.com/album/5dI5JMzymMU1ZAbXT12hOn) | 2:36 | 2022-08-23 | 2022-10-11 |
@@ -69,6 +70,7 @@
 | [MESH ZAY ELE 7ASO](https://open.spotify.com/track/7f9GYz8Hcb58pKxOddasNR) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [MESH ZAY ELE 7ASO](https://open.spotify.com/album/4FYA7i61BUnjbgfoVCLBnC) | 3:00 | 2022-05-10 | 2022-10-21 |
 | [Messi](https://open.spotify.com/track/4KkGIW8FQfKTnt0WL3fb2N) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl), [Coolpix](https://open.spotify.com/artist/6hKj4ZCRD7oML9Wq3Z1knr) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 3:12 | 2022-12-06 |  |
 | [Min Mafesh](https://open.spotify.com/track/4SeiaRJgwj6QxoHXWBytTF) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Min Mafesh](https://open.spotify.com/album/64RrPflL1cMVfgGC5te4XQ) | 3:53 | 2022-05-10 | 2022-07-15 |
+| [Mossadas Soot](https://open.spotify.com/track/235QPIAPALhFf6KaKJiNqy) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Mossadas Soot](https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ) | 3:13 | 2022-12-17 |  |
 | [Msh Ha7el](https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Msh Ha7el](https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ) | 4:00 | 2022-05-10 | 2022-08-24 |
 | [NAPALM](https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO) | 2:24 | 2022-07-06 | 2022-08-24 |
 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 | 2022-05-10 | 2022-11-08 |
@@ -88,9 +90,10 @@
 | [Sou2 El Cassette](https://open.spotify.com/track/0rcmK0SOLV0AjOFeWAxZD3) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sou2 El Cassette](https://open.spotify.com/album/5viBtz4OjlluWWxNXqUnmb) | 2:43 | 2022-05-10 | 2022-06-21 |
 | [Star](https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Star](https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf) | 3:19 | 2022-05-10 | 2022-10-28 |
 | [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 | 2022-06-06 |  |
+| [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 | 2022-12-17 |  |
 | [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 | 2022-07-25 |  |
 | [Tag](https://open.spotify.com/track/27Fxvok5kB2BaWIpKIxiwz) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Tag](https://open.spotify.com/album/3U8toDaI9YJuSyw6rgoF9y) | 3:49 | 2022-06-20 | 2022-10-01 |
-| [Tarantino](https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:02 | 2022-09-27 |  |
+| [Tarantino](https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:02 | 2022-09-27 | 2022-12-18 |
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-10 | 2022-06-15 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 |  |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |

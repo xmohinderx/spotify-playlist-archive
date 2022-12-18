@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > Para las mujeres que le dan duro al  gym\. ¡A quemar grasa con este playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,469 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,549 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 73 | [Mejor](https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Modo Avión](https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r) | 3:21 |
 | 74 | [Perreito](https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 2:03 |
 | 75 | [Runaway](https://open.spotify.com/track/7BuSE9uTIw931wtZYzvZcQ) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Runaway](https://open.spotify.com/album/0PijZTpKNGUvL12y7w4tZF) | 3:20 |
-| 76 | [Definitivamente](https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Definitivamente](https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH) | 3:37 |
-| 77 | [Esclavo de Tus Besos](https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Esclavo de Tus Besos](https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai) | 3:39 |
+| 76 | [Esclavo de Tus Besos](https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Esclavo de Tus Besos](https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai) | 3:39 |
+| 77 | [Definitivamente](https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Definitivamente](https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH) | 3:37 |
 | 78 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC) | 2:49 |
 | 79 | [Ta To Gucci \(Remix\)](https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Cauty VS Young Cauty](https://open.spotify.com/album/00op2xzUMjsxCj6aCmcnFJ) | 5:04 |
 | 80 | [No Te Vayas](https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [No Te Vayas](https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 99 | [Me Gusta \- Remix](https://open.spotify.com/track/17G9G5tBsdzmKmoHIh00sX) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Gusta \(Remix\)](https://open.spotify.com/album/1D7lFbv4p8DjJVKOcHfX1r) | 3:17 |
 | 100 | [Guayo](https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Guayo](https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN) | 3:42 |
 
-Snapshot ID: `MTU5MzcxMTM1MywwMDAwMDAwMDlkMjQ5ZTJlNGIyZGYyMTAxMTJlMzM3MmE0NjEwMmEz`
+Snapshot ID: `MTU5MzcxMTM1MywwMDAwMDAwMDk3MDg0MzRiZDdmNjQxN2Y3ZWQyZjI4NDJmNWVhMDYz`

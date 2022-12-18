@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,340 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,350 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 45 | [Quédate](https://open.spotify.com/track/61R9b6bR0ikp0ezhjJ0AtL) | [Gala Brie](https://open.spotify.com/artist/1QiR1T9GDuS9E5hrxbkLbE) | [Quédate](https://open.spotify.com/album/0SWw8wLHOkel2D5H1Y5pFo) | 3:58 |
 | 46 | [Chance](https://open.spotify.com/track/6JdoUwgvZFCCiIDapXqax4) | [SANT1](https://open.spotify.com/artist/7u00EoTTmN7RJWLblmgxlK) | [Chance](https://open.spotify.com/album/3xwgOghwfxD3lzpqgu1w3j) | 3:02 |
 | 47 | [Jardin de Rosas](https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C) | [Ramona Vee](https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B) | [Jardin de Rosas](https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR) | 3:22 |
-| 48 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
-| 49 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
+| 48 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
+| 49 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
 | 50 | [Madrid](https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba) | [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3), [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Madrid](https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a) | 2:51 |
 
-Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDExNWVmZDYzYTBmMzBlZDRkNzBjZDI0ZmQzZTBkYmZi`
+Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDM0YjQ5M2UxYzMwMzZhMjYyYjU4MmUwNDhkZGI0OTYx`

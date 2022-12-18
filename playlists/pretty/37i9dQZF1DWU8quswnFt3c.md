@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,076 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,065 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 58 | [Riť](https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y) | 2:59 |
 | 59 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 |
 | 60 | [Make A Move](https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:13 |
-| 61 | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP) | 3:11 |
-| 62 | [Breathe](https://open.spotify.com/track/6GkKzcWODUEyiRXTNluvbL) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Breathe](https://open.spotify.com/album/11MTxbr0apAkujej0nJ5WJ) | 3:33 |
+| 61 | [Breathe](https://open.spotify.com/track/6GkKzcWODUEyiRXTNluvbL) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Breathe](https://open.spotify.com/album/11MTxbr0apAkujej0nJ5WJ) | 3:33 |
+| 62 | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP) | 3:11 |
 | 63 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 |
 | 64 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 |
-| 65 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 |
-| 66 | [His](https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [His](https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t) | 3:49 |
+| 65 | [His](https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [His](https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t) | 3:49 |
+| 66 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 |
 | 67 | [Perder Control](https://open.spotify.com/track/4D6yefPVTDeTQrfRAWu6qc) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Perder Control](https://open.spotify.com/album/4qZmSCO3MA1ngd9jl29jhf) | 2:54 |
 | 68 | [Mango Sticky Rice](https://open.spotify.com/track/6TXVxPWpnbNHq2LcmxD7em) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [Mango Sticky Rice](https://open.spotify.com/album/6R5vWWMCBGgxm2IVskChn8) | 1:29 |
 | 69 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 73 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 |
 | 74 | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz) | 2:33 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDBlMmJjZDAwMWMzZWEyNWUwN2Y5NDA1OTM5YmRhN2Nl`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDk1YzUwMTllMWEyNTQxNjk5Nzk2Y2MyN2Y2NjljNTYz`

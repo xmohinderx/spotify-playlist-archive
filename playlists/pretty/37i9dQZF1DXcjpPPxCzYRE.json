@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 349649,
+  "num_followers": 349753,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MjI5OSwwMDAwMDAwMGRkZmE3Njk4OWEzZjExZTgxMDQ0NzI0YTMyMDgyNWUz",
+  "snapshot_id": "MTY2ODE3MjI5OSwwMDAwMDAwMDEwMGJiYzI4MTI3OWYwYWIyOTkwYmJkMTZhMjU3Njg5",
   "tracks": [
     {
       "added_at": "2022-11-11 13:11:39",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Northern Sky",
-      "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 196226,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 224013,
+      "name": "Northern Sky",
+      "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "Look at it in the Light",
         "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 141743,
       "name": "Yards / Gardens",
       "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
+        "name": "Someday Tomorrow Maybe",
+        "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/4TSUh9GIzjlt9QAH32ObaB"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Someday Tomorrow Maybe",
-        "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/4TSUh9GIzjlt9QAH32ObaB"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
         "name": "Following El Sol",
         "url": "https://open.spotify.com/album/79lI3oyjEOuwyIEMqbKRuj"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 208584,
       "name": "Following El Sol",
       "url": "https://open.spotify.com/track/0g0i4DRRLx0tfyX8ge5PVU"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "Nave Especial",
         "url": "https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 136279,
       "name": "Mudanza",
       "url": "https://open.spotify.com/track/2p607VlsD6tMuYukIxolRw"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2022-11-11 13:11:39",

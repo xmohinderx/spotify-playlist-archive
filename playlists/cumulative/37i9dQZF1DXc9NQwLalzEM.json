@@ -1822,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "Pardon My Innocent Heart b/w Main Squeeze",
+        "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
+      },
+      "artists": [
+        {
+          "name": "Nate Evans",
+          "url": "https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194386,
+      "name": "Main Squeeze",
+      "url": "https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb"
+    },
+    {
+      "album": {
         "name": "Eccentric Soul: Twinight's Lunar Rotation",
         "url": "https://open.spotify.com/album/3aGDWYkRUBjc6k114lAnPI"
       },
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 194386,
       "name": "Main Squeeze",
       "url": "https://open.spotify.com/track/5qJKjlVWrkcDtrHyikH6a1"

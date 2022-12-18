@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 582911,
+  "num_followers": 583040,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAzMzU4MCwwMDAwMDAwMGZmYTU0ODRhNWE5M2I5ODBkOTc5ZWRhMWMyMTk5NjY3",
+  "snapshot_id": "MTY2OTAzMzU4MCwwMDAwMDAwMGU0ZDNlYmZmM2M1N2JkMTZjNThkMDIxMmMzMmIyMmQ2",
   "tracks": [
     {
       "added_at": "2022-11-21 12:26:20",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "0,9 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
-      },
-      "artists": [
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 232434,
-      "name": "Nullkommaneun",
-      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
         "name": "Raop",
         "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 172208,
       "name": "Easy",
       "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
+        "name": "0,9 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "duration_ms": 232434,
+      "name": "Nullkommaneun",
+      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -215,6 +215,42 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
+        "name": "Ganz Oben (Mixtape)",
+        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ein Affe und ein Pferd",
+      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
         "name": "Advanced Chemistry",
         "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
       },
@@ -239,42 +275,6 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Ganz Oben (Mixtape)",
-        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Ein Affe und ein Pferd",
-      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
       },
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
-        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
+        "name": "Casia Deluxe",
+        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
       },
       "artists": [
         {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
         }
       ],
-      "duration_ms": 219013,
-      "name": "Oh Jonny",
-      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+      "duration_ms": 201979,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Casia Deluxe",
-        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
+        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
+        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
       },
       "artists": [
         {
-          "name": "Miami Yacine",
-          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
         }
       ],
-      "duration_ms": 201979,
-      "name": "Kokaina",
-      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
+      "duration_ms": 219013,
+      "name": "Oh Jonny",
+      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Walpurgisnacht",
-      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "Walpurgisnacht",
+      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -503,26 +503,18 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
       },
       "artists": [
         {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        },
-        {
-          "name": "Kuba",
-          "url": "https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK"
-        },
-        {
-          "name": "Cannibal Rob",
-          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 323253,
-      "name": "Neuruppin",
-      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -619,18 +611,26 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        },
+        {
+          "name": "Kuba",
+          "url": "https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK"
+        },
+        {
+          "name": "Cannibal Rob",
+          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+      "duration_ms": 323253,
+      "name": "Neuruppin",
+      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
     },
     {
       "added_at": "2022-11-21 12:26:20",

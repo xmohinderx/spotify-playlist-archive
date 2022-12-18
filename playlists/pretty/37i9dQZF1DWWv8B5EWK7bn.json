@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 126497,
+  "num_followers": 126684,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDc5MGE1OTZjMTUzNDg5MjdkZjQyM2MzYjA5NWE5NWI4",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGQyZDYwM2Y5NWZjZDYxODA2ZDlmZjk2ZjIyMTg3MGJk",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
-      "added_at": "2022-09-07 01:02:18",
+      "added_at": "2022-01-14 00:51:04",
       "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
       "artists": [
         {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 157179,
-      "name": "Sour Sun",
-      "url": "https://open.spotify.com/track/3OjsDgh6zdsi1PbYfOkgt6"
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2022-11-03 18:38:26",
@@ -177,20 +177,20 @@
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
     },
     {
-      "added_at": "2022-01-14 00:51:04",
+      "added_at": "2022-09-07 01:02:18",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+        "name": "Fairy Rust",
+        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+      "duration_ms": 157179,
+      "name": "Sour Sun",
+      "url": "https://open.spotify.com/track/3OjsDgh6zdsi1PbYfOkgt6"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 317453,
-      "name": "Zoo Eyes",
-      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
-    },
-    {
       "added_at": "2022-09-11 03:45:48",
       "album": {
         "name": "CLEARING",
@@ -291,6 +275,22 @@
       "duration_ms": 180000,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 317453,
+      "name": "Zoo Eyes",
+      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -489,26 +489,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2022-09-22 17:52:51",
-      "album": {
-        "name": "The Order of the Rain",
-        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "The Order of the Rain",
-      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
-    },
-    {
       "added_at": "2022-09-06 17:57:02",
       "album": {
         "name": "Pulse Of The Early Brain [Switched On Volume 5]",
@@ -527,6 +507,26 @@
       "duration_ms": 646683,
       "name": "Simple Headphone Mind",
       "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
+    },
+    {
+      "added_at": "2022-09-22 17:52:51",
+      "album": {
+        "name": "The Order of the Rain",
+        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "The Order of the Rain",
+      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
-      "added_at": "2022-07-15 05:42:57",
-      "album": {
-        "name": "Robot Riot",
-        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 176952,
-      "name": "Robot Riot",
-      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
-    },
-    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Sun's Signature",
@@ -683,6 +667,22 @@
       "duration_ms": 405773,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
+    },
+    {
+      "added_at": "2022-07-15 05:42:57",
+      "album": {
+        "name": "Robot Riot",
+        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 176952,
+      "name": "Robot Riot",
+      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
     },
     {
       "added_at": "2022-02-08 17:25:13",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "As The Love Continues",
+        "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 310120,
+      "name": "Dry Fantasy",
+      "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
+    },
+    {
       "added_at": "2022-09-12 20:45:15",
       "album": {
         "name": "Just a moment",
@@ -823,22 +839,6 @@
       "duration_ms": 202040,
       "name": "Just a moment",
       "url": "https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "As The Love Continues",
-        "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 310120,
-      "name": "Dry Fantasy",
-      "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 258420,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Room For The Moon",
         "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 338371,
       "name": "Plans",
       "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 258420,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
     },
     {
-      "added_at": "2022-09-15 12:45:34",
-      "album": {
-        "name": "Joyas",
-        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 172402,
-      "name": "Joyas",
-      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Big Moonlight (Ookii Gekkou)",
@@ -1167,6 +1151,22 @@
       "duration_ms": 290373,
       "name": "Big Moonlight (Ookii Gekkou)",
       "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
+    },
+    {
+      "added_at": "2022-09-15 12:45:34",
+      "album": {
+        "name": "Joyas",
+        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 172402,
+      "name": "Joyas",
+      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
     },
     {
-      "added_at": "2022-08-13 01:26:08",
-      "album": {
-        "name": "Escultura Misterio",
-        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
-      },
-      "artists": [
-        {
-          "name": "Tarik Rahim",
-          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "Escultura Misterio",
-      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
-    },
-    {
       "added_at": "2021-12-01 01:36:10",
       "album": {
         "name": "SEIM",
@@ -1401,20 +1385,20 @@
       "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2022-08-13 01:26:08",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u"
+        "name": "Escultura Misterio",
+        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
       },
       "artists": [
         {
-          "name": "Leatherette",
-          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+          "name": "Tarik Rahim",
+          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
         }
       ],
-      "duration_ms": 186580,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t"
+      "duration_ms": 173862,
+      "name": "Escultura Misterio",
+      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
     },
     {
       "added_at": "2022-03-11 04:34:08",
@@ -1431,6 +1415,22 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "duration_ms": 186580,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
-      "added_at": "2022-09-03 03:42:34",
-      "album": {
-        "name": "Velvet Station",
-        "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
-      },
-      "artists": [
-        {
-          "name": "Base Stereo Club",
-          "url": "https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q"
-        }
-      ],
-      "duration_ms": 170750,
-      "name": "Sue Me",
-      "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
-    },
-    {
       "added_at": "2022-09-03 04:22:45",
       "album": {
         "name": "Noon",
@@ -1483,6 +1467,22 @@
       "duration_ms": 168705,
       "name": "Noon",
       "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
+    },
+    {
+      "added_at": "2022-09-03 03:42:34",
+      "album": {
+        "name": "Velvet Station",
+        "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
+      },
+      "artists": [
+        {
+          "name": "Base Stereo Club",
+          "url": "https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q"
+        }
+      ],
+      "duration_ms": 170750,
+      "name": "Sue Me",
+      "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -1657,6 +1657,22 @@
       "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
+      "added_at": "2022-08-03 02:31:18",
+      "album": {
+        "name": "Todos Mis Labios",
+        "url": "https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB"
+      },
+      "artists": [
+        {
+          "name": "Fenna Frei",
+          "url": "https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Todos Mis Labios",
+      "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
+    },
+    {
       "added_at": "2022-09-29 01:42:35",
       "album": {
         "name": "Down and Lonely",
@@ -1675,22 +1691,6 @@
       "duration_ms": 224047,
       "name": "Down and Lonely",
       "url": "https://open.spotify.com/track/6DAYxohAgspB0483KwT160"
-    },
-    {
-      "added_at": "2022-08-03 02:31:18",
-      "album": {
-        "name": "Todos Mis Labios",
-        "url": "https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB"
-      },
-      "artists": [
-        {
-          "name": "Fenna Frei",
-          "url": "https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Todos Mis Labios",
-      "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
     },
     {
       "added_at": "2022-03-11 06:40:47",

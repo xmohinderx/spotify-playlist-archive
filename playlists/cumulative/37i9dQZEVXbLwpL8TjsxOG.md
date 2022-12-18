@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-500 songs - 1 day 6 hr 7 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+501 songs - 1 day 6 hr 9 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-24 | 2021-12-29 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-11-05 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-13 | 2022-11-21 |
+| [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-17 |  |
 | [King Kong](https://open.spotify.com/track/1UJYWfzyPjRwmlCawgJroV) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [King Kong](https://open.spotify.com/album/3JKrNHh8gVviwWycHE9DDm) | 3:46 | 2022-06-09 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-09-25 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
@@ -322,7 +323,7 @@
 | [中二病人 \(feat\. 周國賢\)](https://open.spotify.com/track/2HwLXriLd9nF9ZdLgGrQHT) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [中二病人 \(feat\. 周國賢\)](https://open.spotify.com/album/1LlgBBE71WMXpkuLPcxeKJ) | 3:49 | 2021-09-25 | 2021-10-02 |
 | [主角光環](https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:43 | 2022-06-01 |  |
 | [主角光環](https://open.spotify.com/track/4qSkBCWRJbFHRwUzZI5b8f) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [主角光環](https://open.spotify.com/album/23bgyxECT7zGsiVpSgqkOx) | 3:43 | 2021-10-23 | 2022-02-18 |
-| [乾](https://open.spotify.com/track/2xmXF3hihKntUgTo1g4Lko) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [乾](https://open.spotify.com/album/2sElNk6PTgB9qMeo1a2NKl) | 3:39 | 2022-09-21 |  |
+| [乾](https://open.spotify.com/track/2xmXF3hihKntUgTo1g4Lko) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [乾](https://open.spotify.com/album/2sElNk6PTgB9qMeo1a2NKl) | 3:39 | 2022-09-21 | 2022-12-18 |
 | [二損一](https://open.spotify.com/track/1CMTBEtl2mqKJu4VOXDCGF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Frenemy](https://open.spotify.com/album/3uAhnIdZUUJBLOPgQPLso2) | 3:36 | 2022-08-17 | 2022-08-19 |
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2021-08-19 | 2022-05-08 |
 | [人類群星閃耀時](https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [人類群星閃耀時](https://open.spotify.com/album/1hLx0tCFnduODpxvYYum9o) | 5:46 | 2021-10-16 | 2022-07-31 |
@@ -343,7 +344,7 @@
 | [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-05-19 | 2022-06-01 |
 | [到底發生過什麼事](https://open.spotify.com/track/48yFnEAkBdOmqvhZ6NaR4U) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [到底發生過什麼事](https://open.spotify.com/album/7h9tAmlntUcHYb17Me9ge3) | 4:19 | 2022-10-25 |  |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2021-09-19 |
-| [勁浪漫 超溫馨](https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 3:19 | 2022-05-21 |  |
+| [勁浪漫 超溫馨](https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 3:19 | 2022-05-21 | 2022-12-18 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2021-11-28 | 2022-05-28 |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2021-10-16 | 2022-03-11 |
 | [半](https://open.spotify.com/track/1QP9ug2pxr20UmbgyUlTA8) | [Jeremy Lee 李駿傑](https://open.spotify.com/artist/3aNQDIayeN5QYwx42wk9VF) | [半](https://open.spotify.com/album/1KISSK3yeJRExrmoVZVN1E) | 4:03 | 2022-02-23 | 2022-05-15 |
@@ -423,7 +424,7 @@
 | [每次你走的時分](https://open.spotify.com/track/6i8z0tElGO6Ye3Bk7nW496) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:03 | 2021-09-01 | 2021-09-02 |
 | [水刑物語](https://open.spotify.com/track/33c5MYdr80WqXws9pj06b4) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [水刑物語](https://open.spotify.com/album/1shcsO8cD448WOI1WGH19Q) | 4:19 | 2021-04-21 | 2021-09-20 |
 | [永順街39號](https://open.spotify.com/track/3b4dQtIVyVhQdbYVfrik0k) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [永順街39號](https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj) | 4:40 | 2022-11-13 |  |
-| [污糟兒](https://open.spotify.com/track/2W9MxlcyMWmeHgZNnCSosb) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [污糟兒](https://open.spotify.com/album/3cAI5qxC8Tk84aCtlyVISB) | 3:45 | 2022-07-21 | 2022-12-15 |
+| [污糟兒](https://open.spotify.com/track/2W9MxlcyMWmeHgZNnCSosb) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [污糟兒](https://open.spotify.com/album/3cAI5qxC8Tk84aCtlyVISB) | 3:45 | 2022-07-21 |  |
 | [沉默是金](https://open.spotify.com/track/5ezpe0WxjrTXSp82nJDnsM) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Hot Summer](https://open.spotify.com/album/1e3xezRdT9FNnweZf3XgbP) | 4:09 | 2021-04-03 | 2021-04-04 |
 | [沒明日的恐懼](https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [沒明日的恐懼](https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk) | 3:48 | 2021-07-09 | 2021-08-13 |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-03-12 | 2022-03-16 |

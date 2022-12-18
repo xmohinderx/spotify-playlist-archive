@@ -594,6 +594,24 @@
     },
     {
       "album": {
+        "name": "ElNaw Wy",
+        "url": "https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149908,
+      "name": "ElNaw Wy",
+      "url": "https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw"
+    },
+    {
+      "album": {
         "name": "FAR2 KHEBRA",
         "url": "https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov"
       },
@@ -1270,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Mossadas Soot",
+        "url": "https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193845,
+      "name": "Mossadas Soot",
+      "url": "https://open.spotify.com/track/235QPIAPALhFf6KaKJiNqy"
+    },
+    {
+      "album": {
         "name": "Msh Ha7el",
         "url": "https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ"
       },
@@ -1636,6 +1672,28 @@
     },
     {
       "album": {
+        "name": "STR3",
+        "url": "https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx"
+      },
+      "artists": [
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        },
+        {
+          "name": "Intomymind",
+          "url": "https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208285,
+      "name": "STR3",
+      "url": "https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP"
+    },
+    {
+      "album": {
         "name": "Sutra",
         "url": "https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ"
       },
@@ -1687,7 +1745,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 182096,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K"

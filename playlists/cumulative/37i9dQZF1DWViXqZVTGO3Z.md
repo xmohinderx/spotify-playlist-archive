@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-293 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+294 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [O Holy Night](https://open.spotify.com/track/4Jl0cjYdFu0ybMXuKTrXzQ) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 5:13 | 2021-12-11 |  |
 | [O Holy Night](https://open.spotify.com/track/77t2jkqojne0vc9YDnJ3NP) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/42fwK8CU4k8YMq2d0rVxOO) | 4:52 | 2022-11-26 | 2022-12-12 |
 | [O Holy Night](https://open.spotify.com/track/6tYMJrhpToYlJdVK0IAOkE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Christmas Past](https://open.spotify.com/album/3btctA0Xw5hPVAsZizRPLo) | 6:28 | 2021-12-24 | 2022-07-27 |
+| [O Holy Night \(feat\. The McLendon Family\)](https://open.spotify.com/track/6vhEfu9CT6t8eH2hJNf48l) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [The McLendon Family](https://open.spotify.com/artist/5P8EFlWzOUDzJHmR6QyF1A) | [O Holy Night](https://open.spotify.com/album/5vfXOSlFK6iXixw7PXHIpe) | 5:06 | 2022-12-11 |  |
 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-11 |  |
 | [O Holy Night \- Amapiano](https://open.spotify.com/track/2f44MvPUQH4TK9DYNJxHow) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night](https://open.spotify.com/album/741xPvKHHY0sF4NW9YP92P) | 6:09 | 2021-12-24 | 2022-11-13 |
 | [O Holy Night \- Amapiano](https://open.spotify.com/track/2nygE7wq6PU04FZB0x9OGb) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night \(Amapiano\)](https://open.spotify.com/album/1DOZF7MPZV7oIHfRKfOVwi) | 6:09 | 2021-12-24 | 2022-12-14 |
@@ -224,7 +225,7 @@
 | [O Holy Night \- Live](https://open.spotify.com/track/5UfIxD8DonTU1Be7eFNltI) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA), [Myshel Wilkins](https://open.spotify.com/artist/4Q2GtdQpv47IIpxFGiu3uC) | [We Sing to You Jesus: Carols for Worship \(Live\)](https://open.spotify.com/album/15D91O1cc3V8oGoOeTSfc8) | 6:26 | 2021-12-24 | 2022-07-27 |
 | [O Holy Night \- Radio Version](https://open.spotify.com/track/3rWqSo85Y554bpc1XRmjmN) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [O Holy Night \(Radio Version\)](https://open.spotify.com/album/4izT9J7YwgPndBfuA7j0dB) | 4:49 | 2021-12-11 |  |
 | [O What A King](https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [O What A King](https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu) | 3:14 | 2022-11-26 |  |
-| [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 |  |
+| [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 | 2022-12-18 |
 | [Old Fashioned Christmas](https://open.spotify.com/track/4b5jMKaV2uu4XtcPrRxdXM) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Old Fashioned Christmas](https://open.spotify.com/album/54zoj8Yivcp8lNJhLUUFk0) | 2:39 | 2021-12-11 | 2022-12-03 |
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2021-12-11 |  |
 | [Our King Has Come \(Live\)](https://open.spotify.com/track/2fNd8uZp9GvyxJKHa6bOo0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [For The Honor](https://open.spotify.com/album/7AF8bOSZOINrMfLOhZVydc) | 3:40 | 2021-12-24 | 2022-11-01 |

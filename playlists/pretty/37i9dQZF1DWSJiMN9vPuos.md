@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJiMN9vPuos.md) - [plain]
 
 > Where the past meets the present\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,506 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,578 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

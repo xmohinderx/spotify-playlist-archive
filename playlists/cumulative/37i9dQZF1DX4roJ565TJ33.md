@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-121 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+122 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Winterpoem](https://open.spotify.com/track/26ObAFYbpsN1l5Cq2DdvNc) | [Tommy Kotter Trio](https://open.spotify.com/artist/4BBORrvVDzZFAA54IZ04JO), [Tommy Kotter](https://open.spotify.com/artist/52Y2n1SPSTH6e4Qz1Qe6OX), [Yasuhito Mori](https://open.spotify.com/artist/0gSsRQJ7tNMmQv7yT2KRFv), [David Sundby](https://open.spotify.com/artist/40gguU9UmxYcqyLnEVk7hz) | [Improvisation](https://open.spotify.com/album/3XUusOZ3SM8gvOfEfvoXFo) | 4:29 | 2021-11-08 |  |
 | [Wish You Were Gay](https://open.spotify.com/track/4S5d8XmM81odJDBC3laDJT) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:07 | 2022-06-22 | 2022-12-02 |
 | [Wish You Were Gay](https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Wish You Were Gay](https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb) | 3:07 | 2021-11-08 |  |
-| [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-20 |  |
+| [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-20 | 2022-12-18 |
+| [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 | 2022-12-01 |  |
 | [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/track/2uZ7GgNqVTjIqKnrqjm9vh) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/album/6RivCAP4ZkDbbNY3wA7wU1) | 3:40 | 2021-11-08 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

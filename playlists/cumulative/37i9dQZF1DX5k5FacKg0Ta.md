@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-89 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/4dQJSl2Re8NrzRsKhgyvQD)
+90 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/4dQJSl2Re8NrzRsKhgyvQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Chickenhawk](https://open.spotify.com/track/6340Rw7wgSjcJdx8ymzbXG) | [Jarkka Rissanen Tonal Box Trio](https://open.spotify.com/artist/2fE6uoO9LenSFLrq5z2R7h), [Kalle Fält](https://open.spotify.com/artist/2KyukKocvwQteeLjKihxkR) | [Chickenhawk](https://open.spotify.com/album/4N4x0IBcxWuTManseuPm0W) | 4:27 | 2022-09-02 |  |
 | [Coast](https://open.spotify.com/track/3ELSoIARBzDrqpbTav5DAD) | [Sämpi Ensemble](https://open.spotify.com/artist/0ayqLgmmLwjwaf5JQaoXzi) | [Scenes](https://open.spotify.com/album/4SgIdBAzCLmLCm9il7eWZj) | 4:47 | 2022-09-02 |  |
 | [Concrete Material](https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf) | [Joni Raikaslehto InFusion](https://open.spotify.com/artist/3uf19Vh8oCP8iEHrtbzvlL) | [Prog Fu!](https://open.spotify.com/album/6iB3uOyipKFssd9E5jAJK7) | 7:55 | 2022-09-02 |  |
+| [Corona](https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i) | [Aaro Laitinen Quintet](https://open.spotify.com/artist/38NWfEYiJBllcdL6vE4Wb0) | [Corona](https://open.spotify.com/album/04MAdee5JJQdLMfESDGYbX) | 7:15 | 2022-10-28 |  |
 | [Dead Sea](https://open.spotify.com/track/1QnoRhFiXxkKCZ9AK4lvrg) | [Jussi Fredriksson Trio](https://open.spotify.com/artist/5o52BOj8untw6hOzTjmRsi) | [Dead Sea](https://open.spotify.com/album/5kApCMPzvKjtUDRX4Fv7nb) | 6:32 | 2022-09-02 | 2022-09-23 |
 | [Decoration \- Alternative Version](https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG) | [Almost Standards \(Doctoral Edition\)](https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb) | 6:34 | 2022-09-02 |  |
 | [Deep in the Water](https://open.spotify.com/track/6223sSiNuaTxGCyyshUYGl) | [Nina Mya](https://open.spotify.com/artist/7mbxECrkKzOUyiEsIEMXPQ) | [Deep in the Water](https://open.spotify.com/album/1MCtSnHVmiI9CaL0My2jUO) | 3:59 | 2022-09-02 | 2022-09-23 |

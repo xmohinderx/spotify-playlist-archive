@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Quevedo y Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,382 likes - 69 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,451 likes - 69 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 30 | [Viaje sin regreso](https://open.spotify.com/track/2NRqyMIeZZYzHiME688y2H) | [Kabliz](https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy) | [Viaje sin regreso](https://open.spotify.com/album/6ZVNKl12anUrPHoUhXXUwu) | 3:24 |
 | 31 | [Diamante](https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [El mundo no se hizo en dos días](https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP) | 4:05 |
 | 32 | [Bendita](https://open.spotify.com/track/08fINYP5wSOu90PmVA3AtS) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Bendita](https://open.spotify.com/album/17eN8bTbUC5Cr8r6jP9QhV) | 3:36 |
-| 33 | [¿Y Quién Es Ella? \- Remix](https://open.spotify.com/track/1au64vRY2ApjoQKHWW1VtL) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh), [Yorgo Jabbour](https://open.spotify.com/artist/5Gq5JyxXntjxwUEW8E8gar) | [Cumbiones](https://open.spotify.com/album/2vpwDwaIiO1n4OAG5L3SUN) | 3:50 |
+| 33 | [¿Y Quién Es Ella? \- Remix](https://open.spotify.com/track/1au64vRY2ApjoQKHWW1VtL) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Cumbiones](https://open.spotify.com/album/2vpwDwaIiO1n4OAG5L3SUN) | 3:50 |
 | 34 | [Quemando Remix](https://open.spotify.com/track/7pkAZ32TUWcmtoS0px7Lhi) | [Cief\-J](https://open.spotify.com/artist/5KJ3i1AxDhBH1IILhcQWBt), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb), [Emil Franco](https://open.spotify.com/artist/0tH18zE7yh2uwuV6rbu8yv), [Kennyl](https://open.spotify.com/artist/3ZHeLtDvcMyPs1rwlPaazE) | [Quemando Remix](https://open.spotify.com/album/2esiWT9cwtAIRQUoGgIcwA) | 4:25 |
 | 35 | [Parcerita](https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Parcerita](https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz) | 1:45 |
 | 36 | [Que Arrebate \(with Tivi Gunz, Yomel El Meloso & Ceky Viciny\) \- Remix](https://open.spotify.com/track/5YzJvcmhFR3jfmDJPcVm5w) | [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Que Arrebate \(with Tivi Gunz, Yomel El Meloso & Ceky Viciny\) \[Remix\]](https://open.spotify.com/album/3Mbmb31Wta3L5NqKeN9GXe) | 3:44 |

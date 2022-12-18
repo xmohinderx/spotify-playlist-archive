@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-206 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+207 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Future Me \(Stripped\)](https://open.spotify.com/track/18n24cWVRHKT9PFhkEvsTG) | [Frank Legeay](https://open.spotify.com/artist/3UGllLBllWl2L26fEFe7l0), [Brittany Ray](https://open.spotify.com/artist/3MsA2aQCSDMoi7K7pZEYPo) | [Future Me \(Stripped\)](https://open.spotify.com/album/1BRX5eqhG2MQ5u1Mmzjyui) | 3:10 | 2021-12-17 | 2022-07-09 |
 | [GIRL \- Acoustic](https://open.spotify.com/track/611tozIA4qliEKm6puczXi) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:53 | 2022-07-08 | 2022-07-28 |
 | [Girl in a Bar \(Acoustic\)](https://open.spotify.com/track/2ln7CmUkokQ7swgfnVGbLg) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Girl in a Bar \(Acoustic\)](https://open.spotify.com/album/5JPFX41LVUWPyz9MtYvbWc) | 3:43 | 2021-12-17 | 2022-07-09 |
+| [Girl On Fire \- Acoustic](https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Girl On Fire \(Acoustic\)](https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia) | 3:08 | 2022-12-16 |  |
 | [Girlfriend \- Acoustic](https://open.spotify.com/track/50ZUmhK9HlAcErRiStCLqw) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Seventeen](https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2021-12-17 |  |
 | [Going, Going, Gone \- Acoustic](https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Going, Going, Gone \(Acoustic\)](https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8) | 2:46 | 2022-12-16 |  |
@@ -208,7 +209,7 @@
 | [Wild Love](https://open.spotify.com/track/7DJRKddQ7GogZpzgFfkA0i) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Wild Love](https://open.spotify.com/album/6HdfW84BXTz10aSsMs8kZN) | 3:14 | 2021-12-17 | 2022-07-10 |
 | [Wild Palomino](https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Wild Palomino](https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv) | 3:18 | 2022-08-26 |  |
 | [Wilder Days \- Acoustic](https://open.spotify.com/track/7dkCnDAjnTNTCvpb9xMHXU) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 4:11 | 2022-08-12 |  |
-| [Wildfire \- Acoustic](https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire \(Acoustic\)](https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW) | 2:53 | 2021-12-17 |  |
+| [Wildfire \- Acoustic](https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire \(Acoustic\)](https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW) | 2:53 | 2021-12-17 | 2022-12-18 |
 | [Woman Of My Word](https://open.spotify.com/track/6F9sPxH3E2o3orwHljR43X) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Woman Of My Word](https://open.spotify.com/album/214M4oC89w5sUGGK4kSreW) | 4:55 | 2021-12-17 | 2022-07-10 |
 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 | 2022-08-12 |  |
 | [You and Jesus \- Acoustic](https://open.spotify.com/track/2dphPYc5468yOxlGZnf2VC) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus \(Acoustic\)](https://open.spotify.com/album/7LpFZjTCMspClEBy3J5vWO) | 2:46 | 2022-05-27 | 2022-07-15 |

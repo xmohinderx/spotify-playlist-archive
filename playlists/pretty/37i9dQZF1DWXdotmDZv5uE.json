@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 122441,
+  "num_followers": 122459,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDU0Mzk1YWIzZWM2ZmQ0YzAyN2NjNjYxNjMzNWZhOWVh",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDA1ODY4ZGMxZTZjODVmMDhjZTY0M2U4NWY5ZWRmNmIx",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Polkas Mexicanas",
-        "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
-      },
-      "artists": [
-        {
-          "name": "Mariachi M\u00e9xico de Pepe Villa",
-          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "La Marcha De Zacatecas",
-      "url": "https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Sembrando Flores",
         "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 316520,
       "name": "Sembrando Flores",
       "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Polkas Mexicanas",
+        "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
+      },
+      "artists": [
+        {
+          "name": "Mariachi M\u00e9xico de Pepe Villa",
+          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "La Marcha De Zacatecas",
+      "url": "https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "El Tilingo Lingo",
-        "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jarocho Lindo Veracruz",
-          "url": "https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU"
-        }
-      ],
-      "duration_ms": 175972,
-      "name": "El Tilingo Lingo",
-      "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Son De Madera",
         "url": "https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 565013,
       "name": "El Amanecer",
       "url": "https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "El Tilingo Lingo",
+        "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Jarocho Lindo Veracruz",
+          "url": "https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU"
+        }
+      ],
+      "duration_ms": 175972,
+      "name": "El Tilingo Lingo",
+      "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "El Apasionado",
-        "url": "https://open.spotify.com/album/2fADsQIgAk1ifIvDNLGBvn"
-      },
-      "artists": [
-        {
-          "name": "Trio Chicamole Son Huasteco",
-          "url": "https://open.spotify.com/artist/2mglsa8fsq4zRbrqW2w7aB"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/406FTp77mbKa4NGY0ebVJn"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "M\u00e9xico",
         "url": "https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 213573,
       "name": "El Trompo (Son Jarocho) [Veracruz]",
       "url": "https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "El Apasionado",
+        "url": "https://open.spotify.com/album/2fADsQIgAk1ifIvDNLGBvn"
+      },
+      "artists": [
+        {
+          "name": "Trio Chicamole Son Huasteco",
+          "url": "https://open.spotify.com/artist/2mglsa8fsq4zRbrqW2w7aB"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/406FTp77mbKa4NGY0ebVJn"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "M\u00e9xico 2010 El Salterio",
-        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
+        "name": "LA BELLA EPOCA CON SALTERIO",
+        "url": "https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p"
       },
       "artists": [
         {
-          "name": "Daniel Armas",
-          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
+          "name": "LA BELLA EPOCA CON SALTERIO",
+          "url": "https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om"
         }
       ],
-      "duration_ms": 161866,
-      "name": "Ay Jalisco No Te Rajes",
-      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
+      "duration_ms": 158080,
+      "name": "LAS ALTE\u00d1ITAS",
+      "url": "https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "LA BELLA EPOCA CON SALTERIO",
-        "url": "https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p"
+        "name": "M\u00e9xico 2010 El Salterio",
+        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
       },
       "artists": [
         {
-          "name": "LA BELLA EPOCA CON SALTERIO",
-          "url": "https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om"
+          "name": "Daniel Armas",
+          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
         }
       ],
-      "duration_ms": 158080,
-      "name": "LAS ALTE\u00d1ITAS",
-      "url": "https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW"
+      "duration_ms": 161866,
+      "name": "Ay Jalisco No Te Rajes",
+      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
     },
     {
       "added_at": "2022-08-31 15:41:18",

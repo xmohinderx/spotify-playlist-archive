@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: brakence",
-  "num_followers": 2213792,
+  "num_followers": 2213854,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2MjI0NCwwMDAwMDAwMDBmNDEwNmViM2M1ZmFlOTM5ZDQ3OTM4NTRmZjc4Y2Rl",
+  "snapshot_id": "MTY3MTE2MjI0NCwwMDAwMDAwMGQxZmU5NzYxNGM3ZThjYjQ2NmJiNzc0NjY3NjUzOTc2",
   "tracks": [
     {
       "added_at": "2022-12-16 03:34:47",
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
-      "added_at": "2022-12-17 00:15:14",
+      "added_at": "2022-12-18 00:21:52",
       "album": {
         "name": "Woman on the Internet",
         "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2022-12-16 03:34:47",
@@ -575,6 +559,22 @@
       "duration_ms": 177280,
       "name": "Everything Eventually Ends",
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2022-12-16 03:34:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Palomino",
-      "url": "https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 385653,
       "name": "God Turn Me Into a Flower",
       "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Palomino",
+      "url": "https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5"
     },
     {
       "added_at": "2022-12-16 03:34:47",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 237316,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 268992,
       "name": "Home By Now",
       "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
     },
     {
       "added_at": "2022-12-16 03:34:47",
@@ -803,38 +803,6 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 237316,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
         "name": "One Night with The Valet",
         "url": "https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh"
       },
@@ -847,6 +815,22 @@
       "duration_ms": 113400,
       "name": "One Night with The Valet",
       "url": "https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
     },
     {
       "added_at": "2022-12-16 03:34:47",
@@ -871,6 +855,22 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
         "name": "Jesus Freak Lighter",
         "url": "https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 152380,
       "name": "Jesus Freak Lighter",
       "url": "https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
+        "name": "Colin",
+        "url": "https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 219567,
+      "name": "Colin",
+      "url": "https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst"
     },
     {
       "added_at": "2022-12-16 03:34:47",
@@ -903,18 +919,18 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
-        "name": "Colin",
-        "url": "https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7"
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
         }
       ],
-      "duration_ms": 219567,
-      "name": "Colin",
-      "url": "https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst"
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2022-12-16 03:34:47",
@@ -955,22 +971,6 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
         "name": "After School Club",
         "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
       },
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-12-16 03:34:47",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
+    },
+    {
+      "added_at": "2022-12-16 03:34:47",
+      "album": {
         "name": "I felt a Funeral, in my Brain [feat. Phoebe Bridgers]",
         "url": "https://open.spotify.com/album/2NAQ55IP8e5YH9sasQDuCJ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 249135,
       "name": "I felt a Funeral, in my Brain [feat. Phoebe Bridgers]",
       "url": "https://open.spotify.com/track/7ko94TOP3vONuYqHLH6zpe"
-    },
-    {
-      "added_at": "2022-12-16 03:34:47",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 248243,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2022-12-16 03:34:47",

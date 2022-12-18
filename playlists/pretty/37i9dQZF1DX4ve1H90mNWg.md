@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Kaash Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,912 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,917 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 35 | [SIMPLE \(feat\. I DONT KNOW HOW BUT THEY FOUND ME\)](https://open.spotify.com/track/3IppKdrpeNTGGxmPyo9clr) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:51 |
 | 36 | [Bagel Chips](https://open.spotify.com/track/6pXl2hwlITw1DrkRiLhCzB) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Bagel Chips](https://open.spotify.com/album/1tp4QwC2j5cXde1gURknpY) | 1:19 |
 | 37 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 |
-| 38 | [Hypnotic](https://open.spotify.com/track/3ObLgvXAcKEesQ9UdUqElR) | [Johnyyp](https://open.spotify.com/artist/1lDIFp80rL1UMv9o0GqBHe) | [Addicted to Pain](https://open.spotify.com/album/6r1aS7s3GoqyBpkvrpxe6a) | 4:15 |
+| 38 | [Hypnotic](https://open.spotify.com/track/3ObLgvXAcKEesQ9UdUqElR) | [John\-Patrick](https://open.spotify.com/artist/6Qka477Jf9dWnRZlBlTl7p) | [Addicted to Pain](https://open.spotify.com/album/6r1aS7s3GoqyBpkvrpxe6a) | 4:15 |
 | 39 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 |
 | 40 | [WAVE](https://open.spotify.com/track/6jc7hcVqCDGjjeRokClILI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [WAVE](https://open.spotify.com/album/7ySlZx8l59eRiX7WYOAofF) | 2:10 |
 | 41 | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/track/2KQrHFHMLiToEoSyNCyCkQ) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/album/25gVtjurDgtCiz6nt0W4ZM) | 3:01 |

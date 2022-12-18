@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-163 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
+164 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Easy On Me](https://open.spotify.com/track/2VQa5cBJCYWrmqZYg17ii3) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Easy On Me](https://open.spotify.com/album/2WjTieDvN4poKvJMyQcAP5) | 3:12 | 2022-01-28 | 2022-06-01 |
 | [edibles \- slowed + reverb](https://open.spotify.com/track/6vcmX4oqF5CbEASUq7pnOc) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [edibles \(slowed + reverb\)](https://open.spotify.com/album/7afDTNgtfVUFiKG3d0SSys) | 2:33 | 2021-10-01 | 2022-07-04 |
 | [Elevators \(Me & You\) \- slowed + reverb](https://open.spotify.com/track/7qrV4AUCJSioKXBaWP9qFn) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Elevators \(Me & You\) \[slowed + reverb\]](https://open.spotify.com/album/7IbdCNvkwHqpwOLjBXKjuz) | 5:00 | 2022-01-05 | 2022-04-21 |
-| [empire state of mind \- slowed + reverb](https://open.spotify.com/track/4dc1yIxU50feaV6TscXney) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [empire state of mind \- slowed + reverb](https://open.spotify.com/album/2JiYe4ChvUywzAvWvcIFV9) | 1:40 | 2022-04-15 |  |
+| [empire state of mind \- slowed + reverb](https://open.spotify.com/track/4dc1yIxU50feaV6TscXney) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [empire state of mind \- slowed + reverb](https://open.spotify.com/album/2JiYe4ChvUywzAvWvcIFV9) | 1:40 | 2022-04-15 | 2022-12-18 |
 | [Eulogy](https://open.spotify.com/track/5oxY3CGJAsNv8fWS9ctFYi) | [Fairwthr](https://open.spotify.com/artist/6PkVRSCn3Axh0mgg3qEWIK) | [Eulogy](https://open.spotify.com/album/38uy7pAWnhV1N6il0QQAzF) | 2:58 | 2021-11-19 | 2022-07-24 |
 | [Everything's Good \- slowed + reverb](https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Everything's \(Not\) Good](https://open.spotify.com/album/5JcqFw1JKinpCu1IOeEnCz) | 3:47 | 2022-01-05 | 2022-07-24 |
 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 | 2021-12-15 | 2022-04-18 |
@@ -160,6 +160,7 @@
 | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT) | 4:39 | 2021-11-12 |  |
 | [vaping in the hood // slowed + reverbed](https://open.spotify.com/track/15G4SDc25JnGW3Re0j8cZn) | [sloved + reverbed club](https://open.spotify.com/artist/644tMFjAj4SpjOFK2I08Sd) | [vaping in the hood // slowed + reverbed](https://open.spotify.com/album/3qsrNk9RN1qPFLQdLOIOQm) | 3:34 | 2022-01-05 | 2022-02-26 |
 | [vendetta! \- Slowed + Reverb](https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta! \(Slowed + Reverb\)](https://open.spotify.com/album/23BaWXcjrA2P7khBHQLP7N) | 1:57 | 2022-08-12 |  |
+| [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 | 2022-12-09 |  |
 | [Vision \- Slowed](https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr) | 4:59 | 2021-10-01 | 2022-12-11 |
 | [we can try](https://open.spotify.com/track/0ruflkkraifzGTJoI13c9D) | [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH) | [we can try](https://open.spotify.com/album/2jW1ORaVudLRfMqhBouNFj) | 3:04 | 2022-05-20 | 2022-06-01 |
 | [Wet \(She Got That…\) \- Slowed & Reverbed](https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [DJ Slow Verb](https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s) | [Wet \(She Got That…\) \[Slowed & Reverbed\]](https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP) | 3:49 | 2021-10-01 | 2022-12-14 |

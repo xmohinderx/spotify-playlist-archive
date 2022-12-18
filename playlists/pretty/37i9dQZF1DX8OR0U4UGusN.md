@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > cool tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,678 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,734 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 31 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 |
 | 32 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 |
 | 33 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
-| 34 | [Janet](https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 3:24 |
-| 35 | [Flowers](https://open.spotify.com/track/7b0pYUXR8163C4vwPsj6mS) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/1iKgYWtkwZdPihOVh2KaeH) | 2:34 |
-| 36 | [omomo punk](https://open.spotify.com/track/5ybZNG4saSghgCiTP2GUKe) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [omomo punk](https://open.spotify.com/album/2Tdd4X4XkZLc9dS4Q8b07Y) | 3:13 |
-| 37 | [Winona](https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx) | 2:25 |
+| 34 | [Flowers](https://open.spotify.com/track/7b0pYUXR8163C4vwPsj6mS) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/1iKgYWtkwZdPihOVh2KaeH) | 2:34 |
+| 35 | [Janet](https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 3:24 |
+| 36 | [Winona](https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx) | 2:25 |
+| 37 | [omomo punk](https://open.spotify.com/track/5ybZNG4saSghgCiTP2GUKe) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [omomo punk](https://open.spotify.com/album/2Tdd4X4XkZLc9dS4Q8b07Y) | 3:13 |
 | 38 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 |
 | 39 | [Hannah \(the sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 |
 | 40 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 53 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 |
 | 54 | [J'adore](https://open.spotify.com/track/0tlztRFDgCSnAbUxllcZJJ) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [A Butterfly In\-between Time](https://open.spotify.com/album/3yG67dwpot0imvZJ7nAXhv) | 4:12 |
 | 55 | [PIE](https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5) | 2:56 |
-| 56 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 |
-| 57 | [Day Dreaming](https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:09 |
+| 56 | [Day Dreaming](https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:09 |
+| 57 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 |
 | 58 | [I'm Thru](https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [Cover art by Hasworld](https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB) | [I'm Thru](https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP) | 3:11 |
 | 59 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 |
 | 60 | [The Outsiders](https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [The Outsiders](https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv) | 2:22 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 63 | [Yesteryear](https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl) | 3:39 |
 | 64 | [Too Sensitive](https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Too Sensitive](https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM) | 2:41 |
 | 65 | [Miss Understood](https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Miss Understood](https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln) | 2:30 |
-| 66 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 |
-| 67 | [HELLO](https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 2:42 |
-| 68 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
-| 69 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 |
+| 66 | [HELLO](https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 2:42 |
+| 67 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
+| 68 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 |
+| 69 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 |
 | 70 | [14GRAMS](https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [14GRAMS](https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5) | 3:02 |
 | 71 | [NEVER CRY AGAIN](https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [NEVER CRY AGAIN](https://open.spotify.com/album/1uYX907pgQI6YblNc087rK) | 2:44 |
 | 72 | [Reflection](https://open.spotify.com/track/3Ka18NiN5T4gsCZaFq6RRn) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 4:00 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 76 | [Through Tha Night](https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Through Tha Night](https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2) | 3:16 |
 | 77 | [tell me](https://open.spotify.com/track/2nMSF0m6G8W6MVK0Eq7tKX) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [tell me](https://open.spotify.com/album/60b3J04XJSRPND2NpLudfR) | 2:40 |
 | 78 | [Psycho](https://open.spotify.com/track/4t7lpIdS2F527iGYuTZopQ) | [Jonah Roy](https://open.spotify.com/artist/0bhTD2sTUzxTEsgEUTAVQX), [Rome](https://open.spotify.com/artist/5EeWUtYiNzysDoDcISub49) | [Floating Head](https://open.spotify.com/album/4neSleLeckCi30cdozC6U7) | 2:59 |
-| 79 | [Inside Out](https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [SH1NOB1](https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0) | [Inside Out](https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT) | 3:01 |
-| 80 | [Esther](https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 3:12 |
+| 79 | [Esther](https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 3:12 |
+| 80 | [Inside Out](https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [SH1NOB1](https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0) | [Inside Out](https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT) | 3:01 |
 | 81 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 |
 | 82 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 |
 | 83 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 99 | [Head on Fire \- Danny L Harle Remix](https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Head on Fire \(Danny L Harle Remix\)](https://open.spotify.com/album/1jh1ugyuAmyGDQ5MYyAjAI) | 3:05 |
 | 100 | [3 More Wishes](https://open.spotify.com/track/0K3qrcFbCALwFVfuo1Hzfl) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [3 More Wishes](https://open.spotify.com/album/7zVb0ohAlTKYMXmHTbKcew) | 2:15 |
 
-Snapshot ID: `MTY3MTEzODc5OSwwMDAwMDAwMDdlNWM3MWI4NjQ3ZjQwNDc1OGE2MmI4MzY5YzQ4Y2Q5`
+Snapshot ID: `MTY3MTEzODc5OSwwMDAwMDAwMGNmODVmMTA5YjliZmJjMDI2OGVmNDBmMTQ1M2RmMDEz`

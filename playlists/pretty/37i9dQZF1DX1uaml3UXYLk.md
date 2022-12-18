@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,123 likes - 144 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,141 likes - 144 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 27 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 |
 | 28 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 |
 | 29 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 |
-| 30 | [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 |
+| 30 | [Danny's Dream](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Danny's Dream](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 3:20 |
 | 31 | [San Blas](https://open.spotify.com/track/7hTxggsd00sOUlXhBMsonM) | [Basic Amaury](https://open.spotify.com/artist/1IJxQCtcWIJ05bXGJHBMwe) | [San Blas](https://open.spotify.com/album/0vV153pcazJCHud3jTvcTH) | 2:00 |
 | 32 | [Kerbside Poetry](https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Kerbside Poetry](https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL) | 3:12 |
 | 33 | [Skateboard House](https://open.spotify.com/track/34guiQp1hLUn4hrx5UzMix) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Skateboard House](https://open.spotify.com/album/17a7hRSwvZpiyBJu1b8fh7) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,033 likes - 244 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,270 likes - 244 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 77 | [I Can't Make You Love Me \- Piano Version](https://open.spotify.com/track/5jkFEHWraBRMHSlEQ7pU4g) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 3](https://open.spotify.com/album/03oFXdELtbbLIPkr2FHpHq) | 3:38 |
 | 78 | [As it was](https://open.spotify.com/track/7wwSfI1U4kMKf3u5UP2owx) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:21 |
 | 79 | [Demons](https://open.spotify.com/track/4kUStH2WW43Ly9wXHOry5v) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Demons](https://open.spotify.com/album/38CMtYhTZkGGCAi63jiTDi) | 2:48 |
-| 80 | [SOS](https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [SOS](https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb) | 3:08 |
+| 80 | [Vaggande Vind](https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3) | [Simon Fjällström](https://open.spotify.com/artist/3CJbucb006eqlEOYh1eUXX) | [Vaggande Vind](https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb) | 2:14 |
 | 81 | [Time After Time](https://open.spotify.com/track/2wjMv9svLp1NmaBk5OLhGD) | [Clairetone](https://open.spotify.com/artist/5WUeyUXg7LtVFvkR9awzRv) | [Time After Time](https://open.spotify.com/album/6cjrLvyi1OzHrgioiMY3IN) | 3:12 |
 | 82 | [Anti\-Hero \- Piano](https://open.spotify.com/track/1w6XQeasWydiS3FPUKc11N) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Anti\-Hero & Lavender Haze \(Piano\)](https://open.spotify.com/album/7yVTF1IUDLKSsNioDAZrzW) | 2:40 |
 | 83 | [Little Talks](https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Little Talks](https://open.spotify.com/album/5Cz4oaW0RZpO8ubFfNsG2k) | 2:08 |

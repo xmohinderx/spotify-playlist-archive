@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-303 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+303 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,6 @@
 | [Somewhere only we know](https://open.spotify.com/track/3TQrrmZ4vQBoBNK6Hymkph) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:42 | 2022-12-02 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Somewhere Over The Rainbow](https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m) | 2:51 | 2022-10-28 |  |
 | [Songbird](https://open.spotify.com/track/0x3AueQ6AKh6xjMMuUrt0s) | [Margaret James](https://open.spotify.com/artist/61mMq7qWCIxypmj1Cmk0wZ) | [Songbird](https://open.spotify.com/album/0uScauUyfKmQhAIckBMERn) | 3:23 | 2022-01-21 |  |
-| [SOS](https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [SOS](https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb) | 3:08 | 2022-12-16 |  |
 | [Stay](https://open.spotify.com/track/6KxkRGtEspbhee18M3BrHd) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Blinding Lights](https://open.spotify.com/album/7Kv83I86uVpTltSvTGQP4v) | 2:51 | 2022-10-14 |  |
 | [Stay Awake \- from Mary Poppins](https://open.spotify.com/track/1Iv7MmldOIPHZS3DuOtv6E) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Stay Awake](https://open.spotify.com/album/589iyDAVWz68zBJn1q4RrR) | 2:01 | 2022-01-21 |  |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-01-21 |  |
@@ -273,6 +272,7 @@
 | [Un\-Break My Heart \- Piano Version](https://open.spotify.com/track/0BzvsmMbasJqL2UQQWISjm) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:06 | 2022-12-02 |  |
 | [Unholy](https://open.spotify.com/track/48y6yD5FxqqaeKNUJ1tYdP) | [Mica Stromberg](https://open.spotify.com/artist/4yyxz7bc0tROTIRMaTKnnK) | [Unholy](https://open.spotify.com/album/2mXDmRXOqw0ZSO0Hfxlrn5) | 3:17 | 2022-12-02 |  |
 | [Until I Found You](https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB) | [Eva Witzell](https://open.spotify.com/artist/0A3DJSJYUBT9R1G9Z4zIS6) | [Until I Found You](https://open.spotify.com/album/41NiXyPSiRAoVPJQUw9CR8) | 2:42 | 2022-12-02 |  |
+| [Vaggande Vind](https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3) | [Simon Fjällström](https://open.spotify.com/artist/3CJbucb006eqlEOYh1eUXX) | [Vaggande Vind](https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb) | 2:14 | 2022-12-16 |  |
 | [Versace on the Floor](https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Versace on the Floor](https://open.spotify.com/album/63JIMLku6xRaZvkpUQTs4R) | 3:18 | 2022-12-02 |  |
 | [Vincent](https://open.spotify.com/track/3hLwdzukhUxAB8epGFKIkf) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Vincent](https://open.spotify.com/album/1paZJP3ZNLhSyDLyoetkIC) | 3:38 | 2022-01-21 | 2022-12-02 |
 | [Wake me up \- Piano Version](https://open.spotify.com/track/1dA7RxuoV343ur4o4OMQ1B) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 4:21 | 2022-12-02 |  |

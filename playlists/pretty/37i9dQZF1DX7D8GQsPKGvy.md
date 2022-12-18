@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,232 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,063 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 72 | [Youngblood \- R3HAB Remix](https://open.spotify.com/track/2vIzH4NfFGoJHA5rn1dFWT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Youngblood \(R3HAB Remix\)](https://open.spotify.com/album/2RMSI4zHlR5bSVuFnOr9MH) | 2:30 |
 | 73 | [Ruin My Life \- Steve James Remix](https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Ruin My Life \(Remixes\)](https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN) | 2:57 |
 | 74 | [Happier \- Breathe Carolina Remix](https://open.spotify.com/track/31OqWK8Lc6GnUbnLG3GqPX) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Happier \(Remixes\)](https://open.spotify.com/album/16M1uToqnw9bPO8wv8ypeE) | 2:38 |
-| 75 | [High Hopes \- Don Diablo Remix](https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [High Hopes \(Don Diablo Remix\)](https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB) | 3:05 |
-| 76 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08) | 4:10 |
+| 75 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08) | 4:10 |
+| 76 | [High Hopes \- Don Diablo Remix](https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [High Hopes \(Don Diablo Remix\)](https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB) | 3:05 |
 | 77 | [I Wanna Know \(feat\. Bea Miller\) \- Syn Cole Remix](https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Wanna Know \(feat\. Bea Miller\) \- Remixes](https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l) | 2:59 |
 | 78 | [Last Hurrah \- David Guetta Remix](https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Last Hurrah \(David Guetta Remix\)](https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG) | 3:11 |
 | 79 | [Don't Start Now \- Purple Disco Machine Remix](https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [24K Magic \- R3hab Remix](https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [24K Magic \(R3hab Remix\)](https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK) | 2:38 |
 | 100 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
 
-Snapshot ID: `MTY2MjEyOTEwNSwwMDAwMDAwMDQxMGU5YjY5ZDAyMmY2OTFmMjk0NjYyYjFmOWI4YTZj`
+Snapshot ID: `MTY2MjEyOTEwNSwwMDAwMDAwMDEzNWM5NTkzMDVjNTg4MDM5YzYzNTkxNDU4Y2U4ZWI2`

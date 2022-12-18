@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,099 likes - 149 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,255 likes - 149 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 3 | [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 |
 | 4 | [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 |
 | 5 | [Tochan](https://open.spotify.com/track/5eKSzHq3KKqMeaOelb77D1) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Tochan](https://open.spotify.com/album/6Qe64Ygt1tekPdGdVSL82L) | 3:08 |
-| 6 | [She Looked At Me](https://open.spotify.com/track/13OOUhzRPqKXmG2MawCVMv) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2), [Ardaas](https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8) | [She Looked At Me](https://open.spotify.com/album/3ls5rcpYqzcrlLzUtnW8FD) | 2:36 |
+| 6 | [She Looked At Me](https://open.spotify.com/track/4Eq7B4kyuXtmg12ypmhJ20) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2), [Ardaas](https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8) | [She Looked at Me \- Single](https://open.spotify.com/album/0la3jpT2u8Tl7KtoFfTkha) | 2:36 |
 | 7 | [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 |
 | 8 | [Insomnia](https://open.spotify.com/track/05BYGdbe061g9o9CnAqPBA) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Insomnia](https://open.spotify.com/album/1cVLhJnU0AR3kc81kHim96) | 3:09 |
 | 9 | [Hun Changa Ae](https://open.spotify.com/track/2kDfeQsKpDz07p6f0ALaOo) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Hun Changa Ae](https://open.spotify.com/album/1AvmoHXPkwmBGfeT4wdXiG) | 2:46 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 148 | [Untouchable](https://open.spotify.com/track/2hDMBVN3P47GEhH5VtmA6m) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Untouchable](https://open.spotify.com/album/0Ib0QsGyuoGpVIPZaUwHL6) | 2:33 |
 | 149 | [She's The One](https://open.spotify.com/track/6Xh1mVYnEauD71lkhLfAz2) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [She's The One](https://open.spotify.com/album/3Vx20Ff07mWb790n5wBihN) | 3:24 |
 
-Snapshot ID: `MTY3MTE5NjQ4MCwwMDAwMDAwMDE4ZmZkZWNlMWU2MmRlZjgzNWMzYWFiMGM2MTEwNTk2`
+Snapshot ID: `MTY3MTE5NjQ4MCwwMDAwMDAwMGI5YjcwNDdhODQ2ZGU2NGI0NDQzZTU5NGEzOGZlZmQ4`

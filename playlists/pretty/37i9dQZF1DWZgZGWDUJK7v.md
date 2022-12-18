@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Level Up Doctor Choi Kiseok\(레벨업 닥터 최기석\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,850 likes - 94 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,030 likes - 94 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 36 | [The day](https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI) | [승희](https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.1](https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c) | 3:16 |
 | 37 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 |
 | 38 | [The two of us](https://open.spotify.com/track/211qUU0CXl8NqovMvW3LSc) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [The Crush Of Spring OST Part.9](https://open.spotify.com/album/7uA5KDUQnGaPpE1Ccs8gwf) | 3:51 |
-| 39 | [To be honest I still love you](https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq) | [Suki](https://open.spotify.com/artist/2moEpVrvwnQKjR9ZaDgbVk) | [The Crush Of Spring OST Part.6](https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI) | 3:36 |
+| 39 | [To be honest I still love you](https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq) | [Suki](https://open.spotify.com/artist/3nvehGmSWu2jlnWSC2EacH) | [The Crush Of Spring OST Part.6](https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI) | 3:36 |
 | 40 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
 | 41 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 |
 | 42 | [Drip Drip Drip](https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl) | [YEO\-EUN](https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww) | [The Crush Of Spring OST Part.1](https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP) | 3:42 |

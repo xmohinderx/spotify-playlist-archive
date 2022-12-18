@@ -2,7 +2,7 @@
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations\. Cover: Guns N' Roses
+> Rock legends & epic songs that continue to inspire generations\. Cover: Queen
 
 346 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
 

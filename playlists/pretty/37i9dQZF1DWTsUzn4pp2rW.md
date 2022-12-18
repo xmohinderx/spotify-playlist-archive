@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,420 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,559 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 87 | [I Love You](https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [I Love You](https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8) | 4:15 |
 | 88 | [Holding On](https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 5:01 |
 | 89 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
-| 90 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
-| 91 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7) | 3:12 |
+| 90 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7) | 3:12 |
+| 91 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
 | 92 | [Lime](https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Sorrows Into Silk](https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB) | 2:18 |
-| 93 | [Something to Celebrate](https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro) | [Kristin Korb](https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN) | [Something to Celebrate](https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD) | 3:02 |
-| 94 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 |
+| 93 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 |
+| 94 | [Something to Celebrate](https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro) | [Kristin Korb](https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN) | [Something to Celebrate](https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD) | 3:02 |
 | 95 | [Visions](https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 5:11 |
 | 96 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 |
 | 97 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 100 | [Your Hands](https://open.spotify.com/track/4u62bhKi6sQBPBb1txAAPT) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 4:53 |
 
-Snapshot ID: `MTY3MDU3NDAyNCwwMDAwMDAwMDliODJmMTc4NTAyMzhhNTJiMjQ0YjY5NDlkNjJjZjE3`
+Snapshot ID: `MTY3MDU3NDAyNCwwMDAwMDAwMGFiOWI3YzBkZmRlZmMzMWI0MDU1YjM4ZDBiYzU0MTQz`

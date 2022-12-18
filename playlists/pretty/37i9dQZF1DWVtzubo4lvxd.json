@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 107502,
+  "num_followers": 107503,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDAyNDU5MiwwMDAwMDAwMDgxN2FiMzk5M2Y2NGVjYmQwZDYwZjcxNmY5M2UzMjdj",
+  "snapshot_id": "MTY1MDAyNDU5MiwwMDAwMDAwMDcxY2Q3NDE4MDQ0NGVjZDg5ZGYwMjQxMTk5MTc4MjNi",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
-      },
-      "artists": [
-        {
-          "name": "leaf beach",
-          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
-        }
-      ],
-      "duration_ms": 110305,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "v i d r i o",
         "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 110409,
       "name": "P a z",
       "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
+      },
+      "artists": [
+        {
+          "name": "leaf beach",
+          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
+        }
+      ],
+      "duration_ms": 110305,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Spiritual State",
-        "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        }
-      ],
-      "duration_ms": 315453,
-      "name": "Dawn on the Side",
-      "url": "https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
+        "name": "Spiritual State",
+        "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
       },
       "artists": [
         {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
+      "duration_ms": 315453,
+      "name": "Dawn on the Side",
+      "url": "https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -519,6 +503,22 @@
       "duration_ms": 148014,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -603,18 +603,34 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Beat Batch #2",
-        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
+        "name": "Kids' Menu",
+        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
       },
       "artists": [
         {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
         }
       ],
-      "duration_ms": 77844,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
+      "duration_ms": 77571,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 84023,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -655,6 +671,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Beat Batch #2",
+        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 77844,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "ep seeds",
         "url": "https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa"
       },
@@ -671,18 +703,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Kids' Menu",
-        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
+        "name": "Longing for You",
+        "url": "https://open.spotify.com/album/2MHX68LB8hbdFvuOu9bxvD"
       },
       "artists": [
         {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
         }
       ],
-      "duration_ms": 77571,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK"
+      "duration_ms": 73846,
+      "name": "Jocelyn",
+      "url": "https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -699,38 +731,6 @@
       "duration_ms": 126087,
       "name": "long ago.",
       "url": "https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 84023,
-      "name": "crush on you",
-      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Longing for You",
-        "url": "https://open.spotify.com/album/2MHX68LB8hbdFvuOu9bxvD"
-      },
-      "artists": [
-        {
-          "name": "Moody.",
-          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
-        }
-      ],
-      "duration_ms": 73846,
-      "name": "Jocelyn",
-      "url": "https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
+      },
+      "artists": [
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 128372,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Choke",
         "url": "https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 116061,
       "name": "hammock",
       "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
-      },
-      "artists": [
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        }
-      ],
-      "duration_ms": 128372,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Yerba",
-        "url": "https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0"
-      },
-      "artists": [
-        {
-          "name": "Sleepdealer",
-          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Rolling Papers",
-      "url": "https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -999,18 +983,34 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Discography",
-        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
+        "name": "Yerba",
+        "url": "https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0"
       },
       "artists": [
         {
-          "name": "Caleb Belkin",
-          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
+          "name": "Sleepdealer",
+          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
         }
       ],
-      "duration_ms": 107733,
-      "name": "For Her",
-      "url": "https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos"
+      "duration_ms": 120000,
+      "name": "Rolling Papers",
+      "url": "https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/3hBQuy5dGt1BYSPkwKiqwf"
+      },
+      "artists": [
+        {
+          "name": "Knowmadic",
+          "url": "https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36"
+        }
+      ],
+      "duration_ms": 133165,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/3hBQuy5dGt1BYSPkwKiqwf"
+        "name": "Discography",
+        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
       },
       "artists": [
         {
-          "name": "Knowmadic",
-          "url": "https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36"
+          "name": "Caleb Belkin",
+          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
         }
       ],
-      "duration_ms": 133165,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj"
+      "duration_ms": 107733,
+      "name": "For Her",
+      "url": "https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "honshu island",
+        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
+      },
+      "artists": [
+        {
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+        }
+      ],
+      "duration_ms": 71393,
+      "name": "tequila",
+      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "honshu island",
-        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
-      },
-      "artists": [
-        {
-          "name": "mt. fujitive",
-          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
-        }
-      ],
-      "duration_ms": 71393,
-      "name": "tequila",
-      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1187,6 +1187,38 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "time off",
+        "url": "https://open.spotify.com/album/2lUVfC4UUKYtaeeGEAlOW8"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 122749,
+      "name": "we used to talk every night",
+      "url": "https://open.spotify.com/track/29MC6rSDNcImKHysL5acKj"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "B-Sides",
         "url": "https://open.spotify.com/album/2RMqKPkF3VYUlsUT5nl2AJ"
       },
@@ -1235,38 +1267,6 @@
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "time off",
-        "url": "https://open.spotify.com/album/2lUVfC4UUKYtaeeGEAlOW8"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 122749,
-      "name": "we used to talk every night",
-      "url": "https://open.spotify.com/track/29MC6rSDNcImKHysL5acKj"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "BODY N SOUL",
-        "url": "https://open.spotify.com/album/3ors81EU27PDdPZkxM19xW"
-      },
-      "artists": [
-        {
-          "name": "C Y G N",
-          "url": "https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mindfulness",
-      "url": "https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP"
     }
   ],
   "unique_name": "Sunset Chill",

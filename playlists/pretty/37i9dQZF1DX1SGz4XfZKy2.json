@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 62390,
+  "num_followers": 62406,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMDU1ZDE5NjIzNzQ3Mjg3YzgwZWUxYzJhNTM5MGQ4OWNl",
+  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMDlhM2M2ZmRlNjNjNDA3OTViMGY5YzQwZjExODMzZDM2",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7u2ns6B2JMNkY1pcvIbhCO"
     },
     {
-      "added_at": "2022-12-17 01:11:04",
+      "added_at": "2022-12-18 00:15:41",
       "album": {
         "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
         "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz"
     },
     {
-      "added_at": "2021-02-15 11:04:36",
+      "added_at": "2022-12-18 00:15:41",
       "album": {
-        "name": "Sentiments in Emptiness",
-        "url": "https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt"
+        "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
+        "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
       },
       "artists": [
         {
-          "name": "Firas Zreik",
-          "url": "https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW"
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
         }
       ],
-      "duration_ms": 221525,
-      "name": "Sentiments in Emptiness",
-      "url": "https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU"
+      "duration_ms": 294611,
+      "name": "\u062f\u0627\u0631\u064a \u064a\u0627 \u0642\u0644\u0628\u064a",
+      "url": "https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -331,6 +331,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Silt",
+        "url": "https://open.spotify.com/album/0g2aAVujd0puM9wGzW9T8Y"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        }
+      ],
+      "duration_ms": 155371,
+      "name": "Oud Solo",
+      "url": "https://open.spotify.com/track/1VznWczEVtpXeVHXSjaWO2"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "Trio Chemirani invite",
         "url": "https://open.spotify.com/album/3vIdoN9E1poCa1HAX6s9lX"
       },
@@ -355,34 +371,18 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Silt",
-        "url": "https://open.spotify.com/album/0g2aAVujd0puM9wGzW9T8Y"
+        "name": "Sentiments in Emptiness",
+        "url": "https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt"
       },
       "artists": [
         {
-          "name": "Alsarah & The Nubatones",
-          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+          "name": "Firas Zreik",
+          "url": "https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW"
         }
       ],
-      "duration_ms": 155371,
-      "name": "Oud Solo",
-      "url": "https://open.spotify.com/track/1VznWczEVtpXeVHXSjaWO2"
-    },
-    {
-      "added_at": "2022-12-17 01:11:04",
-      "album": {
-        "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
-        "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
-      },
-      "artists": [
-        {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
-        }
-      ],
-      "duration_ms": 294611,
-      "name": "\u062f\u0627\u0631\u064a \u064a\u0627 \u0642\u0644\u0628\u064a",
-      "url": "https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ"
+      "duration_ms": 221525,
+      "name": "Sentiments in Emptiness",
+      "url": "https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -939,18 +939,18 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Ancient Hues / a Narrative of Iranian Folk Music",
-        "url": "https://open.spotify.com/album/10PaLFiCADgQ2rAdq3oLBr"
+        "name": "The Passage",
+        "url": "https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF"
       },
       "artists": [
         {
-          "name": "Rastak Ensemble",
-          "url": "https://open.spotify.com/artist/59y2pjV0vqvuq5r4sIH6ZM"
+          "name": "Siavash Roshan",
+          "url": "https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Intuition",
-      "url": "https://open.spotify.com/track/386a1KJQ3h4plXTpFd5B50"
+      "duration_ms": 303386,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -1003,34 +1003,18 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "The Passage",
-        "url": "https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF"
+        "name": "Ancient Hues / a Narrative of Iranian Folk Music",
+        "url": "https://open.spotify.com/album/10PaLFiCADgQ2rAdq3oLBr"
       },
       "artists": [
         {
-          "name": "Siavash Roshan",
-          "url": "https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS"
+          "name": "Rastak Ensemble",
+          "url": "https://open.spotify.com/artist/59y2pjV0vqvuq5r4sIH6ZM"
         }
       ],
-      "duration_ms": 303386,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Kawkab Abad (Live)",
-        "url": "https://open.spotify.com/album/6ZhekGr3KKTbX4yfQ4oQym"
-      },
-      "artists": [
-        {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
-        }
-      ],
-      "duration_ms": 414651,
-      "name": "Kawkab Abad - Live",
-      "url": "https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo"
+      "duration_ms": 251200,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/386a1KJQ3h4plXTpFd5B50"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -1047,6 +1031,22 @@
       "duration_ms": 286066,
       "name": "Pause",
       "url": "https://open.spotify.com/track/7g3L86HLw2p9jXb3NPpMzD"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Kawkab Abad (Live)",
+        "url": "https://open.spotify.com/album/6ZhekGr3KKTbX4yfQ4oQym"
+      },
+      "artists": [
+        {
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+        }
+      ],
+      "duration_ms": 414651,
+      "name": "Kawkab Abad - Live",
+      "url": "https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo"
     },
     {
       "added_at": "2021-02-15 11:04:36",

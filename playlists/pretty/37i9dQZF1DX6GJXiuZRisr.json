@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1412488,
+  "num_followers": 1412994,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGVhZjBiOWNkM2MyOGZhZmI1ZGJiNThlNjIxY2Y0MTJj",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDU2NTg4N2M3NzM3ZDUwMTU0NmNlNDgwMTgzNTgxZmE1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -573,26 +573,6 @@
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 232245,
-      "name": "Silenced",
-      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Greece 2000",
@@ -615,6 +595,26 @@
       "duration_ms": 207334,
       "name": "Greece 2000",
       "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -753,26 +753,6 @@
       "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Age of Love (ARTBAT Rave Mix)",
-        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
-        }
-      ],
-      "duration_ms": 445440,
-      "name": "Age of Love - ARTBAT Rave Mix",
-      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
-    },
-    {
       "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "This Feeling (Yotto Remix)",
@@ -795,6 +775,26 @@
       "duration_ms": 236078,
       "name": "This Feeling - Yotto Remix",
       "url": "https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Age of Love (ARTBAT Rave Mix)",
+        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        }
+      ],
+      "duration_ms": 445440,
+      "name": "Age of Love - ARTBAT Rave Mix",
+      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1093,26 +1093,6 @@
       "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
-    },
-    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Alive",
@@ -1135,6 +1115,26 @@
       "duration_ms": 168319,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 403902,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
     },
     {
-      "added_at": "2022-12-17 01:11:20",
+      "added_at": "2022-12-18 00:48:43",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Deep State",
-        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
-      },
-      "artists": [
-        {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "LINE IN THE SAND",
         "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
       },
@@ -1507,26 +1491,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
-        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
+        "name": "Deep State",
+        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
         }
       ],
-      "duration_ms": 329349,
-      "name": "Strangers (with Mansionair) - Tinlicker Remix",
-      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
+      "duration_ms": 337500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1551,6 +1527,30 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
+        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 329349,
+      "name": "Strangers (with Mansionair) - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Temper Temper (feat. ONR)",
-        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "ONR",
-          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "Temper Temper (feat. ONR)",
-      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Follow You Anywhere",
         "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
       },
@@ -1815,18 +1795,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
+        "name": "Temper Temper (feat. ONR)",
+        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "ONR",
+          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
         }
       ],
-      "duration_ms": 234098,
-      "name": "Time and Time Again - Single Edit",
-      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
+      "duration_ms": 213571,
+      "name": "Temper Temper (feat. ONR)",
+      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1863,6 +1847,22 @@
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "Time and Time Again - Single Edit",
+      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
     },
     {
       "added_at": "2022-07-01 11:37:35",

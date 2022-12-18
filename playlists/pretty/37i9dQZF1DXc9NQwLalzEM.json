@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 169525,
+  "num_followers": 169618,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI3MjE3OCwwMDAwMDAwMDY4OWU5ZDIwODIzZmZiZTI3MzlkOTQ3YWVlZGQzY2U1",
+  "snapshot_id": "MTY1MjI3MjE3OCwwMDAwMDAwMDVhYmEyMzgzMTFkNDBlODA4MmE2YTk2ODJiYzAwN2Fj",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
-        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
-      },
-      "artists": [
-        {
-          "name": "The Elgins",
-          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "Heaven Must Have Sent You - Mono Single",
-      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "You Can Count On Me",
         "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 196520,
       "name": "You Can Count On Me",
       "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
+        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
+      },
+      "artists": [
+        {
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+        }
+      ],
+      "duration_ms": 152933,
+      "name": "Heaven Must Have Sent You - Mono Single",
+      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+        "name": "Try It (You'll Like It) / Master Plan Intro",
+        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
       },
       "artists": [
         {
-          "name": "Chris Clark",
-          "url": "https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm"
+          "name": "Master Plan Inc",
+          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
         }
       ],
-      "duration_ms": 150480,
-      "name": "Do I Love You (Indeed I Do) - Alternate Mix",
-      "url": "https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf"
+      "duration_ms": 143612,
+      "name": "Try It (You'll Like It)",
+      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Try It (You'll Like It) / Master Plan Intro",
-        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
-      },
-      "artists": [
-        {
-          "name": "Master Plan Inc",
-          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
-        }
-      ],
-      "duration_ms": 143612,
-      "name": "Try It (You'll Like It)",
-      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Hard Not to Like It",
         "url": "https://open.spotify.com/album/398ehzFqc7ht0MyNSKWaFb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 240160,
       "name": "It's Hard Not to Like You",
       "url": "https://open.spotify.com/track/6ySx2PSSEKRLtpjAHf0q3B"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "Chris Clark",
+          "url": "https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Do I Love You (Indeed I Do) - Alternate Mix",
+      "url": "https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1015,22 +1015,6 @@
       "duration_ms": 147778,
       "name": "Something Old Something New",
       "url": "https://open.spotify.com/track/3Ke2bU4Oi3TOMUUvi6MVV0"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Eccentric Soul: Twinight's Lunar Rotation",
-        "url": "https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2"
-      },
-      "artists": [
-        {
-          "name": "Nate Evans",
-          "url": "https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Main Squeeze",
-      "url": "https://open.spotify.com/track/5qJKjlVWrkcDtrHyikH6a1"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+        "name": "Goin' Places",
+        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
         }
       ],
-      "duration_ms": 260466,
-      "name": "My Love Is Growing",
-      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
+      "duration_ms": 273613,
+      "name": "Even Though You're Gone",
+      "url": "https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Goin' Places",
-        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
       "artists": [
         {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 273613,
-      "name": "Even Though You're Gone",
-      "url": "https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I"
+      "duration_ms": 260466,
+      "name": "My Love Is Growing",
+      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1491,22 +1475,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles Vol. 4: 1964",
-        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Crawford",
-          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "I'll Come Running",
-      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Bring Back The One I Love b/w We Have Love",
         "url": "https://open.spotify.com/album/5fJeXtikNC07V81RGsJUcA"
       },
@@ -1519,6 +1487,22 @@
       "duration_ms": 167080,
       "name": "We Have Love",
       "url": "https://open.spotify.com/track/3IQHu4EpI8Po30ltP4Avo3"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles Vol. 4: 1964",
+        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Crawford",
+          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "I'll Come Running",
+      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1603,22 +1587,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1967",
-        "url": "https://open.spotify.com/album/2r7vDzVoDH2Q8U5UKc0mZb"
-      },
-      "artists": [
-        {
-          "name": "Shorty Long",
-          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Hi-Lili - Hi-Lo",
-      "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Shirelles (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
       },
@@ -1631,6 +1599,22 @@
       "duration_ms": 187173,
       "name": "Brother Brother",
       "url": "https://open.spotify.com/track/7erspizhVghwfGjmUOJ9LD"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1967",
+        "url": "https://open.spotify.com/album/2r7vDzVoDH2Q8U5UKc0mZb"
+      },
+      "artists": [
+        {
+          "name": "Shorty Long",
+          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Hi-Lili - Hi-Lo",
+      "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1683,22 +1667,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Best of Loma Records-Rise and Fall of a 1960's Soul Label",
-        "url": "https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ"
-      },
-      "artists": [
-        {
-          "name": "The Invincibles",
-          "url": "https://open.spotify.com/artist/4XCdfgAKzWti7yoYMRHbNv"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "I Couldn't Stand It",
-      "url": "https://open.spotify.com/track/5P10QtvQfYdP88pS6bKjJD"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Philly Groove Records Presents: The Early Years, Vol. 3",
         "url": "https://open.spotify.com/album/2QBg8HBgmqdJl4nHsbZtQe"
       },
@@ -1711,6 +1679,22 @@
       "duration_ms": 174666,
       "name": "Yes, Maybe No",
       "url": "https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Best of Loma Records-Rise and Fall of a 1960's Soul Label",
+        "url": "https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ"
+      },
+      "artists": [
+        {
+          "name": "The Invincibles",
+          "url": "https://open.spotify.com/artist/4XCdfgAKzWti7yoYMRHbNv"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "I Couldn't Stand It",
+      "url": "https://open.spotify.com/track/5P10QtvQfYdP88pS6bKjJD"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2051,22 +2035,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Could It Be Magic",
-        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
-      },
-      "artists": [
-        {
-          "name": "Anthony White",
-          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "Stop & Think It Over",
-      "url": "https://open.spotify.com/track/12y8RDhXX9Z2pPdcbWrjxd"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased 1963",
         "url": "https://open.spotify.com/album/4SZuhxneLhFEaKsJW7N4qL"
       },
@@ -2095,6 +2063,22 @@
       "duration_ms": 129347,
       "name": "If I'm Hurt You'll Feel the Pain",
       "url": "https://open.spotify.com/track/1z7Y87K9pa73jy070iQHKl"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Could It Be Magic",
+        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
+      },
+      "artists": [
+        {
+          "name": "Anthony White",
+          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Stop & Think It Over",
+      "url": "https://open.spotify.com/track/12y8RDhXX9Z2pPdcbWrjxd"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2175,6 +2159,22 @@
       "duration_ms": 150053,
       "name": "Solid Sender - Single Version",
       "url": "https://open.spotify.com/track/0C2nCE9diyaGWZFlBl2Pnx"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Pardon My Innocent Heart b/w Main Squeeze",
+        "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
+      },
+      "artists": [
+        {
+          "name": "Nate Evans",
+          "url": "https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Main Squeeze",
+      "url": "https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb"
     },
     {
       "added_at": "2022-05-11 12:29:38",

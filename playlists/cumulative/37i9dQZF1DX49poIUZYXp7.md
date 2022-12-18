@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Maren Morris
 
-293 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
+294 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Tell You Everything](https://open.spotify.com/track/1BePRPZdVPcK5d6ROpMBls) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [The But I’m Not Always Sad Either EP](https://open.spotify.com/album/3sFgIeVGXuvlBN8Mw3JiDh) | 2:55 | 2022-03-04 | 2022-07-29 |
 | [Tell You Everything](https://open.spotify.com/track/6q8BR4D8pvhSMVcIfrDHwS) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Tell You Everything](https://open.spotify.com/album/7gjPWAq21I5fMsQCroL3Zv) | 2:55 | 2021-12-01 | 2022-04-02 |
 | [Tell Your Mom](https://open.spotify.com/track/4z6ejAW2WioIBVVAFCl0eK) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [First Goodbye](https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p) | 3:01 | 2022-06-04 | 2022-09-24 |
-| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-16 |  |
+| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-16 | 2022-12-18 |
+| [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-09 |  |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2021-12-01 |  |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-06-17 | 2022-11-13 |
 | [The Fire](https://open.spotify.com/track/4QZPq8EZc4lYrLx84mTj4i) | [Bianca Bernardi](https://open.spotify.com/artist/2TIuyaQARaUZFmGw3PUfbC) | [The Fire](https://open.spotify.com/album/6sycWScq71yiwJ0qYJRV4W) | 4:16 | 2022-03-25 | 2022-04-20 |

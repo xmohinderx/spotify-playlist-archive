@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Teenage Priest",
-  "num_followers": 275695,
+  "num_followers": 275800,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2MzIwMCwwMDAwMDAwMGYwNTg0YWY3ZjQxNjU1YjgxM2E3NTg1OTM0YjFmYTNm",
+  "snapshot_id": "MTY3MTE2MzIwMCwwMDAwMDAwMDUyM2Q3NGYzNGQ2ZTFmYjBkNTgyODAyNzEzYWRkZGYy",
   "tracks": [
     {
       "added_at": "2022-10-21 14:21:02",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Keep It Average",
-        "url": "https://open.spotify.com/album/17HqzoG2vfT71L68dAmMLC"
-      },
-      "artists": [
-        {
-          "name": "GRLwood",
-          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
-        }
-      ],
-      "duration_ms": 193478,
-      "name": "Keep It Average",
-      "url": "https://open.spotify.com/track/1XzzByAlOg45CFjTKONinS"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Knocking on Wood",
@@ -571,6 +555,22 @@
       "duration_ms": 251013,
       "name": "Knocking on Wood",
       "url": "https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Keep It Average",
+        "url": "https://open.spotify.com/album/17HqzoG2vfT71L68dAmMLC"
+      },
+      "artists": [
+        {
+          "name": "GRLwood",
+          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "Keep It Average",
+      "url": "https://open.spotify.com/track/1XzzByAlOg45CFjTKONinS"
     },
     {
       "added_at": "2022-12-07 00:44:37",
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
+      "added_at": "2022-11-17 17:47:18",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
       "artists": [
         {
-          "name": "FUR",
-          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
         }
       ],
-      "duration_ms": 231680,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Say It Now",
         "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
-    },
-    {
-      "added_at": "2022-11-17 17:47:18",
-      "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Speeding 72",
-      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
     },
     {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Suburbia",
@@ -851,22 +867,6 @@
       "duration_ms": 197333,
       "name": "You Know",
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "i only sing about food",
-        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "i only sing about food",
-      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "rainbow music",
+        "url": "https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "duration_ms": 146152,
+      "name": "rest",
+      "url": "https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Hiding in Plain Sight",
         "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 510773,
       "name": "Bull Believer",
       "url": "https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "rainbow music",
-        "url": "https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J"
-      },
-      "artists": [
-        {
-          "name": "ghost orchard",
-          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
-        }
-      ],
-      "duration_ms": 146152,
-      "name": "rest",
-      "url": "https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G"
     },
     {
+      "added_at": "2022-12-09 06:32:00",
+      "album": {
+        "name": "Let Down",
+        "url": "https://open.spotify.com/album/3aPAIfhcyvm44m97fepHU5"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 207153,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/48AdYz5KuKxC9ZO9gKiIqZ"
+    },
+    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "French Blonde",
@@ -1077,22 +1093,6 @@
       "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
     },
     {
-      "added_at": "2022-12-09 06:32:00",
-      "album": {
-        "name": "Let Down",
-        "url": "https://open.spotify.com/album/3aPAIfhcyvm44m97fepHU5"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 207153,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/48AdYz5KuKxC9ZO9gKiIqZ"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "how would you know",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Oldies & Goldies",
-        "url": "https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt"
-      },
-      "artists": [
-        {
-          "name": "FUR",
-          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Leap Day",
         "url": "https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 136320,
       "name": "Leap Day",
       "url": "https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Oldies & Goldies",
+        "url": "https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1205,6 +1205,22 @@
       "url": "https://open.spotify.com/track/30erf27MriGIsvb4rzria6"
     },
     {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Sepsis",
+        "url": "https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 226660,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Bitter",
@@ -1235,22 +1251,6 @@
       "duration_ms": 188916,
       "name": "The Burned Down Dairy Queen",
       "url": "https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Sepsis",
-        "url": "https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 226660,
-      "name": "Sepsis",
-      "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Sportswear",
-        "url": "https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Flash Heat Wave",
-          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "Grudge",
-      "url": "https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
@@ -1335,50 +1319,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Bucktooth",
-        "url": "https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW"
+        "name": "Sportswear",
+        "url": "https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ"
       },
       "artists": [
         {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+          "name": "Hot Flash Heat Wave",
+          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
         }
       ],
-      "duration_ms": 209859,
-      "name": "Bucktooth",
-      "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Hayday",
-        "url": "https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 130606,
-      "name": "Dog Song 2",
-      "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
-    },
-    {
-      "added_at": "2022-11-17 17:47:18",
-      "album": {
-        "name": "Demons at the Dinner Table",
-        "url": "https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI"
-      },
-      "artists": [
-        {
-          "name": "Lucca Dohr",
-          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
-        }
-      ],
-      "duration_ms": 124532,
-      "name": "Demons at the Dinner Table",
-      "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
+      "duration_ms": 243880,
+      "name": "Grudge",
+      "url": "https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI"
     },
     {
       "added_at": "2022-12-09 06:32:00",
@@ -1397,36 +1349,52 @@
       "url": "https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig"
     },
     {
-      "added_at": "2022-11-17 17:47:18",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76"
+        "name": "Hayday",
+        "url": "https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt"
       },
       "artists": [
         {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
         }
       ],
-      "duration_ms": 184576,
-      "name": "August",
-      "url": "https://open.spotify.com/track/21Ys4ySXmSWzTWoVLTgNkF"
+      "duration_ms": 130606,
+      "name": "Dog Song 2",
+      "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
     },
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
+        "name": "Bucktooth",
+        "url": "https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW"
       },
       "artists": [
         {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
         }
       ],
-      "duration_ms": 226800,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
+      "duration_ms": 209859,
+      "name": "Bucktooth",
+      "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
+    },
+    {
+      "added_at": "2022-11-17 17:47:18",
+      "album": {
+        "name": "Demons at the Dinner Table",
+        "url": "https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI"
+      },
+      "artists": [
+        {
+          "name": "Lucca Dohr",
+          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
+        }
+      ],
+      "duration_ms": 124532,
+      "name": "Demons at the Dinner Table",
+      "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
     },
     {
       "added_at": "2022-12-07 16:54:42",
@@ -1447,22 +1415,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "What Kind of Blue Are You?",
-        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
       },
       "artists": [
         {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        },
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
         }
       ],
-      "duration_ms": 231929,
-      "name": "atonement",
-      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
+      "duration_ms": 226800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
     },
     {
       "added_at": "2022-12-09 06:32:00",
@@ -1479,6 +1443,42 @@
       "duration_ms": 119172,
       "name": "Control Theory",
       "url": "https://open.spotify.com/track/5Kre0cCwtaS43DCuq7VOd3"
+    },
+    {
+      "added_at": "2022-11-17 17:47:18",
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "duration_ms": 184576,
+      "name": "August",
+      "url": "https://open.spotify.com/track/21Ys4ySXmSWzTWoVLTgNkF"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 231929,
+      "name": "atonement",
+      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1581,36 +1581,20 @@
       "url": "https://open.spotify.com/track/3pSzGdBI2izEY9gbvVufGD"
     },
     {
-      "added_at": "2022-11-17 17:47:18",
+      "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Armchair",
-        "url": "https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY"
+        "name": "Frances Farmer Will Have Her Revenge On Seattle",
+        "url": "https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2"
       },
       "artists": [
         {
-          "name": "yungatita",
-          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 270784,
-      "name": "Armchair",
-      "url": "https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Queen of Ears",
-        "url": "https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA"
-      },
-      "artists": [
-        {
-          "name": "Quasi",
-          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
-        }
-      ],
-      "duration_ms": 186128,
-      "name": "Queen of Ears",
-      "url": "https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9"
+      "duration_ms": 260013,
+      "name": "Frances Farmer Will Have Her Revenge On Seattle",
+      "url": "https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1627,6 +1611,22 @@
       "duration_ms": 154386,
       "name": "Never Want to Leave",
       "url": "https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA"
+    },
+    {
+      "added_at": "2022-11-17 17:47:18",
+      "album": {
+        "name": "Armchair",
+        "url": "https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "duration_ms": 270784,
+      "name": "Armchair",
+      "url": "https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf"
     }
   ],
   "unique_name": "undercurrents",

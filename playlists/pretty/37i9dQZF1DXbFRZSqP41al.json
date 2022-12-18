@@ -1,12 +1,12 @@
 {
   "description": "Burn off all those beers from last night.",
-  "num_followers": 1378460,
+  "num_followers": 1378546,
   "original_name": "Rock Your Body",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQwMjc0MCwwMDAwMDAwMGVkMDc3OTVmM2ZiMzQ0ZDU5NTk0NzYxOGJhOGVjN2Ni",
+  "snapshot_id": "MTY2NzQwMjc0MCwwMDAwMDAwMGMwMDc0NTQ4MDRlNjYzMjcyNDc4NGNhOWNkNjQ3ZGE3",
   "tracks": [
     {
       "added_at": "2022-11-02 15:25:40",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-02 15:25:40",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
-    },
-    {
-      "added_at": "2022-11-02 15:25:40",
-      "album": {
         "name": "Greatest Hitz",
         "url": "https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 166653,
       "name": "Break Stuff",
       "url": "https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70"
+    },
+    {
+      "added_at": "2022-11-02 15:25:40",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
     },
     {
       "added_at": "2022-11-02 15:25:40",

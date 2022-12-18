@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 314330,
+  "num_followers": 314530,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxMzgwMywwMDAwMDAwMGQwNWUwMjYxMDRmZGFkMDFkMjFkYTA5ZjkxZWJmOGE5",
+  "snapshot_id": "MTY3MDkxMzgwMywwMDAwMDAwMGQyMjgwMGU1NDFkNDMzZDYyNGY1Y2QxNmY5YmM4NjNh",
   "tracks": [
     {
       "added_at": "2022-12-06 15:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Coulant",
-        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Coulant",
-      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Evenings",
         "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 112152,
       "name": "Evenings",
       "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Coulant",
+        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Coulant",
+      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "When it drizzles",
-        "url": "https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4"
-      },
-      "artists": [
-        {
-          "name": "Alva Brunel",
-          "url": "https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf"
-        }
-      ],
-      "duration_ms": 148890,
-      "name": "When it drizzles",
-      "url": "https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "A subtle joy",
         "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179253,
       "name": "A subtle joy",
       "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "When it drizzles",
+        "url": "https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4"
+      },
+      "artists": [
+        {
+          "name": "Alva Brunel",
+          "url": "https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf"
+        }
+      ],
+      "duration_ms": 148890,
+      "name": "When it drizzles",
+      "url": "https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Un Lent Mouvement",
-        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
-      },
-      "artists": [
-        {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
-        }
-      ],
-      "duration_ms": 161624,
-      "name": "Un Lent Mouvement",
-      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Os ventos do amor",
         "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 120066,
       "name": "Os ventos do amor",
       "url": "https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Un Lent Mouvement",
+        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "duration_ms": 161624,
+      "name": "Un Lent Mouvement",
+      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Summer Light",
-        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
-      },
-      "artists": [
-        {
-          "name": "Aaren Hughes",
-          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
-        }
-      ],
-      "duration_ms": 132681,
-      "name": "Summer Light",
-      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Waltz For Debby",
         "url": "https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 209625,
       "name": "Waltz For Debby",
       "url": "https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Summer Light",
+        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
+      },
+      "artists": [
+        {
+          "name": "Aaren Hughes",
+          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
+        }
+      ],
+      "duration_ms": 132681,
+      "name": "Summer Light",
+      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "The Midnight Sun",
-        "url": "https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE"
-      },
-      "artists": [
-        {
-          "name": "Hakone",
-          "url": "https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "The Midnight Sun",
-      "url": "https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Papier coll\u00e9",
         "url": "https://open.spotify.com/album/7e1X0WJqhFqDc3qqfRrFXd"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 145411,
       "name": "Papier coll\u00e9",
       "url": "https://open.spotify.com/track/6zB7Vvymi8vYeSqH9z9HhV"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "The Midnight Sun",
+        "url": "https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE"
+      },
+      "artists": [
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "The Midnight Sun",
+      "url": "https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Silent joy",
-        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
-      },
-      "artists": [
-        {
-          "name": "Lester Dann",
-          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Silent joy",
-      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Matin",
         "url": "https://open.spotify.com/album/0HVGfqOjUcn2HKQcND27hR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 114000,
       "name": "Matin",
       "url": "https://open.spotify.com/track/1TWlhhICPR0UpyIJhxPiEx"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Silent joy",
+        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Silent joy",
+      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Aislingeach",
-        "url": "https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr"
-      },
-      "artists": [
-        {
-          "name": "Chloe Doyle",
-          "url": "https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r"
-        }
-      ],
-      "duration_ms": 121518,
-      "name": "Aislingeach",
-      "url": "https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Evenings on Instagram, Pt. I",
         "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 61000,
       "name": "And So the Story Began",
       "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Aislingeach",
+        "url": "https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr"
+      },
+      "artists": [
+        {
+          "name": "Chloe Doyle",
+          "url": "https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r"
+        }
+      ],
+      "duration_ms": 121518,
+      "name": "Aislingeach",
+      "url": "https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "I'll Be There (In Time)",
-        "url": "https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Weber",
-          "url": "https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "I'll Be There (In Time)",
-      "url": "https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Impuissance",
         "url": "https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 130190,
       "name": "am ersten Tag",
       "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "I'll Be There (In Time)",
+        "url": "https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Weber",
+          "url": "https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "I'll Be There (In Time)",
+      "url": "https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Cavtat",
-        "url": "https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2"
-      },
-      "artists": [
-        {
-          "name": "Med\u00e9a Bokor",
-          "url": "https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "Cavtat",
-      "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Unassailable",
         "url": "https://open.spotify.com/album/2HPF5oiDvF7hhvzG5LjlnY"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Ellipses",
-        "url": "https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM"
+        "name": "Cavtat",
+        "url": "https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2"
       },
       "artists": [
         {
-          "name": "Dominique Marais",
-          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
+          "name": "Med\u00e9a Bokor",
+          "url": "https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl"
         }
       ],
-      "duration_ms": 151251,
-      "name": "Ellipses",
-      "url": "https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3"
+      "duration_ms": 119000,
+      "name": "Cavtat",
+      "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Testimony (EP)",
-        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
+        "name": "Ellipses",
+        "url": "https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM"
       },
       "artists": [
         {
-          "name": "Genevieve Melton",
-          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
+          "name": "Dominique Marais",
+          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
+      "duration_ms": 151251,
+      "name": "Ellipses",
+      "url": "https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Sakteligen",
+        "url": "https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2"
+      },
+      "artists": [
+        {
+          "name": "Lykka Alve",
+          "url": "https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo"
+        }
+      ],
+      "duration_ms": 131906,
+      "name": "Sakteligen",
+      "url": "https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m"
     }
   ],
   "unique_name": "Coffee and Piano",

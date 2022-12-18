@@ -4,7 +4,7 @@
 
 > 150%
 
-132 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+134 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 | 2022-06-09 |  |
 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 | 2022-06-09 |  |
 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 | 2022-08-16 | 2022-12-14 |
-| [die first \- sped up version](https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first \(love forever\)](https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj) | 2:24 | 2022-08-05 |  |
+| [die first \- sped up version](https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first \(love forever\)](https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj) | 2:24 | 2022-08-05 | 2022-12-18 |
+| [die first \- sped up version](https://open.spotify.com/track/3lEqXRwPi98ZvKm5bsZTGi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [die first \(love forever\)](https://open.spotify.com/album/3Pqcill829HN55wmRCDFRw) | 2:24 | 2022-11-15 |  |
 | [Doja \- Sped Up Version](https://open.spotify.com/track/4UflFk4hLqXOfp2X38X6sI) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Doja \(Sped Up Version\)](https://open.spotify.com/album/0Vb9bg15zumvD37Au4FsVJ) | 1:21 | 2022-11-22 |  |
 | [don't miss me \- sped up](https://open.spotify.com/track/2rpez0lqbhLnbFTl1urYwm) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Romy Bornhorst](https://open.spotify.com/artist/4UoDX6M8th8sNyoX7i3nT5) | [don’t miss me \(sped up\)](https://open.spotify.com/album/1ziHMhSrO41E03FPBaKR0P) | 1:32 | 2022-09-22 |  |
 | [don't wanna be your friend \- sped up](https://open.spotify.com/track/5ttbjSyoPvv9saJkeZt8o3) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't wanna be your friend \(sped up\)](https://open.spotify.com/album/6RyvFQGGH111be3sSSjdas) | 2:30 | 2022-11-11 | 2022-12-14 |
@@ -120,7 +121,8 @@
 | [Summertime Sadness \- Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Summertime Sadness \(Sped Up\)](https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc) | 3:17 | 2022-09-27 |  |
 | [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q) | 1:35 | 2022-07-01 |  |
 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 | 2022-07-06 | 2022-12-14 |
-| [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-06-09 |  |
+| [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-06-09 | 2022-12-18 |
+| [Sway \- Sped Up Version](https://open.spotify.com/track/2BLXNZq2tVNFzVI7yRk6Hc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3qQb4brcSYgXOPVALspjL3) | 2:27 | 2022-11-15 |  |
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 |  |
 | [Tap Tap \(Lil Uzi Vert\)](https://open.spotify.com/track/4zl9o7s6CUZ80IrEJx6Pqs) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Tap Tap \(Lil Uzi Vert\)](https://open.spotify.com/album/1x17i1sDTb7VfH42TIU7eI) | 1:53 | 2022-12-14 |  |
 | [Taste \(Speed\)](https://open.spotify.com/track/2O0v7fVGXrAsmx5NokutyI) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste \(Speed\)](https://open.spotify.com/album/4i73SJUP6mIDSLS8t8b0UW) | 2:29 | 2022-07-27 | 2022-11-29 |

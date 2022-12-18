@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 56052,
+  "num_followers": 56237,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDFiNjk4N2NmNWIyZmZkYmExODZjMGY1MWJmNmU1MTUy",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDRkZDZjNDY1ZDYxZmU3ODQ0YmNiYTk4ZmMxNDY5ZTlk",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -267,18 +267,22 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+        "name": "Me & My Brother",
+        "url": "https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95"
       },
       "artists": [
         {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        },
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
         }
       ],
-      "duration_ms": 213373,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+      "duration_ms": 252440,
+      "name": "Salt Shaker",
+      "url": "https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Me & My Brother",
-        "url": "https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95"
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
       "artists": [
         {
-          "name": "Ying Yang Twins",
-          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
-        },
-        {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
         }
       ],
-      "duration_ms": 252440,
-      "name": "Salt Shaker",
-      "url": "https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"
+      "duration_ms": 213373,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
     },
     {
       "added_at": "2021-10-20 15:00:00",

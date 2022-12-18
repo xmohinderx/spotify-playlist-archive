@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-105 songs - 7 hr 49 min - not published yet
+106 songs - 7 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Swing Your Leaves](https://open.spotify.com/track/2qDNIW4IXccjMFirKurTTU) | [Frame](https://open.spotify.com/artist/5qydKuymRhyMaVPUfIqh8C) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 3:57 | 2022-12-01 |  |
 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 | 2022-12-01 |  |
 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 | 2022-12-01 |  |
-| [THE FIRST STAR](https://open.spotify.com/track/40jH6AJbcdMRFzzro3eBeU) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:12 | 2022-12-01 |  |
+| [THE FIRST STAR](https://open.spotify.com/track/40jH6AJbcdMRFzzro3eBeU) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:12 | 2022-12-01 | 2022-12-18 |
 | [Time Before Time](https://open.spotify.com/track/3u2raQM6PDsLd263rRniC9) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 3:40 | 2022-12-01 |  |
 | [TOMORROW DIAMOND](https://open.spotify.com/track/7aindbhwthgO902KSrneGw) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9) | [THE IDOLM@STER SideM ANIMATION PROJECT 02 TOMORROW DIAMOND](https://open.spotify.com/album/1Z04uyUlHNIhMyDveIRpO8) | 4:47 | 2022-12-01 |  |
 | [Tone's Destiny](https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:39 | 2022-12-01 |  |
@@ -109,6 +109,7 @@
 | [喝彩!\~花鳥風月\~](https://open.spotify.com/track/3cWO8AHohiOhPvBLYtyrYd) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM ST@RTING LINE\-07 彩](https://open.spotify.com/album/0s7spotLMmTvQPSl4IykMd) | 4:50 | 2022-12-01 |  |
 | [天道 輝からのスペシャルメッセージ](https://open.spotify.com/track/7BFww32SyxjIJzDHOxHd15) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/1GnnePv9qaMSiBZDD7CHa0) | [天道 輝からのスペシャルメッセージ](https://open.spotify.com/album/1AaEweWdMQCM8RXTsG7gTs) | 0:34 | 2022-12-01 |  |
 | [威風堂々と](https://open.spotify.com/track/6loUWr8hVdRMostxfh6OXU) | [黒野玄武 \(CV.深町寿成\)](https://open.spotify.com/artist/38GMHC9cKZ84mYq2mHgcWR) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:27 | 2022-12-01 | 2022-12-03 |
+| [我が混沌のサバト・マリアージュ](https://open.spotify.com/track/2mQQ2u5b2X3DRB55NeQhV2) | [アスラン=ベルゼビュートII世 \(CV.古川 慎\)](https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:45 | 2022-12-13 |  |
 | [永遠なる四銃士](https://open.spotify.com/track/6VlBEK2mjUroFSCwzUHicF) | [Teru Tendo \(CV: Shugo Nakamura\)](https://open.spotify.com/artist/7boAgMXjh8QfNoebIMNuoN), [Hideo Akuno \(CV: Kentaro Kumagai\)](https://open.spotify.com/artist/1TNtxzq8ou2b1pxhqvETd8), [Suzaku Akai \(CV: Takeaki Masuyama\)](https://open.spotify.com/artist/4BDH9YGD7Ch3Afs03CMUw8), [Amehiko Kuzunoha \(CV: Jun Kasama\)](https://open.spotify.com/artist/6YcjPoc4BXcd1ZDSyqO8ht) | [THE IDOLM@STER SideM WORLD TRE@SURE 01](https://open.spotify.com/album/6YWvzl8ZCQ0xCsnlJs3S5n) | 4:14 | 2022-12-01 |  |
 | [流星PARADE](https://open.spotify.com/track/7tbKELqHnlPuUYwTZvFZ3o) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43), [S.E.M](https://open.spotify.com/artist/16f65kX5QJikhy2xfRMHq1), [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!](https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG) | 4:33 | 2022-12-01 |  |
 | [理由あって、アイドル!](https://open.spotify.com/track/7wK09hemIqf4AxVK5DUNVR) | [EFFY](https://open.spotify.com/artist/5jNbdaPfhmYcIub0YFgUgP) | [THE IDOLM@STER SideM ANIMATION PROJECT 08 Original Soundtrack: GLORIOUS RO@D](https://open.spotify.com/album/5g7hs5KQjp31HFvi9JJQEm) | 3:48 | 2022-12-01 | 2022-12-03 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Honey Dijon
 
-438 songs - 1 day 2 hr 42 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+439 songs - 1 day 2 hr 45 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Alright Alright](https://open.spotify.com/track/0rwcfDbRd4s6aKEsoiDCDg) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Alright Alright](https://open.spotify.com/album/5M54okM0EN1Q0KVAaMf0mS) | 5:32 | 2021-03-27\* | 2021-05-03 |
 | [Alter Ego](https://open.spotify.com/track/1H5aqJh1n2xJPTVc7D0aqR) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [For Club Play Only, Pt\. 7](https://open.spotify.com/album/6gtIyiWuthKdkFFz5Aoqhu) | 3:25 | 2021-06-03 | 2021-09-18 |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-03-04 | 2022-07-23 |
-| [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-11-11 |  |
+| [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-11-11 | 2022-12-18 |
 | [Animal Kingdom](https://open.spotify.com/track/68pyMFPW2TOrCrjnbytDk5) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Animal Kingdom](https://open.spotify.com/album/4eABXs2kDjjsBgjg0CeWIT) | 3:10 | 2021-03-27\* | 2021-07-31 |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-04-06 | 2022-07-29 |
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2021-03-27\* | 2021-06-03 |
@@ -258,6 +258,7 @@
 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-05 | 2022-09-21 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2021-03-27\* |  |
 | [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 | 2022-05-27 | 2022-07-09 |
+| [Maria Maria](https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G) | 2:41 | 2022-12-16 |  |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-03-27\* | 2021-06-12 |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-06-24 |  |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-03-27\* | 2021-07-17 |

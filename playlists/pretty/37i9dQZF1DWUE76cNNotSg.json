@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 405068,
+  "num_followers": 405197,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDIxY2E2NzE0YjlkMjM0NmJjZTE4NGUzMzc0MTBiMGI3",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGNkMDQwZGM3ZTliYWJiOWRjMDRkYzhhNWRiYjQ2Y2Yz",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
       "added_at": "2021-03-19 20:47:30",
       "album": {
         "name": "Polydans",
@@ -563,6 +547,22 @@
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
-      },
-      "artists": [
-        {
-          "name": "Mishegas",
-          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
-        }
-      ],
-      "duration_ms": 244267,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Pizza Guy / Show Me",
@@ -663,6 +647,22 @@
       "duration_ms": 349413,
       "name": "Pizza Guy",
       "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
+      },
+      "artists": [
+        {
+          "name": "Mishegas",
+          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+        }
+      ],
+      "duration_ms": 244267,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "If This Is House I Want My Money Back 3",
@@ -743,6 +727,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 243284,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
@@ -1119,22 +1103,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Feel It Still (The Remixes)",
-        "url": "https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1"
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C"
+      "duration_ms": 243284,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1155,6 +1135,26 @@
       "duration_ms": 251279,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Feel It Still (The Remixes)",
+        "url": "https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C"
     },
     {
       "added_at": "2020-12-22 17:15:29",

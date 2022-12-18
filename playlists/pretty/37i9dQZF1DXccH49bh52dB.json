@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 381278,
+  "num_followers": 381604,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGE4OTcxZGYyMDA4OTViZjc4NWNjNWZiODRiNjE4NDE5",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDI2MTljOWEwZmY5MmQ4YTFlZTEwYzFkNGYwZDU2MzU1",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Talk About It",
         "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 164536,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Elohim (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6tbzSO8UHnbvsPFG449fb2"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Sleepy Eyes",
-      "url": "https://open.spotify.com/track/1Wvzo4EotLEh4W3OVcQoDO"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "H.O.L.Y.",
         "url": "https://open.spotify.com/album/7oCFkWFuRVBCSL2JrPP0LU"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 175440,
       "name": "H.O.L.Y.",
       "url": "https://open.spotify.com/track/625SfHM2FVyyUj3cT8108G"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Elohim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tbzSO8UHnbvsPFG449fb2"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Sleepy Eyes",
+      "url": "https://open.spotify.com/track/1Wvzo4EotLEh4W3OVcQoDO"
     },
     {
       "added_at": "2022-01-18 14:54:04",

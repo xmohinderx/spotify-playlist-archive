@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Mavokali
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,855 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,911 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mapopo](https://open.spotify.com/track/6JQbozPXyjceIHVi6S1rzS) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mapopo](https://open.spotify.com/album/3DS6T19UXoSLPa73O4Mlbh) | 2:48 |
+| 1 | [Mapopo \- Remix](https://open.spotify.com/track/6JQbozPXyjceIHVi6S1rzS) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mapopo \(Remix\)](https://open.spotify.com/album/3DS6T19UXoSLPa73O4Mlbh) | 2:48 |
 | 2 | [Kwikwi](https://open.spotify.com/track/6RdkggWArMBHrxBmKTvsaj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Kwikwi](https://open.spotify.com/album/4Ylrz9HbGlQnEKHCe511nJ) | 3:11 |
 | 3 | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/1ZQ99HHidfORTcxmZDVF0o) | 3:05 |
 | 4 | [Shetani \(feat\. Costa Titch & Alfa Kat\)](https://open.spotify.com/track/4zCzPIdWmPDnvcyhSGvHqS) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 3:11 |
