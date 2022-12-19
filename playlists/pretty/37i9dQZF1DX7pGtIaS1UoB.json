@@ -1,15 +1,15 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 86962,
+  "num_followers": 86972,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgyMDg1MSwwMDAwMDAwMDExMWZiYzIwZDFjNzU1Y2YxZjNkMzRlMTBmYzM4MWRk",
+  "snapshot_id": "MTY3MDgyMDg1MSwwMDAwMDAwMGRjNjYwYjBmMGJmYTY4NDViMzcxNjRiMDRiMzFmNmEz",
   "tracks": [
     {
-      "added_at": "2022-12-18 01:20:41",
+      "added_at": "2022-12-19 00:18:38",
       "album": {
         "name": "the way you wanna be",
         "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk"
     },
     {
-      "added_at": "2022-12-18 01:20:41",
+      "added_at": "2022-12-19 00:18:38",
       "album": {
         "name": "My Only",
         "url": "https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3"
     },
     {
-      "added_at": "2022-12-18 01:20:41",
+      "added_at": "2022-12-19 00:18:38",
       "album": {
         "name": "Cappuccino",
         "url": "https://open.spotify.com/album/5GSFZurxEZUNSQZ0clSvil"
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-12-05 04:35:12",
       "album": {
-        "name": "\u9759\u6084\u6084",
-        "url": "https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6ceb",
-          "url": "https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9"
-        }
-      ],
-      "duration_ms": 185678,
-      "name": "\u9759\u6084\u6084",
-      "url": "https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2"
-    },
-    {
-      "added_at": "2022-12-05 04:35:12",
-      "album": {
         "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
         "url": "https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 195813,
       "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
       "url": "https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb"
+    },
+    {
+      "added_at": "2022-12-05 04:35:12",
+      "album": {
+        "name": "\u9759\u6084\u6084",
+        "url": "https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6ceb",
+          "url": "https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9"
+        }
+      ],
+      "duration_ms": 185678,
+      "name": "\u9759\u6084\u6084",
+      "url": "https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2"
     },
     {
       "added_at": "2022-12-05 04:35:12",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-12-05 04:35:12",
       "album": {
-        "name": "for ya",
-        "url": "https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo"
-      },
-      "artists": [
-        {
-          "name": "\u848b\u5c0f\u5462",
-          "url": "https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9"
-        }
-      ],
-      "duration_ms": 153854,
-      "name": "for ya",
-      "url": "https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn"
-    },
-    {
-      "added_at": "2022-12-05 04:35:12",
-      "album": {
         "name": "\u83ef\u8207\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 233406,
       "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
       "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
+    },
+    {
+      "added_at": "2022-12-05 04:35:12",
+      "album": {
+        "name": "for ya",
+        "url": "https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo"
+      },
+      "artists": [
+        {
+          "name": "\u848b\u5c0f\u5462",
+          "url": "https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9"
+        }
+      ],
+      "duration_ms": 153854,
+      "name": "for ya",
+      "url": "https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn"
     },
     {
       "added_at": "2022-12-05 04:35:12",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-12-05 04:35:12",
       "album": {
+        "name": "\u4e07\u6709\u5f15\u529b",
+        "url": "https://open.spotify.com/album/51ug4YqwzJoPY4h3kI8Fdd"
+      },
+      "artists": [
+        {
+          "name": "F*yy",
+          "url": "https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "\u4e07\u6709\u5f15\u529b",
+      "url": "https://open.spotify.com/track/4B3CIS74EZJ3n79AkfeC2X"
+    },
+    {
+      "added_at": "2022-12-05 04:35:12",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2022-12-05 04:35:12",
-      "album": {
-        "name": "\u4e07\u6709\u5f15\u529b",
-        "url": "https://open.spotify.com/album/51ug4YqwzJoPY4h3kI8Fdd"
-      },
-      "artists": [
-        {
-          "name": "F*yy",
-          "url": "https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "\u4e07\u6709\u5f15\u529b",
-      "url": "https://open.spotify.com/track/4B3CIS74EZJ3n79AkfeC2X"
     },
     {
       "added_at": "2022-12-05 04:35:12",

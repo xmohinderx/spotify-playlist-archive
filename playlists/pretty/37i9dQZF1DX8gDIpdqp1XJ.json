@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 823929,
+  "num_followers": 824207,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NzM0MCwwMDAwMDAwMDQ3ZjczYzdkN2ZlYWE2YWI2MzFiOWFkOTBhMGQ4MTJi",
+  "snapshot_id": "MTY3MTE2NzM0MCwwMDAwMDAwMDgxM2M4YmEyZDFiOGU0MGZhOTg4MmFjOWU0M2FkMDY4",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 423346,
-      "name": "Love On The Run",
-      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Tongo Barra",
         "url": "https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Apoptosis",
         "url": "https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq"
       },
@@ -607,38 +607,6 @@
       "duration_ms": 174363,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Keep On Dreamin'",
-        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Keep On Dreamin'",
-      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -659,6 +627,38 @@
       "duration_ms": 230137,
       "name": "Doris",
       "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Keep On Dreamin'",
+        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Just Before The Morning",
-        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 214497,
-      "name": "Just Before The Morning",
-      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187413,
       "name": "Saturdays",
       "url": "https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Just Before The Morning",
+        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 214497,
+      "name": "Just Before The Morning",
+      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Spirit Mission",
+        "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Lonely One",
+      "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "TECHNICOLOR",
         "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Spirit Mission",
-        "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Lonely One",
-      "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 199440,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 470092,
-      "name": "Dripping Sun",
-      "url": "https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -923,6 +907,22 @@
       "duration_ms": 224448,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 470092,
+      "name": "Dripping Sun",
+      "url": "https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV"
     },
     {
-      "added_at": "2022-11-10 18:56:35",
-      "album": {
-        "name": "Baby Blue Eyes",
-        "url": "https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Baby Blue Eyes",
-      "url": "https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Timeless",
@@ -1113,6 +1097,22 @@
       "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
     },
     {
+      "added_at": "2022-11-10 18:56:35",
+      "album": {
+        "name": "Baby Blue Eyes",
+        "url": "https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Baby Blue Eyes",
+      "url": "https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1"
+    },
+    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "SongBook",
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
-      "added_at": "2022-12-18 01:05:55",
+      "added_at": "2022-12-19 00:45:17",
       "album": {
         "name": "Dreaming Eyes",
         "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Table for Two",
+        "url": "https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Table for Two",
+      "url": "https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Table for Two",
-        "url": "https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Table for Two",
-      "url": "https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Postman b/w Magazine",
-        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -1473,20 +1457,20 @@
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
     },
     {
-      "added_at": "2022-11-10 18:56:35",
+      "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z"
+        "name": "Postman b/w Magazine",
+        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
       },
       "artists": [
         {
-          "name": "Scrimmage",
-          "url": "https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 138461,
-      "name": "Magma",
-      "url": "https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3"
+      "duration_ms": 160704,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1535,6 +1519,22 @@
       "duration_ms": 184893,
       "name": "Dionysian State",
       "url": "https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B"
+    },
+    {
+      "added_at": "2022-11-10 18:56:35",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z"
+      },
+      "artists": [
+        {
+          "name": "Scrimmage",
+          "url": "https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Magma",
+      "url": "https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Protean Threat",
+        "url": "https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI"
+      },
+      "artists": [
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        },
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "If I Had My Way",
+      "url": "https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD"
       },
@@ -1621,26 +1641,6 @@
       "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Protean Threat",
-        "url": "https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI"
-      },
-      "artists": [
-        {
-          "name": "Osees",
-          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
-        },
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "If I Had My Way",
-      "url": "https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Smalltown Stardust",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt"
-      },
-      "artists": [
-        {
-          "name": "All We Are",
-          "url": "https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT"
-        }
-      ],
-      "duration_ms": 252319,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Aquarium Drunkard's Lagniappe Sessions",
         "url": "https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 271349,
       "name": "2009",
       "url": "https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt"
+      },
+      "artists": [
+        {
+          "name": "All We Are",
+          "url": "https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT"
+        }
+      ],
+      "duration_ms": 252319,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
     }
   ],
   "unique_name": "Modern Psychedelia",

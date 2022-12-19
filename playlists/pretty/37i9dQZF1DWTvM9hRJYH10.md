@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,448 likes - 147 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,452 likes - 147 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

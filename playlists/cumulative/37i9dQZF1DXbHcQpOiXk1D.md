@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-354 songs - 1 day 1 hr 56 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+355 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Dreams](https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL), [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 4:10 | 2022-03-08 | 2022-03-09 |
 | [Dumont](https://open.spotify.com/track/0Rs70vYqQU3CYpYlHEv0mt) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Dumont](https://open.spotify.com/album/0VYZoeYn5gGAYzqE5aeIR1) | 5:40 | 2022-03-24 | 2022-04-21 |
 | [Early Hours](https://open.spotify.com/track/0t7NNWc2iaPJInAaKYCx4K) | [Ugolino](https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7) | [Early Hours](https://open.spotify.com/album/25o3AA79SplKRugLXGA7ja) | 4:02 | 2021-12-17 | 2022-11-26 |
-| [Ego Killah](https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 5:55 | 2022-11-04 |  |
+| [Ego Killah](https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 5:55 | 2022-11-04 | 2022-12-19 |
 | [Ego Killah](https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa) | 5:55 | 2022-09-23 | 2022-11-07 |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-03-24 | 2022-04-20 |
 | [Epistrophy](https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Epistrophy](https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL) | 3:31 | 2022-07-28 | 2022-11-13 |
@@ -101,6 +101,7 @@
 | [Eye Glass](https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Show Your Face](https://open.spotify.com/album/0hCQ1KdPi8iTGuisaQzeBh) | 4:54 | 2022-02-11 | 2022-08-30 |
 | [Fallen](https://open.spotify.com/track/1Krlt9rsWFe2rx4xDXohUp) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Fallen](https://open.spotify.com/album/6GEDmIVCjsICy3Jw4mZZD1) | 2:14 | 2022-03-24 | 2022-04-19 |
 | [Falling](https://open.spotify.com/track/6wylJQBd31qKnAtbEmrN5P) | [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Falling](https://open.spotify.com/album/4JUVXlxZJ7g1K9YQD4lnzs) | 3:21 | 2022-03-24 | 2022-04-20 |
+| [Falling Fast](https://open.spotify.com/track/2YIzh2AjR9d1A0fEZ2M66b) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Crisis & Opportunity, Vol.3 \- Unfold](https://open.spotify.com/album/4joLXzBylW8503medJp3Ir) | 3:51 | 2022-12-16 |  |
 | [Family](https://open.spotify.com/track/3CIKJOw6TNidHgmHnZkxX5) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/7GdKMLqc7Gzg9yWWZHH84l) | 3:59 | 2022-03-08 | 2022-07-22 |
 | [Fear Leads Us On](https://open.spotify.com/track/2XYanbH7DcqMX9sWQYaDl4) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK), [Eriksson Kaner](https://open.spotify.com/artist/1DVk8gpsMn5Tc3ugRJHkch) | [Fear Leads Us On](https://open.spotify.com/album/6tbjxbiSAYWxsaMnvpKRus) | 3:46 | 2022-03-24 | 2022-04-20 |
 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 | 2022-09-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169975,
+  "num_followers": 169993,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGYwOWJjMDUyMzNjZDAyODQ1MWY0NTdkMzNlZGU4ZDM1",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDA3YjJkYzFhNDg5MGE5ZWUwYTgyOTEzMGQ5YTM3Njg1",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Cry No More",
-        "url": "https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 283893,
       "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
       "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Cry No More",
+        "url": "https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Juice Me Up",
         "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
+      },
+      "artists": [
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
+      },
+      "artists": [
+        {
+          "name": "Erja Lyytinen",
+          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
+        }
+      ],
+      "duration_ms": 306680,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Handle Me with Care",
         "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 296413,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
-      },
-      "artists": [
-        {
-          "name": "Erja Lyytinen",
-          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
-        }
-      ],
-      "duration_ms": 306680,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
     },
     {
       "added_at": "2022-03-08 14:01:09",

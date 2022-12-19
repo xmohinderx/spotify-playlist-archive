@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 273958,
+  "num_followers": 273992,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyNzgyMSwwMDAwMDAwMGJmMzM0MGRkYjkxNWE2YTA2NmYzYWY1MTljNjk1ZTYx",
+  "snapshot_id": "MTY3MTIyNzgyMSwwMDAwMDAwMGEyMzNmYzVhYWNjYjNhODNiZmY4YzQ5NTAzNTlhYzFi",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -79,18 +79,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Music Sounds Better with You",
-        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
         }
       ],
-      "duration_ms": 198305,
-      "name": "Music Sounds Better with You",
-      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
+      "duration_ms": 226798,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
+        "name": "Music Sounds Better with You",
+        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
       },
       "artists": [
         {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 226798,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
+      "duration_ms": 198305,
+      "name": "Music Sounds Better with You",
+      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
-      },
-      "artists": [
-        {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
-        }
-      ],
-      "duration_ms": 217935,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "It's Called: Freefall",
         "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 158297,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
+      },
+      "artists": [
+        {
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+        }
+      ],
+      "duration_ms": 217935,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -577,6 +577,30 @@
       "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
     },
     {
+      "added_at": "2022-12-05 15:39:19",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        }
+      ],
+      "duration_ms": 262714,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Someone You Loved",
@@ -623,30 +647,6 @@
       "duration_ms": 136891,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
-    },
-    {
-      "added_at": "2022-12-05 15:39:19",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        }
-      ],
-      "duration_ms": 262714,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Music From The Pen Gala 1983",
-        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Come Give Me Love",
         "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
@@ -939,22 +923,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -967,6 +935,38 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Music From The Pen Gala 1983",
+        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 311844,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2022-11-11 05:00:00",

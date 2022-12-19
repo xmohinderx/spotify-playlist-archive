@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 15277,
+  "num_followers": 15374,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGM2Zjk1MTdmMmE4YWEyYjg3MDk2NzEyOGNjZDc5Zjll",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDJhY2RmZTI1NmM2MmU3N2RhMWRkNTRiZWZjMzYxNWZj",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -239,8 +239,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Lay It On Down",
-        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 293506,
-      "name": "Nothing But The Night",
-      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -303,18 +303,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Boarding House Reach",
-        "url": "https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId"
+        "name": "Ashes & Dust",
+        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        },
+        {
+          "name": "Railroad Earth",
+          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Corporation",
-      "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
+      "duration_ms": 446346,
+      "name": "Coal Tattoo",
+      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -335,22 +339,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Ashes & Dust",
-        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
+        "name": "Boarding House Reach",
+        "url": "https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId"
       },
       "artists": [
         {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        },
-        {
-          "name": "Railroad Earth",
-          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 446346,
-      "name": "Coal Tattoo",
-      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
+      "duration_ms": 339000,
+      "name": "Corporation",
+      "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -387,8 +387,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+        "name": "Lay It On Down",
+        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+      "duration_ms": 293506,
+      "name": "Nothing But The Night",
+      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -733,30 +733,6 @@
       "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/7zKBDolt5SBR9L61zJySRu"
-      },
-      "artists": [
-        {
-          "name": "Phil Buckle",
-          "url": "https://open.spotify.com/artist/6nSN81rc3gTANluX5J9KOH"
-        },
-        {
-          "name": "Jimmy Johnson",
-          "url": "https://open.spotify.com/artist/0PAozwlZoME4aQJ6qdpwvV"
-        },
-        {
-          "name": "Virgil Donati",
-          "url": "https://open.spotify.com/artist/0mKi9K7XoFGTNfOhwlxr6Y"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/0AaIPTctizQbkpg2e1MCh4"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Shufflin' West Coast",
@@ -805,6 +781,62 @@
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/7zKBDolt5SBR9L61zJySRu"
+      },
+      "artists": [
+        {
+          "name": "Phil Buckle",
+          "url": "https://open.spotify.com/artist/6nSN81rc3gTANluX5J9KOH"
+        },
+        {
+          "name": "Jimmy Johnson",
+          "url": "https://open.spotify.com/artist/0PAozwlZoME4aQJ6qdpwvV"
+        },
+        {
+          "name": "Virgil Donati",
+          "url": "https://open.spotify.com/artist/0mKi9K7XoFGTNfOhwlxr6Y"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/0AaIPTctizQbkpg2e1MCh4"
+    },
+    {
+      "added_at": "2021-04-27 23:04:41",
+      "album": {
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
+      },
+      "artists": [
+        {
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Clawhammer",
+        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
+    },
+    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Signs",
@@ -835,38 +867,6 @@
       "duration_ms": 168293,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Clawhammer",
-        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Over Your Head",
-        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 388893,
-      "name": "Pusher",
-      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
     }
   ],
   "unique_name": "Modern Blues Guitar",

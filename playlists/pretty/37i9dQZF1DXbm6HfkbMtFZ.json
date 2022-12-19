@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 630241,
+  "num_followers": 630408,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI3MDQwMCwwMDAwMDAwMGM0NTQ1ZDkzZGZlNzliY2FkMDI4ODA2ZDQwZjI1MWNk",
+  "snapshot_id": "MTY3MDI3MDQwMCwwMDAwMDAwMGQ4YmI1NGU3MzljZDllNDdjZWMzNjM2N2Q0NmU3MDRk",
   "tracks": [
     {
       "added_at": "2022-12-05 20:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 207306,
       "name": "Bad Bad News",
       "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -555,22 +539,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 231965,
+      "name": "Crying Shame",
+      "url": "https://open.spotify.com/track/0VBKbgt7Q8fvR4B5DrvVph"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 311880,
       "name": "Let 'Em In - 2014 Remaster",
       "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 231965,
-      "name": "Crying Shame",
-      "url": "https://open.spotify.com/track/0VBKbgt7Q8fvR4B5DrvVph"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Some Twist",
-        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "I Root",
-      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Get On The Otherside",
         "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
       },
@@ -1231,6 +1199,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Always Afternoon",
         "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 183226,
       "name": "Always Afternoon",
       "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Happiness in Liquid Form",
+        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 201988,
+      "name": "Obvious Guy",
+      "url": "https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Happiness in Liquid Form",
-        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
       "artists": [
         {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
         }
       ],
-      "duration_ms": 201988,
-      "name": "Obvious Guy",
-      "url": "https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX"
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 390200,
       "name": "Changes, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 170165,
       "name": "Make You",
       "url": "https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "O.P. Jebediah",
-      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "House of FM",
         "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "O.P. Jebediah",
+      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Music and Dreams",
-        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "My Stove's on Fire",
-      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -1907,6 +1891,38 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "My Stove's on Fire",
+      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Float Back To You",
         "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 231868,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Groove Curse",
-        "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
     }
   ],
   "unique_name": "Feel Good Dinner",

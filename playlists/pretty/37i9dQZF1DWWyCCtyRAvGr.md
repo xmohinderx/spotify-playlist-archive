@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,522 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,643 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 38 | [Who You Gonna Hoodoo Now?](https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Hoodoo \(Commentary Version\)](https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN) | 4:28 |
 | 39 | [Old Time Used to Be](https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:17 |
 | 40 | [How Unlucky Can One Man Be](https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [Nick Holt](https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo), [The Teardrops](https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto) | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ) | 7:13 |
-| 41 | [I Loved Another Woman](https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:56 |
-| 42 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
+| 41 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
+| 42 | [I Loved Another Woman](https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:56 |
 | 43 | [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 |
 | 44 | [Whole World's Got The Blues](https://open.spotify.com/track/025MO5zsytvjgjZiuokOyS) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 5:33 |
 | 45 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
-| 46 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
-| 47 | [How Blue Can You Get](https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp) | 7:16 |
+| 46 | [How Blue Can You Get](https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp) | 7:16 |
+| 47 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 48 | [Bubba Jones](https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 4:26 |
 | 49 | [Gambler's Blues](https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 5:41 |
 | 50 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
 
-Snapshot ID: `MTY2ODc2ODUxOSwwMDAwMDAwMDdiOTYyNGYzYjdjZDY3MGUzMDJkYTJlYTMwMjMyMzEx`
+Snapshot ID: `MTY2ODc2ODUxOSwwMDAwMDAwMDFiNTZlYzI4MTg2YWQxMzZkMDNmOGVkNDlkNTFhNDU5`

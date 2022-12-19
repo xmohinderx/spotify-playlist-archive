@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 50201,
+  "num_followers": 50208,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMGVlMWFiM2Q3NDlhMTdmZDU0ODNlYmY2ZTQzZGVkNzhl",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDFiMDFmODgyNDRmOTBkNTc2MjY1MGY0ODljZjk1NWQ4",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "12 Years Old",
-        "url": "https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3"
-      },
-      "artists": [
-        {
-          "name": "Kim Stockwood",
-          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "12 Years Old",
-      "url": "https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Black History Month: Funk + Hip-Hop",
         "url": "https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 218626,
       "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
       "url": "https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "12 Years Old",
+        "url": "https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3"
+      },
+      "artists": [
+        {
+          "name": "Kim Stockwood",
+          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "12 Years Old",
+      "url": "https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly"
     },
     {
       "added_at": "2021-09-21 20:57:50",

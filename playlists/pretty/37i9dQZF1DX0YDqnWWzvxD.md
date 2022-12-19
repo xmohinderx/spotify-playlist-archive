@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,247 likes - 95 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,307 likes - 95 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 55 | [Oxygen Bar](https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Chill Me Out](https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe) | 5:31 |
 | 56 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
 | 57 | [Barefoot](https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Pendulum](https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE) | 4:07 |
-| 58 | [Loving Kindness](https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd) | [Ashana](https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW) | [All Is Forgiven](https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3) | 9:21 |
-| 59 | [Savasana](https://open.spotify.com/track/4knWfIEQO6hcKW20A16gYY) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Pamanyungan](https://open.spotify.com/album/4GafeD514GWyl9actIQHbA) | 8:32 |
+| 58 | [Savasana](https://open.spotify.com/track/4knWfIEQO6hcKW20A16gYY) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Pamanyungan](https://open.spotify.com/album/4GafeD514GWyl9actIQHbA) | 8:32 |
+| 59 | [Loving Kindness](https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd) | [Ashana](https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW) | [All Is Forgiven](https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3) | 9:21 |
 | 60 | [Hopefull](https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:18 |
 | 61 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
 | 62 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
 | 63 | [Between the Worlds Yoga Nidra \- Sunset Flow](https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 7:51 |
 | 64 | [Heaven](https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb) | 5:28 |
 | 65 | [Hands of Love](https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc) | 3:35 |
-| 66 | [Pearls](https://open.spotify.com/track/65ubCt2SVFiRJuEv7bICfL) | [Heads Over Dreams](https://open.spotify.com/artist/4WPD5ddaSmq6gKDwvHIZHj) | [INFINITY](https://open.spotify.com/album/5VFvR7a0Z4xqRvFT0bAaGk) | 2:19 |
-| 67 | [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 |
+| 66 | [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 |
+| 67 | [Pearls](https://open.spotify.com/track/65ubCt2SVFiRJuEv7bICfL) | [Heads Over Dreams](https://open.spotify.com/artist/4WPD5ddaSmq6gKDwvHIZHj) | [INFINITY](https://open.spotify.com/album/5VFvR7a0Z4xqRvFT0bAaGk) | 2:19 |
 | 68 | [Imgur](https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo) | [Pola Ris](https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO) | [Sleep](https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n) | 3:49 |
 | 69 | [Descending](https://open.spotify.com/track/2zyIF3bu7REVrFEbCkKeqR) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Shakuhachi Sleep Music](https://open.spotify.com/album/4t1knEf4OemS9en0BH7CGf) | 9:41 |
 | 70 | [A Peaceful Music](https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE) | [Relaxing Mindfulness Meditation Relaxation Maestro](https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9) | [Relaxation \- Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation](https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv) | 5:17 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 94 | [Arms Around Sleep](https://open.spotify.com/track/0cbBBMc7AFMG2MckHMlFWA) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [wake:sleep](https://open.spotify.com/album/3PgmnjkYbsQIIB5HJ3waWG) | 9:51 |
 | 95 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
 
-Snapshot ID: `MTY2ODc4NzU4MywwMDAwMDAwMGE5NDI2NGM0MzA4NmU4YTNjZDc0YmIyZDU0ZDdiMDA1`
+Snapshot ID: `MTY2ODc4NzU4MywwMDAwMDAwMDFiNmViZmM4ZmRiNDMzNDhhOWNlNzA1ZGIyN2FjMTJj`

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 23533,
+  "num_followers": 23550,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDU0M2U2Y2YyYjRmNzI3Y2U1OGZhNWE5ZWM3NTJhNzRh",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGVhZjkyNzgxYjMwNDg0NmI0ZDgxMjQ1ZGVhZjZkOWY0",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 406131,
-      "name": "Love Trax - Love Izz",
-      "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Muevete Mama",
         "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 413346,
       "name": "Muevete Mama - Broder Mix",
       "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 406131,
+      "name": "Love Trax - Love Izz",
+      "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Dancin' EP",
-        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
       },
       "artists": [
         {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
         }
       ],
-      "duration_ms": 731746,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
+      "duration_ms": 473477,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
       ],
-      "duration_ms": 473477,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "Dancin' EP",
+        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
       },
       "artists": [
         {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
         }
       ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+      "duration_ms": 731746,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Master Blaster (Turn It Up)",
-        "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
-      },
-      "artists": [
-        {
-          "name": "Joint Venture",
-          "url": "https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2"
-        }
-      ],
-      "duration_ms": 938546,
-      "name": "Master Blaster (Turn It Up)",
-      "url": "https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Master Blaster (Turn It Up)",
+        "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
+      },
+      "artists": [
+        {
+          "name": "Joint Venture",
+          "url": "https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2"
+        }
+      ],
+      "duration_ms": 938546,
+      "name": "Master Blaster (Turn It Up)",
+      "url": "https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "SuSu Bobien",
-          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
-        }
-      ],
-      "duration_ms": 483750,
-      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
-      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 342621,
       "name": "My People - My People Mix",
       "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "SuSu Bobien",
+          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
+        }
+      ],
+      "duration_ms": 483750,
+      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
+      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        }
+      ],
+      "duration_ms": 427132,
+      "name": "Hey! - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Keep On Jumpin' (feat. Chazzie)",
         "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 381076,
       "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
       "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        }
-      ],
-      "duration_ms": 427132,
-      "name": "Hey! - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-106 songs - 7 hr 53 min - not published yet
+107 songs - 7 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [永遠なる四銃士](https://open.spotify.com/track/6VlBEK2mjUroFSCwzUHicF) | [Teru Tendo \(CV: Shugo Nakamura\)](https://open.spotify.com/artist/7boAgMXjh8QfNoebIMNuoN), [Hideo Akuno \(CV: Kentaro Kumagai\)](https://open.spotify.com/artist/1TNtxzq8ou2b1pxhqvETd8), [Suzaku Akai \(CV: Takeaki Masuyama\)](https://open.spotify.com/artist/4BDH9YGD7Ch3Afs03CMUw8), [Amehiko Kuzunoha \(CV: Jun Kasama\)](https://open.spotify.com/artist/6YcjPoc4BXcd1ZDSyqO8ht) | [THE IDOLM@STER SideM WORLD TRE@SURE 01](https://open.spotify.com/album/6YWvzl8ZCQ0xCsnlJs3S5n) | 4:14 | 2022-12-01 |  |
 | [流星PARADE](https://open.spotify.com/track/7tbKELqHnlPuUYwTZvFZ3o) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43), [S.E.M](https://open.spotify.com/artist/16f65kX5QJikhy2xfRMHq1), [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!](https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG) | 4:33 | 2022-12-01 |  |
 | [理由あって、アイドル!](https://open.spotify.com/track/7wK09hemIqf4AxVK5DUNVR) | [EFFY](https://open.spotify.com/artist/5jNbdaPfhmYcIub0YFgUgP) | [THE IDOLM@STER SideM ANIMATION PROJECT 08 Original Soundtrack: GLORIOUS RO@D](https://open.spotify.com/album/5g7hs5KQjp31HFvi9JJQEm) | 3:48 | 2022-12-01 | 2022-12-03 |
-| [装 \-So Beautiful\-](https://open.spotify.com/track/64cjGcMVZYNkElowiZrhtw) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM NEW STAGE EPISODE:14 彩](https://open.spotify.com/album/5dP6PSOVJZaHWkIF6d9At7) | 4:18 | 2022-12-01 |  |
+| [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 | 2022-12-13 |  |
+| [装 \-So Beautiful\-](https://open.spotify.com/track/64cjGcMVZYNkElowiZrhtw) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM NEW STAGE EPISODE:14 彩](https://open.spotify.com/album/5dP6PSOVJZaHWkIF6d9At7) | 4:18 | 2022-12-01 | 2022-12-19 |
 
 \*This playlist was first scraped on 2022-12-02. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
-  "num_followers": 43951,
+  "num_followers": 44021,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI1OTIwNywwMDAwMDAwMGYzMTk0NTczYzUyMDdiZmVmNTU1Mzg3ZjRhOGM3Mzll",
+  "snapshot_id": "MTY3MTM3MDQ1NSwwMDAwMDAwMGM0ODI0Nzc3Y2UyNTRjYTczZGEyMDFiZTRlYjMxYmQ2",
   "tracks": [
     {
       "added_at": "2022-12-11 14:28:49",
@@ -47,6 +47,30 @@
       "duration_ms": 244469,
       "name": "Gillakko Shiva (From \"Vedha\")",
       "url": "https://open.spotify.com/track/11PnFfnBgh4vTmCSKON5EO"
+    },
+    {
+      "added_at": "2022-12-18 13:34:15",
+      "album": {
+        "name": "Bombe Bombe (From \"Kranti\")",
+        "url": "https://open.spotify.com/album/6hiv8sfiz4NeaBsWPokxd1"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "V. Hari Krishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Bombe Bombe (From \"Kranti\")",
+      "url": "https://open.spotify.com/track/5R4ZLze526WkAvN6WXiFWY"
     },
     {
       "added_at": "2022-10-02 05:35:08",

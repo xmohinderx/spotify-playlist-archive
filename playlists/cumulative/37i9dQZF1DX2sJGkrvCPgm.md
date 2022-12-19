@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-293 songs - 18 hr 28 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+294 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Make Room \(feat\. Matt Maher\)](https://open.spotify.com/track/2S7l1NX9bWLm0fgg8hhWYR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [It's Finally Christmas \- EP](https://open.spotify.com/album/6yYrcNXcSslKmDkR2sfm6Q) | 4:26 | 2021-12-24 |  |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 | 2022-11-26 |  |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/7mdaecge9hB8VZyrqQMDBM) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Mary Had A Little Lamb](https://open.spotify.com/album/7hSSwV7RWL4slYauUvt3BW) | 2:48 | 2021-12-24 | 2022-12-13 |
-| [May You Find a Light](https://open.spotify.com/track/4ihsQ2R46NSvGItUXcTpO7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:47 | 2021-12-24 |  |
+| [May You Find a Light](https://open.spotify.com/track/4ihsQ2R46NSvGItUXcTpO7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:47 | 2021-12-24 | 2022-12-19 |
 | [Messiah](https://open.spotify.com/track/07uDNxlcxJ9yc97VPJHZTy) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Greatest Hits: The First Ten Years](https://open.spotify.com/album/2W1v9Xz8vVmsDsvkPj78jS) | 3:38 | 2021-12-24 |  |
 | [Midwinter](https://open.spotify.com/track/2xWrohwZZ88teyMfIIucpN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Midwinter](https://open.spotify.com/album/2GIM7r9F1uJ8YmYTIHRfE3) | 4:04 | 2021-12-24 | 2022-07-27 |
 | [Mighty Christmas](https://open.spotify.com/track/0tgZq7jJMTmWCyIEZtlcwF) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Mighty Christmas](https://open.spotify.com/album/4LgcALN2RdRGWSULMJuL5d) | 3:33 | 2021-12-24 | 2022-07-27 |
@@ -253,6 +253,7 @@
 | [The Christmas Waltz](https://open.spotify.com/track/2IawkwfaZNjql6iQ9FGY6r) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 2:53 | 2021-12-24 |  |
 | [The Elf Song](https://open.spotify.com/track/4zDelYDM5che1s73Xf0Ody) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 2:47 | 2022-11-26 |  |
 | [The First Christmas \(feat\. Zach Williams\)](https://open.spotify.com/track/0OglcJUgvwvrOrJhXK8WBj) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 2:22 | 2021-12-24 | 2022-07-29 |
+| [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/0A72PAniE3r51RQB1YjfWt) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Christmas: Joy To The World](https://open.spotify.com/album/6CDNJL0wwcpY56ppfHBtPr) | 3:46 | 2021-12-24 | 2022-07-29 |
 | [The First Noel](https://open.spotify.com/track/4mRYgux6JVh8abioQmEN9t) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Christmas: Joy to the World](https://open.spotify.com/album/4ZXkMHjPFRyKGG3cXIBDHy) | 3:46 | 2021-12-24 |  |
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-24 |  |

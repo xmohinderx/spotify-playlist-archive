@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 282000,
       "name": "Columbia River",
       "url": "https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 151413,
       "name": "Forget About",
       "url": "https://open.spotify.com/track/00epdG9ONPL8KkErbmKW8o"
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 200304,
       "name": "i saw you in a dream",
       "url": "https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi"
@@ -2301,6 +2301,24 @@
     {
       "album": {
         "name": "Lovers Fevers",
+        "url": "https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211744,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs"
+    },
+    {
+      "album": {
+        "name": "Lovers Fevers",
         "url": "https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB"
       },
       "artists": [
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 135453,
       "name": "I'd Like To Walk Around In Your Mind",
       "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 154730,
       "name": "I, Nietzsche - acoustic",
       "url": "https://open.spotify.com/track/377AoKp62nOZLYwAEaU9yE"
@@ -3403,7 +3421,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 116483,
       "name": "No Face",
       "url": "https://open.spotify.com/track/0uLlFekr8nKMj960xHKPYx"
@@ -4073,7 +4091,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 112879,
       "name": "Sappho",
       "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
@@ -4805,7 +4823,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 233062,
       "name": "The Fear of Losing This",
       "url": "https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn"
@@ -5407,7 +5425,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"

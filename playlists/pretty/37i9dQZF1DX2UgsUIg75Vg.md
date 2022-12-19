@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,822 likes - 122 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,292,051 likes - 122 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 121 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 122 | [Let Me Go](https://open.spotify.com/track/5fbiUB75zbrp6EY44IalDK) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:45 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDgwZGNhZmVjZjY3MmVmOTVmYjRlYTI4NDkyZjVlZDZi`
+Snapshot ID: `MTY3MTMzMTYzMiwwMDAwMDAwMGI3YzhlMzcyOWNiNDkyYmQ4ZDNmZTFhMDM4NWQyZDA4`

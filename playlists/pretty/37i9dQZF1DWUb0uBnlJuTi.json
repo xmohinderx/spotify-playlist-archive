@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 230729,
+  "num_followers": 231015,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGY0ZTk5YTMwNmQwN2Q1ZTcyZjEyYTYwMzM3MDI2MTU4",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGQ3NjJmMjBhMGI3Y2IxZjM4OTZhMDBkYTE4ZDJjYWUw",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -73,24 +73,20 @@
       "url": "https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "THE FUNK WILL PREVAIL",
-        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
+        "name": "Head Hunters",
+        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
       "artists": [
         {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        },
-        {
-          "name": "Tony Rosenberg",
-          "url": "https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 91733,
-      "name": "CATS GROOVE",
-      "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
+      "duration_ms": 388960,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -169,20 +165,24 @@
       "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
+        "name": "THE FUNK WILL PREVAIL",
+        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        },
+        {
+          "name": "Tony Rosenberg",
+          "url": "https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh"
         }
       ],
-      "duration_ms": 388960,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
+      "duration_ms": 91733,
+      "name": "CATS GROOVE",
+      "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Dark Side Riddim / Samuel L.Riddim",
@@ -487,6 +471,22 @@
       "duration_ms": 314811,
       "name": "Dark Side Riddim",
       "url": "https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -573,34 +573,6 @@
       "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Center Stage",
-        "url": "https://open.spotify.com/album/0OKzNFL2vAPb0qJJhv8sqR"
-      },
-      "artists": [
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        },
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Ronnie Cuber",
-          "url": "https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 341960,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Mysterious Traveller",
@@ -631,6 +603,34 @@
       "duration_ms": 225500,
       "name": "Capture This",
       "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Center Stage",
+        "url": "https://open.spotify.com/album/0OKzNFL2vAPb0qJJhv8sqR"
+      },
+      "artists": [
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        },
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Ronnie Cuber",
+          "url": "https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 341960,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
     },
     {
       "added_at": "2021-08-02 13:59:54",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
     },
     {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Comedown",
@@ -715,6 +699,22 @@
       "duration_ms": 159228,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
+    },
+    {
+      "added_at": "2021-08-27 04:01:00",
+      "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
     },
     {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+    },
+    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Friends Seen and Unseen (2022 Remaster)",
@@ -947,22 +963,6 @@
       "duration_ms": 222044,
       "name": "Running In Fear From Imaginary Assailants",
       "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Outtakes: 'Law of Attraction' Session",
-        "url": "https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo"
-      },
-      "artists": [
-        {
-          "name": "Mike Casey",
-          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
-        }
-      ],
-      "duration_ms": 120025,
-      "name": "Feel The Bern - Alt Take",
-      "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Pigna",
@@ -1129,6 +1113,22 @@
       "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Outtakes: 'Law of Attraction' Session",
+        "url": "https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "duration_ms": 120025,
+      "name": "Feel The Bern - Alt Take",
+      "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
+    },
+    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Mutual Attraction Vol. 2",
@@ -1145,28 +1145,20 @@
       "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Third Wave Mischief",
-        "url": "https://open.spotify.com/album/06AEoRXo7wFnISC0wytqJj"
+        "name": "Music Ruined My Life",
+        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
       },
       "artists": [
         {
-          "name": "Amir Bresler",
-          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
-        },
-        {
-          "name": "Nomok",
-          "url": "https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3"
-        },
-        {
-          "name": "Nitai Hershkovits",
-          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
         }
       ],
-      "duration_ms": 300513,
-      "name": "Third Wave Mischief",
-      "url": "https://open.spotify.com/track/5VX9c8VyCxUsSHILhUQSe5"
+      "duration_ms": 205829,
+      "name": "The Necessary Change",
+      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1183,22 +1175,6 @@
       "duration_ms": 235543,
       "name": "Broasted or Fried",
       "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Music Ruined My Life",
-        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 205829,
-      "name": "The Necessary Change",
-      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1233,20 +1209,44 @@
       "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Swedish Songbook",
-        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
+        "name": "Third Wave Mischief",
+        "url": "https://open.spotify.com/album/06AEoRXo7wFnISC0wytqJj"
       },
       "artists": [
         {
-          "name": "Fredrik Kronkvist",
-          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        },
+        {
+          "name": "Nomok",
+          "url": "https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Limu, Limu, Lima",
-      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
+      "duration_ms": 300513,
+      "name": "Third Wave Mischief",
+      "url": "https://open.spotify.com/track/5VX9c8VyCxUsSHILhUQSe5"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Hammond\" Smith",
+          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
+        }
+      ],
+      "duration_ms": 317957,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
+        "name": "The Swedish Songbook",
+        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
       },
       "artists": [
         {
-          "name": "Johnny \"Hammond\" Smith",
-          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
+          "name": "Fredrik Kronkvist",
+          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
         }
       ],
-      "duration_ms": 317957,
-      "name": "Tell Me What To Do",
-      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
+      "duration_ms": 278200,
+      "name": "Limu, Limu, Lima",
+      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1469,20 +1469,20 @@
       "url": "https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+        "name": "Award Tour (We Gettin' Down) / Bonita Applebum (Daylight)",
+        "url": "https://open.spotify.com/album/6CEhge3xbNldIrK6czWdgR"
       },
       "artists": [
         {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+          "name": "Soul Supreme",
+          "url": "https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy"
         }
       ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
+      "duration_ms": 244369,
+      "name": "Bonita Applebum (Daylight)",
+      "url": "https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT"
     }
   ],
   "unique_name": "Jazz-Funk",

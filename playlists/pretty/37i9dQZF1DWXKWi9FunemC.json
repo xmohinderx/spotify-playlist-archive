@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 184697,
+  "num_followers": 184726,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDRmNjAxNDkzZjRmNDBlYWZlNWM5YWVkYTU4MGRhZjQ3",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDFlYzkzZTljZGMxZTFkYmExNjA3YjhiZjk0MTEzMTZl",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -323,22 +323,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 237113,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 237113,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/6GKeWU2fpTpivcmWB4TR40"
-      },
-      "artists": [
-        {
-          "name": "Aisea Taimani + Minor Islands",
-          "url": "https://open.spotify.com/artist/5NvSQC8nd0lznCwDWgG0Pv"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/7pkYkPDwrGW2yCfrrlovCp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Love Unending",
-        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/6GKeWU2fpTpivcmWB4TR40"
       },
       "artists": [
         {
-          "name": "Ry Cox",
-          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
+          "name": "Aisea Taimani + Minor Islands",
+          "url": "https://open.spotify.com/artist/5NvSQC8nd0lznCwDWgG0Pv"
         }
       ],
-      "duration_ms": 270467,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
+      "duration_ms": 230000,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/7pkYkPDwrGW2yCfrrlovCp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -483,6 +467,22 @@
       "duration_ms": 191920,
       "name": "Who You Say I Am - Live/Acoustic",
       "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Love Unending",
+        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
+      },
+      "artists": [
+        {
+          "name": "Ry Cox",
+          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
+        }
+      ],
+      "duration_ms": 270467,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Heavenly Father",
-        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
-      },
-      "artists": [
-        {
-          "name": "York Worship",
-          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
-        }
-      ],
-      "duration_ms": 374117,
-      "name": "Heavenly Father",
-      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "A Dawn I Remember",
         "url": "https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 254146,
       "name": "Love Together",
       "url": "https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Heavenly Father",
+        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
+      },
+      "artists": [
+        {
+          "name": "York Worship",
+          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
+        }
+      ],
+      "duration_ms": 374117,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "YOUR NAME IS POWER (Acoustic)",
+        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 232238,
+      "name": "YOUR NAME IS POWER - Acoustic",
+      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "YOUR NAME IS POWER (Acoustic)",
-        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 232238,
-      "name": "YOUR NAME IS POWER - Acoustic",
-      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
-        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "This Wild Earth",
-      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Worth The Wait",
         "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 235056,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
+        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "This Wild Earth",
+      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "\u2020 (just the cross)",
         "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 398333,
       "name": "\u2020 (just the cross) - Live",
       "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 316946,
       "name": "Just As I Am (Nothing to Prove)",
       "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2020-08-31 15:19:19",

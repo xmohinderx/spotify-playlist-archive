@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 36891,
+  "num_followers": 36921,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMDkxNWU1NTA5YzJlNzhmNGM0MGE0Y2JhNTQwNGZlZjJk",
+  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMDk2NzNiNGFmNWY3YjRkMzU1YzZiMTczOWQ5ZTNlYjY3",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "City Lights by the Moonlight",
-        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
-      },
-      "artists": [
-        {
-          "name": "\u60e3\u9818 \u667a\u5b50",
-          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "City Lights by the Moonlight",
-      "url": "https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "DIGGIN\u2019 VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO",
         "url": "https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 213520,
       "name": "On the Coast",
       "url": "https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "City Lights by the Moonlight",
+        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
+      },
+      "artists": [
+        {
+          "name": "\u60e3\u9818 \u667a\u5b50",
+          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "City Lights by the Moonlight",
+      "url": "https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "\u3042\u309d\u3001\u308f\u304c\u826f\u304d\u53cb\u3088",
+        "url": "https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Kamayatsu",
+          "url": "https://open.spotify.com/artist/6Dzf0hRDXsjgxvmeh0dXO7"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "\u30b4\u30ed\u30ef\u30fc\u30ba\u3092\u5438\u3063\u305f\u3053\u3068\u304c\u3042\u308b\u304b\u3044",
+      "url": "https://open.spotify.com/track/1UOeZZUegiI3Lf0OOa5Unv"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "\u30a2\u30ef\u30fc\u30fb\u30b3\u30cd\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 199120,
       "name": "\u79c1\u81ea\u8eab",
       "url": "https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "\u3042\u309d\u3001\u308f\u304c\u826f\u304d\u53cb\u3088",
-        "url": "https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Kamayatsu",
-          "url": "https://open.spotify.com/artist/6Dzf0hRDXsjgxvmeh0dXO7"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "\u30b4\u30ed\u30ef\u30fc\u30ba\u3092\u5438\u3063\u305f\u3053\u3068\u304c\u3042\u308b\u304b\u3044",
-      "url": "https://open.spotify.com/track/1UOeZZUegiI3Lf0OOa5Unv"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
-      },
-      "artists": [
-        {
-          "name": "Raji",
-          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "HEART to HEART",
-      "url": "https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "Funny Walkin' (2017 \u30ea\u30de\u30b9\u30bf\u30fc)",
         "url": "https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194853,
       "name": "\u30b5\u30d6\u30bf\u30ec\u30cb\u30a2\u30f3\u4e8c\u4eba\u307c\u3063\u3061 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+      },
+      "artists": [
+        {
+          "name": "Raji",
+          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "HEART to HEART",
+      "url": "https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD"
     },
     {
       "added_at": "2022-11-16 00:55:45",

@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Nuevo Elemento en portada. ",
-  "num_followers": 124171,
+  "num_followers": 124182,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMGYwNTk4ZTc2ZGJkOGNiYjNmZmY4ODdkYzU4NjA3ODI3",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMGIzZDlhNTRhYzI0Y2JkMjk3YzgwZmZmZDBjZGRlNzNi",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -725,6 +725,26 @@
       "url": "https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO"
     },
     {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "X Personas Como T\u00fa",
+        "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        },
+        {
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
+        }
+      ],
+      "duration_ms": 173016,
+      "name": "X Personas Como T\u00fa",
+      "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
+    },
+    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Se Disfraz\u00f3",
@@ -755,26 +775,6 @@
       "duration_ms": 186626,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "X Personas Como T\u00fa",
-        "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
-      },
-      "artists": [
-        {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
-        },
-        {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
-        }
-      ],
-      "duration_ms": 173016,
-      "name": "X Personas Como T\u00fa",
-      "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Amor Ilegal",
-        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Amor Ilegal",
-      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Ya Lo Super\u00e9",
         "url": "https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 204546,
       "name": "Ya Lo Super\u00e9",
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/2Zt6BjmuPDe7uAbSjj4RmN"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Los Besos Jam\u00e1s",
         "url": "https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 195140,
       "name": "Los Besos Jam\u00e1s",
       "url": "https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/2Zt6BjmuPDe7uAbSjj4RmN"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU"
     },
     {
       "added_at": "2022-09-23 05:00:00",

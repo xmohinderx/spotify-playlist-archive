@@ -1,12 +1,12 @@
 {
   "description": "The Latin Pop hits of yesterday and today all in one place!\n\n",
-  "num_followers": 1135818,
+  "num_followers": 1135874,
   "original_name": "Now & Then Latin Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0MzIxNSwwMDAwMDAwMGVkZWRiMmRjMGU5OWMzYTBiZDdjZmM3YmJhZmY3NDM2",
+  "snapshot_id": "MTY3MTE0MzIxNSwwMDAwMDAwMGU3NjlkZjZlNWQ3MmRlMWI0MzA5ZmFhNWE0NDliMjU4",
   "tracks": [
     {
       "added_at": "2022-12-15 22:26:55",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2022-12-15 22:26:55",
       "album": {
-        "name": "Destino o casualidad",
-        "url": "https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 258504,
-      "name": "Destino o casualidad",
-      "url": "https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ"
-    },
-    {
-      "added_at": "2022-12-15 22:26:55",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+    },
+    {
+      "added_at": "2022-12-15 22:26:55",
+      "album": {
+        "name": "Destino o casualidad",
+        "url": "https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 258504,
+      "name": "Destino o casualidad",
+      "url": "https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ"
     },
     {
       "added_at": "2022-12-15 22:26:55",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-15 22:26:55",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2022-12-15 22:26:55",
-      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
+    },
+    {
+      "added_at": "2022-12-15 22:26:55",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2022-12-15 22:26:55",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-12-15 22:26:55",
       "album": {
-        "name": "Otra Noche en L.A.",
-        "url": "https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 211474,
-      "name": "Otra Noche en L.A.",
-      "url": "https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu"
-    },
-    {
-      "added_at": "2022-12-15 22:26:55",
-      "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 176298,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/1yc7ERfIzFxPP1E0OFRvp0"
+    },
+    {
+      "added_at": "2022-12-15 22:26:55",
+      "album": {
+        "name": "Otra Noche en L.A.",
+        "url": "https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 211474,
+      "name": "Otra Noche en L.A.",
+      "url": "https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu"
     },
     {
       "added_at": "2022-12-15 22:26:55",

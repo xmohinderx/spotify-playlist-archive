@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 122459,
+  "num_followers": 122474,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDA1ODY4ZGMxZTZjODVmMDhjZTY0M2U4NWY5ZWRmNmIx",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDMyOTVjZmZkMDhjMjM2MDQ3OWEzMzFhN2Y5MDYxMzEx",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
-        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mono Blanco Y Stone Lips",
-          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "El chuchumbe",
-      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Mambos Boleros y Danzones",
         "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 112596,
       "name": "Juarez",
       "url": "https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
+        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mono Blanco Y Stone Lips",
+          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "El chuchumbe",
+      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+        "name": "Nuestro Mexico",
+        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
       },
       "artists": [
         {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+          "name": "Marimba Alma de Chiapas de Juan Palacios",
+          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
         }
       ],
-      "duration_ms": 176266,
-      "name": "Las perlitas",
-      "url": "https://open.spotify.com/track/48bS8GnQrZuDSPP8CdMxis"
+      "duration_ms": 342933,
+      "name": "Musica De Mi Tierra-Mexico Lindo Y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa-Mexico Lindo Y Querido",
+      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Nuestro Mexico",
-        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
       "artists": [
         {
-          "name": "Marimba Alma de Chiapas de Juan Palacios",
-          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 342933,
-      "name": "Musica De Mi Tierra-Mexico Lindo Y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa-Mexico Lindo Y Querido",
-      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
+      "duration_ms": 176266,
+      "name": "Las perlitas",
+      "url": "https://open.spotify.com/track/48bS8GnQrZuDSPP8CdMxis"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
-        "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
-      },
-      "artists": [
-        {
-          "name": "Velino Miguel Preza",
-          "url": "https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN"
-        },
-        {
-          "name": "Anabel Medrano",
-          "url": "https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR"
-        },
-        {
-          "name": "Ensamble Centenario",
-          "url": "https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "Lindas Mexicanas",
-      "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 192200,
       "name": "M\u00e9xico Lindo y Querido",
       "url": "https://open.spotify.com/track/0OOdn5YA4H5oqNpar9hxFm"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
+        "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
+      },
+      "artists": [
+        {
+          "name": "Velino Miguel Preza",
+          "url": "https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN"
+        },
+        {
+          "name": "Anabel Medrano",
+          "url": "https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR"
+        },
+        {
+          "name": "Ensamble Centenario",
+          "url": "https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "Lindas Mexicanas",
+      "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
     },
     {
       "added_at": "2022-08-31 15:41:18",

@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=2HgKz2LQRDmlX\_TiWvxZsg"> Kold AF</a>
 
-158 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
+160 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Body](https://open.spotify.com/track/27YwMCIG7Rx9czTR625Wfz) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 3:13 | 2022-08-25 |  |
 | [Body Nice](https://open.spotify.com/track/6pK1SixhWsATn6uuVWtaWX) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Phase One](https://open.spotify.com/album/4jeLU9uhpa3D4qG7lWzyVT) | 3:17 | 2022-11-25 |  |
 | [Boogie Down](https://open.spotify.com/track/6NQ2z6g3eXqqgmlM3Y79fk) | [Smyley](https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx) | [Boogie Down](https://open.spotify.com/album/4V9RzFCnX5nnR2gv00fKmu) | 2:44 | 2022-12-08 |  |
-| [Butter](https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7), [SUTRA](https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 3:08 | 2022-07-07 |  |
+| [Butter](https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7), [SUTRA](https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 3:08 | 2022-07-07 | 2022-12-19 |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-06-30 | 2022-10-14 |
 | [CHAMPAGNE GIRL](https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [CHAMPAGNE GIRL](https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S) | 2:20 | 2022-10-07 | 2022-10-22 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-28 | 2022-10-29 |
@@ -50,6 +50,7 @@
 | [Damaged](https://open.spotify.com/track/54wYnj7FIU0JFIhy0gYZSH) | [Whoisakin](https://open.spotify.com/artist/6ZbeHoJ4RZnyjkHfIWS6Wp) | [Damaged](https://open.spotify.com/album/3c91kFCZ0kjdcnofzgqxj2) | 2:30 | 2022-08-18 |  |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-09-23 | 2022-10-29 |
 | [DON'T](https://open.spotify.com/track/5AzIXbjKdIR5NwLtQD4f48) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [DON'T](https://open.spotify.com/album/2XU7xRMCtUUtgYhqRldvKT) | 2:19 | 2022-11-25 | 2022-12-02 |
+| [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 |  |
 | [Dondi](https://open.spotify.com/track/06g9YpLkAyq0ttNa7hgJLl) | [Romi](https://open.spotify.com/artist/5kZWwJkGR6YrQt0xh3W3Vo) | [Romi](https://open.spotify.com/album/7jGfsjRjvCylFn25edyCRK) | 2:30 | 2022-09-16 | 2022-11-04 |
 | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/track/66ebvi27vMsoytonqo7A3D) | [Khalifina](https://open.spotify.com/artist/79MzTwzDXHZkVoX4He1l2l) | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/album/6yawCJDZwZDV5KDvCzAYzS) | 1:28 | 2022-10-21 | 2022-11-04 |
 | [Every Girl’s Boyfriend](https://open.spotify.com/track/236uspPWnM0MLm6dHooe34) | [Xbusta](https://open.spotify.com/artist/4MXhHvUOSehGxYEXHioArJ) | [Every Girl’s Boyfriend](https://open.spotify.com/album/0tGRl65KAW1eXqn5ZOU25H) | 2:44 | 2022-09-29 | 2022-10-14 |
@@ -66,6 +67,7 @@
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-25 |  |
 | [Friday](https://open.spotify.com/track/2PSzHKPwhLFVU6UJkcOfAF) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 3:31 | 2022-11-04 |  |
 | [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 | 2022-12-09 |
+| [Goodbye](https://open.spotify.com/track/6Dyk6CtOm4hDWnrdGVXKSd) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs) | [Goodbye](https://open.spotify.com/album/679QYO0qB3DfJMcznjWmA7) | 3:24 | 2022-12-18 |  |
 | [Green Light](https://open.spotify.com/track/4EiA4H6z3DJ7fkvxmvgHk6) | [BLAKBOYKAY](https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b), [Melon](https://open.spotify.com/artist/1nMR9WBk7bWLnAqz5MoVGs) | [Green Light](https://open.spotify.com/album/2D4eczOV5fEkR43ic0FiJq) | 2:30 | 2022-08-05 | 2022-12-09 |
 | [Hakuna Siri](https://open.spotify.com/track/0GalEYpkaMnB5U3RLWxbc6) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Hakuna Siri](https://open.spotify.com/album/59QZQVqovBNDE3377uz7nV) | 3:12 | 2022-12-08 |  |
 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 | 2022-07-14 |  |
@@ -74,7 +76,7 @@
 | [Here I Stand](https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Here I Stand](https://open.spotify.com/album/0SMjKGc2Hq9NpmmZK3aqaR) | 3:08 | 2022-06-30 | 2022-11-04 |
 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 | 2022-06-30 |  |
 | [Hold Me](https://open.spotify.com/track/1MLhmKjFXimItwYu16PUeE) | [Mikeprince](https://open.spotify.com/artist/1Th4VZ8M5qpSQUoy8Hnus1), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Hold Me](https://open.spotify.com/album/0BYsVu2QhlXFGq99xlviVt) | 3:23 | 2022-09-09 | 2022-12-09 |
-| [Hope](https://open.spotify.com/track/6pm2JIQTljsJXOm0eSQxib) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs) | [Hope](https://open.spotify.com/album/2daciEhNwCAn5tXKLy6bfO) | 3:55 | 2022-09-23 |  |
+| [Hope](https://open.spotify.com/track/6pm2JIQTljsJXOm0eSQxib) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs) | [Hope](https://open.spotify.com/album/2daciEhNwCAn5tXKLy6bfO) | 3:55 | 2022-09-23 | 2022-12-19 |
 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 | 2022-10-28 |  |
 | [How To Kill A Man \- Acoustic](https://open.spotify.com/track/1XQ0EtxFkmXdy9CwN3ihST) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man \(Acoustic\)](https://open.spotify.com/album/4qFn5L8w0027MonWrHowRP) | 2:53 | 2022-12-02 |  |
 | [Hypnotized](https://open.spotify.com/track/33a48upmr4xnlU6FPPSPPs) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u) | [Feel Everything](https://open.spotify.com/album/2u68w7gKwmk7doL3JIhLif) | 2:26 | 2022-09-16 |  |

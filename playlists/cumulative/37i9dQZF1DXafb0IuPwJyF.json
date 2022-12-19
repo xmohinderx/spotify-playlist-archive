@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 & \u77f3\u539f\u614e\u4e5f(Saucy Dog)",
+  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  \u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -1139,6 +1139,24 @@
       "duration_ms": 242650,
       "name": "Diary",
       "url": "https://open.spotify.com/track/3zpQOYESpZj2mDPrgy3fRT"
+    },
+    {
+      "album": {
+        "name": "DOGLAND",
+        "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175216,
+      "name": "DOGLAND",
+      "url": "https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6"
     },
     {
       "album": {
@@ -2338,6 +2356,24 @@
     },
     {
       "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/5nSKf0TUKnosCEBuLJPcVC"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "I Don't Wanna Be You",
+      "url": "https://open.spotify.com/track/1W2JZ582u23ihurEPQPjqB"
+    },
+    {
+      "album": {
         "name": "Tokyo State Of Mind",
         "url": "https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ"
       },
@@ -2598,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "Join Us!",
+        "url": "https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA"
+      },
+      "artists": [
+        {
+          "name": "Little Glee Monster",
+          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207808,
+      "name": "Join Us!",
+      "url": "https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh"
+    },
+    {
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje"
       },
@@ -2789,7 +2843,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 180211,
       "name": "Let Me Let You Go",
       "url": "https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw"
@@ -2829,6 +2883,24 @@
       "duration_ms": 180211,
       "name": "Let Me Let You Go - Japanese Version",
       "url": "https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2"
+    },
+    {
+      "album": {
+        "name": "round trip",
+        "url": "https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "lien",
+      "url": "https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR"
     },
     {
       "album": {
@@ -3991,7 +4063,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 131714,
       "name": "Operation : Multiverse of Love",
       "url": "https://open.spotify.com/track/5XUX5h0D5o91Q0CYuVjv6O"
@@ -4433,7 +4505,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 195319,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/6BbiAm2kP8ZSVuba0oMvBl"
@@ -5391,7 +5463,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 238560,
       "name": "Suzume",
       "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
@@ -6309,6 +6381,24 @@
       "duration_ms": 244445,
       "name": "your trip",
       "url": "https://open.spotify.com/track/1C9jTemz6FYLSINGxrt1QA"
+    },
+    {
+      "album": {
+        "name": "ZUTTO",
+        "url": "https://open.spotify.com/album/0f4VLaIDcIdG74d3P1rQth"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259420,
+      "name": "ZUTTO",
+      "url": "https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN"
     },
     {
       "album": {
@@ -7433,7 +7523,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 215093,
       "name": "\u30b0\u30c3\u30c9\u306a\u97f3\u697d\u3092",
       "url": "https://open.spotify.com/track/2FNkUZUdx0PVTwtzBCoPTt"
@@ -8692,6 +8782,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "album": {
         "name": "\u30ed\u30fc\u30ea\u30a2",
         "url": "https://open.spotify.com/album/76qgXZL5rOEtTlXv78oLim"
       },
@@ -9533,7 +9641,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 369253,
       "name": "\u604b\u3059\u308b - 10YEARS THANK YOU",
       "url": "https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D"
@@ -10016,6 +10124,24 @@
     },
     {
       "album": {
+        "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
+        "url": "https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
+      "url": "https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c"
+    },
+    {
+      "album": {
         "name": "\u6771\u4eac\u5ba3\u8a00",
         "url": "https://open.spotify.com/album/25FZu1HO24irASqorZEyB6"
       },
@@ -10225,7 +10351,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 305597,
       "name": "\u6c17\u5206",
       "url": "https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1"

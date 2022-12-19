@@ -1,12 +1,12 @@
 {
   "description": "Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.",
-  "num_followers": 861065,
+  "num_followers": 861047,
   "original_name": "Top Artists of EQUAL Global 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDk1YzUwMTllMWEyNTQxNjk5Nzk2Y2MyN2Y2NjljNTYz",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDBlMjVkZGNiMjYwMmNjNDlmYTc5NmNiYTM1ZjEzZWY3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "L\u00fac Th\u1ea5y L\u00fac Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "\u96e2\u5fc3\u529b",
         "url": "https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 143129,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
-      },
-      "artists": [
-        {
-          "name": "Hoang Thuy Linh",
-          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "L\u00fac Th\u1ea5y L\u00fac Kh\u00f4ng",
-      "url": "https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Y2",
-        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Make A Move",
-      "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/11MTxbr0apAkujej0nJ5WJ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 213707,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6GkKzcWODUEyiRXTNluvbL"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Y2",
+        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "M\u00edrame a la Cara",
-        "url": "https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 155408,
-      "name": "M\u00edrame a la Cara",
-      "url": "https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 168107,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "M\u00edrame a la Cara",
+        "url": "https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 155408,
+      "name": "M\u00edrame a la Cara",
+      "url": "https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg"
     },
     {
       "added_at": "2022-11-30 13:46:00",

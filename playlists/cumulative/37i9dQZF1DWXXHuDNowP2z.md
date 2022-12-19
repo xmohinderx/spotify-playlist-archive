@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-228 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+229 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Huapangos Perros](https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 5:09 | 2022-04-08 |  |
 | [Huapangos Perros](https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM) | 5:09 | 2022-04-08 | 2022-07-29 |
 | [Huapangos popurrí](https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi) | [Estilo Chihuahua](https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw) | [Simple y Sencillamente](https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht) | 5:14 | 2022-04-08 | 2022-11-13 |
+| [Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / Cómo Estás Tú \- En Vivo Desde Monterrey](https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO) | [La Casetera](https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM) | [En Vivo Desde Monterrey](https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F) | 6:05 | 2022-12-09 |  |
 | [Jambalaya](https://open.spotify.com/track/35iVqFnqmcqbIckOYoFnrn) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Arrasando Con Fuego](https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g) | 2:35 | 2022-04-08 |  |
 | [Jambalaya](https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 2:37 | 2022-04-08 | 2022-07-29 |
 | [Jinetes en el Cielo](https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:30 | 2022-04-08 |  |
@@ -138,7 +139,7 @@
 | [La Macarena \(Mere\-huapango\) \(En Vivo\)](https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic) | [Adixion Aktivada](https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk) | [Puro Note Primo / En Vivo Vol.1](https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu) | 2:56 | 2022-04-08 |  |
 | [La Manzanita](https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 2:21 | 2022-04-08 |  |
 | [La María](https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:26 | 2022-08-01 | 2022-12-10 |
-| [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 | 2022-04-08 |  |
+| [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 | 2022-04-08 | 2022-12-19 |
 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 | 2022-04-08 |  |
 | [La nena](https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:54 | 2022-04-08 | 2022-07-29 |
 | [La Pareja Ideal \- En Vivo](https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 4:14 | 2022-08-01 |  |

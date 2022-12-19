@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Cassiane, Fernanda Brum
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,198 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,256 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 44 | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/track/0A60DIXd4RoIB6l25wFgo5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/album/7rnb8t7kPq1emPdrfxCInC) | 4:10 |
 | 45 | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu) | 5:12 |
 | 46 | [Amigo Jesus](https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Amigo Jesus](https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb) | 4:22 |
-| 47 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 |
-| 48 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
+| 47 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
+| 48 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 |
 | 49 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 | 50 | [És Tudo](https://open.spotify.com/track/03z3mYVTDYDKwKamZzyGKj) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [És Tudo](https://open.spotify.com/album/19Y22lkGCbo2gDuFuC3t4k) | 4:57 |
 | 51 | [Fiel A Mim](https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:59 |
 | 52 | [Toma o Teu Lugar \- Make Room](https://open.spotify.com/track/6MTHuIDVGeSt5xEuwItVpM) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Toma o Teu Lugar \(Make Room\)](https://open.spotify.com/album/5ptH6CRcskhNs8i5iEIrBO) | 5:51 |
 | 53 | [O Bom Pastor](https://open.spotify.com/track/7djOFQprGO89J8o6OTFEzf) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [O Bom Pastor](https://open.spotify.com/album/1c61juuE8iKDkl5XSlInd7) | 5:23 |
-| 54 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
-| 55 | [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 |
+| 54 | [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 |
+| 55 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
 | 56 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
 | 57 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 58 | [Teu Falar \- Ao Vivo](https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU) | [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi) | 6:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
 | 75 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 
-Snapshot ID: `MTY3MTIxMzQ4NSwwMDAwMDAwMDdmMjRmZTI1ODQwYmM2ZGUwNzU5OTY5NjUwZDE3NjQ3`
+Snapshot ID: `MTY3MTIxMzQ4NSwwMDAwMDAwMDRiNjIzOWE3MTQ5YWY2OWEwMTRjNDI2MTNlZDUwYzY2`

@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-219 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+220 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,8 +171,9 @@
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 |  |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 |  |
 | [SARA](https://open.spotify.com/track/7IlWwsL01c1dizJTHgD5rK) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SARA](https://open.spotify.com/album/2dXlLCZoS2qhel0sUTJrZ0) | 4:38 | 2022-11-11 |  |
+| [Secrets](https://open.spotify.com/track/0xGQGTbDkwrzXFRo0xGfQH) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:37 | 2022-12-09 |  |
 | [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 | 2022-08-19 | 2022-08-21 |
-| [Secrets](https://open.spotify.com/track/6MTwSVy7Ch0cNa1fVx79k3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/76GeMEfXKBtKjT3lLivUGG) | 2:37 | 2022-08-19 |  |
+| [Secrets](https://open.spotify.com/track/6MTwSVy7Ch0cNa1fVx79k3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/76GeMEfXKBtKjT3lLivUGG) | 2:37 | 2022-08-19 | 2022-12-19 |
 | [See Me Now](https://open.spotify.com/track/4DqxKIhAKHwiHk5WwBbXzU) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [See Me Now](https://open.spotify.com/album/60SPKbQofyJ9aqlWe6ugHr) | 3:04 | 2022-01-25 | 2022-10-22 |
 | [See You \- A COLORS SHOW](https://open.spotify.com/track/7EmhpJ8ZX2n7iPaozrWn3H) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [See You \- A COLORS SHOW](https://open.spotify.com/album/5Hry7qvOXOFozXrTHOAL1n) | 3:14 | 2022-01-25 | 2022-04-09 |
 | [Self Sabotage](https://open.spotify.com/track/2iOFAc4K3JE5NSPvfc4lQR) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Self Sabotage](https://open.spotify.com/album/5vbA7Khi7o9efh7BEOorrj) | 2:55 | 2022-07-15 |  |

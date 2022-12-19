@@ -1,12 +1,12 @@
 {
   "description": "Gal Costa e destaques de 2022, por mais mulheres sendo ouvidas no m\u00e1ximo volume.",
-  "num_followers": 130241,
+  "num_followers": 130242,
   "original_name": "O Melhor de EQUAL Brasil 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDkzNDdiZjA0ZGYwNWQzZTgzZjM1ODFhNWM2NWMzNjk3",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDM1NTcxNWIwMzc3NjBiZmU1YzdjYjFiODk0ZjJmOWQy",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 136011,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 166926,
       "name": "Primeiro Eu",
       "url": "https://open.spotify.com/track/7JYEuetCpLHJoeCNUgCnnw"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 136011,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
     },
     {
       "added_at": "2022-11-30 13:45:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,401 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,456 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 66 | [Mountain](https://open.spotify.com/track/13bCwNfxvThbAVycEv2Xi3) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Mountain](https://open.spotify.com/album/78RnczBtHTswyWlg1mei4a) | 3:14 |
 | 67 | [Actin Funny](https://open.spotify.com/track/2HsNlCJom8gwFFEpIOejrf) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Actin Funny](https://open.spotify.com/album/6eIYHR5BSXEs8OxI1IzyXu) | 2:58 |
 | 68 | [Suckerpunch](https://open.spotify.com/track/0v3N6CXe66fR56ft39WL5b) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Suckerpunch](https://open.spotify.com/album/2YtSEYkyS4sYuWBpsXpiih) | 2:58 |
-| 69 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 |
+| 69 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 |
 | 70 | [P.O.S.](https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U) | [Sky Katz](https://open.spotify.com/artist/2hXnTRT96JHAzENar0pxqc) | [P.O.S.](https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm) | 2:00 |
 | 71 | [Everything Is Nothing](https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Everything Is Nothing](https://open.spotify.com/album/2Gg9al8bC4Je0nmgRAnujj) | 2:01 |
 | 72 | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/track/3l207IhDzpcRe5MlgNM7ZX) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/album/28jYKoBBu4hjMUPBU5cL6n) | 5:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [don't know why you're with me](https://open.spotify.com/track/5AbHvlNdBgWPSGElwaq4sj) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [don't know why you're with me](https://open.spotify.com/album/0sOweJAyLRd2VCc9YCFoAt) | 3:24 |
 | 100 | [h8 u](https://open.spotify.com/track/3HD72VFGMfrKoHQYNVZaVO) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [h8 u](https://open.spotify.com/album/66CYV91ssaqs2TZPIZMWy7) | 2:30 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDZmYjJmYTliOGRiZDM2MDc5MWMyNmYwY2Y1M2Y2Yjc5`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDE3YjM5Y2FlMjAyYTU3MjNjMDQwMGY4YjJkNjgzYjgz`

@@ -1,15 +1,15 @@
 {
   "description": "Essential tracks of Shah Rukh Khan all in one playlist",
-  "num_followers": 201514,
+  "num_followers": 201648,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgzMDA5MCwwMDAwMDAwMGExYzM0YWEwMjgxN2IxNGJmMGI3NTI3ZGNjNDhmZDcw",
+  "snapshot_id": "MTY3MDgzMDA5MCwwMDAwMDAwMDJkZjQwNzMxN2U4NWI4NmFmMjhlNTBkZTEyNGUxMjJi",
   "tracks": [
     {
-      "added_at": "2022-12-18 01:04:40",
+      "added_at": "2022-12-19 00:39:22",
       "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
@@ -179,6 +179,30 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        }
+      ],
+      "duration_ms": 237896,
+      "name": "Janam Janam",
+      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -211,30 +235,6 @@
       "duration_ms": 408133,
       "name": "Bole Chudiyan",
       "url": "https://open.spotify.com/track/1uzkWkIaWaxzHJgJ4Fy5rO"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
-        "name": "Dilwale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
-        }
-      ],
-      "duration_ms": 237896,
-      "name": "Janam Janam",
-      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -351,26 +351,22 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Kuch Kuch Hota Hai",
-        "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
+        "name": "Hawayein (From \"Jab Harry Met Sejal\")",
+        "url": "https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF"
       },
       "artists": [
         {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 297866,
-      "name": "Kuch Kuch Hota Hai",
-      "url": "https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23"
+      "duration_ms": 289999,
+      "name": "Hawayein (From \"Jab Harry Met Sejal\")",
+      "url": "https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -395,22 +391,26 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Hawayein (From \"Jab Harry Met Sejal\")",
-        "url": "https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF"
+        "name": "Kuch Kuch Hota Hai",
+        "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 289999,
-      "name": "Hawayein (From \"Jab Harry Met Sejal\")",
-      "url": "https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt"
+      "duration_ms": 297866,
+      "name": "Kuch Kuch Hota Hai",
+      "url": "https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -511,26 +511,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Dil Se (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
-      },
-      "artists": [
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        },
-        {
-          "name": "Sapna Awasthi",
-          "url": "https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30"
-        }
-      ],
-      "duration_ms": 416613,
-      "name": "Chaiyya Chaiyya",
-      "url": "https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "Baadshah (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 310426,
       "name": "Ae Kash Ke Hum",
       "url": "https://open.spotify.com/track/1qyib2Wb5YTbNzZi7QMhEY"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Sapna Awasthi",
+          "url": "https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30"
+        }
+      ],
+      "duration_ms": 416613,
+      "name": "Chaiyya Chaiyya",
+      "url": "https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Sensational Duets (Abhijeet & Alka Yagnik)",
-        "url": "https://open.spotify.com/album/2oUWSHubOyXXSFN7gzLlkq"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        }
-      ],
-      "duration_ms": 420466,
-      "name": "Hum to Deewane Huye (From \"Baadshah\")",
-      "url": "https://open.spotify.com/track/5qG6jYnBmGMdKS1WiZBgj5"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 327226,
       "name": "Yeh Ladka Hai Allah",
       "url": "https://open.spotify.com/track/0IYpKZhCeoXB85BslBg3q5"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Sensational Duets (Abhijeet & Alka Yagnik)",
+        "url": "https://open.spotify.com/album/2oUWSHubOyXXSFN7gzLlkq"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "duration_ms": 420466,
+      "name": "Hum to Deewane Huye (From \"Baadshah\")",
+      "url": "https://open.spotify.com/track/5qG6jYnBmGMdKS1WiZBgj5"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -832,26 +832,6 @@
       },
       "artists": [
         {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 471946,
-      "name": "Kabhi Khushi Kabhie Gham",
-      "url": "https://open.spotify.com/track/0eGtFJBfYUKF2CvNZJEu3M"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
-        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
-      },
-      "artists": [
-        {
           "name": "Aadesh Shrivastava",
           "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
         },
@@ -923,6 +903,26 @@
       "duration_ms": 175721,
       "name": "BIBA",
       "url": "https://open.spotify.com/track/1gt8YXWknKt4sRNZ6SirVW"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 471946,
+      "name": "Kabhi Khushi Kabhie Gham",
+      "url": "https://open.spotify.com/track/0eGtFJBfYUKF2CvNZJEu3M"
     },
     {
       "added_at": "2022-07-18 06:11:34",

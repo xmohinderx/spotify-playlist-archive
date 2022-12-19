@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2042,
+  "num_followers": 2043,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDQ5MTFmNjUxMTk2OWU5ZDRkMmNmZmFkMDRiNzNlMWY5",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDMxZjE2MTZhYzI0OTcyMDdiM2IwYzNmMTk1NjIyMTEw",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 217225,
       "name": "Ex",
       "url": "https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 255689,
       "name": "YOU (feat. Beenzino)",
       "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2022-09-05 15:56:32",

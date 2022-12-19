@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,688 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,737 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 42 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
 | 43 | [100% Pure Love](https://open.spotify.com/track/46id9snGVXnL2aUR5nISKC) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [100% Pure Love](https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG) | 3:00 |
 | 44 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
-| 45 | [Secrets](https://open.spotify.com/track/6MTwSVy7Ch0cNa1fVx79k3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/76GeMEfXKBtKjT3lLivUGG) | 2:37 |
+| 45 | [Secrets](https://open.spotify.com/track/0xGQGTbDkwrzXFRo0xGfQH) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:37 |
 | 46 | [5 MO' MINUTES](https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [5 MO' MINUTES](https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5) | 2:41 |
 | 47 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
 | 48 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 |
 | 100 | [Invisible](https://open.spotify.com/track/0YTd0e23mpFKNXd9JA9OBv) | [Ryder James](https://open.spotify.com/artist/2DaMc4JNZLk2qPRDNXIk6Q) | [Invisible](https://open.spotify.com/album/32O1iaeWbvtXX9JTYmhkOA) | 3:20 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGM3Mzg0M2QxMjRiNjVjOTI4ZjdhMjgxZmE0Y2Y4MGQ0`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDcwZDdhYmZkYTNjMzA0OTUwMzQxMjM3YTE1YTNmYzhj`

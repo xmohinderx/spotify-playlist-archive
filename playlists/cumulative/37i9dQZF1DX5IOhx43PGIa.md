@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: RM.
 
-361 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+362 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,8 @@
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-05-27 |  |
 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 | 2022-09-23 | 2022-10-08 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-05-27 |  |
-| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 |  |
+| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 | 2022-12-19 |
+| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 | 2022-12-02 |  |
 | [Stop Talking \(stfu\)](https://open.spotify.com/track/5oKcaRM3zDLo8l6NIBB8JE) | [Lukpeach](https://open.spotify.com/artist/61uCmA6xLc4E7zuns8HyJK) | [Guilty Pleasure](https://open.spotify.com/album/3VB0h9yR5BCy6kpPynwj0Z) | 3:40 | 2022-05-27 | 2022-06-23 |
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2022-05-27 |  |
 | [Subliminal](https://open.spotify.com/track/1IPeE85kJknYfd3tHNdb95) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Subliminal](https://open.spotify.com/album/4UXMYpJ0LmcG6ng47zxfNh) | 3:00 | 2022-05-27 | 2022-07-29 |

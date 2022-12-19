@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Cris Mj, Nicki Nicole, Standly & Duki.",
-  "num_followers": 330374,
+  "num_followers": 330631,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDkxN2JmMmIzNmE2MzUzOTEyYWIzYzJlZjQxMWM3ZTUz",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDFlMjRjY2ZiNDJiNTk1NzJiYWI4OGY5ODVmNzg5MTUx",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -651,6 +651,30 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Soltera (Remix)",
+        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera - Remix",
+      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Si T\u00fa Te Vas (feat. Yung Beef) [Remix]",
         "url": "https://open.spotify.com/album/06if2TD3XBlZsDAg8OS9ch"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 215600,
       "name": "Si T\u00fa Te Vas (feat. Yung Beef) - Remix",
       "url": "https://open.spotify.com/track/5cp1Nx2K3FUWIH6Rzt8u33"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Soltera (Remix)",
-        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Soltera - Remix",
-      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1683,6 +1683,34 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Soy Peor Remix",
+        "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 315846,
+      "name": "Soy Peor - Remix",
+      "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Despu\u00e9s de las 12 (Remix)",
         "url": "https://open.spotify.com/album/2alK8h5rD3pUuGksZJpYpo"
       },
@@ -1711,30 +1739,26 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Soy Peor Remix",
-        "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
+        "name": "Monumento (Remix)",
+        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 315846,
-      "name": "Soy Peor - Remix",
-      "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
+      "duration_ms": 208622,
+      "name": "Monumento - Remix",
+      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1771,30 +1795,6 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Monumento (Remix)",
-        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 208622,
-      "name": "Monumento - Remix",
-      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1879,30 +1879,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "7 L\u00e1grimas (Remix)",
-        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        }
-      ],
-      "duration_ms": 202894,
-      "name": "7 L\u00e1grimas - Remix",
-      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -1939,6 +1915,30 @@
       "duration_ms": 386333,
       "name": "Esc\u00e1pate Conmigo (feat. Ozuna, Bad Bunny, De La Ghetto, Arc\u00e1ngel, Noriel & Almighty) - Remix",
       "url": "https://open.spotify.com/track/5YY7ht3PCArlLjLbcTiAvh"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "7 L\u00e1grimas (Remix)",
+        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        }
+      ],
+      "duration_ms": 202894,
+      "name": "7 L\u00e1grimas - Remix",
+      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1991,34 +1991,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Carbon Fiber Hits",
-        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
-      },
-      "artists": [
-        {
-          "name": "Carbon Fiber Music",
-          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 331413,
-      "name": "Diabla (Official Remix)",
-      "url": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Tu No Metes Cabra Remix",
         "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
       },
@@ -2043,6 +2015,34 @@
       "duration_ms": 331440,
       "name": "Tu No Metes Cabra - Remix",
       "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Carbon Fiber Hits",
+        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
+      },
+      "artists": [
+        {
+          "name": "Carbon Fiber Music",
+          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 331413,
+      "name": "Diabla (Official Remix)",
+      "url": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
     },
     {
       "added_at": "2022-12-16 03:00:00",

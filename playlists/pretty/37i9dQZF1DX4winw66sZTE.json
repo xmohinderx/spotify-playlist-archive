@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7299,
+  "num_followers": 7325,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMGVmZTZmMDQ0NDY5YWY3N2RiYTc0MTIwMzhjZTJlZWVl",
+  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDQ1Mzg3NDBkYzRiZmNkODAyODZmYjE1MzhjZWJjZGU5",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -307,6 +307,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Growl",
+      "url": "https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Growl",
-      "url": "https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "FATE NUMBER FOR",
-        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "REALLY REALLY",
-      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "MOVE - The 2nd Album",
         "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
         "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 272847,
       "name": "If It Is You",
       "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -475,22 +491,6 @@
       "duration_ms": 205820,
       "name": "HANN (Alone)",
       "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 214380,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+        "name": "COLLECTION",
+        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 219306,
-      "name": "I Need A Girl (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+      "duration_ms": 225373,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
     },
     {
       "added_at": "2021-03-01 03:07:22",

@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 37288,
+  "num_followers": 37318,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDM3YTFhNTMyYWRkNjgzYTE0OWE3NzAwMjk3NDJjZjQw",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDQ1N2NkZjA4YWQ2OWRhZWRjMWJmZDhhODY0NGVjNjhl",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Aquel Bolero",
-        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Aquel Bolero",
-      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "Quiero Verte Hoy",
         "url": "https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 215782,
       "name": "Quiero Verte Hoy",
       "url": "https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Aquel Bolero",
+        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Aquel Bolero",
+      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Dimittas",
-        "url": "https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Craft",
-          "url": "https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb"
-        }
-      ],
-      "duration_ms": 167023,
-      "name": "Sue\u0301ltate",
-      "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Dimittas",
+        "url": "https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Craft",
+          "url": "https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb"
+        }
+      ],
+      "duration_ms": 167023,
+      "name": "Sue\u0301ltate",
+      "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "El Mejor Lugar",
-        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
-      },
-      "artists": [
-        {
-          "name": "Juan Vegas",
-          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
-        }
-      ],
-      "duration_ms": 175214,
-      "name": "El Mejor Lugar",
-      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "NTDDP",
         "url": "https://open.spotify.com/album/0VO1hYeausUaErYssR77vQ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 176042,
       "name": "NTDDP",
       "url": "https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "El Mejor Lugar",
+        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
+      },
+      "artists": [
+        {
+          "name": "Juan Vegas",
+          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
+        }
+      ],
+      "duration_ms": 175214,
+      "name": "El Mejor Lugar",
+      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 203104,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
         "name": "45 RPM",
         "url": "https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 263906,
       "name": "Para la Eternidad",
       "url": "https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
-        }
-      ],
-      "duration_ms": 203104,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz"
     },
     {
       "added_at": "2022-12-09 06:00:00",

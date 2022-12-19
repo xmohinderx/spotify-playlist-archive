@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 395113,
+  "num_followers": 395084,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGUxNDE1NzQ2ZWIyOWUxMjc2NGZlYWQ4ZjJmNmE4NWVl",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDBiN2NmYjgxZGJkYTI4YTkxNTRjNzg1NjBjM2UxNDE2",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -67,6 +67,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -379,30 +379,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "We Could Be Together (feat. Daddy DJ)",
-        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Daddy DJ",
-          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
-        }
-      ],
-      "duration_ms": 149642,
-      "name": "We Could Be Together",
-      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -427,18 +403,26 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+        "name": "We Could Be Together (feat. Daddy DJ)",
+        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Daddy DJ",
+          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
         }
       ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+      "duration_ms": 149642,
+      "name": "We Could Be Together",
+      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -459,6 +443,22 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Fading Like A Flower",
         "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 145807,
       "name": "Fading Like A Flower",
       "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Exotica (Deluxe)",
         "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2022-06-30 22:02:00",

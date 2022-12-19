@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Esteban Gabriel en portada.",
-  "num_followers": 46973,
+  "num_followers": 47004,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDdmNzcxZDEwNmQ3NTZhODMwZmEzNjJiMGE0ZDg1YWM4",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDE0OTQyZWM3ZDZlMjY2ZjRiZDBlMmI4NDQ1NjhiZWVi",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -61,20 +61,20 @@
       "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
+      "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "El Black",
-        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
+        "name": "365",
+        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
       },
       "artists": [
         {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
         }
       ],
-      "duration_ms": 206161,
-      "name": "El Black",
-      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -101,20 +101,20 @@
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
+      "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
+        "name": "El Black",
+        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
       },
       "artists": [
         {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
         }
       ],
-      "duration_ms": 188471,
-      "name": "365",
-      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
+      "duration_ms": 206161,
+      "name": "El Black",
+      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
     },
     {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Una Copa Por Cada Reina",
+        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+    },
+    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "INERCIA",
@@ -497,22 +513,6 @@
       "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "A Ti S\u00ed Te Quer\u00eda",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Soy Infante",
-        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
-        }
-      ],
-      "duration_ms": 154750,
-      "name": "Soy Infante",
-      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
@@ -559,6 +543,22 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Soy Infante",
+        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        }
+      ],
+      "duration_ms": 154750,
+      "name": "Soy Infante",
+      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -609,30 +609,10 @@
       "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2022-11-18 06:00:00",
       "album": {
-        "name": "la del rencoroso",
-        "url": "https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "la del rencoroso",
-      "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Una Copa Por Cada Reina",
-        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
       },
       "artists": [
         {
@@ -640,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Lo Siento Mi Amor",
-      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -663,6 +643,26 @@
       "duration_ms": 183501,
       "name": "Manzana en el Mapa",
       "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "la del rencoroso",
+        "url": "https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX"
+      },
+      "artists": [
+        {
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "la del rencoroso",
+      "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -829,20 +829,20 @@
       "url": "https://open.spotify.com/track/6iYEK8ZLg74oeRBCpgaRXi"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
+      "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "El Gallo Fino",
-        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
       },
       "artists": [
         {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
         }
       ],
-      "duration_ms": 186069,
-      "name": "El Gallo Fino",
-      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
+      "duration_ms": 211106,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -861,20 +861,20 @@
       "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
+        "name": "El Gallo Fino",
+        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
       },
       "artists": [
         {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
         }
       ],
-      "duration_ms": 211106,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
+      "duration_ms": 186069,
+      "name": "El Gallo Fino",
+      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
+        "name": "Hoodboys",
+        "url": "https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn"
+      },
+      "artists": [
+        {
+          "name": "Los De Guamuchil",
+          "url": "https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Hoodboys",
+      "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -977,20 +993,20 @@
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-11-11 06:00:00",
       "album": {
-        "name": "Hoodboys",
-        "url": "https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn"
+        "name": "Tiro Veneno",
+        "url": "https://open.spotify.com/album/5rtWkKgMUeAHiBtYU14B9L"
       },
       "artists": [
         {
-          "name": "Los De Guamuchil",
-          "url": "https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE"
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 190750,
-      "name": "Hoodboys",
-      "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
+      "duration_ms": 161120,
+      "name": "Tiro Veneno",
+      "url": "https://open.spotify.com/track/6NQOzi65xjcVERfKrMec9k"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 225462,
       "name": "Otra Ronda",
       "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Tiro Veneno",
-        "url": "https://open.spotify.com/album/5rtWkKgMUeAHiBtYU14B9L"
-      },
-      "artists": [
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Tiro Veneno",
-      "url": "https://open.spotify.com/track/6NQOzi65xjcVERfKrMec9k"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1109,26 +1109,6 @@
       "url": "https://open.spotify.com/track/2227k05wv3lXYPPwSrEsnq"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Bajo la Lluv\u00eda",
-        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
-      },
-      "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        },
-        {
-          "name": "Cuadra FL",
-          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
-        }
-      ],
-      "duration_ms": 154017,
-      "name": "Bajo la Lluv\u00eda",
-      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Y Sigo Ciendo el Perro",
@@ -1161,6 +1141,22 @@
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Sigo Pa' Delante",
+        "url": "https://open.spotify.com/album/1sxra7YvVszvG6KOLBt7HL"
+      },
+      "artists": [
+        {
+          "name": "David Santos",
+          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
+        }
+      ],
+      "duration_ms": 148591,
+      "name": "Sigo Pa' Delante",
+      "url": "https://open.spotify.com/track/23X9OuSIh4FqrShffGvmLt"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Sue\u00f1o Americano",
@@ -1177,20 +1173,24 @@
       "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Sigo Pa' Delante",
-        "url": "https://open.spotify.com/album/1sxra7YvVszvG6KOLBt7HL"
+        "name": "Bajo la Lluv\u00eda",
+        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
       },
       "artists": [
         {
-          "name": "David Santos",
-          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        },
+        {
+          "name": "Cuadra FL",
+          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
         }
       ],
-      "duration_ms": 148591,
-      "name": "Sigo Pa' Delante",
-      "url": "https://open.spotify.com/track/23X9OuSIh4FqrShffGvmLt"
+      "duration_ms": 154017,
+      "name": "Bajo la Lluv\u00eda",
+      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
     },
     {
       "added_at": "2022-10-14 05:00:00",

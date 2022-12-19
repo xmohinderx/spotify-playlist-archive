@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 533721,
+  "num_followers": 534238,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMGI5OGYyNzE4ZmFhODVkMWU5NTBlMjFjNTM4M2E0YjU1",
+  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMDk0YTJiMTFjNmY3NDc2N2QyN2FjNDI3ZTU4Njk0MmY4",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 130066,
-      "name": "Amor de Estudiante",
-      "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 130066,
+      "name": "Amor de Estudiante",
+      "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "16 \u00c9xitos: Baladas",
         "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 200045,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "La Gran Fiesta Formose\u00f1a",
         "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 222733,
       "name": "Mi Coraz\u00f3n Llor\u00f3",
       "url": "https://open.spotify.com/track/5FVBS2wgzQ66TTCeOSkmZq"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mensajes De F\u00e9",
         "url": "https://open.spotify.com/album/0fn4QTKt2uL68GexFfRhS5"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 226866,
       "name": "La Monta\u00f1a (A Montanha)",
       "url": "https://open.spotify.com/track/4VlGrvfdv6p3DoFUaN2sph"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
     },
     {
       "added_at": "2021-04-22 14:20:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU?si=gfm00MdpTL63d2aPVJdtZg">Can't Swim</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,489 likes - 72 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,599 likes - 72 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 40 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 |
 | 41 | [Company Calls Epilogue](https://open.spotify.com/track/1Y8BZ7eR0mPp9oO1RLPrvE) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Company Calls Epilogue](https://open.spotify.com/album/4u10umzNn7CKQFSlOSB6F5) | 4:32 |
 | 42 | [In the Back](https://open.spotify.com/track/1Na4m4y8hMRzQo73a5ORX2) | [Graduating Life](https://open.spotify.com/artist/314yGMWtZrRjWP5GwTlE2E) | [II](https://open.spotify.com/album/23PqAUIWD6N7FeSr8Nj2vC) | 3:42 |
-| 43 | [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 |
+| 43 | [Crawling](https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY) | 2:44 |
 | 44 | [Callin Me](https://open.spotify.com/track/274U15M8V7uahnK8OfEWz4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 2:52 |
 | 45 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 |
 | 46 | [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 71 | [If This is Sadness, I Don't Like It One Bit](https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd) | [Mt\. Oriander](https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo), [Joie De Vivre](https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V), [Warren Franklin](https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b) | [Then the Lightness Leaves and I Become Heavy Again](https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK) | 3:24 |
 | 72 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
 
-Snapshot ID: `MTY3MDYxNTI3OCwwMDAwMDAwMDk1OWMxYzcyMTQ0MWUzYzIyZWY2YmIzYjdlNmQ1YmQ4`
+Snapshot ID: `MTY3MDYxNTI3OCwwMDAwMDAwMDUwM2Y5NTM4YjA5MWM3NzI4MzZkOTg3YjJlOTAwMTA3`

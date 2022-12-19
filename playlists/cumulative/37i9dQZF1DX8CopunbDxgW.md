@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Biig Piig.
 
-657 songs - 1 day 19 hr 1 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+658 songs - 1 day 19 hr 4 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Pulses of Light](https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Pulses of Light](https://open.spotify.com/album/4T0CTWKVRiKGjBs10feLYp) | 4:46 | 2022-02-18 | 2022-07-29 |
 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 | 2021-04-30 | 2022-04-14 |
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-07 | 2022-02-10 |
+| [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2022-12-16 |  |
 | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/album/29iHejEs5RHC3EQiezTLrd) | 3:59 | 2021-03-26 |  |
 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 | 2021-06-25 | 2022-12-06 |
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2022-09-17 | 2022-10-06 |
@@ -561,7 +562,7 @@
 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2022-06-03 |  |
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 |  |
 | [Tape](https://open.spotify.com/track/1pb2THB2CjcDmg8Fw2uS5Y) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush EP](https://open.spotify.com/album/3VOe1zgRaflxH5R0RuqUTu) | 3:56 | 2022-04-08 | 2022-07-16 |
-| [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 | 2021-06-15 |  |
+| [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 | 2021-06-15 | 2022-12-19 |
 | [Temporary Love \- il:lo Remix](https://open.spotify.com/track/4gSIbyOjmtFOYgJYax0xpy) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Temporary Love \(il:lo Remix\)](https://open.spotify.com/album/7kl5K9V6DTpbD00kXn6t9K) | 5:17 | 2021-07-09 | 2022-01-28 |
 | [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 | 2021-08-06 |  |
 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 | 2022-09-17 | 2022-10-06 |

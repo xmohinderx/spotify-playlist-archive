@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Rosal\u00eda, Cardi B\n\n",
-  "num_followers": 108456,
+  "num_followers": 108628,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDBiZjY1MWFiNjMwODE2MWE0MzM1MGRiMmYxNzQ2YTYw",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDExYWM0NDNiYWZmYzI5NWQwMzNkYzhiODk5ZDlmOGRm",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 152004,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -627,30 +627,6 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
-        "name": "Cooped Up / Return Of The Mack",
-        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        },
-        {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
-        }
-      ],
-      "duration_ms": 127253,
-      "name": "Cooped Up / Return Of The Mack",
-      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -679,6 +655,50 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
+        "name": "Cooped Up / Return Of The Mack",
+        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        }
+      ],
+      "duration_ms": 127253,
+      "name": "Cooped Up / Return Of The Mack",
+      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Playa Del Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 237525,
+      "name": "Playa Del Ingl\u00e9s",
+      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
         "name": "Sorry To Me Too",
         "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
       },
@@ -691,6 +711,22 @@
       "duration_ms": 209596,
       "name": "Sorry To Me Too",
       "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -711,22 +747,6 @@
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -755,6 +775,22 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
         "name": "Thrill Of The Chase",
         "url": "https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn"
       },
@@ -771,22 +807,6 @@
       "duration_ms": 248973,
       "name": "The Way We Were (feat. Plested)",
       "url": "https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -847,26 +867,6 @@
       "duration_ms": 166890,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Playa Del Ingl\u00e9s",
-        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 237525,
-      "name": "Playa Del Ingl\u00e9s",
-      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
-        "name": "Infinite Dream",
-        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
         "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
         "url": "https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 189838,
       "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
       "url": "https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 153391,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
+        "name": "Macetar",
+        "url": "https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "Macetar",
+      "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
         "name": "Suckerpunch",
         "url": "https://open.spotify.com/album/5esH2DAz24R8zMbnttuFCK"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
-        "name": "Macetar",
-        "url": "https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "Macetar",
-      "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
         "name": "Nunca Tristes (Me Vale Madre)",
         "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
@@ -1095,26 +1095,6 @@
       "duration_ms": 204826,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
-        "name": "Not Alone (from Devotion)",
-        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 251481,
-      "name": "Not Alone - from Devotion",
-      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -1135,6 +1115,26 @@
       "duration_ms": 208604,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
+        "name": "Not Alone (from Devotion)",
+        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 251481,
+      "name": "Not Alone - from Devotion",
+      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -1207,38 +1207,6 @@
     {
       "added_at": "2022-12-13 19:07:53",
       "album": {
-        "name": "FICA PRO CAF\u00c9",
-        "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "FICA PRO CAF\u00c9",
-      "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
-        "name": "DISCO VOADOR",
-        "url": "https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 143106,
-      "name": "BRASIL T\u00c1 EM FESTA!",
-      "url": "https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4"
-    },
-    {
-      "added_at": "2022-12-13 19:07:53",
-      "album": {
         "name": "Lobby",
         "url": "https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu"
       },
@@ -1255,6 +1223,58 @@
       "duration_ms": 157837,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
+        "name": "FICA PRO CAF\u00c9",
+        "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "FICA PRO CAF\u00c9",
+      "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Don't Cry For Me",
+        "url": "https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 199515,
+      "name": "Don't Cry For Me",
+      "url": "https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7"
+    },
+    {
+      "added_at": "2022-12-13 19:07:53",
+      "album": {
+        "name": "DISCO VOADOR",
+        "url": "https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 143106,
+      "name": "BRASIL T\u00c1 EM FESTA!",
+      "url": "https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4"
     },
     {
       "added_at": "2022-12-13 19:07:53",
@@ -1291,26 +1311,6 @@
       "duration_ms": 203113,
       "name": "If You're Gonna Lie",
       "url": "https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Don't Cry For Me",
-        "url": "https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 199515,
-      "name": "Don't Cry For Me",
-      "url": "https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7"
     },
     {
       "added_at": "2022-12-13 19:07:53",

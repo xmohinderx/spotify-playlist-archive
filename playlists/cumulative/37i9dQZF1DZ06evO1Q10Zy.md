@@ -4,7 +4,7 @@
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/2nvEskcwDhlhLmESqtGpy2)
+78 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/2nvEskcwDhlhLmESqtGpy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 | 2022-06-04 |  |
 | [Forever](https://open.spotify.com/track/2gk9w7ucTmkPPHlMR6jV43) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 4:09 | 2022-06-04 | 2022-10-13 |
 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Game Over \(with Queen Naija\)](https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR) | 3:28 | 2022-09-18 | 2022-12-02 |
-| [Game Over \(with Queen Naija\)](https://open.spotify.com/track/7FK7yWiBqc6onfm7huwXJv) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:28 | 2022-12-01 |  |
+| [Game Over \(with Queen Naija\)](https://open.spotify.com/track/7FK7yWiBqc6onfm7huwXJv) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:28 | 2022-12-01 | 2022-12-19 |
 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 | 2022-10-24 |  |
 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 | 2022-06-04 |  |
 | [Grown & Sexy](https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:03 | 2022-07-19 |  |
@@ -39,6 +39,7 @@
 | [I'll Make Love to You \- Live On MTV Unplugged](https://open.spotify.com/track/0gazVflAsJdyXmuFrIiKmq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 2:02 | 2022-08-23 |  |
 | [It's No Crime](https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:01 | 2022-06-04 |  |
 | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI) | 2:55 | 2022-06-18 | 2022-12-11 |
+| [Keeps On Fallin’ \(with Ella Mai\)](https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:55 | 2022-12-18 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7ce3XCXIRELdK4RpyYCcxt) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:22 | 2022-06-04 |  |
 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-24 |  |
 | [Longer](https://open.spotify.com/track/0OLdsLIDfbXX6q134NV638) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:24 | 2022-06-04 | 2022-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,585,472 likes - 100 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,597,625 likes - 100 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 3 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 4 | [Slapper](https://open.spotify.com/track/7mtsigBhtzIJ8e4XsfpMkI) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 1:07 |
 | 5 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
-| 6 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 6 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
 | 7 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 8 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 |
 | 9 | [BANKAI](https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ) | [DXNT L13](https://open.spotify.com/artist/24NDY4ShaX2L5g3LEkr9hL) | [BANKAI](https://open.spotify.com/album/0M5a69FH1OBRpDXVZKPiCd) | 1:55 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 52 | [Scrapyard](https://open.spotify.com/track/4uvPRByRYtH1AjhhqG6emD) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Scrapyard](https://open.spotify.com/album/2rR3ic7R3y7rNfqlkeFHkg) | 2:07 |
 | 53 | [Unholy \- Dxrk ダークRemix](https://open.spotify.com/track/7ipO6ItNDXUiY9wjo4HvJr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Unholy \(Dxrk ダークRemix\)](https://open.spotify.com/album/7lK6WEgAKqQ4bzSwfpZ7UF) | 2:09 |
 | 54 | [no confies en mujeres](https://open.spotify.com/track/1JgsGofAL2rQ47MjgqCwk6) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [no confies en mujeres](https://open.spotify.com/album/0FCSzaCWgRsohk84Rmuzlx) | 2:03 |
-| 55 | [Popped \(feat\. Juicy J\) \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/4xezH01fbph6Wbc8WHEjLn) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Popped \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0qeQTw1KspmBaVOM89eGXR) | 2:24 |
+| 55 | [Popped \(feat\. Juicy J\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/4xezH01fbph6Wbc8WHEjLn) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Popped \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0qeQTw1KspmBaVOM89eGXR) | 2:24 |
 | 56 | [BULLET](https://open.spotify.com/track/4bMLRF2dnTS0mPJTKp5vo7) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [BULLET](https://open.spotify.com/album/39yIaoiNiN0VIbQsP8Vqei) | 2:15 |
 | 57 | [Break Off](https://open.spotify.com/track/6XPPKm74soYRwfXT12ne0q) | [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Break Off](https://open.spotify.com/album/1X8zE032NzH07gte7U05Yl) | 2:27 |
 | 58 | [Moment](https://open.spotify.com/track/1zFuZul9pNIgbNCzhQxG8U) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Moment](https://open.spotify.com/album/0EeN9DAkiJa5YmMFOmfdWB) | 1:49 |

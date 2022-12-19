@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Feid & DJ Premier
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,894 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,905 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 64 | [do you come here often?](https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0) | 2:34 |
 | 65 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
 | 66 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
-| 67 | [Quítame](https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Quítame](https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8) | 2:43 |
-| 68 | [oop](https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [oop](https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4) | 2:22 |
+| 67 | [oop](https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [oop](https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4) | 2:22 |
+| 68 | [Quítame](https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Quítame](https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8) | 2:43 |
 | 69 | [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 |
 | 70 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
 | 71 | [if you let me](https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [if you let me](https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK) | 2:40 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 73 | [Jungla de locos](https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 4:17 |
 | 74 | [Tu Castigo](https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 3:47 |
 | 75 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 |
-| 76 | [Prende](https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Prende](https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX) | 2:53 |
-| 77 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
+| 76 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
+| 77 | [Prende](https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Prende](https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX) | 2:53 |
 | 78 | [Para Ti](https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Til Death](https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb) | 1:37 |
 | 79 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
 | 80 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
 
-Snapshot ID: `MTY3MDg4MjUzMywwMDAwMDAwMDI2ZDFmZTUyNmJiY2UzOTA2NWQ2YzEyMTMzMGJlODE5`
+Snapshot ID: `MTY3MDg4MjUzMywwMDAwMDAwMDY2NzdjZmY1YTk2ZmY3ZTY2NDNhZTgxODUzNjgxMmZh`

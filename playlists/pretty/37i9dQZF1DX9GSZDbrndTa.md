@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,804 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,889 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 16 | [West Coast Blues](https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 7:22 |
 | 17 | [Bessie's Blues](https://open.spotify.com/track/3VvIjPjxHLRTXNJ8vSKkKN) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 3:35 |
 | 18 | [Raise Four](https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Underground](https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn) | 4:37 |
-| 19 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
-| 20 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 |
+| 19 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 |
+| 20 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
 | 21 | [Equinox](https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Naima](https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD) | 8:07 |
 | 22 | [Things Ain't What They Used To Be](https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 4:36 |
 | 23 | [Billie's Bounce \- Original](https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker Memorial, Vol\. 2](https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV) | 3:12 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 42 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 |
 | 43 | [Turnaround](https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Wish](https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij) | 6:24 |
 | 44 | [Bluehawk](https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Alone In San Francisco](https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk) | 3:37 |
-| 45 | [Blues For Willarene](https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 7:07 |
-| 46 | [Freddie Freeloader](https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Miles Davis Featuring John Coltrane](https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur) | 9:43 |
+| 45 | [Freddie Freeloader](https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Miles Davis Featuring John Coltrane](https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur) | 9:43 |
+| 46 | [Blues For Willarene](https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 7:07 |
 | 47 | [Chi Chi](https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Bird 100](https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW) | 3:02 |
 | 48 | [Freight Trane](https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Coltrane '58: The Prestige Recordings](https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22) | 7:20 |
 | 49 | [When Will The Blues Leave?](https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 5:00 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDg1ZjM4OTUwNmIxN2Y3MDA0OTU1Zjc4NjkxMTZlODNi`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDcxNTRjNzI4NTg0MjRiNDY1NDE5MmUwZTYzNzc2ZGM2`

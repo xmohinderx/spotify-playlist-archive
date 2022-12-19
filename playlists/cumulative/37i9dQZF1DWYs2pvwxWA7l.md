@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60?si=Ou4Tx5czRIKXB5m8i\_\_EAw"> Tayc </a>
 
-242 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
+243 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-04-14 | 2022-09-24 |
 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-03-17 | 2022-11-29 |
 | [Dangerous \(feat\. Ayra Starr\)](https://open.spotify.com/track/0hnfvkzawEjVVxBUWDEnEL) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bravo](https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695) | 2:58 | 2021-09-23 | 2022-02-11 |
+| [Dangerous Hearts](https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:30 | 2022-12-19 |  |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 | 2022-07-22 |
 | [Dimension](https://open.spotify.com/track/5mBvUoQKcjf7vXwiBSc30Z) | [Fully Focus](https://open.spotify.com/artist/3cSXE6QoAmNGlvzR5hqG78), [Bien](https://open.spotify.com/artist/7F0Sf0Xx4SbwoB2tcbaolD) | [Dimension](https://open.spotify.com/album/697R2AlnzeIpEQBLDLpO9q) | 2:31 | 2022-05-05 | 2022-05-24 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2021-09-27 | 2022-03-25 |
@@ -122,7 +123,7 @@
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-21 | 2022-09-24 |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 |  |
 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 | 2022-09-08 | 2022-10-29 |
-| [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-04-28 |  |
+| [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-04-28 | 2022-12-19 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 |  |
 | [Kwenzekile](https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i) | [Kwenzekile](https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE) | 3:57 | 2021-10-08 | 2022-02-10 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 |  |

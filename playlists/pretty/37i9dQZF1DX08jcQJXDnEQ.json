@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s. Cover: Deftones",
-  "num_followers": 717827,
+  "num_followers": 718501,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGE4YjY2YWNhYjE2YzNmNjAyMThkNDYwNmYxMGI4OTYy",
+  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGUwZTA0N2MyZWI3ZDg3ZDNkMDc1YWNkODgzZjYwY2U5",
   "tracks": [
     {
       "added_at": "2022-10-05 16:18:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "The Great Southern Trendkill",
         "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 419893,
       "name": "Floods",
       "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -939,8 +939,8 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 404333,
-      "name": "Wherever I May Roam (Remastered)",
-      "url": "https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD"
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 321573,
-      "name": "Jet City Woman - Remastered 2003",
-      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Coal Chamber",
         "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 254693,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 321573,
+      "name": "Jet City Woman - Remastered 2003",
+      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "March Of The Pigs",
-      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Treasure Chest (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 233360,
       "name": "Forever & One",
       "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "March Of The Pigs",
+      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Colony",
-        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Ordinary Story",
-      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Danzig III: How The Gods Kill",
         "url": "https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 356400,
       "name": "How The Gods Kill",
       "url": "https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Colony",
+        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Ordinary Story",
+      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Force Of Habit (Reissue)",
-        "url": "https://open.spotify.com/album/4z1C1YmKvYoM7cJysMXo74"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "Good Day To Die",
-      "url": "https://open.spotify.com/track/2rKz4ihTRHCD0RpNaO1ANJ"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
       },
@@ -1999,18 +1983,34 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "www.pitchshifter.com",
-        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
+        "name": "Force Of Habit (Reissue)",
+        "url": "https://open.spotify.com/album/4z1C1YmKvYoM7cJysMXo74"
       },
       "artists": [
         {
-          "name": "Pitchshifter",
-          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
+      "duration_ms": 287666,
+      "name": "Good Day To Die",
+      "url": "https://open.spotify.com/track/2rKz4ihTRHCD0RpNaO1ANJ"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Album of the Year",
+        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Album of the Year",
-        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
+        "name": "www.pitchshifter.com",
+        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "Pitchshifter",
+          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
+      "duration_ms": 246506,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Destroy Erase Improve (Reloaded)",
-        "url": "https://open.spotify.com/album/4Db5w1mFaolDotknFJiteD"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 348682,
-      "name": "Future Breed Machine",
-      "url": "https://open.spotify.com/track/0gH7MNXQud3Pvnfv1zk3bL"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 85866,
       "name": "Ramones",
       "url": "https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Destroy Erase Improve (Reloaded)",
+        "url": "https://open.spotify.com/album/4Db5w1mFaolDotknFJiteD"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 348682,
+      "name": "Future Breed Machine",
+      "url": "https://open.spotify.com/track/0gH7MNXQud3Pvnfv1zk3bL"
     }
   ],
   "unique_name": "90s Metal Classics",

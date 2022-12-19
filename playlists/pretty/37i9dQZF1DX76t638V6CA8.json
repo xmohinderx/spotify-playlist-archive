@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 1838102,
+  "num_followers": 1838352,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3Njg0MywwMDAwMDAwMGM3MTY2NDE0YmIyMDVkZjE4YjhiYjU3NzExODdmYWMx",
+  "snapshot_id": "MTY2ODc3Njg0MywwMDAwMDAwMGMyMDA4NTIyNjRlYzlkNjU0YWFhYzlhNDg2NTUxZDk1",
   "tracks": [
     {
       "added_at": "2022-11-18 13:07:23",
@@ -603,18 +603,26 @@
     {
       "added_at": "2022-11-18 13:07:23",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
       "artists": [
         {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 163453,
-      "name": "Not Finished",
-      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
+      "duration_ms": 236524,
+      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
     },
     {
       "added_at": "2022-11-18 13:07:23",
@@ -643,26 +651,18 @@
     {
       "added_at": "2022-11-18 13:07:23",
       "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 236524,
-      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
-      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
     },
     {
       "added_at": "2022-11-18 13:07:23",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-11-18 13:07:23",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 195197,
-      "name": "Pop Out (feat. Nardo Wick)",
-      "url": "https://open.spotify.com/track/0VOMBffX1llDu37yQUt3u3"
-    },
-    {
-      "added_at": "2022-11-18 13:07:23",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "added_at": "2022-11-18 13:07:23",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 195197,
+      "name": "Pop Out (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/0VOMBffX1llDu37yQUt3u3"
     },
     {
       "added_at": "2022-11-18 13:07:23",
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-11-18 13:07:23",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": "2022-11-18 13:07:23",
-      "album": {
         "name": "Ain\u2019t Safe (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "added_at": "2022-11-18 13:07:23",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
     },
     {
       "added_at": "2022-11-18 13:07:23",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2022-11-18 13:07:23",
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "added_at": "2022-11-18 13:07:23",
+      "album": {
         "name": "Man On The Moon III: The Chosen",
         "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
       },
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2022-11-18 13:07:23",
       "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
-    },
-    {
-      "added_at": "2022-11-18 13:07:23",
-      "album": {
         "name": "6:30",
         "url": "https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 137077,
       "name": "6:30",
       "url": "https://open.spotify.com/track/0KzvY1XHsfvZ5p5sUcdHSN"
-    },
-    {
-      "added_at": "2022-11-18 13:07:23",
-      "album": {
-        "name": "Kutthroat Bill: Vol. 1",
-        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 166494,
-      "name": "300 Blackout",
-      "url": "https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA"
     },
     {
       "added_at": "2022-11-18 13:07:23",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2022-11-18 13:07:23",
       "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 166494,
+      "name": "300 Blackout",
+      "url": "https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA"
+    },
+    {
+      "added_at": "2022-11-18 13:07:23",
+      "album": {
         "name": "Ambition For Cash",
         "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 143480,
       "name": "Ambition For Cash",
       "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
-    },
-    {
-      "added_at": "2022-11-18 13:07:23",
-      "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2022-11-18 13:07:23",
@@ -1583,6 +1567,22 @@
       "duration_ms": 214440,
       "name": "Ruff Ryders' Anthem",
       "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2022-11-18 13:07:23",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2022-11-18 13:07:23",

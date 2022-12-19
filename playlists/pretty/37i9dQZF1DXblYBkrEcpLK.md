@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,316 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,473 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 44 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
 | 45 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
 | 46 | [Dark seeks light](https://open.spotify.com/track/2ATxQ2yeUw3CAGjjPTundt) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [Dark seeks light / 散文的LIFE](https://open.spotify.com/album/29oTb4lakrol3FVikzP60X) | 3:34 |
-| 47 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 |
-| 48 | [remember](https://open.spotify.com/track/37L7Zjb22r6sRPjwDKNJtG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [remember](https://open.spotify.com/album/6LEUN2BTXQBHx5O8DcHtPu) | 5:49 |
+| 47 | [remember](https://open.spotify.com/track/37L7Zjb22r6sRPjwDKNJtG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [remember](https://open.spotify.com/album/6LEUN2BTXQBHx5O8DcHtPu) | 5:49 |
+| 48 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 |
 | 49 | [Gotoubun no Katachi](https://open.spotify.com/track/32nW0L3AHrEasXxB4y4kt4) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 4:03 |
 | 50 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 |
 
-Snapshot ID: `MTY2ODg1NzI1MywwMDAwMDAwMDY5ZjVkMmNjNTFmZjdhZGVlYzliZjI2NWQ3ODg1YTY2`
+Snapshot ID: `MTY2ODg1NzI1MywwMDAwMDAwMDE5N2NlMTU5ZTdkN2NmYTcyNGE5OTE0ZmViYmY3NWMx`

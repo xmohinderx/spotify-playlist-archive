@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 47370,
+  "num_followers": 47440,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MDUzMiwwMDAwMDAwMDBmODIxYjU1NjZjY2RmZmY2M2U1NWRjYjg4NGM4OTMy",
+  "snapshot_id": "MTY2OTk5MDUzMiwwMDAwMDAwMDQ4OGE2YzMwOGYyOWQzMTgxN2JmMDJjZDI0YmMyZDdi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "added_at": "2022-11-18 01:00:00",
+      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 305160,
       "name": "For The Last Time - Alternate Take 1",
       "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2022-11-18 01:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Blues Kingpins",
-        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
         "name": "Mystery Man",
         "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+        "name": "Blues Kingpins",
+        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+      "duration_ms": 179813,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
     },
     {
       "added_at": "2022-11-18 01:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "added_at": "2022-11-18 01:00:00",
+      "album": {
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
       "added_at": "2022-11-18 01:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Boomer's Story",
-        "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Cherry Ball Blues",
-      "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
+    },
+    {
+      "added_at": "2022-11-18 01:00:00",
+      "album": {
+        "name": "Boomer's Story",
+        "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Cherry Ball Blues",
+      "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
     },
     {
       "added_at": "2022-11-18 01:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+        "name": "Letter from Bluewater Man",
+        "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
       },
       "artists": [
         {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
+      "duration_ms": 144000,
+      "name": "Letter from Bluewater Man",
+      "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
     },
     {
       "added_at": "2022-11-18 01:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Letter from Bluewater Man",
-        "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
       "artists": [
         {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Letter from Bluewater Man",
-      "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2022-11-18 01:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
         "name": "Newbury",
         "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+    },
+    {
+      "added_at": "2022-11-18 01:00:00",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
     },
     {
       "added_at": "2022-11-18 01:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Global Griot",
-        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 151403,
-      "name": "Brazos River Blues",
-      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 175933,
       "name": "I'm Satisfied",
       "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
+    },
+    {
+      "added_at": "2022-11-18 01:00:00",
+      "album": {
+        "name": "Global Griot",
+        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 151403,
+      "name": "Brazos River Blues",
+      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
     },
     {
       "added_at": "2022-11-18 01:00:00",

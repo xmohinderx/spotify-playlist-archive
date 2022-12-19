@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Little Simz \(pictured\), Tom Grennan, Central Cee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,702 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,746 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 17 | [Daily Duppy \(Dem Dead\)](https://open.spotify.com/track/1RLFNhcRa6572GRGfa6TBB) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Daily Duppy \(Dem Dead\)](https://open.spotify.com/album/6H1aU8exiYl8OI0Xt8d4GG) | 2:59 |
 | 18 | [3450](https://open.spotify.com/track/5N4rKzZDjstWKhYjOOdV1F) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [3450 / Chasing Lights \(Demo\)](https://open.spotify.com/album/5Pe132bjzwhgvHNb2J9jzn) | 4:23 |
 | 19 | [Food Aid](https://open.spotify.com/track/6tNRqkD3aFkUgmCRjw54TO) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1) | [Food Aid](https://open.spotify.com/album/1uuYOPop4HSbbFZoXHgBZ6) | 4:00 |
-| 20 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
+| 20 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 | 21 | [Sparks](https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [DEL\-30](https://open.spotify.com/artist/3YUMfiE2ROxoup2bHSUXjU), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Sparks](https://open.spotify.com/album/5OkPS4db29TTA4FAMnbTly) | 2:50 |
 | 22 | [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 |
 | 23 | [MBAPPÉ \(feat\. JAY1, Gambino La MG & KAHUKX\) \- Remix](https://open.spotify.com/track/3kAStkKHj7clD09Yi43tHl) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. JAY1, Gambino La MG & KAHUKX\) \[Remix\]](https://open.spotify.com/album/5292yiIg3QPno4OOScy1fP) | 3:37 |

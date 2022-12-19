@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-360 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+361 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-03-31 |  |
 | [October Eyes](https://open.spotify.com/track/14WC3aPKp9cGWMErF8lkza) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [October Eyes](https://open.spotify.com/album/1ZWYUewAqFBeNfhhx8tQt3) | 2:27 | 2021-12-22 | 2022-07-19 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2022-11-27 |  |
-| [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2022-02-18 |  |
+| [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2022-02-18 | 2022-12-19 |
 | [Okay](https://open.spotify.com/track/3a1FmKNt5614MLAh7KeWTb) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Okay](https://open.spotify.com/album/4zuOje7GYsDwFL3ZkAxJ4W) | 2:03 | 2021-12-22 | 2022-07-24 |
 | [omg](https://open.spotify.com/track/6zIL7KsAKDARqyKKKF2vcr) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [omg](https://open.spotify.com/album/3eNc1stN9e9H9aN5S4sPb4) | 2:13 | 2021-12-22 | 2022-07-29 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2021-12-22 | 2022-07-29 |
@@ -273,6 +273,7 @@
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-04 |  |
 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 | 2021-12-22 | 2022-11-29 |
 | [Say It](https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:40 | 2021-12-22 | 2022-11-13 |
+| [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2022-11-27 |  |
 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 | 2021-12-22 | 2022-07-29 |
 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 | 2022-07-04 | 2022-10-28 |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2022-07-04 |  |

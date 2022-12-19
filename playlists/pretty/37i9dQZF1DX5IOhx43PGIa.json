@@ -1,28 +1,32 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: RM.",
-  "num_followers": 251684,
+  "num_followers": 251759,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM3MDgwOCwwMDAwMDAwMDg2MzM2ODYwZTYzYzA1NzdiZGUwNjdiNjg0MjNjNmJk",
+  "snapshot_id": "MTY3MDM3MDgwOCwwMDAwMDAwMGI4MmUxNjcyMDJjYjVjM2QzMjMzYWIwY2NmNTBlOTcw",
   "tracks": [
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "Indigo",
-        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
       },
       "artists": [
         {
           "name": "RM",
           "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
       "duration_ms": 175328,
       "name": "Still Life (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw"
+      "url": "https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
     },
     {
-      "added_at": "2022-12-18 00:50:29",
+      "added_at": "2022-12-19 00:50:39",
       "album": {
         "name": "Champagne Talk",
         "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
@@ -1043,22 +1047,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
       },
@@ -1075,6 +1063,22 @@
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1387,6 +1391,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 183941,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "honest (feat. moon tang)",
         "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
       },
@@ -1403,22 +1423,6 @@
       "duration_ms": 177818,
       "name": "honest (feat. moon tang)",
       "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 183941,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1459,22 +1463,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Y4",
-        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Fool 4 U",
-      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
@@ -1491,18 +1479,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
       "artists": [
         {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
+      "duration_ms": 179000,
+      "name": "Fool 4 U",
+      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1523,6 +1511,22 @@
       "duration_ms": 176470,
       "name": "Future Ghost (feat. Violette Wautier)",
       "url": "https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1691,6 +1695,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Any Other Way",
+        "url": "https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "At Least I Had You",
         "url": "https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O"
       },
@@ -1707,22 +1727,6 @@
       "duration_ms": 203006,
       "name": "At Least I Had You",
       "url": "https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Any Other Way",
-        "url": "https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Any Other Way",
-      "url": "https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1787,22 +1791,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1819,6 +1807,22 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1943,6 +1947,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Lover Like Me",
         "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
       },
@@ -1979,22 +1999,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "MCQUEEN",
         "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
       },
@@ -2007,6 +2011,22 @@
       "duration_ms": 159292,
       "name": "MCQUEEN",
       "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "House We Share",
+        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "House We Share",
+      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2031,22 +2051,6 @@
       "duration_ms": 186665,
       "name": "hurts 2 hate somebody (with Chase Atlantic & No Rome)",
       "url": "https://open.spotify.com/track/5D1D4CHCew0XWorrFv5jSg"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "House We Share",
-        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "House We Share",
-      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2459,18 +2463,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
       },
       "artists": [
         {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 140658,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
+      "duration_ms": 214877,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2495,22 +2499,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 214877,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "do it right (feat. Amin\u00e9)",
         "url": "https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP"
       },
@@ -2527,6 +2515,38 @@
       "duration_ms": 169760,
       "name": "do it right (feat. Amin\u00e9)",
       "url": "https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "duration_ms": 140658,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "how to love",
+        "url": "https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD"
+      },
+      "artists": [
+        {
+          "name": "JEN Z",
+          "url": "https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "how to love",
+      "url": "https://open.spotify.com/track/0yo9larsomF52ozr81jCEm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2575,6 +2595,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/29V6Dh3psH6MpH3tSc9cSg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/1aNm7Q5mRuv0MUd7ZeS1Df"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "SPOILED BITCH",
         "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
       },
@@ -2587,22 +2623,6 @@
       "duration_ms": 140500,
       "name": "SPOILED BITCH",
       "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "how to love",
-        "url": "https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD"
-      },
-      "artists": [
-        {
-          "name": "JEN Z",
-          "url": "https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b"
-        }
-      ],
-      "duration_ms": 213033,
-      "name": "how to love",
-      "url": "https://open.spotify.com/track/0yo9larsomF52ozr81jCEm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2619,22 +2639,6 @@
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/29V6Dh3psH6MpH3tSc9cSg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/1aNm7Q5mRuv0MUd7ZeS1Df"
     },
     {
       "added_at": "2022-11-18 05:00:00",

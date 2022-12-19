@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,182 likes - 309 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,659 likes - 309 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 175 | [dozing off](https://open.spotify.com/track/1lyHccWPAZWPaT6QVSGVag) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [dozing off](https://open.spotify.com/album/5umI1bDUac92L1EI4xOFnL) | 1:57 |
 | 176 | [The Long Way Home](https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n) | [Nova Complex](https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj) | [The Long Way Home](https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b) | 2:30 |
 | 177 | [swanage](https://open.spotify.com/track/4Rvc8667nOikvZhs34TOY5) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [swanage](https://open.spotify.com/album/6zBJwLCjdnrwNucTgvbvP2) | 2:35 |
-| 178 | [A Night To Remember](https://open.spotify.com/track/7LxD5ps1MIhhLDB5SHR7m5) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [A Night To Remember](https://open.spotify.com/album/4Axumrdio6VhJkVAVc0OhT) | 2:32 |
+| 178 | [a night to remember](https://open.spotify.com/track/7LxD5ps1MIhhLDB5SHR7m5) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [a night to remember](https://open.spotify.com/album/4Axumrdio6VhJkVAVc0OhT) | 2:32 |
 | 179 | [Aki](https://open.spotify.com/track/0W8NpyTy5esAL1Hzj74iOy) | [Soiboi](https://open.spotify.com/artist/7oauQAwO8Y8EDxNJY0xqeQ), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Sam Lopes](https://open.spotify.com/artist/2NYGXxVZ7vvBiFM1Z2P2q4) | [Aki](https://open.spotify.com/album/6H3LBtXY5nNnD3cxzVUnQn) | 2:25 |
 | 180 | [Rainy Friday](https://open.spotify.com/track/3kN4JFdPqW0Hf3c8PD01CJ) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Rainy Friday](https://open.spotify.com/album/1XXDtS9LWbNQoTmEKkrOZG) | 1:37 |
 | 181 | [Into My Heart](https://open.spotify.com/track/1dYblj5sTrynVl2HQiuQJJ) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [Gyatso](https://open.spotify.com/artist/6qUpXEPXKjsXpaBnCVhlwY) | [Into My Heart](https://open.spotify.com/album/3UTyb96XNvciutIDeXOOcm) | 2:14 |

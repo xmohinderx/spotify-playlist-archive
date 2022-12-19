@@ -1686,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "La Noche de la Iguana",
+        "url": "https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9mpera",
+          "url": "https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179969,
+      "name": "La Noche de la Iguana",
+      "url": "https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1"
+    },
+    {
+      "album": {
         "name": "Triunfo Moral",
         "url": "https://open.spotify.com/album/3hL8HprnZ9Ser3xyDKyOYU"
       },
@@ -3229,7 +3247,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 224464,
       "name": "Solo Humanos",
       "url": "https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4"
@@ -3837,7 +3855,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 301655,
       "name": "Vida",
       "url": "https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s"
@@ -3927,7 +3945,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 220236,
       "name": "Y Es Verdad",
       "url": "https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI"

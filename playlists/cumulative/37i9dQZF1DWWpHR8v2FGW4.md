@@ -4,7 +4,7 @@
 
 > Always come in 1st.
 
-99 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
+100 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Racing Light](https://open.spotify.com/track/0hIq1t9WEjjhm54r22DnGu) | [Killabyte](https://open.spotify.com/artist/5iKe6CPH9TWj5ybijbv0NY) | [This Is Cyberpunk](https://open.spotify.com/album/4B8LYWnbktN24lEi7q1TwC) | 3:31 | 2022-04-01 | 2022-07-29 |
 | [Rain God](https://open.spotify.com/track/4XC8wCNrIneWEL0ihVZDwS) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Rain God](https://open.spotify.com/album/6CGIHV6jxxjPisNA3WvhlY) | 4:27 | 2022-04-01 | 2022-04-27 |
 | [Rain God](https://open.spotify.com/track/7prqZ9Le5L0z6DRYcnhghP) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Rain God](https://open.spotify.com/album/58VdvkSadgJzRY7CX9qj1Y) | 4:27 | 2022-07-07 |  |
+| [Real](https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Real](https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p) | 4:46 | 2022-12-09 |  |
 | [Remembr \- Skylark Remix](https://open.spotify.com/track/1IosQJpHD8tfcwg6hsN7M3) | [KL!P](https://open.spotify.com/artist/25rKKA77ZDNcezyrvmaa0u), [LAFA](https://open.spotify.com/artist/5kreG2TgpAxC03tJ5ymzxJ), [Hana Bens](https://open.spotify.com/artist/4kTCnWj9vAqiOwrmMQUHrQ), [Skylark](https://open.spotify.com/artist/5U6Sk42bhrMIPhr11xtRPq) | [Remembr \(Skylark Remix\)](https://open.spotify.com/album/4y9Ge62AvtUTYj0WaNtavd) | 3:48 | 2022-07-07 | 2022-07-21 |
 | [Retinues](https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Retinues / Urgency](https://open.spotify.com/album/7qTuSrHrvDfanvQJK25u9g) | 5:24 | 2022-04-01 | 2022-07-20 |
 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 | 2022-10-14 |  |
@@ -94,7 +95,7 @@
 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 | 2022-04-01 |  |
 | [Take Me as I Am](https://open.spotify.com/track/0UenWFdnE81DI4OLN7GAP1) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Late Checkout](https://open.spotify.com/album/7EKYXT614EhSh5jLDUdFAj) | 3:06 | 2022-04-01 | 2022-04-28 |
 | [Take You Down](https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Take You Down / Melange](https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq) | 3:43 | 2022-04-01 |  |
-| [Think About Me](https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Think About Me](https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT) | 4:40 | 2022-08-17 |  |
+| [Think About Me](https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Think About Me](https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT) | 4:40 | 2022-08-17 | 2022-12-19 |
 | [This Feeling](https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [This Feeling](https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH) | 4:21 | 2022-04-01 | 2022-11-08 |
 | [Tokyo Drift \(Fast & Furious\) \- From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA) | [Teriyaki Boyz](https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 4:15 | 2022-04-01 | 2022-05-13 |
 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 | 2022-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,395 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,432 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,18 +36,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 26 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 |
 | 27 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 28 | [Electric Feel \- Justice Remix](https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Electric Feel \(Justice Remix\)](https://open.spotify.com/album/6wqufLWm8D5CUPB9A11opq) | 5:27 |
-| 29 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
-| 30 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
+| 29 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
+| 30 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 | 31 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 |
 | 32 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/5jaVyz2GDdesyu01cBbOSc) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Analog Worms Attack](https://open.spotify.com/album/7kAKGbrd7MHykmOzRlNPee) | 5:16 |
 | 33 | [Je veux te voir](https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Pop Up](https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy) | 4:21 |
 | 34 | [Nightcall \- Breakbot Remix](https://open.spotify.com/track/199fvGLqoH23blptlIIz86) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 3:39 |
 | 35 | [Nights Off](https://open.spotify.com/track/7kw4p4Nrs48BtlldKEBSUQ) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Mosaik](https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE) | 4:07 |
-| 36 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 |
-| 37 | [Fancy Footwork](https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF) | 3:18 |
-| 38 | [Cheap And Cheerful \- Sebastian remix](https://open.spotify.com/track/1uX5AUX69UtVhxbFI6H1Ql) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Cheap And Cheerful \(Remixes\)](https://open.spotify.com/album/0O1WSc02pnlWD4lsYzoaQK) | 5:56 |
-| 39 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 |
-| 40 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |
+| 36 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |
+| 37 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 |
+| 38 | [Fancy Footwork](https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF) | 3:18 |
+| 39 | [Cheap And Cheerful \- Sebastian remix](https://open.spotify.com/track/1uX5AUX69UtVhxbFI6H1Ql) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Cheap And Cheerful \(Remixes\)](https://open.spotify.com/album/0O1WSc02pnlWD4lsYzoaQK) | 5:56 |
+| 40 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 |
 | 41 | [Lucky Boy \- Outlines Remix](https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 4:26 |
 | 42 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
 | 43 | [Testarossa \(SebastiAn Remix\)](https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [1986 \- EP](https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK) | 4:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 75 | [Cocotte](https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP) | [Teenage Bad Girl](https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb) | [Cocotte](https://open.spotify.com/album/6eqdmGdk3oA1YOFLkWEXfR) | 4:22 |
 
-Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDBhZWYyOWUxMGVjNDYyNmNiMWI4NTRhNmJhNzQ5OTY4`
+Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDkyZTI2N2NiM2ZiNTRkMTViNTk2NTFkYjFiNTc0MDM3`

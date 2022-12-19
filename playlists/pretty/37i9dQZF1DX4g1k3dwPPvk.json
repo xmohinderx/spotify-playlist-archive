@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 237846,
+  "num_followers": 237979,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMDFiYjczODEwYzlhZmY2NjhjNzMxYzNhMTU4MTYyY2Vh",
+  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMGQ5NzI0MTIzYTRmZDU4ZDlmMDFjNjE5ZGJhYTkzMzdi",
   "tracks": [
     {
       "added_at": "2022-08-31 07:05:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Te Quiero Tanto, Tanto",
-      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "Clasicos de la Provincia",
         "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 215493,
       "name": "La Gota Fria",
       "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Te Quiero Tanto, Tanto",
+      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "El Amor De Mi Tierra",
-        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 233093,
-      "name": "Fruta Fresca",
-      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "El Amor De Mi Tierra",
+        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Fruta Fresca",
+      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "Mujer",
         "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 227733,
       "name": "Desesperada",
       "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "La Tierra del Olvido (005)",
-        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Pa' Mayte",
-      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "La Chica Dorada",
         "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 225866,
       "name": "M\u00edo",
       "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "La Tierra del Olvido (005)",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Pa' Mayte",
+      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 277426,
       "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
       "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
     },
     {
       "added_at": "2022-08-31 07:05:31",

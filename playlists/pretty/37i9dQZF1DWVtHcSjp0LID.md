@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,067 likes - 80 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,082 likes - 80 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 29 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
 | 30 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
 | 31 | [Never Forget](https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [See You When You Get There](https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr) | 6:04 |
-| 32 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
-| 33 | [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 |
+| 32 | [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 |
+| 33 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
 | 34 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
 | 35 | [Red Giant](https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Patterns & Light](https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5) | 4:55 |
 | 36 | [Harmony \- Original Mix](https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3) | [Francis Inferno Orchestra](https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe) | [Where Will You Be Spending Eternity?](https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi) | 5:14 |
 | 37 | [Rebirth](https://open.spotify.com/track/4CMOzNttliw41slRLQY6kL) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Mellowdramatic](https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN) | 7:19 |
 | 38 | [Bassment Dweller \- Original Mix](https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Science Is Science](https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7) | 7:03 |
 | 39 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
-| 40 | [Clouds](https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V \- EP](https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1) | 4:12 |
-| 41 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
+| 40 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
+| 41 | [Clouds](https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V \- EP](https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1) | 4:12 |
 | 42 | [Timid Dancer](https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Closer](https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I) | 6:56 |
 | 43 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
 | 44 | [The Hymn Of Fallen Dreams](https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 7:54 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 54 | [Warped](https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Warped](https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG) | 7:30 |
 | 55 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
 | 56 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 |
-| 57 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
-| 58 | [Opal Waltz](https://open.spotify.com/track/058bYtysQS0bnt7KtEnZsg) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/15egQXR5QFe5oyqH0U4rlE) | 3:43 |
+| 57 | [Opal Waltz](https://open.spotify.com/track/058bYtysQS0bnt7KtEnZsg) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/15egQXR5QFe5oyqH0U4rlE) | 3:43 |
+| 58 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
 | 59 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 |
 | 60 | [Bonder](https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR) | [Rocket Empire](https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82), [Amber Sparks](https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf) | [Sky Float Sun](https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb) | 5:31 |
 | 61 | [Immortal](https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Carlos Pérez](https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr) | [Thunderstorm EP](https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS) | 6:57 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 65 | [Overhead](https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb) | [Professor Kliq](https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW) | [The Scientific Method, Vol 2](https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb) | 5:15 |
 | 66 | [As Long as There's Sunset](https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Aerial](https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89) | 6:09 |
 | 67 | [Godt Begyndt](https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Nature Boy](https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB) | 6:41 |
-| 68 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
-| 69 | [Orbital Hypnosis \- Erly Tepshi Remix](https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Passengers](https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP) | 6:06 |
+| 68 | [Orbital Hypnosis \- Erly Tepshi Remix](https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Passengers](https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP) | 6:06 |
+| 69 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
 | 70 | [Vasudeva](https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G) | 6:16 |
 | 71 | [Dance Machine \- Original Mix](https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Dance Machine](https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn) | 5:40 |
 | 72 | [Backstabber](https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Backstabber EP](https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu) | 6:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 79 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
 | 80 | [Everything](https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Mellowdramatic](https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN) | 7:58 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDZlZjk5ZTBkZGU3MWY3NjEzYjIzNzhiYzM3OTU3YmEy`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDAwMjk3ZGNkZmI0OGU2ZDRmODk4Y2Q2ZjQ2OTVkODNm`

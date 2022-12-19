@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,559 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,573 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 21 | [Sound Of A Broken Man](https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA) | 4:51 |
 | 22 | [Evil On My Mind \- Remastered](https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 2:20 |
 | 23 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
-| 24 | [Cherry Red Wine](https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:30 |
+| 24 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
 | 25 | [Cotton Mouth Man](https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cotton Mouth Man](https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS) | 3:47 |
-| 26 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
+| 26 | [Cherry Red Wine](https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:30 |
 | 27 | [Let The Juke Joint Jump](https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Force Of Nature](https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN) | 6:09 |
 | 28 | [Walking With The Wolf](https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ) | [The Kentucky Headhunters](https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY), [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Meet Me In Bluesland](https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS) | 3:28 |
 | 29 | [Nobody But You](https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y) | [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y) | [Roots And Branches \- The Songs Of Little Walter](https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz) | 3:07 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
 | 52 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 
-Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMDUyZTY5YjhkYmQxNTAyNjc1YTJjYmRhMDBmMmFhMjhk`
+Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMDZkMWRkZDMyMDdlNGZiMjJmMDFhMWU5ODk2YmJkYmZj`

@@ -1,12 +1,12 @@
 {
   "description": "New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series. \u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 63550,
+  "num_followers": 63665,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMDA4MTVkNzAyZjI0YmVmMzU0NTQyM2E1Y2ZkN2Y1MTBh",
+  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMDVlOTAyY2UzMzUxNDBiNjJhYjVjNjM4YWUzMmFjMjZk",
   "tracks": [
     {
       "added_at": "2021-03-04 14:24:40",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY XII Original Soundtrack",
-        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
-      },
-      "artists": [
-        {
-          "name": "\u5d0e\u5143\u4ec1",
-          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
-        }
-      ],
-      "duration_ms": 130065,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/5qr766CKjp0R0naWBcJzo4"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
         "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 135186,
       "name": "Why (CCFFVII Mix)",
       "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "FINAL FANTASY XII Original Soundtrack",
+        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
+      },
+      "artists": [
+        {
+          "name": "\u5d0e\u5143\u4ec1",
+          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
+        }
+      ],
+      "duration_ms": 130065,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/5qr766CKjp0R0naWBcJzo4"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Safe Haven",
-      "url": "https://open.spotify.com/track/5kgn3gekLoeUwsPUOmzC1T"
+      "duration_ms": 209466,
+      "name": "Stand Your Ground",
+      "url": "https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
-      },
-      "artists": [
-        {
-          "name": "Mitsuto Suzuki",
-          "url": "https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "The Ark",
-      "url": "https://open.spotify.com/track/52owa26O52mjroTJTfnHGI"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 157400,
       "name": "Trisection",
       "url": "https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+      },
+      "artists": [
+        {
+          "name": "Mitsuto Suzuki",
+          "url": "https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "The Ark",
+      "url": "https://open.spotify.com/track/52owa26O52mjroTJTfnHGI"
     },
     {
       "added_at": "2021-03-04 14:24:40",

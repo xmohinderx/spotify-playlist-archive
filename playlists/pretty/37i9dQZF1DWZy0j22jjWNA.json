@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73756,
+  "num_followers": 73771,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDZjZDQyZDhiOGM1NzRkN2E5YjViMjQ2NWMzYjlhYTE2",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGI0YTNmMGEyMDE2ZjNlMTgxOWEzM2ZjZDcwNDliYjE1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
-      },
-      "artists": [
-        {
-          "name": "Fleurie",
-          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Constellate",
-      "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Wildwood Kin",
         "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 246686,
       "name": "Wake Up Sleeper",
       "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Constellate",
+      "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
       },
       "artists": [
         {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
+      "duration_ms": 480893,
+      "name": "Queen Songs/Human",
+      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Versions",
         "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 231346,
       "name": "Losing the Lonely",
       "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 480893,
-      "name": "Queen Songs/Human",
-      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
-      },
-      "artists": [
-        {
-          "name": "Daniella Mason",
-          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 268493,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
+      },
+      "artists": [
+        {
+          "name": "Daniella Mason",
+          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
     },
     {
       "added_at": "2020-09-04 04:02:00",

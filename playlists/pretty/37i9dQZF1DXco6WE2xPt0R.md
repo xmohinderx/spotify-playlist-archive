@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,941 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,982 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 54 | [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 |
 | 55 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 |
 | 56 | [Slowdance](https://open.spotify.com/track/0Nc4QJeqhbkFsjZWwyaDlt) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Rare Pleasure](https://open.spotify.com/album/4ZwuqG7srOt86hMjF0o3No) | 5:15 |
-| 57 | [Heaven](https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [R&B?](https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz) | 2:59 |
-| 58 | [Love and Be Loved](https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Aaron Ridge](https://open.spotify.com/artist/4bWvbNOmiWoUo3TKap75z1) | [Love and Be Loved](https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a) | 3:27 |
+| 57 | [Love and Be Loved](https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Aaron Ridge](https://open.spotify.com/artist/4bWvbNOmiWoUo3TKap75z1) | [Love and Be Loved](https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a) | 3:27 |
+| 58 | [Heaven](https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [R&B?](https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz) | 2:59 |
 | 59 | [Feel](https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [She Knows](https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us) | 4:08 |
 | 60 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
 | 61 | [Right Time](https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Right Time \(feat\. Reggie Becton\)](https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi) | 2:57 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 76 | [DNA \- Live](https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [DNA \(Live\)](https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN) | 3:48 |
 | 77 | [Organic](https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Organic](https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY) | 3:17 |
 | 78 | [Midnight Snacks](https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Midnight Snacks](https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh) | 3:15 |
-| 79 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 |
-| 80 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 |
-| 81 | [Type Of Day](https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Type Of Day](https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z) | 3:07 |
+| 79 | [Challenge](https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Challenge](https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9) | 2:10 |
+| 80 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 |
+| 81 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 |
 | 82 | [Chocolate Covered Strawberries](https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Chocolate Covered Strawberries](https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb) | 4:10 |
-| 83 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
-| 84 | [Challenge](https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Challenge](https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9) | 2:10 |
+| 83 | [Type Of Day](https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Type Of Day](https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z) | 3:07 |
+| 84 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
 | 85 | [Last Time](https://open.spotify.com/track/4aKniqIkySbQDkrOA6uUqP) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL) | 2:41 |
 | 86 | [never enough](https://open.spotify.com/track/7bBX8D2NdrHgukqsi1BbRV) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5), [Damien Burbank](https://open.spotify.com/artist/6whPKF98aagD2j5A0J4tOT), [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [never enough](https://open.spotify.com/album/507Gn8QinrIUlKMkNuOgk3) | 2:29 |
 | 87 | [Genius](https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Genius](https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Look At You](https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO) | [Keeyen Martin](https://open.spotify.com/artist/50rvEyhTLlWQ5gIjEM6ZxT), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Look At You](https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ) | 2:45 |
 | 100 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
 
-Snapshot ID: `MTY3MTIxNTQ3MCwwMDAwMDAwMDVhNDE4Mzg5ZDFlOTU3MTI4MjEzMjE4Y2YyYzc5N2Q5`
+Snapshot ID: `MTY3MTIxNTQ3MCwwMDAwMDAwMDViMTFiMWZhOWEzNmZlNTEzYmFhNTIzMmNlNTczM2Zi`

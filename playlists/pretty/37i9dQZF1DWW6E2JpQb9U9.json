@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: La Beriso",
-  "num_followers": 93425,
+  "num_followers": 93438,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDZhOGJmMWUxMWJlZDA4Yzg2NmYxMTkwZDI5ZWM0ZjQz",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDFkYWFhZGM0OGM5ZjRlZTQyZjc4ZDkwZWM2MzcxNzE3",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Salud! Los Perez Garcia en Vivo",
-        "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 299176,
-      "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
-      "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 247613,
       "name": "La Rueda M\u00e1gica - En Vivo",
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Salud! Los Perez Garcia en Vivo",
+        "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
+      },
+      "artists": [
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        }
+      ],
+      "duration_ms": 299176,
+      "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
+      "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 456626,
-      "name": "Flores - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/3zLOiFlFq5Wh8qckWyRNqy"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
         "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
       },
@@ -1063,18 +1047,34 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Tilcara: El Recital",
-        "url": "https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR"
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
         }
       ],
-      "duration_ms": 252936,
-      "name": "Par Mil - En Vivo",
-      "url": "https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe"
+      "duration_ms": 456626,
+      "name": "Flores - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/3zLOiFlFq5Wh8qckWyRNqy"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "En Directo",
+        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 461266,
+      "name": "Todo un Palo - En Vivo",
+      "url": "https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "En Directo",
-        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
+        "name": "Tilcara: El Recital",
+        "url": "https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 461266,
-      "name": "Todo un Palo - En Vivo",
-      "url": "https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8"
+      "duration_ms": 252936,
+      "name": "Par Mil - En Vivo",
+      "url": "https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 414120,
+      "name": "Marad\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "De No Olvidar (En Vivo)",
         "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 334320,
       "name": "Avanti Morocha (En Vivo Provincia Emergente)",
       "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 414120,
-      "name": "Marad\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 309720,
+      "name": "Pistolas - En Vivo",
+      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 309720,
-      "name": "Pistolas - En Vivo",
-      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "En Directo",
-        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 381826,
-      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
-      "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
+      "duration_ms": 439800,
+      "name": "Te Dir\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1451,6 +1451,22 @@
       "duration_ms": 244773,
       "name": "Cactus - En Vivo en Monterrey",
       "url": "https://open.spotify.com/track/7AaxZgnm9gk3yfjVMp1nqe"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "En Directo",
+        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 381826,
+      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
+      "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 439800,
-      "name": "Te Dir\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Fantasma - En Vivo",
+      "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "La Portuaria En Vivo",
         "url": "https://open.spotify.com/album/3Pzh6hE7RZofmrIrFyfiDd"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 346040,
       "name": "El Balc\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Fantasma - En Vivo",
-      "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
     },
     {
       "added_at": "2022-12-09 03:00:00",

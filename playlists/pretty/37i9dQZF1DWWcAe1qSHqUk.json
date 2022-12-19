@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 54015,
+  "num_followers": 54031,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgyMDc5MiwwMDAwMDAwMDJhNTg3OTkwZWI2NWU0ZGRmZDBhZmNjNjcwNTZmZjk0",
+  "snapshot_id": "MTY3MDgyMDc5MiwwMDAwMDAwMGZjZGY2YjE0OTk5MzBhMDQwYWIzMTVmZjgyYjAxN2Fl",
   "tracks": [
     {
       "added_at": "2022-12-12 04:53:12",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-12-12 04:53:12",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
         }
       ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+      "duration_ms": 262026,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
     },
     {
       "added_at": "2022-12-12 04:53:12",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-12-12 04:53:12",
       "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
       "artists": [
         {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 262026,
-      "name": "Moonlight Serenade",
-      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2022-12-12 04:53:12",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-12 04:53:12",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2022-12-12 04:53:12",
-      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 187280,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5y31Qh5BW8csQMtdQY6Tob"
+    },
+    {
+      "added_at": "2022-12-12 04:53:12",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2022-12-12 04:53:12",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-12 04:53:12",
       "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/7KxiNjobOAkn79QrqlNSYX"
-    },
-    {
-      "added_at": "2022-12-12 04:53:12",
-      "album": {
         "name": "Jazz and Essentials",
         "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 161426,
       "name": "Carta Ao Tom 74",
       "url": "https://open.spotify.com/track/3pemsJqLI0GXY9tlQDn8yS"
+    },
+    {
+      "added_at": "2022-12-12 04:53:12",
+      "album": {
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/7KxiNjobOAkn79QrqlNSYX"
     },
     {
       "added_at": "2022-12-12 04:53:12",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-12-12 04:53:12",
       "album": {
-        "name": "Shades of Delight",
-        "url": "https://open.spotify.com/album/1TmyQu2ABmq5cHbH6Ds2n8"
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 292056,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/5ZMoyCcee60Omi3bNklKvQ"
+      "duration_ms": 257253,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
     },
     {
       "added_at": "2022-12-12 04:53:12",

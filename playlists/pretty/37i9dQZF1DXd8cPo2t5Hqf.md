@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,794 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,974 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 17 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
 | 18 | [39 Music!](https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 Music!](https://open.spotify.com/album/22mBVLZToKGQ2Qc4DN6pPP) | 4:25 |
 | 19 | [ルカルカ★ナイトフィーバー \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/1qfh55N9dvFU1ESAJ3jFQG) | [Samfree](https://open.spotify.com/artist/4WURgk0jAO9xb8AIJ2ERye) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:22 |
-| 20 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
-| 21 | [えれくとりっく・えんじぇぅ](https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D) | [Yasuo](https://open.spotify.com/artist/7EvlO09zOVmTWQKe7AH8Bc) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 3:17 |
+| 20 | [えれくとりっく・えんじぇぅ](https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D) | [Yasuo](https://open.spotify.com/artist/7EvlO09zOVmTWQKe7AH8Bc) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 3:17 |
+| 21 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
 | 22 | [Tell Your World](https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Tell Your World EP](https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7) | 4:14 |
 | 23 | [初音ミクの消失 \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/5pgVqrcW9CkzDE0ToQmnI3) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:19 |
 | 24 | [裏表ラバーズ \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:34 |
 | 25 | [こっち向いて Baby \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/3YD4pxgYwuw8NCo66iHXl7) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:59 |
-| 26 | [大江戸ジュリアナイト feat\. 初音ミク with KAITO](https://open.spotify.com/track/3XjkTRYjPs8JjRvG4jDPVm) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [バーチャル・ポップスター](https://open.spotify.com/album/4EThV35Hzn0ZyJ1qsYvhG7) | 3:51 |
-| 27 | [Teo](https://open.spotify.com/track/0avbIGWVb4n7CcbomSEogt) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [The First Waltz](https://open.spotify.com/album/5pZ8vurC6h4uSCwkjCHnHz) | 3:30 |
+| 26 | [Teo](https://open.spotify.com/track/0avbIGWVb4n7CcbomSEogt) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [The First Waltz](https://open.spotify.com/album/5pZ8vurC6h4uSCwkjCHnHz) | 3:30 |
+| 27 | [大江戸ジュリアナイト feat\. 初音ミク with KAITO](https://open.spotify.com/track/3XjkTRYjPs8JjRvG4jDPVm) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [バーチャル・ポップスター](https://open.spotify.com/album/4EThV35Hzn0ZyJ1qsYvhG7) | 3:51 |
 | 28 | [Yumeyume](https://open.spotify.com/track/3pndrtylrcdsJkFhY5eqTX) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECO\*27 VOCALOID COLLECTION 2008\~2012](https://open.spotify.com/album/4iIqFpozjKLiWzHCtNsDY3) | 3:36 |
 | 29 | [からくりピエロ \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 |
 | 30 | [どりーみんチュチュ](https://open.spotify.com/track/5so7F3hsNWmSpjyQ4dSr2W) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [どりーみんチュチュ](https://open.spotify.com/album/0gDKtnl12zIMnT40j7q4wF) | 4:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 62 | [Sweet Devil \- Eight Mix](https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:54 |
 | 63 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 |
 | 64 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 |
-| 65 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
-| 66 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
+| 65 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
+| 66 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
 | 67 | [39](https://open.spotify.com/track/3wmmuJJ1G9Ykkhp3NAqk8u) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5YX7NCGvKobJjYjmbs1maK) | 3:39 |
 | 68 | [天樂](https://open.spotify.com/track/79HcrcBQ6s2gDpetLznvAt) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:34 |
 | 69 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [E? Aa, Sou.](https://open.spotify.com/track/4laMKU1xcpbFdsX3LnA1Xb) | [Chouchou\-P](https://open.spotify.com/artist/13p1b6oCr8TusEButZxHZL) | [Exit Tunes Academy Best 3](https://open.spotify.com/album/67LlLI8CaW8avwTaoZDTHl) | 3:27 |
 | 100 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 
-Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMGUxNGQ1OWMzZjUzNTk1MzQ1NzkyZTczMzMwYzcxMWZl`
+Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDI1NWRlODU5MzIzYjhlMzJhOGJlMWFkMGQwYmFkNThh`

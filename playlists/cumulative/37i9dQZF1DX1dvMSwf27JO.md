@@ -4,7 +4,7 @@
 
 > \#ootd
 
-327 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+328 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Favorite \(feat\. Duckwrth\)](https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Ru AREYOU](https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB) | [Favorite \(feat\. Duckwrth\)](https://open.spotify.com/album/1hXhxCdpwgqCr7sUu26cS8) | 2:19 | 2022-01-28 | 2022-12-17 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2022-07-01 | 2022-07-30 |
 | [FIT PIC](https://open.spotify.com/track/2fBhent6RyZfVDVL3mCeFE) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [FIT PIC](https://open.spotify.com/album/4kq62cyYveJQEMXyNOh35E) | 2:31 | 2021-10-15 | 2022-05-14 |
+| [FOMF](https://open.spotify.com/track/1q9huadusReYqEjnENS3uw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:40 | 2022-12-16 |  |
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-08-05 | 2022-12-17 |
 | [Forever](https://open.spotify.com/track/08U90Je8ANncSpd6ptxNFt) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever](https://open.spotify.com/album/32RhQbcXcIqxzhaZlXmfFa) | 3:15 | 2022-07-01 | 2022-08-31 |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-08-05 | 2022-07-29 |
@@ -270,7 +271,7 @@
 | [stay away \- xs edition](https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [stay away](https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA) | 3:49 | 2022-11-15 | 2022-12-17 |
 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 | 2022-09-13 |  |
 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2021-08-05 | 2022-12-17 |
-| [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 | 2022-12-16 |  |
+| [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 | 2022-12-16 | 2022-12-19 |
 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 | 2021-08-05 | 2022-05-28 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-01-11 | 2022-04-16 |
 | [Str8 Outta Mumbai](https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 2:42 | 2021-10-15 | 2022-05-14 |

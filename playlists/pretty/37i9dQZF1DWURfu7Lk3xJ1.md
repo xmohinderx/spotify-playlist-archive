@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,018 likes - 204 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,114 likes - 204 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 39 | [Hammock](https://open.spotify.com/track/1NlTg4tyPrVnikFfRZwSxi) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Hammock](https://open.spotify.com/album/3Tt0Gdzf79pI5mF7EQ6jcg) | 1:56 |
 | 40 | [Surrounded By Peace](https://open.spotify.com/track/3kzt3J8XZfFklQvJ2rHOFM) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [A Quiet Place](https://open.spotify.com/album/6qddHV8GGqTuSawsntlL5k) | 2:42 |
 | 41 | [Bedtime](https://open.spotify.com/track/7cVjv0GxWjypzCOKfyVbog) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [Bedtime](https://open.spotify.com/album/3z9AaoxJb8ZPW8RUH8QGlc) | 1:46 |
-| 42 | [Our Favorite Place To Be](https://open.spotify.com/track/28NaHO2RkAK4x4VlZfmJpW) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [Our Favorite Place To Be](https://open.spotify.com/album/3q9PyK6ZPaCvMmkYOYybQJ) | 2:14 |
+| 42 | [our favorite place to be](https://open.spotify.com/track/28NaHO2RkAK4x4VlZfmJpW) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [our favorite place to be](https://open.spotify.com/album/3q9PyK6ZPaCvMmkYOYybQJ) | 2:14 |
 | 43 | [Celestial](https://open.spotify.com/track/2wQEhPop1Cg6WzCjJgeACB) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH) | [Celestial](https://open.spotify.com/album/7F7vjQDEGp9wcNjkUz7HK9) | 2:40 |
 | 44 | [Letting You Know](https://open.spotify.com/track/1s1bUlSPztqpgKGTdpc2PD) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Letting You Know](https://open.spotify.com/album/0MtI7XE2yinw8ikKZbiEws) | 2:56 |
 | 45 | [DONT GO](https://open.spotify.com/track/5v6GGRV3xNSvSYNfTCzKmS) | [SLOWIFI](https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm) | [DONT GO](https://open.spotify.com/album/6XcVXWPZhfY0QfNUuCQFxz) | 2:06 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 59 | [Stay](https://open.spotify.com/track/6OXnSAGscUaX1hXjfv8MQN) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Stay](https://open.spotify.com/album/21pkrudWLCFV0u3lLTfa08) | 1:23 |
 | 60 | [Arctic Tundra](https://open.spotify.com/track/6muvuOIHhSe0hfxlnbA3SH) | [Dj Screech](https://open.spotify.com/artist/3JFTmv6ilkFBBwgCYBXxlI) | [Arctic Tundra](https://open.spotify.com/album/2qddX8I6KxRnlUFITUgESS) | 2:21 |
 | 61 | [Last Night Of July](https://open.spotify.com/track/47rPULD5SSeFN5EmmwLpOE) | [Yampb](https://open.spotify.com/artist/7wRmia5KvfYF78xUv7sApg) | [Last Night Of July](https://open.spotify.com/album/0ua5t4vGaxXOSj7RD1HdIs) | 2:13 |
-| 62 | [Where We Part Ways](https://open.spotify.com/track/0MV3QTdlSA2PjAhtaryLvf) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [Where We Part Ways](https://open.spotify.com/album/0CGbD2NuGs5BYAr3UZRMLU) | 2:11 |
+| 62 | [where we part ways](https://open.spotify.com/track/0MV3QTdlSA2PjAhtaryLvf) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [where we part ways](https://open.spotify.com/album/0CGbD2NuGs5BYAr3UZRMLU) | 2:11 |
 | 63 | [remote cabin](https://open.spotify.com/track/1k1ioWy2YBIlZ7RqpTpUnl) | [Mariniwa](https://open.spotify.com/artist/5ggoqTsmvRkOrmqtCSjMPE), [Marc Brave](https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK) | [remote cabin](https://open.spotify.com/album/6ylHT1hLGNmn9L7d4prnyZ) | 1:56 |
 | 64 | [The Great Creature](https://open.spotify.com/track/2Y2CCdd30BKUiycTa9b1JE) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH), [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [The Great Creature](https://open.spotify.com/album/0QyKADRAgI3W1DxGpcu00d) | 2:35 |
 | 65 | [Wintercame!](https://open.spotify.com/track/2lNSStDfuWm4YcRSH76vaP) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Wintercame!](https://open.spotify.com/album/0WPxOZRqOYJhtaKVBHjiud) | 1:56 |

@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Metallica",
-  "num_followers": 704869,
+  "num_followers": 704866,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDM2YzgxMGExNjdlMDYzNTdkNTJmMDk0OGQ2NGQ3N2I3",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDcwNTU3YTUwODMxNThlMDBjNmM0ZTJmZWVjMWQ0YmUy",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Dad Vibes",
+        "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 132206,
+      "name": "Dad Vibes",
+      "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Never Gonna Learn EP",
         "url": "https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 214724,
       "name": "New Devil (feat. Maria Brink of In This Moment)",
       "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Dad Vibes",
-        "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 132206,
-      "name": "Dad Vibes",
-      "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Walk The Sky",
-        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 229940,
-      "name": "Wouldn't You Rather",
-      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+        "name": "Walk The Sky",
+        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+      "duration_ms": 229940,
+      "name": "Wouldn't You Rather",
+      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
     },
     {
       "added_at": "2022-12-02 03:01:00",

@@ -1,13 +1,29 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 13982,
+  "num_followers": 14031,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4NDM2OCwwMDAwMDAwMGZlYWMzZGMzYWUwYTBiY2E2YjBkNTlmYTAxZWFlZmE3",
+  "snapshot_id": "MTY3MTM1OTI1NiwwMDAwMDAwMGYzYzg5ZGU5MjM3YTE3NWQ5YzhlMzYzYzE1ZWNkZjRh",
   "tracks": [
+    {
+      "added_at": "2022-12-18 10:27:36",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+    },
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {

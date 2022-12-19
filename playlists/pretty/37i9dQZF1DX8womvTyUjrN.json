@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Samantha S\u00e1nchez",
-  "num_followers": 265727,
+  "num_followers": 265783,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwMzU2NiwwMDAwMDAwMGY0NTFmODBlOTQ2NGI0ZTQ0ZGZhYTYyYjA2MGIxMmRi",
+  "snapshot_id": "MTY3MTIwMzU2NiwwMDAwMDAwMDg4OGIzYzFiOTVmYTQ2MDNmNWFlYzgyMzZiMzc4YmQ4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
     },
     {
-      "added_at": "2022-12-18 01:02:28",
+      "added_at": "2022-12-19 01:19:03",
       "album": {
         "name": "Cruda",
         "url": "https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH"
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 171400,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "a tu manera",
         "url": "https://open.spotify.com/album/7JSN1eVuYb4smT9EhBqK4g"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 177666,
       "name": "a tu manera",
       "url": "https://open.spotify.com/track/2UulR6rTDXUGiPUkw01EMG"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e"
     },
     {
       "added_at": "2022-12-16 05:00:00",

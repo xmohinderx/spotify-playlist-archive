@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,236 likes - 138 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,277 likes - 138 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 79 | [Solladi Kanave](https://open.spotify.com/track/7AOhwDbECq6kzmC9ZMwBx4) | [Sathushan](https://open.spotify.com/artist/1aTh7hMXvlie2jR0WjeNAm), [Ajay Lakshan](https://open.spotify.com/artist/4mvBpIbJQkEeopjO5x1BkD), [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60) | [Solladi Kanave](https://open.spotify.com/album/40fVGnuvBETqevco0wIMoE) | 5:22 |
 | 80 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 |
 | 81 | [Mazhai Kuruvi](https://open.spotify.com/track/54uxMrzHA19Uw3K1EYrRzU) | [Shameel J](https://open.spotify.com/artist/21peBnGpGmNdiC9UwnBMdg), [Cv Laksh](https://open.spotify.com/artist/3RbNOYexLa2GmQzelTXPSa) | [Mazhai Kuruvi](https://open.spotify.com/album/3810ANE6YEusX5tYeSHIoG) | 4:00 |
-| 82 | [Badhil Adi](https://open.spotify.com/track/3ICLwSAqpt75ypmWlBJyLf) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Hemanth Kumar](https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF), [Vrusha Balu](https://open.spotify.com/artist/0GNSRY7lJdxsHKgQqiPI9u) | [Badhil Adi](https://open.spotify.com/album/5bfvG6VTedMpRIn77eixDn) | 2:52 |
+| 82 | [Badhil Adi \- SKODA Deccan Beats](https://open.spotify.com/track/3ICLwSAqpt75ypmWlBJyLf) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Hemanth Kumar](https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF), [Vrusha Balu](https://open.spotify.com/artist/0GNSRY7lJdxsHKgQqiPI9u) | [Badhil Adi \(SKODA Deccan Beats\)](https://open.spotify.com/album/5bfvG6VTedMpRIn77eixDn) | 2:52 |
 | 83 | [Kaatrodu](https://open.spotify.com/track/5yIC1ldpXfRyVL7LpjrZLp) | [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo), [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kaatrodu](https://open.spotify.com/album/5EUmFeHta6LpGNhgqj6Med) | 5:44 |
 | 84 | [Vilagaadhey](https://open.spotify.com/track/5V6qDweSwZsUjZJ1OEeIwD) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Vilagaadhey](https://open.spotify.com/album/5dlSNXdJMoIxe9TogHAzR2) | 1:43 |
 | 85 | [Paravaigal](https://open.spotify.com/track/1WqOxefU75i6AZ2uW8DYRN) | [Siddrth](https://open.spotify.com/artist/08i087HLiGdAy7HOACoVP0) | [Paravaigal](https://open.spotify.com/album/0ULMDtWd3LSi7lFgQpsj9A) | 3:44 |

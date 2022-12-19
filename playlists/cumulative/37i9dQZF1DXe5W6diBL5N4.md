@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: WEi\(위아이\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-3,406 songs - 8 day 4 hr 43 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
+3,407 songs - 8 day 4 hr 47 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3150,7 +3150,8 @@
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-04-28 | 2022-05-06 |
 | [Wicked](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Remarriage and Desires \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) | 3:14 | 2022-07-15 | 2022-07-28 |
 | [Wide Open](https://open.spotify.com/track/3hCUSSX1l1DDbSzopM3JDG) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [Crazy Love \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/2obpLFubdFYXr55KXOVnes) | 3:02 | 2022-04-19 | 2022-05-03 |
-| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-02 |  |
+| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-02 | 2022-12-19 |
+| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-16 |  |
 | [WILD RABBIT](https://open.spotify.com/track/1Zr9aGFuHaJEjYzV3iL5m8) | [이태윤](https://open.spotify.com/artist/3P1mzkTihRGcLiQEQWqT64) | [WILD RABBIT](https://open.spotify.com/album/5W5xxXZVbND1ohELl3I0Iw) | 3:28 | 2022-05-22 | 2022-06-10 |
 | [Will Be Fine](https://open.spotify.com/track/1uvs4Iz1w5JJ7bVQOHRJ8C) | [Eru](https://open.spotify.com/artist/3mifQJuBZSvh5KRwRptZO0) | [Trilogy](https://open.spotify.com/album/3hLEZ6v2AKJS9IqIoLHqn3) | 4:30 | 2022-12-05 |  |
 | [Will I be able to love again?](https://open.spotify.com/track/6plPoVDY8WZqG0HHc7lXfq) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Will I be able to love again?](https://open.spotify.com/album/08Yq9DdLCdxymYMKhqqvGN) | 4:04 | 2022-05-05 | 2022-05-12 |

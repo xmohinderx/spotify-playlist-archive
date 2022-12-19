@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 
 > Los más pesados y polémicos del Regional Mexicano\. Los Tucanes de Tijuana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,564 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,755 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

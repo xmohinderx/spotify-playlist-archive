@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,188 likes - 92 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,838 likes - 92 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

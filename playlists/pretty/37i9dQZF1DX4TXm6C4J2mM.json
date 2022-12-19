@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156739,
+  "num_followers": 156737,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGEwZTY3YjkyMzgwYmFmMDhiNzcwY2JlZDQwZjUxODdh",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDFjNzZjYWUxNmFjYTc3OWRiN2ZmZjA1MDg0M2ZjMDM5",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 167307,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 167307,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Everywhere (feat. Maya Avedis)",
-        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
-      },
-      "artists": [
-        {
-          "name": "XO Cupid",
-          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
-        },
-        {
-          "name": "Maya Avedis",
-          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Everywhere (feat. Maya Avedis)",
-      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Make It To Heaven (with Raye)",
         "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 172380,
       "name": "Make It To Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Everywhere (feat. Maya Avedis)",
+        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
+      },
+      "artists": [
+        {
+          "name": "XO Cupid",
+          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
+        },
+        {
+          "name": "Maya Avedis",
+          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Everywhere (feat. Maya Avedis)",
+      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Tomorrow (feat. 433)",
+        "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "433",
+          "url": "https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Tomorrow (feat. 433)",
+      "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 134330,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Tomorrow (feat. 433)",
-        "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "433",
-          "url": "https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Tomorrow (feat. 433)",
-      "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Mockingbirds",
+        "url": "https://open.spotify.com/album/54FuSuln3w0ue9G6h4NnkV"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 189323,
+      "name": "Mockingbirds",
+      "url": "https://open.spotify.com/track/2kCojPXNP7FdHSkl7Eojkg"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 240383,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Mockingbirds",
-        "url": "https://open.spotify.com/album/54FuSuln3w0ue9G6h4NnkV"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 189323,
-      "name": "Mockingbirds",
-      "url": "https://open.spotify.com/track/2kCojPXNP7FdHSkl7Eojkg"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Wave (feat. Mike Sabath) [The Remixes]",
         "url": "https://open.spotify.com/album/72EUZdCcIBmbtn9uydakvF"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 193920,
       "name": "Wave (feat. Mike Sabath) - R3HAB Remix",
       "url": "https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1987,22 +1987,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Revival (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
+        "name": "Ones You Miss",
+        "url": "https://open.spotify.com/album/2CXzUowHtyuE6bDvnO47jB"
       },
       "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        },
         {
           "name": "R3HAB",
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Revival - R3HAB Remix",
-      "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
+      "duration_ms": 133669,
+      "name": "Ones You Miss",
+      "url": "https://open.spotify.com/track/2KzcmgRWwh7LsFskO706sS"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -2027,6 +2023,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Revival (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Revival - R3HAB Remix",
+      "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 137285,
       "name": "Home",
       "url": "https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Ones You Miss",
-        "url": "https://open.spotify.com/album/2CXzUowHtyuE6bDvnO47jB"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 133669,
-      "name": "Ones You Miss",
-      "url": "https://open.spotify.com/track/2KzcmgRWwh7LsFskO706sS"
     },
     {
       "added_at": "2022-11-10 23:00:00",

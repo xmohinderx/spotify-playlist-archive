@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 128354,
+  "num_followers": 128520,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDFiNzA5MGI5ODg3Zjk1OTAwNjNjYzNlYjQyYmViNTI1",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMGRhYjQyZmZkMjRmYjNmZDMwN2RlZDRmMDdlY2M0YTFl",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Y la cumbia se baila as\u00ed...",
+        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Y la cumbia se baila as\u00ed...",
-        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
       "artists": [
         {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
+      "duration_ms": 186874,
+      "name": "El Polvito del Amor",
+      "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "El Polvito del Amor",
-      "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Hawai",
-        "url": "https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw"
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
       },
       "artists": [
         {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 192482,
-      "name": "Hawai",
-      "url": "https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71"
+      "duration_ms": 256702,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "No Llores",
-        "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
+        "name": "Hawai",
+        "url": "https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw"
       },
       "artists": [
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
         }
       ],
-      "duration_ms": 256702,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
+      "duration_ms": 192482,
+      "name": "Hawai",
+      "url": "https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71"
     }
   ],
   "unique_name": "Cumbia y Romance",

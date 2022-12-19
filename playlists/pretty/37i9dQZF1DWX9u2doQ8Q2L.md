@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,187 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,255 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 59 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
 | 60 | [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 |
 | 61 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 |
-| 62 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 |
-| 63 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 |
+| 62 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 |
+| 63 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 |
 | 64 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 |
 | 65 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
-| 66 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
-| 67 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 |
-| 68 | [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 |
+| 66 | [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 |
+| 67 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
+| 68 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 |
 | 69 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
 | 70 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 |
 
-Snapshot ID: `MTY3MTExNjQwMCwwMDAwMDAwMDZjY2ExNzQyNGZhNjZiM2E2OTBiYmU0MzAzYzg5NDQ1`
+Snapshot ID: `MTY3MTExNjQwMCwwMDAwMDAwMDFiN2NjOWZkZjA1NmMxMGRhOWNlMWZmNDFmNzNlNmE0`

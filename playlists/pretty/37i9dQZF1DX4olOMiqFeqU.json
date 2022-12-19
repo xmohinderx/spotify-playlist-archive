@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2328963,
+  "num_followers": 2329437,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDA2OTY4Mzk3YjIyNjY3MzE2YzQ5MGVmYzIzMjgwNzBk",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDNhMzcwYWYyY2UzOTBiYTUwNGVlNTZhYWYwYjAwMThh",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Thyro & Yumi",
-        "url": "https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ"
-      },
-      "artists": [
-        {
-          "name": "Thyro",
-          "url": "https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V"
-        },
-        {
-          "name": "Yumi",
-          "url": "https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Kiss - Never Let Me Go",
-      "url": "https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Ngayong Gabi",
         "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 243653,
       "name": "Sundo",
       "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Thyro & Yumi",
+        "url": "https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ"
+      },
+      "artists": [
+        {
+          "name": "Thyro",
+          "url": "https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V"
+        },
+        {
+          "name": "Yumi",
+          "url": "https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Kiss - Never Let Me Go",
+      "url": "https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU"
     },
     {
       "added_at": "2022-09-20 08:13:43",

@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-649 songs - 1 day 13 hr 31 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+651 songs - 1 day 13 hr 39 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Feels Like Us](https://open.spotify.com/track/23Sr6e5e0JaqQNz1Dfl43h) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Feels Like Us](https://open.spotify.com/album/03bOzXgSC5E8NJCzvxqrQZ) | 3:21 | 2022-11-05 | 2022-11-12 |
 | [Find A Way](https://open.spotify.com/track/5THxirvtOzQQoUL9wLldgP) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Find A Way](https://open.spotify.com/album/1N2ao678nFxSdmM7hbTHzs) | 1:53 | 2022-09-09 | 2022-09-18 |
 | [Find Somebody](https://open.spotify.com/track/5MOBzkc7oEuv7Bzwj1LQ9K) | [GiddiBangBang](https://open.spotify.com/artist/4r159dgfxQvmRkg6XvfbjF), [Leo Smy](https://open.spotify.com/artist/2RO7zbK3vfjvxHIan8D3uB) | [Find Somebody](https://open.spotify.com/album/3Xz6QgbslmtlRmhM13hyme) | 3:21 | 2022-04-29 | 2022-05-14 |
+| [Fire Burnin](https://open.spotify.com/track/4PS6XOZo2xa3M0bGRq6Gvq) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Fire Burnin](https://open.spotify.com/album/2onKAKQjntD1O0veBbQzTK) | 3:48 | 2022-12-18 |  |
 | [Fire On My Feet](https://open.spotify.com/track/126A71xdNotkAXGSZhtgKD) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf) | [Fire On My Feet](https://open.spotify.com/album/7eGT3dSbXAQiY7Ufq5LCRN) | 2:59 | 2022-10-07 | 2022-10-15 |
 | [Florianopolis](https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Florianopolis](https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj) | 2:21 | 2022-09-17 | 2022-09-24 |
 | [FLYAAA](https://open.spotify.com/track/2fRisEvJKJurSVxUg1Lw0z) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Litterbox 12](https://open.spotify.com/album/6XSqMd6HwTAreAKbHMKan2) | 4:34 | 2022-06-03 | 2022-06-11 |
@@ -284,6 +285,7 @@
 | [In Chicago](https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [In Chicago](https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1) | 3:06 | 2022-05-13 | 2022-05-30 |
 | [In My Head](https://open.spotify.com/track/2U7ePu00JjIu04rLM0EZFn) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [In My Head](https://open.spotify.com/album/3P9NfGR1yGOkPdAU1ZJRRs) | 4:30 | 2022-05-29 | 2022-06-04 |
 | [In The Dark](https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [In The Dark](https://open.spotify.com/album/0jHCu9TvD0ZbfM2TlEbLqY) | 3:13 | 2022-09-17 | 2022-09-24 |
+| [In The Dash](https://open.spotify.com/track/1DpH7WEZOeKU1u2PlvYGfs) | [Ocean Roulette](https://open.spotify.com/artist/4eP4v7Dqre2Xh5RFp4UH9U) | [In The Dash](https://open.spotify.com/album/7C9ax851DPEGgv5Qa1K4KQ) | 3:42 | 2022-12-18 |  |
 | [In the End](https://open.spotify.com/track/6CsfNPLb4KVlgvlkiVezNX) | [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [In the End](https://open.spotify.com/album/19V7lLLgixuFYf7POiR01W) | 3:48 | 2022-12-02 | 2022-12-17 |
 | [In the End \- 2022 Remix](https://open.spotify.com/track/45iGRXCABRBECotYkb8rZH) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [In the End \(2022 Remix\)](https://open.spotify.com/album/1D6RsU0GVmD3oAIt4izM6z) | 4:07 | 2022-09-09 | 2022-09-18 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2022-11-11 | 2022-11-19 |

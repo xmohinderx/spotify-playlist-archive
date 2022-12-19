@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Liily
 
-1,033 songs - 2 day 6 hr 49 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+1,034 songs - 2 day 6 hr 53 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,8 @@
 | [Pretty Boy](https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Pretty Boy](https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx) | 4:55 | 2022-11-04 |  |
 | [Projector](https://open.spotify.com/track/0fUCMjWiCq5vyoLNyf5IQf) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Elsewhere](https://open.spotify.com/album/5bQTYnJyhbf2nCTpyTuTOD) | 3:12 | 2022-03-11 | 2022-05-28 |
 | [Projector](https://open.spotify.com/track/3gMptGImK6XHJhFuWwmqtE) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Projector](https://open.spotify.com/album/1ouxhpfQNDh5SoSIZCbCXb) | 3:12 | 2022-01-28 | 2022-02-19 |
-| [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 | 2022-11-25 |  |
+| [Promise](https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05) | 3:13 | 2022-12-16 |  |
+| [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 | 2022-11-25 | 2022-12-19 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-12 | 2022-10-22 |
 | [Psycho \(When I Wake Up\)](https://open.spotify.com/track/2WW9X7mc7lE8DbE4WbTNwI) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Psycho \(When I Wake Up\)](https://open.spotify.com/album/0Dy3T55bzxYvsND1rpYuLa) | 3:15 | 2022-02-11 | 2022-04-16 |
 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2022-07-22 | 2022-08-20 |

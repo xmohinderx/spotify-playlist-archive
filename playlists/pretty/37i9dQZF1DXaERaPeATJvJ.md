@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: The Brandals
+> Merayakan 21 tahun The Brandals bersama kumpulan katalog mereka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,453 likes - 101 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,461 likes - 101 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 100 | [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 |
 | 101 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 |
 
-Snapshot ID: `MTY3MTE2MzIwMCwwMDAwMDAwMGJlNDk1YmIxYjgwNGQ3MzM1NjM1YWQ3NmJiYWY2NmI1`
+Snapshot ID: `MTY3MTQwODcwOCwwMDAwMDAwMGE3YmJiMzJlMTM5MzI3Yzc1MTNjNDQ1ZjdmZDgzOWU0`

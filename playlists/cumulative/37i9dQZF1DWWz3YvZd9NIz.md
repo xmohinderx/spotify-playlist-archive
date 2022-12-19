@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-53 songs - 2 hr 49 min - not published yet
+54 songs - 2 hr 51 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Heaven \- DJ Isaac Remix](https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Heaven \(Remixes\)](https://open.spotify.com/album/7FamurxHc0oaPYDoQ6F3jF) | 3:18 | 2022-12-05 |  |
 | [Instagram \- Mandy Remix](https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Mandy](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Instagram \(The Remixes\)](https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1) | 4:29 | 2022-12-05 |  |
 | [Jackie Chan \- MANDY Remix](https://open.spotify.com/track/0NtJLfcKJcZpGrguDWCuga) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mandy](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Jackie Chan \(Remixes, Vol\. 2\)](https://open.spotify.com/album/2LfHj3QvCGowIeeSYWXLuA) | 3:00 | 2022-12-05 |  |
-| [Just Dance \(Hardstyle\)](https://open.spotify.com/track/37OKETEWvDL52jaxCUlOaF) | [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Just Dance \(Hardstyle\)](https://open.spotify.com/album/3KTVPuFQRIbtliBAsC7sA3) | 2:30 | 2022-12-05 |  |
+| [Just Dance \(Hardstyle\)](https://open.spotify.com/track/3O5nmXfS7o6FuEEmiNTWDz) | [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Just Dance \(Hardstyle\)](https://open.spotify.com/album/5iMaejRpMPquOG2YXVRPJ7) | 2:30 | 2022-12-16 |  |
+| [Just Dance \(Hardstyle\)](https://open.spotify.com/track/37OKETEWvDL52jaxCUlOaF) | [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Just Dance \(Hardstyle\)](https://open.spotify.com/album/3KTVPuFQRIbtliBAsC7sA3) | 2:30 | 2022-12-05 | 2022-12-19 |
 | [L'Amour Toujours \- Hardstyle Version](https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [L'Amour Toujours \(Hardstyle Version\)](https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5) | 2:49 | 2022-12-05 |  |
 | [La Colegiala](https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO) | 3:23 | 2022-12-05 |  |
 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 | 2022-12-05 |  |

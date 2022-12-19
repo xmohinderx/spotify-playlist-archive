@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from FLO, SZA, Mike Dimes, Metro Boomin, PinkPantheress, UMI, and OG Ron C
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,914 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,993 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 10 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 | 11 | [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 |
 | 12 | [Face 2 Face](https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Face 2 Face](https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh) | 2:04 |
-| 13 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
+| 13 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 | 14 | [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 |
 | 15 | [Get The Gat](https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Get The Gat](https://open.spotify.com/album/48THGiijGql0YItnekn1C8) | 2:12 |
 | 16 | [When You Bad Like That \(feat\. Future\)](https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 3:10 |
@@ -100,11 +100,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 90 | [Chiraq](https://open.spotify.com/track/0noJPiJ7nLUrh0oPWhZK2f) | [KB Mike](https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY) | [Chiraq](https://open.spotify.com/album/5lHcFqzArUef00Mttol0tO) | 3:33 |
 | 91 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 92 | [PAIN!](https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [PAIN!](https://open.spotify.com/album/7lxeegF1y69PXsUXWiLVvf) | 1:38 |
-| 93 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 |
+| 93 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 |
 | 94 | [Diamond Reaction \(feat\. Sauce Walka\)](https://open.spotify.com/track/0G30B6K8UNsMdLu3LTkmZy) | [Sauce WoodWinnin](https://open.spotify.com/artist/0KM3PbxAgPusbo0DqhoiJa), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Diamond Reaction \(feat\. Sauce Walka\)](https://open.spotify.com/album/0ypldIIPNftxbjkqlE8hwX) | 4:27 |
 | 95 | [Backpack](https://open.spotify.com/track/7ueKWTuprdY9DLMgkOynPx) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [VER](https://open.spotify.com/album/42z63pz06b9oyygHj4qajG) | 3:20 |
 | 96 | [One Time \(feat\. Jeezy\)](https://open.spotify.com/track/4tKDqeQ3ncq5o5TSWfqF6r) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [One Time \(feat\. Jeezy\)](https://open.spotify.com/album/271gGCV1AglrQLAr1VsiAx) | 2:46 |
 | 97 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 |
 | 98 | [Underrated](https://open.spotify.com/track/3WT6yVyFwS38gGiftAG8qv) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Underrated](https://open.spotify.com/album/21SdIqju7srs1SNntOX9Jq) | 3:45 |
 
-Snapshot ID: `MTY3MTE2NzY1NCwwMDAwMDAwMGNlZmUyYzk0ZGFkZDMzMGQ3YjE5ODBhZDljYjJlYTJh`
+Snapshot ID: `MTY3MTE2NzY1NCwwMDAwMDAwMDFhYzhmYTY4NGQyN2YzOWUwMzA5NTE3NTEzODgwNWEy`

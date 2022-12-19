@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 8806,
+  "num_followers": 8837,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxODI3MCwwMDAwMDAwMDU0YzBkMzc1N2RkMjJiMDMzYzcxMmNkMzVhZTcwYzhh",
+  "snapshot_id": "MTY3MDkxODI3MCwwMDAwMDAwMDZhMDhkODI2MGFmMzg4Zjk5NTc4MTg3MjIwNGMwNDli",
   "tracks": [
     {
       "added_at": "2022-12-09 04:07:59",
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2022-12-18 01:25:05",
+      "added_at": "2022-12-19 01:21:15",
       "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 237030,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
         "name": "I LUV U (with Mirani)",
         "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 235197,
       "name": "I LUV U (with Mirani)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2022-12-09 04:07:59",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-09 04:07:59",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 182313,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
-    },
-    {
-      "added_at": "2022-12-09 04:07:59",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
+    },
+    {
+      "added_at": "2022-12-09 04:07:59",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "added_at": "2022-12-09 04:07:59",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,053 songs - 2 day 8 hr 58 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+1,054 songs - 2 day 9 hr 0 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [Ram Ram](https://open.spotify.com/track/74dYOYy441TqKUwQ5VQPpO) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/0hf3YfPgRE0WfJ2CM7FvBD) | 3:33 | 2022-11-07 | 2022-11-13 |
 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 | 2022-06-28 | 2022-07-20 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-14 | 2022-06-08 |
+| [Renaissance \(Main Title Theme\) \- from "The White Lotus: Season 2"](https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:38 | 2022-12-18 |  |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-04-12 | 2022-04-20 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-29 | 2022-12-06 |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-07-19 | 2022-07-27 |
@@ -1026,8 +1027,8 @@
 | [Wildberry Lillet](https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wildberry Lillet](https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme) | 2:12 | 2022-09-08 | 2022-09-25 |
 | [Wir sagen danke schön \- DAS ORIGINAL](https://open.spotify.com/track/5oCCVPPduu3KNtf9wRo1eV) | [Die Flippers](https://open.spotify.com/artist/043PrBIjao3PCKicMRvbgf) | [Wir sagen danke schön \(HBz & Raphael Maier Remix\)](https://open.spotify.com/album/5qtSRxNSaDjPJCDTpVOxoW) | 3:25 | 2022-07-13 | 2022-07-20 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-17 | 2022-06-01 |
-| [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-29 |  |
-| [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-25 |  |
+| [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-29 | 2022-12-19 |
+| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-25 |  |
 | [Wrecking Ball](https://open.spotify.com/track/0AhsYyKYi2J6w9rqP93DSe) | [Midnite String Quartet](https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:53 | 2022-04-19 | 2022-04-27 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-01-04 | 2022-01-19 |
 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 | 2022-06-22 | 2022-07-14 |

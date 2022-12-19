@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,251 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,288 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 100 | [Slow Motion](https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g) | 2:46 |
 | 101 | [Tangie Groove](https://open.spotify.com/track/4xPrmPQ3TAQxenYhD4FsPG) | [Dustin Zahn](https://open.spotify.com/artist/6ScDJaxsDqmtEB0CZY3WAC) | [Gain of Function](https://open.spotify.com/album/5vfRRk9MSoB2Dx0VEv1mg5) | 6:11 |
 | 102 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 |
-| 103 | [Styling Gel](https://open.spotify.com/track/0Q160nvCyoP642P1fRqKLq) | [Digital Sham](https://open.spotify.com/artist/79GEm4uIUnZCUeUQcjdSSd) | [Styling Gel Riddim](https://open.spotify.com/album/0bYJagTJKlkaOvhWbXk2eK) | 2:12 |
+| 103 | [Styling Gel](https://open.spotify.com/track/1iwOozBpwY1YDeTCs6d9Xg) | [Digital Sham](https://open.spotify.com/artist/79GEm4uIUnZCUeUQcjdSSd) | [Styling Gel Riddim](https://open.spotify.com/album/4QKPjRh7d3IVkfAK6CiQhV) | 2:12 |
 | 104 | [Destiny](https://open.spotify.com/track/6ILPdvRmMBHFonYRKsnF65) | [Gvijin](https://open.spotify.com/artist/6vavGPmlW0bm7Htzd42d3M) | [Destiny](https://open.spotify.com/album/1guESfM73dMQ6D6UmDCUdx) | 1:56 |
 | 105 | [One Spliff A Day](https://open.spotify.com/track/1w7aWiib4kZ7vF34RHVPhE) | [Billy Boyo](https://open.spotify.com/artist/02QS4GibrL7zDnqe4OWWeu) | [One Spliff A Day](https://open.spotify.com/album/42Z8YPMCJP83v0gojP2ezn) | 3:09 |
 | 106 | [Dats Gadzilla](https://open.spotify.com/track/3rDVSylvnEbqIQoZ7mAiHc) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Dats Gadzilla](https://open.spotify.com/album/0DmqZPBWat944nB0vuvWRN) | 3:27 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 161 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 |
 | 162 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 
-Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDRiYjViZGRlYjUxZjA5Y2MwNjU1NDAwYWMzNDcyMGQ4`
+Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDU2OThjYTZiNzQ1YmNkYTMyZDlhNGJhYjIwZDIwMDk1`

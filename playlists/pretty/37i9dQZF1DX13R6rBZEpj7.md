@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,859 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,943 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 31 | [Behind the Scenes](https://open.spotify.com/track/20tM3OtYXmpUtoZjFnmO1b) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Behind the Scenes / Reeces Pieces](https://open.spotify.com/album/7ygR5BaUAeQuCOWd1IMdZp) | 4:42 |
 | 32 | [Shutdown](https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Shutdown](https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT) | 3:43 |
 | 33 | [Only You](https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U) | 3:36 |
-| 34 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 |
-| 35 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
+| 34 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
+| 35 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 |
 | 36 | [Again](https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Again](https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd) | 3:51 |
 | 37 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
 | 38 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 62 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 |
 | 63 | [Anything](https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Anything](https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy) | 4:43 |
 | 64 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
-| 65 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 |
-| 66 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 |
-| 67 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
+| 65 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
+| 66 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 |
+| 67 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 |
 | 68 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
 | 69 | [Got A Groove](https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy) | [Got A Groove](https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd) | 4:31 |
 | 70 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
 
-Snapshot ID: `MTY2OTM5MzAyNSwwMDAwMDAwMGFlZWY0NWQ0ODBkYWVjY2EzZThmYzk2ZDkyYmRjMjM3`
+Snapshot ID: `MTY2OTM5MzAyNSwwMDAwMDAwMGQ1N2ZmY2QwODY4Y2Y3MTY0NjFiMTM1ZmMyMWYwZTNl`

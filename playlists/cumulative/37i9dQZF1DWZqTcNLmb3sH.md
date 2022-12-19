@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-464 songs - 1 day 4 hr 41 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+465 songs - 1 day 4 hr 44 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Bharjari Gandu Theme Music](https://open.spotify.com/track/7MFWWJjptqF9OxPfsO1bHR) | [Na](https://open.spotify.com/artist/0ux3yRco8mXkh8nc24I4Ia) | [Bharjari Gandu](https://open.spotify.com/album/7jSd91bZuPwk5NyukcqnZ4) | 1:27 | 2022-06-13 |  |
 | [Bhorgaredu](https://open.spotify.com/track/1Nj2qdyNBeHC5ADAd5oNby) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Love 360](https://open.spotify.com/album/29e5ElrOjoBpJRCx0uYEvw) | 2:21 | 2022-07-21 | 2022-11-23 |
 | [Biddalappo \(From "Family Pack"\)](https://open.spotify.com/track/0HSpFU4C66a8btQtPhDo9p) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [Chintan Vikas](https://open.spotify.com/artist/6h6Iie2GsKWKWKqbe80nEL) | [Biddalappo \(From "Family Pack"\)](https://open.spotify.com/album/1LV06666sX2qQpfdOqYspP) | 4:12 | 2022-02-16 | 2022-05-19 |
+| [Bombe Bombe \(From "Kranti"\)](https://open.spotify.com/track/5R4ZLze526WkAvN6WXiFWY) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [V\. Hari Krishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Bombe Bombe \(From "Kranti"\)](https://open.spotify.com/album/6hiv8sfiz4NeaBsWPokxd1) | 3:27 | 2022-12-18 |  |
 | [Bonding Song \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/track/35N6FryV4Fgs9I7f7uHRGD) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s) | [Bonding Song \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/album/0qtKUl9U99V2UeEF4rXbbE) | 4:28 | 2022-06-27 | 2022-07-25 |
 | [Bytwo Bytwo](https://open.spotify.com/track/56Csmh7GKj0iQf5GIAjLCo) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Bytwo Love](https://open.spotify.com/album/702fK0WHGmVF9bou7A6KLI) | 3:20 | 2022-02-15 | 2022-05-19 |
 | [Chaachi](https://open.spotify.com/track/0PK9mg3KsSzGnEIfiG7ADw) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Chaachi \- Shyam singha Roy\-Kannada](https://open.spotify.com/album/2Ikt1kg9coIDKKgAioNB50) | 2:51 | 2021-12-23 | 2022-02-03 |

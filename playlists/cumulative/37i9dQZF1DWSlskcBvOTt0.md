@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-343 songs - 1 day 11 hr 44 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+344 songs - 1 day 11 hr 50 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-09-10 |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
-| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 |  |
+| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2022-12-19 |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 |  |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 |  |
@@ -262,6 +262,7 @@
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 | 2022-11-13 |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |
+| [REMIND ME \- Booka Shade Remix](https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [REMIND ME \(Booka Shade Remix\)](https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu) | 5:53 | 2022-12-16 |  |
 | [Resolution](https://open.spotify.com/track/6c7l5dP10UTpi38lOImXmn) | [Terrence Dixon](https://open.spotify.com/artist/78x5Xzi7CUmQZtZfFYBK9m) | [Resolution](https://open.spotify.com/album/67fAsXuH8nzpde7nXpUcy3) | 5:31 | 2022-07-01 | 2022-07-14 |
 | [Reverie](https://open.spotify.com/track/2uMk69vfb7CPBysXCfwmdq) | [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Decameron Volume I](https://open.spotify.com/album/070a9uNdIb8yNw9jrGGWJe) | 6:50 | 2021-05-26 | 2022-04-21 |
 | [Ronaparde](https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ronaparde](https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J) | 6:57 | 2022-09-16 | 2022-10-20 |

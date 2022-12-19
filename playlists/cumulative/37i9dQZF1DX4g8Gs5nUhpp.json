@@ -258,6 +258,24 @@
     },
     {
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Bo X\u00ec Bo",
+      "url": "https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC"
+    },
+    {
+      "album": {
         "name": "B\u00ean Tr\u00ean T\u1ea7ng L\u1ea7u",
         "url": "https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG"
       },
@@ -269,7 +287,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 184000,
       "name": "B\u00ean Tr\u00ean T\u1ea7ng L\u1ea7u",
       "url": "https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf"
@@ -555,7 +573,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 223857,
       "name": "C\u00f3 Ch\u01a1i C\u00f3 Ch\u1ecbu",
       "url": "https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 215908,
       "name": "C\u00f3 Kh\u00f4ng Gi\u1eef M\u1ea5t \u0110\u1eebng T\u00ecm",
       "url": "https://open.spotify.com/track/04bm7NsIhRfTlLGDoKMEw8"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 263362,
       "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
       "url": "https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 185000,
       "name": "D\u1ecbu D\u00e0ng Em \u0110\u1ebfn",
       "url": "https://open.spotify.com/track/63q4o5Nh1ykbhdo4rKEW9c"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 217500,
       "name": "Forget About Her",
       "url": "https://open.spotify.com/track/5kJMW3pK49PvQDtpVryHf5"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 273061,
       "name": "N\u1ebfu Anh L\u00e0 Em (feat. H\u1ee9a Kim Tuy\u1ec1n)",
       "url": "https://open.spotify.com/track/1G9gGCq1i7smFoaNnAdt8f"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 202241,
       "name": "qu\u00fd c\u00f4 say x\u1ec9n (secret sunday)",
       "url": "https://open.spotify.com/track/5MkTNoZ8xaMZYh1XMwAPtA"

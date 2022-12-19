@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,476 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,608 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 66 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
 | 67 | [Face 2 Face](https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR) | [Silk Rhodes](https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY) | [Silk Rhodes](https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr) | 2:25 |
 | 68 | [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 |
-| 69 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
-| 70 | [Get It Right](https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 6:15 |
+| 69 | [Get It Right](https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 6:15 |
+| 70 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
 | 71 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
 | 72 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 |
 | 73 | [Heaven of My Life \- Full Length Album Mix](https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Miracles \(Original Album and Rare Tracks\)](https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r) | 5:38 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 92 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
 | 93 | [Family \- Stereo Version](https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX) | [Hubert Laws](https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv) | [Family](https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW) | 7:33 |
 | 94 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
-| 95 | [Classy Lady \- Remastered Version](https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Paradise \(Remastered\)](https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3) | 5:31 |
-| 96 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
+| 95 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
+| 96 | [Classy Lady \- Remastered Version](https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Paradise \(Remastered\)](https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3) | 5:31 |
 | 97 | [Do It Do It Disco \(Tom Noble Remix\)](https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt) | [Myron & E](https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj), [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF) | [Do It Do It Disco](https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q) | 5:50 |
 | 98 | [Lypso Illusion](https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n) | 4:44 |
 | 99 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2) | 3:49 |
 | 100 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 
-Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMDJiODE4YTY4MmVjYTBlMjJhZWZkZTU4YjUyYzU5NmUz`
+Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMDVlMTQ3YjIwNGMwNmUyNjFjNGRmYWMzOTI4MDM0ZTRi`

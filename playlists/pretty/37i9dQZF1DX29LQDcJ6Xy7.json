@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 245242,
+  "num_followers": 245397,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGIxYTAzZDcwZGI5NTM1MmZiZDM5ZThlOTE2ZDI1ZDIx",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGZkNmE0MzgzZDVjMGE3NGI0NWJmY2E5Mzk1MGQwMTM3",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bites",
-        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
-      },
-      "artists": [
-        {
-          "name": "Skinny Puppy",
-          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
-        }
-      ],
-      "duration_ms": 416706,
-      "name": "Assimilate",
-      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Yggdrasil",
         "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
       },
@@ -859,18 +843,34 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Gravity Kills",
-        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
+        "name": "Bites",
+        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
       },
       "artists": [
         {
-          "name": "Gravity Kills",
-          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
+      "duration_ms": 416706,
+      "name": "Assimilate",
+      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Killing Joke",
-        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+        "name": "Gravity Kills",
+        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
       },
       "artists": [
         {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+          "name": "Gravity Kills",
+          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
         }
       ],
-      "duration_ms": 415160,
-      "name": "The Death & Resurrection Show",
-      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
+      "duration_ms": 242026,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Lakes of Flame",
-        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
-      },
-      "artists": [
-        {
-          "name": "Blue Stahli",
-          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
-        }
-      ],
-      "duration_ms": 218203,
-      "name": "Lakes of Flame",
-      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Ofelia",
         "url": "https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188613,
       "name": "Ofelia",
       "url": "https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lakes of Flame",
+        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
+      },
+      "artists": [
+        {
+          "name": "Blue Stahli",
+          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
+        }
+      ],
+      "duration_ms": 218203,
+      "name": "Lakes of Flame",
+      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Disobey (Disruptor Remix)",
-        "url": "https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Disobey - Disruptor Remix",
-      "url": "https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 213306,
       "name": "Native Intellligence - Ghostemane Natural Selection Remix",
       "url": "https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Disobey (Disruptor Remix)",
+        "url": "https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Disobey - Disruptor Remix",
+      "url": "https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 243400,
       "name": "End Of The Line",
       "url": "https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
+      },
+      "artists": [
+        {
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2022-12-16 05:00:00",

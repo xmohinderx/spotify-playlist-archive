@@ -1,12 +1,12 @@
 {
   "description": "The essential indie dance, featuring Biig Piig.",
-  "num_followers": 820973,
+  "num_followers": 821115,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDc0Y2NjY2U1ODVlNjE1ZjUzYzM3M2Y0N2Q0OWViMTEz",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMGQ5YTFhMzczNDdlOWJlNDU4Y2YxMWZjZDdmOGJmMzg5",
   "tracks": [
     {
       "added_at": "2022-10-05 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 245120,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2022-10-05 04:00:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
     },
     {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Tantrum (Pace Yourself)",
+        "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 123795,
+      "name": "Tantrum (Pace Yourself)",
+      "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "More Content",
@@ -991,18 +1007,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "Passion (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
       },
       "artists": [
         {
           "name": "Roosevelt",
           "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+      "duration_ms": 221135,
+      "name": "Passion (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1089,6 +1109,22 @@
       "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
       "added_at": "2022-10-05 04:00:00",
       "album": {
         "name": "To Feel Again / Trois",
@@ -1115,6 +1151,26 @@
       "duration_ms": 293489,
       "name": "To Feel Again / Trois",
       "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Better Now (feat. MARO)",
+        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 194110,
+      "name": "Better Now (feat. MARO)",
+      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1155,26 +1211,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Passion (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "Passion (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
       },
@@ -1207,26 +1243,6 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Better Now (feat. MARO)",
-        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 194110,
-      "name": "Better Now (feat. MARO)",
-      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1287,6 +1303,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Luv Like",
+        "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 186025,
+      "name": "Luv Like",
+      "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Time Is Mine",
         "url": "https://open.spotify.com/album/1TPWBqLB1wLkDTWpoWLHp2"
       },
@@ -1303,22 +1335,6 @@
       "duration_ms": 169246,
       "name": "Time Is Mine",
       "url": "https://open.spotify.com/track/7qohJZZBpGDUHuUozqAwoS"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Luv Like",
-        "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 186025,
-      "name": "Luv Like",
-      "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1415,18 +1431,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "When the Lights Go",
-        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 247327,
-      "name": "Be with You",
-      "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1447,6 +1467,22 @@
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1471,22 +1507,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Bang My Line (feat. Tkay Maidza)",
-        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 153500,
-      "name": "Bang My Line (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+      "duration_ms": 247327,
+      "name": "Be with You",
+      "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1509,22 +1541,6 @@
       "url": "https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV"
     },
     {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Tantrum (Pace Yourself)",
-        "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 123795,
-      "name": "Tantrum (Pace Yourself)",
-      "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Love Brand New",
@@ -1539,22 +1555,6 @@
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
         "url": "https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd"
       },
@@ -1611,26 +1627,6 @@
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Blutooth / enough 4 u",
-        "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Blutooth",
-      "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1655,6 +1651,26 @@
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Blutooth / enough 4 u",
+        "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Blutooth",
+      "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1687,6 +1703,22 @@
       "duration_ms": 303124,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Time Goes",
+        "url": "https://open.spotify.com/album/1xZ30qOn73zk72fAYOxlFx"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 217889,
+      "name": "Time Goes",
+      "url": "https://open.spotify.com/track/6E7c0mIj5hJwAyi0BS8eYY"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1727,22 +1759,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Time Goes",
-        "url": "https://open.spotify.com/album/1xZ30qOn73zk72fAYOxlFx"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 217889,
-      "name": "Time Goes",
-      "url": "https://open.spotify.com/track/6E7c0mIj5hJwAyi0BS8eYY"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 200213,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 239846,
-      "name": "Never Gonna Stop",
-      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "TEMPO",
-        "url": "https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu"
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
       "artists": [
         {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 239274,
-      "name": "TEMPO",
-      "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
+      "duration_ms": 239846,
+      "name": "Never Gonna Stop",
+      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
     }
   ],
   "unique_name": "metropolis",

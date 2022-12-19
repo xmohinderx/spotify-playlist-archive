@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,285 likes - 63 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,307 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 46 | [I Want You](https://open.spotify.com/track/2tbEVt14awDrNoI8Llckaf) | [Australian Blonde](https://open.spotify.com/artist/5jbvTNkLBE4W1wQlDzHgxU) | [Pizza Pop](https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df) | 3:03 |
 | 47 | [La poupée](https://open.spotify.com/track/1glzpd9mGcAtbaRdQQCwgc) | [Les Très Bien Ensemble](https://open.spotify.com/artist/5VcYEhHwtZTgZIFW5JcQwh) | [Doux\-amer](https://open.spotify.com/album/6rieFXTklVah8JAwKS2BRl) | 3:20 |
 | 48 | [La Deriva](https://open.spotify.com/track/3yAVc9zsc742nCxO8mDB8T) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [La Deriva](https://open.spotify.com/album/4xqm8AbqzESFwCZlEPdYjr) | 3:39 |
-| 49 | [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 |
+| 49 | [Ti Amo](https://open.spotify.com/track/5Mtx78lRs3S62t6JaGqWPR) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [GLORIA FOREVER Il Tour](https://open.spotify.com/album/6zYWcL99HKx07mzlNzS87E) | 4:05 |
 | 50 | [Te Estoy Amando Locamente](https://open.spotify.com/track/5QfmCmdL4qnzqMz5Z0gvzV) | [Las Grecas](https://open.spotify.com/artist/5sWCGfIxmNiMAl6n8kdbkb) | [Te Estoy Amando Locamente](https://open.spotify.com/album/2NpRaaZ6Hi7Y5GqWeLwGqH) | 3:11 |
 | 51 | [Maskenfreiheit](https://open.spotify.com/track/0EeTWwqWaHQbtENvvlYP60) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Render Me Numb, Trivial Violence](https://open.spotify.com/album/7yWIwU3osgvIKa3dJcgrmE) | 3:00 |
 | 52 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 62 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 63 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 |
 
-Snapshot ID: `MTY1Mjc5OTE2OCwwMDAwMDAwMDM2Mzc4NjY3MDU5NmZkNGI2M2U4NDIxMTFkZmE2NDJk`
+Snapshot ID: `MTY1Mjc5OTE2OCwwMDAwMDAwMGFmOWZhNDExOTc2NDUwMjkzNTBlN2JmZmMzZWFlY2Qz`

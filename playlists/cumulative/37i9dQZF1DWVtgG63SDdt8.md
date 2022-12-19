@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Jekalyn Carr
 
-2,275 songs - 6 day 11 hr 15 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
+2,276 songs - 6 day 11 hr 19 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Future Years](https://open.spotify.com/track/1GGCr7uhBK50in9EwV5yqM) | [Jonathan David Middleton](https://open.spotify.com/artist/3sVONkahZrlRA1ITNOn6ZD) | [Future Years](https://open.spotify.com/album/4RwNg0DygepaMQtRPBygG7) | 4:35 | 2022-04-22 | 2022-05-07 |
 | [G.O.O.D.](https://open.spotify.com/track/2JcnzpAxvUCnLFuvFwQmoY) | [Anthony Hall](https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Friendsgiving](https://open.spotify.com/album/33RwrKDY5MyrPO2SxQmjKe) | 3:20 | 2022-11-18 | 2022-12-17 |
 | [GAIN](https://open.spotify.com/track/3sOqgK6crTwGqfHBq8NUpB) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [GAIN](https://open.spotify.com/album/58lg6PtkeEDrBYu8pJti1A) | 6:00 | 2022-12-02 | 2022-12-17 |
+| [Get Here](https://open.spotify.com/track/0BhI21rRK2BGQQgtImDjaN) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S) | [Carols of Love and Healing](https://open.spotify.com/album/2H9SzbhNWwAaZJ6g61kfo8) | 3:21 | 2022-12-16 |  |
 | [Get to Me](https://open.spotify.com/track/7GkAQmgom9NT1yXyzlKkDW) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Get to Me](https://open.spotify.com/album/3UwdDxduUTUbWjtaxrNdqP) | 3:18 | 2022-11-04 | 2022-11-11 |
 | [Get to Me](https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Get to Me](https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y) | 3:18 | 2022-11-04 | 2022-11-19 |
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2022-06-10 | 2022-06-18 |
@@ -712,7 +713,7 @@
 | [Greater \- Live](https://open.spotify.com/track/5rO4Fvr6SYTYcFYAxgfVtf) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj), [Eddie Neblett](https://open.spotify.com/artist/0QpmjiTNZkUsu3rAXklFOx) | [Big God Great King \(Live\)](https://open.spotify.com/album/0poIQBMK3bq4X3cU3TS9RR) | 6:12 | 2022-03-04 | 2022-03-18 |
 | [Greater \- Live](https://open.spotify.com/track/0AmYeA2gUXqeduh4srUqaq) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Greater \(Live\)](https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u) | 3:35 | 2022-09-02 | 2022-09-17 |
 | [Greater is the Blood](https://open.spotify.com/track/4xUZrneYGiwwBEzFWhZiB9) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Greater is the Blood](https://open.spotify.com/album/0671ivK4q1hfduVDwEpSRs) | 3:51 | 2022-06-10 | 2022-06-18 |
-| [Greatest Gift](https://open.spotify.com/track/4XILA0f0D9n7ljKJRLQ1iR) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [QEW](https://open.spotify.com/artist/7GJBelg5G2JgssKWZtoJq7) | [Greatest Gift](https://open.spotify.com/album/4oo36uUdo5nKx6SMPDP0FI) | 3:08 | 2022-12-16 |  |
+| [Greatest Gift](https://open.spotify.com/track/4XILA0f0D9n7ljKJRLQ1iR) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [QEW](https://open.spotify.com/artist/7GJBelg5G2JgssKWZtoJq7) | [Greatest Gift](https://open.spotify.com/album/4oo36uUdo5nKx6SMPDP0FI) | 3:08 | 2022-12-16 | 2022-12-19 |
 | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-09-30 | 2022-10-15 |
 | [Grounded](https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Erica Bostick](https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn) | [Amidst](https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL) | 4:00 | 2022-04-08 | 2022-04-23 |
 | [Growing Pains](https://open.spotify.com/track/7AS4QfVE36kemDghmTbJaj) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/7fRMtIRU0irBhCD4rb4KrV) | 3:50 | 2022-03-25 | 2022-04-16 |

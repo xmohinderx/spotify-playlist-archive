@@ -4,10 +4,11 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/2tdkSOsMZpMwyOVfvOGj24)
+67 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/2tdkSOsMZpMwyOVfvOGj24)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [30 Blindadas](https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Blindadas](https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG) | 2:06 | 2022-12-18 |  |
 | [70 Calaveras](https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Principio Y El Fin](https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH) | 3:02 | 2022-06-01 |  |
 | [70 Calaveras \- En Vivo](https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [70 Calaveras \(En Vivo\)](https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe) | 2:49 | 2022-11-26 |  |
 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 | 2022-06-01 |  |
@@ -19,7 +20,7 @@
 | [Corazon Usado](https://open.spotify.com/track/7I0Au2N8kqs97u8fUHCXl7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Homenaje A Lalo El Gallo](https://open.spotify.com/album/7sL1ypN2RxNzW7lNJKPWFw) | 2:55 | 2022-06-01 | 2022-10-13 |
 | [Corrido De Alfredo Beltrán](https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:49 | 2022-06-01 |  |
 | [Cruz de Madera \- Guitarras](https://open.spotify.com/track/6Fzqn6QjyvkodVvC2ERiUm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Homenaje a Miguel y Miguel](https://open.spotify.com/album/55ylrtjB0x8yJJHb9HOwX5) | 3:40 | 2022-06-01 | 2022-10-13 |
-| [De Tu Oído A Tu Ombligo](https://open.spotify.com/track/6fRf2VxMjBMtSGD7j0ienu) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sangre Guerrera](https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR) | 3:09 | 2022-06-01 |  |
+| [De Tu Oído A Tu Ombligo](https://open.spotify.com/track/6fRf2VxMjBMtSGD7j0ienu) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sangre Guerrera](https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR) | 3:09 | 2022-06-01 | 2022-12-19 |
 | [Del 1 Al 10](https://open.spotify.com/track/0u3y6hlc0KncC6xBnm648F) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Los Plebes del Rancho](https://open.spotify.com/artist/2I2kAQzySYBAvqM4XltnUB) | [Del 1 Al 10](https://open.spotify.com/album/5bo7EIf3DAxYlnmOOM2rcR) | 2:55 | 2022-10-09 | 2022-10-31 |
 | [Dichos Y Grandes](https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dichos Y Grandes](https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf) | 3:18 | 2022-06-01 |  |
 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 | 2022-06-01 |  |

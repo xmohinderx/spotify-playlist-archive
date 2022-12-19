@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 40136,
+  "num_followers": 40208,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0NjQ3OSwwMDAwMDAwMDcwOWQ2OWQzM2FmYzUzN2E3ZTA0ODkxNDcwODgyYjJm",
+  "snapshot_id": "MTY2OTY0NjQ3OSwwMDAwMDAwMDQwZGRhZGQ3OWVkYWIxZThkYmU4MTU4OWY2NDZlNDUy",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Sleep Deprivation",
-        "url": "https://open.spotify.com/album/4ppwp26lKTKqRGE70HzlOd"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 155660,
-      "name": "Sleep Deprivation",
-      "url": "https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Sleep Deprivation",
+        "url": "https://open.spotify.com/album/4ppwp26lKTKqRGE70HzlOd"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 155660,
+      "name": "Sleep Deprivation",
+      "url": "https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 141796,
+      "name": "14",
+      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 177720,
       "name": "All Is Well (feat. Joy Williams)",
       "url": "https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 141796,
-      "name": "14",
-      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1421,7 +1421,23 @@
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
     },
     {
-      "added_at": "2022-12-18 00:19:52",
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+    },
+    {
+      "added_at": "2022-12-19 00:19:04",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt"
@@ -1439,22 +1455,6 @@
       "duration_ms": 196639,
       "name": "You",
       "url": "https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "A Good Love, Pt. 2",
         "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 213556,
       "name": "A Good Love, Pt. 2",
       "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Dark River",
         "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 223733,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

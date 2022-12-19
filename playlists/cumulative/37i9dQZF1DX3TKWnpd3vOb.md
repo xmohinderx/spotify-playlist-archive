@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-217 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+218 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [La Libertad Absoluta y el Terror](https://open.spotify.com/track/0VvDqUV0iYW93tl0neTXu1) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Victoria](https://open.spotify.com/album/2tUA7PMKfRfb7xxk8E5hUV) | 4:19 | 2022-04-08 | 2022-12-17 |
 | [La Lógica de lo Incierto](https://open.spotify.com/track/6C1Ruv5uBST7eo52BUGTvz) | [Pulmón](https://open.spotify.com/artist/4repoujJm9DMrwgtasadzY) | [La Lógica de lo Incierto](https://open.spotify.com/album/5r7i03BY8ywqp72Kw988OG) | 3:55 | 2022-04-08 | 2022-07-26 |
 | [La Manera Correcta](https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I) | [Gonzalo Yañez](https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA) | [La Manera Correcta](https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx) | 3:23 | 2022-04-08 |  |
+| [La Noche de la Iguana](https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1) | [Témpera](https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g) | [La Noche de la Iguana](https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L) | 2:59 | 2022-12-16 |  |
 | [La Novedad](https://open.spotify.com/track/02DS1pkoxKdTjwjGy2GM9C) | [Tus Amigos Nuevos](https://open.spotify.com/artist/4dqL8obu05HTocAZNPJvfc) | [Triunfo Moral](https://open.spotify.com/album/3hL8HprnZ9Ser3xyDKyOYU) | 3:54 | 2022-04-08 | 2022-07-29 |
 | [La Novedad](https://open.spotify.com/track/2z2tGCCNAV3NQvBbFgiOie) | [Tus Amigos Nuevos](https://open.spotify.com/artist/4dqL8obu05HTocAZNPJvfc) | [Triunfo Moral](https://open.spotify.com/album/7e9za5TuvLECmLnUDmUjq7) | 3:54 | 2022-07-08 | 2022-12-17 |
 | [La Resistencia](https://open.spotify.com/track/6WVirUv3nsEd5Yzv49VhrQ) | [Aeroplan!](https://open.spotify.com/artist/5GEK0mkhlKA30kNfom98YV) | [La Resistencia](https://open.spotify.com/album/2uv2SNhV9Xc4Q0tm7eo69F) | 4:28 | 2022-04-08 | 2022-07-20 |
@@ -181,7 +182,7 @@
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-04-08 |  |
 | [Sociedad Capital](https://open.spotify.com/track/2ONPbjbmgkLt7c1yoW0fU5) | [Yosef Salvo](https://open.spotify.com/artist/27w1PE4zUCZPHqRXnoyTRc) | [Sociedad Capital](https://open.spotify.com/album/3Z19V0sgumnxc8phk6LAKQ) | 3:05 | 2022-04-08 |  |
 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 | 2022-04-08 | 2022-07-27 |
-| [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 | 2022-04-08 |  |
+| [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 | 2022-04-08 | 2022-12-19 |
 | [Sombras](https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Sombras](https://open.spotify.com/album/489Zh5KhMDcsJsbmiUlSIe) | 3:53 | 2022-04-08 |  |
 | [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 | 2022-04-08 | 2022-07-05 |
 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 | 2022-04-08 |  |
@@ -213,12 +214,12 @@
 | [Ven Aquí](https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:37 | 2022-07-08 | 2022-12-17 |
 | [Vete](https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Mil Caminos](https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID) | 3:54 | 2022-04-08 | 2022-12-17 |
 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 | 2022-04-08 |  |
-| [Vida](https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s) | [Condor](https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0) | [Vida](https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A) | 5:01 | 2022-04-08 |  |
+| [Vida](https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s) | [Condor](https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0) | [Vida](https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A) | 5:01 | 2022-04-08 | 2022-12-19 |
 | [Volver](https://open.spotify.com/track/3x39YiMOzzkcEDg4FDZVEk) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/6mIL0XM3koHXG3jyonuzMW) | 5:15 | 2022-04-08 |  |
 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 | 2022-04-08 |  |
 | [Voy Saliendo](https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Voy Saliendo](https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa) | 3:16 | 2022-04-08 |  |
 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 | 2022-04-08 |  |
-| [Y Es Verdad](https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Y Es Verdad](https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z) | 3:40 | 2022-04-08 | 2022-12-18 |
+| [Y Es Verdad](https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Y Es Verdad](https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z) | 3:40 | 2022-04-08 |  |
 | [Y Si No Quiero?](https://open.spotify.com/track/0WE2xvSSJo89qqtIHm4V7L) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Y Si No Quiero?](https://open.spotify.com/album/1UjEZihN2GjSDvzO57Ub1h) | 3:26 | 2022-04-08 | 2022-07-28 |
 | [Ya No Estamos para Mentiras](https://open.spotify.com/track/28obcE8LjmeZ0Z1De2rK02) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos para Mentiras](https://open.spotify.com/album/6iSH7Ha0Clp1v8cDefpNbn) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Ya No Estamos Para Mentiras](https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos Para Mentiras](https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm) | 3:16 | 2022-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 336825,
+  "num_followers": 336876,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMGE1ZmM2NmU5Yzg3MTEzNjU5NjZhNzk1ZWNkOTBkMGJj",
+  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMDQxYTAxMjIwOTExOWRjMDNlZDc3ODQxOTQ4NDRjZmEx",
   "tracks": [
     {
       "added_at": "2022-10-23 19:24:22",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+    },
+    {
+      "added_at": "2022-10-23 19:24:22",
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
-    },
-    {
-      "added_at": "2022-10-23 19:24:22",
-      "album": {
-        "name": "The Hurtbook",
-        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
       "added_at": "2022-10-23 19:24:22",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
-        "name": "Isolation Tapes",
-        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
+        "name": "Cigarettes & Alcohol",
+        "url": "https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
         }
       ],
-      "duration_ms": 199533,
-      "name": "Plastic Plants",
-      "url": "https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX"
+      "duration_ms": 184090,
+      "name": "Cigarettes & Alcohol",
+      "url": "https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0"
     },
     {
       "added_at": "2022-10-23 19:24:22",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
-        "name": "Cigarettes & Alcohol",
-        "url": "https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT"
+        "name": "Isolation Tapes",
+        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
       },
       "artists": [
         {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 184090,
-      "name": "Cigarettes & Alcohol",
-      "url": "https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0"
+      "duration_ms": 199533,
+      "name": "Plastic Plants",
+      "url": "https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX"
     },
     {
       "added_at": "2022-10-23 19:24:22",

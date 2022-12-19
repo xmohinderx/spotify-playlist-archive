@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 431879,
+  "num_followers": 432008,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTcxMiwwMDAwMDAwMGQxM2JiYTNjN2I2YzQ5NTljMDdiN2ViYzkxNWRiYzUy",
+  "snapshot_id": "MTY2OTM4NTcxMiwwMDAwMDAwMDIwYTE5M2Y4NzliOWFhYzlkN2Q4YWI4OGM1NGY4MTUy",
   "tracks": [
     {
       "added_at": "2022-09-30 18:04:57",
@@ -47,26 +47,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "All Equal",
-        "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        },
-        {
-          "name": "Faodail",
-          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
-        }
-      ],
-      "duration_ms": 222992,
-      "name": "All Equal",
-      "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Second Sun",
         "url": "https://open.spotify.com/album/4J8Pj9kUO58eoafjZlHiLf"
       },
@@ -85,7 +65,27 @@
       "url": "https://open.spotify.com/track/0vgIkHFK8wpogVc1XCi18F"
     },
     {
-      "added_at": "2022-12-18 01:24:12",
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "All Equal",
+        "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        },
+        {
+          "name": "Faodail",
+          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "All Equal",
+      "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
+    },
+    {
+      "added_at": "2022-12-19 01:21:13",
       "album": {
         "name": "Biosph\u00e8re",
         "url": "https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
-      "added_at": "2022-12-18 01:24:12",
+      "added_at": "2022-12-19 01:21:13",
       "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
-      "added_at": "2022-12-18 01:24:12",
+      "added_at": "2022-12-19 01:21:13",
       "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 448684,
+      "name": "Amantes Amentes",
+      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Amantes Amentes",
-        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 448684,
-      "name": "Amantes Amentes",
-      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Hegn",
-        "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 386130,
-      "name": "Hegn",
-      "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Millenium (Edit)",
         "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Hipotez",
-        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+        "name": "Hegn",
+        "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
       },
       "artists": [
         {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
         }
       ],
-      "duration_ms": 352920,
-      "name": "Hipotez",
-      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
+      "duration_ms": 386130,
+      "name": "Hegn",
+      "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -683,6 +667,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Hipotez",
+        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Hipotez",
+      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
-      "added_at": "2022-12-18 01:24:12",
+      "added_at": "2022-12-19 01:21:13",
       "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
@@ -747,38 +747,6 @@
       "duration_ms": 253920,
       "name": "Night",
       "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -799,6 +767,38 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
         "name": "Piano & Electronic Ensemble Op. 1",
         "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
-      "added_at": "2022-12-18 01:24:12",
+      "added_at": "2022-12-19 01:21:13",
       "album": {
         "name": "Shaded",
         "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
     },
     {
-      "added_at": "2022-12-18 01:24:12",
+      "added_at": "2022-12-19 01:21:13",
       "album": {
         "name": "Known",
         "url": "https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk"
@@ -991,18 +991,22 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+        "name": "Orchestra (Remixes)",
+        "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
       "artists": [
         {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         }
       ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+      "duration_ms": 412500,
+      "name": "Entrudo - Booka Shade Remix",
+      "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Orchestra (Remixes)",
-        "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
       "artists": [
         {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
         }
       ],
-      "duration_ms": 412500,
-      "name": "Entrudo - Booka Shade Remix",
-      "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
       },
       "artists": [
         {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
         }
       ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
-      },
-      "artists": [
-        {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
-        }
-      ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Landing in Halifax",
         "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Lost in Berlin",
-        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 259670,
-      "name": "Endless Dancing",
-      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 358144,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Lost in Berlin",
+        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 259670,
+      "name": "Endless Dancing",
+      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
     },
     {
       "added_at": "2022-09-30 18:04:57",

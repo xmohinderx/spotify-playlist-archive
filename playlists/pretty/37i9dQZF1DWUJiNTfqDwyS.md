@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,830 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,088 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 51 | [SOS](https://open.spotify.com/track/6tH3UEamkNsZjZZqlu1egP) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [SOS](https://open.spotify.com/album/3hudUutcEtY3bKxEyA75IM) | 3:01 |
 | 52 | [My Heart Will Go On](https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO) | 3:24 |
 | 53 | [God of Thunder](https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Human \(Deluxe Version\)](https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc) | 4:00 |
-| 54 | [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 |
-| 55 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
+| 54 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
+| 55 | [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 |
 | 56 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
 | 57 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 |
 | 58 | [Hunting High and Low](https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Hunting High and Low](https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf) | 4:37 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 63 | [Mein Herz brennt](https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Mein Herz brennt](https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu) | 4:41 |
 | 64 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/0d76QXv2R4RIvWWb2y1MIu) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy) | 4:24 |
 | 65 | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8), [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/album/6fuK48wdK9EBB4JUQJyMAP) | 3:51 |
-| 66 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 |
-| 67 | [Let Me Love You](https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN) | [Love and Death](https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Perfectly Preserved](https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ) | 3:52 |
+| 66 | [Let Me Love You](https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN) | [Love and Death](https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Perfectly Preserved](https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ) | 3:52 |
+| 67 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 |
 | 68 | [Roundabout](https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Roundabout](https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6) | 8:20 |
 | 69 | [Orion](https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 8:15 |
-| 70 | [Only for the Weak](https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Only for the Weak](https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu) | 4:36 |
-| 71 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
+| 70 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
+| 71 | [Only for the Weak](https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Only for the Weak](https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu) | 4:36 |
 | 72 | [Children Of The Grave](https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Nativity In Black: A Tribute To Black Sabbath](https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu) | 5:49 |
 | 73 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 |
 | 74 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
 | 75 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGRhMTg2MmZjNTUwYjNkMzc3MTNhZDI4YTJkODgwNzYy`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGE1MGExOWVjODcyMWI2M2I4OGE3NTk3MGRiZjdkNjY4`

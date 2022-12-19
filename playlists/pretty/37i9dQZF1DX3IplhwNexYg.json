@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Jadu Heart",
-  "num_followers": 110769,
+  "num_followers": 110768,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMDY2ZmI0ZDFhZDU5ZTljNjIyNWJjZjdmY2QwOGFjODlh",
+  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMGYyYjc4ZDBhMDRlNDUxNTcyOWMxZTNjYTA0NjM0MjY2",
   "tracks": [
     {
       "added_at": "2022-11-25 00:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Burn The Empire",
-        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 174626,
       "name": "Easy On Your Own?",
       "url": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Handle",
-        "url": "https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Handle",
-      "url": "https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "I Know You Care",
         "url": "https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 188759,
       "name": "I Know You Care",
       "url": "https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Handle",
+        "url": "https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Handle",
+      "url": "https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
-      },
-      "artists": [
-        {
-          "name": "Talk Show",
-          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "Leather",
-      "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "how would you know",
         "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 177173,
       "name": "how would you know",
       "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
+      },
+      "artists": [
+        {
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "Leather",
+      "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 125546,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Guitar Music",
         "url": "https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 199328,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 125546,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "It Was Nothing",
         "url": "https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 209230,
       "name": "It Was Nothing",
       "url": "https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 294173,
+      "name": "Be By Your Side",
+      "url": "https://open.spotify.com/track/2Om9dYuAMsw8jnCLpwVMhx"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
       },
       "artists": [
         {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
         }
       ],
-      "duration_ms": 294173,
-      "name": "Be By Your Side",
-      "url": "https://open.spotify.com/track/2Om9dYuAMsw8jnCLpwVMhx"
+      "duration_ms": 226800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
     },
     {
       "added_at": "2022-11-25 00:00:00",

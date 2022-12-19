@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,943 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,964 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 97 | [Love & hate \(Feat\. BIBI\)](https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:16 |
 | 98 | [Pool Party\(Rollin’ right now\)](https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:00 |
 | 99 | [ARIA](https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [ARIA](https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW) | 2:27 |
-| 100 | [Stay For Me \(feat\. Seo Inguk\)](https://open.spotify.com/track/6On3SNbFuW1Awer6MFYfpx) | [HYUK](https://open.spotify.com/artist/1WTpKxdwQrNsYW3MBJYwiG), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Stay For Me](https://open.spotify.com/album/4LYpLBLp0X8VtktEUQ1Ev8) | 3:26 |
+| 100 | [Boogie Up](https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [SPECIAL ALBUM <For the Summer>](https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ) | 3:03 |
 
-Snapshot ID: `MTY2NTExODAxMiwwMDAwMDAwMDVhYTY1NGMyZWViYmY1MGE4M2JhMTYxOTNlMzEwYmEx`
+Snapshot ID: `MTY2NTExODAxMiwwMDAwMDAwMGE2YjgwMDEyOTQ2ZmE2YWI2MmNhNDEwODJhNGU1MjA1`

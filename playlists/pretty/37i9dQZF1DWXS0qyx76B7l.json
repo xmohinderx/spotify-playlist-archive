@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112401,
+  "num_followers": 112408,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMDI3ZDNmYzg1MWMzNTUzZGEwMDg4ZDQzZWU1MWE2OWM2",
+  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGQxMTUzZWEyMGZkM2MxNWY3NGExMjJkYmMzMGNiMGQ2",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Brooklyn In The Summer",
         "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 275640,
       "name": "Brooklyn's Finest",
       "url": "https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 259706,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Turn On The Bright Lights",
-        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "Still New York (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/35qwUQ9VvCwVgwPT7QM7yt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 224914,
       "name": "Still New York (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/6EIAHyD9gIDnz2hvEynZJz"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Turn On The Bright Lights",
+        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
     },
     {
       "added_at": "2022-01-24 23:45:18",

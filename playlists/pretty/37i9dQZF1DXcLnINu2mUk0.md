@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,584 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,631 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 49 | [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 |
 | 50 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 |
 | 51 | [Ride](https://open.spotify.com/track/2cX342krU9l5k1eyHoUri9) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm), [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Ride](https://open.spotify.com/album/1QDmxoYyTBJGjZn97AIguC) | 2:04 |
-| 52 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
-| 53 | [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 |
+| 52 | [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 |
+| 53 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
 | 54 | [Sou Melhor](https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Sou Melhor](https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73) | 3:05 |
 | 55 | [Nuvem](https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ) | [YVNG CIRIUS](https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA) | [11](https://open.spotify.com/album/17i647lAXr88FRR46cWxJQ) | 2:51 |
 | 56 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 |
 | 60 | [Rosa](https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST) | [Rosa](https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho) | 3:30 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDM1NDM4ZGZkYTJkNWQ1NGIzNGRiY2Y2OWU0ZGQxMDA4`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMGUyM2VjOTM5ZDY5MWExMDFlYjVhYjAxZTUzYzNmZGE1`

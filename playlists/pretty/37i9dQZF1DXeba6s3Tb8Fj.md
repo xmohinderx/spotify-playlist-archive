@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,453 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,466 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

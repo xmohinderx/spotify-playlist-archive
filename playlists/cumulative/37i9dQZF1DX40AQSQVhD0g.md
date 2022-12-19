@@ -4,7 +4,7 @@
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-205 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/0KuPiQD1QCKngSaltgSNqK)
+206 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/0KuPiQD1QCKngSaltgSNqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cahuates, Pistaches](https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Cahuates, Pistaches](https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy) | 2:57 | 2022-02-14 | 2022-07-28 |
 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 | 2022-02-14 | 2022-07-28 |
 | [Cali Pachanguero](https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:10 | 2022-07-19 | 2022-10-23 |
+| [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 | 2022-10-03 |  |
 | [Caminando Y Miando](https://open.spotify.com/track/0FWyQTw0KOoWv5tS8fOzLY) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Se Menea Se Menea](https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D) | 2:08 | 2022-05-06 | 2022-06-09 |
 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 | 2022-02-14 |  |
 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 | 2022-02-14 |  |
@@ -201,7 +202,7 @@
 | [Traicionera](https://open.spotify.com/track/4efTGeTWEUgTQajuvdo7CV) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Siempre en Diciembre 4](https://open.spotify.com/album/5hnd6zThczMPlg5iaC4b0s) | 3:34 | 2022-02-14 | 2022-07-29 |
 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 | 2022-02-14 | 2022-07-29 |
 | [Un Minuto](https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Minuto](https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8) | 2:57 | 2022-10-14 |  |
-| [Un Ratito](https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Un Ratito](https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B) | 3:14 | 2022-05-06 |  |
+| [Un Ratito](https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Un Ratito](https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B) | 3:14 | 2022-05-06 | 2022-12-19 |
 | [Vete Ya](https://open.spotify.com/track/0UkIrDmZ19PFFi6SXx9RBd) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 2:35 | 2022-02-14 | 2022-07-29 |
 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2022-02-14 |  |
 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 | 2022-02-14 |  |

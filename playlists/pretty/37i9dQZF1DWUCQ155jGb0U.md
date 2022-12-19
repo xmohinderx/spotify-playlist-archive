@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Paramore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,168 likes - 95 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,508 likes - 95 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

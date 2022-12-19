@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B?si=qEcy5RQpTMyM3bT0Nz6Zlg"> TeeZee</a>  and <a href="https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih?si=3ky1p\-g\-T\-WK\-IPiQHJgCg"> Cruel Santino</a>
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB?si=kIJ9OaJFRY\-\_DktMB6Logg"> STRAFITTI</a>
 
-305 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+307 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dirty Sprite](https://open.spotify.com/track/3lahRXIZyf6sjIfPMPJNzA) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF), [BIGBADCUBIX](https://open.spotify.com/artist/1GELLxVWAS9XreDsfkUd2y) | [Dirty Sprite / Kilo Oz](https://open.spotify.com/album/3FUpPUJ8acQLiJRo0sw1kN) | 2:38 | 2022-06-03 | 2022-09-16 |
 | [DO ME JEJE](https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:00 | 2022-02-17 | 2022-09-30 |
 | [Don't Be Shy](https://open.spotify.com/track/77WyHfWYb6sWhPJ5GeeUmo) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Don't Be Shy](https://open.spotify.com/album/7iPzgjVOJ2zQE9oismpvn2) | 2:34 | 2021-02-26 | 2022-04-08 |
+| [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 |  |
 | [DRAMA QUEEN](https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:11 | 2022-09-15 | 2022-10-14 |
 | [Drop Off](https://open.spotify.com/track/38bgf6do56GuZQZfBnKfH3) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Drop Off](https://open.spotify.com/album/44B8aoG9cCvnb4bmLCheap) | 2:32 | 2022-12-08 |  |
 | [Early Momo](https://open.spotify.com/track/3wYuNJPSFESv8kQ5HMQaGA) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Good Girl LA](https://open.spotify.com/artist/0qiNIeeeTOtNE6YHZ0c56e) | [Early Momo](https://open.spotify.com/album/202NJs9xDY00wxMTSRQhVu) | 3:13 | 2021-02-26 | 2022-02-25 |
@@ -216,6 +217,7 @@
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 | 2022-11-04 |
 | [PEAKING](https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [PEAKING](https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u) | 3:13 | 2021-04-09 | 2022-02-18 |
 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 | 2022-01-28 |
+| [PLT IN THE BANK](https://open.spotify.com/track/2BZnNesHOzX1fUp95S795e) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [SPAGHETTI](https://open.spotify.com/album/66lj8DYjz1Aqezk6ebxkJB) | 2:22 | 2022-12-18 |  |
 | [Pray](https://open.spotify.com/track/4JfsvpTMSYW9bU97A4PiGa) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/0WkNcmW479lQP6CjeqGE7M) | 2:44 | 2021-07-30 | 2022-09-02 |
 | [prayers](https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Arif Erdem Ocak](https://open.spotify.com/artist/74rfDl79T309YeNaQNrrb4), [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [prayers](https://open.spotify.com/album/3h22MOBNM1xtCMIjt5y6Lw) | 2:49 | 2022-09-29 | 2022-10-14 |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 | 2022-08-23 |

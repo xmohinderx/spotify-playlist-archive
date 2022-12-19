@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Siouxsie and the Banshees on the cover.",
-  "num_followers": 505485,
+  "num_followers": 506173,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5OTc5NCwwMDAwMDAwMGU5ZWIxM2FkYTE0MzkyZTJiYjNhZDcwNTZlZmQ3OWZh",
+  "snapshot_id": "MTY3MTE5OTc5NCwwMDAwMDAwMGRhNjQ5ZDc3ZDk3YTRlZmY3MDJhOTg0ZjU0YWM3N2Q1",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
     },
     {
-      "added_at": "2022-12-18 00:59:06",
+      "added_at": "2022-12-19 00:40:11",
       "album": {
         "name": "Strung Out Johnny",
         "url": "https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm"
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Garlands",
-        "url": "https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Wax And Wane",
-      "url": "https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Poverty",
         "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 211510,
       "name": "Red Drop",
       "url": "https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Garlands",
+        "url": "https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Wax And Wane",
+      "url": "https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Love Hysteria",
-        "url": "https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm"
-      },
-      "artists": [
-        {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
-        }
-      ],
-      "duration_ms": 354573,
-      "name": "Indigo Eyes",
-      "url": "https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Elizium",
         "url": "https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 181466,
       "name": "For Her Light",
       "url": "https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Love Hysteria",
+        "url": "https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        }
+      ],
+      "duration_ms": 354573,
+      "name": "Indigo Eyes",
+      "url": "https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir"
     },
     {
       "added_at": "2021-10-15 04:04:50",

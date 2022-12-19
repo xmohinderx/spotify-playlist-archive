@@ -2,7 +2,7 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: The Brandals
+> Merayakan 21 tahun The Brandals bersama kumpulan katalog mereka.
 
 107 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: WEi\(위아이\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,831 likes - 722 songs - 1 day 18 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,945 likes - 722 songs - 1 day 18 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 160 | [We Higher \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6tgVI8jFmgbCUhxxyCt2yD) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 5:22 |
 | 161 | [Breakfast](https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Breakfast](https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H) | 4:09 |
 | 162 | [I'm in love you](https://open.spotify.com/track/7caCfwwNW1KyjmC29W3E2C) | [SeoDaHyun \(tripleS\)](https://open.spotify.com/artist/6NEEmLZEda7n5paqlYTO4v) | [Reborn Rich \(Original Soundtrack\), Pt\. 3](https://open.spotify.com/album/0fqZ2Nnm9az1DcWWSTAFIO) | 3:58 |
-| 163 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
+| 163 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 |
 | 164 | [Bus](https://open.spotify.com/track/14VtWcwOYuW7xAmfnLNIac) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Bus](https://open.spotify.com/album/4zldafO8ttQHDwNJwj0zRo) | 3:35 |
 | 165 | [No worries, I'm good](https://open.spotify.com/track/4knaEneI5Aus0Iro4Kn6PA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/2FP4cEo5GPPe1HnQDuOE6C) | 2:49 |
 | 166 | [Girl In The Mirror \(Feat\. Frawley\)](https://open.spotify.com/track/29Cu14fpIphnwfM0Sv2gAQ) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Color Mood](https://open.spotify.com/album/3jnZ6KYF7mieSSWQpmCje9) | 2:49 |
@@ -731,4 +731,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 721 | [I Still Miss You](https://open.spotify.com/track/7mSnpktbVTwtCAiJTlSJN9) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [I Still Miss You](https://open.spotify.com/album/1uYtRlk8QH2pFmvTW8g2CA) | 3:00 |
 | 722 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 |
 
-Snapshot ID: `MTY3MTE4MTU0MiwwMDAwMDAwMDZhZDMxMWYzNGE5ZmZhYTU4MjlmYzM5YjM5M2YxNGM4`
+Snapshot ID: `MTY3MTE4MTU0MiwwMDAwMDAwMDNjMDJmMGM4ZTEzOTg4NWJmZWI4YWY0MDRjNWYwZTVk`

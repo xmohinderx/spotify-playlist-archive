@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Topic, HRVY
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,140 likes - 96 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,150 likes - 96 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 64 | [the dealer](https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:38 |
 | 65 | [LIGHT IT UP](https://open.spotify.com/track/3yP36UitCO9lhOELMXObx6) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [LIGHT IT UP](https://open.spotify.com/album/2RGB5A9uzjCscouMcsX2Ep) | 4:11 |
 | 66 | [WHAT UP](https://open.spotify.com/track/0atEHW3Arw3EwB1gdO307T) | [Lil Bruzy](https://open.spotify.com/artist/4GEAT0ISivahTQUZLSdJfN) | [WHAT UP](https://open.spotify.com/album/4UQrUAQRnQKjKTqhrVuZOF) | 3:11 |
-| 67 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
+| 67 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 | 68 | [Home](https://open.spotify.com/track/7jsO0c5SFIVHRY0fafblup) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Home](https://open.spotify.com/album/7xLpTxm7A7q9Y1kia1PDiQ) | 2:39 |
 | 69 | [TREIBEN](https://open.spotify.com/track/02T8NXhFqoxHeeLjwCVptn) | [bucci](https://open.spotify.com/artist/1f8lvHw5C5ZNd9ACUi7TNh) | [BE\(F\)REIT](https://open.spotify.com/album/1D9xYv1j5oSMHPlrkSw7gm) | 2:50 |
 | 70 | [Cringe \(Jonathan Frakes\)](https://open.spotify.com/track/6J6o5kA94HWMUS5O2l0w19) | [Karamel19](https://open.spotify.com/artist/2NKelK5LrcVeYoDdEBVhmm), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [POV: Mello](https://open.spotify.com/album/2cOzb7mg90cuKJZ3hIbJuu) | 3:00 |

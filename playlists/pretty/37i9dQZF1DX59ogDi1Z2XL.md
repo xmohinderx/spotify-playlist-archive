@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Devontée
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,601 likes - 101 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,628 likes - 101 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

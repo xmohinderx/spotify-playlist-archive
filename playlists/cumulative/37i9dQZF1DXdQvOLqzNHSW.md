@@ -2,7 +2,7 @@
 
 ### [late night vibes](https://open.spotify.com/playlist/37i9dQZF1DXdQvOLqzNHSW)
 
-> Slow burners for late nights.
+> slow burners for late nights
 
 413 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 

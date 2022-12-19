@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: blah)",
-  "num_followers": 6769,
+  "num_followers": 6771,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxOTg2NiwwMDAwMDAwMDA3OTA4NTgxZTNkOGRiOTU4ZDQ3NmU3NGEyNmNhZjM2",
+  "snapshot_id": "MTY3MDkxOTg2NiwwMDAwMDAwMGQzYjM3ZDk4YzRiZGZjZjg0YmFmYjJjYjBhMzFiNDhk",
   "tracks": [
     {
       "added_at": "2022-12-13 08:24:26",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-12-13 08:24:26",
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 145081,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk"
+    },
+    {
+      "added_at": "2022-12-13 08:24:26",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 257258,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz"
-    },
-    {
-      "added_at": "2022-12-13 08:24:26",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 145081,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk"
     },
     {
       "added_at": "2022-12-13 08:24:26",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-12-13 08:24:26",
       "album": {
-        "name": "Ideology",
-        "url": "https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6"
-      },
-      "artists": [
-        {
-          "name": "Claire Hau",
-          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
-        }
-      ],
-      "duration_ms": 175347,
-      "name": "Ideology",
-      "url": "https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK"
-    },
-    {
-      "added_at": "2022-12-13 08:24:26",
-      "album": {
         "name": "yayou hoi",
         "url": "https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 188149,
       "name": "yayou hoi",
       "url": "https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj"
+    },
+    {
+      "added_at": "2022-12-13 08:24:26",
+      "album": {
+        "name": "Ideology",
+        "url": "https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6"
+      },
+      "artists": [
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        }
+      ],
+      "duration_ms": 175347,
+      "name": "Ideology",
+      "url": "https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK"
     },
     {
       "added_at": "2022-12-13 08:24:26",
@@ -587,6 +587,26 @@
     {
       "added_at": "2022-12-13 08:24:26",
       "album": {
+        "name": "\ud06c\ub9bc\ube75 Creamppang",
+        "url": "https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "\ud06c\ub9bc\ube75 Creamppang",
+      "url": "https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW"
+    },
+    {
+      "added_at": "2022-12-13 08:24:26",
+      "album": {
         "name": "Rehab",
         "url": "https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6"
       },
@@ -599,22 +619,6 @@
       "duration_ms": 185834,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo"
-    },
-    {
-      "added_at": "2022-12-13 08:24:26",
-      "album": {
-        "name": "HUGS",
-        "url": "https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 224624,
-      "name": "HUGS",
-      "url": "https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP"
     },
     {
       "added_at": "2022-12-13 08:24:26",
@@ -699,18 +703,18 @@
     {
       "added_at": "2022-12-13 08:24:26",
       "album": {
-        "name": "redify",
-        "url": "https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi"
+        "name": "HUGS",
+        "url": "https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl"
       },
       "artists": [
         {
-          "name": "Mokyo",
-          "url": "https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP"
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 148000,
-      "name": "redify",
-      "url": "https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ"
+      "duration_ms": 224624,
+      "name": "HUGS",
+      "url": "https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP"
     },
     {
       "added_at": "2022-12-13 08:24:26",
@@ -731,22 +735,18 @@
     {
       "added_at": "2022-12-13 08:24:26",
       "album": {
-        "name": "\ud06c\ub9bc\ube75 Creamppang",
-        "url": "https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4"
+        "name": "redify",
+        "url": "https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi"
       },
       "artists": [
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "Mokyo",
+          "url": "https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP"
         }
       ],
-      "duration_ms": 169500,
-      "name": "\ud06c\ub9bc\ube75 Creamppang",
-      "url": "https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW"
+      "duration_ms": 148000,
+      "name": "redify",
+      "url": "https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ"
     },
     {
       "added_at": "2022-12-13 08:24:26",

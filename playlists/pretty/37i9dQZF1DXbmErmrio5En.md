@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: brakence
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 54 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,845 likes - 54 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 |
-| 2 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 |
-| 3 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 |
-| 4 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 |
-| 5 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
-| 6 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
-| 7 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:31 |
+| 2 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 |
+| 3 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 |
+| 4 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:31 |
+| 5 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 |
+| 6 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
+| 7 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 | 8 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
 | 9 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
 | 10 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 53 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 54 | [Deadline](https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OUTOFBODY](https://open.spotify.com/album/1QXA280UYvDSd53ZKA5AOn) | 2:24 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGQwMjljZDk1ZTQ5NWJhYjczMmRhZWMwMDYxODYyNzE5`
+Snapshot ID: `MTY3MTM5Njg1MCwwMDAwMDAwMGRhMzllN2RiZjhiNTJjNWM4ZWU1YTcxODMwOTJmOGVi`

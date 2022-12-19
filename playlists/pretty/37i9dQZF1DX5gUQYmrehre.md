@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,746 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,753 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 22 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 |
 | 23 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
 | 24 | [tonight](https://open.spotify.com/track/3v2yVqzxhUa79fphga70JJ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [tonight](https://open.spotify.com/album/7rvSSNrAP99MNu9mKYrU5X) | 4:43 |
-| 25 | [Niets Tussen](https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:59 |
-| 26 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
+| 25 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
+| 26 | [Niets Tussen](https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:59 |
 | 27 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
 | 28 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
 | 29 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 31 | [I.M](https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/4J7CE59Na4Zkp7vGecENrX) | 2:43 |
 | 32 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
 | 33 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 |
-| 34 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
-| 35 | [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 |
+| 34 | [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 |
+| 35 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
 | 36 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 |
 | 37 | [Time I Love To Waste](https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:17 |
 | 38 | [Flores No Mar \- Radio Edit](https://open.spotify.com/track/7Bi5S5rbQIGe57Ckq95AR1) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar \(Radio Edit\)](https://open.spotify.com/album/13pN5e0Jmu4CiQFJPHLJ4S) | 4:23 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 80 | [Don't Sleep With My Ex](https://open.spotify.com/track/4XsiUNF37jG3h9JXuILJO3) | [Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Ugh!](https://open.spotify.com/album/6Gqz4oULt6kpw2wXnvkZd1) | 2:50 |
 | 81 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 |
 | 82 | [Bak](https://open.spotify.com/track/7N2gCnTpozX6lgCWI298uZ) | [Kerem](https://open.spotify.com/artist/1gMjD6ABGUJCth7z7VB8Ix) | [Bak](https://open.spotify.com/album/613rgXdBZLdTvjc7T7hhuU) | 2:52 |
-| 83 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
-| 84 | [Cassandra](https://open.spotify.com/track/46UkHlPLkyPBePpEW9i26a) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/4hafVynEHNLuadYVKA3A0f) | 4:01 |
+| 83 | [Cassandra](https://open.spotify.com/track/46UkHlPLkyPBePpEW9i26a) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/4hafVynEHNLuadYVKA3A0f) | 4:01 |
+| 84 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 85 | [Fatbulous](https://open.spotify.com/track/41Pl90RIquJRbHOlgRsKj2) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [Fatbulous](https://open.spotify.com/album/1ZulCdKnccUwlwhbKsG8Be) | 2:51 |
 | 86 | [slipping](https://open.spotify.com/track/2SJL5stXLTLVd9dNeHhJP4) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [slipping](https://open.spotify.com/album/2em3qyO88TFY3Aouhr2UQ7) | 3:22 |
 | 87 | [We Can Fall In Love](https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [We Can Fall In Love](https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 89 | [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 |
 | 90 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDg4ZGUxYjZjOGUxZWM0MDUyOWUxODcwM2JlYjlhMTlm`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDk3NWU3OTg1OGQyN2Y5ZGEzZDg2MmFkM2ZiOTc5N2Y2`

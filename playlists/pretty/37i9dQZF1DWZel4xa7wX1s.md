@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,378 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,376 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 30 | [Four Leaf Clover](https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Let's Go Sunshine](https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe) | 3:23 |
 | 31 | [There Goes My Miracle](https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 4:03 |
 | 32 | [Over The Hump](https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [25 Years Later](https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8) | 3:47 |
-| 33 | [The Story We Used To Tell](https://open.spotify.com/track/5Sr9l180RmszDrCueohy3x) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [The Story We Used To Tell](https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s) | 3:38 |
+| 33 | [Shame](https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Shake The Spirit](https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o) | 2:39 |
 | 34 | [Sanremo](https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:24 |
-| 35 | [Shame](https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Shake The Spirit](https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o) | 2:39 |
+| 35 | [The Story We Used To Tell](https://open.spotify.com/track/5Sr9l180RmszDrCueohy3x) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [The Story We Used To Tell](https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s) | 3:38 |
 | 36 | [Blind Leading the Blind](https://open.spotify.com/track/77nG5iTzpTcgWL1QFstTIS) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/3v8OqfgSCnS5NDTUsg7X1P) | 3:44 |
 | 37 | [Pretty Bitchin'](https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:31 |
 | 38 | [Tucson Train](https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 | 60 | [Remember to Breathe](https://open.spotify.com/track/5Ht9Z3eLfUVKu9WvrT5d9G) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Streets of You](https://open.spotify.com/album/7BvMeA6XzGX0hBiUIhIhqH) | 3:13 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDRkMThjYmFhMDQ3OTg1MjYzNjgyNDg5MThlMDczMGY2`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDA4M2VlNzY3NTI3ZjIwZTQ5NjEzZjcwMGJiNGE3ZDM4`

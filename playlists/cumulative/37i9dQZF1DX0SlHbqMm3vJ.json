@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Johnny Drille ",
+  "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Runtown",
   "name": "Ginger Me",
   "published_playlist_ids": [
     "6c4FAtKQpbdqtWlJf4Goom"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 142000,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/273uUYBv3zZoqSR8VOk6vV"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 181090,
       "name": "B&B (Booze & Bumbum)",
       "url": "https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Call (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 166642,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 137727,
       "name": "FOR MY BABY",
       "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
@@ -2251,10 +2251,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
+    },
+    {
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222865,
+      "name": "High Spirit",
+      "url": "https://open.spotify.com/track/4qqOyc8ioVm5kvCYdgS2TO"
     },
     {
       "album": {
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 174587,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby"
@@ -2727,7 +2745,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 196210,
       "name": "Juju pt. 2 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
@@ -2749,6 +2767,24 @@
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
+    },
+    {
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "album": {
@@ -2781,7 +2817,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
@@ -2821,7 +2857,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
@@ -2861,7 +2897,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
@@ -3565,7 +3601,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 227142,
       "name": "No Love (18 Plus)",
       "url": "https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa"
@@ -3871,7 +3907,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 191976,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
@@ -3991,7 +4027,7 @@
           "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "date_added": "2022-12-14",
+      "date_added": "2022-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184791,
@@ -4447,7 +4483,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 182710,
       "name": "Shine",
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
@@ -4563,7 +4599,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -5059,7 +5095,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 201599,
       "name": "Too Many Women",
       "url": "https://open.spotify.com/track/19l8i6cV0tUIn3ON8duR4r"
@@ -5499,7 +5535,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 153569,
       "name": "Why",
       "url": "https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla"

@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme MalaFe & Jorge Carmona en portada.",
-  "num_followers": 102174,
+  "num_followers": 102254,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMDJhZDhmMDFlNmZjYjQ4M2ZhZWIwMzUxM2EzZmEyMmY5",
+  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMGNmNDlkZDEyMTgxZmI4YjE1ZDhhZjE0MDhjOWMyNzZi",
   "tracks": [
     {
       "added_at": "2022-12-16 06:00:00",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
-    },
-    {
       "added_at": "2022-11-07 23:46:55",
       "album": {
         "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
@@ -659,6 +643,22 @@
       "duration_ms": 190720,
       "name": "Vamos Aclarando Muchas Cosas - En Vivo",
       "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2022-11-07 23:46:55",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
     },
     {
-      "added_at": "2022-11-07 23:46:55",
-      "album": {
-        "name": "El Black",
-        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 206161,
-      "name": "El Black",
-      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
-    },
-    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Quiere Que Llame",
@@ -847,6 +831,22 @@
       "duration_ms": 189473,
       "name": "Quiere Que Llame",
       "url": "https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU"
+    },
+    {
+      "added_at": "2022-11-07 23:46:55",
+      "album": {
+        "name": "El Black",
+        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 206161,
+      "name": "El Black",
+      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
     },
     {
       "added_at": "2022-11-07 23:46:55",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Me Gusta Mi Vida",
-        "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
-      },
-      "artists": [
-        {
-          "name": "Joan Y Su Elite",
-          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
-        },
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 227726,
-      "name": "Me Gusta Mi Vida",
-      "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Me Gusta Mi Vida",
+        "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
+      },
+      "artists": [
+        {
+          "name": "Joan Y Su Elite",
+          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 227726,
+      "name": "Me Gusta Mi Vida",
+      "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1001,26 +1001,6 @@
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
-    },
-    {
       "added_at": "2022-12-05 23:10:26",
       "album": {
         "name": "Ando Enfocado",
@@ -1043,6 +1023,26 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1193,6 +1193,26 @@
       "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
     },
     {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Ciudad Peligrosa",
+        "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Ciudad Peligrosa",
+      "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
+    },
+    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Canciones Mamalonas 2",
@@ -1219,22 +1239,18 @@
     {
       "added_at": "2022-12-16 06:00:00",
       "album": {
-        "name": "Ciudad Peligrosa",
-        "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
+        "name": "Morritas",
+        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Ciudad Peligrosa",
-      "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
+      "duration_ms": 216330,
+      "name": "Morritas",
+      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1313,22 +1329,6 @@
       "url": "https://open.spotify.com/track/2WIJXF6tT09YzL8FjyVy5x"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Morritas",
-        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216330,
-      "name": "Morritas",
-      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Mexicano",
@@ -1385,6 +1385,26 @@
       "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
     },
     {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Intenciones Malas",
+        "url": "https://open.spotify.com/album/6znVJeVrLQHBt4YY3vJ0Ru"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 135821,
+      "name": "Intenciones Malas",
+      "url": "https://open.spotify.com/track/5mHvccDXkSclGx5no3wtZ1"
+    },
+    {
       "added_at": "2022-12-05 23:10:26",
       "album": {
         "name": "Lluvia De Micheladas",
@@ -1429,26 +1449,6 @@
       "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Intenciones Malas",
-        "url": "https://open.spotify.com/album/6znVJeVrLQHBt4YY3vJ0Ru"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 135821,
-      "name": "Intenciones Malas",
-      "url": "https://open.spotify.com/track/5mHvccDXkSclGx5no3wtZ1"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "JURE VENGANZA",
@@ -1481,20 +1481,24 @@
       "url": "https://open.spotify.com/track/4n8G4LlNIAjoaZeAAdys11"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-12-16 06:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
         }
       ],
-      "duration_ms": 167568,
-      "name": "Tolin Infante",
-      "url": "https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg"
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1537,6 +1541,22 @@
       "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
     },
     {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 167568,
+      "name": "Tolin Infante",
+      "url": "https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg"
+    },
+    {
       "added_at": "2022-11-07 23:46:55",
       "album": {
         "name": "Cactus",
@@ -1577,22 +1597,6 @@
       "url": "https://open.spotify.com/track/3mRNhbCKWupqs2F6VwFUMu"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Bombos y Tarolas",
-      "url": "https://open.spotify.com/track/5MyEACD2kRFeh231Z6FkdE"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Sin Censura",
@@ -1613,40 +1617,20 @@
       "url": "https://open.spotify.com/track/1lAqzEHhPQdTPOIPfYOfjc"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Culon y Medio",
-        "url": "https://open.spotify.com/album/0Ss8cCDMszxtrvcozbvgQ9"
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 159792,
-      "name": "Culon y Medio",
-      "url": "https://open.spotify.com/track/77eIFriAVgrCYshgQMYXC1"
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5MyEACD2kRFeh231Z6FkdE"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1669,6 +1653,22 @@
       "url": "https://open.spotify.com/track/00UbH8ziTAgSGvc8vf9qRt"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Culon y Medio",
+        "url": "https://open.spotify.com/album/0Ss8cCDMszxtrvcozbvgQ9"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 159792,
+      "name": "Culon y Medio",
+      "url": "https://open.spotify.com/track/77eIFriAVgrCYshgQMYXC1"
+    },
+    {
       "added_at": "2022-12-05 23:10:26",
       "album": {
         "name": "La Suelita Roja",
@@ -1687,22 +1687,6 @@
       "duration_ms": 184145,
       "name": "La Suelita Roja",
       "url": "https://open.spotify.com/track/4Vo60MYDYIkcOG1yZ08Bnq"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Mi \u00daltima Venganza",
-        "url": "https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 213677,
-      "name": "Mi \u00daltima Venganza",
-      "url": "https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1767,6 +1751,22 @@
       "duration_ms": 182041,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/3j83w59aZvtBCsZBnD2zwX"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Mi \u00daltima Venganza",
+        "url": "https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 213677,
+      "name": "Mi \u00daltima Venganza",
+      "url": "https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU"
     },
     {
       "added_at": "2022-10-28 05:00:00",

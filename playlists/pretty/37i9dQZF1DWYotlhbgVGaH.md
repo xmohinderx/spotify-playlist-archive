@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,524 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,564 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 16 | [King Of Swing](https://open.spotify.com/track/7gfvRgIRok1ceh4QmTbBk9) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 4:58 |
 | 17 | [Barflies at the Beach](https://open.spotify.com/track/5etDbpznJN71iUKaXUkwf3) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:01 |
 | 18 | [Brown Derby Jump](https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Zoot Suit Riot](https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz) | 2:59 |
-| 19 | [Whadaya Want](https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 3:17 |
-| 20 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
+| 19 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
+| 20 | [Whadaya Want](https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 3:17 |
 | 21 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
 | 22 | [Put A Lid On It](https://open.spotify.com/track/06HM8m5kmKG8AOt7eelGhI) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [The Best of Squirrel Nut Zippers](https://open.spotify.com/album/1zfRj4Yk4OHWYVgzDD9y01) | 2:37 |
 | 23 | [Swing Let's Swing](https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg) | [The Lucky Strikes](https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC) | [Song and Dance](https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa) | 2:19 |
 | 24 | [I Dare You Baby](https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [I Dare You!](https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2) | 2:59 |
 | 25 | [Pink Cadillac](https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [Indigo Swing](https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4) | 2:22 |
 | 26 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
-| 27 | [The Ding Dong Daddy of the D Car Line](https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:34 |
-| 28 | [Ain't No Big Thing](https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Shake Those Hula Hips!](https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd) | 3:33 |
+| 27 | [Ain't No Big Thing](https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Shake Those Hula Hips!](https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd) | 3:33 |
+| 28 | [The Ding Dong Daddy of the D Car Line](https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:34 |
 | 29 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
 | 30 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
 | 31 | [Mambo Swing](https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 5:07 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 43 | [Honey Pie](https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' 'Bout Miss Thing!](https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR) | 4:10 |
 | 44 | [Pink Elephant](https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:44 |
 | 45 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
-| 46 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
+| 46 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
 | 47 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
-| 48 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
+| 48 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
 | 49 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 | 50 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDllZTU0YWRmMGUwOThkY2UyYzZhYzA1MmY3OWNhZGQx`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDhlNTYyOTY2MGI1Y2ViYjZjYTY2OGNmYjlkZDYyNjBl`

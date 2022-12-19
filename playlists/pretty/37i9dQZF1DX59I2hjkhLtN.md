@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Puro L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,585 likes - 98 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,588 likes - 98 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

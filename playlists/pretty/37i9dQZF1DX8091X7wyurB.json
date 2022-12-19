@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 26165,
+  "num_followers": 26264,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGFlM2E1ZWNiNDUyODllZjgxNTI4ZTM5Y2IyYmIzYmMy",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDc0NjY5NGEzODdmMjllYzMzNmIzMjBkMTJlNzVlYTkx",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 156831,
       "name": "This Loving",
       "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
     },
     {
       "added_at": "2022-09-19 07:16:17",
@@ -517,6 +517,42 @@
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
     },
     {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Oil + Water",
+        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Wonder (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
+    },
+    {
       "added_at": "2022-09-30 06:46:03",
       "album": {
         "name": "Mine",
@@ -539,42 +575,6 @@
       "duration_ms": 203027,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Wonder (feat. Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Final Say",
-        "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
+        "name": "Ife Wami",
+        "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
       "artists": [
         {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
         }
       ],
-      "duration_ms": 209194,
-      "name": "Final Say",
-      "url": "https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd"
+      "duration_ms": 137739,
+      "name": "Ife Wami",
+      "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -655,22 +659,18 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Ife Wami",
-        "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
+        "name": "Final Say",
+        "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "121SELAH",
-          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
         }
       ],
-      "duration_ms": 137739,
-      "name": "Ife Wami",
-      "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
+      "duration_ms": 209194,
+      "name": "Final Say",
+      "url": "https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "No Longer Slaves",
-        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 350981,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Yehowah",
         "url": "https://open.spotify.com/album/1HmdkNEK6p2lBsLp5nfqhp"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 325546,
       "name": "Yehowah B\u025bhw\u025b",
       "url": "https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "No Longer Slaves",
+        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
+      },
+      "artists": [
+        {
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+        }
+      ],
+      "duration_ms": 350981,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1009,20 +1009,24 @@
       "url": "https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "The Word Is Working (Refreshed)",
-        "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
+        "name": "Give Him Praise",
+        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
         }
       ],
-      "duration_ms": 407811,
-      "name": "The Word Is Working (Refreshed)",
-      "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
+      "duration_ms": 120000,
+      "name": "Give Him Praise",
+      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1041,6 +1045,22 @@
       "url": "https://open.spotify.com/track/1IToFXrcx4U7Kdls7DDMzo"
     },
     {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "The Word Is Working (Refreshed)",
+        "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 407811,
+      "name": "The Word Is Working (Refreshed)",
+      "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
+    },
+    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Unbroken",
@@ -1055,22 +1075,6 @@
       "duration_ms": 209437,
       "name": "Na Me Be This",
       "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
-    },
-    {
-      "added_at": "2022-09-30 06:46:03",
-      "album": {
-        "name": "Aware",
-        "url": "https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        }
-      ],
-      "duration_ms": 165928,
-      "name": "You Called Me Out",
-      "url": "https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC"
     },
     {
       "added_at": "2022-09-09 09:04:44",
@@ -1099,22 +1103,34 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Give Him Praise",
-        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
+        "name": "Joy (Reason)",
+        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
       },
       "artists": [
         {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Give Him Praise",
-      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
+      "duration_ms": 141531,
+      "name": "Joy (Reason)",
+      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
+    },
+    {
+      "added_at": "2022-09-30 06:46:03",
+      "album": {
+        "name": "Aware",
+        "url": "https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "duration_ms": 165928,
+      "name": "You Called Me Out",
+      "url": "https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 196832,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Joy (Reason)",
-        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 141531,
-      "name": "Joy (Reason)",
-      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1409,26 +1409,6 @@
       "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        }
-      ],
-      "duration_ms": 385732,
-      "name": "Ayeyi Ndwom (feat. Ohemaa Mercy)",
-      "url": "https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA"
-    },
-    {
       "added_at": "2022-10-21 06:09:31",
       "album": {
         "name": "Show Dem",
@@ -1447,6 +1427,26 @@
       "duration_ms": 206897,
       "name": "Show Dem",
       "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        }
+      ],
+      "duration_ms": 385732,
+      "name": "Ayeyi Ndwom (feat. Ohemaa Mercy)",
+      "url": "https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA"
     },
     {
       "added_at": "2022-06-30 23:00:00",

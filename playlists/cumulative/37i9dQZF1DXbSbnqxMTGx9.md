@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-464 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
+465 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [One Woman](https://open.spotify.com/track/1Ef5iG4lKhb33gonndqvkp) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Reggae Classic Love Songs, Vol\. 2](https://open.spotify.com/album/6jMU4vfxBPq77DaHtQDmqd) | 3:15 | 2022-09-22 |  |
 | [One Woman](https://open.spotify.com/track/2SdytA6aLLLKfFCfqhn2Pm) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Sounds of 60's & 70's Reggae Hits](https://open.spotify.com/album/1mJrS3HnI4m1a4OBsCKIm5) | 3:15 | 2022-09-22 | 2022-11-13 |
 | [Pass The Dutchie](https://open.spotify.com/track/61DMVgtuAhW1C0UHRljmf2) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Throwback Reggae](https://open.spotify.com/album/29bm8H4n8IXsEK6UltWIlO) | 3:23 | 2022-09-22 | 2022-11-13 |
-| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2021-03-02 |  |
+| [Pass The Dutchie](https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [The Youth Of Today](https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs) | 3:24 | 2022-09-22 |  |
+| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2021-03-02 | 2022-12-19 |
 | [Pass The Kutchie](https://open.spotify.com/track/6cMxx9udDYLHr9MuDSUxlE) | [Mighty Diamonds](https://open.spotify.com/artist/2MvXKrHantfY5wyPiCOo2k) | [Hi Grade Ganja Anthems Vol\. 2](https://open.spotify.com/album/30wbr5CYayaCmIq5wVJ39p) | 3:35 | 2022-08-18 | 2022-09-23 |
 | [Peace in Your Mind \(Peace of Mind\)](https://open.spotify.com/track/0Dqao6FoNVAv0UOllI0b0d) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:26 | 2022-09-22 |  |
 | [People Funny Boy](https://open.spotify.com/track/2k39ES8EcOY3IeEOzsdAb4) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:36 | 2022-09-22 |  |

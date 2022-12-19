@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. En portada: Cuisillos de Arturo Mac\u00edas",
-  "num_followers": 118758,
+  "num_followers": 118995,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMGU4MDlhOWI4N2MxMTNjYmE4YjBhNTM3NDcxMjAxNTU2",
+  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMDE3MGMwMjVhM2MxMWRhYzM4YmEzYTljZDM5ZDAyZmJh",
   "tracks": [
     {
       "added_at": "2021-10-22 05:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 178932,
       "name": "Bandido De Amores",
       "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "La \u00danica",
-        "url": "https://open.spotify.com/album/4P57WSgHURvfiwilKSOfzH"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "R\u00edo Rebelde",
-      "url": "https://open.spotify.com/track/2tkxHULxMGrgDNkTvcZBhR"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Super Exitos",
         "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 163693,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "La \u00danica",
+        "url": "https://open.spotify.com/album/4P57WSgHURvfiwilKSOfzH"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "R\u00edo Rebelde",
+      "url": "https://open.spotify.com/track/2tkxHULxMGrgDNkTvcZBhR"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
-        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 128733,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "A Bailar Quebradita Y De Caballito",
         "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
       },
@@ -1183,34 +1167,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh"
+        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
+        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
       },
       "artists": [
         {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 137893,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "A Mover el Guayin",
-        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Las mujeres quieren bailar",
-      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
+      "duration_ms": 128733,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1227,6 +1195,22 @@
       "duration_ms": 221857,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "A Mover el Guayin",
+        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Las mujeres quieren bailar",
+      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 142253,
       "name": "Al Mismo Nivel",
       "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT"
     },
     {
       "added_at": "2021-10-22 05:00:00",

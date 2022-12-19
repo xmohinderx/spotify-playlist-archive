@@ -1,12 +1,12 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2008082,
+  "num_followers": 2008336,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAyMDkyNiwwMDAwMDAwMDIxZWYzZTQyYmIzYTNkYzE4MTM3OWI4OTUzODM4NjEw",
+  "snapshot_id": "MTY3MDAyMDkyNiwwMDAwMDAwMDljMTUxOTY4NTEzOTA3Zjc3MjZiOGNjMzhjMjE2ZWQ5",
   "tracks": [
     {
       "added_at": "2022-11-02 01:50:57",
@@ -1334,11 +1334,15 @@
         {
           "name": "Ski Mask The Slump God",
           "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 145626,
-      "name": "Faucet Failure",
-      "url": "https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN"
+      "duration_ms": 166400,
+      "name": "Nuketown (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1502,15 +1506,11 @@
         {
           "name": "Ski Mask The Slump God",
           "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Nuketown (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
+      "duration_ms": 145626,
+      "name": "Faucet Failure",
+      "url": "https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
         "url": "https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X"
       },
@@ -1815,26 +1835,6 @@
       "duration_ms": 279853,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
     },
     {
       "added_at": "2022-10-28 04:00:00",

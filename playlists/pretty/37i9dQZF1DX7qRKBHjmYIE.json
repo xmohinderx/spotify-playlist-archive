@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Danny Schiller",
-  "num_followers": 749191,
+  "num_followers": 749183,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIyMzU4NywwMDAwMDAwMDA4MTliNmQ4NGY2Mzg1MjAwM2ViODgyYTAyMDJhZGRm",
+  "snapshot_id": "MTY2OTIyMzU4NywwMDAwMDAwMDBmMTMxN2U4YjhkMzA1YjQ1M2IzNWE0OWJiOTkxMjEz",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 170535,
-      "name": "Desenfocao'",
-      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 237106,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Desenfocao'",
+      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
+        "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 168758,
       "name": "first order of business",
       "url": "https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
-        "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 230964,
-      "name": "fue mejor (feat. SZA)",
-      "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 221133,
       "name": "Carin\u0303ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "To Anywhere",
-        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 199280,
       "name": "DOLORES",
       "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "To Anywhere",
+        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
     },
     {
       "added_at": "2022-11-04 04:00:00",

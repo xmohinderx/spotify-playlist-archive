@@ -1,12 +1,12 @@
 {
   "description": "el amor es pico tres <3 ",
-  "num_followers": 46076,
+  "num_followers": 46130,
   "original_name": "amor = <3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc4NzQ3MSwwMDAwMDAwMGI0OGE3NTczNDQyOGNkNTM3OTUzZjc4MzlkNDYyMGYx",
+  "snapshot_id": "MTY2NTc4NzQ3MSwwMDAwMDAwMDhiMzhlNzllNjQ2NTE4MTljYjU1ZGU1M2U5ZjgyMWM5",
   "tracks": [
     {
       "added_at": "2022-10-14 22:44:31",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 267706,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
       "added_at": "2022-10-14 22:44:31",
@@ -859,38 +859,6 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "Oficialmente en Solter\u00eda",
-        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122242,
-      "name": "Oficialmente en Solter\u00eda",
-      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
-        "name": "Tu Y Yo",
-        "url": "https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "Tu Y Yo",
-      "url": "https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -919,6 +887,38 @@
       "duration_ms": 166666,
       "name": "Piel de Seda",
       "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
+        "name": "Tu Y Yo",
+        "url": "https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 161985,
+      "name": "Tu Y Yo",
+      "url": "https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
+        "name": "Oficialmente en Solter\u00eda",
+        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122242,
+      "name": "Oficialmente en Solter\u00eda",
+      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
     },
     {
       "added_at": "2022-10-14 22:44:31",
@@ -975,6 +975,26 @@
       "duration_ms": 173714,
       "name": "Ser\u00eda Un Placer",
       "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
+        "name": "Summer School Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
     },
     {
       "added_at": "2022-10-14 22:44:31",
@@ -1047,26 +1067,6 @@
       "duration_ms": 199500,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
-        "name": "Summer School Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194002,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
     },
     {
       "added_at": "2022-10-14 22:44:31",

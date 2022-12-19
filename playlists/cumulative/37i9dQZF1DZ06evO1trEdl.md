@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3ABnPDJjQSoAzMxUwkHNzz)
+78 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/3ABnPDJjQSoAzMxUwkHNzz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Dirty Ol' Man](https://open.spotify.com/track/2svNxzjcNhy1U9JhaxAaQa) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 4:35 | 2022-05-25 |  |
 | [Distant Lover](https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 | 2022-12-16 |
 | [Drivin' Me Mad](https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:17 | 2022-12-14 | 2022-12-18 |
-| [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 | 2022-05-25 |  |
+| [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 | 2022-05-25 | 2022-12-19 |
 | [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 | 2022-12-17 |  |
 | [Everybody Gets to Go to the Moon \- Live](https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:34 | 2022-05-25 |  |
 | [Free Ride \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 2:43 | 2022-05-25 |  |
@@ -38,6 +38,7 @@
 | [I'm Gonna Need You](https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [I'm Gonna Need You / Just Right for Love](https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR) | 2:52 | 2022-05-25 |  |
 | [If And When](https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 7:09 | 2022-05-30 | 2022-10-01 |
 | [If You Must Leave My Life](https://open.spotify.com/track/3shCTJnZKOJ7YdHVBRHg4c) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:13 | 2022-06-08 | 2022-06-24 |
+| [Isn't It a Pity](https://open.spotify.com/track/4wlBhCofkw3WkNKXo9wWni) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:52 | 2022-12-18 |  |
 | [Jump The Gun](https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:59 | 2022-05-25 |  |
 | [La chanson poupulaire](https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 |  |
 | [Lonelier Are Fools](https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 | 2022-12-13 |

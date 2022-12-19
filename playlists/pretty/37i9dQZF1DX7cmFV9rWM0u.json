@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1850098,
+  "num_followers": 1850187,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM3OTQyMiwwMDAwMDAwMDg3ODczOTM3NzQwOGZjOGM2NmQ1NzhiZjAwNDExOWU0",
+  "snapshot_id": "MTY3MDM3OTQyMiwwMDAwMDAwMDEwOTNjMjEyOGIzZDI1Mjg0YWY0OWZlNzVlM2Y1ZTE5",
   "tracks": [
     {
       "added_at": "2022-12-07 02:17:01",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-12-07 02:17:01",
       "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
-    },
-    {
-      "added_at": "2022-12-07 02:17:01",
-      "album": {
         "name": "Que Calor (feat. J Balvin & El Alfa)",
         "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
+    },
+    {
+      "added_at": "2022-12-07 02:17:01",
+      "album": {
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2022-12-07 02:17:01",

@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 99851,
+  "num_followers": 99897,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDA4YzExZmM5NGIyZmQ4ZmYzNjMwYzFmODIxMzM0ZTEz",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDFiYzA1NDNkNjFjNjdjNDBjMzc0NTRlNjQ2YThmNzcw",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -611,21 +611,21 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
-      "added_at": "2022-12-18 01:12:51",
+      "added_at": "2022-12-19 00:17:16",
       "album": {
         "name": "FREE002",
         "url": "https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB"
@@ -639,6 +639,22 @@
       "duration_ms": 356367,
       "name": "Jump Code",
       "url": "https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -659,34 +675,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 420272,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Eat Your Own Ears Recordings EP 1",
-        "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 480253,
-      "name": "Scythe Master",
-      "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+        "name": "Eat Your Own Ears Recordings EP 1",
+        "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+      "duration_ms": 480253,
+      "name": "Scythe Master",
+      "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "All Together, Here Together",
-        "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
       },
       "artists": [
         {
-          "name": "Adult Art Club",
-          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 238000,
-      "name": "All Together, Here Together",
-      "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
+      "duration_ms": 298713,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
+        "name": "All Together, Here Together",
+        "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+          "name": "Adult Art Club",
+          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
         }
       ],
-      "duration_ms": 298713,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
+      "duration_ms": 238000,
+      "name": "All Together, Here Together",
+      "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Komodo / Flores",
-        "url": "https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3"
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
       },
       "artists": [
         {
-          "name": "Bonsaye",
-          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
         }
       ],
-      "duration_ms": 261874,
-      "name": "Komodo",
-      "url": "https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW"
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+        "name": "Komodo / Flores",
+        "url": "https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3"
       },
       "artists": [
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
         }
       ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
+      "duration_ms": 261874,
+      "name": "Komodo",
+      "url": "https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW"
     }
   ],
   "unique_name": "Night Shift",

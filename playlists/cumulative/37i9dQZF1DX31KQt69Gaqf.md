@@ -4,7 +4,7 @@
 
 > Let us take care of your workday soundtrack.
 
-186 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
+187 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Faith Healer](https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz) | 2:54 | 2021-08-12 | 2022-07-29 |
 | [Faith Healer](https://open.spotify.com/track/5KDqYTqobAjzb4XzwjHJ53) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/0KZ41Kat8EobCM31uRAjGi) | 2:54 | 2021-08-12 | 2022-11-13 |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2021-08-12 |  |
+| [Five and Dime](https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 2:53 | 2021-08-12 |  |
 | [Five and Dime](https://open.spotify.com/track/5Be3tBtk34xVl70TRmnXEz) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Five and Dime](https://open.spotify.com/album/2Qz2fR3LuxbbmT12U9ehys) | 2:53 | 2021-08-12 | 2022-07-29 |
 | [Five and Dime](https://open.spotify.com/track/5ypn0mWrFJ8m2BeYBKwXec) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV) | 2:53 | 2021-08-12 | 2022-12-02 |
 | [Floating](https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo) | [Lo](https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO) | [Floating](https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo) | 3:37 | 2021-08-12 |  |
@@ -182,7 +183,7 @@
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:41 | 2021-08-12 |  |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 | 2021-08-12 | 2022-10-28 |
 | [TRAP PHONE](https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TRAP PHONE](https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet) | 4:10 | 2021-08-12 |  |
-| [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 | 2021-08-12 |  |
+| [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 | 2021-08-12 | 2022-12-19 |
 | [Trouble](https://open.spotify.com/track/0LdhrpQQXy9t2jwidxgOwL) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [The Butterfly Club](https://open.spotify.com/album/0RIR5ufR003FyTIywzPMCB) | 4:28 | 2021-08-12 | 2022-11-13 |
 | [U&ME](https://open.spotify.com/track/23YxxyxIHbIj8zBf4ZfGSX) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME \(Baauer Remix\)](https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop) | 3:18 | 2021-09-24 | 2022-11-13 |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2021-09-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 308,610 likes - 51 songs - 3 hr 18 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 308,592 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 7 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
 | 8 | [Good People](https://open.spotify.com/track/31YHoSHFbOu4wOgg34skBq) | [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Good People](https://open.spotify.com/album/71FVP2XraXCJuu7bDEjjrL) | 2:02 |
 | 9 | [Sicko Drop \- Claudinho Brasil Remix](https://open.spotify.com/track/3Z7UmZWV0qyY7nK076Bqxe) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Claudinho Brasil](https://open.spotify.com/artist/41ggHbtYARi4S4JtbeRrYY) | [Sicko Drop \(Claudinho Brasil Remix\)](https://open.spotify.com/album/1RZKaqedt3r09PaDCZtaCc) | 2:41 |
-| 10 | [The City Is Mine](https://open.spotify.com/track/4RVrxCfTWV5ti3uNj4HQhJ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Sleepyhead](https://open.spotify.com/artist/5ucMfFnUZM342NEaHLofoH) | [Black Marble](https://open.spotify.com/album/2ghv8mmhJRmTwUyqRxD52D) | 2:10 |
+| 10 | [The City Is Mine](https://open.spotify.com/track/4RVrxCfTWV5ti3uNj4HQhJ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Sleepyhead](https://open.spotify.com/artist/6OjwWemIW15KXIA1M1T1IQ) | [Black Marble](https://open.spotify.com/album/2ghv8mmhJRmTwUyqRxD52D) | 2:10 |
 | 11 | [Down Together](https://open.spotify.com/track/0cyZ9beolmygVLAsKAWMOS) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Down Together](https://open.spotify.com/album/4Igef9YV4M3yNaPPraPOFg) | 2:28 |
 | 12 | [Gory Love \(Ship Wrek Remix\)](https://open.spotify.com/track/3kSDPvMpj3Ht4yRG43ormF) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Gory Love \(Remixes\)](https://open.spotify.com/album/0K9FgFuUeDORb2TWzUdxRZ) | 2:25 |
 | 13 | [Randomize](https://open.spotify.com/track/7cwpTKx0NeTPacBVrpNumb) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Randomize](https://open.spotify.com/album/4MJNd4qc5u7iIQzCJdhosQ) | 4:29 |

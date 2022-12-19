@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,003 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,022 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 47 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 | 48 | [Mustt Mustt \- Massive Attack Remix](https://open.spotify.com/track/0w6kuQOr4jP1w9Kon0Yv4j) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 4:27 |
 | 49 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
-| 50 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 |
+| 50 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDFlNGNmZDkzYzc1YzE5NDRlYjBlMWU1ZjNhN2U4NzBk`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDVhNDBjMWE5ODBkOTEwOWJmZWY3MzgyNzZlZWUwMTUw`

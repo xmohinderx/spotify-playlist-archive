@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 31417,
+  "num_followers": 31477,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxMTQzMiwwMDAwMDAwMGRhZDNhMWE1MWY0YWZhNDY2ZjE4MGM3YjFlODBkMTQ5",
+  "snapshot_id": "MTY2ODcxMTQzMiwwMDAwMDAwMGEzMDk5ZDAyOWJkNmI2NTUyZjI4OWQ5YTYzYTA2NDcy",
   "tracks": [
     {
       "added_at": "2022-11-17 18:57:12",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-11-17 18:57:12",
       "album": {
-        "name": "Nothing But the Blues (Live)",
-        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 430106,
-      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
-      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
-    },
-    {
-      "added_at": "2022-11-17 18:57:12",
-      "album": {
         "name": "Mr. Wonderful (Deluxe)",
         "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 304160,
       "name": "Love That Burns",
       "url": "https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k"
+    },
+    {
+      "added_at": "2022-11-17 18:57:12",
+      "album": {
+        "name": "Nothing But the Blues (Live)",
+        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 430106,
+      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
+      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
     },
     {
       "added_at": "2022-11-17 18:57:12",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-17 18:57:12",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
-    },
-    {
-      "added_at": "2022-11-17 18:57:12",
-      "album": {
         "name": "Waiting For Perfection",
         "url": "https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 375946,
       "name": "I Walk Alone",
       "url": "https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS"
+    },
+    {
+      "added_at": "2022-11-17 18:57:12",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2022-11-17 18:57:12",

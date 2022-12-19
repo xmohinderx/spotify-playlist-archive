@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-121 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
+122 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 | 2022-01-14 | 2022-09-15 |
 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 | 2022-01-14 |  |
 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 | 2022-09-06 |  |
-| [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 | 2022-09-06 |  |
+| [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 | 2022-09-06 | 2022-12-19 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 |  |
 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 | 2022-01-14 | 2022-09-07 |
@@ -107,6 +107,7 @@
 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 | 2022-09-06 |  |
 | [Recopilacion De Carnavalitos](https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx) | [Margarita Palacios](https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c) | [Los Clasicos Del Folklore](https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ) | 2:37 | 2022-01-14 | 2022-09-07 |
 | [Romance de la luna tucumana](https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3) | [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Desnudando el corazón](https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY) | 4:11 | 2022-01-14 | 2022-09-07 |
+| [Saravá](https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Saravá](https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi) | 4:03 | 2022-12-09 |  |
 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 | 2022-01-14 |  |
 | [Serenata para la Tierra de Uno](https://open.spotify.com/track/3SAz3P2BWThVMybST6mG1T) | [Fabiana Pérez](https://open.spotify.com/artist/1pYtrPL902RbBnGv3LmTuZ) | [Volver a Mí](https://open.spotify.com/album/6jVYP8Owj1Q69DD5xSGoJx) | 3:57 | 2022-01-14 | 2022-07-28 |
 | [Sol de los Andes](https://open.spotify.com/track/2k9snEi03Da0tGwkUYhPH5) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Bruno Arias](https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df) | [Madre Tierra](https://open.spotify.com/album/46cdt75AjwW40xO5MPfweX) | 4:36 | 2022-09-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=D1CSlJ0PR16RBnHzwfnY_g\"> WizKid </a>  ",
-  "num_followers": 75971,
+  "num_followers": 76138,
   "original_name": "Hot Hits Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxODg0MiwwMDAwMDAwMDEyZDdjMGI4MjY0M2I5ZTQ0NjhkNTc0ZDYwMGVkOWEw",
+  "snapshot_id": "MTY3MTM1ODQxNSwwMDAwMDAwMGFhZTdjMzg3MjU4YzRhMDhiMDFiMWU4ZmIzZjY1MmY3",
   "tracks": [
     {
       "added_at": "2022-11-15 09:17:48",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
+      "added_at": "2022-12-18 10:13:35",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+    },
+    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Certified Loner (No Competition)",
@@ -683,8 +699,8 @@
     {
       "added_at": "2022-04-28 23:00:00",
       "album": {
-        "name": "kolomental",
-        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
@@ -693,8 +709,8 @@
         }
       ],
       "duration_ms": 197000,
-      "name": "kolomental",
-      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2022-05-12 23:00:00",

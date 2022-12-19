@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Mount Westmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,424 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,814 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 30 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 31 | [The Nigga Ya Love To Hate](https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [AmeriKKKa's Most Wanted](https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc) | 3:13 |
 | 32 | [Just Another Day](https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 7:21 |
-| 33 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
-| 34 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
+| 33 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
+| 34 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
 | 35 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
 | 36 | [Tonite](https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 5:23 |
 | 37 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Same Song \- Edit Version](https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 3:57 |
 | 50 | [Black Superman](https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT) | [Above The Law](https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N) | [Uncle Sam's Curse](https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb) | 4:27 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDAzYzczYjM5MWE2NDhiODVmNWExYWQxY2ZhNzVkMjNk`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDNmODhhMWYwMDNkYzUwMmY1OWQ3NGNmNjJhOTBkMzRk`

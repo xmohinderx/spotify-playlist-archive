@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,252 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,274 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 16 | [When You Go Home I Withdrawal](https://open.spotify.com/track/74Dqqy2wHjLluhgOwJVrn5) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Suffer Summer](https://open.spotify.com/album/0bQNLzwiW9RBH77MkGNp6k) | 3:22 |
 | 17 | [Drifter](https://open.spotify.com/track/4OH7gct9nw1hYQ6jiqOLB9) | [Rotten Mind](https://open.spotify.com/artist/7o7zpXvp9gkBEEy67YkXvo) | [Unflavored](https://open.spotify.com/album/16yRjYeWsanqXrOj1sz9rq) | 3:34 |
 | 18 | [Everything is Fine](https://open.spotify.com/track/2WKbuyUpuxbs3pAmwuaQbi) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Everything is Fine \(I'm Only on Fire\)](https://open.spotify.com/album/0Dd0YlPUpVHHM5fSYIzFEk) | 2:36 |
-| 19 | [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 |
+| 19 | [Crawling](https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY) | 2:44 |
 | 20 | [Born Yesterday](https://open.spotify.com/track/45TCUDE0fwhbP84CcTuYUh) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Born Yesterday](https://open.spotify.com/album/4YB32RDVOQCFIwF18pkmDy) | 3:22 |
 | 21 | [NUMBER](https://open.spotify.com/track/6InDikmZy2kOIzJTDVPxxW) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX) | 1:59 |
 | 22 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [i got what i asked for](https://open.spotify.com/track/73zlBhD7TDSIFrmcdUYoH3) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [i got what i asked for](https://open.spotify.com/album/7uHrq6RsMnfWJOkgwGoftj) | 3:11 |
 | 100 | [To Feel Young](https://open.spotify.com/track/2UVXTxWKffcUMcvSbGNua7) | [Tennis Courts](https://open.spotify.com/artist/1KiCYjJuX19VhFGFjztXn3) | [To Feel Young](https://open.spotify.com/album/5X5R6oiS8mBoOqSn44nf8W) | 4:27 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGQyMjA2YmIyMTJkNDM0ZWQxZTNkZTAwY2JhMDg2YzQ3`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDMzOThhZjc2OTUxOWRkODIxODg5MzM3NDZiOWFjM2M2`

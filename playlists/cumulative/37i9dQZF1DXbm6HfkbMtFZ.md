@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-461 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+462 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Day, All Night](https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like You Mean It](https://open.spotify.com/album/1x9DUB4rsa4HE9cbGHUXOi) | 2:11 | 2021-12-16 |  |
 | [All The Time \(feat\. Muroki\)](https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:08 | 2022-01-07 | 2022-04-20 |
 | [Alright](https://open.spotify.com/track/3HnQE5qyk3egTWCreicuOf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/6e2X313opvmQbWCvHdlADs) | 4:35 | 2022-03-30 | 2022-04-16 |
-| [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 | 2022-07-26 |  |
+| [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 | 2022-07-26 | 2022-12-19 |
 | [Always Afternoon](https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Always Afternoon](https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi) | 3:03 | 2022-03-30 |  |
 | [Always on My Mind \(Acoustic\)](https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7), [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Always on My Mind \(Acoustic\)](https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt) | 3:34 | 2022-06-21 | 2022-07-29 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-07-26 | 2022-09-27 |
@@ -358,6 +358,7 @@
 | [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 | 2022-01-21 | 2022-04-19 |
 | [Something Beautiful](https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Closer](https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE) | 3:58 | 2022-06-21 |  |
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-26 | 2022-12-01 |
+| [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-12-05 |  |
 | [Something Right](https://open.spotify.com/track/5Ec88SE65sNRZrcmVm6Qi8) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Maybe It's All We Dreamed Of](https://open.spotify.com/album/6yHHY9XFGfpGXlHfpm3ISF) | 4:04 | 2022-03-30 | 2022-04-21 |
 | [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 | 2022-10-21 |
 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 | 2022-03-30 | 2022-04-13 |

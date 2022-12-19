@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,393 likes - 114 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,398 likes - 114 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 |
+| 1 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/3S7mzKIQTEsWDPwdrCzrWu), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 |
 | 2 | [Revolting Children](https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt) | [Charlie Hodson\-Prior](https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF), [Meesha Garbett](https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4), [Liberty Greig](https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4), [The Cast of Roald Dahl's Matilda The Musical](https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf) | [Roald Dahl's Matilda The Musical \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo) | 2:54 |
 | 3 | [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 |
 | 4 | [What Goes Around](https://open.spotify.com/track/2lf81JXzjoJ9oRvBmC23OV) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:14 |

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 997243,
+  "num_followers": 997733,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDhiYjkyOTc0Y2FiM2NmZDljYTU2YjMyYmNiMDc1NmEy",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGIxYjExOGI0NGQyZTRhYWMyZGU5NTkyZjZmYTlhOTBh",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
     },
     {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
       "added_at": "2022-11-03 15:56:12",
       "album": {
         "name": "Inflation",
@@ -563,22 +579,6 @@
       "duration_ms": 199734,
       "name": "Inflation",
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "My Feeling For the Blues",
@@ -647,18 +631,18 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -679,6 +663,22 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
         "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 181786,
       "name": "She's A Sweet One",
       "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
     },
     {
-      "added_at": "2021-06-18 04:29:20",
-      "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 334400,
-      "name": "Blue Monday Hangover - Remastered",
-      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Johnny Winter",
@@ -979,6 +963,22 @@
       "duration_ms": 232453,
       "name": "Mean Mistreater",
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
+      "added_at": "2021-06-18 04:29:20",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Blue Monday Hangover - Remastered",
+      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
     },
     {
       "added_at": "2020-01-15 21:29:46",

@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 132824,
+  "num_followers": 132854,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMDQyODFhM2UyMDEzYmFiZjA0YTg1ZTdlOWM3MjQwYzky",
+  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMGU5NzA0MDI3NTVkMjIxMDk5N2FlNTBlNGZjZjJlZDcz",
   "tracks": [
     {
       "added_at": "2022-11-07 16:02:06",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Se Viene",
+      "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 307386,
       "name": "Triste Canci\u00f3n De Amor",
       "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Se Viene",
-      "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+        "name": "Casi Justicia Social I",
+        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
+      "duration_ms": 161880,
+      "name": "Misterios",
+      "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Casi Justicia Social I",
-        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
       "artists": [
         {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 161880,
-      "name": "Misterios",
-      "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
+      "duration_ms": 226586,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+        "name": "Casi Justicia Social I",
+        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
         }
       ],
-      "duration_ms": 312760,
-      "name": "De La Guitarra",
-      "url": "https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg"
+      "duration_ms": 339480,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Casi Justicia Social I",
-        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
       "artists": [
         {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 339480,
-      "name": "Suerte",
-      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
+      "duration_ms": 214090,
+      "name": "Las cosas que no se tocan",
+      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Asuntos de Familia",
-        "url": "https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 255315,
-      "name": "Magdalena",
-      "url": "https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Vengo Del Placard De Otro",
         "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "Asuntos de Familia",
+        "url": "https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
         }
       ],
-      "duration_ms": 214090,
-      "name": "Las cosas que no se tocan",
-      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
+      "duration_ms": 255315,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Mundo Perfecto",
         "url": "https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 228786,
       "name": "Hasta La Victoria",
       "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 312760,
+      "name": "De La Guitarra",
+      "url": "https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 324053,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Aunque Cueste Ver El Sol",
         "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 244093,
       "name": "Cielo De Un Solo Color",
       "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Asi Es el Rock And Roll",
+        "url": "https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 271571,
+      "name": "Chico Com\u00fan",
+      "url": "https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Asi Es el Rock And Roll",
-        "url": "https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F"
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 271571,
-      "name": "Chico Com\u00fan",
-      "url": "https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t"
+      "duration_ms": 324053,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
     },
     {
       "added_at": "2022-11-07 16:02:06",

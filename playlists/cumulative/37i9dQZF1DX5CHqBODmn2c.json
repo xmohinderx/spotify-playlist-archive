@@ -1953,7 +1953,7 @@
     {
       "album": {
         "name": "mono.",
-        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
       },
       "artists": [
         {
@@ -1964,6 +1964,24 @@
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
       "duration_ms": 275954,
       "name": "seoul (prod. HONNE)",
       "url": "https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ"

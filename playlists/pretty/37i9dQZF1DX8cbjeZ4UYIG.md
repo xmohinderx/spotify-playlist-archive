@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,958 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,116 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 43 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
 | 44 | [R.I.P.](https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P / Ice Cream & Syrup](https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W) | 4:36 |
 | 45 | [DJs Take Control](https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [DJs Take Control](https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW) | 5:05 |
-| 46 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
+| 46 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
 | 47 | [No Good \(Start the Dance\)](https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:19 |
-| 48 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
+| 48 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
 | 49 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
 | 50 | [A Trip to Trumpton](https://open.spotify.com/track/2XOZtfX5jRhHClanQCQKCB) | [Urban Hype](https://open.spotify.com/artist/3bc9afAmYFjpZAlUCdivKO) | [Conspiracy to Dance](https://open.spotify.com/album/5ZZWCQDEpQP09K6GyDziTd) | 3:35 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMGZiMjQ1ODNkNDliYTNhNzMyMDg2OTRkODk0NjkwZGM1`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDQ2YzY0YjdjMDcyZmJiNGIzMTY3ZmVmZTY5MGExNDlk`

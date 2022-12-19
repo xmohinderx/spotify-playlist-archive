@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 126684,
+  "num_followers": 126876,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGQyZDYwM2Y5NWZjZDYxODA2ZDlmZjk2ZjIyMTg3MGJk",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGU1ZGZmMjUxMmQwYjcxZDEyYmQ5NzA5ZTM5MzQxNzUz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
       "added_at": "2022-09-12 20:31:51",
       "album": {
         "name": "Can I Call You",
@@ -551,22 +567,6 @@
       "duration_ms": 262893,
       "name": "Can I Call You",
       "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2022-09-09 13:45:31",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
       "added_at": "2022-09-11 03:49:06",
       "album": {
         "name": "Forever",
@@ -789,20 +773,20 @@
       "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
     },
     {
-      "added_at": "2022-10-05 14:12:30",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
       },
       "artists": [
         {
-          "name": "Laundromat",
-          "url": "https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm"
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
         }
       ],
-      "duration_ms": 145641,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -819,6 +803,22 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
+    },
+    {
+      "added_at": "2022-10-05 14:12:30",
+      "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
+      },
+      "artists": [
+        {
+          "name": "Laundromat",
+          "url": "https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm"
+        }
+      ],
+      "duration_ms": 145641,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
     },
     {
       "added_at": "2022-09-12 20:45:15",
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Heartlow",
+        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 218925,
+      "name": "Heartlow - Edit",
+      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
+    },
+    {
       "added_at": "2022-09-27 21:46:39",
       "album": {
         "name": "Las Tres Hermanas",
@@ -1087,22 +1103,6 @@
       "duration_ms": 229000,
       "name": "Las Tres Hermanas",
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Heartlow",
-        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 218925,
-      "name": "Heartlow - Edit",
-      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
     },
     {
       "added_at": "2022-09-29 01:39:00",
@@ -1169,20 +1169,20 @@
       "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2022-02-09 04:04:07",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
+        "name": "Tintagel",
+        "url": "https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs"
       },
       "artists": [
         {
-          "name": "Perera Elsewhere",
-          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 237999,
-      "name": "Travel Lite",
-      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
+      "duration_ms": 228809,
+      "name": "Tintagel",
+      "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1199,6 +1199,22 @@
       "duration_ms": 301153,
       "name": "The Revolution Of Super Visions",
       "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
+      },
+      "artists": [
+        {
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
+        }
+      ],
+      "duration_ms": 237999,
+      "name": "Travel Lite",
+      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1223,22 +1239,6 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
-    },
-    {
-      "added_at": "2022-02-09 04:04:07",
-      "album": {
-        "name": "Tintagel",
-        "url": "https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 228809,
-      "name": "Tintagel",
-      "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
-      "added_at": "2022-09-21 02:36:16",
-      "album": {
-        "name": "Face The Music",
-        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
-      },
-      "artists": [
-        {
-          "name": "Lolina",
-          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
-        }
-      ],
-      "duration_ms": 460945,
-      "name": "Face The Music",
-      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
-    },
-    {
       "added_at": "2021-12-01 01:36:10",
       "album": {
         "name": "SEIM",
@@ -1399,6 +1383,22 @@
       "duration_ms": 173862,
       "name": "Escultura Misterio",
       "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
+    },
+    {
+      "added_at": "2022-09-21 02:36:16",
+      "album": {
+        "name": "Face The Music",
+        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
+      },
+      "artists": [
+        {
+          "name": "Lolina",
+          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
+        }
+      ],
+      "duration_ms": 460945,
+      "name": "Face The Music",
+      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
     },
     {
       "added_at": "2022-03-11 04:34:08",

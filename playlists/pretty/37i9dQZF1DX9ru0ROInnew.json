@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 75207,
+  "num_followers": 75295,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1OTg2NiwwMDAwMDAwMGM3YmJjODg1ZTRlNzhiMmQyNTA5ZTc3ZWZlNTM1NWJk",
+  "snapshot_id": "MTY3MDQ1OTg2NiwwMDAwMDAwMDA1NzY2ZTBmYmU3OWUxNzZlZTE5YzRjZDdkMDU4NWZh",
   "tracks": [
     {
       "added_at": "2022-08-17 17:45:27",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-08-17 17:45:27",
       "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+    },
+    {
+      "added_at": "2022-08-17 17:45:27",
+      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2022-08-17 17:45:27",
       "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
+    },
+    {
+      "added_at": "2022-08-17 17:45:27",
+      "album": {
         "name": "Real G's",
         "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
       },
@@ -1603,38 +1635,6 @@
       "duration_ms": 245232,
       "name": "Real G's",
       "url": "https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh"
-    },
-    {
-      "added_at": "2022-08-17 17:45:27",
-      "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
-    },
-    {
-      "added_at": "2022-08-17 17:45:27",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2022-08-17 17:45:27",

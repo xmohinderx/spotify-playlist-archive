@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Rich Homie Quan
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,005 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,017 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rich And Dangerous](https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Main Bird](https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo) | 3:12 |
-| 2 | [Please Breathe](https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Esparo](https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS), [Booka600](https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:37 |
+| 2 | [Please Breathe](https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Esparo](https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS), [Booka600](https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:37 |
 | 3 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
 | 4 | [Risk Takers](https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Risk Takers](https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1) | 2:21 |
 | 5 | [Went Deaf](https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Went Deaf](https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB) | 3:03 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 20 | [Eastside \(with Lil Tjay\) \- Remix](https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [LaZy, but i have goals \(Banned From Vermont\)](https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy) | 2:37 |
 | 21 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv) | 2:56 |
 | 22 | [Tez & Tone 1](https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Tez & Tone 1](https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd) | 3:50 |
-| 23 | [Silly Rabbit](https://open.spotify.com/track/5tJcWfPRu4K4jTFc4CTvSI) | [Hypno Carlito](https://open.spotify.com/artist/0ZVsDtaeXZtLz3qyVFViX4) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 3:08 |
+| 23 | [Silly Rabbit](https://open.spotify.com/track/5tJcWfPRu4K4jTFc4CTvSI) | [Hypno Carlito](https://open.spotify.com/artist/0ZVsDtaeXZtLz3qyVFViX4) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 3:08 |
 | 24 | [On 10 \(feat\. EST Gee\)](https://open.spotify.com/track/5QUd0OsjBoPDrNMUlovc7y) | [SipTee](https://open.spotify.com/artist/31rh41TZtR4OpDLeWa4muz), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [On 10](https://open.spotify.com/album/4kgelPL8DSWJdhG3sOtLgq) | 3:12 |
 | 25 | [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 |
 | 26 | [Rekindle 23](https://open.spotify.com/track/0DRK4uoktTTD9W72ZO4ObW) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Rekindle 23](https://open.spotify.com/album/0mWeL65r9hJVpFX8KvUSX4) | 3:23 |

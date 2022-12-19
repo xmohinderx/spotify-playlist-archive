@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 27725,
+  "num_followers": 27741,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3NDQ2MiwwMDAwMDAwMDNjNzMyNjFhNjI3YjZiNDU1ZTFjY2QzMmFmYzBmNmVm",
+  "snapshot_id": "MTY3MTE3NDQ2MiwwMDAwMDAwMDM4OTAzMmVkMWVjYmY2ODE1M2M4NDRkZGNhOGFjNzFi",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
-      "added_at": "2022-12-18 01:18:40",
+      "added_at": "2022-12-19 00:15:12",
       "album": {
         "name": "Don't Let Go",
         "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Waves (feat. Grace Tither)",
         "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 208995,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -1087,22 +1067,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Talk (Remixes)",
-        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
       },
       "artists": [
         {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
         },
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
-      "duration_ms": 192928,
-      "name": "Talk (with Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1119,6 +1099,26 @@
       "duration_ms": 162782,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Talk (Remixes)",
+        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 192928,
+      "name": "Talk (with Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Come Along",
-        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
-        }
-      ],
-      "duration_ms": 164304,
-      "name": "Come Along",
-      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Feelings After Dark (feat. NISHA)",
         "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
       },
@@ -1207,6 +1187,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
       },
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
+      "duration_ms": 164304,
+      "name": "Come Along",
+      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z"
     },
     {
+      "added_at": "2022-12-19 00:15:12",
+      "album": {
+        "name": "All The Highs (Alternate Versions)",
+        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 231543,
+      "name": "All The Highs - Slowed",
+      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
+    },
+    {
       "added_at": "2022-12-01 23:00:00",
       "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
@@ -1395,6 +1411,26 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Max Vidima",
+          "url": "https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/3GjLINFWwkDBAylZHl4jLY"
       },
@@ -1415,26 +1451,6 @@
       "duration_ms": 158608,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Max Vidima",
-          "url": "https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
-    },
-    {
-      "added_at": "2022-12-18 01:18:40",
-      "album": {
-        "name": "All The Highs (Alternate Versions)",
-        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 231543,
-      "name": "All The Highs - Slowed",
-      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
     },
     {
       "added_at": "2022-12-01 23:00:00",

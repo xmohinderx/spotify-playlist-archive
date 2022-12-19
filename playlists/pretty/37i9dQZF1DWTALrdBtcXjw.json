@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 396321,
+  "num_followers": 396393,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQwNTcwMSwwMDAwMDAwMDU2ZGExOGViMTllNDViZTUwN2IyMTIyMTE1YTA5YTYy",
+  "snapshot_id": "MTY3MDQwNTcwMSwwMDAwMDAwMGRmNGRhNGE1ZWUxM2UzNTEzMGUxM2JjMjE3MzFkZDJm",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Fridays",
+        "url": "https://open.spotify.com/album/5pvCfDy1k6koVQYUYSvEIb"
+      },
+      "artists": [
+        {
+          "name": "Holborns",
+          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+        }
+      ],
+      "duration_ms": 185267,
+      "name": "Fridays",
+      "url": "https://open.spotify.com/track/3Y23H0dJCyZ8Whxh59eJEB"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Red Sails in the Sunset",
         "url": "https://open.spotify.com/album/4fzCadgnY1EYsXAeJJGYMW"
       },
@@ -219,18 +235,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Fridays",
-        "url": "https://open.spotify.com/album/5pvCfDy1k6koVQYUYSvEIb"
+        "name": "I've Got The World On A String",
+        "url": "https://open.spotify.com/album/2d3RRqSl4gfGbqJ93hdAwI"
       },
       "artists": [
         {
-          "name": "Holborns",
-          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
         }
       ],
-      "duration_ms": 185267,
-      "name": "Fridays",
-      "url": "https://open.spotify.com/track/3Y23H0dJCyZ8Whxh59eJEB"
+      "duration_ms": 257566,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -283,22 +299,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "I've Got The World On A String",
-        "url": "https://open.spotify.com/album/2d3RRqSl4gfGbqJ93hdAwI"
-      },
-      "artists": [
-        {
-          "name": "Al Fowler Trio",
-          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
-        }
-      ],
-      "duration_ms": 257566,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Setembro",
         "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 305565,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "I Wish I Knew How",
         "url": "https://open.spotify.com/album/1hTWsiAwmLzazoypEV1B67"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 230223,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/3XEbmnM9sO4aAmwzlZoBca"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 305565,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Changes over Time",
-        "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
-      },
-      "artists": [
-        {
-          "name": "Jon Davis",
-          "url": "https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc"
-        }
-      ],
-      "duration_ms": 245698,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "The Impulse Story",
         "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Changes over Time",
+        "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
+      },
+      "artists": [
+        {
+          "name": "Jon Davis",
+          "url": "https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc"
+        }
+      ],
+      "duration_ms": 245698,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Bright Light",
         "url": "https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 296020,
       "name": "For EH",
       "url": "https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Iron Starlet",
-        "url": "https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN"
-      },
-      "artists": [
-        {
-          "name": "Connie Han",
-          "url": "https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG"
-        }
-      ],
-      "duration_ms": 322693,
-      "name": "Captain\u2019s Song",
-      "url": "https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -651,6 +635,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Iron Starlet",
+        "url": "https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN"
+      },
+      "artists": [
+        {
+          "name": "Connie Han",
+          "url": "https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG"
+        }
+      ],
+      "duration_ms": 322693,
+      "name": "Captain\u2019s Song",
+      "url": "https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "If You Want To",
         "url": "https://open.spotify.com/album/3PMjBQoX0kmaHpPPLFP2c6"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 166595,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "M\u00e9lodies en noir & blanc",
-        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Romano",
-          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
-        }
-      ],
-      "duration_ms": 246633,
-      "name": "L.A. 58",
-      "url": "https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "M\u00e9lodies en noir & blanc",
+        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Romano",
+          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
+        }
+      ],
+      "duration_ms": 246633,
+      "name": "L.A. 58",
+      "url": "https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -735,26 +735,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Triple Play",
-        "url": "https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr"
+        "name": "Heartsongs",
+        "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
       },
       "artists": [
         {
-          "name": "Harold Danko",
-          "url": "https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw"
-        },
-        {
-          "name": "Jay Anderson",
-          "url": "https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV"
-        },
-        {
-          "name": "Jeff Hirshfield",
-          "url": "https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ"
+          "name": "Fred Hersch Trio",
+          "url": "https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP"
         }
       ],
-      "duration_ms": 433266,
-      "name": "Ancient and Distant",
-      "url": "https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF"
+      "duration_ms": 514897,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -775,18 +767,26 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Heartsongs",
-        "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
+        "name": "Triple Play",
+        "url": "https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr"
       },
       "artists": [
         {
-          "name": "Fred Hersch Trio",
-          "url": "https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP"
+          "name": "Harold Danko",
+          "url": "https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw"
+        },
+        {
+          "name": "Jay Anderson",
+          "url": "https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV"
+        },
+        {
+          "name": "Jeff Hirshfield",
+          "url": "https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ"
         }
       ],
-      "duration_ms": 514897,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1"
+      "duration_ms": 433266,
+      "name": "Ancient and Distant",
+      "url": "https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "I'm Old Fashioned",
-        "url": "https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3"
-      },
-      "artists": [
-        {
-          "name": "Charles Cook Jr.",
-          "url": "https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y"
-        }
-      ],
-      "duration_ms": 261377,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Have You Met Miss Jones",
         "url": "https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 188797,
       "name": "Have You Met Miss Jones",
       "url": "https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "I'm Old Fashioned",
+        "url": "https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3"
+      },
+      "artists": [
+        {
+          "name": "Charles Cook Jr.",
+          "url": "https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y"
+        }
+      ],
+      "duration_ms": 261377,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -975,26 +975,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "I Remember Cedar",
-        "url": "https://open.spotify.com/album/5kM4FI7fxp22Lro1mBnVTy"
+        "name": "Everybody Gets the Blues",
+        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
       },
       "artists": [
         {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        },
-        {
-          "name": "David Williams",
-          "url": "https://open.spotify.com/artist/1Qondy0id4ABDI62mzlCcX"
-        },
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
         }
       ],
-      "duration_ms": 362760,
-      "name": "Dear Ruth",
-      "url": "https://open.spotify.com/track/45VPHeZWtLlm2xjQMwRNGn"
+      "duration_ms": 229226,
+      "name": "Everybody Gets the Blues",
+      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1027,18 +1019,26 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Everybody Gets the Blues",
-        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
+        "name": "I Remember Cedar",
+        "url": "https://open.spotify.com/album/5kM4FI7fxp22Lro1mBnVTy"
       },
       "artists": [
         {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        },
+        {
+          "name": "David Williams",
+          "url": "https://open.spotify.com/artist/1Qondy0id4ABDI62mzlCcX"
+        },
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
         }
       ],
-      "duration_ms": 229226,
-      "name": "Everybody Gets the Blues",
-      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
+      "duration_ms": 362760,
+      "name": "Dear Ruth",
+      "url": "https://open.spotify.com/track/45VPHeZWtLlm2xjQMwRNGn"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1055,6 +1055,22 @@
       "duration_ms": 459186,
       "name": "Relaxin' with Nick",
       "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Fools Rush In",
+        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "Nice \u2019n\u2019 Easy",
+      "url": "https://open.spotify.com/track/5So17jMxo4gJ19CwZV5Sxt"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Fools Rush In",
-        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
-      },
-      "artists": [
-        {
-          "name": "The Southern Belle",
-          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "Nice \u2019n\u2019 Easy",
-      "url": "https://open.spotify.com/track/5So17jMxo4gJ19CwZV5Sxt"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 294000,
       "name": "Dolphin Dance",
       "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Life's Love Songs",
-        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 372376,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Bassic Instinct",
+        "url": "https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 220329,
+      "name": "The Best Thing for You (Would Be Me)",
+      "url": "https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "From Here I See",
         "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Life's Love Songs",
+        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 372376,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Out Here",
         "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 504456,
       "name": "Ham Hocks and Cabbage",
       "url": "https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Bassic Instinct",
-        "url": "https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 220329,
-      "name": "The Best Thing for You (Would Be Me)",
-      "url": "https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
+        "name": "Uptown, Downtown",
+        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
         }
       ],
-      "duration_ms": 290447,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
+      "duration_ms": 405973,
+      "name": "Bon ami",
+      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1271,6 +1271,54 @@
       "duration_ms": 331133,
       "name": "Denzil's Best",
       "url": "https://open.spotify.com/track/6IuiRJsGQ1pCqyGwc9lBgi"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        }
+      ],
+      "duration_ms": 290447,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Crime Zone",
+        "url": "https://open.spotify.com/album/45XJNADDsniF16VElBvwr8"
+      },
+      "artists": [
+        {
+          "name": "Connie Han",
+          "url": "https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG"
+        }
+      ],
+      "duration_ms": 381050,
+      "name": "Pretty Women",
+      "url": "https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "The Feeling of Jazz",
+        "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 292521,
+      "name": "The Feeling of Jazz",
+      "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1295,38 +1343,6 @@
       "duration_ms": 325046,
       "name": "The Odd Couple",
       "url": "https://open.spotify.com/track/1eQjKq6FlYU7kJGm3J4FbR"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Uptown, Downtown",
-        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 405973,
-      "name": "Bon ami",
-      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Crime Zone",
-        "url": "https://open.spotify.com/album/45XJNADDsniF16VElBvwr8"
-      },
-      "artists": [
-        {
-          "name": "Connie Han",
-          "url": "https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG"
-        }
-      ],
-      "duration_ms": 381050,
-      "name": "Pretty Women",
-      "url": "https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1359,46 +1375,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "The Feeling of Jazz",
-        "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 292521,
-      "name": "The Feeling of Jazz",
-      "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/1Enu9y8qf10c0w7eykUfmB"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        },
-        {
-          "name": "Marco Fratini",
-          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
-        },
-        {
-          "name": "Giovanni Paolo Liguori",
-          "url": "https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH"
-        }
-      ],
-      "duration_ms": 346923,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/0h3wot8Yt2SKK6Nw170b0M"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -1423,18 +1399,50 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "The New Classic Trio",
-        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
+        "name": "Letter to Evan",
+        "url": "https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM"
       },
       "artists": [
         {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        },
+        {
+          "name": "Danny Gottlieb",
+          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
         }
       ],
-      "duration_ms": 329653,
-      "name": "Blues for Sharpie",
-      "url": "https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ"
+      "duration_ms": 270890,
+      "name": "Letter to Evan",
+      "url": "https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/1Enu9y8qf10c0w7eykUfmB"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Marco Fratini",
+          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
+        },
+        {
+          "name": "Giovanni Paolo Liguori",
+          "url": "https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH"
+        }
+      ],
+      "duration_ms": 346923,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/0h3wot8Yt2SKK6Nw170b0M"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1471,26 +1479,38 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Letter to Evan",
-        "url": "https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM"
+        "name": "The End of a Bug Affair",
+        "url": "https://open.spotify.com/album/1vVUQWQsuJM5yeCSx5MhOZ"
       },
       "artists": [
         {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+          "name": "Dominik Sch\u00fcrmann trio",
+          "url": "https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK"
         },
         {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+          "name": "Max Ionata",
+          "url": "https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz"
         }
       ],
-      "duration_ms": 270890,
-      "name": "Letter to Evan",
-      "url": "https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2"
+      "duration_ms": 325705,
+      "name": "The End of a Bug Affair",
+      "url": "https://open.spotify.com/track/1Jap4wnqf3Ykn7WEayPjss"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "The New Classic Trio",
+        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 329653,
+      "name": "Blues for Sharpie",
+      "url": "https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1527,42 +1547,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Another Standard",
-        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
-      },
-      "artists": [
-        {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "The End of a Bug Affair",
-        "url": "https://open.spotify.com/album/1vVUQWQsuJM5yeCSx5MhOZ"
-      },
-      "artists": [
-        {
-          "name": "Dominik Sch\u00fcrmann trio",
-          "url": "https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK"
-        },
-        {
-          "name": "Max Ionata",
-          "url": "https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz"
-        }
-      ],
-      "duration_ms": 325705,
-      "name": "The End of a Bug Affair",
-      "url": "https://open.spotify.com/track/1Jap4wnqf3Ykn7WEayPjss"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Second Strike",
         "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
       },
@@ -1579,26 +1563,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Very Early",
-        "url": "https://open.spotify.com/album/0fPVsQec9DfwuSfWSNdp7d"
+        "name": "Another Standard",
+        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
       "artists": [
         {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
         }
       ],
-      "duration_ms": 485505,
-      "name": "Very Early",
-      "url": "https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG"
+      "duration_ms": 277306,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1627,6 +1603,30 @@
       "duration_ms": 507816,
       "name": "Cinquantuno",
       "url": "https://open.spotify.com/track/6Gx9ztDiJ3mcMEHO96w6Kb"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Very Early",
+        "url": "https://open.spotify.com/album/0fPVsQec9DfwuSfWSNdp7d"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 485505,
+      "name": "Very Early",
+      "url": "https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 401813,
-      "name": "Summer In Central Park",
-      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Passenger",
         "url": "https://open.spotify.com/album/6scMvwpK5ncTSk7Ab8H1Qe"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 424132,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+      },
+      "artists": [
+        {
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+        }
+      ],
+      "duration_ms": 401813,
+      "name": "Summer In Central Park",
+      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
     },
     {
       "added_at": "2022-12-01 23:00:00",

@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-108 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
+109 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-11-30 |  |
 | [Ordinary People](https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:13 | 2022-11-30 |  |
 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 | 2022-11-30 |  |
-| [Paint \- Stripped](https://open.spotify.com/track/4xzw6Yoajqnl0xdgVDAxhu) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint \(Stripped\)](https://open.spotify.com/album/7nvo38b7mkqCLJIXpKONBX) | 5:05 | 2022-11-30 |  |
+| [Paint](https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Paint](https://open.spotify.com/album/5acGmCJHKwbGdnguz1Bpnz) | 4:31 | 2022-12-15 |  |
+| [Paint \- Stripped](https://open.spotify.com/track/4xzw6Yoajqnl0xdgVDAxhu) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint \(Stripped\)](https://open.spotify.com/album/7nvo38b7mkqCLJIXpKONBX) | 5:05 | 2022-11-30 | 2022-12-19 |
 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 | 2021-11-30 | 2022-11-14 |
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2021-11-30 |  |
 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 | 2022-11-30 |  |

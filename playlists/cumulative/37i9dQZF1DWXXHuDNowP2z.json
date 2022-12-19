@@ -1824,6 +1824,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F"
+      },
+      "artists": [
+        {
+          "name": "La Casetera",
+          "url": "https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365795,
+      "name": "Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / C\u00f3mo Est\u00e1s T\u00fa - En Vivo Desde Monterrey",
+      "url": "https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO"
+    },
+    {
+      "album": {
         "name": "Arrasando Con Fuego",
         "url": "https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g"
       },
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 208875,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"

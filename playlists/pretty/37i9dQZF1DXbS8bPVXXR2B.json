@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 182476,
+  "num_followers": 182608,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDJiODE4YTY4MmVjYTBlMjJhZWZkZTU4YjUyYzU5NmUz",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDVlMTQ3YjIwNGMwNmUyNjFjNGRmYWMzOTI4MDM0ZTRi",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Charles Webster - Coast2Coast",
-        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        }
-      ],
-      "duration_ms": 396546,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 375106,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Charles Webster - Coast2Coast",
+        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "duration_ms": 396546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
-      },
-      "artists": [
-        {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
-        }
-      ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Brooklyn, Bronx & Queens Band",
         "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+        }
+      ],
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

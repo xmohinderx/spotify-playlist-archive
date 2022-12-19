@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,186 likes - 155 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,318 likes - 155 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

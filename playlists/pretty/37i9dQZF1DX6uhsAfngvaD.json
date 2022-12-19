@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 270529,
+  "num_followers": 270620,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGU1MDJmN2UwYTk4OWVlZDBjMWU2OTM4OGY2ZWMyOTlm",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDExODUyY2U4ZjM1Y2UwNjFjOTYxMWVkNjA2MGQ1N2Qz",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 202502,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Chinatown (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 247968,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 202502,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
+      },
+      "artists": [
+        {
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+        }
+      ],
+      "duration_ms": 160700,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "loom",
         "url": "https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 204178,
       "name": "\u00c9lan Vital (feat. \u4e45\u4fdd\u7530\u30ea\u30e7\u30a6\u30d8\u30a4)",
       "url": "https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
-      },
-      "artists": [
-        {
-          "name": "Swiss Portrait",
-          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
-        }
-      ],
-      "duration_ms": 160700,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "never had a place",
-        "url": "https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX"
-      },
-      "artists": [
-        {
-          "name": "Jadu Jadu",
-          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 173774,
-      "name": "never had a place",
-      "url": "https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Leviosa",
         "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 235653,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "never had a place",
+        "url": "https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX"
+      },
+      "artists": [
+        {
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 173774,
+      "name": "never had a place",
+      "url": "https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "So Humble The Afternoon",
+        "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 322840,
+      "name": "So Humble the Afternoon",
+      "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Back Into Your Arms",
         "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 263801,
       "name": "Back Into Your Arms",
       "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "So Humble The Afternoon",
-        "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 322840,
-      "name": "So Humble the Afternoon",
-      "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
     },
     {
       "added_at": "2022-07-06 15:18:34",

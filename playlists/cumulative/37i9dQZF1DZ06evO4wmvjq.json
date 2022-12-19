@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 106933,
       "name": "5 Preludes, Op. 74: No. 4. Lent, vague, indecis",
       "url": "https://open.spotify.com/track/2DTebRH0zNQK1KJU5UfW0s"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 104000,
       "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
       "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"
@@ -1063,6 +1063,24 @@
       "duration_ms": 365306,
       "name": "La Muerte en Medias Caladas Negras",
       "url": "https://open.spotify.com/track/5JA6S6rXT6GkSu64nSeqtg"
+    },
+    {
+      "album": {
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "Land's End",
+      "url": "https://open.spotify.com/track/6vF5EhJM7nnovxzL2tz0kN"
     },
     {
       "album": {
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 208573,
       "name": "Never Leave I",
       "url": "https://open.spotify.com/track/3fbrJruhyq5ph3jCNd8D1g"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 458436,
       "name": "Part III - Live 1974",
       "url": "https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 554672,
       "name": "Part VII - Live 1974",
       "url": "https://open.spotify.com/track/0uq9fIUxNfEUxM5qa1zX8C"

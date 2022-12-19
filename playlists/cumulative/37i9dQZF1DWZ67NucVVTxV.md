@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-182 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+183 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2021-07-05 |  |
 | [Para](https://open.spotify.com/track/7l9zXQwQt3lJTsRCULlPvl) | [YungAce](https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO) | [Para](https://open.spotify.com/album/2t3uvnpiuaPxTLtiW0Tl7b) | 2:07 | 2022-07-22 |  |
 | [Personal](https://open.spotify.com/track/2hRazi6Y5U8NuYK1x1ECk0) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Personal](https://open.spotify.com/album/0K0z0pnqfYiY8jy5FOW4lo) | 2:59 | 2021-12-09 |  |
+| [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 |  |
 | [Picanto](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [Picanto](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2022-11-25 |  |
 | [Pleasure](https://open.spotify.com/track/6INtRY5ec8tZ0DWkjHurfw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Pleasure](https://open.spotify.com/album/3muAl354ZsR01jO4Gsi22W) | 3:03 | 2022-08-26 | 2022-09-20 |
 | [Poppin'](https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM) | [Django23](https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Poppin'](https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG) | 3:01 | 2022-05-26 | 2022-08-13 |

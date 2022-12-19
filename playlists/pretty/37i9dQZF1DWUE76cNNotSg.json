@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 405197,
+  "num_followers": 405318,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGNkMDQwZGM3ZTliYWJiOWRjMDRkYzhhNWRiYjQ2Y2Yz",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGFiMjk4Nzg4MGQzNmExNjZlZDQzNGZiMjA0YTU5ZWFl",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 267962,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Luv Is Not Enough (Remixes)",
         "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 267962,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Zanzibar",
-        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
-      },
-      "artists": [
-        {
-          "name": "Kamaliza",
-          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
-        }
-      ],
-      "duration_ms": 228937,
-      "name": "Zanzibar",
-      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Zanzibar",
+        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
+      },
+      "artists": [
+        {
+          "name": "Kamaliza",
+          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "Zanzibar",
+      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Emerson Leif",
+          "url": "https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0"
+        }
+      ],
+      "duration_ms": 251279,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -1115,46 +1135,6 @@
       "duration_ms": 243284,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM"
-      },
-      "artists": [
-        {
-          "name": "Golden Vessel",
-          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
-        },
-        {
-          "name": "Emerson Leif",
-          "url": "https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0"
-        }
-      ],
-      "duration_ms": 251279,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Feel It Still (The Remixes)",
-        "url": "https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1239,6 +1219,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "UH",
+      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1267,22 +1263,6 @@
       "duration_ms": 222439,
       "name": "Drift",
       "url": "https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "UH",
-      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1317,22 +1297,6 @@
       "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
     },
     {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "How Many Times?",
-        "url": "https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 238999,
-      "name": "How Many Times?",
-      "url": "https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Low Season",
@@ -1351,6 +1315,22 @@
       "duration_ms": 237560,
       "name": "Kinda Lovely",
       "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "How Many Times?",
+        "url": "https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 238999,
+      "name": "How Many Times?",
+      "url": "https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL"
     },
     {
       "added_at": "2021-03-19 20:47:30",
@@ -1383,6 +1363,26 @@
       "duration_ms": 305480,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "S\u00e9quences (Remixes)",
+        "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "S\u00e9quences - Parcels Remix",
+      "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
     }
   ],
   "unique_name": "golden hour",

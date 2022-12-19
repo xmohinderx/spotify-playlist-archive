@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-247 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
+248 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Open the Door](https://open.spotify.com/track/6d6JJ0RACDrhoB0au4ZKK7) | [Gentlemen Afterdark](https://open.spotify.com/artist/72TUzKxAg7USYLvPjZX2LB) | [Open the Door](https://open.spotify.com/album/5DXzjQDfJzv3gQnnNSgtQh) | 3:25 | 2019-07-10 |  |
 | [Pass the Dutchie](https://open.spotify.com/track/0Z5J7G9K6yeNUBiTJZ033b) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Pass The Dutchie](https://open.spotify.com/track/61DMVgtuAhW1C0UHRljmf2) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Throwback Reggae](https://open.spotify.com/album/29bm8H4n8IXsEK6UltWIlO) | 3:23 | 2022-05-27 | 2022-11-13 |
-| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-27 |  |
+| [Pass The Dutchie](https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [The Youth Of Today](https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs) | 3:24 | 2022-05-27 |  |
+| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-27 | 2022-12-19 |
 | [Phone To Phone](https://open.spotify.com/track/6pPKgQdyvfkjG9qKFTXaAO) | [Life By Night](https://open.spotify.com/artist/7A6FpPdAKjqCTqmAHfzjC0) | [Life By Night](https://open.spotify.com/album/02nJuwBiWA8a5y2N3laF8I) | 4:01 | 2019-07-10 |  |
 | [Place In My Heart](https://open.spotify.com/track/1erWAgZvzmPB75mPJbUMFM) | [Brian Page](https://open.spotify.com/artist/7ocXKCgQg92iRXR6KqbjOY) | [The Very Best of Brian Page](https://open.spotify.com/album/3FLC1iqQodpfZm7MGbDoTZ) | 5:56 | 2019-07-10 |  |
 | [Planck's Constant](https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:19 | 2019-07-10 |  |

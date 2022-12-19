@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,714 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,757 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 7 | [Tumbling Tumbleweeds](https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS) | [Leo Kottke](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx) | [Guitar Music](https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj) | 2:44 |
 | 8 | [All Aboard](https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Shapes of the Fall](https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU) | 3:31 |
 | 9 | [Alberta](https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:41 |
-| 10 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
+| 10 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
 | 11 | [Deep Gap](https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 3:23 |
-| 12 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
+| 12 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 13 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
 | 14 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 15 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 34 | [In the Morning Twilight](https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea) | [Steffen Basho\-Junghans](https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx) | [In the Morning Twilight](https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI) | 6:24 |
 | 35 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
 | 36 | [Hemet Pine Singer](https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB) | [Will Stratton](https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 3:49 |
-| 37 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 |
+| 37 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 38 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 |
-| 39 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
+| 39 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 |
 | 40 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 |
 | 41 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 |
 | 42 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Trouble In Mind](https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Blowin' The Fuses](https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT) | 2:57 |
 | 50 | [Ghost Dance](https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Time Flies](https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG) | 3:33 |
 
-Snapshot ID: `MTY2OTM4MTM5MSwwMDAwMDAwMDg2YzJkMzVkODA1MmUzMGYwYmYzNWJhYjExMjEyZjdl`
+Snapshot ID: `MTY2OTM4MTM5MSwwMDAwMDAwMDQ0NmJmMjNkYmUzNmVkZmJkMzQ1YWY1NDkzY2NmNDFh`

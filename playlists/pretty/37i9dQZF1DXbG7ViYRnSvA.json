@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 3699,
+  "num_followers": 3733,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGFmNDU3NTdlYTUwMjg3MjhhYzRiM2E2ZDYxNmExMzVk",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGIzMzdlY2RiZTM3YzJkNWZkYWM0OGY5MTQ0OWZkOWI5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -83,6 +83,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 324226,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Lions, Tigers & Bears",
-      "url": "https://open.spotify.com/track/7zqM7Wm2xJLZ50qAnTLoHD"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Lions, Tigers & Bears",
+      "url": "https://open.spotify.com/track/7zqM7Wm2xJLZ50qAnTLoHD"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 508226,
       "name": "Another Star",
       "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -507,30 +507,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Everything's Beautiful",
-        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 449773,
-      "name": "Maiysha (So Long) (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 448000,
       "name": "We Major",
       "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Everything's Beautiful",
+        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 449773,
+      "name": "Maiysha (So Long) (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "My Life (Deluxe / Commentary Edition)",
+        "url": "https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "A Beautiful Revolution Pt. 1 & 2",
         "url": "https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "My Life (Deluxe / Commentary Edition)",
-        "url": "https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc"
     },
     {
       "added_at": "2022-10-01 16:00:00",

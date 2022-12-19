@@ -1,12 +1,12 @@
 {
   "description": "Stripped back recordings like nothing you\u2019ve heard before.  Cover: Lewis Capaldi. ",
-  "num_followers": 150348,
+  "num_followers": 150377,
   "original_name": "Spotify Singles: Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwNzA4MCwwMDAwMDAwMDQ0YmVkMzEyYjE0MTc3MTlhZmFjMGQ1OGZlYmMzM2Ez",
+  "snapshot_id": "MTY2NjgwNzA4MCwwMDAwMDAwMDRlNDYyNTE3OTExNTU5MjhjMjRmNDdmM2VlZDUzOTQ2",
   "tracks": [
     {
       "added_at": "2022-09-01 19:39:10",
@@ -872,22 +872,6 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 346397,
-      "name": "Hallelujah - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
       },
       "artists": [
@@ -899,6 +883,22 @@
       "duration_ms": 207600,
       "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 346397,
+      "name": "Hallelujah - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -1496,22 +1496,6 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 209840,
-      "name": "Think About You - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4"
       },
       "artists": [
@@ -1528,17 +1512,17 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Out Of Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI"
+      "duration_ms": 209840,
+      "name": "Think About You - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -1555,6 +1539,22 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Out Of Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI"
     },
     {
       "added_at": "2022-03-09 14:34:06",

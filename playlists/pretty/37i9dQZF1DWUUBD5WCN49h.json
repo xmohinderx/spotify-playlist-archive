@@ -1,12 +1,12 @@
 {
   "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=2HgKz2LQRDmlX_TiWvxZsg\"> Kold AF</a> ",
-  "num_followers": 7570,
+  "num_followers": 7595,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNjQ4NSwwMDAwMDAwMGEwZTE5YWUyYjk2NmNiZjQ2NzI1NjQ1NGEyYjZkOWE5",
+  "snapshot_id": "MTY3MTM1OTI4NSwwMDAwMDAwMDIxYTk3YjA2NjkwNWY5ZDUwY2ZhMGY3ZjE1MDAyYTNj",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0"
     },
     {
+      "added_at": "2022-12-18 10:28:05",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/679QYO0qB3DfJMcznjWmA7"
+      },
+      "artists": [
+        {
+          "name": "Keziah Mallam",
+          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
+        }
+      ],
+      "duration_ms": 204635,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6Dyk6CtOm4hDWnrdGVXKSd"
+    },
+    {
       "added_at": "2022-11-18 11:31:46",
       "album": {
         "name": "Love Station",
@@ -195,6 +211,22 @@
       "duration_ms": 151578,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
+    },
+    {
+      "added_at": "2022-12-18 10:28:05",
+      "album": {
+        "name": "Senth Of Her",
+        "url": "https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb"
     },
     {
       "added_at": "2022-10-07 00:54:42",
@@ -1205,22 +1237,6 @@
       "url": "https://open.spotify.com/track/27YwMCIG7Rx9czTR625Wfz"
     },
     {
-      "added_at": "2022-09-23 06:35:46",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2daciEhNwCAn5tXKLy6bfO"
-      },
-      "artists": [
-        {
-          "name": "Keziah Mallam",
-          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6pm2JIQTljsJXOm0eSQxib"
-    },
-    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Don't Look Down!",
@@ -1387,30 +1403,6 @@
       "duration_ms": 189789,
       "name": "No Room For Love",
       "url": "https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "For Good Reasons",
-        "url": "https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Merry-Lynn",
-          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
-        },
-        {
-          "name": "SUTRA",
-          "url": "https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM"
-        }
-      ],
-      "duration_ms": 188860,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW"
     }
   ],
   "unique_name": "Sizzlers ",

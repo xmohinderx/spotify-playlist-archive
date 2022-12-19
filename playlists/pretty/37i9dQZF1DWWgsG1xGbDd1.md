@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,024 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,122 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 2 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
 | 3 | [Bobby Babylon](https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 2:27 |
 | 4 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
-| 5 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
-| 6 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
+| 5 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
+| 6 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
 | 7 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
 | 8 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 9 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [You'll Get Your Pay](https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe) | [Linton Cooper \(w\. The Brentford Disco Set\)](https://open.spotify.com/artist/0Zc8HYdVsRDDYj2atgS3aI) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 2:56 |
 | 60 | [Real Rock](https://open.spotify.com/track/5jnA4sMHH7OiImyOHKSVdl) | [Sound Dimension](https://open.spotify.com/artist/5OUHQrNOEtdwwSo7I68lzv) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 2:31 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMGU0ZTgyZDgyZWU5MjA2ZmY0NTNiYWJjZTk5OGUxMzRi`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDQyOWY5OWFjMDQxYjY1YTdjZDYyODBjODc3OTViMDA2`

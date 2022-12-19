@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,949 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,971 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 41 | [Pa Olvidarte \(feat\. Manuel Turizo\) \- Remix](https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa Olvidarte \(feat\. Manuel Turizo\) \[Remix\]](https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0) | 4:16 |
 | 42 | [Sueño \(con Pablo Alborán\)](https://open.spotify.com/track/71M1szVbVYZM5M6QlIm6aC) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:05 |
 | 43 | [Tu Foto Del DNI](https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8) | 2:59 |
-| 44 | [Bailemos](https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Incendios](https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR) | 3:30 |
-| 45 | [Recuerdo](https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Recuerdo](https://open.spotify.com/album/28RBKKab2bzmcaKzW8h3Ji) | 3:20 |
+| 44 | [Recuerdo](https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Recuerdo](https://open.spotify.com/album/28RBKKab2bzmcaKzW8h3Ji) | 3:20 |
+| 45 | [Bailemos](https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Incendios](https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR) | 3:30 |
 | 46 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
 | 47 | [Los Consejos](https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Consejos](https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs) | 2:56 |
 | 48 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 | 60 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 
-Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMGQyOWE4ZDQyZjRiZTE3YzcyOTYzZGVmMGVlZTg2MGI1`
+Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMGI1N2E1NzZlODZkNzQ0Mzc1OGY3Y2UyMTc1YzViODZi`

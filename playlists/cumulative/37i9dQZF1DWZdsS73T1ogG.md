@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: YOVNGCHIMI & Lunay
 
-356 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+357 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 | 2022-08-19 | 2022-11-26 |
 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 | 2022-12-17 |
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-03-29 | 2022-07-09 |
+| [Patio de la Cárcel \- Tangos](https://open.spotify.com/track/6dCJdn6puMU4OFbIqTzLDy) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Patio de la Cárcel \(Tangos\)](https://open.spotify.com/album/3a7J9AYQxcUpC5RaFJw59c) | 3:22 | 2022-12-18 |  |
 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 | 2022-07-01 | 2022-07-30 |
 | [Peligrosa](https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Peligrosa](https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f) | 2:24 | 2022-12-02 |  |
 | [Perfect](https://open.spotify.com/track/0tOWRZCnNe1ZYxHT8MnbhP) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Perfect](https://open.spotify.com/album/46aful2GWny0ItyMEkXz3F) | 3:41 | 2022-09-16 | 2022-12-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Las artistas que marcaron el año con Nicki Nicole en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,354 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,376 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 21 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 22 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
 | 23 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
-| 24 | [Afuera](https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Afuera](https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3) | 3:27 |
-| 25 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
-| 26 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
-| 27 | [AREA 69](https://open.spotify.com/track/7zwr2S6zTLQqt3IQ4wpht1) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [AREA 69](https://open.spotify.com/album/0aI5tf7kRiGIfA3X7fC7ez) | 2:37 |
+| 24 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
+| 25 | [Afuera](https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Afuera](https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3) | 3:27 |
+| 26 | [AREA 69](https://open.spotify.com/track/7zwr2S6zTLQqt3IQ4wpht1) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [AREA 69](https://open.spotify.com/album/0aI5tf7kRiGIfA3X7fC7ez) | 2:37 |
+| 27 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
 | 28 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
 | 29 | [Una en un Millón](https://open.spotify.com/track/0E0C94sIBhDdOeMiGXQ7VK) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Una en un Millón](https://open.spotify.com/album/3y47sRz2AesOQzvB5UehFh) | 2:52 |
 | 30 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/1kGTOTvzDICyz3BiTNQEq5) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 |
 | 50 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDkyYTVkMGU5ZjY5MzNjZTJkZjA3MmZlODUyNTFjY2U0`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDJiOWU5YmJiMDI5MjljYjg1YmMwNWIwNDAyMGRiZWNj`

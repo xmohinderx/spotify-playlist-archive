@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 146382,
+  "num_followers": 146756,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDZiZTYwNDQ3Y2QxODgxMDc1MDUxMGFkNzc5NmRkMThk",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGJhZDc5NWZhNjI4ZjJjZGRhZmNkNDIyZGIwNzI0YjM4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887"
-      },
-      "artists": [
-        {
-          "name": "Mag.Lo",
-          "url": "https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y"
-        }
-      ],
-      "duration_ms": 126062,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "G Walkin' on Yo Coffin",
         "url": "https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 99013,
       "name": "G Walkin' on Yo Coffin",
       "url": "https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Team",
+        "url": "https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887"
+      },
+      "artists": [
+        {
+          "name": "Mag.Lo",
+          "url": "https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y"
+        }
+      ],
+      "duration_ms": 126062,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "duration_ms": 127573,
+      "name": "Sanjuro",
+      "url": "https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "SIMP",
         "url": "https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 180000,
       "name": "SIMP",
       "url": "https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Melt My Eyez See Your Future",
-        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "454",
-          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
-        }
-      ],
-      "duration_ms": 127573,
-      "name": "Sanjuro",
-      "url": "https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -745,6 +745,26 @@
       "url": "https://open.spotify.com/track/6v4s7JosY38tu0hTZGpgrx"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Stadiums",
+        "url": "https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        }
+      ],
+      "duration_ms": 172362,
+      "name": "Stadiums",
+      "url": "https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX"
+    },
+    {
       "added_at": "2022-10-07 11:48:00",
       "album": {
         "name": "Bless Yo Trap",
@@ -775,22 +795,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "DICTATOR",
-        "url": "https://open.spotify.com/album/1XeOpCq4J5bEsC7KGOINx2"
-      },
-      "artists": [
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        }
-      ],
-      "duration_ms": 181088,
-      "name": "DICTATOR",
-      "url": "https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "TOXIC BOOGALOO",
         "url": "https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9"
       },
@@ -807,6 +811,22 @@
       "duration_ms": 121277,
       "name": "YELLOW PISS",
       "url": "https://open.spotify.com/track/0NFCrBf6tnaDTZ5xOWjHCI"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "DICTATOR",
+        "url": "https://open.spotify.com/album/1XeOpCq4J5bEsC7KGOINx2"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 181088,
+      "name": "DICTATOR",
+      "url": "https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -883,22 +903,6 @@
       "duration_ms": 159652,
       "name": "HEAVY METAL",
       "url": "https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "ALL ABOUT ME",
-        "url": "https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "ALL ABOUT ME",
-      "url": "https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL"
     }
   ],
   "unique_name": "LOCKJAW",

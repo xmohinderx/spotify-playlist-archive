@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jacquees
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,177 likes - 118 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,558 likes - 118 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

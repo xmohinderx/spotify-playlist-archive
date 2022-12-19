@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-116 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/66Rf5KyLWIyP5JnY8b9KB3)
+117 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/66Rf5KyLWIyP5JnY8b9KB3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 | 2022-09-09 |  |
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2022-09-09 |  |
 | [Lindo És + Só Quero Ver Você \- Ao Vivo](https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Livres ao Vivo em São Paulo](https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C) | 7:27 | 2022-09-09 |  |
-| [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 | 2022-09-09 |  |
+| [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 | 2022-09-09 | 2022-12-19 |
 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 | 2022-09-09 |  |
 | [Lugar Secreto](https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 | 2022-09-09 |  |
 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 | 2022-09-09 |  |
@@ -87,6 +87,7 @@
 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 | 2022-09-09 |  |
 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 | 2022-09-09 |  |
 | [Ousado Amor](https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Isaias Saad](https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc) | 5:33 | 2022-09-09 |  |
+| [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2022-12-09 |  |
 | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw) | 9:50 | 2022-09-09 | 2022-11-13 |
 | [Pra Onde Eu Irei? \- Live Church](https://open.spotify.com/track/5l2nA65AMfg7GdZvFMyXI4) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Pra Onde Eu Irei? \(Live Church\)](https://open.spotify.com/album/0ZnX9cZRCa0CBfgPVgzB9Q) | 8:09 | 2022-09-09 | 2022-11-26 |
 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 | 2022-09-09 |  |

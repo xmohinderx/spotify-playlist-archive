@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 31224,
+  "num_followers": 31264,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyMzcxOSwwMDAwMDAwMGFlMmNhODZlNDhjYmRmNjRhN2UzY2RmYjc3MzQ3ODUy",
+  "snapshot_id": "MTY2OTEyMzcxOSwwMDAwMDAwMDhjODgwYmE3MTQ4YjA2ZTczYWIwMTM0OWU3YzdlNWI2",
   "tracks": [
     {
       "added_at": "2022-11-22 13:28:39",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "How Do You Live",
         "url": "https://open.spotify.com/album/0a48X39VME2QhWVEASztpm"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 472500,
       "name": "2c",
       "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "Weltenwandler",
+        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
+      },
+      "artists": [
+        {
+          "name": "Klartraum",
+          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
+        }
+      ],
+      "duration_ms": 316433,
+      "name": "Weltenwandler - Radio Edit",
+      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Bluet",
         "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 291096,
       "name": "Bluet",
       "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "Weltenwandler",
-        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
-      },
-      "artists": [
-        {
-          "name": "Klartraum",
-          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
-        }
-      ],
-      "duration_ms": 316433,
-      "name": "Weltenwandler - Radio Edit",
-      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Burn It All Down",
+      "url": "https://open.spotify.com/track/391s5MPi2RqJd99vTqteAr"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
-      },
-      "artists": [
-        {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Burn It All Down",
-      "url": "https://open.spotify.com/track/391s5MPi2RqJd99vTqteAr"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Fighting Modernism EP",
         "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "a journey...",
-        "url": "https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 207656,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "a journey...",
+        "url": "https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "CRATER",
-        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
-      },
-      "artists": [
-        {
-          "name": "Booker Stardrum",
-          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
-        }
-      ],
-      "duration_ms": 322948,
-      "name": "Walking Through Still Air",
-      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+      },
+      "artists": [
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        }
+      ],
+      "duration_ms": 322948,
+      "name": "Walking Through Still Air",
+      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Claire's Lane",
         "url": "https://open.spotify.com/album/5fcy2JXXX8xhJdtsobGnzh"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 88788,
       "name": "Govenek",
       "url": "https://open.spotify.com/track/3HT7p7MSUFJwD9MlAA4kaP"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1507,18 +1491,34 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce"
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
       "artists": [
         {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 164293,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka"
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce"
       },
       "artists": [
         {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
         }
       ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+      "duration_ms": 164293,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/0QgxbUQVAa5UN55VCDxdaa"
+      },
+      "artists": [
+        {
+          "name": "Mokira",
+          "url": "https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7"
+        }
+      ],
+      "duration_ms": 284573,
+      "name": "Album 3",
+      "url": "https://open.spotify.com/track/7wpKTYDOT1goHKXXHT6fi7"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Possessed (Original Score)",
         "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/0QgxbUQVAa5UN55VCDxdaa"
-      },
-      "artists": [
-        {
-          "name": "Mokira",
-          "url": "https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7"
-        }
-      ],
-      "duration_ms": 284573,
-      "name": "Album 3",
-      "url": "https://open.spotify.com/track/7wpKTYDOT1goHKXXHT6fi7"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 286283,
+      "name": "Adagio I - Mut",
+      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Spring Snow",
         "url": "https://open.spotify.com/album/3l3DeVnMAOtSLZKSjLzJay"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 220666,
       "name": "Hero",
       "url": "https://open.spotify.com/track/40VFyL5gYhDm5natjBMaQ1"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "there is always a girl with a secret",
+        "url": "https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 316640,
+      "name": "there is always a girl with a secret",
+      "url": "https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Deep England",
         "url": "https://open.spotify.com/album/3bAC4cp6FZSwvmrdYxE4he"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "there is always a girl with a secret",
-        "url": "https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 316640,
-      "name": "there is always a girl with a secret",
-      "url": "https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Trance Spirits (2022 Remaster)",
         "url": "https://open.spotify.com/album/4GLYU9Ajjtqe9QwU8wOviJ"
       },
@@ -1843,6 +1843,26 @@
       "duration_ms": 442331,
       "name": "Seekers - 2022 Remaster",
       "url": "https://open.spotify.com/track/6CXAqQPTDgwH03w1Ll5gBb"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "Silicon Jungle (Sofie Birch Remix)",
+        "url": "https://open.spotify.com/album/0G7LEsMsmaZX2f9w8u4hrP"
+      },
+      "artists": [
+        {
+          "name": "Para One",
+          "url": "https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ"
+        },
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 321701,
+      "name": "Silicon Jungle - Sofie Birch Remix",
+      "url": "https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1875,26 +1895,6 @@
       "duration_ms": 225000,
       "name": "Bouncing Rays",
       "url": "https://open.spotify.com/track/4ZvQwjVFNvq27c1Um6msmB"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "Silicon Jungle (Sofie Birch Remix)",
-        "url": "https://open.spotify.com/album/0G7LEsMsmaZX2f9w8u4hrP"
-      },
-      "artists": [
-        {
-          "name": "Para One",
-          "url": "https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 321701,
-      "name": "Silicon Jungle - Sofie Birch Remix",
-      "url": "https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -1947,22 +1947,6 @@
       "duration_ms": 271232,
       "name": "Apples from Peru",
       "url": "https://open.spotify.com/track/4Bl5rpXJbPQu24zz37qLas"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "05-10",
-        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 296413,
-      "name": "Roller The Wick",
-      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2027,6 +2011,22 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "05-10",
+        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 296413,
+      "name": "Roller The Wick",
+      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Palimpsests",
         "url": "https://open.spotify.com/album/3zh7gaR5TzIP4qE4QcI4uv"
       },
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Despierta, Remedio, Cuenta",
-        "url": "https://open.spotify.com/album/7ihbtOYJhuKirh98QgouJb"
-      },
-      "artists": [
-        {
-          "name": "Evamuss",
-          "url": "https://open.spotify.com/artist/3RFdmvqOyjqP4DDGhdTkX1"
-        }
-      ],
-      "duration_ms": 469311,
-      "name": "Orgias de Bordados",
-      "url": "https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Der Lange Marsch",
         "url": "https://open.spotify.com/album/0ZjxidVJXnDaOh4w2HMQKa"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 341805,
       "name": "All Things Burn",
       "url": "https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "Despierta, Remedio, Cuenta",
+        "url": "https://open.spotify.com/album/7ihbtOYJhuKirh98QgouJb"
+      },
+      "artists": [
+        {
+          "name": "Evamuss",
+          "url": "https://open.spotify.com/artist/3RFdmvqOyjqP4DDGhdTkX1"
+        }
+      ],
+      "duration_ms": 469311,
+      "name": "Orgias de Bordados",
+      "url": "https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2195,26 +2195,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Colour Theory",
-        "url": "https://open.spotify.com/album/5JSlxhyEwkVjKICsb3Z5og"
-      },
-      "artists": [
-        {
-          "name": "Infinity Fields",
-          "url": "https://open.spotify.com/artist/60LC4c4Uv0UToHCkxsAUdN"
-        },
-        {
-          "name": "v e n n",
-          "url": "https://open.spotify.com/artist/7K80bdPzdWRFqAHBfk1cPi"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "Saphire Waves",
-      "url": "https://open.spotify.com/track/2B5tsAmkjiAvaCzTRv380C"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Silvercoat the throng",
         "url": "https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 340045,
       "name": "Reciprocal capture (ft. Speaker Music)",
       "url": "https://open.spotify.com/track/0UJat5QwLYuGHOF5VxOZqJ"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "Colour Theory",
+        "url": "https://open.spotify.com/album/5JSlxhyEwkVjKICsb3Z5og"
+      },
+      "artists": [
+        {
+          "name": "Infinity Fields",
+          "url": "https://open.spotify.com/artist/60LC4c4Uv0UToHCkxsAUdN"
+        },
+        {
+          "name": "v e n n",
+          "url": "https://open.spotify.com/artist/7K80bdPzdWRFqAHBfk1cPi"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "Saphire Waves",
+      "url": "https://open.spotify.com/track/2B5tsAmkjiAvaCzTRv380C"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Fake Synthetic Music",
         "url": "https://open.spotify.com/album/3KXyJWR2afbxWzIHdtlHaH"
       },
@@ -2287,26 +2271,18 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "AVI REMIX EP",
-        "url": "https://open.spotify.com/album/2kPAby0flE4TQGyZvoV8Fc"
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
       "artists": [
         {
-          "name": "Ralph Heidel",
-          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
-        },
-        {
-          "name": "Joseph Shabason",
-          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
-        },
-        {
-          "name": "Vibrant Matter",
-          "url": "https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 236176,
-      "name": "AVI - Joseph Shabason + Vibrant Matter Remix",
-      "url": "https://open.spotify.com/track/6ACrwGYBc9Zxq4xLhKqulg"
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2331,6 +2307,30 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "AVI REMIX EP",
+        "url": "https://open.spotify.com/album/2kPAby0flE4TQGyZvoV8Fc"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        },
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        },
+        {
+          "name": "Vibrant Matter",
+          "url": "https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY"
+        }
+      ],
+      "duration_ms": 236176,
+      "name": "AVI - Joseph Shabason + Vibrant Matter Remix",
+      "url": "https://open.spotify.com/track/6ACrwGYBc9Zxq4xLhKqulg"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Icons",
-        "url": "https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB"
-      },
-      "artists": [
-        {
-          "name": "Eli Keszler",
-          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
-        }
-      ],
-      "duration_ms": 401696,
-      "name": "All the Mornings in the World",
-      "url": "https://open.spotify.com/track/2wcSdJ641eGA6ruzjIKwM2"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "The Life of Insects",
         "url": "https://open.spotify.com/album/0cmW9PUBl08bvqGHJtp2NT"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 329282,
       "name": "La procesi\u00f3n",
       "url": "https://open.spotify.com/track/1n0op7KqijQJosc9lhuR0U"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "Icons",
+        "url": "https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        }
+      ],
+      "duration_ms": 401696,
+      "name": "All the Mornings in the World",
+      "url": "https://open.spotify.com/track/2wcSdJ641eGA6ruzjIKwM2"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "EA9633",
-        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
-      },
-      "artists": [
-        {
-          "name": "Miyu Hosoi",
-          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "EA9633",
-      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "ABBA/Mary (Christina Vantzou Remix)",
         "url": "https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 206229,
       "name": "ABBA/Mary - Christina Vantzou Remix",
       "url": "https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "EA9633",
+        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hosoi",
+          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "EA9633",
+      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2615,26 +2615,6 @@
       "duration_ms": 478000,
       "name": "Tokyo Exorcist",
       "url": "https://open.spotify.com/track/2J2dJS1mRWalZmnlYg7KE2"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
-        "name": "Mixed Signals II",
-        "url": "https://open.spotify.com/album/3kf978n2Cj73i6KtV2ts6D"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        },
-        {
-          "name": "Braulio Lam",
-          "url": "https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/7HN4GQgB6wH0smJQacudtq"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -2695,6 +2675,26 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
+        "name": "Mixed Signals II",
+        "url": "https://open.spotify.com/album/3kf978n2Cj73i6KtV2ts6D"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        },
+        {
+          "name": "Braulio Lam",
+          "url": "https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/7HN4GQgB6wH0smJQacudtq"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
         "name": "Martes + Utop\u00eda",
         "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
       },
@@ -2711,26 +2711,18 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Chapter 7 (feat. Laurel Halo)",
-        "url": "https://open.spotify.com/album/3zipBnqqinWy5szfmoFaCV"
+        "name": "Live at New Forms",
+        "url": "https://open.spotify.com/album/55fNImtunpd7BTXRxGeUOe"
       },
       "artists": [
         {
-          "name": "Moritz Von Oswald Trio",
-          "url": "https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2"
-        },
-        {
-          "name": "Heinrich Kobberling",
-          "url": "https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+          "name": "Asa Tone",
+          "url": "https://open.spotify.com/artist/1imJsIALBLCwyxSgmT2gks"
         }
       ],
-      "duration_ms": 364000,
-      "name": "Chapter 7 (feat. Laurel Halo)",
-      "url": "https://open.spotify.com/track/1hXkvSqFLOBkpWTwO3bvbk"
+      "duration_ms": 198857,
+      "name": "IIII",
+      "url": "https://open.spotify.com/track/6sQMUhXSySbtxriNX84G09"
     }
   ],
   "unique_name": "Electronic X",

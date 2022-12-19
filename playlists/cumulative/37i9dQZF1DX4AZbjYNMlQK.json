@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 182042,
       "name": "Al Mundo Paz",
       "url": "https://open.spotify.com/track/72RCVgBervTpGb8cgPilKs"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 225306,
       "name": "Arbolito De Navidad",
       "url": "https://open.spotify.com/track/3EtBprADoLj5t0pxbdgEr9"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 196352,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 128914,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/5Xq4nzlFsZquI7FWC6jKSD"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 159579,
       "name": "Blanca Navidad - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 158866,
       "name": "Campana Sobre Campana",
       "url": "https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 143386,
       "name": "Campanas De Plata",
       "url": "https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 216208,
       "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
       "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 188066,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/4uXPGx3gKGFYPx6kkQfUm5"
@@ -515,10 +515,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 194429,
       "name": "El Burrito de Belen",
       "url": "https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad: El Burrito de Belen, Feliz Navidad, Triste Navidad, El Cascabel, El Burrito Sabanero, El Nacimiento y Mas",
+        "url": "https://open.spotify.com/album/06LZvXxhqZhXri7wQtbTer"
+      },
+      "artists": [
+        {
+          "name": "La Rondallita",
+          "url": "https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "El Burrito De Belen (El Burrito Sabanero)",
+      "url": "https://open.spotify.com/track/0WeJsUesMV7yXCKkpnteoD"
     },
     {
       "album": {
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 191640,
       "name": "El Burrito De Bel\u00e9n",
       "url": "https://open.spotify.com/track/1s8opuqalYMgW0fPM42kgE"
@@ -555,6 +573,24 @@
       "duration_ms": 191640,
       "name": "El Burrito De Bel\u00e9n",
       "url": "https://open.spotify.com/track/7DxJqMhtaqJJNBROZxgj5u"
+    },
+    {
+      "album": {
+        "name": "La Mejor M\u00fasica Navide\u00f1a",
+        "url": "https://open.spotify.com/album/1JWEolxSf2FPXP8akSKPrW"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258480,
+      "name": "El Ni\u00f1o del Tambor",
+      "url": "https://open.spotify.com/track/7pFXmdN6QMqwBc4ME6qptI"
     },
     {
       "album": {
@@ -591,7 +627,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 260143,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
@@ -627,7 +663,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 230466,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/26I1JLJM7vns3zSlKKEvbX"
@@ -645,7 +681,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 182000,
       "name": "ESTE DICIEMBRE",
       "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
@@ -699,7 +735,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 221520,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3ERzzgIgx84qcS8RtUrjRO"
@@ -753,7 +789,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 128729,
       "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
@@ -789,7 +825,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
@@ -807,7 +843,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 195842,
       "name": "Last Christmas (Spanish Version)",
       "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
@@ -851,7 +887,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 178720,
       "name": "Llorar\u00e1s en Navidad",
       "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
@@ -869,7 +905,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 190640,
       "name": "Los Peces En El Rio",
       "url": "https://open.spotify.com/track/1SVFABqrJ87TbFVwQAtrqc"
@@ -887,7 +923,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 183772,
       "name": "Los Peces en el Rio",
       "url": "https://open.spotify.com/track/5ZqjpXE2c5ek9jJ3CpHGA9"
@@ -947,7 +983,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 156213,
       "name": "Los Peces En El R\u00edo",
       "url": "https://open.spotify.com/track/5p1pTmxWcGcCXO7czBADDB"
@@ -1035,10 +1071,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 268440,
       "name": "Mi Estrella",
       "url": "https://open.spotify.com/track/2LZkBWdmv9zYZdWXlesVlF"
+    },
+    {
+      "album": {
+        "name": "Somos Navidad",
+        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181574,
+      "name": "Mi Regalito Eres Tu",
+      "url": "https://open.spotify.com/track/2EgcqhH32EIu8qlcuAnToy"
     },
     {
       "album": {
@@ -1107,7 +1161,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 478333,
       "name": "Navidad en Am\u00e9rica",
       "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
@@ -1143,7 +1197,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 209739,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7"
@@ -1161,7 +1215,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 165773,
       "name": "Navidad, Feel The Magic",
       "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
@@ -1179,7 +1233,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 154653,
       "name": "Navidad, Navidad",
       "url": "https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK"
@@ -1197,7 +1251,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 166300,
       "name": "Navidad, Navidad",
       "url": "https://open.spotify.com/track/046nCoUyoSiuK2VXxoCYy8"
@@ -1241,7 +1295,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 191965,
       "name": "Noche De Paz",
       "url": "https://open.spotify.com/track/0bxz99lTmipy9D9MXcRRke"
@@ -1299,7 +1353,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 210973,
       "name": "Oh Holy Night (Instrumental)",
       "url": "https://open.spotify.com/track/1m87edJoNGUHHtcPmgGwWT"
@@ -1335,7 +1389,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 206000,
       "name": "Por Ti - Spotify Singles",
       "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
@@ -1371,7 +1425,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 150520,
       "name": "Rodolfo el Reno de la Nariz Roja",
       "url": "https://open.spotify.com/track/6BhqbJluxEaIk6ILy03YFS"
@@ -1389,7 +1443,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 150520,
       "name": "Rodolfo el Reno de la Nariz Roja",
       "url": "https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR"
@@ -1407,7 +1461,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 191457,
       "name": "Roz\u00e1ndome",
       "url": "https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD"
@@ -1425,7 +1479,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Santa Baby (Spanish)",
       "url": "https://open.spotify.com/track/403k7tpzOWE2CJRvqJitJk"
@@ -1461,7 +1515,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g"
@@ -1479,7 +1533,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 153440,
       "name": "Santa, Te Espero A Las 10",
       "url": "https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4"
@@ -1515,7 +1569,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 191117,
       "name": "Solo En Navidad",
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
@@ -1533,7 +1587,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 242232,
       "name": "Te Deseo Muy Felices Fiestas",
       "url": "https://open.spotify.com/track/6xMrvcGXPWQ5T6Y0Njphw1"
@@ -1551,7 +1605,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 181080,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/1eLTm5I7O1U7MJ4iZt7hyU"
@@ -1612,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "Rolitas navide\u00f1as",
+        "url": "https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Todo Lo Que Quiero Eres Tu",
+      "url": "https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW"
+    },
+    {
+      "album": {
         "name": "Triste Navidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
       },
@@ -1623,7 +1695,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 207826,
       "name": "Triste Navidad - Spotify Singles",
       "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
@@ -1641,7 +1713,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 148259,
       "name": "Tu Adi\u00f3s Es Mi Navidad",
       "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
@@ -1659,7 +1731,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 145714,
       "name": "un deseo m\u00e1s",
       "url": "https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R"
@@ -1821,6 +1893,24 @@
       "duration_ms": 225146,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/5TjdsAoTKwSilPZAOayIEW"
+    },
+    {
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=\_1tjXUnTS2CRapuxEexbmA">Msaki</a> and <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=FlqIEG2USBCH2hQnLNMxew">Tubatsi Mpho Moloi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,380 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,466 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

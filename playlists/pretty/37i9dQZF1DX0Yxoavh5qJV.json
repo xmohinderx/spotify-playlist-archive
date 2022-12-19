@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5309790,
+  "num_followers": 5329646,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4NzgyNiwwMDAwMDAwMGJiZjlhMDk1MWI0YmUzNGFlOTZiMmUwZDIyMmNiZmM3",
+  "snapshot_id": "MTY3MTE4NzgyNiwwMDAwMDAwMGFjNjUxYTU5NGYwMjE2YzZlNzM2ODNlNzJkOTEwYjk3",
   "tracks": [
     {
       "added_at": "2022-12-06 05:46:59",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
+    },
+    {
+      "added_at": "2022-12-06 05:46:59",
+      "album": {
         "name": "Holiday Inn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 177480,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
-    },
-    {
-      "added_at": "2022-12-06 05:46:59",
-      "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "The Beach Boys' Christmas Album",
-        "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 118840,
-      "name": "Little Saint Nick - 1991 Remix",
-      "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
-    },
-    {
-      "added_at": "2022-12-06 05:46:59",
-      "album": {
         "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
         "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
+    },
+    {
+      "added_at": "2022-12-06 05:46:59",
+      "album": {
+        "name": "The Beach Boys' Christmas Album",
+        "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 118840,
+      "name": "Little Saint Nick - 1991 Remix",
+      "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
     },
     {
+      "added_at": "2022-12-19 00:17:59",
+      "album": {
+        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
+        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
+    },
+    {
       "added_at": "2022-12-06 05:46:59",
       "album": {
         "name": "Christmas Without You",
@@ -855,22 +871,6 @@
       "duration_ms": 169245,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
-    },
-    {
-      "added_at": "2022-12-18 01:07:18",
-      "album": {
-        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
-        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
-      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
-    },
-    {
-      "added_at": "2022-12-06 05:46:59",
-      "album": {
         "name": "Snowfall: The Tony Bennett Christmas Album",
         "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 133213,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
+    },
+    {
+      "added_at": "2022-12-06 05:46:59",
+      "album": {
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
-    },
-    {
-      "added_at": "2022-12-06 05:46:59",
-      "album": {
         "name": "Cozy Little Christmas",
         "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 182520,
       "name": "Cozy Little Christmas",
       "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
+    },
+    {
+      "added_at": "2022-12-06 05:46:59",
+      "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Santa Claus Is Coming to Town",
-      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
+      "duration_ms": 164613,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 164613,
-      "name": "It's Beginning To Look A Lot Like Christmas",
-      "url": "https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD"
+      "duration_ms": 171093,
+      "name": "Santa Claus Is Coming to Town",
+      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
         }
       ],
-      "duration_ms": 136426,
-      "name": "Mistletoe And Holly - Remastered 1999",
-      "url": "https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ"
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
       "artists": [
         {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
+      "duration_ms": 136426,
+      "name": "Mistletoe And Holly - Remastered 1999",
+      "url": "https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ"
     },
     {
       "added_at": "2022-12-06 05:46:59",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-12-06 05:46:59",
       "album": {
-        "name": "I Need You Christmas",
-        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "I Need You Christmas",
-      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
-    },
-    {
-      "added_at": "2022-12-06 05:46:59",
-      "album": {
         "name": "Under The Mistletoe",
         "url": "https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 225687,
       "name": "Under The Mistletoe",
       "url": "https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK"
+    },
+    {
+      "added_at": "2022-12-06 05:46:59",
+      "album": {
+        "name": "I Need You Christmas",
+        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "I Need You Christmas",
+      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
     },
     {
       "added_at": "2022-12-06 05:46:59",

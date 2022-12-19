@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-167 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+168 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [El Niño Del Tambor](https://open.spotify.com/track/5aMeIzu5mbYkPdkMtkkZzo) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Navidad Entre Nosotros](https://open.spotify.com/album/6AVmQObJK3ODN5oWhxwTHH) | 3:10 | 2021-12-24 |  |
 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 | 2021-12-24 | 2022-07-29 |
 | [El Nombre De Jesús \(feat\. Christine D´Clario\)](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 | 2021-12-24 |  |
-| [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 | 2021-12-24 |  |
+| [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 | 2021-12-24 | 2022-12-19 |
 | [El Regalo Celestial](https://open.spotify.com/track/24Mxt8HITs6bxAEBgDqbt2) | [Yoly Rodríguez](https://open.spotify.com/artist/0I42d8NmR5IXaMcI1sf9Sq) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:04 | 2021-12-24 |  |
 | [El Regalo Celestial](https://open.spotify.com/track/7hLD9HiwV1lkeqQGfyANPW) | [Yoly Rodríguez](https://open.spotify.com/artist/0I42d8NmR5IXaMcI1sf9Sq) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:04 | 2021-12-24 | 2022-07-29 |
 | [Ella Dijo Sí](https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Ella Dijo Sí](https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv) | 2:46 | 2021-12-24 | 2022-12-14 |
@@ -110,6 +110,7 @@
 | [Navidad](https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Navidad](https://open.spotify.com/album/4M3g8HcYnCJmA99uh2456G) | 3:07 | 2021-12-24 | 2022-12-11 |
 | [Navidad](https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA) | [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Navidad](https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw) | 3:48 | 2021-12-24 | 2022-12-11 |
 | [Navidad En Mi País](https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 4:10 | 2021-12-24 |  |
+| [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 | 2022-12-10 |  |
 | [Navidad Es Jesús](https://open.spotify.com/track/4uHZzqsTVrcs1Ob47Q5pr2) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Esta Navidad](https://open.spotify.com/album/0THHB0bxRAaw33N6Q7pEEc) | 5:26 | 2021-12-24 |  |
 | [Navidad es Jesús](https://open.spotify.com/track/6Bpreva8hza5SyW0Ob3kbl) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Es Jesús](https://open.spotify.com/album/523eoKL0T2oGzMg6W0Cvyf) | 5:26 | 2021-12-24 | 2022-07-29 |
 | [Navidad Perfecta](https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 3:35 | 2021-12-24 |  |

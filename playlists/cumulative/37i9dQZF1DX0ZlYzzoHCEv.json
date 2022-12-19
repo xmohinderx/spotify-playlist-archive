@@ -1068,6 +1068,28 @@
     },
     {
       "album": {
+        "name": "Collide (Remix Pack)",
+        "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221168,
+      "name": "Collide (Sped Up Remix)",
+      "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
+    },
+    {
+      "album": {
         "name": "COMINCIA TU (feat. Rosa Chemical)",
         "url": "https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U"
       },
@@ -4167,7 +4189,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 135902,
       "name": "SNAP - High and Fast",
       "url": "https://open.spotify.com/track/46cdw28EXOhDPnD1emDC6T"
@@ -5087,7 +5109,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164629,
-      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
+      "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {

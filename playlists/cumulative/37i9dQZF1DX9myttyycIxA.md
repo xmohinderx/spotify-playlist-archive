@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-754 songs - 1 day 19 hr 5 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+755 songs - 1 day 19 hr 9 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [April Showers](https://open.spotify.com/track/0Myy0zhrG98fFutV3bGoeN) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [State Lines](https://open.spotify.com/album/79C4dngcGiFRdpQeloGCbD) | 2:24 | 2022-08-26 | 2022-10-14 |
 | [Aquamarine](https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 4:14 | 2021-08-13 | 2022-04-27 |
 | [Arm's Length](https://open.spotify.com/track/4UaRFwdpv9JFBxOvW6Xr11) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Arm's Length](https://open.spotify.com/album/1VU9JM0ZkihXjpKgq32XOs) | 4:11 | 2021-05-14 | 2022-04-29 |
-| [Armchair](https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Armchair](https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY) | 4:30 | 2022-11-17 |  |
+| [Armchair](https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Armchair](https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY) | 4:30 | 2022-11-17 | 2022-12-19 |
 | [As Much As I Can](https://open.spotify.com/track/1q6ZIGa9Vg6OV24mazdJ18) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [As Much as I Can](https://open.spotify.com/album/2YV7i7xj1SglQXBuJfeYVJ) | 3:28 | 2021-07-23 | 2022-04-29 |
 | [As You Are](https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [As You Are](https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w) | 2:21 | 2021-07-23 | 2022-04-29 |
 | [At It Again \(Again\)](https://open.spotify.com/track/7bT3Js9ilUU5RRck7KiXvp) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [At It Again \(Again\)](https://open.spotify.com/album/48Zx2V3JhmOsJ0zA5EKDGN) | 2:09 | 2021-06-25 | 2022-04-29 |
@@ -102,6 +102,7 @@
 | [Bodysurfing](https://open.spotify.com/track/0bzx5Wcd20O3STx0cdP755) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/0GmKKh1yQBjJycHkMGUBPp) | 3:44 | 2021-07-16 | 2022-03-27 |
 | [Bon Iver](https://open.spotify.com/track/4fJH2cQ814gSzPZ9buADfK) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Bon Iver](https://open.spotify.com/album/2dK6nHgb0gkObpLau5FlK9) | 1:02 | 2021-08-27 | 2022-02-16 |
 | [boundary issues](https://open.spotify.com/track/67dPtaJRVciLNPYs0FmlmB) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the second ep](https://open.spotify.com/album/4MFtzUINsQ7UaPQLKo3501) | 3:14 | 2021-10-02 | 2022-04-29 |
+| [Bounds](https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Bounds](https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9) | 3:27 | 2022-12-16 |  |
 | [Boy Next Door](https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Study](https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ) | 3:39 | 2022-07-12 |  |
 | [Boys](https://open.spotify.com/track/2JfOojeyOncDOEPB7VcEuP) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Boys](https://open.spotify.com/album/2cnqwWCr0MG2RC1b8wbPek) | 2:30 | 2022-08-05 | 2022-10-14 |
 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-02 | 2022-12-10 |

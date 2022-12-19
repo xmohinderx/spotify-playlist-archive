@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del Rock en Español\. Cover: Paulo Londra
 
-130 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
+131 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [La Tormenta](https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Tormenta](https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2) | 3:00 | 2022-09-06 |  |
 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 | 2022-12-16 |  |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-04-15 | 2022-12-10 |
-| [Llueven los Vergazos](https://open.spotify.com/track/4YKONyBsz26LNqI6BcuLun) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Llueven los Vergazos](https://open.spotify.com/album/6I1KbSoXMhO1N1zkDdb6b2) | 2:30 | 2022-04-15 |  |
+| [Llueven los Vergazos](https://open.spotify.com/track/4YKONyBsz26LNqI6BcuLun) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Llueven los Vergazos](https://open.spotify.com/album/6I1KbSoXMhO1N1zkDdb6b2) | 2:30 | 2022-04-15 | 2022-12-19 |
 | [Los Mejores \- Si Pudiera](https://open.spotify.com/track/1YZfiHarcCJGBPDk6PW96w) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Los Mejores \(Si Pudiera\)](https://open.spotify.com/album/6dmAMEznxIvcHBaUtZdslh) | 3:23 | 2022-04-15 | 2022-12-10 |
 | [Mala Jugada](https://open.spotify.com/track/2e3vpJ5jXxzA4hS8RiqCUD) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Cascajo](https://open.spotify.com/album/0mcOBPszOAIOVyjZSgsnJr) | 4:07 | 2022-04-15 | 2022-12-10 |
 | [Mala Vibra](https://open.spotify.com/track/66GS7AyNo0bcLes3q6R0My) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/5e5AeTW1NoinQ2iB0asP3O) | 3:21 | 2022-04-15 | 2022-12-10 |
@@ -106,6 +106,7 @@
 | [Punks vs Emos](https://open.spotify.com/track/3hEyHrTsHskOcIzi7PDAR1) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:19 | 2022-04-15 | 2022-12-10 |
 | [Punta Diamante](https://open.spotify.com/track/6ZM6qRRY9YUER561TWGENV) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:42 | 2022-04-15 | 2022-12-10 |
 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 | 2022-04-15 |  |
+| [Que Sigas Bien](https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Cada Segundo Dura Una Eternidad](https://open.spotify.com/album/456MmGpEpuDN6zIeSYgr99) | 3:43 | 2022-12-16 |  |
 | [Quiero Casarme Contigo](https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Tiempo y la Actitud](https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R) | 2:58 | 2022-04-15 |  |
 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 | 2022-08-08 |  |
 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-12-09 |  |

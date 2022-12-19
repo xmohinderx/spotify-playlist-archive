@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 30481,
+  "num_followers": 30584,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDk5Y2IwZjgyNjc4Zjg4N2IwM2U5Mjg2ODg5NDdjOWJh",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDU5MGJjNzA2MTFkMDc5YzYwMzU3OGQ0YzQ5ZDBkZjI0",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 280794,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 280794,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 192053,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "Unfucktheworld",
-      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "Unfucktheworld",
+      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "No No No",
-        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 170640,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1691,6 +1675,22 @@
       "duration_ms": 194066,
       "name": "Where I\u2019ll Find You",
       "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Cold Little Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "Cold Little Heart - Acoustic",
+      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "I Want to See Pulaski at Night",
         "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Cold Little Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 269386,
-      "name": "Cold Little Heart - Acoustic",
-      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 180693,
       "name": "Small Hands",
       "url": "https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     }
   ],
   "unique_name": "10s Indie Folk",

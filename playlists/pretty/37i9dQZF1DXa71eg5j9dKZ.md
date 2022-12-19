@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,834 likes - 124 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,882 likes - 124 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

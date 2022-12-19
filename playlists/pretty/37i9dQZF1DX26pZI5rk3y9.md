@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,042 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,045 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 15 | [Whiskey And Wimmen'](https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:37 |
 | 16 | [Potato Chips](https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 3:05 |
 | 17 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
-| 18 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 |
-| 19 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
+| 18 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
+| 19 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 |
 | 20 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 21 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
 | 22 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 45 | [Pigmeat](https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Lead Belly: The Smithsonian Folkways Collection](https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK) | 2:32 |
 | 46 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 |
 | 47 | [Alligator Meat](https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn) | [Joe Swift](https://open.spotify.com/artist/2O5OHlHQnNgg8rsv8kA1KX), [Maxwell Davis](https://open.spotify.com/artist/1fhYtOLzN01tp4kUfdNLGF) | [Sax Star: Maxwell's Best, Vol\. 1](https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB) | 2:56 |
-| 48 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
-| 49 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 |
+| 48 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 |
+| 49 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
 | 50 | [Two Bugs And A Roach](https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blues Roots](https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS) | 4:15 |
 | 51 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 5: The Final Chapter](https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3) | 3:30 |
 | 52 | [Barbecue Any Old Time](https://open.spotify.com/track/4IUtUHmpRJXQo8jfem5fON) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2OTk5MTI4OCwwMDAwMDAwMDQ4MWFhZjFiNWE5ZDdhOTVhNzFiZjlhZDgxMTQyYzA3`
+Snapshot ID: `MTY2OTk5MTI4OCwwMDAwMDAwMDgxYmE5N2M4NTEyYzBkMDE1NDM2YmRhYjFlODI2ZTFm`

@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421456,
+  "num_followers": 421451,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMGY0ZDQ3ZjMzODQ4NGYyMzJiYWZiNjIyZTRiMzRmOGI4",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMGZjMWNkNDJmOTRlZDI4MTY0MzNiMjBjYTk0ZmM5MjI4",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "O \u00daltimo Xote do Ano",
-        "url": "https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        },
-        {
-          "name": "Cruvinel",
-          "url": "https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW"
-        }
-      ],
-      "duration_ms": 192170,
-      "name": "O \u00daltimo Xote do Ano",
-      "url": "https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "O \u00daltimo Xote do Ano",
+        "url": "https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        },
+        {
+          "name": "Cruvinel",
+          "url": "https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW"
+        }
+      ],
+      "duration_ms": 192170,
+      "name": "O \u00daltimo Xote do Ano",
+      "url": "https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -899,6 +899,26 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "Eu e Eu",
+        "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
+      },
+      "artists": [
+        {
+          "name": "Vitor e Luan",
+          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 162799,
+      "name": "Eu e Eu",
+      "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "Capa de Revista",
         "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Eu e Eu",
-        "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
-      },
-      "artists": [
-        {
-          "name": "Vitor e Luan",
-          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 162799,
-      "name": "Eu e Eu",
-      "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
     },
     {
       "added_at": "2022-10-14 20:28:37",

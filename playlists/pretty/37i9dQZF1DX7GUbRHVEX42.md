@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best current contemporary Reggae\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,057 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,108 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 13 | [Stronger](https://open.spotify.com/track/7ng4T6teNlLYjpw7RNDYCH) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Stronger](https://open.spotify.com/album/5LCaKsOwObwaUaDFAVNqpq) | 3:49 |
 | 14 | [Like Mountain](https://open.spotify.com/track/7MvQf3Ql2RcIUKAoZPGRSg) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [The Journey \- The Very Best Of Sizzla Kalonji](https://open.spotify.com/album/07AQybXuRFflDzipExouL4) | 3:40 |
 | 15 | [Jah in My Corner](https://open.spotify.com/track/611xhTLxn4GKWp7okPO3Fn) | [Black Am I](https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Jah in My Corner](https://open.spotify.com/album/5PMDCFeRiSX0A0PeT23oFp) | 3:53 |
-| 16 | [Helping Hand](https://open.spotify.com/track/0ouLZmfGnrvxXGpY3k4IaB) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw) | [Helping Hand](https://open.spotify.com/album/5huEQQmNFdO6sZtm81fbqk) | 4:14 |
+| 16 | [Helping Hand](https://open.spotify.com/track/2tRuKUxUuEzcevtKfZ9piA) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw) | [Helping Hand](https://open.spotify.com/album/2lfVfxMsxDc3eBta9bG49a) | 4:14 |
 | 17 | [Love Alone](https://open.spotify.com/track/4ieXbToMBt4Cy0MU6Lf3av) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Alone](https://open.spotify.com/album/0MlJXgZuqRWqCXyY2qRDqM) | 3:29 |
 | 18 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 19 | [Madda Badda](https://open.spotify.com/track/1fC7QnxvvazYuF02zZZFEs) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Madda Badda](https://open.spotify.com/album/17XrwH6leiuoiuC4qieNRZ) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 49 | [Ready Fi Di Road \- Remastered](https://open.spotify.com/track/6Lt5mG1VpdPK4k5HNuOWqG) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Ready Fi Di Road \(Remastered\)](https://open.spotify.com/album/0pkqPOfiL02TucxKlfKLdc) | 4:25 |
 | 50 | [Nothing No Wrong](https://open.spotify.com/track/15Gb5a89gq0Cw6opsCgT37) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh), [Midnite](https://open.spotify.com/artist/2qo5BOQTBHXYKcTER10pRZ) | [The Sound](https://open.spotify.com/album/0EUaIfzNRdEkiP4YJ7OJqp) | 5:01 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDc5NjU0MzliMzljMTA0MTE1ZGIyYzc1MDQ2NGM4YTA1`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGZkMGVhZjJiODY1NjkyMWRjZGE3ZmY0MzBmNDYxNzMz`

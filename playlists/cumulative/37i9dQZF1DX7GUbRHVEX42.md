@@ -4,7 +4,7 @@
 
 > The best current contemporary Reggae\. Cover: Kabaka Pyramid
 
-104 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/0YIpWHNBNN3qo5IAtegSNU)
+105 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0YIpWHNBNN3qo5IAtegSNU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [God is Love](https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [God is Love](https://open.spotify.com/album/1Clv6Kk6nr5AzLu0JNZWyj) | 4:20 | 2021-10-24 | 2022-07-30 |
 | [Good Good](https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Good Good](https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX) | 3:56 | 2021-10-24 | 2022-07-30 |
 | [Good Over Evil](https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:24 | 2021-10-24 | 2022-07-30 |
-| [Helping Hand](https://open.spotify.com/track/0ouLZmfGnrvxXGpY3k4IaB) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw) | [Helping Hand](https://open.spotify.com/album/5huEQQmNFdO6sZtm81fbqk) | 4:14 | 2022-07-29 |  |
+| [Helping Hand](https://open.spotify.com/track/0ouLZmfGnrvxXGpY3k4IaB) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw) | [Helping Hand](https://open.spotify.com/album/5huEQQmNFdO6sZtm81fbqk) | 4:14 | 2022-07-29 | 2022-12-19 |
+| [Helping Hand](https://open.spotify.com/track/2tRuKUxUuEzcevtKfZ9piA) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw) | [Helping Hand](https://open.spotify.com/album/2lfVfxMsxDc3eBta9bG49a) | 4:14 | 2022-07-29 |  |
 | [Hey Baby](https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Mind Control](https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP) | 4:54 | 2022-07-29 |  |
 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 | 2021-10-24 | 2022-07-30 |
 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 | 2021-10-24 | 2022-07-30 |

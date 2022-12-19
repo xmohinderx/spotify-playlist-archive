@@ -4,7 +4,7 @@
 
 > New music from FLO, SZA, Mike Dimes, Metro Boomin, PinkPantheress, UMI, and OG Ron C
 
-1,458 songs - 3 day 0 hr 16 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+1,459 songs - 3 day 0 hr 19 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,7 +784,7 @@
 | [Lucious](https://open.spotify.com/track/1c90f63JrnaQZxKBdJdbPn) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Lucious](https://open.spotify.com/album/73UXINJanT7sabQxcbL2Am) | 3:18 | 2022-09-09 | 2022-10-01 |
 | [Lucky \(ft\. Mando Hill\)](https://open.spotify.com/track/2lQCdMZiGHYqBBxhpYzck8) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Mando Hill](https://open.spotify.com/artist/3rdbqu1VIlXUShnHvjcxFS) | [Lucky \(ft\. Mando Hill\)](https://open.spotify.com/album/51hQIfNEWD3nS4lSZgD2SM) | 3:44 | 2022-12-16 |  |
 | [M.I.A.](https://open.spotify.com/track/2rFQ1Bgm8w6nqKVANQVhMz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [M.I.A.](https://open.spotify.com/album/5EMVxC5yzZD8o3JnGWaDNx) | 3:27 | 2022-04-22 | 2022-05-28 |
-| [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2022-12-16 |  |
+| [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2022-12-16 |  |
 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 | 2022-10-21 | 2022-11-19 |
 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 | 2022-10-14 | 2022-10-29 |
 | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-18 | 2022-03-18 |
@@ -1220,7 +1220,8 @@
 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 | 2022-02-11 | 2022-03-05 |
 | [Still Got 4ever](https://open.spotify.com/track/0lT3BPJaW1LFCUjpxNHIaq) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Still Got 4ever](https://open.spotify.com/album/3G3kujnBjUxC2etYtHDto6) | 2:17 | 2022-09-23 | 2022-10-08 |
 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 | 2022-11-04 | 2022-11-26 |
-| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 |  |
+| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 | 2022-12-19 |
+| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 | 2022-12-02 |  |
 | [Still Like Drugs](https://open.spotify.com/track/7KyNKtcXTZgY1WWIyzGRX6) | [Lightshow](https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4), [Zubin](https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9) | [Still Like Drugs](https://open.spotify.com/album/6Ldm82syrNUjdsSo6im7nP) | 2:33 | 2022-06-07 | 2022-06-18 |
 | [Stone Cold](https://open.spotify.com/track/3Z2ASDuTah7auTOSVmDMo5) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/0l7iZ6objNnhQYiAFzMWOM) | 2:30 | 2022-10-14 | 2022-10-29 |
 | [Stone Rolling](https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Stone Rolling](https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF) | 3:00 | 2022-07-29 | 2022-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. For Tracy Hyde on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,456 likes - 108 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,502 likes - 108 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 8 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
 | 9 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 |
 | 10 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
-| 11 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 |
-| 12 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 |
+| 11 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 |
+| 12 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 |
 | 13 | [Into Black](https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk) | 3:28 |
 | 14 | [Песня о привязанности](https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ) | [Автоспорт](https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE) | [Береги себя](https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY) | 3:07 |
 | 15 | [Tropics](https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Tropics](https://open.spotify.com/album/24kVxQ6OijMWrEutVDusaI) | 4:18 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 38 | [Blaster](https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Happy Songs for Happy Zombies](https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX) | 3:24 |
 | 39 | [ERROR](https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:58 |
 | 40 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 |
-| 41 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 |
+| 41 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 |
 | 42 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 |
-| 43 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 |
+| 43 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 |
 | 44 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 |
 | 45 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 |
 | 46 | [Out of Line](https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Out of Line](https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo) | 2:11 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 72 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 |
 | 73 | [Hide](https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX) | 6:47 |
 | 74 | [Young Adult Friction](https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 4:03 |
-| 75 | [Akira](https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Deafcult](https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy) | 3:09 |
+| 75 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
 | 76 | [Junebouvier](https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Pipe Dreams](https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI) | 3:45 |
-| 77 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
+| 77 | [Akira](https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Deafcult](https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy) | 3:09 |
 | 78 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 79 | [atonement](https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 3:51 |
 | 80 | [Shirley Temple Tidal Wave](https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Crackled](https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB) | 6:36 |
@@ -102,12 +102,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 92 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 |
 | 93 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 |
 | 94 | [Invisible](https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Ether](https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu) | 3:11 |
-| 95 | [Hare Tarot Lies](https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4) | 3:26 |
-| 96 | [This Place Called Nowhere](https://open.spotify.com/track/01qMqTMNQAqtJ8nGt9oEaq) | [Box And The Twins](https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z) | [Everywhere I Go Is Silence](https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg) | 4:40 |
-| 97 | [Emerald Bells](https://open.spotify.com/track/3tnb5ow33RaHdKxus52XSq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 3:36 |
-| 98 | [Runner](https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk) | [Young Prisms](https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK) | [In Between](https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1) | 4:33 |
+| 95 | [This Place Called Nowhere](https://open.spotify.com/track/01qMqTMNQAqtJ8nGt9oEaq) | [Box And The Twins](https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z) | [Everywhere I Go Is Silence](https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg) | 4:40 |
+| 96 | [Hare Tarot Lies](https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4) | 3:26 |
+| 97 | [Runner](https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk) | [Young Prisms](https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK) | [In Between](https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1) | 4:33 |
+| 98 | [기다려준 새벽 \(Following Her to No Particular Sunrise\)](https://open.spotify.com/track/5h5Z6jn1hc8HTbQwTerSJn) | [Della Zyr](https://open.spotify.com/artist/0fx546FEiZSwGoSbuMnsmN) | [비타민과 우려 Vitamins and Apprehension](https://open.spotify.com/album/3KvDdvikW0qXKnfGYZQtXf) | 8:00 |
 | 99 | [Pretend to Be Here](https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Nature Heart Software](https://open.spotify.com/album/25NpVtdgL29klIrre3mion) | 3:37 |
-| 100 | [기다려준 새벽 \(Following Her to No Particular Sunrise\)](https://open.spotify.com/track/5h5Z6jn1hc8HTbQwTerSJn) | [Della Zyr](https://open.spotify.com/artist/0fx546FEiZSwGoSbuMnsmN) | [비타민과 우려 Vitamins and Apprehension](https://open.spotify.com/album/3KvDdvikW0qXKnfGYZQtXf) | 8:00 |
+| 100 | [Emerald Bells](https://open.spotify.com/track/3tnb5ow33RaHdKxus52XSq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 3:36 |
 | 101 | [While My Waves Wonder](https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 4:25 |
 | 102 | [S.W.I.M.](https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Forever](https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ) | 6:45 |
 | 103 | [End of the Night](https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [I Might Have](https://open.spotify.com/album/4Odq2mxuv8gPwzfPeY7oy2) | 5:26 |
@@ -115,6 +115,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 105 | [Heart in Your Heartbreak](https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [Belong](https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ) | 3:45 |
 | 106 | [Aurora](https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:50 |
 | 107 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
-| 108 | [The Run I\. & II\. \- Extended single edit](https://open.spotify.com/track/2jmt8JiT7IPRzdWf4Diz6N) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn), [Alcest](https://open.spotify.com/artist/7FqjTmfXMXDYDAvRX5KYZd), [JK Flesh](https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3) | [The Run I\. & II.](https://open.spotify.com/album/3NybIjX2h7PO0kc6cjiqm6) | 6:47 |
+| 108 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
 
-Snapshot ID: `MTY3MTEyNzMwMywwMDAwMDAwMDNlOTk1YmI5MzIzYjNlZjA4NDM5OTY0MzAwZDJiNjY0`
+Snapshot ID: `MTY3MTEyNzMwMywwMDAwMDAwMGRmMjRkNzhmNjJlNjc5ZjNhOGMxMDQ4ZTUzNDg4ZmRm`

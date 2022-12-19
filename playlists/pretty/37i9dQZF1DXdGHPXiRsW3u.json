@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 379483,
+  "num_followers": 379830,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1ODk5MiwwMDAwMDAwMDcyYTg4MTI0NjRmMTY3Zjg5ZTZiODhiM2RjMjNkYjAy",
+  "snapshot_id": "MTY2OTM1ODk5MiwwMDAwMDAwMDJkN2FmMmQ1NGM3ODg5YTRhZDg1NjQ2MzY4ZjA5ODI4",
   "tracks": [
     {
       "added_at": "2022-10-22 00:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 288333,
       "name": "Cry Me a River",
       "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "Shape of My Heart",
-      "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "My Name Is Joe",
-        "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "I Wanna Know",
-      "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Swing When You're Winning",
         "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 170493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "My Name Is Joe",
+        "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "I Wanna Know",
+      "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 250546,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Big Girls Don't Cry (Personal)",
-      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Big Girls Don't Cry (Personal)",
+      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Please Don't Leave Me",
-      "url": "https://open.spotify.com/track/2gnZad0pb6QtUqMLTj2AjI"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Please Don't Leave Me",
+      "url": "https://open.spotify.com/track/2gnZad0pb6QtUqMLTj2AjI"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "Divine Discontent",
-        "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 243960,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 236400,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "Divine Discontent",
+        "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 243960,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
     },
     {
       "added_at": "2022-10-22 00:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-10-22 00:00:00",
       "album": {
-        "name": "Oh Aaron",
-        "url": "https://open.spotify.com/album/6RBal3R25BlKtJGfd70kyc"
-      },
-      "artists": [
-        {
-          "name": "Aaron Carter",
-          "url": "https://open.spotify.com/artist/5338fdSzGNOFD4cxAxDTeq"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "I'm All About You",
-      "url": "https://open.spotify.com/track/4osyhAKfnSADr7f4kOLS86"
-    },
-    {
-      "added_at": "2022-10-22 00:00:00",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 257293,
       "name": "A Moment Like This",
       "url": "https://open.spotify.com/track/5i9UKSttY3V7x9OnYZsMBX"
+    },
+    {
+      "added_at": "2022-10-22 00:00:00",
+      "album": {
+        "name": "Oh Aaron",
+        "url": "https://open.spotify.com/album/6RBal3R25BlKtJGfd70kyc"
+      },
+      "artists": [
+        {
+          "name": "Aaron Carter",
+          "url": "https://open.spotify.com/artist/5338fdSzGNOFD4cxAxDTeq"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "I'm All About You",
+      "url": "https://open.spotify.com/track/4osyhAKfnSADr7f4kOLS86"
     },
     {
       "added_at": "2022-10-22 00:00:00",

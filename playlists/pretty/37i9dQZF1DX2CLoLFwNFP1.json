@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 10392,
+  "num_followers": 10438,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDFkOGY0OTJiMTgxODkyZmNkNjZjMTQwNjI3NzExYjg1",
+  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDcyYTM2NDQ3NWI1ZjY4M2Q5NzY0ZjZiZjVmOTkyZWMy",
   "tracks": [
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "Yummy (Prod. by Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 243593,
       "name": "Limousine (Feat. KRNFX)",
       "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 191660,
+      "name": "Yummy (Prod. by Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
     },
     {
       "added_at": "2022-11-01 04:02:48",

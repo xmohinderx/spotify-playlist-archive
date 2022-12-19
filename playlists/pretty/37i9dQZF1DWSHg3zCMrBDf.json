@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=dEeiPyvUTYSjwFjib5pt4Q\"> Mr Eazi </a>  ",
-  "num_followers": 25717,
+  "num_followers": 25763,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDNkN2JmMzQxMDQ1OWJkOTY1NzhkNWFkNGFjNzY0YTg2",
+  "snapshot_id": "MTY3MTM1ODQ3OSwwMDAwMDAwMDI4MWY2OTk0OGUzZGM4MDM4YjM5YjcyZmUxOGNjMzlh",
   "tracks": [
     {
       "added_at": "2022-09-23 00:44:27",
@@ -31,6 +31,26 @@
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "added_at": "2022-11-28 07:10:06",
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -479,26 +499,6 @@
       "duration_ms": 152042,
       "name": "Door",
       "url": "https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi"
-    },
-    {
-      "added_at": "2022-11-28 07:10:06",
-      "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Country Side (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
       "added_at": "2021-10-08 00:00:00",

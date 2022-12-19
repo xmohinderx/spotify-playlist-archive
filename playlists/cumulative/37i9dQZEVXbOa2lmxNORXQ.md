@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-523 songs - 1 day 5 hr 3 min - [published](https://open.spotify.com/playlist/1oznrLnQS5DZxxfUr57NET)
+524 songs - 1 day 5 hr 6 min - [published](https://open.spotify.com/playlist/1oznrLnQS5DZxxfUr57NET)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Lady Mi Amor](https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:27 | 2022-09-15 | 2022-11-05 |
 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 | 2021-12-10 | 2022-01-04 |
 | [Las Caleñas](https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [Discos de Oro: Pastor López y Su Combo Volume 3](https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk) | 3:32 | 2022-12-09 | 2022-12-11 |
-| [Las Cartas](https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu) | 3:32 | 2022-11-21 |  |
+| [Las Cartas](https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu) | 3:32 | 2022-11-21 | 2022-12-19 |
 | [Las Cartas](https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu) | 3:32 | 2022-10-04 | 2022-10-15 |
 | [Las Locuras Mías](https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 3:42 | 2021-03-27\* | 2022-01-05 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-23 |
@@ -295,6 +295,7 @@
 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 | 2022-08-27 | 2022-11-13 |
 | [LOKERA](https://open.spotify.com/track/33cF8aTmGJ6TsEf23uqGIN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:17 | 2022-11-12 |  |
 | [Loquito por Ti](https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:47 | 2021-12-10 | 2022-12-11 |
+| [Los Hombres También Lloran](https://open.spotify.com/track/6dHNj0jXwAXvJ5Z97lvbpZ) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Los Hombres También Lloran](https://open.spotify.com/album/6M5S8XlsTmFy7avohunUFJ) | 3:16 | 2022-12-18 |  |
 | [Los Sabanales](https://open.spotify.com/track/6C3UW9oW2iCnoMMHkGjnPF) | [Calixto Ochoa y Su Conjunto](https://open.spotify.com/artist/1kgaDKoI7QF74We1cb2MB3), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [Grandes Éxitos De](https://open.spotify.com/album/3FvOASIRwci6FOag5hspur) | 2:41 | 2021-12-10 | 2022-01-04 |
 | [Los Sabanales](https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Éxitos los Corraleros de Majagual](https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX) | 2:38 | 2022-12-09 | 2022-12-11 |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2021-10-06 | 2021-12-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631082,
+  "num_followers": 631083,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU5OTMzNCwwMDAwMDAwMDYxNzFmMzBhMzJmMGJmN2ZiZTJmMzFjMWRkYzFlOGJl",
+  "snapshot_id": "MTY3MDU5OTMzNCwwMDAwMDAwMGUzOTI0MzhhMWE2OTE1NDk2MDc0NmJiYjA0ZGNjYzI3",
   "tracks": [
     {
       "added_at": "2022-12-09 15:22:14",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Jeevan",
-        "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
-      },
-      "artists": [
-        {
-          "name": "Gamini Khatri",
-          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
-        }
-      ],
-      "duration_ms": 150066,
-      "name": "Jeevan",
-      "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Luminescent",
         "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 264000,
       "name": "Luminescent",
       "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Jeevan",
+        "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "Jeevan",
+      "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
-      },
-      "artists": [
-        {
-          "name": "Parazal",
-          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "Suhpratti",
-      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Everything Shall Pass",
         "url": "https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 208000,
       "name": "Everything Shall Pass",
       "url": "https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+      },
+      "artists": [
+        {
+          "name": "Parazal",
+          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "Suhpratti",
+      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Rancul",
-        "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
-      },
-      "artists": [
-        {
-          "name": "Rancul",
-          "url": "https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf"
-        }
-      ],
-      "duration_ms": 105626,
-      "name": "Piano El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Frozen Sunlight",
         "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 210277,
       "name": "Frozen Sunlight - Music Only",
       "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Rancul",
+        "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
+      },
+      "artists": [
+        {
+          "name": "Rancul",
+          "url": "https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf"
+        }
+      ],
+      "duration_ms": 105626,
+      "name": "Piano El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
-      },
-      "artists": [
-        {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Tenebris",
         "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 233174,
       "name": "Aragorn",
       "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+      },
+      "artists": [
+        {
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Ambientes",
         "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 120172,
       "name": "Lagrima",
       "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Song For Wermland",
-        "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Jenzen",
-          "url": "https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc"
-        }
-      ],
-      "duration_ms": 226862,
-      "name": "Song For Wermland",
-      "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Tao of Flow",
         "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 121538,
       "name": "Bodh Gaya",
       "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Song For Wermland",
+        "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Jenzen",
+          "url": "https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc"
+        }
+      ],
+      "duration_ms": 226862,
+      "name": "Song For Wermland",
+      "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Darashinai Beach",
-        "url": "https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc"
-      },
-      "artists": [
-        {
-          "name": "Kenichiban",
-          "url": "https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva"
-        }
-      ],
-      "duration_ms": 219090,
-      "name": "Darashinai Beach",
-      "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Inner Journey",
         "url": "https://open.spotify.com/album/5mlT9Cr3ltK9TnpvJz5Bds"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 147857,
       "name": "Vibrations",
       "url": "https://open.spotify.com/track/1Dzbs1yub3kkAzlxwGuXQC"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Darashinai Beach",
+        "url": "https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc"
+      },
+      "artists": [
+        {
+          "name": "Kenichiban",
+          "url": "https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "Darashinai Beach",
+      "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Spaces in Serenity",
-        "url": "https://open.spotify.com/album/6qo7I02DZokmxM0X5X7eRm"
-      },
-      "artists": [
-        {
-          "name": "SARAB",
-          "url": "https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Spaces in Serenity",
-      "url": "https://open.spotify.com/track/6ivdFVK29qRdsKezUln44y"
-    },
-    {
-      "added_at": "2022-12-09 15:22:14",
-      "album": {
         "name": "Lucent Path",
         "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2022-12-09 15:22:14",
       "album": {
-        "name": "Selah",
-        "url": "https://open.spotify.com/album/3ucN43N5AB3IhIAOiX3MWI"
+        "name": "Spaces in Serenity",
+        "url": "https://open.spotify.com/album/6qo7I02DZokmxM0X5X7eRm"
       },
       "artists": [
         {
-          "name": "They Dream By Day",
-          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+          "name": "SARAB",
+          "url": "https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI"
         }
       ],
-      "duration_ms": 225110,
-      "name": "Notes On Leave Taking",
-      "url": "https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i"
+      "duration_ms": 251428,
+      "name": "Spaces in Serenity",
+      "url": "https://open.spotify.com/track/6ivdFVK29qRdsKezUln44y"
     },
     {
       "added_at": "2022-12-09 15:22:14",
@@ -1615,6 +1599,22 @@
       "duration_ms": 214951,
       "name": "Longevity",
       "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
+    },
+    {
+      "added_at": "2022-12-09 15:22:14",
+      "album": {
+        "name": "Selah",
+        "url": "https://open.spotify.com/album/3ucN43N5AB3IhIAOiX3MWI"
+      },
+      "artists": [
+        {
+          "name": "They Dream By Day",
+          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+        }
+      ],
+      "duration_ms": 225110,
+      "name": "Notes On Leave Taking",
+      "url": "https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i"
     }
   ],
   "unique_name": "DayDreamer",

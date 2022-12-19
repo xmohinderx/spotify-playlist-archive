@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-659 songs - 1 day 12 hr 19 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+660 songs - 1 day 12 hr 21 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Couldn't Be Anybody Else](https://open.spotify.com/track/3FKymZJkx9clfOqxgc6GsL) | [Jean Claude and the Eclairs](https://open.spotify.com/artist/7k9WtW2oTAPRJEhQs5IT5J) | [Couldn't Be Anybody Else](https://open.spotify.com/album/4CLXK3xvTX2LoKny51NQ0A) | 4:01 | 2022-06-08 | 2022-06-30 |
 | [Covered In Sunshine](https://open.spotify.com/track/59OnNNCfCEaaIGNf8efV3t) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z) | [Covered In Sunshine](https://open.spotify.com/album/18L9jA6pBoa0UCNTdrPHFd) | 3:28 | 2022-06-29 | 2022-08-25 |
 | [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-06-29 | 2022-12-18 |
-| [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-11-30 |  |
+| [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-11-30 | 2022-12-19 |
+| [Crawling](https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY) | 2:44 | 2022-11-30 |  |
 | [Crocodile Tears](https://open.spotify.com/track/1Ogx9hdaApNyMTDLIYLh4L) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/50z98bFMiIfpH5ZoTfhTTG) | 4:03 | 2022-03-30 | 2022-06-30 |
 | [Crocodile Tears](https://open.spotify.com/track/6m1VlQPcjfEEBdWniFuhI7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/7n0RbDSBuZtgSV4V7pPUWQ) | 4:03 | 2022-11-30 |  |
 | [Crushed](https://open.spotify.com/track/7tQqk7Z3TyyC4QcY0Ie4yf) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Honey, WTF](https://open.spotify.com/album/6Swk35DNkG3MmsdmQXhvQ6) | 3:34 | 2022-01-12 |  |

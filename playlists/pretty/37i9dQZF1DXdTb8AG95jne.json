@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: it's(\uc774\uce20)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 414702,
+  "num_followers": 414917,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxOTgxNCwwMDAwMDAwMDRhNzI1ZjU5N2RkNGI4MmNhYWM0NzMxMDJkOWJjMzlh",
+  "snapshot_id": "MTY3MDkxOTgxNCwwMDAwMDAwMDAwMDU3MzYyM2I3ZmZkNzg0ZjhjZmU5M2EyZjQxMGFi",
   "tracks": [
     {
       "added_at": "2022-12-13 08:06:35",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5yrpZNk10TtSgQGKuVzAlB"
     },
     {
-      "added_at": "2022-12-18 01:03:31",
+      "added_at": "2022-12-19 00:53:48",
       "album": {
         "name": "be around me",
         "url": "https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG"
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-12-13 08:06:35",
       "album": {
+        "name": "friend to lover",
+        "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 187946,
+      "name": "friend to lover",
+      "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
+    },
+    {
+      "added_at": "2022-12-13 08:06:35",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 233416,
       "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
-    },
-    {
-      "added_at": "2022-12-13 08:06:35",
-      "album": {
-        "name": "friend to lover",
-        "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 187946,
-      "name": "friend to lover",
-      "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
       "added_at": "2022-12-13 08:06:35",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-12-13 08:06:35",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
-    },
-    {
-      "added_at": "2022-12-13 08:06:35",
-      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2022-12-13 08:06:35",
+      "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2022-12-13 08:06:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-12-13 08:06:35",
       "album": {
-        "name": "YOUTH",
-        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
-      },
-      "artists": [
-        {
-          "name": "Dasutt",
-          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-        }
-      ],
-      "duration_ms": 361426,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
-    },
-    {
-      "added_at": "2022-12-13 08:06:35",
-      "album": {
         "name": "naps!",
         "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
       },
@@ -815,6 +799,42 @@
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
+    },
+    {
+      "added_at": "2022-12-13 08:06:35",
+      "album": {
+        "name": "YOUTH",
+        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "duration_ms": 361426,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
+    },
+    {
+      "added_at": "2022-12-13 08:06:35",
+      "album": {
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "Be Your Christmas (feat. BOL4)",
+      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
     },
     {
       "added_at": "2022-12-13 08:06:35",
@@ -847,26 +867,6 @@
       "duration_ms": 196293,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
-    },
-    {
-      "added_at": "2022-12-13 08:06:35",
-      "album": {
-        "name": "Be Your Christmas",
-        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        },
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 158226,
-      "name": "Be Your Christmas (feat. BOL4)",
-      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
     }
   ],
   "unique_name": "In The K-Indie",

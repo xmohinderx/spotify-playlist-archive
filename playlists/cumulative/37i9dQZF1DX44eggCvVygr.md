@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-89 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
+90 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 | 2021-12-03 |  |
 | [Ti amo](https://open.spotify.com/track/7b531MnsISnSjXFKOpAwlw) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tutto Tozzi](https://open.spotify.com/album/72kyiPtM273vSlW6QCoX1J) | 4:02 | 2021-08-26 | 2022-07-29 |
 | [Ti Amo](https://open.spotify.com/track/0tmZtk7jH8Esx87io5XujD) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Italian Best Hits](https://open.spotify.com/album/02hMLd8D5BQgI6m20KEIPa) | 4:05 | 2021-08-26 | 2022-11-13 |
-| [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 | 2021-08-26 |  |
+| [Ti Amo](https://open.spotify.com/track/5Mtx78lRs3S62t6JaGqWPR) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [GLORIA FOREVER Il Tour](https://open.spotify.com/album/6zYWcL99HKx07mzlNzS87E) | 4:05 | 2021-08-26 |  |
+| [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 | 2021-08-26 | 2022-12-19 |
 | [Timebomb Zone](https://open.spotify.com/track/2sifRHahNmhTR7a3BjKc9u) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [No Tourists](https://open.spotify.com/album/6DAq2tDWMqPP7MTdb3aIDi) | 3:24 | 2021-08-26 |  |
 | [Trail of Revenge](https://open.spotify.com/track/71gmGaGQgbLetxEkfR5CLa) | [Andrew Britton](https://open.spotify.com/artist/1W8rzmv9lhOEkwtRMAzZtw), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [David Goldsmith](https://open.spotify.com/artist/53I9STCG46PNT88ubfdSLj) | [Universal Trailer Series \- Psychological Thriller](https://open.spotify.com/album/2rhxu5UWEdP1jxL2i5c2Hx) | 2:53 | 2021-08-26 |  |
 | [Trained to Kill](https://open.spotify.com/track/228nvElbY7zWEJoyYii9hg) | [Andrew Britton](https://open.spotify.com/artist/1W8rzmv9lhOEkwtRMAzZtw), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [David Goldsmith](https://open.spotify.com/artist/53I9STCG46PNT88ubfdSLj) | [Universal Trailer Series \- Spy\-Crime Thriller](https://open.spotify.com/album/7w8Iutd4Cq6CUTYYA39mg0) | 3:04 | 2021-08-26 |  |

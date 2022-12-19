@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-375 songs - 1 day 6 hr 40 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+376 songs - 1 day 6 hr 43 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [I Surrender Dear](https://open.spotify.com/track/5Ruwfqx4jMonaaF1z6RA3n) | [Billy Lester](https://open.spotify.com/artist/66egz5VrR7JGpVmlzZrBBt) | [From Scratch](https://open.spotify.com/album/4CfhVVsp9OlDdqartoyZP3) | 6:01 | 2022-02-18 | 2022-11-18 |
 | [I Thought About You](https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 4:01 | 2022-02-10 | 2022-12-06 |
 | [I Wish I Knew](https://open.spotify.com/track/2W6JLNB4tOiP6dZBQE1ANE) | [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1), [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [You and the Night and the Music](https://open.spotify.com/album/2bFn7LQRuAa7RmWQLkBNFb) | 8:53 | 2022-02-10 | 2022-11-09 |
-| [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-11-12 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-11-12 | 2022-12-19 |
 | [I'll Know](https://open.spotify.com/track/2OQiiPnoC7h2v3UprQa3zP) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:12 | 2022-02-10 | 2022-12-06 |
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 |  |
 | [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-01 |  |
@@ -178,6 +178,7 @@
 | [Kärlekens ögon](https://open.spotify.com/track/1GxuOHMxyH6DiDdiw6IHEo) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 4:50 | 2022-05-13 | 2022-11-12 |
 | [Kinderblock](https://open.spotify.com/track/0NXCAsU4pdUEpTXWuD1WQe) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Shifting Sands](https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt) | 5:11 | 2022-05-13 | 2022-05-17 |
 | [Lady Liberty](https://open.spotify.com/track/2HLGg89KyQOlqmaFuOlSwl) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x) | [Chimes of Freedom](https://open.spotify.com/album/1Fq52NWNh9YbQ08M7fitXG) | 5:18 | 2022-02-10 | 2022-11-09 |
+| [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-08 |  |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-11-24 |  |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-11-12 |  |
 | [Laura](https://open.spotify.com/track/0lBCnUEZ54x5O4YiZQCjcR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 3:30 | 2022-02-10 | 2022-11-09 |

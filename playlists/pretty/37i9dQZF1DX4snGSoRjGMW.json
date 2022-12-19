@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 6089,
+  "num_followers": 6106,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDIyYThhODU1ZmZkMTI1OGU4NTBlNzY0YTMzYmFlNWNl",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDNjYjgzZDkxYTIzODVkMDkwMmY4MmZkM2I5Yjk3NTU0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
-      },
-      "artists": [
-        {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Stronger Than You Need To Be",
-      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Makin Love is Good For You (Expanded Edition)",
         "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 229226,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Stronger Than You Need To Be",
+      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I'll Sing the Blues for You",
-        "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 295626,
-      "name": "Thru Chasin' You",
-      "url": "https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Leaving Mood",
         "url": "https://open.spotify.com/album/4YBT9ZGhAe1vHUEEvt16kX"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Miss Lavelle",
-        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
+        "name": "I'll Sing the Blues for You",
+        "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
       },
       "artists": [
         {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Yes, I've Been Crying",
-      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
+      "duration_ms": 295626,
+      "name": "Thru Chasin' You",
+      "url": "https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -579,6 +563,22 @@
       "duration_ms": 189093,
       "name": "Who's Still in Love",
       "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Miss Lavelle",
+        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
+      },
+      "artists": [
+        {
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Yes, I've Been Crying",
+      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Keep Knockin'",
-        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "One Monkey Don't Stop No Show",
-      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -663,34 +647,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Make It Rain",
-        "url": "https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF"
+        "name": "I've Got My Own Hell To Raise",
+        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
       },
       "artists": [
         {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 316533,
-      "name": "What Can A Man Do?",
-      "url": "https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588"
+      "duration_ms": 206466,
+      "name": "On The Surface",
+      "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Back In The Game",
-        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
+        "name": "Blues Keep Knockin'",
+        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
       },
       "artists": [
         {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
         }
       ],
-      "duration_ms": 257133,
-      "name": "I Can't Stop",
-      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
+      "duration_ms": 194933,
+      "name": "One Monkey Don't Stop No Show",
+      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -727,34 +711,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I've Got My Own Hell To Raise",
-        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
       },
       "artists": [
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 206466,
-      "name": "On The Surface",
-      "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
+      "duration_ms": 257133,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+        "name": "Make It Rain",
+        "url": "https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF"
       },
       "artists": [
         {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
         }
       ],
-      "duration_ms": 288400,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+      "duration_ms": 316533,
+      "name": "What Can A Man Do?",
+      "url": "https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -775,18 +759,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hard Times",
-        "url": "https://open.spotify.com/album/2tJ3Z5H8Jy5u4cl4g8PiuU"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
       "artists": [
         {
-          "name": "Frank Mendenhall",
-          "url": "https://open.spotify.com/artist/3YzpzBphHG0ekowXUcEIEa"
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
         }
       ],
-      "duration_ms": 330426,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT"
+      "duration_ms": 288400,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -819,6 +803,22 @@
       "duration_ms": 242027,
       "name": "All The Way Down",
       "url": "https://open.spotify.com/track/353BumIgA33r4FzY84JCaF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/2tJ3Z5H8Jy5u4cl4g8PiuU"
+      },
+      "artists": [
+        {
+          "name": "Frank Mendenhall",
+          "url": "https://open.spotify.com/artist/3YzpzBphHG0ekowXUcEIEa"
+        }
+      ],
+      "duration_ms": 330426,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "This Time For Real",
+        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
+      },
+      "artists": [
+        {
+          "name": "Billy Price",
+          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
+        },
+        {
+          "name": "Otis Clay",
+          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Going to the Shack",
+      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Today I Sing The Blues",
         "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
@@ -939,22 +959,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "This Time For Real",
-        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
       },
       "artists": [
         {
-          "name": "Billy Price",
-          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
-        },
-        {
-          "name": "Otis Clay",
-          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
         }
       ],
-      "duration_ms": 255693,
-      "name": "Going to the Shack",
-      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
+      "duration_ms": 265133,
+      "name": "I Can't Hold It",
+      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -971,22 +987,6 @@
       "duration_ms": 265053,
       "name": "Reckless Heart",
       "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
-      },
-      "artists": [
-        {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "I Can't Hold It",
-      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
     }
   ],
   "unique_name": "Soul Blues",

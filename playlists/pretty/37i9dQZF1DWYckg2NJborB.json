@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53118,
+  "num_followers": 53113,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDMyM2Y0YWE3M2EwNzBjMGRiYTQzNDcyYjI2MDUzODQ1",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGNlNjA1YTBmMDAwY2VlY2RjNTBlYzFkNjExNGE4ZWYz",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -379,22 +379,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "The Book I Read - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Street Spirit (Fade Out)",
         "url": "https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
-          "name": "Poe",
-          "url": "https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 320240,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
+      "duration_ms": 250053,
+      "name": "The Book I Read - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -439,6 +423,22 @@
       "duration_ms": 158680,
       "name": "Walt Whitman",
       "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA"
+      },
+      "artists": [
+        {
+          "name": "Poe",
+          "url": "https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
     },
     {
       "added_at": "2018-12-10 14:56:06",

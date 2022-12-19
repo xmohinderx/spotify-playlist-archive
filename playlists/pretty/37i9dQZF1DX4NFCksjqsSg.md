@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,185 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,190 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 37 | [Tous les cris, les S.O.S.](https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 5:18 |
 | 38 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
 | 39 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
-| 40 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
-| 41 | [Soirs de Scotch](https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Luce Dufault](https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5) | 3:33 |
+| 40 | [Soirs de Scotch](https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Luce Dufault](https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5) | 3:33 |
+| 41 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
 | 42 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
 | 43 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
 | 44 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 50 | [Que je t'aime](https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Mes succès francophones 1](https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO) | 3:57 |
 | 51 | [Changer](https://open.spotify.com/track/59DiAbELxjxnY5fcgQRTI9) | [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu), [Marie\-Ève Janvier](https://open.spotify.com/artist/0FeqojwZ2cxZ5ME0n9XAwK) | [Don Juan \(Les plus grands succès du spectacle musical de Félix Gray\)](https://open.spotify.com/album/6zCqUEDoZRN92o7vtddpV5) | 4:06 |
 | 52 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
-| 53 | [Comment j'pourrais te l'dire](https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Marie\-Chantal Toupin](https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs) | 3:52 |
-| 54 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
+| 53 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
+| 54 | [Comment j'pourrais te l'dire](https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Marie\-Chantal Toupin](https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs) | 3:52 |
 | 55 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
 | 56 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 |
 | 57 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 60 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
 | 61 | [Un souvenir heureux](https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs) | [Les grands succès de Diane Dufresne](https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV) | 2:53 |
 | 62 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
-| 63 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
-| 64 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
+| 63 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
+| 64 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
 | 65 | [Je survivrai](https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa) | [Michèle Richard](https://open.spotify.com/artist/2fLojwlojepWCZdtsAZVi0) | [Les années 70](https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk) | 3:30 |
 | 66 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 67 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 | 75 | [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 |
 
-Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDM5ZTRiZDFhYzlkZmVjNThmY2ZkOGM2YjVkYTg2NGIz`
+Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDdjOTg1MjYxZmExZjJlMWQ1MTQ2MTY3Y2E5YTY4MTBj`

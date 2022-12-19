@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Quevedo & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,406 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,546 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 15 | [La Copa](https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [La Copa](https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k) | 3:11 |
 | 16 | [Recordaras \- En Vivo](https://open.spotify.com/track/1X1HVUBlxczcppQakPkuJN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:20 |
 | 17 | [LOKOTRON REMIX](https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Tom fomt](https://open.spotify.com/artist/7GuMDzwhKre9vE0894eNRj) | [LOKOTRON REMIX](https://open.spotify.com/album/20AWnC24OYqJyZfmzcEc9N) | 6:10 |
-| 18 | [DEBI LLEVARTE FLORES](https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Taiko](https://open.spotify.com/artist/3DDA2uh7Kz4Kn0jOKrQh3Z) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 3:20 |
+| 18 | [DEBI LLEVARTE FLORES](https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 3:20 |
 | 19 | [Parcerita](https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Parcerita](https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz) | 1:45 |
 | 20 | [Navidá](https://open.spotify.com/track/3VxsC4ywIWIhk9DyTwv3rF) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Navidá](https://open.spotify.com/album/6QT370q4wm4Wh7XiWVXcJX) | 3:03 |
 | 21 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 |

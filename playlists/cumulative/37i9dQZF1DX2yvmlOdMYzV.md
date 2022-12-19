@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-277 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+278 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2022-06-30 |  |
 | [I'm a Rock](https://open.spotify.com/track/4hpmG15B0IJcB88PgrHu1U) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/3AYbVMgPfYy8JcnTkHzktt) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 | 2021-12-15 | 2022-11-09 |
+| [I'm Thru](https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [Cover art by Hasworld](https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB) | [I'm Thru](https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP) | 3:11 | 2022-11-09 |  |
 | [IDWL](https://open.spotify.com/track/4FxIGIFx8t2KfuTInsFN0T) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [IDWL](https://open.spotify.com/album/5zcTmGVDbf8KdP6pNaXhlP) | 3:40 | 2021-12-15 | 2022-07-29 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-11 | 2022-04-08 |
 | [In Search of Balance](https://open.spotify.com/track/7jC7FwxsaNkQC8pO358NuY) | [Reginald Omas Mamode IV](https://open.spotify.com/artist/7fwMK3Ri8BjvsBajiUt8dS) | [Where We Going?](https://open.spotify.com/album/4huFOBTh7Q7nY6KuAJSL3V) | 3:08 | 2021-12-15 | 2022-04-21 |
@@ -143,7 +144,7 @@
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 | 2022-10-22 |
 | [Let It Go](https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV) | 3:43 | 2022-10-19 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 | 2022-11-13 |
-| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-09 |  |
+| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-09 | 2022-12-19 |
 | [Lifethativebeenlivin](https://open.spotify.com/track/3W1M418LCdlDAUj1FQGMvN) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Lifethativebeenlivin](https://open.spotify.com/album/2lb4sntKtt0wZFWa6eePKE) | 2:55 | 2021-12-15 | 2022-04-07 |
 | [Little Thangs](https://open.spotify.com/track/3D8igV9yINYFtN65Di9NqH) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Little Thangs](https://open.spotify.com/album/45fXacALm4MEGCAGETPdQX) | 3:18 | 2022-04-07 | 2022-04-21 |
 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-10-19 |  |

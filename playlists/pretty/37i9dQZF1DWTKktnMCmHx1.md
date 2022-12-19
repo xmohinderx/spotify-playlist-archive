@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,825 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,834 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 67 | [PRACTICE](https://open.spotify.com/track/4Z5FyQlevoHoa5FsIVKZju) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 2:02 |
 | 68 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 | 69 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
-| 70 | [Soldi Puliti](https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Soldi Puliti](https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4) | 2:39 |
-| 71 | [SOLITE PARE \(feat\. thasup & Sfera Ebbasta\)](https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:31 |
+| 70 | [SOLITE PARE \(feat\. thasup & Sfera Ebbasta\)](https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:31 |
+| 71 | [Soldi Puliti](https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Soldi Puliti](https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4) | 2:39 |
 | 72 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 |
 | 73 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
 | 74 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:02 |
 | 80 | [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 |
 
-Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMGZlZmUzY2FjM2ZlZTA4ZDRlMTM0Y2UzOGU0MjYyOGMy`
+Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMGIyMzBjZmY1MDA5NTM0ZWEyNTkwMzZlNjgzZTNkMDEz`

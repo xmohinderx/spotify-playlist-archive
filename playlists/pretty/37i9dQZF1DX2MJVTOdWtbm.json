@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 102534,
+  "num_followers": 102547,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM2NjA0MywwMDAwMDAwMGZhM2M0NDRiNzk0MjM3YWJlMWY3NGU3N2NlNDFjMzQz",
+  "snapshot_id": "MTY3MDM2NjA0MywwMDAwMDAwMDRhMTQyNDM4YzdlNjQ1OWI3YTQ3MTA1MjkxYTFiMWZi",
   "tracks": [
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "CU\u00c1NTO",
-        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
-      },
-      "artists": [
-        {
-          "name": "CIAN",
-          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
-        }
-      ],
-      "duration_ms": 172430,
-      "name": "CU\u00c1NTO",
-      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 166086,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "CU\u00c1NTO",
+        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
+      },
+      "artists": [
+        {
+          "name": "CIAN",
+          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
+        }
+      ],
+      "duration_ms": 172430,
+      "name": "CU\u00c1NTO",
+      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "dime que si :)",
-        "url": "https://open.spotify.com/album/41bwmFwFiWwudFArZHVNFu"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 167041,
-      "name": "dime que si :)",
-      "url": "https://open.spotify.com/track/4eh0rsvnBgw8CKKZPY5r5D"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "La Original",
         "url": "https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
+        "name": "esc\u00e1pate",
+        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 171477,
+      "name": "esc\u00e1pate",
+      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
         "name": "DIADREAMER",
         "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
       },
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "esc\u00e1pate",
-        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
+        "name": "dime que si :)",
+        "url": "https://open.spotify.com/album/41bwmFwFiWwudFArZHVNFu"
       },
       "artists": [
         {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
         }
       ],
-      "duration_ms": 171477,
-      "name": "esc\u00e1pate",
-      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
+      "duration_ms": 167041,
+      "name": "dime que si :)",
+      "url": "https://open.spotify.com/track/4eh0rsvnBgw8CKKZPY5r5D"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Sensualidad",
-        "url": "https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U"
+        "name": "el vuelo",
+        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
       "artists": [
         {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
-        },
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 156477,
-      "name": "Sensualidad",
-      "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"
+      "duration_ms": 185293,
+      "name": "el vuelo",
+      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1367,6 +1363,26 @@
       "duration_ms": 201230,
       "name": "Cerquita del Mar",
       "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        },
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 156477,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1451,22 +1467,6 @@
       "duration_ms": 188400,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "el vuelo",
-        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "el vuelo",
-      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
     },
     {
       "added_at": "2022-12-06 22:34:03",

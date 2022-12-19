@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,831 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,949 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 16 | [No Time \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [No Time \(RÜFÜS DU SOL Remix\)](https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy) | 6:38 |
 | 17 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
 | 18 | [Was It The Wind That Stirred The Trees](https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It The Wind That Stirred The Trees](https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am) | 3:48 |
-| 19 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 |
+| 19 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 |
 | 20 | [Spaces](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Spaces](https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB) | 3:44 |
 | 21 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 |
-| 22 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 |
+| 22 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 |
 | 23 | [Alkantara](https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai) | [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk) | [Alkantara](https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo) | 3:36 |
 | 24 | [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 |
 | 25 | [Clear](https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Clear](https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA) | 3:40 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 50 | [Столица закатов](https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Столица закатов](https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS) | 4:43 |
 | 51 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 |
 | 52 | [Lungs](https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Lungs](https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap) | 6:43 |
-| 53 | [Shimmer](https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Shimmer](https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev) | 3:10 |
-| 54 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
+| 53 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
+| 54 | [Shimmer](https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Shimmer](https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev) | 3:10 |
 | 55 | [Face The Sun](https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Face The Sun](https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B) | 7:19 |
 | 56 | [Sapphire](https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62) | [Dee Montero](https://open.spotify.com/artist/46RoK8NBTMTyu23GiHqbCr), [Shahin Badar](https://open.spotify.com/artist/5wV3VcHY2HltBOIMQEhRzc) | [Sapphire](https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto) | 7:46 |
-| 57 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 |
-| 58 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
+| 57 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
+| 58 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 |
 | 59 | [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 |
 | 60 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
 
-Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMDhkOTllZGM0Mzg1NTc1ODMzNDQ5YWUzYTgzZTg5NzQ4`
+Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMGYxNDFmNWQzZDQ2YjJmMWNmOTE2NGVhMTljMDA3MWQz`

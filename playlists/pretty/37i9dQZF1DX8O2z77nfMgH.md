@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Quevedo y Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,451 likes - 69 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,482 likes - 69 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 24 | [OK](https://open.spotify.com/track/6oSHWQmDjgLlqnmM06enKF) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [408](https://open.spotify.com/album/65WZrqSIeKIiajPKb0qw3f) | 2:10 |
 | 25 | [Cuchi Cuchi](https://open.spotify.com/track/1Cnj7AYTdXFvIa0Y2PFyOH) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cuchi Cuchi](https://open.spotify.com/album/6YlYVw9UwdrACAYPwAZnqf) | 2:44 |
 | 26 | [Mis Heridas Cure](https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [El Hombrecito Del Mar](https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT) | 4:56 |
-| 27 | [DEBI LLEVARTE FLORES](https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Taiko](https://open.spotify.com/artist/3DDA2uh7Kz4Kn0jOKrQh3Z) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 3:20 |
+| 27 | [DEBI LLEVARTE FLORES](https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 3:20 |
 | 28 | [Rica](https://open.spotify.com/track/1knVjghqPmHGDzSLI3bRmk) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [Diablo Santo](https://open.spotify.com/album/3VhjWwBpzemDHcytRUP5t9) | 2:59 |
 | 29 | [Sin Haber Dormido](https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sin Haber Dormido](https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh) | 3:07 |
 | 30 | [Viaje sin regreso](https://open.spotify.com/track/2NRqyMIeZZYzHiME688y2H) | [Kabliz](https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy) | [Viaje sin regreso](https://open.spotify.com/album/6ZVNKl12anUrPHoUhXXUwu) | 3:24 |

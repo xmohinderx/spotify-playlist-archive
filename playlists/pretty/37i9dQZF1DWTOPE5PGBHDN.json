@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 85549,
+  "num_followers": 85610,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDk3MDg0MzRiZDdmNjQxN2Y3ZWQyZjI4NDJmNWVhMDYz",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMGIyNjk5YjQ1NDNhM2I1NGFlNmRlMTJiOTEwM2Y2YTAx",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -771,26 +771,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Te Quemaste",
-      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "4K",
         "url": "https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 201500,
       "name": "4K",
       "url": "https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Te Quemaste",
+      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -899,6 +899,42 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "El Hombre",
+        "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 305526,
+      "name": "Suave (Remix)",
+      "url": "https://open.spotify.com/track/4phvdPGXE8MGXsTBhqB5ht"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -935,42 +971,6 @@
       "duration_ms": 224680,
       "name": "Contra La Pared",
       "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "El Hombre",
-        "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 305526,
-      "name": "Suave (Remix)",
-      "url": "https://open.spotify.com/track/4phvdPGXE8MGXsTBhqB5ht"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi"
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw"
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 202886,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
     },
     {
       "added_at": "2020-07-02 17:35:53",

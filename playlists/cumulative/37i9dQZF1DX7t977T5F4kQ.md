@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: <a href="https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=Hlh4jrktTjungHWulQoTZA"> Kelvyn Boy </a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: <a href="https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=i0H2aCbMQJS7HrwsS4kZWw"> Lasmid </a>
 
-85 songs - 4 hr 33 min - not published yet
+90 songs - 4 hr 50 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,10 @@
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-11-04 |  |
 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-11-04 |  |
 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-11-04 |  |
+| [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/track/2XXZpGsijSDPEh5opFFvvX) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/album/3PwhfGA64MMYAZjdqnDzsJ) | 3:40 | 2022-12-18 |  |
 | [Billionaire](https://open.spotify.com/track/67BVAiOqovJtuKUMpqfFXM) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Billionaire](https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH) | 3:11 | 2022-11-18 |  |
 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 | 2022-11-04 |  |
+| [Blessed](https://open.spotify.com/track/3qBGf7ZlkiT9FRgxigUYOT) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Blessed](https://open.spotify.com/album/6zjTiaL3Q1WdSmDhJtXPxg) | 3:24 | 2022-12-18 |  |
 | [Bunker](https://open.spotify.com/track/430qeeo39VnjbC8aXIsEbS) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Bunker](https://open.spotify.com/album/5opRh6RWjK3h9hPfcY68yn) | 2:44 | 2022-11-04 |  |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-11-04 |  |
 | [Champagne](https://open.spotify.com/track/5iWC5AEn2Jm68LnPluwedn) | [Ayesem](https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Champagne](https://open.spotify.com/album/4Wdcgz2fJE5JOJyesJfKD9) | 4:23 | 2022-12-02 |  |
@@ -33,6 +35,8 @@
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2022-11-04 |  |
 | [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-25 | 2022-12-09 |
 | [Enjoyment Minister](https://open.spotify.com/track/4yuXNUSWIAzEmFsO8XVHhi) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Enjoyment Minister](https://open.spotify.com/album/6eFIO1ddQzjCwcAcRWoSnq) | 4:18 | 2022-11-04 |  |
+| [Everyday \(Essikafo Ammba Ntem\)](https://open.spotify.com/track/4eNIzswkTmMu1uNaUmKpQj) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Everyday \(Essikafo Ammba Ntem\)](https://open.spotify.com/album/7M9I9kebrA4DgSqIrf8ncy) | 3:36 | 2022-12-18 |  |
+| [Ewo](https://open.spotify.com/track/34a0tCqrurfs1UgVraTTBi) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11) | [Ewo](https://open.spotify.com/album/3xbmiEadRLcJk1wW2SOJ5j) | 2:40 | 2022-12-18 |  |
 | [Fakye](https://open.spotify.com/track/4mQfRdTt9CLowA0UgLaLfj) | [Kay 9ice](https://open.spotify.com/artist/7wNBctbXr4d5zWHVAiVf9y), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Fakye](https://open.spotify.com/album/2dQzVzAlQXPiFEO4xTHGiX) | 3:57 | 2022-11-25 |  |
 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 | 2022-11-04 |  |
 | [Feelings](https://open.spotify.com/track/3UYRNOw7cwUzIJmKCwjXEX) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Feelings](https://open.spotify.com/album/6uuL5ozmu2AopsmbKb7Qyq) | 3:14 | 2022-11-04 |  |
@@ -70,6 +74,7 @@
 | [Praise](https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Praise](https://open.spotify.com/album/6Q59aB1v3sjwKWddsaLt9K) | 3:22 | 2022-11-04 |  |
 | [Pressure](https://open.spotify.com/track/4R6CUDujx3BU6bzKksg191) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Pressure](https://open.spotify.com/album/3h5WutoKmXdjQ1SZqVtqPt) | 2:38 | 2022-11-25 |  |
 | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2022-11-04 |  |
+| [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 | 2022-12-18 |  |
 | [S3k3](https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [S3k3](https://open.spotify.com/album/7JjgRBz9e6A2wLPTcjQVYn) | 2:32 | 2022-11-04 |  |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 |  |
 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2022-11-04 |  |

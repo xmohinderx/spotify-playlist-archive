@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! Foto: Oscar D'Le\u00f3n",
-  "num_followers": 135515,
+  "num_followers": 135603,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMDVjNGVhNWIyYjZhYTY3OTEwZjdlMzU0NTJiZDM0M2Vk",
+  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMGY0Y2ViYzI5ZDAzZGU1YmU2M2FkYzYxMzQxMDUxMTZh",
   "tracks": [
     {
       "added_at": "2019-02-21 18:14:14",
@@ -595,22 +595,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Serie Sensacional: Marvin Santiago",
-        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Vasos De Colores",
-      "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Simplemente... Lalo",
         "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 458760,
       "name": "M\u00e1ximo Chamorro",
       "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Serie Sensacional: Marvin Santiago",
+        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Vasos De Colores",
+      "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "El Sonero Del Pueblo",
-        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "El Hombre Increible",
-      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Por el Buen Camino",
         "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 251585,
       "name": "Dicelo a El",
       "url": "https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "El Sonero Del Pueblo",
+        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "El Hombre Increible",
+      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
     },
     {
       "added_at": "2019-02-21 18:14:14",

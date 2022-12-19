@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 5990,
+  "num_followers": 6012,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNjQ0NywwMDAwMDAwMDY1YWEzODA0NzM5YmU2Y2FlYTMzYmVlZmNjNWQ4MzFl",
+  "snapshot_id": "MTY3MTM1OTIwMCwwMDAwMDAwMGE1OTMxM2EyMGMzMDU2ODg2N2I1Zjc5NmJhMjY4YzJh",
   "tracks": [
     {
       "added_at": "2022-10-28 12:47:19",
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
-      "added_at": "2022-12-18 00:16:37",
+      "added_at": "2022-12-13 13:00:47",
       "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
+      "added_at": "2022-08-26 09:38:47",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -779,22 +795,6 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
-      "added_at": "2022-08-26 09:38:47",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
+      "added_at": "2022-11-18 11:28:54",
       "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 224171,
-      "name": "Avoid Things",
-      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
-      "added_at": "2022-11-18 11:28:54",
-      "album": {
-        "name": "flora + fana (deluxe)",
-        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 217055,
-      "name": "float",
-      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Many Man - A COLORS SHOW",
@@ -935,6 +919,22 @@
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 224171,
+      "name": "Avoid Things",
+      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
       "added_at": "2022-09-09 10:14:03",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
     },
     {
-      "added_at": "2022-09-02 08:51:16",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Public Displays Of Affection: The Album",
@@ -1043,6 +1027,22 @@
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
+    },
+    {
+      "added_at": "2022-09-02 08:51:16",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2022-08-22 18:00:00",
@@ -1095,22 +1095,6 @@
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2022-09-30 06:22:18",
@@ -1183,6 +1167,22 @@
       "duration_ms": 186114,
       "name": "If I Get Caught",
       "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1429,24 +1429,24 @@
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
     },
     {
-      "added_at": "2022-11-18 11:28:54",
+      "added_at": "2022-08-05 07:52:38",
       "album": {
-        "name": "Love Station",
-        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
       },
       "artists": [
         {
-          "name": "Ria Sean",
-          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 153569,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla"
+      "duration_ms": 152523,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
     }
   ],
   "unique_name": "Cocoa Butter ",

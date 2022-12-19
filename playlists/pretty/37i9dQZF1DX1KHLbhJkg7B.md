@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,207 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,242 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 73 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 |
 | 74 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
 | 75 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 |
-| 76 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 |
-| 77 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
+| 76 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
+| 77 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 |
 | 78 | [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 |
 | 79 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
 | 80 | [Anyone](https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Anyone](https://open.spotify.com/album/3SZjxYfXYl3LWNI3VVV4NC) | 3:22 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 88 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 89 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 |
 | 90 | [How's It Going To Be](https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [How's It Going To Be](https://open.spotify.com/album/5i12HkZB9nh38tRvFXmyxS) | 3:51 |
-| 91 | [Carolina In My Mind](https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Carolina In My Mind](https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np) | 3:53 |
-| 92 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 |
+| 91 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 |
+| 92 | [Carolina In My Mind](https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Carolina In My Mind](https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np) | 3:53 |
 | 93 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 |
 | 94 | [Hallelujah](https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Hallelujah](https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS) | 4:07 |
 | 95 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 97 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 98 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:36 |
 | 99 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
-| 100 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Uncovered](https://open.spotify.com/album/5hs99gvzSISGOEmncgy853) | 3:30 |
+| 100 | [East Bound And Down](https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [East Bound And Down](https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe) | 2:57 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGI1ZWRkYTNkMDBiNTI5MWNhYjkwMmU3MmMyZWNiOTRj`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGNhODM3Mjc0NTUxMWUwZjhiOTdjZDEzNzgyNmMzMzMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,950 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,094 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 67 | [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 |
 | 68 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 69 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
-| 70 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
+| 70 | [País do Futebol \(No Flow\)](https://open.spotify.com/track/115EFwguc4backKEA1WVWT) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [País do Futebol \(No Flow\)](https://open.spotify.com/album/0OemWawwWXiabUo6rWUQbF) | 2:53 |
 
-Snapshot ID: `MTY3MTIxNDcyNiwwMDAwMDAwMDNmNzRlM2Q0ODUwY2ZlMDc5MzQ0NTU1NjhlZTdiNzAw`
+Snapshot ID: `MTY3MTIxNDcyNiwwMDAwMDAwMDU4MmQzMjMzYzRhYTQzOGZiZjRiYzcxMGUyZDE5MzY0`

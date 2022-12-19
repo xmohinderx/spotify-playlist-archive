@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 221590,
+  "num_followers": 221667,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDYwMmI4YjYzYWVjZTEwNDcwODFhMGNhMmYwYjM1MDM3",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDAyMjUwMTYwZTk2ZWE3MThkYWRlNzViMjRmZDEzNjQy",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
         "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 194879,
       "name": "Dueling Banjos",
       "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": "2022-07-25 21:35:55",

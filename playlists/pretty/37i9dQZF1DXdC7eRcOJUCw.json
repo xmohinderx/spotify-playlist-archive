@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Majo Aguilar en portada.",
-  "num_followers": 98961,
+  "num_followers": 99004,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMDg5MGZiNDUzMDRmODA3NDY4Mjk3MTMwZGM0MmYxZWU0",
+  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMDA1NWI0Nzg3Mjk2ODIzNWE4YzhkNTg0ZjMzN2Y5N2E1",
   "tracks": [
     {
       "added_at": "2022-11-11 06:00:00",
@@ -153,24 +153,20 @@
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
-      "added_at": "2022-10-07 15:31:27",
+      "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Alquimia",
-        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
+        "name": "15 \u00c9xitos: Chayito Valdez",
+        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Una Llamada Perdida",
-      "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
+      "duration_ms": 182729,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -253,20 +249,24 @@
       "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
-      "added_at": "2022-06-08 17:57:52",
+      "added_at": "2022-10-07 15:31:27",
       "album": {
-        "name": "15 \u00c9xitos: Chayito Valdez",
-        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
       },
       "artists": [
         {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 182729,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
+      "duration_ms": 201200,
+      "name": "Una Llamada Perdida",
+      "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 231418,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
     },
     {
       "added_at": "2022-06-08 17:57:52",

@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p"
+      },
+      "artists": [
+        {
+          "name": "Ark Patrol",
+          "url": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7"
+    },
+    {
+      "album": {
         "name": "Remembr (Skylark Remix)",
         "url": "https://open.spotify.com/album/4y9Ge62AvtUTYj0WaNtavd"
       },
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 280000,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr"

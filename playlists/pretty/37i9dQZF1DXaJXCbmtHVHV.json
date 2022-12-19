@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Bailey Zimmerman",
-  "num_followers": 481335,
+  "num_followers": 481487,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGZkNzliM2Q4MTZiOTc2NmQ3MjQyZGY1YTUwNmRlOTdi",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDZjNTc5OWNkODE5Njk0Y2MzY2Q2ZjM0ZThiMGMwZGMx",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Handle On You",
         "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 219333,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Country On",
-        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 236455,
-      "name": "Country On",
-      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Brown Eyes Baby",
-        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 224985,
-      "name": "Brown Eyes Baby",
-      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 225813,
       "name": "You Didn\u2019t",
       "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Brown Eyes Baby",
+        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224985,
+      "name": "Brown Eyes Baby",
+      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "She Likes It (feat. Jake Scott)",
         "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Your Heart Or Mine",
-      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -919,6 +919,26 @@
       "duration_ms": 169306,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Worth A Shot (feat. Dierks Bentley)",
+        "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Worth A Shot (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -947,26 +967,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Worth A Shot (feat. Dierks Bentley)",
-        "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Worth A Shot (feat. Dierks Bentley)",
-      "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Water Under The Bridge",
         "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 169760,
       "name": "Water Under The Bridge",
       "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Doin' This",
-        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 254181,
-      "name": "Doin' This",
-      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
+        "name": "Doin' This",
+        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 175840,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
+      "duration_ms": 254181,
+      "name": "Doin' This",
+      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "HEARTFIRST",
         "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
       },
@@ -1303,26 +1319,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Freedom Was A Highway",
-      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "With A Woman You Love",
         "url": "https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71"
       },
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "No Body",
-        "url": "https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ"
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 187640,
-      "name": "No Body",
-      "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
+      "duration_ms": 212720,
+      "name": "Freedom Was A Highway",
+      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "My Bar",
-        "url": "https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "My Bar",
-      "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Over For You",
         "url": "https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "My Bar",
+        "url": "https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "My Bar",
+      "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Backslider",
         "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 203381,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "New Truck",
-        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "New Truck",
-      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "New Truck",
+        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "New Truck",
+      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Beer With My Friends",
-        "url": "https://open.spotify.com/album/3ym8GZ68Y6ufLMkVrp4KUQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Beer With My Friends",
-      "url": "https://open.spotify.com/track/5nWsaKPbHG8UpBqkaBJGrE"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Never Say Never (with Lainey Wilson)",
         "url": "https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 176146,
       "name": "Never Say Never (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Beer With My Friends",
+        "url": "https://open.spotify.com/album/3ym8GZ68Y6ufLMkVrp4KUQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Beer With My Friends",
+      "url": "https://open.spotify.com/track/5nWsaKPbHG8UpBqkaBJGrE"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+        "name": "To Be Loved By You",
+        "url": "https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+      "duration_ms": 198324,
+      "name": "To Be Loved By You",
+      "url": "https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7"
     }
   ],
   "unique_name": "Big Country",

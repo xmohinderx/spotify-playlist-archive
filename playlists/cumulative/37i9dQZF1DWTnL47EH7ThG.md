@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-297 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
+298 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Still Get By](https://open.spotify.com/track/7Mi2EUBxIhhzydtBhDncXM) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Still Get By](https://open.spotify.com/album/3Kkex7K8BGnfcNnidX0m4I) | 3:25 | 2022-10-27 |  |
 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 | 2022-04-26 | 2022-10-28 |
 | [Stumble](https://open.spotify.com/track/3D0ZLuFDCA1ILyXQYlMqZ9) | [Bonjay](https://open.spotify.com/artist/12Jc0PCNtdYxqlBev0EqGJ) | [Broughtupsy](https://open.spotify.com/album/6p8iYdmqXyxJJMg70dfVF5) | 3:22 | 2022-10-27 |  |
-| [Styling Gel](https://open.spotify.com/track/0Q160nvCyoP642P1fRqKLq) | [Digital Sham](https://open.spotify.com/artist/79GEm4uIUnZCUeUQcjdSSd) | [Styling Gel Riddim](https://open.spotify.com/album/0bYJagTJKlkaOvhWbXk2eK) | 2:12 | 2022-02-04 |  |
+| [Styling Gel](https://open.spotify.com/track/0Q160nvCyoP642P1fRqKLq) | [Digital Sham](https://open.spotify.com/artist/79GEm4uIUnZCUeUQcjdSSd) | [Styling Gel Riddim](https://open.spotify.com/album/0bYJagTJKlkaOvhWbXk2eK) | 2:12 | 2022-02-04 | 2022-12-19 |
+| [Styling Gel](https://open.spotify.com/track/1iwOozBpwY1YDeTCs6d9Xg) | [Digital Sham](https://open.spotify.com/artist/79GEm4uIUnZCUeUQcjdSSd) | [Styling Gel Riddim](https://open.spotify.com/album/4QKPjRh7d3IVkfAK6CiQhV) | 2:12 | 2022-02-04 |  |
 | [SUMN LIKE THIS](https://open.spotify.com/track/2BhB2u9hxOX2ploipaG6fo) | [The Bleus](https://open.spotify.com/artist/1ZlFxR76M4IgjEKFgLkMDI), [Likkle Slave](https://open.spotify.com/artist/4bXgFNLNlTtUUo3MTyRcuj) | [SUMN LIKE THIS](https://open.spotify.com/album/2DTeCIjA7XkhMAuBBrTt9u) | 2:23 | 2022-10-27 |  |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-04-26 |  |
 | [Svengali](https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5) | 2:59 | 2022-10-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,715 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,921 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 56 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 57 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
 | 58 | [Hear Me](https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l) | [The Buttshakers](https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ) | [Arcadia](https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv) | 2:36 |
-| 59 | [Hard Up](https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 4:15 |
-| 60 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
+| 59 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
+| 60 | [Hard Up](https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 4:15 |
 | 61 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 |
 | 62 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 63 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 69 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 |
 | 70 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDE5Y2I3YTcxZGNmYjRjMDcxMjJmNTVhNTZhOGE3ODM0`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGJjYjg5OWZjM2JmNDQzNTExZjhkMmVjN2NjNjVhYTA2`

@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 181632,
+  "num_followers": 181695,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NjY5OCwwMDAwMDAwMDZmODg0ZDhhZTEwYWU3NzAxNGMyZjJkMzJmZDRkN2Nj",
+  "snapshot_id": "MTY3MDQ1NjY5OCwwMDAwMDAwMGYxMzUwNjQ2OGQ2MGYzNTFkOTI3ODY1OTg3Nzc4Nzhi",
   "tracks": [
     {
       "added_at": "2022-12-07 23:44:58",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-12-07 23:44:58",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Siempre Estoy Pensando En Ti",
-      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
-    },
-    {
-      "added_at": "2022-12-07 23:44:58",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 217426,
       "name": "Yo No Tengo La Culpa",
       "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"
+    },
+    {
+      "added_at": "2022-12-07 23:44:58",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Siempre Estoy Pensando En Ti",
+      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
     },
     {
       "added_at": "2022-12-07 23:44:58",

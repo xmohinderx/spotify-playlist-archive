@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 111404,
+  "num_followers": 111414,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwNzAyNiwwMDAwMDAwMGFhZTY0OGZmMjMwNjczN2MzN2EzOTU5ZGI4NDNkNGY1",
+  "snapshot_id": "MTY3MTIwNzAyNiwwMDAwMDAwMGUxOTIxYmQxN2MwMmYzZGE2ZmViMzk1MzE1YzZhOTU5",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Girl On Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Girl On Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 167469,
       "name": "Gone Too Soon - Acoustic",
       "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Girl On Fire (Acoustic)",
-        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Girl On Fire - Acoustic",
-      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Loved Me That Way (stripped)",
-        "url": "https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o"
-      },
-      "artists": [
-        {
-          "name": "Lauren Duski",
-          "url": "https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5"
-        }
-      ],
-      "duration_ms": 222352,
-      "name": "Loved Me That Way (stripped)",
-      "url": "https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Loved Me That Way (stripped)",
+        "url": "https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o"
+      },
+      "artists": [
+        {
+          "name": "Lauren Duski",
+          "url": "https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5"
+        }
+      ],
+      "duration_ms": 222352,
+      "name": "Loved Me That Way (stripped)",
+      "url": "https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Turning Stones",
-        "url": "https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE"
-      },
-      "artists": [
-        {
-          "name": "Tommy Prine",
-          "url": "https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Turning Stones",
-      "url": "https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Thought This Through",
         "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 172663,
       "name": "Thought This Through",
       "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Turning Stones",
+        "url": "https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE"
+      },
+      "artists": [
+        {
+          "name": "Tommy Prine",
+          "url": "https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Turning Stones",
+      "url": "https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH"
     },
     {
       "added_at": "2022-12-16 05:00:00",

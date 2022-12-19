@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Majur",
-  "num_followers": 329377,
+  "num_followers": 329414,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwOTcwNSwwMDAwMDAwMDdlNTM4N2ExZDZkNDIzZTk3MTZmMjA2YjI1ZTE5ZjJm",
+  "snapshot_id": "MTY3MTIwOTcwNSwwMDAwMDAwMDk3MDI3NzM1NzdmNDM5OWQ1OTk0MjZmYzNiYjdlMzQx",
   "tracks": [
     {
       "added_at": "2022-12-09 05:18:09",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
+        "name": "Ciumeira",
+        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "Ciumeira",
+      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
         "name": "Paula e Bebeto",
         "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 191418,
       "name": "Paula e Bebeto",
       "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Ciumeira",
-        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "Ciumeira",
-      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -815,6 +795,26 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 342514,
       "name": "Num Mundo de Paz",
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Aposta",
-        "url": "https://open.spotify.com/album/1cb98k7ng0tmg4dRBq77OB"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Aposta",
-      "url": "https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -871,18 +851,42 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+        "name": "Aposta",
+        "url": "https://open.spotify.com/album/1cb98k7ng0tmg4dRBq77OB"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+      "duration_ms": 202386,
+      "name": "Aposta",
+      "url": "https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -907,22 +911,18 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
       },
       "artists": [
         {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1201,6 +1201,26 @@
       "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
     },
     {
+      "added_at": "2022-12-19 00:05:19",
+      "album": {
+        "name": "Som de Alceu",
+        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+    },
+    {
       "added_at": "2022-12-09 05:18:09",
       "album": {
         "name": "Dan\u00e7a",
@@ -1287,22 +1307,6 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
         "name": "Ano Que Vem",
         "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
       },
@@ -1315,6 +1319,22 @@
       "duration_ms": 179656,
       "name": "Ano Que Vem",
       "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1385,26 +1405,6 @@
       "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
-      "added_at": "2022-12-18 00:40:17",
-      "album": {
-        "name": "Som de Alceu",
-        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
-    },
-    {
       "added_at": "2022-12-09 05:18:09",
       "album": {
         "name": "Aqui em Casa (Ep 02)",
@@ -1427,26 +1427,6 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Alceu Valen\u00e7a e Paulo Rafael",
-        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Paulo Rafael",
-          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
-        }
-      ],
-      "duration_ms": 204873,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1523,18 +1503,22 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Caetano Veloso Al\u00e9m do \"Transa\"",
-        "url": "https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX"
+        "name": "Alceu Valen\u00e7a e Paulo Rafael",
+        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
       "artists": [
         {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Paulo Rafael",
+          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
         }
       ],
-      "duration_ms": 202638,
-      "name": "N\u00e3o Identificado",
-      "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
+      "duration_ms": 204873,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1555,6 +1539,22 @@
       "duration_ms": 296000,
       "name": "Se N\u00e3o For Amor",
       "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Caetano Veloso Al\u00e9m do \"Transa\"",
+        "url": "https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        }
+      ],
+      "duration_ms": 202638,
+      "name": "N\u00e3o Identificado",
+      "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW"
-      },
-      "artists": [
-        {
-          "name": "Pagui",
-          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "Avenida da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
         "name": "A M\u00fasica de Tom",
         "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 185691,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW"
+      },
+      "artists": [
+        {
+          "name": "Pagui",
+          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "Avenida da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
+        "name": "Retr\u00f3picos",
+        "url": "https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ohana",
+          "url": "https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712"
+        }
+      ],
+      "duration_ms": 271440,
+      "name": "Retr\u00f3picos",
+      "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
         "name": "Caso Perdido",
         "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 204521,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Retr\u00f3picos",
-        "url": "https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj"
-      },
-      "artists": [
-        {
-          "name": "Paulo Ohana",
-          "url": "https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712"
-        }
-      ],
-      "duration_ms": 271440,
-      "name": "Retr\u00f3picos",
-      "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1832,13 +1832,13 @@
           "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
         },
         {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 193186,
-      "name": "Banho de Cheiro",
-      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1872,16 +1872,16 @@
           "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
+      "duration_ms": 193186,
+      "name": "Banho de Cheiro",
+      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
     },
     {
-      "added_at": "2022-12-18 00:40:17",
+      "added_at": "2022-12-19 00:05:19",
       "album": {
         "name": "Corpo a Corpo",
         "url": "https://open.spotify.com/album/56jMSW9PRi6hQOUwqHrH5u"

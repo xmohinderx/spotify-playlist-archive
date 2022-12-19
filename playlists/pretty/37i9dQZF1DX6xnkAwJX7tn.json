@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 280058,
+  "num_followers": 280490,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTAxNjM1MCwwMDAwMDAwMDdhMWNhNTUwYzkzMmQ4OTE4OWI0MzkxZTIyNGZiZTRl",
+  "snapshot_id": "MTY3MTAxNjM1MCwwMDAwMDAwMGM2NWYxOTA0OTc1MDg0YmQ2NzMxNTgwMzQ1YTRhOTFk",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "'80s Pop #1's",
@@ -835,6 +819,22 @@
       "duration_ms": 245413,
       "name": "Funkytown - Single Version",
       "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Bad - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Look Sharp! (Extended Version)",
         "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/2oWMI54r0qT4N8Xb4C76vq"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+      "duration_ms": 247360,
+      "name": "Bad - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "Kim Wilde",
+        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Kids In America",
+      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "Chinese Wall (Expanded Edition)",
         "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 305866,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Kim Wilde",
-        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Kids In America",
-      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Organisation",
         "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 213693,
       "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "No Jacket Required (2016 Remaster)",
@@ -1623,6 +1607,22 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1737,22 +1737,6 @@
       "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Above The Clouds - The Collection (Deluxe)",
@@ -1771,18 +1755,34 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
       },
       "artists": [
         {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
         }
       ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+      "duration_ms": 298866,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Let's Go Crazy",
-      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Around The World In A Day",
-        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Fantastic",
@@ -1999,6 +1983,22 @@
       "duration_ms": 265600,
       "name": "Club Tropicana",
       "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
         "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 193440,
       "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
       "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2133,6 +2133,22 @@
       "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Another Step",
+        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 255220,
+      "name": "You Keep Me Hangin On",
+      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Come On Eileen / Dubious",
@@ -2151,22 +2167,6 @@
       "duration_ms": 205933,
       "name": "Come On Eileen - Single Edit",
       "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Another Step",
-        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 255220,
-      "name": "You Keep Me Hangin On",
-      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
     },
     {
       "added_at": "2021-01-07 10:31:17",

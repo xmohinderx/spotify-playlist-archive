@@ -506,6 +506,24 @@
     },
     {
       "album": {
+        "name": "Adelantah",
+        "url": "https://open.spotify.com/album/763mXMD81HRsSDBXwGQm4P"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/27u1JKx7rpApMvFiXrU2gn"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -3327,7 +3345,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/5erXVUirf9qivKY5sJOanE"
@@ -8123,7 +8141,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -10667,7 +10685,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
@@ -12171,7 +12189,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 135384,
       "name": "Triste Navidad",
       "url": "https://open.spotify.com/track/4XdOHGoXxkedAX73V9Zxtt"
@@ -12229,6 +12247,28 @@
       "duration_ms": 137762,
       "name": "Tuki Trake",
       "url": "https://open.spotify.com/track/75O9jHAZAPAypgoEXt7qXt"
+    },
+    {
+      "album": {
+        "name": "TURUTUTU",
+        "url": "https://open.spotify.com/album/5pWhstnKLBpI1zQXHKJ3TO"
+      },
+      "artists": [
+        {
+          "name": "Sanchz",
+          "url": "https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200264,
+      "name": "TURUTUTU",
+      "url": "https://open.spotify.com/track/44NbaMYWDwxaAXbPYXVSIv"
     },
     {
       "album": {

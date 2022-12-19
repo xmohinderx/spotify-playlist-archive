@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 142488,
+  "num_followers": 142849,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MjQwMiwwMDAwMDAwMDEzYTczY2YzMDJiOTU3YThmYmEyY2Y4ZDA3ODZmZGQz",
+  "snapshot_id": "MTY2OTM0MjQwMiwwMDAwMDAwMGNiMGQ1NzdkNTkxOWVkZGE0OTNmMDNmNmE0ZWUwN2Qw",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-12-18 01:14:33",
+      "added_at": "2022-12-19 00:12:11",
       "album": {
         "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
@@ -85,7 +85,7 @@
         }
       ],
       "duration_ms": 164629,
-      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
+      "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
         "name": "Rockport Espacial",
         "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 233300,
       "name": "Ma Vie (feat. Yay)",
       "url": "https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
     },
     {
       "added_at": "2022-10-12 15:41:51",

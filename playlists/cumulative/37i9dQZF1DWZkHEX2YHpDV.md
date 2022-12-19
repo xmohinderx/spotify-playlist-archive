@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-869 songs - 1 day 22 hr 22 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+870 songs - 1 day 22 hr 24 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Close 2 Me](https://open.spotify.com/track/0xbM8w47t3m4SZBk6JGM95) | [Dead Lakes](https://open.spotify.com/artist/0e14x1G9pTcCmLLzkFDhE0) | [Close 2 Me](https://open.spotify.com/album/0quwDWVi9UuDvGfC0N7w17) | 3:37 | 2022-03-25 | 2022-04-18 |
 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 | 2022-07-08 |  |
 | [Coke Nose](https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Coke Nose](https://open.spotify.com/album/5oWj59uOrqYDxfChyrlRM6) | 2:44 | 2021-12-10 | 2022-07-27 |
+| [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2022-12-02 |  |
 | [Comatose](https://open.spotify.com/track/1FIv5SzIBWmCF5Xmt8N6BD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Comatose](https://open.spotify.com/album/1BRmCZVJYcpgycNHMmTTAS) | 2:35 | 2022-03-25 | 2022-04-17 |
 | [Comatose](https://open.spotify.com/track/7d33N8jCQwYm7rsw8FlNG2) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Lilac](https://open.spotify.com/album/2lMeAWagG6aak9Ece26TN7) | 3:28 | 2022-02-04 | 2022-04-21 |
 | [Coming Clean](https://open.spotify.com/track/0esiekrAcPKVHipnCl6HA7) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Coming Clean](https://open.spotify.com/album/0bRSkMJwMUe6yFYJtNRcFf) | 3:13 | 2021-12-10 | 2022-07-29 |
@@ -602,7 +603,7 @@
 | [Prayers](https://open.spotify.com/track/6yuPyWu2I5RvuYgDIdaHWp) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Interrobang](https://open.spotify.com/album/1GYrUGqVBmMSA5W1WiAqLX) | 3:30 | 2022-02-04 | 2022-07-05 |
 | [pretend](https://open.spotify.com/track/0EdYGWGB9PfKIm5MU0Mk6x) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [pretend](https://open.spotify.com/album/7y7OzPOsYk7eXeNwwGECvn) | 2:59 | 2021-12-10 | 2022-07-28 |
 | [pretend](https://open.spotify.com/track/27HkyZkH0wo1Y0bvC8UxjU) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:59 | 2022-07-08 |  |
-| [Problem](https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c) | 2:57 | 2022-06-24 |  |
+| [Problem](https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c) | 2:57 | 2022-06-24 | 2022-12-19 |
 | [Projector](https://open.spotify.com/track/3gMptGImK6XHJhFuWwmqtE) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Projector](https://open.spotify.com/album/1ouxhpfQNDh5SoSIZCbCXb) | 3:12 | 2022-01-28 | 2022-06-23 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-10-07 |  |
 | [R.I.P](https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [R.I.P](https://open.spotify.com/album/2PkakWXe2YnTBVv0QsRyNc) | 3:05 | 2022-03-25 | 2022-07-07 |

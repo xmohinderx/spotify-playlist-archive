@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music to get some work done! <br/>Reading, writing, studying, learning to the sound of soft work music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,402 likes - 299 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,428 likes - 299 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

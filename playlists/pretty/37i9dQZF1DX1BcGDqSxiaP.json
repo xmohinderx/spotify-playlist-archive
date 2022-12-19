@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 16559,
+  "num_followers": 16573,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDUyZTY5YjhkYmQxNTAyNjc1YTJjYmRhMDBmMmFhMjhk",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDZkMWRkZDMyMDdlNGZiMjJmMDFhMWU5ODk2YmJkYmZj",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -399,18 +399,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
+        "name": "Lucky Guy!",
+        "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
       "artists": [
         {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+      "duration_ms": 189213,
+      "name": "312 Blood",
+      "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -435,22 +439,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Lucky Guy!",
-        "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
       },
       "artists": [
         {
-          "name": "Nick Moss Band",
-          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
-        },
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 189213,
-      "name": "312 Blood",
-      "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
+      "duration_ms": 210973,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
     },
     {
       "added_at": "2020-09-21 10:42:33",

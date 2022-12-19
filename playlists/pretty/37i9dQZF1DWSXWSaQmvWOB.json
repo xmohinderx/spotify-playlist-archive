@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 429086,
+  "num_followers": 429177,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA5NTkxOSwwMDAwMDAwMDBmOTYzMGFmYzZiODNjMzFkMGNlMzg1MGIxM2Q1MDE5",
+  "snapshot_id": "MTY3MTA5NTkxOSwwMDAwMDAwMDE4NGI4OTA1Mzk0NmZjYmNkOTllMDBlYmE3M2U1ZmRl",
   "tracks": [
     {
       "added_at": "2022-12-12 14:02:32",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
         "name": "TOINE",
         "url": "https://open.spotify.com/album/2vHgzKe4ndu3ePIBvKF7xS"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 186965,
       "name": "Everybody Watching",
       "url": "https://open.spotify.com/track/1nHMytYSkk9bmMEVa7j5bY"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Easier Said Than Done",
-        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Trippin",
         "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Easier Said Than Done",
+        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Two Jobs",
-        "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Two Jobs",
-      "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Bloodline Maintenance",
         "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Two Jobs",
+        "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Two Jobs",
+      "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1203,18 +1203,26 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4"
       },
       "artists": [
         {
-          "name": "Liquid Spirits",
-          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
         }
       ],
-      "duration_ms": 169986,
-      "name": "Pure Gold",
-      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
+      "duration_ms": 252185,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1243,30 +1251,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4"
-      },
-      "artists": [
-        {
-          "name": "LIKEMINDS",
-          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        },
-        {
-          "name": "Rebiere",
-          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
-        }
-      ],
-      "duration_ms": 252185,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Some Of Us Are Brave",
         "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 272020,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
+      },
+      "artists": [
+        {
+          "name": "Liquid Spirits",
+          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "B.N.D",
+      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
         "name": "Treat U Good",
         "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 217791,
       "name": "Treat U Good",
       "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
-        "name": "CUBE",
-        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Lona",
-          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "B.N.D",
-      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 268013,
+      "name": "inside out",
+      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
         "name": "Blessed / Black Star",
         "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "Help Yourself",
+        "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "ParHasard",
+          "url": "https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx"
         }
       ],
-      "duration_ms": 268013,
-      "name": "inside out",
-      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
+      "duration_ms": 195666,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1587,22 +1603,6 @@
       "duration_ms": 254653,
       "name": "You're My Girl",
       "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
-        "name": "Help Yourself",
-        "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
-      },
-      "artists": [
-        {
-          "name": "ParHasard",
-          "url": "https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Footsteps In The Dark",
-        "url": "https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
-        }
-      ],
-      "duration_ms": 384265,
-      "name": "Footsteps In The Dark",
-      "url": "https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Unify",
         "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 213000,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1reNWIGSfItCbAhy9cr1nz"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Footsteps In The Dark",
+        "url": "https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        }
+      ],
+      "duration_ms": 384265,
+      "name": "Footsteps In The Dark",
+      "url": "https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v"
     },
     {
       "added_at": "2022-12-12 14:02:32",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-12-12 14:02:32",
       "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
-    },
-    {
-      "added_at": "2022-12-12 14:02:32",
-      "album": {
         "name": "Horsepower For The Streets",
         "url": "https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 143040,
       "name": "Horsepower For The Streets",
       "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
+    },
+    {
+      "added_at": "2022-12-12 14:02:32",
+      "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     }
   ],
   "unique_name": "Soul 'n' the City",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,869 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,868 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 10 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
 | 11 | [Storm Boy](https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy](https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7) | 3:59 |
 | 12 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
-| 13 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 |
+| 13 | [Tus Pies \(Your Feet\)](https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 5:21 |
 | 14 | [Moon / Sun](https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [The Fruitful Darkness](https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG) | 3:59 |
 | 15 | [10 Laws](https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [The Education of the Individual Soul](https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot) | 4:19 |
 | 16 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 |
 | 17 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
 | 18 | [Harmonize](https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G) | 5:07 |
-| 19 | [Tus Pies \(Your Feet\)](https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 5:21 |
+| 19 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 |
 | 20 | [Stronger \- Acoustic](https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd) | 3:03 |
 | 21 | [All Ways Love](https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw) | 3:42 |
 | 22 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |
 | 50 | [What's the Secret?](https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Por Favor](https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN) | 2:49 |
 
-Snapshot ID: `MTYwNjI3NDE1NSwwMDAwMDAwMGFiYzRkZDQ2ZTEwY2RmZmM4NzkyY2FiZjNiNTQ5NDcw`
+Snapshot ID: `MTYwNjI3NDE1NSwwMDAwMDAwMGE2OWQ4MjVkOTA4MTVlMmM4ZTU4OWRiMzZhYWQzMDAw`

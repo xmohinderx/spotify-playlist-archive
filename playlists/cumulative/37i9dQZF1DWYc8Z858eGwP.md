@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KVi1KePsS\-SeAeLkN8980A">Black Sherif</a>
 
-148 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+149 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 | 2021-05-03 | 2022-05-06 |
 | [Kilofeshe](https://open.spotify.com/track/78OD9RZjAyQcfsAigmRuGs) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kilofeshe](https://open.spotify.com/album/4rcjl8nuXNh4cZDaavVoib) | 2:45 | 2021-05-03 | 2022-05-06 |
 | [Kilometer \- Remix](https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kilometer \(Remix\)](https://open.spotify.com/album/3AUbrJDzMndvuenVyyHX8k) | 3:26 | 2022-05-05 |  |
-| [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-05-05 |  |
+| [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 | 2022-11-25 |  |
+| [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-05-05 | 2022-12-19 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-05-05 |  |
 | [Kwenzekile](https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i) | [Kwenzekile](https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE) | 3:57 | 2021-10-08 | 2022-05-06 |

@@ -4,7 +4,7 @@
 
 > next gen pop cover: Conan Gray
 
-1,266 songs - 2 day 13 hr 31 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,267 songs - 2 day 13 hr 36 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1236,7 +1236,8 @@
 | [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-05-04 | 2022-06-25 |
 | [Why I Broke Up With You](https://open.spotify.com/track/21RiG0Y6cm7M7qN4r4BgGW) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Why I Broke Up With You](https://open.spotify.com/album/2BhCsXcXD3FBgC38hej4p5) | 2:43 | 2022-07-08 | 2022-10-15 |
 | [Wild](https://open.spotify.com/track/0yBZ0uyGRXehekIIadZ3Cd) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Wild](https://open.spotify.com/album/3Q7vRXzztzgiUf5ANcr8fI) | 2:19 | 2022-05-27 | 2022-06-25 |
-| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-07 |  |
+| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-07 | 2022-12-19 |
+| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-07 |  |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2021-09-25 | 2021-12-20 |
 | [Wildflower](https://open.spotify.com/track/5HEfenabh2FfPUOO4xa89L) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Wildflower](https://open.spotify.com/album/5MX0G9hlDVOUsY6zRDFMq0) | 2:41 | 2022-10-07 | 2022-12-03 |
 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 | 2021-02-16\* | 2021-02-26 |

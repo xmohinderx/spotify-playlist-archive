@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,439 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,522 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 68 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
 | 69 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 |
 | 70 | [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 |
-| 71 | [We Won’t Go Back](https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won’t Go Back](https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm) | 3:20 |
+| 71 | [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 |
 | 72 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
 | 73 | [Polygraph Eyes](https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3) | 3:43 |
-| 74 | [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 |
+| 74 | [We Won’t Go Back](https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won’t Go Back](https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm) | 3:20 |
 | 75 | [Weather Strike](https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Weather Strike](https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q) | 3:31 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDdkNzk0OTkzM2NkNWE4ZDU1NmVmOTRlMDA5YTdjODQ3`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDQzM2JhODY0YTY4NTVjYjcxYmNmNzdlNjQ3NjM3ZWNk`

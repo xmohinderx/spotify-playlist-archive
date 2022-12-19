@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring OTF, Young Dolph, Tyga and more\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,964 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,085 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Only The Family \- Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
+| 1 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 | 2 | [Face 2 Face](https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Face 2 Face](https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh) | 2:04 |
 | 3 | [Love For The Streets](https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:06 |
 | 4 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [Temper](https://open.spotify.com/track/6fXhozDwpdQEUKhq5Ak0mz) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Temper](https://open.spotify.com/album/3VSRbWNR7FBK54z6gWUY3f) | 1:49 |
 | 28 | [Black Roses](https://open.spotify.com/track/2PPJUlUBAL8idHI0V79U2B) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Black Roses](https://open.spotify.com/album/4qySraSpgdcfXi2myE1iqn) | 2:31 |
 | 29 | [Back In Action](https://open.spotify.com/track/08iGIK9Nw2gHeVdFsnsquc) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Drill Season \(Extended\)](https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG) | 1:51 |
-| 30 | [2.5 \(feat\. Torchhh\)](https://open.spotify.com/track/5EdjtFDTfqbdWFzpceeiCE) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Torchhh](https://open.spotify.com/artist/6GeNJTovWkpD8d5Eu4AlEk) | [2.5 \(feat\. Torchhh\)](https://open.spotify.com/album/7mRnHAD7x7rcnoJaZbz6qu) | 1:53 |
+| 30 | [2.5](https://open.spotify.com/track/5EdjtFDTfqbdWFzpceeiCE) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Torchhh](https://open.spotify.com/artist/6GeNJTovWkpD8d5Eu4AlEk) | [2.5](https://open.spotify.com/album/7mRnHAD7x7rcnoJaZbz6qu) | 1:53 |
 | 31 | [MISSED IT](https://open.spotify.com/track/19JKdEbG7txfZxXoQJo3Pl) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [18](https://open.spotify.com/album/2D6w99kjSspnZGfbeld58l) | 1:42 |
 | 32 | [Round4round](https://open.spotify.com/track/0nFYvP0Em4u6m6ZGy43Bo3) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [CLUB 20](https://open.spotify.com/album/7dPcRnySi2qjjFPjOCklZl) | 2:39 |
 | 33 | [Da Rant](https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Da Rant](https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw) | 4:02 |

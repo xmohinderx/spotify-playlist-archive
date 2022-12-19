@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,053 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,313 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 67 | [Boom Bang](https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Boom Bang \(with Davido\)](https://open.spotify.com/album/0HRvp6uFFEX8fbALXV3ten) | 2:41 |
 | 68 | [Who Am I](https://open.spotify.com/track/2d6gIQ6KRsmMKQYjEBFEN9) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:15 |
 | 69 | [Gallis](https://open.spotify.com/track/3RLkSmtXZOjPCPNnIw7ZZ3) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Riddim Driven: Trippple Bounce](https://open.spotify.com/album/3t5RTHE4Zh7S0qeAbzPUwe) | 2:37 |
-| 70 | [Dutty Wine](https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Smash](https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh) | 3:07 |
-| 71 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
+| 70 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
+| 71 | [Dutty Wine](https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Smash](https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh) | 3:07 |
 | 72 | [Elegance \(Remix\)](https://open.spotify.com/track/6dJRflqO0CBFUmTpdOKy0L) | [The Rara](https://open.spotify.com/artist/2swQzHP8Iqn9LYO7mKx9Um), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Elegance \(Remix\)](https://open.spotify.com/album/7ExVCJjWl0QaOoLOLpv1IE) | 3:54 |
 | 73 | [Man a Star \- Remix](https://open.spotify.com/track/4uBjlrTaTTnhNQAGMIB982) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Man a Star \(Remix\)](https://open.spotify.com/album/3hlpUSqZ8zVJ7tcvOg0LlR) | 3:12 |
 | 74 | [Incredible](https://open.spotify.com/track/2fq7lLTvRHZjUPqh5a20n5) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Incredible](https://open.spotify.com/album/3Std2W2SZ7fLAVYdrYpOqo) | 4:29 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 78 | [Hot Wuk \(Album Clean\)](https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Hot Wuk 12"](https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O) | 3:49 |
 | 79 | [Infiltrate](https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:27 |
 
-Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMDg2NzMzYTM2OTQxOTQ2YzkyNmVmY2NiYmY1ZjAzN2Ni`
+Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMGQzMjllNzNjYTkyZTJjYWQ4MDk4ZjU3M2M2ZjgzNTFl`

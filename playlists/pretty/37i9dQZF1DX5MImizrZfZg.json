@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 42807,
+  "num_followers": 42846,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDU5NTU2OGQ2MjlhMjEzOGY4NTYwZTM4NWE2NjIwNTY2",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDBiOTEwYjIyN2QxYzRhY2Y1YzY1ZWViMjQ4NjI1Zjc5",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "HeadBoppin (with bonus track)",
-        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
-      },
-      "artists": [
-        {
-          "name": "Shilts",
-          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 267360,
       "name": "4 On The Floor",
       "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "HeadBoppin (with bonus track)",
+        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
+      },
+      "artists": [
+        {
+          "name": "Shilts",
+          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
     },
     {
       "added_at": "2020-08-19 19:15:51",

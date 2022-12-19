@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: PARTYNEXTDOOR",
-  "num_followers": 38276,
+  "num_followers": 38304,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGRiMzI1ZmEyMmE3MzRjMWQwNGY2ODgyZDUxNzY2MDY1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGQ4ZWYyYTIxOWMzNTFiOWFkN2JmZmZlYzlkODM3OThh",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "You Never Visit Me",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -795,6 +811,22 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -817,22 +849,6 @@
       "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
-    },
-    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Bout Mine",
@@ -849,20 +865,20 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+      "duration_ms": 201621,
+      "name": "Feature Me",
+      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -885,6 +901,22 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "COLORWAY",
@@ -899,38 +931,6 @@
       "duration_ms": 143092,
       "name": "BILL$",
       "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Feature Me",
-      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "You Never Visit Me",
-        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "You Never Visit Me",
-      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
       "added_at": "2022-08-26 04:41:34",
       "album": {
         "name": "Love Quotes",
@@ -1021,20 +1005,20 @@
       "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 192545,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1057,20 +1041,20 @@
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Hues",
-        "url": "https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09"
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 150182,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml"
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 214138,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Hues",
+        "url": "https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 150182,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml"
     },
     {
       "added_at": "2022-09-23 04:09:12",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 200472,
-      "name": "You Don\u2019t Know Me",
-      "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "KIKI",
@@ -1175,6 +1159,22 @@
       "duration_ms": 242400,
       "name": "Forfeit. (ft. Lucky Daye)",
       "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 200472,
+      "name": "You Don\u2019t Know Me",
+      "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
     },
     {
       "added_at": "2022-09-09 04:09:30",
@@ -1265,6 +1265,26 @@
       "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Confujawn (feat. Nija)",
+        "url": "https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA"
+      },
+      "artists": [
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        },
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 175329,
+      "name": "Confujawn (feat. Nija)",
+      "url": "https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7"
+    },
+    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Dreams 2 Reality",
@@ -1295,26 +1315,6 @@
       "duration_ms": 164000,
       "name": "Fuckin' Sound",
       "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Confujawn (feat. Nija)",
-        "url": "https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA"
-      },
-      "artists": [
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        },
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 175329,
-      "name": "Confujawn (feat. Nija)",
-      "url": "https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1353,20 +1353,20 @@
       "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "If I Get Caught",
-        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c"
       },
       "artists": [
         {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 186114,
-      "name": "If I Get Caught",
-      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
+      "duration_ms": 204033,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1405,20 +1405,20 @@
       "url": "https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-09-30 04:04:59",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c"
+        "name": "If I Get Caught",
+        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         }
       ],
-      "duration_ms": 204033,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
+      "duration_ms": 186114,
+      "name": "If I Get Caught",
+      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Late Night",
@@ -1475,22 +1491,6 @@
       "duration_ms": 158228,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/3wieNkso3b4ctBodn0xUlQ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Feelings 4 You",
-        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Figures",
@@ -1607,6 +1591,22 @@
       "duration_ms": 184586,
       "name": "Crazy Down",
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1661,6 +1661,26 @@
       "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Most Wanted (Deluxe)",
+        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "If Pretty Was A Person",
@@ -1683,26 +1703,6 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
         "name": "BEFORE WE GO (DEEPER)",
         "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
       },
@@ -1721,20 +1721,20 @@
       "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Triggers",
-        "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
       },
       "artists": [
         {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
         }
       ],
-      "duration_ms": 155314,
-      "name": "Triggers",
-      "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     }
   ],
   "unique_name": "Some Kinda Way",

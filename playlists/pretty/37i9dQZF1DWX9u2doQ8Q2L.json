@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 349187,
+  "num_followers": 349255,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDZjY2ExNzQyNGZhNjZiM2E2OTBiYmU0MzAzYzg5NDQ1",
+  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDFiN2NjOWZkZjA1NmMxMGRhOWNlMWZmNDFmNzNlNmE0",
   "tracks": [
     {
       "added_at": "2022-12-15 15:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
+        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
         "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6",
         "url": "https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 300169,
       "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6",
       "url": "https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
-        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 (\u306a\u3093\u306b\u3082)",
+        "url": "https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9"
+      },
+      "artists": [
+        {
+          "name": "FORD TRIO",
+          "url": "https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN"
+        },
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        },
+        {
+          "name": "Kaoru Hashimoto",
+          "url": "https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 - \u306a\u3093\u306b\u3082",
+      "url": "https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
         "name": "U.F.O",
         "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
@@ -1211,30 +1235,6 @@
       "duration_ms": 208436,
       "name": "Christmas Is All Yours",
       "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 (\u306a\u3093\u306b\u3082)",
-        "url": "https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9"
-      },
-      "artists": [
-        {
-          "name": "FORD TRIO",
-          "url": "https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN"
-        },
-        {
-          "name": "Helsinki Lambda Club",
-          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
-        },
-        {
-          "name": "Kaoru Hashimoto",
-          "url": "https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 - \u306a\u3093\u306b\u3082",
-      "url": "https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV"
     },
     {
       "added_at": "2022-12-15 15:00:00",

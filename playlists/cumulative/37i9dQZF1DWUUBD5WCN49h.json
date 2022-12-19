@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 188860,
       "name": "Butter",
       "url": "https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW"
@@ -857,6 +857,24 @@
       "duration_ms": 139780,
       "name": "DON'T",
       "url": "https://open.spotify.com/track/5AzIXbjKdIR5NwLtQD4f48"
+    },
+    {
+      "album": {
+        "name": "Senth Of Her",
+        "url": "https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb"
     },
     {
       "album": {
@@ -1168,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/679QYO0qB3DfJMcznjWmA7"
+      },
+      "artists": [
+        {
+          "name": "Keziah Mallam",
+          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204635,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6Dyk6CtOm4hDWnrdGVXKSd"
+    },
+    {
+      "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/2D4eczOV5fEkR43ic0FiJq"
       },
@@ -1339,7 +1375,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 235000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6pm2JIQTljsJXOm0eSQxib"

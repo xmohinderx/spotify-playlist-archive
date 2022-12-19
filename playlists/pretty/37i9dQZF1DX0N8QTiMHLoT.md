@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,882 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,956 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 31 | [Chump Suey](https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Pocket Fulla Nasty](https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC) | 4:25 |
 | 32 | [No Limit](https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:36 |
 | 33 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 |
-| 34 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
-| 35 | [5 Cookies \(feat\. Anomalie\)](https://open.spotify.com/track/4m2JZ8iy71KVNm3UwW46Y8) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk), [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 3:22 |
+| 34 | [5 Cookies \(feat\. Anomalie\)](https://open.spotify.com/track/4m2JZ8iy71KVNm3UwW46Y8) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk), [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 3:22 |
+| 35 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
 | 36 | [Countdown](https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 2:26 |
 | 37 | [Is That the Best You Can Do?](https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 5:35 |
 | 38 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 | 50 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDdhYjFhZDI3ZTMyMmY1NWM2ZjVjOTFmOTkxM2Y2OTEx`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDI4OGE2N2IyNzdiNzhhMGQzMjg0NzJmZWUxOTUyNGZj`

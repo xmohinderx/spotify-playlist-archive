@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,813 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,599 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 35 | [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 |
 | 36 | [happy f\*\*\*ing birthday](https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [happy f\*\*\*ing birthday](https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR) | 3:06 |
 | 37 | [rent free](https://open.spotify.com/track/6G9bbTeoVpPPt02fraZhnZ) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [rent free](https://open.spotify.com/album/4KmBjqHwSv3k07FwzX8Ju0) | 2:25 |
-| 38 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
+| 38 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 |
 | 39 | [see u again](https://open.spotify.com/track/6eQeaua3Ne4n0m5DavaHaq) | [Eden Elf](https://open.spotify.com/artist/0S9wI9ZGeEwgNmVC61utdR) | [mrs lonely / see u again](https://open.spotify.com/album/6oyXduXWAWahfyEnupUltl) | 2:08 |
 | 40 | [Take Me To Hell](https://open.spotify.com/track/2rmTtv5xWuqHiKzM4i0QjQ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Take Me To Hell](https://open.spotify.com/album/0T4WcR1wyRD7om6x7scVvY) | 2:12 |
 | 41 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 |
 | 100 | [Do I make you nervous?](https://open.spotify.com/track/1FC511SYR7SXb1qrBr3oq0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Do I make you nervous?](https://open.spotify.com/album/5zjEJwtQGYfo08aaYiZsYZ) | 2:32 |
 
-Snapshot ID: `MTY3MTIwMTEyMywwMDAwMDAwMGRlMGVmNGU5Y2YyNWEyZWIzNDVjZWQxNTg1OTM1Y2Q5`
+Snapshot ID: `MTY3MTIwMTEyMywwMDAwMDAwMGY5MmRkMmUzZTgxNjNiYzdlYmZjNjE3ZGU4ZGIyMWMx`

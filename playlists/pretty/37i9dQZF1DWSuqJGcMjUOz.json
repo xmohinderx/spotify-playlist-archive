@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2084,
+  "num_followers": 2083,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGJhNzQ5MWY2ZmFhOWNhOWM2NGQ4YTg2MGNiOWI3YjFh",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGVmMGI5OGUyMWUwMGNlYWYwZTAxNTViMzY4MWQ4M2Fi",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Fox",
-        "url": "https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4"
-      },
-      "artists": [
-        {
-          "name": "Karim Ouellet",
-          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "L'amour",
-      "url": "https://open.spotify.com/track/1LUPxouIVwKIbs31i9WA5s"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Caipirinha",
         "url": "https://open.spotify.com/album/70tCTmRLlDolCLIxPRrFUp"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 233460,
       "name": "Caipirinha",
       "url": "https://open.spotify.com/track/3ntkJVSYJIPDKBJj2uYLRa"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Fox",
+        "url": "https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4"
+      },
+      "artists": [
+        {
+          "name": "Karim Ouellet",
+          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "L'amour",
+      "url": "https://open.spotify.com/track/1LUPxouIVwKIbs31i9WA5s"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 188400,
       "name": "La lumineuse",
       "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Givmeall Hit Stars",
         "url": "https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 225833,
       "name": "Encore et encore",
       "url": "https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Airs pa\u00efens",
-        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 179936,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Airs pa\u00efens",
+        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2022-05-25 18:00:00",

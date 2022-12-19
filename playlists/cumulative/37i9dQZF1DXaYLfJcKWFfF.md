@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w"> Johnny Drille </a>
+> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b?si=GzGRgXZWRD2JvHho7dyGcQ"> senth</a>
 
-65 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
+67 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Circus](https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Circus](https://open.spotify.com/album/7fCYNOf16YBpZ3XwByoUmd) | 4:14 | 2022-10-21 |  |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-10-22 |
 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 | 2020-01-15 |  |
+| [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 |  |
 | [Eyes Don't See](https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Eyes Don't See](https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ) | 5:47 | 2022-05-26 |  |
 | [Fall](https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:05 | 2020-08-28 |  |
 | [Fallo Fall](https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Lou Bess Dioudouna](https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l) | 5:06 | 2022-11-04 | 2022-12-09 |
@@ -44,6 +45,7 @@
 | [No More Wars](https://open.spotify.com/track/2jTkWgm19fYZgfxxt9eTY3) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [No More Wars](https://open.spotify.com/album/36CHxQaUH868DavFDk71QV) | 3:40 | 2022-08-05 |  |
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-28 | 2022-10-14 |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 |  |
+| [OYA](https://open.spotify.com/track/2SklWzNh4XgOuRoAvWI4mF) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [OYA](https://open.spotify.com/album/7AMlIKwmVYGfhXxJ3hTZPC) | 3:19 | 2022-12-18 |  |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-23 |  |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 |  |
 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 | 2022-05-19 |  |

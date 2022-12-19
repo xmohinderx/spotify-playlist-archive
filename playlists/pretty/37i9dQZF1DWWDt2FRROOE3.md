@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,548 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,559 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 41 | [Dr\. Wily \- Stage 1 \(from "Mega Man 2"\)](https://open.spotify.com/track/65b6IuBQGi1g3D9bxrlNe9) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:00 |
 | 42 | [Don't You Want Me](https://open.spotify.com/track/7lzJGHFr3LJuKUsM0rtfMJ) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 3:33 |
 | 43 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/6qoY00hSrlzLUhxSbGo81U) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:40 |
-| 44 | [Livin' On a Prayer](https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:55 |
-| 45 | [Don't Look Back in Anger](https://open.spotify.com/track/7pE8VRAZfWCwiQhRf2NXuX) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:28 |
+| 44 | [Don't Look Back in Anger](https://open.spotify.com/track/7pE8VRAZfWCwiQhRf2NXuX) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:28 |
+| 45 | [Livin' On a Prayer](https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:55 |
 | 46 | [The Final Countdown](https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:18 |
 | 47 | [Don't Stop Me Now](https://open.spotify.com/track/2keKYQq7bs6WUWBsmlzSOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:40 |
 | 48 | [Wonderwall](https://open.spotify.com/track/6114ISiNHPMQN8o2BUz1Bn) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:16 |
 | 49 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 |
 | 50 | [The Moon \(from "Duck Tales"\)](https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:44 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDlkOTk4ODc3ZGVmNzVjNTU4ZTc2MTk0YWU4YTNmZmQy`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMGIwYmQ0YTM5ZmY1YThlYjZiOGQ3YzdjZDBhODU4MWJh`

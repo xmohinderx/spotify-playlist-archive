@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Liily
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,546 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,848 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 93 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 |
 | 94 | [Nauseous](https://open.spotify.com/track/3ZvrBVewa8fdjQ8srDvM9R) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Nauseous](https://open.spotify.com/album/4BZPvHTAO5qsC2jViKnEmL) | 3:18 |
 | 95 | [Dancing With The Devil](https://open.spotify.com/track/5PVSKhsZuIDwPzYzHtt1wW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Dancing With The Devil](https://open.spotify.com/album/4S6cOtQhoyXmnz8rh5M2AE) | 2:55 |
-| 96 | [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 |
+| 96 | [Promise](https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05) | 3:13 |
 | 97 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
 | 98 | [Teenage Lines](https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [Teenage Lines](https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv) | 3:44 |
 | 99 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
 | 125 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGNlNjI1OWJkYjllNDE5YWFlNTc1MWYwOTZjNTNiMjk3`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGEzNjg2YzQ0MGYzMTUyNTY4MmZlNGFhZTFhYzRiNmEz`

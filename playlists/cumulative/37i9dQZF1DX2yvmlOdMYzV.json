@@ -2204,6 +2204,28 @@
     },
     {
       "album": {
+        "name": "I'm Thru",
+        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "Cover art by Hasworld",
+          "url": "https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191335,
+      "name": "I'm Thru",
+      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
+    },
+    {
+      "album": {
         "name": "IDWL",
         "url": "https://open.spotify.com/album/5zcTmGVDbf8KdP6pNaXhlP"
       },
@@ -2701,7 +2723,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 161800,
       "name": "Letters from the Imaginary",
       "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"

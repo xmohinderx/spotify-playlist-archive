@@ -1,56 +1,112 @@
 {
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B?si=qEcy5RQpTMyM3bT0Nz6Zlg\"> TeeZee</a>  and <a href=\"https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih?si=3ky1p-g-T-WK-IPiQHJgCg\"> Cruel Santino</a> ",
-  "num_followers": 67034,
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB?si=kIJ9OaJFRY-_DktMB6Logg\"> STRAFITTI</a> ",
+  "num_followers": 67074,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGY5ZDIxODRjNDI3ODY5N2VmMWY4NmI4MzIyMDQxOGZk",
+  "snapshot_id": "MTY3MTM1NzU3MiwwMDAwMDAwMDk3ZGFkYjgyZWUyMTViODQzNjBiMWJmNzM0OGYxMWEy",
   "tracks": [
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2022-09-15 23:00:00",
       "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V"
       },
       "artists": [
         {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
+    },
+    {
+      "added_at": "2022-11-18 11:14:58",
+      "album": {
+        "name": "Monsta Alta & Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Monsta Alta",
+      "url": "https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6"
     },
     {
       "added_at": "2022-09-15 23:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE"
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
       "artists": [
         {
-          "name": "Jaylon",
-          "url": "https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4"
-        },
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        },
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 163106,
-      "name": "Get Down (feat. Azanti & Chrystel)",
-      "url": "https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M"
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2022-10-07 05:51:59",
+      "album": {
+        "name": "Skedaddle",
+        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 150858,
+      "name": "Skedaddle",
+      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
+    },
+    {
+      "added_at": "2022-12-18 09:59:32",
+      "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/66lj8DYjz1Aqezk6ebxkJB"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "PLT IN THE BANK",
+      "url": "https://open.spotify.com/track/2BZnNesHOzX1fUp95S795e"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/0reda2xhxKY247dKfTn9Wy"
+      },
+      "artists": [
+        {
+          "name": "Geoxpress",
+          "url": "https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV"
+        }
+      ],
+      "duration_ms": 150687,
+      "name": "Prophesy",
+      "url": "https://open.spotify.com/track/1OdzPLdObHnYvixgViXwtS"
     },
     {
       "added_at": "2022-09-15 23:00:00",
@@ -97,6 +153,50 @@
       "url": "https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2"
     },
     {
+      "added_at": "2022-09-15 23:00:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE"
+      },
+      "artists": [
+        {
+          "name": "Jaylon",
+          "url": "https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "Get Down (feat. Azanti & Chrystel)",
+      "url": "https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
+    },
+    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "BAD 4 ME",
@@ -111,26 +211,6 @@
       "duration_ms": 140204,
       "name": "BAD 4 ME",
       "url": "https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn"
-    },
-    {
-      "added_at": "2022-09-15 23:00:00",
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
     },
     {
       "added_at": "2022-09-23 05:52:47",
@@ -151,6 +231,22 @@
       "duration_ms": 204573,
       "name": "come close (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY"
+    },
+    {
+      "added_at": "2022-11-18 11:14:58",
+      "album": {
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 234861,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
     },
     {
       "added_at": "2022-09-15 23:00:00",
@@ -189,22 +285,6 @@
       "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
     },
     {
-      "added_at": "2022-10-07 05:51:59",
-      "album": {
-        "name": "Skedaddle",
-        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 150858,
-      "name": "Skedaddle",
-      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
-    },
-    {
       "added_at": "2022-09-15 23:00:00",
       "album": {
         "name": "Ileke",
@@ -225,22 +305,6 @@
       "url": "https://open.spotify.com/track/5mU4uP85HnxrmkJLOqVOKs"
     },
     {
-      "added_at": "2022-11-18 11:14:58",
-      "album": {
-        "name": "Monsta Alta & Ch\u00e9rie",
-        "url": "https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce"
-      },
-      "artists": [
-        {
-          "name": "T'neeya",
-          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Monsta Alta",
-      "url": "https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6"
-    },
-    {
       "added_at": "2022-10-28 12:29:45",
       "album": {
         "name": "Stay",
@@ -255,22 +319,6 @@
       "duration_ms": 202962,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1nvmbch5gbBGCcgyv1T7Yx"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/0reda2xhxKY247dKfTn9Wy"
-      },
-      "artists": [
-        {
-          "name": "Geoxpress",
-          "url": "https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV"
-        }
-      ],
-      "duration_ms": 150687,
-      "name": "Prophesy",
-      "url": "https://open.spotify.com/track/1OdzPLdObHnYvixgViXwtS"
     },
     {
       "added_at": "2022-09-15 23:00:00",
@@ -381,6 +429,22 @@
       "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
     },
     {
+      "added_at": "2022-12-18 09:59:32",
+      "album": {
+        "name": "Senth Of Her",
+        "url": "https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb"
+    },
+    {
       "added_at": "2022-09-15 23:00:00",
       "album": {
         "name": "Tinko Tinko (Don't Play Me For a Fool)",
@@ -453,22 +517,6 @@
       "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
     },
     {
-      "added_at": "2022-11-18 11:14:58",
-      "album": {
-        "name": "Your Turn",
-        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
-      },
-      "artists": [
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 234861,
-      "name": "Your Turn",
-      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
-    },
-    {
       "added_at": "2022-12-02 00:00:00",
       "album": {
         "name": "Yao",
@@ -499,22 +547,6 @@
       "duration_ms": 152448,
       "name": "Rolling Loud",
       "url": "https://open.spotify.com/track/6ySKC2g5tI9PE26OrUs3XN"
-    },
-    {
-      "added_at": "2022-09-15 23:00:00",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2022-09-23 05:52:47",

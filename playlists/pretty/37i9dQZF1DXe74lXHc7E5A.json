@@ -1,28 +1,28 @@
 {
-  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Darkovibes",
-  "num_followers": 3326,
+  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Central Cee",
+  "num_followers": 3344,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDEyYTE4ZTA3YzgzMDZjNjFmZDE3Mzc5MWY5YTVhY2Mx",
+  "snapshot_id": "MTY3MTM1OTE4MCwwMDAwMDAwMDY3ZmRhYzE2NWVjMmZhMzBjYmEwMjdiYzcxZDdhMzMz",
   "tracks": [
     {
-      "added_at": "2022-12-02 00:00:00",
+      "added_at": "2022-12-18 10:26:20",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
       "added_at": "2022-12-05 06:32:07",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "Honestly, Nevermind",
@@ -67,22 +83,6 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -161,24 +161,20 @@
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
     },
     {
-      "added_at": "2022-11-18 11:38:45",
+      "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Down In Atlanta",
-        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 164041,
-      "name": "Down In Atlanta",
-      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -211,6 +207,26 @@
       "duration_ms": 187826,
       "name": "Quickie",
       "url": "https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep"
+    },
+    {
+      "added_at": "2022-11-18 11:38:45",
+      "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -253,6 +269,22 @@
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
     },
     {
+      "added_at": "2022-11-25 07:37:57",
+      "album": {
+        "name": "This Is What I Mean",
+        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 325333,
+      "name": "This Is What I Mean",
+      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+    },
+    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
@@ -273,22 +305,6 @@
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
-      "added_at": "2022-11-25 07:37:57",
-      "album": {
-        "name": "This Is What I Mean",
-        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 325333,
-      "name": "This Is What I Mean",
-      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
-    },
-    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "family ties (with Kendrick Lamar)",
@@ -307,22 +323,6 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -427,6 +427,22 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -561,6 +577,22 @@
       "url": "https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Brown Roofs",
+        "url": "https://open.spotify.com/album/28hYCynTL2UeGSXBpXmZzz"
+      },
+      "artists": [
+        {
+          "name": "Tim Grey",
+          "url": "https://open.spotify.com/artist/1vxBfMX5C2kQPrWu7fhTt2"
+        }
+      ],
+      "duration_ms": 181472,
+      "name": "OMW (Feeling Great)",
+      "url": "https://open.spotify.com/track/5rqqWCei81XF0x5x3L1b9a"
+    },
+    {
       "added_at": "2022-10-07 06:00:22",
       "album": {
         "name": "Let\u2019s Go (feat. Aitch)",
@@ -579,22 +611,6 @@
       "duration_ms": 159031,
       "name": "Let\u2019s Go (feat. Aitch)",
       "url": "https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Brown Roofs",
-        "url": "https://open.spotify.com/album/28hYCynTL2UeGSXBpXmZzz"
-      },
-      "artists": [
-        {
-          "name": "Tim Grey",
-          "url": "https://open.spotify.com/artist/1vxBfMX5C2kQPrWu7fhTt2"
-        }
-      ],
-      "duration_ms": 181472,
-      "name": "OMW (Feeling Great)",
-      "url": "https://open.spotify.com/track/5rqqWCei81XF0x5x3L1b9a"
     },
     {
       "added_at": "2022-08-26 09:32:14",
@@ -713,6 +729,22 @@
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
+      "added_at": "2022-12-18 10:26:20",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "Love, Damini",
@@ -753,6 +785,22 @@
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
       "added_at": "2022-09-28 09:29:45",
       "album": {
         "name": "Lemons (Lemonade)",
@@ -771,22 +819,6 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
       "added_at": "2022-11-04 08:03:09",
@@ -847,6 +879,22 @@
       "duration_ms": 181058,
       "name": "Wid It",
       "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
+    },
+    {
+      "added_at": "2022-12-18 10:26:20",
+      "album": {
+        "name": "Another Nasty Song",
+        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 144313,
+      "name": "Another Nasty Song",
+      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1097,22 +1145,6 @@
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Mrs. Davis",
-        "url": "https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 237904,
-      "name": "Mrs. Davis",
-      "url": "https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0"
-    },
-    {
       "added_at": "2022-08-05 07:55:20",
       "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
@@ -1135,46 +1167,6 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Bigger Than Life",
-        "url": "https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Bigger Than Life",
-      "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Montega",
-        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 171645,
-      "name": "Blue Chills",
-      "url": "https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ"
     }
   ],
   "unique_name": "Hype List",

@@ -4,7 +4,7 @@
 
 > it's the holiday remix with Miss Sabrina Carpenter
 
-1,442 songs - 3 day 1 hr 49 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,443 songs - 3 day 1 hr 51 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,7 +600,7 @@
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 | 2022-12-11 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2022-10-29 |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-10-08 |
-| [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-28 |  |
+| [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-28 | 2022-12-19 |
 | [how i feel](https://open.spotify.com/track/4mrcvAjZh1am3hODsbRPtS) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [how i feel](https://open.spotify.com/album/0EIDhGCT86MzboicRJbvBQ) | 2:31 | 2021-10-11 | 2021-10-12 |
 | [How to Love Other People](https://open.spotify.com/track/1om7j46fwbaXC1W1vwtvuu) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [How to Love Other People](https://open.spotify.com/album/2cX5EWESsBDbpAJnQuq2rE) | 2:40 | 2021-12-17 | 2022-03-12 |
 | [Hung Up](https://open.spotify.com/track/5HgkPkJdLPsetKAB8paTNb) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Illuminate](https://open.spotify.com/album/03nGpchDEVF6Uto02ZMQuG) | 3:38 | 2022-07-15 | 2022-07-29 |
@@ -670,6 +670,7 @@
 | [Innocent \(Dreaming\)](https://open.spotify.com/track/1JaNzWg4ez7WBC89YhOcUs) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Moments](https://open.spotify.com/album/4QEND2DlPX1E5HAuGC8uFy) | 3:15 | 2022-01-07 | 2022-01-09 |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-14 | 2022-10-29 |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 | 2022-12-16 |
+| [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-12-16 |  |
 | [Into Waves \- MUUUN Remix](https://open.spotify.com/track/6fIqj3bqDFtBLUCboX84bG) | [A Little Nothing](https://open.spotify.com/artist/6NNQ0216pMjyKkkBANKRXl), [MUUUN](https://open.spotify.com/artist/2Z32eS6CsmBjnVbMGeojGS) | [Into Waves \(MUUUN Remix\)](https://open.spotify.com/album/0cfSkyv6oVYjdJirZUC0dg) | 3:39 | 2019-05-26\* | 2020-04-18 |
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2022-09-16 | 2022-10-29 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-02-18 | 2022-03-26 |
@@ -758,7 +759,7 @@
 | [Light On](https://open.spotify.com/track/7o7BhlRuR2U1zPR7hfwTCA) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [DOUBLECAMP](https://open.spotify.com/album/4yn8DoQ55yUEKax3B6lPsi) | 3:01 | 2020-02-19 | 2021-05-19 |
 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2021-02-23 | 2021-03-19 |
 | [Lighthouse](https://open.spotify.com/track/7kzzbfqXtLZdClU1bigcdg) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Lighthouse](https://open.spotify.com/album/5QUqjJqMD7IurrQF5US9nx) | 2:20 | 2020-06-12 | 2021-08-15 |
-| [LIGHTNING](https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [LIGHTNING](https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD) | 2:42 | 2022-12-02 | 2022-12-17 |
+| [LIGHTNING](https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [LIGHTNING](https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD) | 2:42 | 2022-12-02 |  |
 | [Like Home](https://open.spotify.com/track/4yf12uq8vpmBePwRbTYJib) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [GGFOUR](https://open.spotify.com/album/09n5FwLDoFRlzVvwyLhjMD) | 3:25 | 2019-07-27 | 2021-05-13 |
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-06-12 | 2021-10-12 |
 | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/track/2ay96C6SLNv9urvXKD3ecB) | [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/album/6WQTNgQPCS6GApd4cWQUTB) | 2:15 | 2021-02-22 | 2021-05-24 |
@@ -1137,7 +1138,7 @@
 | [smh](https://open.spotify.com/track/6V2AuA7WxbBEDErRlbb20V) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [smh](https://open.spotify.com/album/4ysIWgICNiCKGwhEBKS85g) | 3:16 | 2021-04-21 | 2021-11-19 |
 | [SMILE](https://open.spotify.com/track/6eshn81GQPqBfv7TEOyoTI) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [SMILE](https://open.spotify.com/album/7B8WilS3K8r0D23duwPnlq) | 2:41 | 2021-10-08 | 2022-01-08 |
 | [Smile](https://open.spotify.com/track/3OZ812Wywu349zAw9zaYKh) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Smile](https://open.spotify.com/album/5gN92MuecXEnWHhf2C3Amd) | 3:23 | 2019-09-29 | 2021-05-16 |
-| [Smoke Signal](https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:32 | 2022-12-02 |  |
+| [Smoke Signal](https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:32 | 2022-12-02 | 2022-12-19 |
 | [snakes](https://open.spotify.com/track/4CigTjRg2PZZKYAus45wOA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [achoo!](https://open.spotify.com/album/5jKZmUNJOPLqToPimNr41p) | 2:23 | 2022-04-01 | 2022-05-28 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-15 | 2022-08-27 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-09-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,830 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,881 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 22 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 |
 | 23 | [Ohne Dich](https://open.spotify.com/track/1BEPigtMbtG17OrhDzXMCn) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Ohne Dich](https://open.spotify.com/album/6y92v3LsEb8pImMFX2Bfuk) | 2:43 |
 | 24 | [ABCD Ey \(Ich hasse es so\)](https://open.spotify.com/track/6ESo3KS2IpeglMKkMRZNOS) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [ABCD Ey \(Ich hasse es so\)](https://open.spotify.com/album/6zPOqPdQBdzOEMSkV8PeKF) | 2:48 |
-| 25 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 |
-| 26 | [LET’S GO](https://open.spotify.com/track/0ft4lVjLYVrQ6IkMVUuOOu) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LET’S GO](https://open.spotify.com/album/2Sc5e9l1NAUq0FS9JpYtXv) | 2:44 |
+| 25 | [LET’S GO](https://open.spotify.com/track/0ft4lVjLYVrQ6IkMVUuOOu) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LET’S GO](https://open.spotify.com/album/2Sc5e9l1NAUq0FS9JpYtXv) | 2:44 |
+| 26 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 |
 | 27 | [BEIFAHRERSITZ](https://open.spotify.com/track/1YZU0P3SdMWIjNWdUixYzd) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [BEIFAHRERSITZ](https://open.spotify.com/album/1ydhVNe1Gut5PMC5hXr92D) | 3:04 |
 | 28 | [Wasser](https://open.spotify.com/track/6JL3BHxeR7jiGY6SOIxq2m) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Wasser](https://open.spotify.com/album/1mL6Awa2c23Y8TAZEU3kHb) | 2:31 |
 | 29 | [Mona Lisa, a girl's best friend](https://open.spotify.com/track/5vHUwpWDPKGkTsA7Th7bCf) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6dQzvpLz9qwutLYx6GUYCM) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Mirrors](https://open.spotify.com/album/0KnR5gUhV3Hb6mL13zU05z) | 4:21 |
 | 50 | [Shitlife](https://open.spotify.com/track/2LL9g7WEYzeVM2q7wtORWW) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Softness, Pt\. 2](https://open.spotify.com/album/1kFBJy9PoFDTiVlfAPuqDF) | 3:45 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDY3MzBkOTEzMGE2ZjZmOGYyOTU2Yjk5MjU2YzkxYWQ4`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDc4YzhmNmRkM2Q2NzVhOGQ5N2I2MGI3MWU3OGI3NDg2`

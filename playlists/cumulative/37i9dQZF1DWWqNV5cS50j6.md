@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,226 songs - 2 day 11 hr 18 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,227 songs - 2 day 11 hr 20 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,6 +539,7 @@
 | [Ice Cream](https://open.spotify.com/track/4r0gNBmnMUbyj9DmVfnftn) | [Drelli](https://open.spotify.com/artist/6OO8a55KYiZw6WzH1npKd5) | [Ice Cream](https://open.spotify.com/album/4j3BuKpIifauN9ymSb9IFu) | 1:53 | 2020-10-13\* | 2020-11-03 |
 | [Icing](https://open.spotify.com/track/5TaJDVZLSreKLg31wRR284) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Icing](https://open.spotify.com/album/4gyxc8Wv6vQE8JXCcCmIAV) | 1:44 | 2021-08-01 | 2021-10-13 |
 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 | 2021-07-24 | 2021-07-31 |
+| [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-11-30 |  |
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-01 |
 | [IDFIATOK](https://open.spotify.com/track/3UCfeH1mZnwErqWZhiN32y) | [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH) | [IDFIATOK](https://open.spotify.com/album/7hF7y6TV0pcV70Pn12QndM) | 1:57 | 2021-01-16 | 2021-05-03 |
 | [IDK](https://open.spotify.com/track/7n0Cmx3OxHPv1nJkGnk4CH) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [IDK](https://open.spotify.com/album/2Z3QtmTxOQZHtieshSHJAL) | 3:13 | 2021-01-09 | 2021-05-15 |
@@ -645,7 +646,7 @@
 | [m box](https://open.spotify.com/track/2iZf5y9Ce6smoZiGkC0aAg) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:32 | 2021-11-17 | 2021-12-22 |
 | [M$](https://open.spotify.com/track/1wJ17YT2GuwtXlsbLBfyX8) | [Juvy](https://open.spotify.com/artist/5WW1ErMJvuGaxJypZBfvy7) | [M$](https://open.spotify.com/album/1DpDSmXLK4vb9FhLCvvblA) | 2:50 | 2022-06-17 | 2022-08-06 |
 | [MAC & CHEESE](https://open.spotify.com/track/1Jo3yW1tWC4JSjGS2s2DPy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [MAC & CHEESE](https://open.spotify.com/album/72q53fTM3p9OhbJ1frSxWF) | 2:15 | 2020-10-13\* | 2021-02-13 |
-| [Mad](https://open.spotify.com/track/1TBPNMm6q0zqCJ7rQa0Hwf) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Mad](https://open.spotify.com/album/0P1Ab55WHo8RlAJ01M7SjZ) | 2:04 | 2022-10-25 |  |
+| [Mad](https://open.spotify.com/track/1TBPNMm6q0zqCJ7rQa0Hwf) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Mad](https://open.spotify.com/album/0P1Ab55WHo8RlAJ01M7SjZ) | 2:04 | 2022-10-25 | 2022-12-19 |
 | [Mad World](https://open.spotify.com/track/6RH4zDb9P3qETE3dBMaFO3) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Mad World](https://open.spotify.com/album/5Nl0vxJ3Ptt9cfecRMUHDu) | 2:22 | 2020-10-13\* | 2020-11-03 |
 | [Made For Silence](https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Made For Silence](https://open.spotify.com/album/4RT10f0M4YO3Ps7ds49vWS) | 2:50 | 2021-07-24 | 2021-10-13 |
 | [Made Your Mama Cry](https://open.spotify.com/track/2fyl617ehHxoAyGbrM3ELQ) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Made Your Mama Cry](https://open.spotify.com/album/3am00emlDC0wnidU29zsp3) | 2:38 | 2022-07-18 | 2022-10-13 |

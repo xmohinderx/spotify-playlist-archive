@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 165243,
+  "num_followers": 165285,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDY2NDAyNzY4Y2MyMGVkMWU4MDZiZDlkNjQyOTg0ZTZi",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGE0NDQ1NzMwNTlhOWZiYzg0YWZhMzg4OTk5N2RhODUy",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -923,6 +923,26 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "BINDANG",
+          "url": "https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW"
+        }
+      ],
+      "duration_ms": 166943,
+      "name": "Raise Me up",
+      "url": "https://open.spotify.com/track/2TBL8zWxryE0tXrQ7SwkQn"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/1HRBLYxSqYQGK2Z0LJOSXD"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 227719,
       "name": "Home Called Heaven",
       "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        },
-        {
-          "name": "BINDANG",
-          "url": "https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW"
-        }
-      ],
-      "duration_ms": 166943,
-      "name": "Raise Me up",
-      "url": "https://open.spotify.com/track/2TBL8zWxryE0tXrQ7SwkQn"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "King of Kings",
         "url": "https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 184541,
       "name": "Learning to Forgive",
       "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Caught Up",
-        "url": "https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Caught Up",
-      "url": "https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "God of Dreams",
-        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "New Wine Flow",
         "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 209164,
       "name": "New Wine Flow",
       "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "God of Dreams",
+        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "God Made",
         "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+      "duration_ms": 205618,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1571,38 +1587,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
-      },
-      "artists": [
-        {
-          "name": "Kelechi",
-          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
-        }
-      ],
-      "duration_ms": 205618,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Authentic Love",
-        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Carroll",
-          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
-        }
-      ],
-      "duration_ms": 282125,
-      "name": "Authentic Love",
-      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Authentic Love",
+        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Carroll",
+          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
+        }
+      ],
+      "duration_ms": 282125,
+      "name": "Authentic Love",
+      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "GRACE",
+        "url": "https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 255761,
+      "name": "GRACE",
+      "url": "https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Belongs To You (R&B Remix)",
         "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 191122,
       "name": "Belongs To You - R&B Remix",
       "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "GRACE",
-        "url": "https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 255761,
-      "name": "GRACE",
-      "url": "https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob"
     },
     {
       "added_at": "2022-07-17 05:38:31",

@@ -4,12 +4,13 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Limi\-T 21
 
-163 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
+164 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mover la Colita](https://open.spotify.com/track/6Nd2hWcRdRuhyNBv7wzCgd) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Wilfrido Vargas y Sus Consentidas](https://open.spotify.com/album/7Cy3uYBDhdrsIimK2AGLiV) | 3:44 | 2022-01-20 | 2022-07-29 |
 | [A Pedir Su Mano](https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:55 | 2022-01-20 | 2022-12-01 |
+| [A Pedir Su Mano](https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:55 | 2022-09-09 |  |
 | [Abracadabra \- Remix](https://open.spotify.com/track/47iIwWo6cxBChV3WbzNOvm) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Multitudes](https://open.spotify.com/album/56bXSFaka1UrXzxPBrQzvG) | 4:27 | 2022-01-20 | 2022-07-28 |
 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 | 2022-01-20 |  |
 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 | 2022-01-20 |  |
@@ -165,7 +166,7 @@
 | [Vale la Pena](https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 3:27 | 2022-09-09 |  |
 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 | 2022-01-20 |  |
 | [Visa Para un Sueño](https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/5EvVUz8eHCRe0dYw6Eewbr) | 3:28 | 2022-01-20 | 2022-10-15 |
-| [Visa Para un Sueño](https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 3:28 | 2022-09-09 |  |
+| [Visa Para un Sueño](https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 3:28 | 2022-09-09 | 2022-12-19 |
 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 | 2022-01-20 | 2022-11-13 |
 | [Ya Viene el Lunes](https://open.spotify.com/track/5KxarQE7YBYSAoEoYDcpZR) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Mania ¡Éxitos Latino!](https://open.spotify.com/album/6h5Heh7520a8sEM1f479Qi) | 4:46 | 2022-01-20 | 2022-07-29 |
 | [Ya Viene el Lunes](https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:50 | 2022-09-09 | 2022-11-14 |

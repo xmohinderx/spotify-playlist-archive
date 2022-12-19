@@ -269,10 +269,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 164139,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB"
+    },
+    {
+      "album": {
+        "name": "Raw Emotion",
+        "url": "https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164139,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R"
     },
     {
       "album": {

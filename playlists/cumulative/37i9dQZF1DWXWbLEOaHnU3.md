@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-229 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+230 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dreams \- Original Mix](https://open.spotify.com/track/3vCZ4kTemwiMYk8eUyS4Ya) | [Cosmic Tone](https://open.spotify.com/artist/2kQ7WbtAt7ioIdrQNRP2yx), [Freak Control](https://open.spotify.com/artist/4CQdoJZzttlzydycHO9A9Q) | [Dreams](https://open.spotify.com/album/46UKLk7SoL5qayNYfI1kIk) | 7:39 | 2022-04-28 | 2022-04-30 |
 | [Dreamworld](https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD) | [Inner State](https://open.spotify.com/artist/3BAc3hPXwWuhHsIvTIA9vY), [Kanobi](https://open.spotify.com/artist/1mIHHeqSkE6B9nM3QDBnxf) | [Dreamworld](https://open.spotify.com/album/3IwHnMj0XbgP8FdTkBoZH9) | 8:14 | 2022-04-22 | 2022-07-28 |
 | [Dusk Till Dawn](https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Stryker](https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF) | [Dusk Till Dawn](https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r) | 9:20 | 2022-06-16 | 2022-11-19 |
+| [Easy Ride](https://open.spotify.com/track/2DnCUrxaj0mjwlMC6sC5pb) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [Easy Ride](https://open.spotify.com/album/3cJsKLCmd0kdw5YW0HrFeV) | 2:48 | 2022-12-19 |  |
 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 | 2022-04-15 |  |
 | [End of a Government \- 2019 Remix](https://open.spotify.com/track/5kElAiWCna42paMRY7ngZi) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [End of a Government](https://open.spotify.com/album/4k4eSPuB5LfzU0unwN4Oh9) | 7:13 | 2022-04-15 | 2022-07-29 |
 | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Krigarè](https://open.spotify.com/artist/5UHbXPFqcRsZm7uS5ev8Q1) | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/album/6QOPCj17rs5nB1Kc8ayrX2) | 3:40 | 2022-11-03 |  |
@@ -168,7 +169,7 @@
 | [Samba On Mars](https://open.spotify.com/track/3IrmM6Xeso2NmjTsEB8TEf) | [Audiosonic](https://open.spotify.com/artist/4kge5wbLlbNvR1sUTTbGFi) | [Samba On Mars](https://open.spotify.com/album/39L23v6odjcSByVPs2Ii0O) | 8:56 | 2022-04-28 | 2022-06-11 |
 | [Samurai](https://open.spotify.com/track/7pKCXka3DCODhVD9Xne7se) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Samurai / Gambler](https://open.spotify.com/album/32dSBG1SJdY4kReiIJbuVL) | 2:58 | 2022-09-23 | 2022-09-30 |
 | [San Pedro](https://open.spotify.com/track/04x4RHqb7UQMG978AlxkrD) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [San Pedro](https://open.spotify.com/album/5sHYnWWk6HZMu5o5L64F91) | 7:28 | 2022-04-15 |  |
-| [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 | 2022-04-15 |  |
+| [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 | 2022-04-15 | 2022-12-19 |
 | [Save Me](https://open.spotify.com/track/0Jz3sOalZAP80G290yYZZB) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Save Me](https://open.spotify.com/album/0qH7mbypWgfElVWaG4LJUZ) | 3:34 | 2022-05-06 | 2022-05-08 |
 | [Scottica](https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Scottica](https://open.spotify.com/album/3pKmpzJ7iCdS2aWqGZItxy) | 3:19 | 2022-07-28 | 2022-09-26 |
 | [See Me](https://open.spotify.com/track/7tHgjmzPziQQKYs6JtIPs4) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Massivo](https://open.spotify.com/artist/6CgxIvyRuT1yFG5fjBbh6E) | [See Me](https://open.spotify.com/album/1cUIPPAO8OHNBPwsOvBgpN) | 3:38 | 2022-07-07 |  |

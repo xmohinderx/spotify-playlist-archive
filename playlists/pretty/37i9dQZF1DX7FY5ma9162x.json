@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: SZA",
-  "num_followers": 177881,
+  "num_followers": 178071,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDVhNDk0NDc5NmJjMTYzYmM1NjE0MDQwZjJiN2IzZmQz",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDkyYjkwNGQ5ZTAxMGM0MTI5YTc2YWRkYTE2MzFjNzBh",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Please Me",
         "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 200889,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1279,26 +1279,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Gravity (feat. Tyler, The Creator)",
-        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         },
         {
-          "name": "DJ Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 214692,
-      "name": "Gravity (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1323,22 +1319,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
+        "name": "Gravity (feat. Tyler, The Creator)",
+        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "DJ Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 183219,
-      "name": "BELIEVE IT",
-      "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+      "duration_ms": 214692,
+      "name": "Gravity (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",

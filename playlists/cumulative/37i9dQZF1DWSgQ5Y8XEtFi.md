@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-197 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
+198 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2022-03-29 | 2022-07-29 |
 | [6 God](https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:00 | 2022-08-29 | 2022-09-27 |
 | [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 | 2022-07-29 | 2022-08-04 |
-| [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-10-07 |  |
+| [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-10-07 | 2022-12-19 |
 | [All Alone](https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [All Alone](https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl) | 2:54 | 2022-03-29 |  |
 | [ALL KILLER NO FILLER](https://open.spotify.com/track/6nfnDSD5Wa9LAD8jeN5tix) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [TOXIC BOOGALOO](https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9) | 1:41 | 2022-04-20 | 2022-07-29 |
 | [All This Money](https://open.spotify.com/track/6zEPJJzojnfOrvfyuJiPtF) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Floss](https://open.spotify.com/album/67sUOjUevVJGgfCj1N2e4N) | 3:17 | 2022-06-24 | 2022-07-14 |
@@ -170,6 +170,7 @@
 | [Smack A Bitch](https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:18 | 2022-07-25 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2022-07-25 | 2022-08-09 |
 | [Square Up](https://open.spotify.com/track/5QVVZCiiLA4U6ZPA1OXU5f) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Square Up](https://open.spotify.com/album/3jWrt2SK4YNdeuzEfJjdgE) | 2:12 | 2022-03-29 | 2022-07-15 |
+| [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 | 2022-12-16 |  |
 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 | 2022-03-29 | 2022-12-17 |
 | [Startafight](https://open.spotify.com/track/30nqbZ1fDudZpIcONS5Y2P) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Startafight](https://open.spotify.com/album/56gJl75eEF3pO6FMDtUPXW) | 3:07 | 2022-07-01 | 2022-07-29 |
 | [Static](https://open.spotify.com/track/7fAyZGPp22pbGMZQgJuf1C) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0), [Wahid](https://open.spotify.com/artist/1kiX1oBF90ZSWJoXSiFy8x) | [Static](https://open.spotify.com/album/5tCYwml6XCzWbbhZwNsw8I) | 2:20 | 2022-08-12 | 2022-08-27 |

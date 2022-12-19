@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,312 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,432 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 25 | [Early Autumn](https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 3:11 |
 | 26 | [It Had To Be You](https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Great Ladies Of Song / Spotlight On Dinah Shore](https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy) | 3:24 |
 | 27 | [Velvet Moon](https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 5:19 |
-| 28 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
-| 29 | [Them There Eyes](https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 2:45 |
+| 28 | [Them There Eyes](https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 2:45 |
+| 29 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
 | 30 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
 | 31 | [I Wish You Love](https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:12 |
 | 32 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 70 | [How Long Has This Been Going On?](https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [The Classic Lena Horne](https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm) | 3:23 |
 | 71 | [Blue Gardenia](https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 5:21 |
 | 72 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
-| 73 | [I Walk A Little Faster](https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 4:18 |
+| 73 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 |
 | 74 | [When Day Is Done](https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:25 |
-| 75 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 |
+| 75 | [I Walk A Little Faster](https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 4:18 |
 | 76 | [These Foolish Things](https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:24 |
 | 77 | [Everything Happens To Me](https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 7:07 |
 | 78 | [Diane](https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 7:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5gKkKecfZsrzIkJlKyikyw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:36 |
 | 100 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 |
 
-Snapshot ID: `MTY2OTg5Mzk5NCwwMDAwMDAwMDI4M2M0Yzg3NmYxM2RiNTQ1NmY0MTUyYzhkZDliZjFk`
+Snapshot ID: `MTY2OTg5Mzk5NCwwMDAwMDAwMGI3YTIyZmRjNWY5YWVlNDZhYmNlMTFlN2VlZTRmYWFh`

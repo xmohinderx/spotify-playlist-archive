@@ -4,7 +4,7 @@
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Oxlade, Camila Cabello
 
-340 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/6qZ86PrcY4XIZq7R01HhHo)
+341 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/6qZ86PrcY4XIZq7R01HhHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [I Wanna Run Away](https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I Wanna Run Away](https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY) | 2:39 | 2022-03-25 | 2022-04-14 |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-15 | 2022-08-06 |
 | [iLIKE \(With AV Allure & Akelle from WSTRN\)](https://open.spotify.com/track/2G69OvHaKnZNFSUEtn3eVx) | [A!MS](https://open.spotify.com/artist/4kRfa7RBzBu7mxeWo3FkOe), [AV Allure](https://open.spotify.com/artist/7tjcbOzzgu3LU36xMW1Giy), [Akelle](https://open.spotify.com/artist/6HNx3UgchhnYnMNBmHRBzS) | [iLIKE \(With AV Allure & Akelle from WSTRN\)](https://open.spotify.com/album/2WC7lxqrQWRB6su6tSqbit) | 3:27 | 2022-01-07 | 2022-01-12 |
+| [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2022-12-16 |  |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-12-20 | 2022-08-02 |
 | [Instinto](https://open.spotify.com/track/7eQ1a5DgRxRnyrhNM7Kql5) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Instinto](https://open.spotify.com/album/5vHhyucp6G8yWLcfkQitzz) | 3:48 | 2021-12-20 | 2022-06-09 |
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-10-07 |  |
@@ -224,7 +225,7 @@
 | [Only Fanz \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/3bcv37HaYugMNI6VUEhwBy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Only Fanz](https://open.spotify.com/album/6mjAFRn6ioy8Z2fxWhGn3I) | 2:53 | 2021-12-20 | 2022-04-18 |
 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-14 | 2022-11-26 |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2022-12-12 |  |
-| [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-20 |  |
+| [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-20 | 2022-12-19 |
 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-08-01 | 2022-11-19 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-07-22 | 2022-10-03 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-12-20 |  |

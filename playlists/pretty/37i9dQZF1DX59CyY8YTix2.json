@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. Cover: tricot",
-  "num_followers": 37044,
+  "num_followers": 37058,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDdiODk3M2JiMjU3MDVkODQ0MjBhOWQzYmIxMjU5MTgz",
+  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMGZkOTdlMTk2YmNiZjc5MmNmOTQ0MTNiYzc2ZDE0YmJk",
   "tracks": [
     {
       "added_at": "2022-12-15 15:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "A revolution",
-        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
+        "name": "\u5922\u3092\u307f\u305b\u3066",
+        "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
       },
       "artists": [
         {
-          "name": "LOVE PSYCHEDELICO",
-          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+          "name": "C\u00f6 Shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Radio song",
-      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
+      "duration_ms": 324184,
+      "name": "\u5922\u3092\u307f\u305b\u3066",
+      "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u5922\u3092\u307f\u305b\u3066",
-        "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
+        "name": "A revolution",
+        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
       },
       "artists": [
         {
-          "name": "C\u00f6 Shu Nie",
-          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
         }
       ],
-      "duration_ms": 324184,
-      "name": "\u5922\u3092\u307f\u305b\u3066",
-      "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
+      "duration_ms": 240133,
+      "name": "Radio song",
+      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u30da\u30f3\u30b7\u30eb\u30ed\u30b1\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8"
-      },
-      "artists": [
-        {
-          "name": "\u9ed2\u5b50\u9996",
-          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
-        }
-      ],
-      "duration_ms": 207239,
-      "name": "\u304a\u307c\u3048\u305f\u3066",
-      "url": "https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "Awakening:Sleeping",
         "url": "https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 227000,
       "name": "Dramatic",
       "url": "https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u30da\u30f3\u30b7\u30eb\u30ed\u30b1\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u5b50\u9996",
+          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
+        }
+      ],
+      "duration_ms": 207239,
+      "name": "\u304a\u307c\u3048\u305f\u3066",
+      "url": "https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF"
     },
     {
       "added_at": "2022-12-15 15:00:00",
