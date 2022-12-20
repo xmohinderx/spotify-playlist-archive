@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 125425,
+  "num_followers": 125517,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGNjMGZlZTU4Y2JjYTgyNGE0NzVmMWZhMmJkYzQ2MDQ0",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGRhZTdiNjA4OGM4NTZmMjc2OTllMmJkZjEyNDRjZjkz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/3w26tAxCUFYYzeFMq5qNJg"
-      },
-      "artists": [
-        {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/5zWsOD8aSwx5P7kGb6gQTw"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Phase Zero",
         "url": "https://open.spotify.com/album/2B3pV6PcT7nwqrWrheOqWP"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 311280,
       "name": "Some Sunsick Day",
       "url": "https://open.spotify.com/track/7kXJUbAAPx2Bc4tKASpV5T"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Brain Cycles",
+        "url": "https://open.spotify.com/album/3w26tAxCUFYYzeFMq5qNJg"
+      },
+      "artists": [
+        {
+          "name": "Radio Moscow",
+          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "250 Miles",
+      "url": "https://open.spotify.com/track/5zWsOD8aSwx5P7kGb6gQTw"
     },
     {
       "added_at": "2022-07-22 04:00:00",

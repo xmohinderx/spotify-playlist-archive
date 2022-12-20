@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 225271,
+  "num_followers": 225254,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEyMDg2OSwwMDAwMDAwMDgzMjA0NmM0ZmViNWY2NWEzNmQyNjNkODk1YjU1Y2Zj",
+  "snapshot_id": "MTY3MTEyMDg2OSwwMDAwMDAwMGUxYWQ1ZmZlY2VlYThlNjNlM2EzNWNjN2JiNTFlYTEw",
   "tracks": [
     {
       "added_at": "2022-11-16 19:41:20",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5icnQhZE9x54UqAxBK9po3"
     },
     {
-      "added_at": "2022-12-19 00:39:38",
+      "added_at": "2022-12-20 01:32:59",
       "album": {
         "name": "DUKE NUKEM",
         "url": "https://open.spotify.com/album/0OzvI11qM6D82gtA7iMqLz"
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-16 19:41:20",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 155286,
-      "name": "Genocidal Humanoidz",
-      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
-    },
-    {
-      "added_at": "2022-11-16 19:41:20",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
+    },
+    {
+      "added_at": "2022-11-16 19:41:20",
+      "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 155286,
+      "name": "Genocidal Humanoidz",
+      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
     },
     {
       "added_at": "2022-11-16 19:41:20",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-16 19:41:20",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
-    },
-    {
-      "added_at": "2022-11-16 19:41:20",
-      "album": {
         "name": "Lost in the Waves (The Complete Edition)",
         "url": "https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 223547,
       "name": "Death",
       "url": "https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4"
+    },
+    {
+      "added_at": "2022-11-16 19:41:20",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2022-11-16 19:41:20",

@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=nR-3-Q83TE6mPeI4jcvvnQ\"> Kwesta </a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=bm3v1IzvQouZl2R52zdVcA\"> Kabza De Small </a>",
-  "num_followers": 105620,
+  "num_followers": 105707,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDYxNDllMmM5YWY4NTdjMmYyMTRiOGY4MTY0ZjExMzVm",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDRiYjA4M2E2ZGZjNDljMDZlY2UzNjViMGIzOGJmMTBm",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -265,6 +265,38 @@
       "url": "https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935"
     },
     {
+      "added_at": "2022-10-07 05:52:45",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "The Guy",
+      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Hustle",
@@ -287,22 +319,6 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
       "added_at": "2022-03-16 09:04:37",
@@ -343,22 +359,6 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2022-10-07 05:52:45",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
     },
     {
       "added_at": "2021-10-22 05:42:52",
@@ -545,26 +545,6 @@
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     },
     {
-      "added_at": "2022-09-16 04:26:33",
-      "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "Born To Win",
-      "url": "https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE"
-    },
-    {
       "added_at": "2021-12-02 23:01:00",
       "album": {
         "name": "Connecting the Dots",
@@ -633,22 +613,6 @@
       "url": "https://open.spotify.com/track/1KDGViRidQJ0UWV6J7n7Qs"
     },
     {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 207057,
-      "name": "Headliner",
-      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
-    },
-    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "First Sermon",
@@ -663,6 +627,26 @@
       "duration_ms": 185362,
       "name": "First Sermon",
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "added_at": "2022-09-16 04:26:33",
+      "album": {
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "Born To Win",
+      "url": "https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE"
     },
     {
       "added_at": "2021-11-04 23:01:00",
@@ -683,6 +667,22 @@
       "duration_ms": 186923,
       "name": "Afro Jigga",
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 207057,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
-    },
-    {
       "added_at": "2021-11-18 23:01:00",
       "album": {
         "name": "SUN / BABY BLUE 4\u2019s",
@@ -819,6 +803,22 @@
       "duration_ms": 165451,
       "name": "Ye x4",
       "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -893,26 +893,6 @@
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 194606,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
-    },
-    {
       "added_at": "2022-05-05 23:00:00",
       "album": {
         "name": "My Way",
@@ -959,6 +939,26 @@
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 194606,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh"
     },
     {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "duration_ms": 164954,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX"
+    },
+    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Wavy (feat. Sarkodie)",
@@ -1083,42 +1099,6 @@
       "duration_ms": 251820,
       "name": "Wavy (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/7mD6V6JHA0daZKOvVrBKp7"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "EAST MPAKA LONDON",
-        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
-      },
-      "artists": [
-        {
-          "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
-        }
-      ],
-      "duration_ms": 164954,
-      "name": "CATALYST",
-      "url": "https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX"
-    },
-    {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Put Your Hands Up",
-        "url": "https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
-        }
-      ],
-      "duration_ms": 209543,
-      "name": "Put Your Hands Up",
-      "url": "https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1143,6 +1123,26 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Put Your Hands Up",
+        "url": "https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "duration_ms": 209543,
+      "name": "Put Your Hands Up",
+      "url": "https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6"
     },
     {
       "added_at": "2022-04-21 23:00:00",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
     },
     {
-      "added_at": "2022-10-28 12:15:17",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 145330,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ"
-    },
-    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Yp & Azanti, Vol. 1",
@@ -1279,6 +1263,22 @@
       "duration_ms": 181874,
       "name": "Long Way from Home",
       "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
+    },
+    {
+      "added_at": "2022-10-28 12:15:17",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 145330,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ"
     },
     {
       "added_at": "2022-04-28 23:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-10-14 23:00:00",
       "album": {
-        "name": "Quarantunes",
-        "url": "https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV"
-      },
-      "artists": [
-        {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
-        }
-      ],
-      "duration_ms": 220434,
-      "name": "Midf (Money I Dey Find)",
-      "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
         "name": "Animalistic",
         "url": "https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 166812,
       "name": "Animalistic",
       "url": "https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Quarantunes",
+        "url": "https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        }
+      ],
+      "duration_ms": 220434,
+      "name": "Midf (Money I Dey Find)",
+      "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
     },
     {
       "added_at": "2021-11-11 23:00:00",

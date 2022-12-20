@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 29400,
+  "num_followers": 29446,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDNjZDEyZGM0NGEyZTNkZDk4MDI0NzNiNmM2NThkMDVm",
+  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDQzNWM3MDFhODI0NWRlYzJjNzk4MWUzODk0MTE3NjY2",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:46",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Boogie Woogie Country Man",
         "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 224533,
       "name": "Boogie Woogie Country Man",
       "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
         "url": "https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 221626,
       "name": "Boogie Woogie Blues",
       "url": "https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
         "name": "Boogie Woogie Motel Swing",
         "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 217260,
       "name": "C-Jam Boogie",
       "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -875,6 +859,26 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     }
   ],
   "unique_name": "Boogie-woogie Blues",

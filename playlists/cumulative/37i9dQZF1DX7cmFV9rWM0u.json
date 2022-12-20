@@ -126,6 +126,24 @@
     },
     {
       "album": {
+        "name": "Ay Dios",
+        "url": "https://open.spotify.com/album/398zQSn4bAiu0adQXhCvFH"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192028,
+      "name": "Ay Dios",
+      "url": "https://open.spotify.com/track/2lxQ97Lw5UZp7sEglXBEHL"
+    },
+    {
+      "album": {
         "name": "BAILAR CONTIGO",
         "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
       },
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 159819,
       "name": "LET'S GET CRAZY! (Mambo Drop)",
       "url": "https://open.spotify.com/track/4q5pdsB1bsZRu9BgewM7j9"

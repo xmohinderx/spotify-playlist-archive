@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,246 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,268 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar Daddy](https://open.spotify.com/track/0uKXGesFKOcJtwN5Pa6tjg) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:01 |
-| 2 | [Stink Behavior](https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T) | 3:31 |
+| 2 | [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 |
 | 3 | [Warming up \( Top Soil Riddim\)](https://open.spotify.com/track/5yGvLAXhtKq4fruVpwkumv) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M), [AkaiiUsweet](https://open.spotify.com/artist/1jMUtFpjX61sjfVXlSM81W) | [Warming up \( Top Soil Riddim\)](https://open.spotify.com/album/4b2iRZmikTGAD9l9YgoFKu) | 2:41 |
 | 4 | [Jelly](https://open.spotify.com/track/4DZpgXIzumG29zBpejBO1i) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:01 |
 | 5 | [Fete Cyah Over](https://open.spotify.com/track/1oA7q6OHpUgRyV4cjs5Syy) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Fete Cyah Over](https://open.spotify.com/album/7yMiqo1Voc33P4nTalAoag) | 2:31 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 13 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
 | 14 | [So Long](https://open.spotify.com/track/2WmNARSzCch3nzifLfn05K) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/0lE3XJtV1vvNwtyypqPymW) | 3:03 |
 | 15 | [Hookin' Meh](https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd) | 3:03 |
-| 16 | [Mash Up](https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/5zz01v5QiZmweXPy0ctPmV) | 3:04 |
+| 16 | [Mash Up](https://open.spotify.com/track/7gERxWoMY5cCFJ4Oyy8qnC) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/4DngCnXAuryTNHVFR1kGtp) | 3:04 |
 | 17 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
 | 18 | [Naked](https://open.spotify.com/track/2LszGvDF3uAHUlbiJsykbw) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:21 |
 | 19 | [Feel The Love](https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [YAGO](https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 49 | [Rollin](https://open.spotify.com/track/2R27w3AVAkLBsaXVuVRB2u) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:16 |
 | 50 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 |
 
-Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMDUzMGQwYzJmZTVmODVmYzA3MmEwZDk1MjhiNGVkZThk`
+Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMDJkOGZmMjUxMmViNzZmNzI5ZWNmNjAwODVjNDU3Mzdk`

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 270620,
+  "num_followers": 270681,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDExODUyY2U4ZjM1Y2UwNjFjOTYxMWVkNjA2MGQ1N2Qz",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGNhMWFiZGZhMGMwN2MwODU2N2UyNTEyZmMzOGIxMDUw",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Heavy Days",
         "url": "https://open.spotify.com/album/6qkZLHCIMcG8dFSWLTnteo"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 226645,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1015,6 +1015,38 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
+      },
+      "artists": [
+        {
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+        }
+      ],
+      "duration_ms": 160700,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Damn I'm Tired",
         "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
       },
@@ -1047,22 +1079,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
-      },
-      "artists": [
-        {
-          "name": "Swiss Portrait",
-          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
-        }
-      ],
-      "duration_ms": 160700,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "loom",
         "url": "https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
       "artists": [
         {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+      "duration_ms": 190720,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Plum",
-        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 286660,
-      "name": "Even True Love",
-      "url": "https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "House Of Mirrors",
         "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
       },
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
         }
       ],
-      "duration_ms": 190720,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
+      "duration_ms": 286660,
+      "name": "Even True Love",
+      "url": "https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "In Manchester",
+        "url": "https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "duration_ms": 173476,
+      "name": "In Manchester",
+      "url": "https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 173774,
       "name": "never had a place",
       "url": "https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "In Manchester",
-        "url": "https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU"
-      },
-      "artists": [
-        {
-          "name": "Black Marble",
-          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
-        }
-      ],
-      "duration_ms": 173476,
-      "name": "In Manchester",
-      "url": "https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI"
     },
     {
       "added_at": "2022-07-06 15:18:34",

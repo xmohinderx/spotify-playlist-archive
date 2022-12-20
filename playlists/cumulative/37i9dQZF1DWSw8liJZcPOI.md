@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-396 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
+397 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Aurora](https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO) | [Jacob Pavek](https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [BLOMMA](https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x) | [BLOMMA](https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc) | 4:25 | 2022-07-22 |  |
 | [Autumn Rain Rework](https://open.spotify.com/track/1ZaOnB3zJoGdf56rQPqOi5) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Autumn Rain Rework](https://open.spotify.com/album/0TCBfkkRIyUz5h7oqlU2gC) | 5:17 | 2020-10-20\* | 2022-07-09 |
 | [Avant\-dernières pensées: I\. Idylle \- Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Avant\-dernières pensées: I\. Idylle \[Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv) | 3:56 | 2021-12-10 | 2022-07-14 |
-| [Ave](https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [All I Need](https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51) | 4:07 | 2021-02-26 |  |
+| [Ave](https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [All I Need](https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51) | 4:07 | 2021-02-26 | 2022-12-20 |
 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 | 2021-02-22 | 2021-10-11 |
 | [Awakening](https://open.spotify.com/track/3I1U6Aq0fRFembW4qLKXEi) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Substance](https://open.spotify.com/album/4cMXo684wjVRAFYuPrpmPY) | 5:01 | 2020-12-11 | 2022-07-22 |
 | [Azure](https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Azure](https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo) | 3:12 | 2022-07-01 | 2022-12-18 |
@@ -208,6 +208,7 @@
 | [Like Glass](https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN) | [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Like Glass](https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR) | 2:30 | 2020-10-21 |  |
 | [Liquidity](https://open.spotify.com/track/1IrW2h8n4mWLvNhbgwDQij) | [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc), [Kjartan Sveinsson](https://open.spotify.com/artist/1yNnmCrLBExyTTvdYKy1bb) | [Epicycle II](https://open.spotify.com/album/4uhtsy7BxJm8GoIw2wuNWs) | 6:42 | 2020-12-04 | 2020-12-11 |
 | [Little Orc](https://open.spotify.com/track/2U7TnzD7vRwTIaNOZhE9Ns) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Little Orc](https://open.spotify.com/album/78StS44pxjUQDB6cQZ1fFv) | 2:55 | 2020-10-20\* | 2022-04-21 |
+| [Little Orc](https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 2:55 | 2022-12-02 |  |
 | [Llŷr \- Tom Paul Soetaert Rework](https://open.spotify.com/track/0xflu1zYGTDOkY5B0HxxzS) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Tom Paul Soetaert](https://open.spotify.com/artist/6dhUICf4bs6Vu7DrHO2JpG), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Dear, Piano \#2](https://open.spotify.com/album/5KP9x3xuAhtIeDxvCNJWAG) | 3:32 | 2022-07-22 | 2022-07-25 |
 | [lodges](https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [lodges](https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5) | 3:51 | 2022-09-09 |  |
 | [Longhope \- Edit](https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Longhope](https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0) | 3:31 | 2021-01-16 |  |

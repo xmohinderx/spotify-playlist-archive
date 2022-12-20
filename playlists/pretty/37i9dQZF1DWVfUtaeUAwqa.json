@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6605,
+  "num_followers": 6609,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDI1MmQ5NzU0NzIzM2EzMGJlMTM3OGU4OTNiMWUyMDJi",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDliYmJlODc4NGMzMzkyODg2NmI3MGU5NDdmNDAzZGNl",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "I Must Have It",
-        "url": "https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8"
-      },
-      "artists": [
-        {
-          "name": "Bourbon Street Jazzband",
-          "url": "https://open.spotify.com/artist/2SvsDVaQnwhr8da9LPepJO"
-        }
-      ],
-      "duration_ms": 175626,
-      "name": "New Orleans Shout",
-      "url": "https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Runnin' Wild",
         "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 178960,
       "name": "Tin Roof Blues",
       "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "I Must Have It",
+        "url": "https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8"
+      },
+      "artists": [
+        {
+          "name": "Bourbon Street Jazzband",
+          "url": "https://open.spotify.com/artist/2SvsDVaQnwhr8da9LPepJO"
+        }
+      ],
+      "duration_ms": 175626,
+      "name": "New Orleans Shout",
+      "url": "https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -199,6 +199,38 @@
       "duration_ms": 274808,
       "name": "Walkin' The Dog",
       "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Fabulous Sidney Bechet",
+        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Ballin' The Jack",
+      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -255,22 +287,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Sounds Of New Orleans",
         "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
@@ -323,38 +339,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Fabulous Sidney Bechet",
-        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Ballin' The Jack",
-      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
-      },
-      "artists": [
-        {
-          "name": "Turk Murphy",
-          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "That's A Plenty",
         "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 173653,
       "name": "Maple Leaf Rag",
       "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
+      },
+      "artists": [
+        {
+          "name": "Turk Murphy",
+          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -635,6 +635,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 199550,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Dixieland Jubilee",
-        "url": "https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8"
-      },
-      "artists": [
-        {
-          "name": "The Dixieland All Stars",
-          "url": "https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "There Is a Tavern in the Town",
-      "url": "https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -683,58 +683,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+        "name": "Dixieland Jubilee",
+        "url": "https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8"
       },
       "artists": [
         {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+          "name": "The Dixieland All Stars",
+          "url": "https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb"
         }
       ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Jam Session in Connecticut, Vol. 1",
-        "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
-      },
-      "artists": [
-        {
-          "name": "Big Bill Bissonnette",
-          "url": "https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3"
-        },
-        {
-          "name": "Fred Vigorito",
-          "url": "https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ"
-        },
-        {
-          "name": "Ron Going",
-          "url": "https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3"
-        },
-        {
-          "name": "Jerry Zigmont",
-          "url": "https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI"
-        },
-        {
-          "name": "Bill Sinclair",
-          "url": "https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei"
-        },
-        {
-          "name": "Emil Mark",
-          "url": "https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3"
-        },
-        {
-          "name": "Arnie Hyman",
-          "url": "https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa"
-        }
-      ],
-      "duration_ms": 316186,
-      "name": "Oh Dem Golden Slippers",
-      "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
+      "duration_ms": 227520,
+      "name": "There Is a Tavern in the Town",
+      "url": "https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -803,6 +763,62 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Jam Session in Connecticut, Vol. 1",
+        "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Bissonnette",
+          "url": "https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3"
+        },
+        {
+          "name": "Fred Vigorito",
+          "url": "https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ"
+        },
+        {
+          "name": "Ron Going",
+          "url": "https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3"
+        },
+        {
+          "name": "Jerry Zigmont",
+          "url": "https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI"
+        },
+        {
+          "name": "Bill Sinclair",
+          "url": "https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei"
+        },
+        {
+          "name": "Emil Mark",
+          "url": "https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3"
+        },
+        {
+          "name": "Arnie Hyman",
+          "url": "https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa"
+        }
+      ],
+      "duration_ms": 316186,
+      "name": "Oh Dem Golden Slippers",
+      "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Sounds Of New Orleans, Vol. 2",
         "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kings Of Dixieland",
-        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
-      },
-      "artists": [
-        {
-          "name": "Dixieland Band",
-          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
-        }
-      ],
-      "duration_ms": 139558,
-      "name": "Ring On Her Fingers",
-      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Paul Barbarin & His New Orleans Jazz Band",
         "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 315600,
       "name": "Bugle Boy March",
       "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Kings Of Dixieland",
+        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
+      },
+      "artists": [
+        {
+          "name": "Dixieland Band",
+          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
+        }
+      ],
+      "duration_ms": 139558,
+      "name": "Ring On Her Fingers",
+      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -883,22 +899,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "50 Classics: The Best Of Dixieland Jazz",
         "url": "https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 188160,
       "name": "In The Good Old Summertime",
       "url": "https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "All Time Jazz: New Orleans Rhythm Kings",
+        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
+      },
+      "artists": [
+        {
+          "name": "New Orleans Rhythm Kings",
+          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Bugle Call Blues",
+      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -935,22 +951,6 @@
       "duration_ms": 182906,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "All Time Jazz: New Orleans Rhythm Kings",
-        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
-      },
-      "artists": [
-        {
-          "name": "New Orleans Rhythm Kings",
-          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Bugle Call Blues",
-      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
     },
     {
       "added_at": "2020-08-19 17:19:14",

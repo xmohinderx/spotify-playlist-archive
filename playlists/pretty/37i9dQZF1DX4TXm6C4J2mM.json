@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156737,
+  "num_followers": 156730,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDFjNzZjYWUxNmFjYTc3OWRiN2ZmZjA1MDg0M2ZjMDM5",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDkxN2JiYzM3Nzk1NDEwYWVhNGMwZWU1ZTAzY2Y2YTY3",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -251,6 +251,30 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Impossible (feat. John Martin)",
+        "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Impossible (feat. John Martin)",
+      "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Weekend (feat. Emelie Cyr\u00e9us)",
         "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
       },
@@ -267,6 +291,26 @@
       "duration_ms": 132775,
       "name": "Weekend (feat. Emelie Cyr\u00e9us)",
       "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -295,50 +339,6 @@
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Impossible (feat. John Martin)",
-        "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Impossible (feat. John Martin)",
-      "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Bad Habits (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 189577,
-      "name": "Bad Habits - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Higher Ground (feat. John Martin)",
         "url": "https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 152672,
       "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Bad Habits (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 189577,
+      "name": "Bad Habits - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -827,30 +827,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "2019 Remixed",
-        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 239062,
-      "name": "No Sleep (feat. Bonn) - DubVision Remix",
-      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Stars Align (with Jolin Tsai)",
         "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 147742,
       "name": "Have You Never Been Mellow",
       "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "2019 Remixed",
+        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 239062,
+      "name": "No Sleep (feat. Bonn) - DubVision Remix",
+      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Release Me (feat. Kalhaader)",
         "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 136500,
       "name": "Te Bot\u00e9",
       "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Bass Goes Down",
         "url": "https://open.spotify.com/album/5HQkMx3unrkhwyB3qJvG1p"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 144449,
       "name": "Bass Goes Down",
       "url": "https://open.spotify.com/track/1Y6H3XEqOSTrqKFissnVGd"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Chains (with Project 46)",
-        "url": "https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Project 46",
-          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
-        }
-      ],
-      "duration_ms": 223041,
-      "name": "Chains (with Project 46)",
-      "url": "https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Ones You Miss",
         "url": "https://open.spotify.com/album/2CXzUowHtyuE6bDvnO47jB"
       },
@@ -2003,22 +1983,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+        "name": "Chains (with Project 46)",
+        "url": "https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+          "name": "Project 46",
+          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
+      "duration_ms": 223041,
+      "name": "Chains (with Project 46)",
+      "url": "https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -2119,6 +2099,26 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     }
   ],
   "unique_name": "Tr\u00e4ning",

@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-651 songs - 1 day 13 hr 39 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+652 songs - 1 day 13 hr 42 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [Without You \- Radio Edit](https://open.spotify.com/track/1tpMEYTqjYdeXRHr8i2BYl) | [Dujak](https://open.spotify.com/artist/5vNeqphZZDB8susU5xA8mP) | [Without You \(Radio Edit\)](https://open.spotify.com/album/7hKok0ENxj4EdQCOGXl6zK) | 2:57 | 2022-09-30 | 2022-10-08 |
 | [Words \(feat\. Zara Larsson\) \[Chapter & Verse Remix\]](https://open.spotify.com/track/6hAx59PBAqqvZLIJWilJfV) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Words \(Remixes\)](https://open.spotify.com/album/2P1cnpTNW5TAqpMeVySx4T) | 2:55 | 2022-09-09 | 2022-09-18 |
 | [Work](https://open.spotify.com/track/7lyyCJzXdxZJcXCvU8yVtf) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Work](https://open.spotify.com/album/0ZFdC22Brc39y3hjBUMO5F) | 3:41 | 2022-11-05 | 2022-11-12 |
+| [Work](https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work](https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D) | 3:37 | 2022-12-19 |  |
 | [Work For Me](https://open.spotify.com/track/4pAnnvNUCJnVxXlnTXtlcj) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Work For Me](https://open.spotify.com/album/0gwHQhbt31Kks94mvDJSSn) | 3:22 | 2022-11-11 |  |
 | [Work That](https://open.spotify.com/track/1ZvhgcnGpISg32eK7JadSe) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Work That](https://open.spotify.com/album/1Lm3v0jBatwrndrI7vkV6F) | 2:24 | 2022-09-23 | 2022-10-01 |
 | [Workin' The Door](https://open.spotify.com/track/5dEZl7f1weSYACtRDCzwui) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Workin' The Door](https://open.spotify.com/album/6XNXnP7Rzw9SCkSjS3Vthm) | 3:06 | 2022-12-02 | 2022-12-17 |

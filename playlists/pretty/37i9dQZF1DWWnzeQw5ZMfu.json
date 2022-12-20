@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 46051,
+  "num_followers": 46098,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDczODExNmVkMWM3OGI3YWFlMTJhNTk0MTdlZTUwNjE0",
+  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDQ2YzZhNzZhODU4YThhMmY3ZDNlN2MwNzgwNGM2NzQ2",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/10OaEuICuFoKLq48NoMblA"
     },
     {
-      "added_at": "2022-12-19 00:30:23",
+      "added_at": "2022-12-20 01:05:02",
       "album": {
         "name": "7 Years (Later) [Live]",
         "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "HOMECOMING: THE LIVE ALBUM",
-        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 165872,
-      "name": "Diva - Homecoming Live",
-      "url": "https://open.spotify.com/track/7eOG24Nx7j4nI3f9nOZTOi"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live)",
         "url": "https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 219385,
       "name": "The Man - Live From Paris",
       "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "HOMECOMING: THE LIVE ALBUM",
+        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 165872,
+      "name": "Diva - Homecoming Live",
+      "url": "https://open.spotify.com/track/7eOG24Nx7j4nI3f9nOZTOi"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "HOMECOMING: THE LIVE ALBUM",
-        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 262831,
-      "name": "Formation - Homecoming Live",
-      "url": "https://open.spotify.com/track/6oHexA34fw1WfswjIEA1hd"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Cassy O' (EP)",
         "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 246493,
       "name": "Take Me to Church - Live From Spotify London",
       "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "HOMECOMING: THE LIVE ALBUM",
+        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 262831,
+      "name": "Formation - Homecoming Live",
+      "url": "https://open.spotify.com/track/6oHexA34fw1WfswjIEA1hd"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Hurts So Good (Live From The Studio)",
         "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 193026,
       "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
       "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Serious Hits...Live! (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 393146,
-      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
-      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -679,6 +663,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Serious Hits...Live! (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
+      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Serious Hits...Live! (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 336573,
-      "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
-      "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -827,6 +811,46 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Live In Berlin",
+        "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Royal Philharmonic Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY"
+        },
+        {
+          "name": "Steven Mercurio",
+          "url": "https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Fields Of Gold - Live In Berlin/2010",
+      "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Serious Hits...Live! (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 336573,
+      "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
+      "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "MTV Unplugged EP",
         "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
       },
@@ -875,26 +899,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live In Berlin",
-        "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "Royal Philharmonic Concert Orchestra",
-          "url": "https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY"
-        },
-        {
-          "name": "Steven Mercurio",
-          "url": "https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Fields Of Gold - Live In Berlin/2010",
-      "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
+      "duration_ms": 231040,
+      "name": "Waterloo - Live",
+      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -927,22 +943,6 @@
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Waterloo - Live",
-      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live Friday The 13th",
-        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 379013,
-      "name": "She Will Be Loved - Live",
-      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
         "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
       },
@@ -1079,18 +1063,34 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Alicia Keys - VH1 Storytellers",
-        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
+        "name": "Live Friday The 13th",
+        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 258040,
-      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
-      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
+      "duration_ms": 379013,
+      "name": "She Will Be Loved - Live",
+      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+        "name": "Alicia Keys - VH1 Storytellers",
+        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
+      "duration_ms": 258040,
+      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
+      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Magic - Live",
-      "url": "https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 241360,
       "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
       "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1573,6 +1573,22 @@
       "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
+      "added_at": "2022-11-11 13:33:53",
+      "album": {
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 365157,
+      "name": "The Strangest Thing - Live",
+      "url": "https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS"
+    },
+    {
       "added_at": "2022-08-09 09:45:24",
       "album": {
         "name": "#3 Deluxe Version",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Maps - Live In Manchester",
-      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live: Sacred & Profane",
         "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
       },
@@ -1621,20 +1621,20 @@
       "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
     },
     {
-      "added_at": "2022-11-11 13:33:53",
+      "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Older (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 365157,
-      "name": "The Strangest Thing - Live",
-      "url": "https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS"
+      "duration_ms": 262533,
+      "name": "Maps - Live In Manchester",
+      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
     },
     {
       "added_at": "2022-08-09 09:45:24",

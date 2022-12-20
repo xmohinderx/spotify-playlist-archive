@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-416 songs - 1 day 7 hr 41 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+417 songs - 1 day 7 hr 45 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Red Handed](https://open.spotify.com/track/0KwJGWguMPAmuVrctH6n3t) | [Mr.K](https://open.spotify.com/artist/5ouKVWUPDLS5gCQfvMHZ3T) | [Red Handed](https://open.spotify.com/album/3WvLuQdHBW3M8OlemgTO1p) | 4:12 | 2022-02-17 | 2022-07-30 |
 | [Reflection](https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:58 | 2022-02-17 | 2022-09-03 |
 | [Remembrance](https://open.spotify.com/track/5fAhlkmF77TsVx3gUntbnB) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [View from the Edge EP](https://open.spotify.com/album/3AeRvuPNsF7YDLZ2eXhRxl) | 5:35 | 2022-02-17 | 2022-07-29 |
+| [Rent Request](https://open.spotify.com/track/4Od7jtoYfrMHteQ8CDH59j) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [Stain](https://open.spotify.com/artist/1OX7sfFYYwIbyEBhszHx8Y) | [Rent Request](https://open.spotify.com/album/4B7LUTkhOYmEwi25XXhdAf) | 3:44 | 2022-12-16 |  |
 | [Resonate](https://open.spotify.com/track/4BslxfPzl3zzoSxf5JS57R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Resonate / Shaman](https://open.spotify.com/album/3ogPWAWqjoQZ4OJSzWp4Em) | 3:03 | 2022-08-19 |  |
 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 | 2022-04-08 |  |
 | [Rhubarb Crumble](https://open.spotify.com/track/1Cm7THvhhuBMZVuP08nkpb) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [Rhubarb Crumble EP](https://open.spotify.com/album/4ByklHL90cfvBGLBbbyel1) | 5:33 | 2022-02-17 | 2022-07-27 |
@@ -423,6 +424,6 @@
 | [Your Eyes](https://open.spotify.com/track/0Ivg2pw38LNHfhfufsG17Z) | [L'As](https://open.spotify.com/artist/0R5M5gTNk0mdnSEipWX7Fx) | [Your Eyes EP](https://open.spotify.com/album/2YDAkiQvMWYCHjK3ZA9NuD) | 4:37 | 2022-02-17 | 2022-07-29 |
 | [Your Eyes](https://open.spotify.com/track/1Cuqy97qB1pgyedeDDx84a) | [LAS](https://open.spotify.com/artist/4hrGsolZH6W6Z6hoTsA1h0) | [Your Eyes EP](https://open.spotify.com/album/4NvLxet22qIltCVRzegbYh) | 4:37 | 2022-07-08 |  |
 | [Zeroes](https://open.spotify.com/track/0MSuQFB6WAelwoH8h6heXQ) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/0ME2x6n9ni4PJ6nmPzjuu2) | 6:04 | 2022-02-17 | 2022-07-29 |
-| [Zeroes](https://open.spotify.com/track/1DKsaBGrC8vclQQzYNErIQ) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 6:04 | 2022-07-08 |  |
+| [Zeroes](https://open.spotify.com/track/1DKsaBGrC8vclQQzYNErIQ) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 6:04 | 2022-07-08 | 2022-12-20 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators in Canada\. Currently curated by Laura Niquay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,613 likes - 29 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,619 likes - 29 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,895 songs - 7 day 18 hr 24 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,895 songs - 7 day 18 hr 23 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2875,7 +2875,6 @@
 | [My arms are searching for you](https://open.spotify.com/track/4rrqZym1WUAS6YJPfDMN8O) | [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [AM3Y](https://open.spotify.com/artist/4uOWTM9imhVCAWYsdy3DiR) | [The two of us are dying](https://open.spotify.com/album/2Q1nSlCORCLPoW5jH2HJfW) | 2:29 | 2022-03-19 | 2022-08-19 |
 | [my best shot](https://open.spotify.com/track/4kPLP31slFMsv94aWHdO0p) | [elro](https://open.spotify.com/artist/4F288nXxaJ0a12MP60Il0c) | [My Best Shot](https://open.spotify.com/album/6f5taBUAPQIMplBqTWKEyn) | 1:37 | 2022-01-07 | 2022-07-08 |
 | [My Bike](https://open.spotify.com/track/46u0xi1NGwLpBHzr24g8rj) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [My Bike](https://open.spotify.com/album/3Ln8OG7CXj8Mp2vfsauVa1) | 2:37 | 2022-06-17 | 2022-10-07 |
-| [My Faith Is Growing](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Faith Is Growing](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 3:44 | 2022-12-16 |  |
 | [My Favorite Book](https://open.spotify.com/track/6IZXBFNZhDnVlOhJM68ul9) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [My Favorite Book](https://open.spotify.com/album/6cBYM0FCqNAEgYjAjcIaP0) | 1:42 | 2022-06-24 | 2022-10-07 |
 | [my heart flutters when i see you](https://open.spotify.com/track/0JhdQlmssZgMtiXUjBFP6C) | [biosphere](https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D) | [Summer Festival](https://open.spotify.com/album/1nKbuCxRD3gWTeKDs1CN0L) | 2:10 | 2019-06-22 | 2019-06-25 |
 | [My House, Your Rules](https://open.spotify.com/track/6qAFemH2WWhEM9ZNn5dcBN) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [My House, Your Rules](https://open.spotify.com/album/0zCXJLvrl8SoUhS9yHOmbc) | 2:14 | 2022-09-30 |  |
@@ -3627,7 +3626,6 @@
 | [Same Old Paves](https://open.spotify.com/track/2TX8b9EUvT5uU4dkzEx8rQ) | [Sawibeatz](https://open.spotify.com/artist/0AD1RbLJZFUruqLENw6wJl) | [Night's Made](https://open.spotify.com/album/3tbRGqdufSFtH6XMfEpBsy) | 2:34 | 2022-07-22 | 2022-10-28 |
 | [Same Old Vibe](https://open.spotify.com/track/1qcob3MqEAXv1MZ7ASlq3q) | [Dolittlebeats](https://open.spotify.com/artist/3fk9GO2x9QE9ZHGmv1TTZz) | [Same Old Vibe](https://open.spotify.com/album/2D5BW2wHWazCJSW4KeYYVo) | 2:00 | 2022-08-05 | 2022-11-18 |
 | [Samedi](https://open.spotify.com/track/2yRElhhXde2KRcMk5J8LZO) | [DAE DREEM](https://open.spotify.com/artist/5be2NmvHmbyJ2HUVVuDGie) | [Samedi](https://open.spotify.com/album/3FTdslwlNpaxPLWBrqD4EJ) | 1:37 | 2022-11-18 |  |
-| [Samsons best friend](https://open.spotify.com/track/3u3gBO9AfqEKVcfj4nLn1s) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Samsons best friend](https://open.spotify.com/album/3adyOufZtfv6YKwWzvaurW) | 2:01 | 2022-12-16 |  |
 | [Samui Sunrise](https://open.spotify.com/track/1D9DJXFwwB91MBatZ7wnSv) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Samui Sunrise](https://open.spotify.com/album/11SEX74GX3RCdRtrle8dKv) | 3:24 | 2020-04-03 | 2021-09-04 |
 | [San Francisco Nights](https://open.spotify.com/track/3bWN5Hibd5W2Zcz0hsM5Ga) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [San Francisco Nights](https://open.spotify.com/album/6r7OUf8jfevNCAM0g1padv) | 1:55 | 2021-01-11 | 2022-01-14 |
 | [sand](https://open.spotify.com/track/2MsXZzHVDQ0NJRA2x2S7QT) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [sand](https://open.spotify.com/album/6v5ibhaE5NXektLefIE00x) | 2:08 | 2019-11-22 | 2021-07-29 |
@@ -3751,6 +3749,7 @@
 | [Showdown](https://open.spotify.com/track/30fM1V7arKICtUlG2Hk4KF) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Showdown](https://open.spotify.com/album/4T0wElZm8RXLsk5ZI0ZGxY) | 2:24 | 2022-09-30 |  |
 | [Shrub](https://open.spotify.com/track/3ESyazm9Ok92eCpzN4pclL) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Shrub](https://open.spotify.com/album/2hVjtfM5jvhiNnNf3htp7i) | 2:24 | 2022-11-18 | 2022-11-25 |
 | [Shrub](https://open.spotify.com/track/3T6G6cDbiCwoCFzqOyK5mW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Shrub](https://open.spotify.com/album/2I2OjpEGbV5SFNj3iwaKBh) | 2:24 | 2022-08-26 | 2022-11-20 |
+| [Si, I'm from Paris](https://open.spotify.com/track/3u3gBO9AfqEKVcfj4nLn1s) | [Fashion Allure](https://open.spotify.com/artist/3f2eVgVyrMtQwwp1Ev1Zkc) | [Si, I'm from Paris](https://open.spotify.com/album/3adyOufZtfv6YKwWzvaurW) | 2:04 | 2022-12-16 |  |
 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-25 | 2022-08-05 |
 | [Sidewalk Pizza](https://open.spotify.com/track/25SJ2Yobd7M7JRCpOe5UNv) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Sidewalk Pizza](https://open.spotify.com/album/5WVxXW5VjWK1StHUCDD1rl) | 2:29 | 2022-08-12 |  |
 | [Sidewall](https://open.spotify.com/track/4l7jeahYuBbxTlc9L6G7nY) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Sidewall](https://open.spotify.com/album/0h9LLix6ntwKH349MCZP0j) | 2:12 | 2019-08-18 | 2021-07-04 |
@@ -4131,6 +4130,7 @@
 | [Sunset](https://open.spotify.com/track/4OqNPx0I26d1LynzJ5s35J) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sunset](https://open.spotify.com/album/1QYUk3LtFn12G2y8ojQBWp) | 2:02 | 2021-08-14 | 2022-03-09 |
 | [Sunset](https://open.spotify.com/track/5jSHEphh8r7VnQYwavSFPf) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Untitled Beat Tape](https://open.spotify.com/album/0pKHu8mkmer04Yb7D1Y35G) | 2:57 | 2019-05-26\* | 2020-10-21 |
 | [Sunset](https://open.spotify.com/track/0RVE7SHZDJmoA5maQ8R9a7) | [MIXK](https://open.spotify.com/artist/3LwhcSCbJCQTJpk0Ad9dpg), [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Sunset](https://open.spotify.com/album/4j6ZBA6Xj0MJPf2POtuwQp) | 2:44 | 2022-04-08 | 2022-09-02 |
+| [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 | 2022-12-16 |  |
 | [sunset](https://open.spotify.com/track/2MDJ3VOO4dkrZBphChL7DV) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [sunset](https://open.spotify.com/album/5sgRurlEDDUHCGwpGdHGuF) | 3:27 | 2022-07-08 | 2022-10-21 |
 | [Sunset](https://open.spotify.com/track/5RoPqqFj748ZZDAWP1vZTC) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunset](https://open.spotify.com/album/6ZdGhhmTyF4LGwMUd292aJ) | 2:17 | 2021-09-04 | 2022-04-08 |
 | [Sunset Blvd](https://open.spotify.com/track/2VhbfT4qyB4KFhVEDplXxX) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Sunset Blvd](https://open.spotify.com/album/0JkqkDXmAOTihmfJ6Ntq25) | 3:16 | 2020-05-06 | 2020-06-24 |

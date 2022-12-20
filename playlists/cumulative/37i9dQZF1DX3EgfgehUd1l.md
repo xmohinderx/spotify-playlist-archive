@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-245 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
+246 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/track/2unXb33WJvFZJv8qtVLI9D) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/0aX0jhtX1S6znbZT36ZhF5) | 2:58 | 2020-07-08 | 2022-06-09 |
 | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/track/5FzFFCV0eza5iU9ypGyeux) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:58 | 2020-07-08 | 2022-11-13 |
 | [A Tear Fell](https://open.spotify.com/track/1owWviRSKKgHJB9QaUG8u5) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Easy Listening](https://open.spotify.com/album/4v9ozR1prJWMHNnQLYNdOa) | 2:34 | 2020-07-08 | 2022-07-29 |
-| [A Tear Fell](https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:36 | 2020-07-08 |  |
+| [A Tear Fell](https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:36 | 2020-07-08 | 2022-12-20 |
 | [A Teenager In Love](https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [Marty: A Lifetime In Music 1957\-2019](https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s) | 2:20 | 2020-07-08 | 2022-11-12 |
 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 | 2020-07-08 | 2022-07-07 |
 | [A Very Precious Love](https://open.spotify.com/track/25fjMuRFh9gQm5HAlE9GyU) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [The Ultimate Collection](https://open.spotify.com/album/6au7s5biiS7yAITUs62UmQ) | 3:02 | 2020-07-08 | 2022-07-14 |
@@ -229,6 +229,7 @@
 | [Twilight Time](https://open.spotify.com/track/1tu5rCtK0jCLMeoWCYnttf) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Best Of The Platters](https://open.spotify.com/album/48VpGQRP9z2Nhw2iq1uyaN) | 2:44 | 2020-07-08 | 2022-07-29 |
 | [Twilight Time \- Single Version](https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Flying Platters Around The World](https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH) | 2:48 | 2020-07-08 |  |
 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 | 2020-07-08 |  |
+| [Walkin' My Baby Back Home](https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:20 | 2020-07-08 |  |
 | [Walkin' to Missouri](https://open.spotify.com/track/4SPTd48eI5TzgJkbRAMSzw) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:50 | 2020-07-08 | 2022-04-24 |
 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 | 2020-07-08 | 2022-11-13 |
 | [Wanted \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Very Best Of](https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84) | 3:05 | 2020-07-08 | 2022-07-12 |

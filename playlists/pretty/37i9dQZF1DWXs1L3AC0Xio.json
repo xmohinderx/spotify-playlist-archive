@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 635249,
+  "num_followers": 635443,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMDVjNjExN2IyOTZiZmEyNjEzM2I0MDA3M2FhMWYwZTc2",
+  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMDU3MDZlYjRiM2QxZWY0MzhlYTU0MDUxZTcyZjhkN2My",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:00",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
     },
     {
+      "added_at": "2022-12-20 00:41:56",
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
+    },
+    {
       "added_at": "2022-10-07 05:00:00",
       "album": {
         "name": "mainstream sellout",
@@ -415,22 +431,6 @@
       "duration_ms": 239212,
       "name": "twin flame",
       "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
-    },
-    {
-      "added_at": "2022-12-19 00:44:58",
-      "album": {
-        "name": "AfterLife",
-        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209976,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "No Code",
-        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 345786,
-      "name": "Present Tense",
-      "url": "https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 283528,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "No Code",
+        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 345786,
+      "name": "Present Tense",
+      "url": "https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
     },
     {
-      "added_at": "2022-12-19 00:44:58",
+      "added_at": "2022-12-20 00:41:56",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
@@ -995,18 +1011,34 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Perdida",
-        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
       "artists": [
         {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 261880,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
+      "duration_ms": 218386,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "How Did You Love - Piano Version",
+      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1043,38 +1075,6 @@
       "duration_ms": 255661,
       "name": "Dear Agony - Aurora Version",
       "url": "https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "How Did You Love - Piano Version",
-      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Hydrograd",
-        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "St. Marie",
-      "url": "https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Doomsday (Piano Reprise)",
         "url": "https://open.spotify.com/album/3qugOscI33flKHeUONCfLh"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 233346,
       "name": "Things My Father Said",
       "url": "https://open.spotify.com/track/2ZceU5sfgcH5h7bIsFuuXT"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Hydrograd",
+        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "St. Marie",
+      "url": "https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Black and White Rainbows (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 259797,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "The Present Is a Foreign Land",
         "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 254642,
       "name": "Quiet Now",
       "url": "https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Black and White Rainbows (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 259797,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "I Wanna Be Okay",
         "url": "https://open.spotify.com/album/69x5qpqLM9SkZLUDMr1fdv"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "UP",
-        "url": "https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ"
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo"
       },
       "artists": [
         {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 230706,
-      "name": "If Only For Now",
-      "url": "https://open.spotify.com/track/2paOAPUdPfiPPUVQ8I5epX"
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 270001,
       "name": "Life Is Beautiful 2017",
       "url": "https://open.spotify.com/track/2Et49kpeirx87RIqwJ9Hdj"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 207395,
+      "name": "When They Turn the Lights On",
+      "url": "https://open.spotify.com/track/4mkWTl38qBjTMcBMwri6Nx"
     }
   ],
   "unique_name": "Rock Ballads",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Gal Costa e destaques de 2022, por mais mulheres sendo ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,242 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,276 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 26 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
 | 27 | [Segue Invicto](https://open.spotify.com/track/7JGsf3jzhsMWDu75sQdPCF) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Segue Invicto](https://open.spotify.com/album/6cSpSEmFKxpVasXThfY5Er) | 2:28 |
 | 28 | [Duas Caras](https://open.spotify.com/track/4OXWpVtae6WxWUPKApp66r) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Duas Caras](https://open.spotify.com/album/0kNvywWv6Hf5y0l2p4OBUq) | 2:42 |
-| 29 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/4tRErerEoiCOIV2pLfL7hv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos ao vivo em Goiânia vol 1](https://open.spotify.com/album/5TnxDHDxcAiyLx4IOkNRTQ) | 3:01 |
-| 30 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
+| 29 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
+| 30 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/4tRErerEoiCOIV2pLfL7hv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos ao vivo em Goiânia vol 1](https://open.spotify.com/album/5TnxDHDxcAiyLx4IOkNRTQ) | 3:01 |
 | 31 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 |
-| 32 | [GAROTA INFERNAL](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [GAROTA INFERNAL](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 |
-| 33 | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon) | 2:25 |
+| 32 | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon) | 2:25 |
+| 33 | [GAROTA INFERNAL](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [GAROTA INFERNAL](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 |
 | 34 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
 | 35 | [Motinha](https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:14 |
 | 36 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Eu Vou](https://open.spotify.com/track/7HcrBJtYTifl7zQqSLc2n7) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Eu Vou](https://open.spotify.com/album/65plWnQdnyp41mpaLsdtHt) | 3:10 |
 | 50 | [TROPA DAS SOLTINHAS](https://open.spotify.com/track/7k82WCRSzfByzGXVYRgAvb) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [TROPA DAS SOLTINHAS](https://open.spotify.com/album/0gLKqtVCVOcI7eGz6rJuIZ) | 2:26 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDM1NTcxNWIwMzc3NjBiZmU1YzdjYjFiODk0ZjJmOWQy`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDNmMDFjYjJiNDUxYjNkMWU1YjEyZDc3ZmRjNDVmODBm`

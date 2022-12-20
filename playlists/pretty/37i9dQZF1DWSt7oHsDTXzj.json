@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 159213,
+  "num_followers": 160556,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMzQwMCwwMDAwMDAwMDFkNWYwM2JjZGE4ZjVkNDQzZjExYWE4NjdkNDQyOTcy",
+  "snapshot_id": "MTY3MTIxMzQwMCwwMDAwMDAwMDE1YzczYmU5ZGI5ZWYyYmY0MThmM2E0MWQzMzVjMDQy",
   "tracks": [
     {
       "added_at": "2022-12-07 16:42:48",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-12-07 16:42:48",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
-      },
-      "artists": [
-        {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Christmas Kids",
-      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
-    },
-    {
-      "added_at": "2022-12-07 16:42:48",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 152426,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "added_at": "2022-12-07 16:42:48",
+      "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
       "added_at": "2022-12-07 16:42:48",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-12-07 16:42:48",
       "album": {
+        "name": "Phrazes For The Young",
+        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
+      },
+      "artists": [
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Christmas Treat",
+      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
+    },
+    {
+      "added_at": "2022-12-07 16:42:48",
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf"
       },
@@ -583,34 +599,18 @@
     {
       "added_at": "2022-12-07 16:42:48",
       "album": {
-        "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
-        "url": "https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl"
+        "name": "This Year For Christmas",
+        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
       },
       "artists": [
         {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 218170,
-      "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
-      "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
-    },
-    {
-      "added_at": "2022-12-07 16:42:48",
-      "album": {
-        "name": "Phrazes For The Young",
-        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
-      },
-      "artists": [
-        {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Christmas Treat",
-      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
+      "duration_ms": 112361,
+      "name": "This Year For Christmas",
+      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
     },
     {
       "added_at": "2022-12-07 16:42:48",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-07 16:42:48",
       "album": {
-        "name": "This Year For Christmas",
-        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 112361,
-      "name": "This Year For Christmas",
-      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
-    },
-    {
-      "added_at": "2022-12-07 16:42:48",
-      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 190933,
       "name": "Hallelujah - Bonus Track",
       "url": "https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk"
+    },
+    {
+      "added_at": "2022-12-07 16:42:48",
+      "album": {
+        "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
+        "url": "https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 218170,
+      "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
+      "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
     },
     {
       "added_at": "2022-12-07 16:42:48",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-07 16:42:48",
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 280152,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
+    },
+    {
+      "added_at": "2022-12-07 16:42:48",
+      "album": {
         "name": "All You're Dreaming Of",
         "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-12-07 16:42:48",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 280152,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
     },
     {
       "added_at": "2022-12-07 16:42:48",
@@ -743,22 +759,6 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2022-12-07 16:42:48",
-      "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
     },
     {
       "added_at": "2022-12-07 16:42:48",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-07 16:42:48",
       "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
+    },
+    {
+      "added_at": "2022-12-07 16:42:48",
+      "album": {
         "name": "Christmas Special",
         "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
-    },
-    {
-      "added_at": "2022-12-07 16:42:48",
-      "album": {
-        "name": "Rise Up Shepherd",
-        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
-      },
-      "artists": [
-        {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        }
-      ],
-      "duration_ms": 147134,
-      "name": "Rise Up Shepherd",
-      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
     }
   ],
   "unique_name": "Indie Christmas",

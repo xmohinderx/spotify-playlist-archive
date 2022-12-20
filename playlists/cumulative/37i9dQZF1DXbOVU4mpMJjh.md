@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-467 songs - 1 day 13 hr 29 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+468 songs - 1 day 13 hr 32 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2022-04-14 | 2022-10-08 |
 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 | 2022-04-14 | 2022-10-22 |
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 |  |
+| [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-08 |  |
 | [I'll Wait and Pray](https://open.spotify.com/track/4z6d79RAbC5q0VAqPQas8W) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Atlantic Studio Album Collection](https://open.spotify.com/album/0BSousVS9bndHhwKl4Eu0r) | 3:26 | 2022-04-14 | 2022-10-08 |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-08 | 2022-12-13 |
 | [I'm Glad There Is You](https://open.spotify.com/track/499pC27JxKGMh6mYyuRmlT) | [Bill Mobley](https://open.spotify.com/artist/2RnJnmDsu7HDPmj4UNjmjh), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Robert Hurst](https://open.spotify.com/artist/398OLP0K6sxmwsYaB7Wnmj), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [MoodScape](https://open.spotify.com/album/5ACA0ncZdwtno9H8jQ9AQk) | 8:04 | 2022-04-14 | 2022-10-03 |
@@ -473,7 +474,7 @@
 | [Young and Foolish](https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Moon Mist](https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO) | 5:30 | 2022-04-14 | 2022-10-08 |
 | [Young At Heart](https://open.spotify.com/track/4ZY6PYsAKLbisjOhdNUb2P) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [The Real Perry Como](https://open.spotify.com/album/1DnKsMxySdphgMNU0fzkrb) | 2:57 | 2022-04-14 | 2022-07-29 |
 | [Young At Heart \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/3EtJrVRqa5SX20tTZDgD36) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:57 | 2022-06-30 | 2022-10-08 |
-| [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-16 |  |
+| [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-16 | 2022-12-20 |
 | [Your Love Is Mine \(feat\. Corinne Bailey Rae\) \- Nostalgia 77 Remix](https://open.spotify.com/track/0sGFsWPYyhN4X9LKT1EiOv) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [Re:Mixed](https://open.spotify.com/album/4p11Kaw9TBxfcRRXk8rlPn) | 3:17 | 2022-04-14 | 2022-04-28 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

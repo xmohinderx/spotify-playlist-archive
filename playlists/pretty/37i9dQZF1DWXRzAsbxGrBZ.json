@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 4101,
+  "num_followers": 4120,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDA5NjliNjEwODcxMWNiZGRiODEzNDA3ZGUyMmM4M2Nl",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDliMDJiMjE0NzYxZWNkZTI2YTRjOWMxMmM1YzBiZTUx",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -127,26 +127,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Thief In The Night",
-        "url": "https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b"
-      },
-      "artists": [
-        {
-          "name": "Senior Oat",
-          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
-        },
-        {
-          "name": "Sir Bless",
-          "url": "https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m"
-        }
-      ],
-      "duration_ms": 375120,
-      "name": "S'khanyisele",
-      "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Sweet Nothings",
         "url": "https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e"
       },
@@ -189,6 +169,26 @@
       "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Thief In The Night",
+        "url": "https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Sir Bless",
+          "url": "https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m"
+        }
+      ],
+      "duration_ms": 375120,
+      "name": "S'khanyisele",
+      "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "This Must Be Deep",
@@ -223,30 +223,6 @@
       "duration_ms": 416688,
       "name": "False Facade",
       "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Woza Moya",
-        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        }
-      ],
-      "duration_ms": 407142,
-      "name": "Woza Moya",
-      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -313,6 +289,46 @@
       "url": "https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk"
     },
     {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
+      },
+      "artists": [
+        {
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+        }
+      ],
+      "duration_ms": 373592,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Woza Moya",
+        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "duration_ms": 407142,
+      "name": "Woza Moya",
+      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
+    },
+    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "We Beg Your Pardon",
@@ -331,22 +347,6 @@
       "duration_ms": 431984,
       "name": "We Beg Your Pardon",
       "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
-      },
-      "artists": [
-        {
-          "name": "Fatso 98",
-          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
-        }
-      ],
-      "duration_ms": 373592,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Forever (TekniQ Remixes)",
         "url": "https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 434877,
       "name": "Makhenikha",
       "url": "https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Abiogenesis EP",
+        "url": "https://open.spotify.com/album/2qg3O0ZMHlbzaAAtv5q36v"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        }
+      ],
+      "duration_ms": 438830,
+      "name": "The God Flex",
+      "url": "https://open.spotify.com/track/3IlH84mTg9aqoeHtLfrvjM"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 375431,
       "name": "Before Everything",
       "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Abiogenesis EP",
-        "url": "https://open.spotify.com/album/2qg3O0ZMHlbzaAAtv5q36v"
-      },
-      "artists": [
-        {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        }
-      ],
-      "duration_ms": 438830,
-      "name": "The God Flex",
-      "url": "https://open.spotify.com/track/3IlH84mTg9aqoeHtLfrvjM"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -777,26 +777,6 @@
       "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
-      },
-      "artists": [
-        {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
-        }
-      ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "OOO: AFRO",
@@ -815,6 +795,26 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+        }
+      ],
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
-      },
-      "artists": [
-        {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
-        }
-      ],
-      "duration_ms": 392431,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Revolver, Vol. 3 (Compiled)",
@@ -887,6 +871,22 @@
       "duration_ms": 419010,
       "name": "Life",
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 392431,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
     },
     {
       "added_at": "2022-11-10 21:59:00",

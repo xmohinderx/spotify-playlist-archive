@@ -4,12 +4,13 @@
 
 > La casa dello street rap italiano\. Cover: Shiva
 
-190 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+191 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#SI \(feat\. Tony Effe\)](https://open.spotify.com/track/0o8RvXnvLD400LkZvwj6lC) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [\#SI \(feat\. Tony Effe\)](https://open.spotify.com/album/7jMQtpxqAVNMyVHsel5OZq) | 2:21 | 2022-05-11 | 2022-05-27 |
 | [181](https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:20 | 2022-05-26 | 2022-06-24 |
+| [21 Freestyle](https://open.spotify.com/track/2WnKNBq12Hf8BzTdrjwEkP) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [21 Freestyle](https://open.spotify.com/album/58apMhROHuGnRpGbjtJ00u) | 2:41 | 2022-12-19 |  |
 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 | 2022-05-11 | 2022-09-09 |
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-16 | 2022-08-13 |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-11 | 2022-05-27 |
@@ -159,7 +160,7 @@
 | [Senza Regole](https://open.spotify.com/track/6OmBXkYM9IJxNLn4Z4vKBs) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [Senza Regole](https://open.spotify.com/album/1ppC0wJWfC0XupPWLr7ErY) | 2:57 | 2022-05-11 | 2022-05-27 |
 | [Sexy Jersey](https://open.spotify.com/track/2ITfoGfIJOZ6iyu4C5GFvh) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [Sexy Jersey](https://open.spotify.com/album/1zY0TsrS9Eqn6g36f2wUoH) | 2:45 | 2022-12-15 |  |
 | [Sezione \(feat\. 167 Gang\)](https://open.spotify.com/track/7zYYyZzKpGgQqN38tvd6ml) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Sezione \(feat\. 167 Gang\)](https://open.spotify.com/album/3xcKVGl5D7nZvC7MA4uGA9) | 3:14 | 2022-05-11 | 2022-05-20 |
-| [Sezione 2](https://open.spotify.com/track/3a2n8wuUcI1VgzHPxUFBg5) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Sezione 2](https://open.spotify.com/album/6J7AfvT3oq264aG2nYVQm8) | 2:28 | 2022-11-10 |  |
+| [Sezione 2](https://open.spotify.com/track/3a2n8wuUcI1VgzHPxUFBg5) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Sezione 2](https://open.spotify.com/album/6J7AfvT3oq264aG2nYVQm8) | 2:28 | 2022-11-10 | 2022-12-20 |
 | [SHAKE IT](https://open.spotify.com/track/0uwLyfh8ig8RXchJDtNJqY) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [SHAKE IT](https://open.spotify.com/album/1IJ6WQ3Tdk6LEL4ZuSQAfe) | 2:40 | 2022-11-17 |  |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-05-11 | 2022-06-10 |
 | [Sharm El Sheikh](https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Sharm El Sheikh](https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW) | 2:05 | 2022-10-24 |  |

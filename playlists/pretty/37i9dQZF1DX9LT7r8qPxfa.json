@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 246945,
+  "num_followers": 246982,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDNmNDVlNDljM2Q4NjNhNDYxYTY2ZTUzZjA0ODg4Y2U1",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDNkNDgxNWEzYWY4ZDRlNmFmYzVhMTI5NjAzNTViMTNh",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 435080,
+      "name": "yellow is the color of her eyes",
+      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 435080,
-      "name": "yellow is the color of her eyes",
-      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Notion - EP",
         "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Big Wheel",
-      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Here Goes Nothing!",
-        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "I'm Afraid I Love You",
-      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Wild Turkey",
@@ -607,6 +591,22 @@
       "duration_ms": 272080,
       "name": "Wild Turkey",
       "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Here Goes Nothing!",
+        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "I'm Afraid I Love You",
+      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 170391,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
         }
       ],
-      "duration_ms": 170391,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 260458,
       "name": "Pictures of Flowers",
       "url": "https://open.spotify.com/track/2YJyShuoMWP3YjcjvLzNCl"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 229501,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Capable",
-      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -955,6 +939,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Capable",
+      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "New Conditions",
-        "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
-      },
-      "artists": [
-        {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "The Impossible Task of Feeling Complete",
-      "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Silk",
         "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 192000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "New Conditions",
+        "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "The Impossible Task of Feeling Complete",
+      "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Man I'll Never Find (Piano Version)",
-        "url": "https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "The Man I'll Never Find - Piano Version",
-      "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
@@ -1259,6 +1243,22 @@
       "duration_ms": 182062,
       "name": "Boxing Day Blues",
       "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "The Man I'll Never Find (Piano Version)",
+        "url": "https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 221135,
+      "name": "The Man I'll Never Find - Piano Version",
+      "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Meet Me on the Edge of Our Ruin",
-        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 244198,
       "name": "I\u2019ll Still Have Me - Aquilo Remix",
       "url": "https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Meet Me on the Edge of Our Ruin",
+        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
+      },
+      "artists": [
+        {
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "This Is What Our Love Looks Like Now",
         "url": "https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 243242,
       "name": "This Is What Our Love Looks Like Now",
       "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     }
   ],
   "unique_name": "noir",

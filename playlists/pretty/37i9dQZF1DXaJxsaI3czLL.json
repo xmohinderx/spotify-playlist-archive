@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 118690,
+  "num_followers": 118739,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDA3Zjg4ZTgwZGM3YTJiNjA2MzA0NmNkYmJjZGYyNzc1",
+  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDI2OTJiMDMyODhjZGIwMTBiYjI3ZGVkNWQyOWI3NzJm",
   "tracks": [
     {
       "added_at": "2022-12-15 15:00:00",
@@ -511,22 +511,18 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
+        "name": "SHINJITERU",
+        "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        },
-        {
-          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
-          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 327191,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
+      "duration_ms": 213933,
+      "name": "\u6df1\u547c\u5438",
+      "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -547,22 +543,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "SHINJITERU",
-        "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "\u6df1\u547c\u5438",
-      "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "ohashiTrio best Too",
         "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 337898,
       "name": "\u8679\u3068\u30ab\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        },
+        {
+          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
+          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
+        }
+      ],
+      "duration_ms": 327191,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "Songs of Four Seasons",
-        "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
-      },
-      "artists": [
-        {
-          "name": "Marter",
-          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
-        }
-      ],
-      "duration_ms": 312853,
-      "name": "Mori no kotoba",
-      "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "Young Love",
         "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 294493,
       "name": "Moon Light Lover",
       "url": "https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "Songs of Four Seasons",
+        "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
+      },
+      "artists": [
+        {
+          "name": "Marter",
+          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
+        }
+      ],
+      "duration_ms": 312853,
+      "name": "Mori no kotoba",
+      "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
         "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 245746,
       "name": "\u5e0c\u671b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
-      },
-      "artists": [
-        {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "\u30d1\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "Westbound EP",
         "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 228005,
       "name": "Separate Seasons",
       "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+      },
+      "artists": [
+        {
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u00ffuni",
-        "url": "https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
-        }
-      ],
-      "duration_ms": 255448,
-      "name": "\u00ffuni",
-      "url": "https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "Lamp",
         "url": "https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u00ffuni",
+        "url": "https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 255448,
+      "name": "\u00ffuni",
+      "url": "https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "All My Love - English Ver.",
-      "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
         "url": "https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 176542,
       "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
       "url": "https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "All My Love - English Ver.",
+      "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
     },
     {
       "added_at": "2022-12-15 15:00:00",

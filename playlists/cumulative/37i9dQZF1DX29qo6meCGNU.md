@@ -4,7 +4,7 @@
 
 > Con muchas rimas y amor.
 
-319 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/2WBamNTnCDPUx0LeQlwfJ9)
+320 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/2WBamNTnCDPUx0LeQlwfJ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [TBT](https://open.spotify.com/track/4s45VgkknMFkdiGoUcjxQU) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [TBT](https://open.spotify.com/album/3RG65TH0L4E9jtJoj5JpMQ) | 3:59 | 2022-01-14 | 2022-07-27 |
 | [TE DESEO LO MEJOR](https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:19 | 2022-01-14 | 2022-07-29 |
 | [Te Extraño](https://open.spotify.com/track/2Jm6Vb7FsOuzg8NVZsNik8) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Te Extraño](https://open.spotify.com/album/1zY8Vg48fVFebEsLarexDO) | 3:49 | 2022-01-14 | 2022-07-29 |
-| [Te Fuiste](https://open.spotify.com/track/5pRO7TxCKKMG4mWcxsquab) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:46 | 2022-10-04 |  |
+| [Te Fuiste](https://open.spotify.com/track/4G1zPmoQZzXhv9k4TJDRTO) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:46 | 2022-12-02 |  |
+| [Te Fuiste](https://open.spotify.com/track/5pRO7TxCKKMG4mWcxsquab) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:46 | 2022-10-04 | 2022-12-20 |
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2022-01-14 | 2022-07-29 |
 | [Te Necesito](https://open.spotify.com/track/1qym5o53zYbVzQfi8Z64eO) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Te Necesito](https://open.spotify.com/album/2AK9BzB9vpUYJelImHLMZW) | 2:43 | 2022-03-25 | 2022-04-20 |
 | [Te Olvidaré](https://open.spotify.com/track/6DrUHF3EWygcmQ0DIF8KP4) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Te Olvidaré](https://open.spotify.com/album/4WTOdIQXRzSV6xCZbfKJna) | 3:05 | 2022-01-14 | 2022-04-20 |

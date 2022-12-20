@@ -2,9 +2,9 @@
 
 ### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
-> ¡Sube el volumen y disfruta del pop más chicloso! Thalía en portada.
+> ¡Sube el volumen y disfruta del pop más chicloso! Alex Hoyer en portada.
 
-159 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
+160 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Contigo](https://open.spotify.com/track/5Hb3UidmAF1veAx2vhQ2kr) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Contigo](https://open.spotify.com/album/6XrfQ9Sip8eC6X7yQ90PxH) | 2:47 | 2022-02-04 | 2022-07-20 |
 | [Coro de Amor](https://open.spotify.com/track/3n87suj86yX3ywoUBZUFyy) | [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Coro de Amor](https://open.spotify.com/album/41zImYlf6x5mwTsvOOPCf4) | 3:36 | 2022-02-18 | 2022-06-09 |
 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 | 2022-02-04 |  |
+| [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 | 2022-12-19 |  |
 | [Cuenta Hasta Diez](https://open.spotify.com/track/2hLPflU1zfDDnOUEkxNEQQ) | [Yaz Flores](https://open.spotify.com/artist/1lMvmt7aLyqJ54gNQSrW9i) | [Cuenta Hasta Diez](https://open.spotify.com/album/5ilpxKVdFtf4K3niLom1oN) | 2:37 | 2022-02-04 | 2022-07-20 |
 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 | 2022-02-04 |  |
 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-10-31 |  |
@@ -62,8 +63,8 @@
 | [Exclusivos](https://open.spotify.com/track/53NibtEaqljnpqjTRh3oNQ) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Elisama](https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU) | [Exclusivos](https://open.spotify.com/album/0fh4TVwLVCFHpzlt777dpy) | 3:07 | 2022-02-04 | 2022-07-26 |
 | [Feelin’ U](https://open.spotify.com/track/2CHnGGcS7pO8SnaprKdjog) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Feelin’ U](https://open.spotify.com/album/3BZtJGg47lgiFRFSAVUqlr) | 3:05 | 2022-02-04 | 2022-07-27 |
 | [Frida](https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Frida](https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK) | 2:47 | 2022-12-02 |  |
-| [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 | 2022-02-04 | 2022-12-10 |
-| [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 | 2022-02-04 |  |
+| [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 | 2022-02-04 |  |
+| [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 | 2022-02-04 | 2022-12-20 |
 | [Hola, ¿Qué Tal?](https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Hola, ¿Qué Tal?](https://open.spotify.com/album/3k9BginlCEQlACX95UdAme) | 2:48 | 2022-02-04 | 2022-02-16 |
 | [Hora y Cuarto \- Single Version](https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Alaska](https://open.spotify.com/artist/5ppm4jKbRPVMwuBO3DwnWB) | [Hora y Cuarto](https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C) | 3:53 | 2022-02-04 | 2022-08-22 |
 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 | 2022-04-22 |  |
@@ -141,7 +142,7 @@
 | [SUPERFUME](https://open.spotify.com/track/72C3TsZFmwrKXU6e4pDrRW) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [SUPERFUME](https://open.spotify.com/album/2EnEclbA3ZSBTEnWMpcFg9) | 2:51 | 2022-02-11 | 2022-07-29 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2022-03-11 |  |
 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 | 2022-02-04 |  |
-| [Tan Bonita](https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Tan Bonita](https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj) | 3:03 | 2022-02-04 |  |
+| [Tan Bonita](https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Tan Bonita](https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj) | 3:03 | 2022-02-04 | 2022-12-20 |
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2022-02-04 |  |
 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 | 2022-02-18 |  |
 | [Te Quieres Ir](https://open.spotify.com/track/5stGwgzM6HeOya3FrXrA5V) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Te Quieres Ir](https://open.spotify.com/album/4Ymj7pfgVf3U3mYVSbZ8ZO) | 3:36 | 2022-02-04 | 2022-07-19 |

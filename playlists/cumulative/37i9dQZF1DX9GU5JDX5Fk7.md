@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of the drama 'Reborn Rich'! This playlist contains 10 songs to listen to to get revenge on the person/world that gave you a hard time selected by the actors\. \(드라마 '재벌집 막내아들'의 사운드 트랙을 감상해보세요! 본 플레이리스트에는 배우진들이 선정한 '날 힘들게 한 사람/세상에게 복수하기 위해 들어야 할 노래 10 곡'이 포함되어 있습니다.\)
 
-20 songs - 1 hr 7 min - not published yet
+22 songs - 1 hr 15 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,8 @@
 | [MOTHER \(Inst.\)](https://open.spotify.com/track/7MoMd5gHbz8Ekzh7DjHATg) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Reborn Rich \(Original Soundtrack\), Pt\. 2](https://open.spotify.com/album/1kr1EKP31XoRuIYtUPPBQW) | 4:49 | 2022-11-29 |  |
 | [NWP](https://open.spotify.com/track/7lmW5PhqQWzwXh2rwpWmNf) | [Xitsuh](https://open.spotify.com/artist/4vYWMxCZYe3kua8Yp5Ne2Z) | [NWP](https://open.spotify.com/album/0DwlgRKtnK83puTQbxBRsP) | 2:55 | 2022-11-29 |  |
 | [School Record](https://open.spotify.com/track/7c7QIaIQIrdLl7vkMm3Omz) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [School Record](https://open.spotify.com/album/41rrPPixjiz6RbmCuExVh3) | 3:29 | 2022-11-29 |  |
+| [THE MIRACLE](https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp) | [Paul Kim](https://open.spotify.com/artist/0ceH3phw2nQZSJF2dilqBZ) | [Reborn Rich \(Original Soundtrack\), Pt\. 6](https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6) | 4:17 | 2022-12-19 |  |
+| [THE MIRACLE \(Inst.\)](https://open.spotify.com/track/6thJBHFhOmOKAIZgT4zaEV) | [Paul Kim](https://open.spotify.com/artist/0ceH3phw2nQZSJF2dilqBZ) | [Reborn Rich \(Original Soundtrack\), Pt\. 6](https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6) | 4:17 | 2022-12-19 |  |
 | [thirst](https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 2:37 | 2022-11-29 |  |
 | [TRUE \(Prod\. by Way Ched\)](https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [MARZ 2 AMBITION](https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356) | 2:32 | 2022-11-29 |  |
 

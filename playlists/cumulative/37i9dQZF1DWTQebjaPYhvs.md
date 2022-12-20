@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-190 songs - 11 hr 54 min - not published yet
+195 songs - 12 hr 11 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2020-06-29 |  |
 | [Last Call](https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:28 | 2022-11-21 |  |
 | [Last of My Kind](https://open.spotify.com/track/36e7JUxXMV4mO4ZJWjBuSa) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 4:22 | 2019-07-18 |  |
+| [Let It Out](https://open.spotify.com/track/42O1JZwHywFbQ0BDU1CDnu) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Let It Out](https://open.spotify.com/album/1VfNlgg6CkLSyhjpCNEK1M) | 3:11 | 2022-12-19 |  |
 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 | 2020-07-13 |  |
 | [Little Drummer Boy \- 2004 Remaster](https://open.spotify.com/track/5jsRxwEiaUZlvATkajITkU) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 4:01 | 2019-06-27 |  |
 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 | 2019-06-27 |  |
@@ -105,6 +106,8 @@
 | [Me and the Whiskey](https://open.spotify.com/track/6Bvh8a4YhNyqsafMVYlRrd) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Sonic Ranch](https://open.spotify.com/album/6FkihlChn5sSLKFAqsaqtU) | 4:32 | 2019-06-27 |  |
 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 | 2019-06-27 |  |
 | [Morning](https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Steady Now](https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY) | 4:22 | 2019-06-27 |  |
+| [Motorcycle Drive By](https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:41 | 2022-12-19 |  |
+| [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-12-19 |  |
 | [Mourning](https://open.spotify.com/track/6Jlydua9VXGjxXEr3cZVha) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:55 | 2019-06-27 |  |
 | [Mud](https://open.spotify.com/track/1cbAxnTZKd6GJwV9bTdIvl) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 4:11 | 2019-06-27 |  |
 | [Mule Skinner Blues \(Blue Yodel No\. 8\)](https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:08 | 2022-11-14 |  |
@@ -126,6 +129,7 @@
 | [Plain to See Plainsman](https://open.spotify.com/track/1tScrLohhBQSwuHRk6wkkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/5YFcEg0KaTy1Q20EYfsCR2) | 3:49 | 2021-11-08 |  |
 | [Prayers](https://open.spotify.com/track/67SZVaLGhOhCg2siYjv43l) | [Pete Sands & the Drifters](https://open.spotify.com/artist/6DnpI5V4pE8jEJaWgiWLVs) | [Prayers](https://open.spotify.com/album/5wsa4sCcEdG43zIYin1xNw) | 2:08 | 2019-08-08 |  |
 | [Questions \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/0SjMWvh37MxfcxWfRxzZ2U) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Questions \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/05Gz0lrbVWZhNWxt22RtD1) | 3:21 | 2019-08-01 |  |
+| [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 | 2022-12-19 |  |
 | [Reaper](https://open.spotify.com/track/1YGct7aOHSEZg0zZPhd3Yh) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Reaper](https://open.spotify.com/album/655ANHkNMqdVX3Ycirr52q) | 4:34 | 2019-07-25 |  |
 | [Restless Ways](https://open.spotify.com/track/46BuKMRwrsORK3LGmJBwuv) | [Gethen Jenkins](https://open.spotify.com/artist/60JnsFVGbyznmdovxTyIEh) | [Western Gold](https://open.spotify.com/album/0aOX8fuikpPyZzqHwXT4aO) | 3:42 | 2021-12-28 |  |
 | [Reunion](https://open.spotify.com/track/1SpbHheOp8hCzuG6vnRqFy) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 3:13 | 2019-06-27 |  |
@@ -149,6 +153,7 @@
 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 | 2019-06-27 |  |
 | [Straight Up Sideways](https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 2:56 | 2020-07-29 |  |
 | [Summer of Love](https://open.spotify.com/track/4vjetK09luLFKuWbtKm791) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Summer of Love](https://open.spotify.com/album/40pzF0MAsOHLhvgFAExe3M) | 3:24 | 2019-07-11 |  |
+| [Summertime Blues](https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0) | 3:01 | 2022-12-19 |  |
 | [Sunrise](https://open.spotify.com/track/4TFVF1l5nU9wbfTiFXTpi4) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 4:45 | 2019-06-27 |  |
 | [Take It Easy Mama](https://open.spotify.com/track/2aEnT8k0V5Ava4PLu72kOJ) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 3:01 | 2021-12-06 |  |
 | [Take This Heart of Gold](https://open.spotify.com/track/0Zyt3eB2Ddhert42wIa181) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 3:45 | 2019-08-01 |  |

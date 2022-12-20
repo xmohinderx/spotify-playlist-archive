@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 165746,
       "name": "200 KM/H",
       "url": "https://open.spotify.com/track/7DfBKw4PYAar1FXOFLqMFE"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2445,7 +2445,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 176573,
       "name": "Beuh \u00e0 la noix de coco",
       "url": "https://open.spotify.com/track/1YPhzacAn2po5bFgB21J2A"
@@ -2677,7 +2677,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/7edvQQI4OxF0qbqWNmoHJn"
@@ -3177,7 +3177,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 241160,
       "name": "C'est pas la mairie",
       "url": "https://open.spotify.com/track/5nBrRMKHC53PPyXykYVVPk"
@@ -3623,7 +3623,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 192320,
       "name": "Canette dans les mains",
       "url": "https://open.spotify.com/track/5Wgw0xELVgMedzUXhAxSui"
@@ -3729,7 +3729,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 185883,
       "name": "Cartier Panth\u00e8re",
       "url": "https://open.spotify.com/track/39u64b5XPIpyHn2CP1PJq4"
@@ -4205,6 +4205,24 @@
       "duration_ms": 164120,
       "name": "Coco",
       "url": "https://open.spotify.com/track/6hfkqvPACVG4l4qtY7xDgG"
+    },
+    {
+      "album": {
+        "name": "Coeur De Pirate",
+        "url": "https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180760,
+      "name": "Coeur De Pirate",
+      "url": "https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ"
     },
     {
       "album": {
@@ -7681,7 +7699,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Freed from Desire",
       "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
@@ -7951,7 +7969,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 183053,
       "name": "Gasolina (feat. Rsko)",
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
@@ -8005,7 +8023,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 184120,
       "name": "Genkidama",
       "url": "https://open.spotify.com/track/7hV7y1AX4BgZeYs9y4iyY0"
@@ -8903,7 +8921,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 175047,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/5uiQynC3Gq7tR7U41BONTF"
@@ -10697,7 +10715,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 139640,
       "name": "La Kush",
       "url": "https://open.spotify.com/track/3803TnTgCIn4rq6ZdEoPAl"
@@ -10969,7 +10987,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -11045,7 +11063,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -11135,7 +11153,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 182586,
       "name": "Le 100 le 100",
       "url": "https://open.spotify.com/track/6iFjnKoGLAuC24Doa7Z5b4"
@@ -11309,7 +11327,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 214266,
       "name": "Le Daron",
       "url": "https://open.spotify.com/track/6YHji06k5DxaQgnYh3Za9y"
@@ -11707,7 +11725,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -12773,6 +12791,24 @@
       "duration_ms": 234880,
       "name": "ma p'tite \u00e9toile",
       "url": "https://open.spotify.com/track/7iSEs4lppLZQEPOG4e6BbF"
+    },
+    {
+      "album": {
+        "name": "MaDrug",
+        "url": "https://open.spotify.com/album/7Kt5bhxpBeV0EDlJDmTlnb"
+      },
+      "artists": [
+        {
+          "name": "menace Santana",
+          "url": "https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76525,
+      "name": "MaDrug",
+      "url": "https://open.spotify.com/track/6Mxsg88vEWwurUPjVtpRyQ"
     },
     {
       "album": {
@@ -16295,7 +16331,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 159173,
       "name": "Poup\u00e9e Russe",
       "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
@@ -16871,6 +16907,24 @@
       "duration_ms": 209160,
       "name": "Rallumer le toupew",
       "url": "https://open.spotify.com/track/4MvME8pnBOj7ubcibauXCk"
+    },
+    {
+      "album": {
+        "name": "Marchand de sable",
+        "url": "https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "Ramenez la coupe \u00e0 la maison",
+      "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
     },
     {
       "album": {
@@ -18799,7 +18853,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/0uSjZhPKuYBcObeetfVlpn"

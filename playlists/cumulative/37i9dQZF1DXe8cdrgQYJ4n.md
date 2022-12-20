@@ -4,14 +4,14 @@
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-72 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/3IkwNHOGDjdzBz3oQtuZPV)
+73 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/3IkwNHOGDjdzBz3oQtuZPV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 | 2022-05-03 |  |
 | [ACE](https://open.spotify.com/track/7iei7bpocXnXKWAV6ltrpu) | [Paxy](https://open.spotify.com/artist/20aItj15h3ANHCROteCoJR) | [ACE](https://open.spotify.com/album/7xxyovGB2KPLAL0Bx9MrEU) | 2:36 | 2022-05-03 | 2022-07-29 |
 | [After work](https://open.spotify.com/track/6lNg8OT4QON2n6m2kH1UCx) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [26' seconds](https://open.spotify.com/album/2bAdcmcNWAJPK10Tw10od2) | 3:06 | 2022-05-03 | 2022-08-10 |
-| [Are you in there](https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Are you in there](https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J) | 2:38 | 2022-05-03 |  |
+| [Are you in there](https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Are you in there](https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J) | 2:38 | 2022-05-03 | 2022-12-20 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 |  |
 | [Bad Girl Good Girl](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) | 3:37 | 2022-05-03 |  |
 | [Bad Girls](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:27 | 2022-05-03 |  |
@@ -79,6 +79,7 @@
 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 | 2022-05-03 |  |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2022-05-03 |  |
 | [남자 없이 잘 살아](https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:30 | 2022-05-03 |  |
+| [우리 같은 사람들 People like us](https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [우리 같은 사람들 People like us](https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH) | 3:13 | 2022-08-18 |  |
 | [쩔어 DOPE](https://open.spotify.com/track/0pGHou9D7JTMKbMfOLKy50) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 1](https://open.spotify.com/album/6yRUOoA0Z4jgr6qcKcFAbH) | 4:00 | 2022-05-03 | 2022-07-25 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 824207,
+  "num_followers": 824516,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NzM0MCwwMDAwMDAwMDgxM2M4YmEyZDFiOGU0MGZhOTg4MmFjOWU0M2FkMDY4",
+  "snapshot_id": "MTY3MTE2NzM0MCwwMDAwMDAwMGZjZWJjMmI5NWZiYTFlYzBlODk4MWM1NDRhZDg3YmE3",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-11-10 18:56:35",
@@ -175,18 +175,38 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -223,26 +243,6 @@
       "duration_ms": 169333,
       "name": "Water Your Garden",
       "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Swim and Sleep (Like a Shark)",
-      "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Hard to Let Go",
         "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 247615,
       "name": "Hard to Let Go",
       "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Swim and Sleep (Like a Shark)",
+      "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Omnium Gatherum",
+        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 228015,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Omnium Gatherum",
-        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 364599,
-      "name": "Magenta Mountain",
-      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 270945,
-      "name": "Thin Thing",
-      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "jams EP",
         "url": "https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 63214,
       "name": "cloud castle",
       "url": "https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 270945,
+      "name": "Thin Thing",
+      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -761,20 +761,20 @@
       "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
     },
     {
-      "added_at": "2022-11-10 18:56:35",
+      "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Heaven Is A Place",
-        "url": "https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8"
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
       },
       "artists": [
         {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 289826,
-      "name": "Heaven Is A Place",
-      "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
+      "duration_ms": 90127,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 90127,
-      "name": "Unfold",
-      "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Spirit Mission",
         "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
       },
@@ -825,20 +809,36 @@
       "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2022-11-10 18:56:35",
       "album": {
-        "name": "TECHNICOLOR",
-        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+        "name": "Heaven Is A Place",
+        "url": "https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8"
       },
       "artists": [
         {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
         }
       ],
-      "duration_ms": 188143,
-      "name": "FEEL LIKE",
-      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
+      "duration_ms": 289826,
+      "name": "Heaven Is A Place",
+      "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -859,34 +859,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
       "artists": [
         {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
         }
       ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Savanne",
         "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "The Cart",
+        "url": "https://open.spotify.com/album/7gCS6N9XxSGCt9rPsIVcD4"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 291739,
+      "name": "Dreams Via Memories",
+      "url": "https://open.spotify.com/track/47rVmhBEJm7bJUYpNcCxsK"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "The Cart",
-        "url": "https://open.spotify.com/album/7gCS6N9XxSGCt9rPsIVcD4"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 291739,
-      "name": "Dreams Via Memories",
-      "url": "https://open.spotify.com/track/47rVmhBEJm7bJUYpNcCxsK"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 204708,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-11-10 18:56:35",
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
-      "added_at": "2022-12-19 00:45:17",
+      "added_at": "2022-12-20 01:22:04",
       "album": {
         "name": "Dreaming Eyes",
         "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Ultimate Painting",
-        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
-      },
-      "artists": [
-        {
-          "name": "Ultimate Painting",
-          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
-        }
-      ],
-      "duration_ms": 219129,
-      "name": "Ultimate Painting",
-      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "everything's worth it",
         "url": "https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 275925,
       "name": "everything's worth it",
       "url": "https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Ultimate Painting",
+        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Painting",
+          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
+        }
+      ],
+      "duration_ms": 219129,
+      "name": "Ultimate Painting",
+      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Sun Structures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 190558,
-      "name": "Shelter Song",
-      "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Sun Structures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 190558,
+      "name": "Shelter Song",
+      "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Being No One, Going Nowhere",
+        "url": "https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 276413,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Aquarium Drunkard's Lagniappe Sessions",
         "url": "https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 271349,
       "name": "2009",
       "url": "https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt"
-      },
-      "artists": [
-        {
-          "name": "All We Are",
-          "url": "https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT"
-        }
-      ],
-      "duration_ms": 252319,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
     }
   ],
   "unique_name": "Modern Psychedelia",

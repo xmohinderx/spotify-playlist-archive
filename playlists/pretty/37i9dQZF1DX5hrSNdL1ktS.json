@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Dani Torres en portada.",
-  "num_followers": 55200,
+  "num_followers": 55194,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NTgzMCwwMDAwMDAwMGQ1MmYyMWNkNGQ4NzkwNTQzMjZlOGYwYWI0MmZjZWM4",
+  "snapshot_id": "MTY3MTE1NTgzMCwwMDAwMDAwMGQwMzBlZGQzYjdiOTZiMjIyMDJlZjEwNzc4OGI4ZDg5",
   "tracks": [
     {
       "added_at": "2022-11-25 02:28:29",
@@ -271,26 +271,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "BORRACHA",
-        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
-      },
-      "artists": [
-        {
-          "name": "Felix Klain",
-          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 204981,
-      "name": "BORRACHA",
-      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Pa' Eso Se Hizo",
         "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 149600,
       "name": "Pa' Eso Se Hizo",
       "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "BORRACHA",
+        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
+      },
+      "artists": [
+        {
+          "name": "Felix Klain",
+          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 204981,
+      "name": "BORRACHA",
+      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -343,6 +343,22 @@
       "duration_ms": 163469,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -411,18 +427,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -463,6 +483,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Tas Clara",
         "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
       },
@@ -479,26 +515,6 @@
       "duration_ms": 230250,
       "name": "Tas Clara",
       "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -559,42 +575,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "ICE BLUE",
-        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
-      },
-      "artists": [
-        {
-          "name": "Opium G",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "GYAL",
-      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 177570,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "ICE BLUE",
+        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+      },
+      "artists": [
+        {
+          "name": "Opium G",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "GYAL",
+      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "La Duda",
-        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
-      },
-      "artists": [
-        {
-          "name": "Matt Paris",
-          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "La Duda",
-      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "SI SE DA",
         "url": "https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 212842,
       "name": "SI SE DA",
       "url": "https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "La Duda",
+        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
+      },
+      "artists": [
+        {
+          "name": "Matt Paris",
+          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
-      },
-      "artists": [
-        {
-          "name": "Siho Villalobos",
-          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "14",
-      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Shot de Tequila",
+        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 211809,
+      "name": "Shot de Tequila",
+      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Shot de Tequila",
-        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
+        "name": "14",
+        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
       },
       "artists": [
         {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
         }
       ],
-      "duration_ms": 211809,
-      "name": "Shot de Tequila",
-      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
+      "duration_ms": 196744,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
     },
     {
       "added_at": "2022-09-29 23:31:37",

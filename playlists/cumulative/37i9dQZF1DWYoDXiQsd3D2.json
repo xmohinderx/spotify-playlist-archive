@@ -708,6 +708,24 @@
     },
     {
       "album": {
+        "name": "chrysalis",
+        "url": "https://open.spotify.com/album/3w6RnwXxUjx8foAnVNZi3o"
+      },
+      "artists": [
+        {
+          "name": "Maurizio Iannuzzi",
+          "url": "https://open.spotify.com/artist/2oxl5GeawGllQCvWAqEsJ0"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207734,
+      "name": "chrysalis",
+      "url": "https://open.spotify.com/track/3nH7LIttRlC7BPHzpogXBh"
+    },
+    {
+      "album": {
         "name": "Circle 29",
         "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
       },
@@ -1078,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4C92HVF9cOpY6jnITwtV78"
+      },
+      "artists": [
+        {
+          "name": "Richome",
+          "url": "https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1kUIWgUhTLs6Re3j7adLJs"
+    },
+    {
+      "album": {
         "name": "A Possible Distance",
         "url": "https://open.spotify.com/album/3kvmIp2XtWBMJW6PtNoVJR"
       },
@@ -1147,7 +1183,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 264576,
       "name": "Ferris Wheels",
       "url": "https://open.spotify.com/track/3qdYr830oATnqSQvI5Q6Zd"
@@ -1446,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/2EKT5MW0HeQYd7TFbYf8iT"
+      },
+      "artists": [
+        {
+          "name": "Clemens Ruh",
+          "url": "https://open.spotify.com/artist/7xKi2ige2i23llWFmlBCdi"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246498,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/7uK7owTGLv7r7B7BXQX3D6"
+    },
+    {
+      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/2QjjHcxGnJbQdGvdlfIolD"
       },
@@ -1639,7 +1693,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 240000,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4efssYq66sMZusM0f9habM"
@@ -1679,7 +1733,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 166879,
       "name": "Itasca",
       "url": "https://open.spotify.com/track/1LAfLQLoApcUphZFXPN1Px"
@@ -1926,6 +1980,24 @@
     },
     {
       "album": {
+        "name": "Mirrored",
+        "url": "https://open.spotify.com/album/7k9InSFsbW5RvarCLiB20W"
+      },
+      "artists": [
+        {
+          "name": "Francesco Siano",
+          "url": "https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141190,
+      "name": "Mirrored",
+      "url": "https://open.spotify.com/track/13h0RNAH8CdNaJwtaJhJtL"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp"
       },
@@ -2053,7 +2125,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 211335,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/0nZwwXId1hXXMViqAQhIDr"
@@ -2075,6 +2147,46 @@
       "duration_ms": 400846,
       "name": "Nocturne 4 - Alva Noto Remodel",
       "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
+    },
+    {
+      "album": {
+        "name": "tres actos de un d\u00eda oscuro",
+        "url": "https://open.spotify.com/album/31QYBE7uZguttnRGhbta3w"
+      },
+      "artists": [
+        {
+          "name": "Lionel Scardino",
+          "url": "https://open.spotify.com/artist/15rfm6rSfsn4RuQQO6BumY"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192338,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4BcBRshCZ2v1bMnNwZ8ZWj"
+    },
+    {
+      "album": {
+        "name": "Open Handed",
+        "url": "https://open.spotify.com/album/0OMRDlt8V9W7kjybKUbwSi"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        },
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Open Handed",
+      "url": "https://open.spotify.com/track/7fBI4qaCF4LTisfqxyCjFX"
     },
     {
       "album": {
@@ -2271,6 +2383,24 @@
       "duration_ms": 228706,
       "name": "Post",
       "url": "https://open.spotify.com/track/41CEDPaDXQCiFSNNdYMMiA"
+    },
+    {
+      "album": {
+        "name": "Postcards for the Backyard",
+        "url": "https://open.spotify.com/album/54F44eMlla5R9STS8jn8sI"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255479,
+      "name": "Postcards for the Backyard",
+      "url": "https://open.spotify.com/track/66de1fjUiP9a34bBByBUPf"
     },
     {
       "album": {
@@ -2613,6 +2743,24 @@
       "duration_ms": 332607,
       "name": "Solanales",
       "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/5XhJLua2stZmti8zml9O4G"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5b1GHRn5A3gIzcq8QbcSEH"
     },
     {
       "album": {
@@ -3022,6 +3170,24 @@
     },
     {
       "album": {
+        "name": "Waldgeist",
+        "url": "https://open.spotify.com/album/1QGgKDW28GLKJCrEQLuxKL"
+      },
+      "artists": [
+        {
+          "name": "Autumn Glow",
+          "url": "https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280013,
+      "name": "Waldgeist",
+      "url": "https://open.spotify.com/track/2tQKDTxmrwz1HjKCvehNer"
+    },
+    {
+      "album": {
         "name": "Bylur",
         "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
@@ -3145,7 +3311,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 229819,
       "name": "What If She Was Murdered?",
       "url": "https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t"
@@ -3207,7 +3373,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 214153,
       "name": "Wind",
       "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"

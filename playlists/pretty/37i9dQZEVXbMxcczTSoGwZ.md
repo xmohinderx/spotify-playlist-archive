@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Finland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,840 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,866 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 | 49 | [Duunari](https://open.spotify.com/track/6MNt0ciQX3Vi4UQhGzRYgz) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 2:36 |
 | 50 | [Sydämeeni joulun teen](https://open.spotify.com/track/2Kouu3rnDZ5ZVqWtPEAsGo) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Sydämeeni joulun teen](https://open.spotify.com/album/22VOa9w3witxpYb1NqOY0b) | 3:18 |
 
-Snapshot ID: `NzI0Njc2NjIyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzI0NzYyMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

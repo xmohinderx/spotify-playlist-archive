@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-236 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
+237 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Me Matas](https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:16 | 2022-07-01 |  |
 | [Me Matas](https://open.spotify.com/track/6GrPaW2OIHuweYcVRoYbmv) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [2008 Año De Exitos Reggaeton Urbano](https://open.spotify.com/album/3nKlGI2dSDoF1ON5zC4g6u) | 3:16 | 2021-12-09 | 2022-07-29 |
 | [Me Pones en Tensión](https://open.spotify.com/track/5WVZfMIrS6hbvwG8hpRHCR) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Biografía](https://open.spotify.com/album/3wLLsfcFRMs0FkvI0LU3jE) | 3:54 | 2022-09-15 |  |
-| [Me Quiere Besar](https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Los Reyes del Perreo](https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF) | 2:35 | 2022-04-05 |  |
+| [Me Quiere Besar](https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Los Reyes del Perreo](https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF) | 2:35 | 2022-04-05 | 2022-12-20 |
 | [Medley](https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:11 | 2022-01-24 | 2022-04-21 |
 | [Mi Cama Huele a Ti](https://open.spotify.com/track/6YLJCOynR32U4YXtsvzTdC) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [El Patrón](https://open.spotify.com/album/2Tk5xePb7dAG5wnyQgXAP0) | 3:45 | 2021-12-09 | 2022-07-29 |
 | [Mi Cama Huele a Ti \(feat\. Zion & Lennox\)](https://open.spotify.com/track/1nAk42YH4kmPxaoFcLgiSe) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 3:45 | 2022-07-01 |  |
@@ -217,6 +217,7 @@
 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/1NrKLroOjLcSXtlq8twPrc) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [e5](https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp) | 4:14 | 2021-12-09 | 2022-07-29 |
 | [Te Iré a Buscar](https://open.spotify.com/track/4UPeS038Mxup1H4bl0PsS8) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/5juo8FAhKpHZrXkKnKe5BQ) | 3:03 | 2021-12-09 | 2022-07-24 |
 | [Te Iré a Buscar](https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:03 | 2022-10-25 | 2022-11-13 |
+| [Te Quiero](https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:18 | 2022-12-07 |  |
 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2021-12-09 | 2022-12-02 |
 | [Te Suelto el Pelo](https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 2:16 | 2022-04-05 | 2022-12-06 |
 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 | 2021-12-09 |  |

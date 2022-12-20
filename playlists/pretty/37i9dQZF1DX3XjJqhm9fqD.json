@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 73096,
+  "num_followers": 73106,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDdiMzgxODhhNDE2ZTAzZmYyNjI2MDkzYWQ5ZGQ5ZjYz",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGEwOTc5MzczNzE2MGZmNThjN2JlMjhmNTQ1NmEyYzg1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/75SjI27z4XQRUgrhQwzxvk"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 126583,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/5G6Tcd8ANHBnR7SKku8IpN"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "She's Hot",
         "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Sauce",
-        "url": "https://open.spotify.com/album/75SjI27z4XQRUgrhQwzxvk"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 126583,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/5G6Tcd8ANHBnR7SKku8IpN"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Pray For Haiti",
         "url": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO"
       },
@@ -327,6 +327,34 @@
       "duration_ms": 194652,
       "name": "The Stellar Ray Theory",
       "url": "https://open.spotify.com/track/51Rs7xpi3HxrqvN1bI0i5w"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Ari PenSmith",
+          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
+        },
+        {
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "Vex Oh (feat. Eight9FLY)",
+      "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -383,6 +411,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Law of Automata: Valid",
         "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
@@ -415,50 +459,6 @@
       "duration_ms": 252373,
       "name": "Bom sou 2 bo",
       "url": "https://open.spotify.com/track/3PrwZ3JStN6BrFQ622bXVE"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        },
-        {
-          "name": "Ari PenSmith",
-          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
-        },
-        {
-          "name": "Eight9FLY",
-          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "Vex Oh (feat. Eight9FLY)",
-      "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -519,22 +519,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Kamasootra",
-        "url": "https://open.spotify.com/album/0qoteeyubqg1lbATQGAHIF"
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
       },
       "artists": [
         {
-          "name": "Enposib",
-          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         },
         {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 269973,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/3N6KZVWA42mAHX5qFgYfAT"
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -571,6 +571,26 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Kamasootra",
+        "url": "https://open.spotify.com/album/0qoteeyubqg1lbATQGAHIF"
+      },
+      "artists": [
+        {
+          "name": "Enposib",
+          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/3N6KZVWA42mAHX5qFgYfAT"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -615,26 +635,6 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "African Sun (Remix)",
-        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        },
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "African Sun - Remix",
-      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Baby Who",
-        "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Baby Who",
-      "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Ayyy",
         "url": "https://open.spotify.com/album/0ZiHsWkTYNhkuBJ5VWLt2T"
       },
@@ -1139,22 +1119,6 @@
       "duration_ms": 166301,
       "name": "Ayyy",
       "url": "https://open.spotify.com/track/4VYw7E6sI15Y5wvGN36Cx5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1191,6 +1155,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "On va pas baisser les bras",
+        "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
+      },
+      "artists": [
+        {
+          "name": "Paska",
+          "url": "https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6"
+        },
+        {
+          "name": "Romeomania",
+          "url": "https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "On va pas baisser les bras",
+      "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Ogou (Pran Ka Mwen)",
         "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
       },
@@ -1211,22 +1195,38 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "On va pas baisser les bras",
-        "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
+        "name": "Baby Who",
+        "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
       },
       "artists": [
         {
-          "name": "Paska",
-          "url": "https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6"
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Romeomania",
-          "url": "https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         }
       ],
-      "duration_ms": 195692,
-      "name": "On va pas baisser les bras",
-      "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+      "duration_ms": 187658,
+      "name": "Baby Who",
+      "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Trap King",
-        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Fanm Ch\u00e8",
-      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Ba L on Bye (Remix)",
         "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 291120,
       "name": "A.k.i.ko.",
       "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Trap King",
+        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Fanm Ch\u00e8",
+      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1399,26 +1399,6 @@
       "duration_ms": 235389,
       "name": "Siw Ta Wem Grog",
       "url": "https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Touche'm",
-        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Touche'm",
-      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1491,22 +1471,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "L'aventure Continue",
         "url": "https://open.spotify.com/album/1qNDvBo6mFaZ6bXVPj09UL"
       },
@@ -1523,6 +1487,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "REFLEXION",
         "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 220200,
       "name": "Comme Papa",
       "url": "https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Touche'm",
+        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Touche'm",
+      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "REFLEXION",
-        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Hallyday",
-      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 148000,
       "name": "Sote",
       "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "REFLEXION",
+        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Hallyday",
+      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1711,6 +1711,22 @@
       "duration_ms": 201040,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+        }
+      ],
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1739,22 +1755,6 @@
       "duration_ms": 159832,
       "name": "Ocho",
       "url": "https://open.spotify.com/track/63kbEZBD0zATYin8BWju3c"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "REFLEXION",
         "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
       },
@@ -1815,34 +1831,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
       "artists": [
         {
-          "name": "Jamhaitian",
-          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
         }
       ],
-      "duration_ms": 192897,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
-      },
-      "artists": [
-        {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
       },
       "artists": [
         {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+          "name": "Jamhaitian",
+          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+      "duration_ms": 192897,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
     },
     {
       "added_at": "2022-11-18 05:00:00",

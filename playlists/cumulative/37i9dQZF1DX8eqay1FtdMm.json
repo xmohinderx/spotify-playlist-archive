@@ -228,6 +228,28 @@
     },
     {
       "album": {
+        "name": "track by YOON: After the uphill road",
+        "url": "https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        },
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256640,
+      "name": "After the uphill road",
+      "url": "https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O"
+    },
+    {
+      "album": {
         "name": "Hotel Del Luna OST Part.3",
         "url": "https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR"
       },
@@ -3707,7 +3729,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 229386,
       "name": "My Favorite Winter",
       "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
@@ -4697,7 +4719,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 270253,
       "name": "SOMETHING LIKE THAT (2022)",
       "url": "https://open.spotify.com/track/4it25gP6QbbMBMNEeRXffp"
@@ -5685,7 +5707,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
@@ -6300,6 +6322,28 @@
     },
     {
       "album": {
+        "name": "\ub098\uc758 \uaca8\uc6b8",
+        "url": "https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y"
+      },
+      "artists": [
+        {
+          "name": "Ray Hill",
+          "url": "https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw"
+        },
+        {
+          "name": "Young Jun",
+          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239142,
+      "name": "\uaca8\uc6b8\uae38 (feat. \uc601\uc900)",
+      "url": "https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9"
+    },
+    {
+      "album": {
         "name": "Memories...\uc18d\uc73c\ub85c Pt. 2",
         "url": "https://open.spotify.com/album/1J6tiKqadxv8f6zdO2l913"
       },
@@ -6697,7 +6741,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 251682,
       "name": "\ud30c\ub780 \ubd04",
       "url": "https://open.spotify.com/track/0KpXBGMi5TPHu8cJGWvNBb"

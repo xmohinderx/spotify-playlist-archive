@@ -4040,6 +4040,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188471,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3"
+    },
+    {
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/7Kv83I86uVpTltSvTGQP4v"
       },
@@ -4757,24 +4775,6 @@
       "duration_ms": 162517,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB"
-    },
-    {
-      "album": {
-        "name": "Vaggande Vind",
-        "url": "https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb"
-      },
-      "artists": [
-        {
-          "name": "Simon Fj\u00e4llstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3CJbucb006eqlEOYh1eUXX"
-        }
-      ],
-      "date_added": "2022-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134095,
-      "name": "Vaggande Vind",
-      "url": "https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3"
     },
     {
       "album": {

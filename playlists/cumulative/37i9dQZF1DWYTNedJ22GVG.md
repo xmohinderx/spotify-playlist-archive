@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-167 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+168 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Do You Hear What I Hear?](https://open.spotify.com/track/2QEJNfOrRjC4O1msrVXJo4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Best Of Pentatonix Christmas](https://open.spotify.com/album/1ohdh4vzVUXhtaE04cHvle) | 3:33 | 2021-12-07 |  |
 | [Drummer Boy](https://open.spotify.com/track/6MIHLfz5xxPCUfjgxxCJFw) | [Gavin Magnus](https://open.spotify.com/artist/2R111dG82I23SltNvwEdeQ), [Coco Quinn](https://open.spotify.com/artist/3fzdEku6pdUjNuDpgUrEpG), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Drummer Boy](https://open.spotify.com/album/3TtIuHGSehm0iiwT90byrN) | 3:44 | 2021-12-07 |  |
 | [Feliz Navidad](https://open.spotify.com/track/7DNB4gBzWIe8Pwml3hGHbH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:21 | 2021-12-07 |  |
+| [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [The Simpsons](https://open.spotify.com/artist/7r0Otd9dEStSVIxJ02ml5a) | [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY) | 2:02 | 2022-12-19 |  |
 | [From All of Us to All of You \(Vocal\)](https://open.spotify.com/track/2BioJ9vMH7Q2zlHwhRxYv8) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Jiminy Cricket](https://open.spotify.com/artist/0L8jjZr2Ag97q3aA4oOWfV) | [Disney Karaoke Series: Christmas Favorites](https://open.spotify.com/album/7MSbUvIDohwn3rvOmpQ3dm) | 1:16 | 2021-12-07 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/5HtbV8EtYpz5VLEhbKuHSO) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 2:09 | 2021-12-07 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/5gH7DnufZr1PylgkCqB9uH) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney Family Christmas Collection](https://open.spotify.com/album/3ZGHfGyCCFsDSx4zOIFYIX) | 2:09 | 2021-12-07 | 2022-07-29 |

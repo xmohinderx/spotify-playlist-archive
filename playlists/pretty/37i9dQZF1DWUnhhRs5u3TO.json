@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
-  "num_followers": 332001,
+  "num_followers": 332219,
   "original_name": "10s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTIzMywwMDAwMDAwMDY3NzFlZTM5YzE3ZDE5ZjI2Y2NlMDRjNzRhZTI4MTY3",
+  "snapshot_id": "MTY2OTM4NTIzMywwMDAwMDAwMDU0ZDdjZDgzZTMxZjVmMTA5NTYwYTE3NTQzZTkxMTIy",
   "tracks": [
     {
       "added_at": "2022-11-17 08:35:12",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Repentless",
         "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 115413,
       "name": "Delusions of Saviour",
       "url": "https://open.spotify.com/track/06WUUNf7q18NZfjIsQFsfa"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 179160,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
-        "name": "Beyond Hell / Above Heaven",
-        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "A Warrior's Call",
-      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+        "name": "Beyond Hell / Above Heaven",
+        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+      "duration_ms": 263080,
+      "name": "A Warrior's Call",
+      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -363,6 +363,22 @@
       "duration_ms": 206546,
       "name": "To Hell and Back",
       "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 243320,
+      "name": "Shadow Moses",
+      "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -415,18 +431,18 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 243320,
-      "name": "Shadow Moses",
-      "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
+      "duration_ms": 277397,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -447,22 +463,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 277397,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -475,38 +475,6 @@
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
-        "name": "The Last Stand",
-        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 235840,
-      "name": "The Last Stand",
-      "url": "https://open.spotify.com/track/0bUgTRe5st6TMbRCEjKezX"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -527,6 +495,22 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 235840,
+      "name": "The Last Stand",
+      "url": "https://open.spotify.com/track/0bUgTRe5st6TMbRCEjKezX"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
         "name": "Lifelines",
         "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 245533,
       "name": "Whore",
       "url": "https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
-        "name": "Bismarck",
-        "url": "https://open.spotify.com/album/3RIq2tHWbtfYMZmd6tPTwY"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 313984,
-      "name": "Bismarck",
-      "url": "https://open.spotify.com/track/39m87lOMd5ccENPVvAT7gH"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -603,6 +587,22 @@
       "duration_ms": 713191,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Bismarck",
+        "url": "https://open.spotify.com/album/3RIq2tHWbtfYMZmd6tPTwY"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 313984,
+      "name": "Bismarck",
+      "url": "https://open.spotify.com/track/39m87lOMd5ccENPVvAT7gH"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -815,38 +815,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 304596,
-      "name": "Blind and Frozen",
-      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
-        "name": "Blessed & Possessed",
-        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Army of the Night",
-      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Infestissumam (Deluxe Version)",
         "url": "https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr"
       },
@@ -863,18 +831,18 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
       },
       "artists": [
         {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
         }
       ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+      "duration_ms": 304596,
+      "name": "Blind and Frozen",
+      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -895,6 +863,22 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 237065,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Blessed & Possessed",
+        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 201386,
+      "name": "Army of the Night",
+      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "The Black Crown",
         "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 192560,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "The Rise of Chaos",
-        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 299720,
-      "name": "Koolaid",
-      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 532266,
       "name": "God Is Dead?",
       "url": "https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "The Rise of Chaos",
+        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 299720,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Restoring Force",
         "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 255693,
       "name": "Bones Exposed",
       "url": "https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 295213,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Gods of Violence",
         "url": "https://open.spotify.com/album/6Q0KiThTf1dwHWWsqXjngL"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "War Eternal",
-        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 277320,
-      "name": "You Will Know My Name",
-      "url": "https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Understanding What We've Grown to Be (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 250226,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0IjqvPyctsYf3ASQPHWBvB"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 277320,
+      "name": "You Will Know My Name",
+      "url": "https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI"
     },
     {
       "added_at": "2022-11-17 08:35:12",

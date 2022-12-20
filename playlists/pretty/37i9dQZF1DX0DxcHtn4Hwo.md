@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,009 likes - 327 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,391 likes - 327 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 22 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 |
 | 23 | [Sömniga Ögon](https://open.spotify.com/track/6D8blsYLr2kmTvZIJsAzRv) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Sömniga Ögon](https://open.spotify.com/album/2nKa6ufE9qHY9f2A1dQpMz) | 2:10 |
 | 24 | [Cradle of Comfort](https://open.spotify.com/track/60BrRLaI447qMQoqbZYGLj) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Cradle of Comfort](https://open.spotify.com/album/6LzqKaWjFQPcsD7t3xqTwf) | 1:46 |
-| 25 | [Signs](https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Signs](https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H) | 2:14 |
+| 25 | [Lykke](https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR) | [Erna Kristiansen](https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp) | [Lykke](https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H) | 1:50 |
 | 26 | [Like A Cuddly Koala](https://open.spotify.com/track/2pu3FDtVe5R03xt6v8sdQY) | [Sherry Grayson](https://open.spotify.com/artist/7bx1kBLW47pR2XvBd4T7wT) | [Like A Cuddly Koala](https://open.spotify.com/album/2msMQl2f7f8Qz1s4XmCMyU) | 1:45 |
 | 27 | [Heavenly](https://open.spotify.com/track/2WEY4VI0zgLGsQLQWdNRC4) | [Esmund Gunvaldsen](https://open.spotify.com/artist/763dhn5rNBi22HIzsoDFqJ) | [Heavenly](https://open.spotify.com/album/4yJMReOnZTmJq6LbohnaMy) | 1:01 |
 | 28 | [Rock A Bye Baby](https://open.spotify.com/track/2sR0CEF0OCF4JfyTOF3okw) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:54 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 31 | [Song for Teddy](https://open.spotify.com/track/0z4GaZaZcXdm6bFhAcSLrh) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Song for Teddy](https://open.spotify.com/album/2NOyL3zlkGmaj7Cogw5a5e) | 1:32 |
 | 32 | [Bill the Fox](https://open.spotify.com/track/7h78CM43KEjbHXU8uHXCjP) | [Wilford Ware](https://open.spotify.com/artist/5fWCtKlxGJegVWtTpHOgWv) | [Bill the Fox](https://open.spotify.com/album/0dbrJwbAwDpWyN9swRr51P) | 1:22 |
 | 33 | [Head Shoulders Knees And Toes](https://open.spotify.com/track/31V9WShUNiw0m0o0yTe9s3) | [Carter Patterson](https://open.spotify.com/artist/0Q1CgGcVi6SOYB2J16Wp22) | [Head Shoulders Knees And Toes](https://open.spotify.com/album/0tghhD3fSxuZwtplbZoMKg) | 1:51 |
-| 34 | [Lust](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Lust](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:09 |
+| 34 | [Grandma's Joy](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Grandma's Joy](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:00 |
 | 35 | [No Monsters Here](https://open.spotify.com/track/32H9k365lmxbzQekfaD9Ik) | [Florian Faerber](https://open.spotify.com/artist/0WajMfwxqxEpvc8X2cK1P2) | [No Monsters Here](https://open.spotify.com/album/3cE0uAci6D1uTs7pKs7dnJ) | 1:30 |
 | 36 | [Soothing Lullaby](https://open.spotify.com/track/7Da5CqtHViUodLZ1vpwOsO) | [Sylvan Potter](https://open.spotify.com/artist/518Vo5g5C5V56nXlJuKq8z) | [Soothing Lullaby](https://open.spotify.com/album/7baqjbPK6NkpA0t3RZIxtD) | 2:01 |
 | 37 | [Lullaby Of Autumn](https://open.spotify.com/track/5VJxYA47q2UrtkqUcW3Dwg) | [Monroe Hershey](https://open.spotify.com/artist/3DKrRxq6WNjqIxwENVSepm) | [Lullaby Of Autumn](https://open.spotify.com/album/1kE4v6KJ5CmfmMQSlrfukA) | 1:20 |

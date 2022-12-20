@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 29938,
+  "num_followers": 29967,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDQ1MjYyNGJmNmU1MjQ3MjkyNTkxZDg5ZjVkN2ViNzYw",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDg3YTc3MGZhNjYyYmQ5MDY0MmI5MDAwNjlkYTkwYjAx",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -127,22 +127,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man Comes Around",
-      "url": "https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 211600,
       "name": "Trust in You",
       "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man Comes Around",
+      "url": "https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -423,6 +423,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 232266,
       "name": "Who I Am Hates Who I've Been",
       "url": "https://open.spotify.com/track/36EXQbkUL5PpT0zS9Tr7UT"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Chrysaline",
-        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Yes I Will (Studio Version)",
         "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 216973,
       "name": "Yes I Will (Studio Version)",
       "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
     },
     {
       "added_at": "2019-11-20 07:28:20",

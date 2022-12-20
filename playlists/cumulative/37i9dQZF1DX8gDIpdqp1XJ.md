@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-650 songs - 1 day 19 hr 21 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+651 songs - 1 day 19 hr 25 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 | 2022-03-08 | 2022-07-28 |
 | [Echo Park](https://open.spotify.com/track/3vEIzJE4xGmfmufxa5QVGr) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [Echo Park](https://open.spotify.com/album/1NiFRjtKzHtLTX2yOGZ5Xm) | 3:15 | 2021-04-02 | 2022-04-20 |
 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-04-02 | 2022-04-21 |
-| [Eden](https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK) | [All We Are](https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT) | [Eden](https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt) | 4:12 | 2021-11-19 |  |
+| [Eden](https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK) | [All We Are](https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT) | [Eden](https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt) | 4:12 | 2021-11-19 | 2022-12-20 |
 | [Edge of the Edge](https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Edge of the Edge](https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc) | 4:48 | 2022-08-05 | 2022-11-13 |
 | [El Combo Tumaca](https://open.spotify.com/track/2Vyh56bVPNrwTp8xNX9GXz) | [Tumaca](https://open.spotify.com/artist/4noRhJshYWUu5XiCSA6CE2) | [El Combo Tumaca](https://open.spotify.com/album/3tXQbn7fkUk6MlRjxMF2NM) | 3:20 | 2021-04-02 | 2022-04-14 |
 | [El Jardín](https://open.spotify.com/track/2LDVPqfw0j8tKPCL6OrOBb) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [El Jardín](https://open.spotify.com/album/2nHoJMblIc1Fj0WWD3EODu) | 3:45 | 2022-06-17 | 2022-06-21 |
@@ -357,6 +357,7 @@
 | [Magma](https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3) | [Scrimmage](https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6) | [Magma](https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z) | 2:18 | 2022-11-10 |  |
 | [MAMA](https://open.spotify.com/track/1aux5x0f4A3D7yFTtMXoAy) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [MAMA](https://open.spotify.com/album/1Qa8QAD33hHiC9WzDTZD8W) | 4:05 | 2021-06-11 | 2022-04-21 |
 | [Maps](https://open.spotify.com/track/0zWyIZOIBPtSEpAIfNiCb8) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/2Atz9f2tBNGwjQEuOsYayk) | 4:36 | 2022-07-11 | 2022-07-29 |
+| [Maps](https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z) | 4:36 | 2022-10-24 |  |
 | [Maps](https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf) | 4:36 | 2022-07-22 | 2022-11-25 |
 | [Mar\-a\-Lago](https://open.spotify.com/track/3Mkc5tVbRftSpbUN3boxXK) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [Mar\-a\-Lago](https://open.spotify.com/album/4ETH88rYWRas6kschPMK6b) | 3:00 | 2021-04-02 | 2022-04-18 |
 | [Maria](https://open.spotify.com/track/5aCqO0CClSoJRchdzgAd2U) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Foam](https://open.spotify.com/album/3QsNakJqvIGLEjDeInXKk0) | 2:56 | 2021-04-02 | 2022-04-21 |

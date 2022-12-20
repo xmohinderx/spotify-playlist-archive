@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 71711,
+  "num_followers": 72171,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDAxMCwwMDAwMDAwMDZjZGFiZGU3NTVjZTc2NmYzZjRhZjlkZDI2MzFkNWY4",
+  "snapshot_id": "MTY3MTIxMDAxMCwwMDAwMDAwMGJlN2IzYmI5ZWUyOWQ5MjdhZmRkZDJmMjU3NzYxZDJk",
   "tracks": [
     {
       "added_at": "2022-12-16 17:00:10",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
         "name": "Injection (Original Mix)",
         "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
@@ -743,22 +727,18 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
       },
       "artists": [
         {
-          "name": "Nusha",
-          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
-        },
-        {
-          "name": "Belocca",
-          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 390447,
-      "name": "Addiction - Original Mix",
-      "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -775,6 +755,26 @@
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
+      },
+      "artists": [
+        {
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
+        },
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Addiction - Original Mix",
+      "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
-      },
-      "artists": [
-        {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
-        }
-      ],
-      "duration_ms": 382045,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
         "name": "Let's Be Free",
         "url": "https://open.spotify.com/album/2RQ7Tg8QJ46zF4jkiF1dAE"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 362666,
       "name": "Let's Be Free",
       "url": "https://open.spotify.com/track/2zbHr6Xp7gc9LUKeDWB7pB"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 382045,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
     },
     {
       "added_at": "2022-12-16 17:00:10",

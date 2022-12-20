@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 139011,
+  "num_followers": 139120,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ1NjM5MSwwMDAwMDAwMGYzMzE2YTMxNmNlNTNkMzM5MTIwMDU5OWJiOTQzYjdl",
+  "snapshot_id": "MTY2NTQ1NjM5MSwwMDAwMDAwMGI0NzNiMDAwZTgxOTA4NmE0MmVjNTZjMjRlYTEwZjhm",
   "tracks": [
     {
       "added_at": "2022-10-11 02:46:31",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 183760,
       "name": "It's Tricky",
       "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
         "name": "Hear My Cry",
         "url": "https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 272147,
       "name": "Ride on Time",
       "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 287293,
+      "name": "Everybody (Backstreet's Back) - Extended Version",
+      "url": "https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 287293,
-      "name": "Everybody (Backstreet's Back) - Extended Version",
-      "url": "https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/12VFylHDX01Xw4joC9wH6Z"
-      },
-      "artists": [
-        {
-          "name": "Blue Boy",
-          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
-        }
-      ],
-      "duration_ms": 424306,
-      "name": "Remember Me - Original Mix",
-      "url": "https://open.spotify.com/track/0nhu2tp9FXwTu8kUDvS0xO"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
         "name": "The Rhythm of the Night",
         "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "The Greatest Hits: Why Try Harder",
-        "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/12VFylHDX01Xw4joC9wH6Z"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Praise You - Radio Edit",
-      "url": "https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ"
+      "duration_ms": 424306,
+      "name": "Remember Me - Original Mix",
+      "url": "https://open.spotify.com/track/0nhu2tp9FXwTu8kUDvS0xO"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -1199,6 +1183,22 @@
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
+        "name": "The Greatest Hits: Why Try Harder",
+        "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Praise You - Radio Edit",
+      "url": "https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ"
     },
     {
       "added_at": "2022-10-11 02:46:31",

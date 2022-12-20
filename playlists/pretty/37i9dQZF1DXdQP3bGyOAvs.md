@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,070 likes - 194 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,102 likes - 194 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 42 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
 | 43 | [Frivolous](https://open.spotify.com/track/1fVj0isyvpOfiLYonUNnte) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Frivolous](https://open.spotify.com/album/0aRy2vynizabbfMoWyIHLC) | 3:18 |
 | 44 | [Lush Nights](https://open.spotify.com/track/7FMafxQjkfXCWsxofUr014) | [Whisper & Hush](https://open.spotify.com/artist/21wk6rgAlXcZHvTwAGv6pw) | [Lush Nights](https://open.spotify.com/album/0AKhMrJ6IgRVQ25BdtjxHR) | 2:28 |
-| 45 | [Stay with me](https://open.spotify.com/track/67guXHhZmdmC1GB7GxCQ3Y) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/4STEWF6LQZw4Y69ExDYfyQ) | 2:54 |
+| 45 | [Far Off](https://open.spotify.com/track/67guXHhZmdmC1GB7GxCQ3Y) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Far Off](https://open.spotify.com/album/4STEWF6LQZw4Y69ExDYfyQ) | 2:48 |
 | 46 | [Leap Into The Air](https://open.spotify.com/track/1BlcH5OAy7871JAE5SXtUP) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Leap Into The Air](https://open.spotify.com/album/35wg9T0JJK0wuwQjFGJ6mC) | 2:51 |
 | 47 | [Lounge Joint](https://open.spotify.com/track/3SkVZHNHUVDzelIarOrgDe) | [Minor Keyz](https://open.spotify.com/artist/3vmtpFNZmk6ZfJd2sGDJDp) | [The Weekend](https://open.spotify.com/album/1LLNpIVJt4wHbxaoKwUyeE) | 1:21 |
 | 48 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 |

@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5513,
+  "num_followers": 5516,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NjQyNiwxOTQxOWY0NDhkZTZlZmZhMjEyZTIwMjRjMjA4YjdkMmMxYTY1M2Yy",
+  "snapshot_id": "NjQyNyw3OWQ2ZGM2OWNlNjJjNWNlNzMzYzVhNTY4NmRlOTAyODRmZGFkNjM2",
   "tracks": [
     {
       "added_at": "2022-12-16 15:08:32",
@@ -363,6 +363,30 @@
       "duration_ms": 188322,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V"
+    },
+    {
+      "added_at": "2022-12-19 22:20:40",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t"
     }
   ],
   "unique_name": "House Shift",

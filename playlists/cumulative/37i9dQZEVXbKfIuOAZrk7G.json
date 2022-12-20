@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 126688,
       "name": "Affirmation Song",
       "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
@@ -4629,7 +4629,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 164041,
       "name": "Down In Atlanta",
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
@@ -6373,10 +6373,28 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 164186,
       "name": "Generation",
       "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
+    },
+    {
+      "album": {
+        "name": "Paper Route Frank",
+        "url": "https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/6Cd2mbhIjKqsDug0OKioM4"
     },
     {
       "album": {
@@ -7271,7 +7289,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
@@ -7985,7 +8003,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 257333,
       "name": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
       "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
@@ -11747,7 +11765,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 220096,
       "name": "Musta Been a Ghost",
       "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
@@ -14015,7 +14033,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 98440,
       "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
       "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
@@ -14445,7 +14463,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
@@ -15011,7 +15029,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 179801,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp"
@@ -15033,7 +15051,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 179801,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/1BrIZsDXewY03c9BUY4Rn9"
@@ -15091,7 +15109,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 165428,
       "name": "She's A 10 But...",
       "url": "https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD"
@@ -16509,7 +16527,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 105194,
       "name": "Sweet Yamz",
       "url": "https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI"

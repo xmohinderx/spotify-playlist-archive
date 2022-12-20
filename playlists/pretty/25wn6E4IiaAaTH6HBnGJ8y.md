@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,191 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,189 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

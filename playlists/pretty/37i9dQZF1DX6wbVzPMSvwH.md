@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Sarapan sesuap semangat bersama lagu\-lagu dari Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,853 likes - 71 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,856 likes - 71 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

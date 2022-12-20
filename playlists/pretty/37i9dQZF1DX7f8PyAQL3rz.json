@@ -1,15 +1,15 @@
 {
   "description": "d\u00e1 1 beat pro hari que ele mete 1 letra monstra",
-  "num_followers": 1022390,
+  "num_followers": 1023210,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NDU3NSwwMDAwMDAwMDNlZDA5ZjViOWNlYTBlZGRhZGRhMDBhNjM3ZjdkMzQ3",
+  "snapshot_id": "MTY3MTE5NDU3NSwwMDAwMDAwMDJhMjNiZTEzZGY5MGJjMTlkNWI0Zjg4ZmRjYWFlODcw",
   "tracks": [
     {
-      "added_at": "2022-12-19 00:58:26",
+      "added_at": "2022-12-20 00:55:55",
       "album": {
         "name": "1 Beat 1 Letra",
         "url": "https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS"
@@ -495,6 +495,26 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 208941,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
-        "name": "Felina",
-        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
     },
     {
       "added_at": "2022-12-09 03:03:00",
@@ -727,50 +727,6 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 169092,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
-        "name": "Me Sinto Aben\u00e7oado",
-        "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 214235,
-      "name": "Me Sinto Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
         "name": "Namora A\u00ed",
         "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
       },
@@ -795,6 +751,22 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 169092,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -815,6 +787,26 @@
       "duration_ms": 150697,
       "name": "Konteiner",
       "url": "https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
+        "name": "Modo Repeat",
+        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "M\u00f3 Viagem",
+      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
     },
     {
       "added_at": "2022-12-09 03:03:00",
@@ -867,22 +859,62 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
-        "name": "Modo Repeat",
-        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
+        "name": "Me Sinto Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
       },
       "artists": [
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 197647,
-      "name": "M\u00f3 Viagem",
-      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
+      "duration_ms": 214235,
+      "name": "Me Sinto Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
+        "name": "Louis V, Menina Linda",
+        "url": "https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 215004,
+      "name": "Louis V, Menina Linda",
+      "url": "https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
+        "name": "Vida Toda - Spotify Singles",
+        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 153245,
+      "name": "Vida Toda - Spotify Singles",
+      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
     },
     {
       "added_at": "2022-12-09 03:03:00",
@@ -907,18 +939,26 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
-        "name": "Louis V, Menina Linda",
-        "url": "https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP"
+        "name": "Puto de Luxo",
+        "url": "https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5"
       },
       "artists": [
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 215004,
-      "name": "Louis V, Menina Linda",
-      "url": "https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ"
+      "duration_ms": 144186,
+      "name": "Puto de Luxo",
+      "url": "https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc"
     },
     {
       "added_at": "2022-12-09 03:03:00",
@@ -991,46 +1031,6 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
-        "name": "Vida Toda - Spotify Singles",
-        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Vida Toda - Spotify Singles",
-      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
-        "name": "Puto de Luxo",
-        "url": "https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Puto de Luxo",
-      "url": "https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
         "name": "Revela\u00e7\u00e3o do Ano",
         "url": "https://open.spotify.com/album/69pD9wpbdbNMmcX2x4zgQR"
       },
@@ -1071,34 +1071,6 @@
       "duration_ms": 180000,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Ai Calica",
-      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
     },
     {
       "added_at": "2022-12-09 03:03:00",
@@ -1207,6 +1179,34 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Ai Calica",
+      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
         "name": "Passar de Foguet\u00e3o 3 (feat. Mc Davi)",
         "url": "https://open.spotify.com/album/5YILYtAuEGm7pGHlWyvsJn"
       },
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
         "name": "Pelo Momento",
         "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 313469,
       "name": "Swing de Morro",
       "url": "https://open.spotify.com/track/0Bl8lSsNsJ6fx2cAqJ0vVC"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2022-12-09 03:03:00",

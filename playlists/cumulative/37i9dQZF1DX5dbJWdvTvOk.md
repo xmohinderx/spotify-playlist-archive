@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-176 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+176 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,6 @@
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-19 |  |
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
 | [Mare](https://open.spotify.com/track/3GVWH7adVHhwep2kAtDdc4) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 2:28 | 2022-07-15 |  |
-| [Matter](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Matter](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 2:19 | 2022-12-16 |  |
 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 | 2022-07-15 |  |
 | [Milano](https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Milano](https://open.spotify.com/album/4da1Z9ZRNMf4SIiYegd94g) | 1:52 | 2022-07-15 |  |
 | [Montesinho](https://open.spotify.com/track/5AzYGfl2BlQS2xDy63NcoL) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [Montesinho](https://open.spotify.com/album/5DNcFeLsvdr047AGIDtdWA) | 2:15 | 2022-07-15 |  |
@@ -170,6 +169,7 @@
 | [Tulum](https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Tulum](https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp) | 2:56 | 2022-11-18 |  |
 | [Un Dia de Novembre](https://open.spotify.com/track/2JuotGupvzrnGSYSx31N1o) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Clara Jansen](https://open.spotify.com/artist/36naeGyvAeqzuXPIVtAY6C) | [Romance d'amour](https://open.spotify.com/album/20eQWEKfXxNTeFl34aKtmr) | 2:11 | 2022-07-15 | 2022-09-23 |
 | [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 | 2022-09-09 |  |
+| [Valle dei Templi](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Valle dei Templi](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 3:00 | 2022-12-16 |  |
 | [Vals del Poniente](https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Vals del Poniente](https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE) | 2:02 | 2022-07-15 | 2022-10-29 |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2022-07-15 |  |
 | [Velvet Morning](https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Velvet Morning](https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh) | 2:28 | 2022-08-19 |  |

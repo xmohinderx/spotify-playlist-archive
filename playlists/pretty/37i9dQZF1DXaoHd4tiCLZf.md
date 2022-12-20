@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > The official playlist for Emily in Paris\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,434 likes - 119 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,590 likes - 119 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

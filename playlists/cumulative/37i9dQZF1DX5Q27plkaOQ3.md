@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-282 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+283 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 |  |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2021-12-17 |  |
 | [Final Boss \- Modestep Remix](https://open.spotify.com/track/2qBfIoBC5QJj6CvMwct8OG) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Hige Driver](https://open.spotify.com/artist/2OxrEwDhVZodk9XEVBkA6E), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Final Boss \(Modestep Remix\)](https://open.spotify.com/album/0Ps5wnPvYARsndfhvTK37G) | 3:14 | 2022-08-12 |  |
+| [Find It In Your Mind](https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [Find It In Your Mind](https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR) | 3:19 | 2022-12-16 |  |
 | [Fire Dance](https://open.spotify.com/track/1gf1zXY3P0YVhU3OVMMUDo) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Attitude](https://open.spotify.com/artist/4fbubCUHZTOBfdDCsGWQXL) | [Pretty Dark Loud](https://open.spotify.com/album/5vAEBOXanr6tB799kZ6vtA) | 2:38 | 2022-10-21 |  |
 | [Fire Dance](https://open.spotify.com/track/3IICGfnISboAKaSudbZqPk) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Attitude](https://open.spotify.com/artist/6HhwIU8DwwfVVNWO8Yso5b) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 2:38 | 2021-12-17 | 2022-10-23 |
 | [Flatlined](https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Flatlined](https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W) | 4:51 | 2022-05-13 |  |
@@ -220,7 +221,7 @@
 | [Run The Track](https://open.spotify.com/track/05yBkD9lV6UFGWaDzsUuGG) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Run The Track](https://open.spotify.com/album/43IRE7J84IxX9vLBJUfINF) | 2:35 | 2022-11-18 | 2022-12-08 |
 | [Sapphire Channel](https://open.spotify.com/track/1X287ADgxHe8FIEZnmfQct) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sapphire Channel](https://open.spotify.com/album/4BbfnEztMS9SeTffYj4baj) | 4:25 | 2022-05-06 | 2022-07-29 |
 | [Satellite](https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Satellite](https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq) | 3:46 | 2022-07-22 | 2022-12-18 |
-| [Say It](https://open.spotify.com/track/2N8bcxtfN6hMxPVnTCnJxQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Say It](https://open.spotify.com/album/1EfgitaTG6dtXI5vR8fuhP) | 3:04 | 2022-11-11 |  |
+| [Say It](https://open.spotify.com/track/2N8bcxtfN6hMxPVnTCnJxQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Say It](https://open.spotify.com/album/1EfgitaTG6dtXI5vR8fuhP) | 3:04 | 2022-11-11 | 2022-12-20 |
 | [Scouts Honor](https://open.spotify.com/track/1LD0tIZELqjVcgoIvltR5V) | [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Scouts Honor](https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI) | 3:34 | 2022-03-11 | 2022-08-20 |
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2022-07-29 |  |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-12-17 | 2022-03-05 |

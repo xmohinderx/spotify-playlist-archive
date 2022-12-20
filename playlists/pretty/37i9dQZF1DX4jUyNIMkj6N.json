@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 167340,
+  "num_followers": 167432,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDExOTdmM2I1NTQwZWUyZmY0YWQ4N2M4N2RmMWYzN2Jj",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDBjMmVmNzRlNzNhOTAyMWQwNWY2MjNlZGIxM2VlMWRl",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/6UndV62df5KRebmj3zyn53"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 275613,
       "name": "Sun, Moon, Stars",
       "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Floating Harmonies",
-        "url": "https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Gold Laces",
-      "url": "https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Floating Harmonies",
+        "url": "https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Gold Laces",
+      "url": "https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Buffy",
-        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Buffy",
-      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 168373,
       "name": "Alle Snakker Sant",
       "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Buffy",
+        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Buffy",
+      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Gardening, Pt. 1",
-        "url": "https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Romain's Place",
-      "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 197192,
       "name": "Morgan, I Might",
       "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Gardening, Pt. 1",
+        "url": "https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Romain's Place",
+      "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Love Your Mother",
+        "url": "https://open.spotify.com/album/6MsMR1tPUtwUG3COCAKKZW"
+      },
+      "artists": [
+        {
+          "name": "Real Ones",
+          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
+        }
+      ],
+      "duration_ms": 209052,
+      "name": "Love Your Mother",
+      "url": "https://open.spotify.com/track/3XKMY7tAFiepGRXI2PVAiA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Love Your Mother",
-        "url": "https://open.spotify.com/album/6MsMR1tPUtwUG3COCAKKZW"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
       "artists": [
         {
-          "name": "Real Ones",
-          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
         }
       ],
-      "duration_ms": 209052,
-      "name": "Love Your Mother",
-      "url": "https://open.spotify.com/track/3XKMY7tAFiepGRXI2PVAiA"
+      "duration_ms": 220080,
+      "name": "Look At The Light",
+      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
-      },
-      "artists": [
-        {
-          "name": "Sin Fang",
-          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Look At The Light",
-      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
       "artists": [
         {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
         }
       ],
-      "duration_ms": 211426,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+      "duration_ms": 136960,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -919,34 +919,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+        "name": "Poetry & Airplanes",
+        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
       "artists": [
         {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+          "name": "Teitur",
+          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
         }
       ],
-      "duration_ms": 136960,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/26csqloo1s3vGsaSeJyNer"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/7KyWGpLukZ6Nur6kup0386"
+      "duration_ms": 211426,
+      "name": "I Was Just Thinking",
+      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -963,6 +947,22 @@
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/26csqloo1s3vGsaSeJyNer"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/7KyWGpLukZ6Nur6kup0386"
     },
     {
       "added_at": "2022-12-08 23:00:00",

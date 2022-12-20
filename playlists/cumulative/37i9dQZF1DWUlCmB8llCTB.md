@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo Cris Mj, Nicki Nicole, Standly & Duki.
 
-379 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+380 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Parcera](https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Parcera](https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j) | 3:33 | 2021-12-24 | 2022-02-26 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-06 | 2022-11-12 |
 | [Party](https://open.spotify.com/track/2VV8bxAOy6lZTRGAv7VVqM) | [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Party](https://open.spotify.com/album/6CkNAugxXqzuRd9XXR1YUG) | 3:08 | 2022-03-11 | 2022-06-11 |
-| [Party y Alcohol](https://open.spotify.com/track/19Z5rP5UdeIGKHjqlh1ZdP) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:13 | 2022-09-30 |  |
+| [Party y Alcohol](https://open.spotify.com/track/19Z5rP5UdeIGKHjqlh1ZdP) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:13 | 2022-09-30 | 2022-12-20 |
+| [Party y Alcohol](https://open.spotify.com/track/0XNrtJ5Yg7aOJ0UZwJvNy7) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:13 | 2022-12-16 |  |
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-03-11 | 2022-09-02 |
 | [Peli\-Culeo](https://open.spotify.com/track/2pEmxGe9nMIjg8wniWkYjJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:54 | 2022-06-03 |  |
 | [Peligrosa](https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Peligrosa](https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f) | 2:24 | 2022-12-02 |  |

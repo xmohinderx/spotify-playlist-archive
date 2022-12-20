@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Riovaz
 
-496 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+497 songs - 20 hr 37 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [BABYBOY](https://open.spotify.com/track/0f4iY83d7HGIljumcbKb8H) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [BABYBOY](https://open.spotify.com/album/24x0SeAnpIRPEsKK3IuV9E) | 2:01 | 2022-11-11 | 2022-11-19 |
 | [Back End](https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89) | 2:45 | 2022-09-07 | 2022-12-05 |
 | [Back End](https://open.spotify.com/track/1pBOkbXPSz6FdfE5545VoA) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Humble](https://open.spotify.com/album/1HQxQwZS6Le2ndJTl9UAsF) | 2:45 | 2022-09-07 | 2022-11-13 |
-| [Back End](https://open.spotify.com/track/40V9sT2iWVgRa6b6JVGEq1) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [90 Days](https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL) | 2:45 | 2022-09-07 |  |
+| [Back End](https://open.spotify.com/track/40V9sT2iWVgRa6b6JVGEq1) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [90 Days](https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL) | 2:45 | 2022-09-07 | 2022-12-20 |
 | [Back End](https://open.spotify.com/track/3eHOsD9gXqWYPxVr0JVVWv) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/77Hj5PiiIlIxI8l87wwVc1) | 2:45 | 2022-09-07 | 2022-10-29 |
 | [Back It Up](https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Back It Up](https://open.spotify.com/album/1lIkzEoKntwg8tmg16xLXL) | 2:38 | 2022-01-14 | 2022-02-05 |
 | [BACKROOM](https://open.spotify.com/track/2CXNjqL7ewOt2bo5VCd1Lj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [BACKROOM](https://open.spotify.com/album/3Z96YG0kqDD0hFc3ZD68NW) | 2:35 | 2021-12-03 | 2022-02-19 |
@@ -499,6 +499,7 @@
 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 | 2022-04-19 | 2022-07-30 |
 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 | 2022-03-17 | 2022-09-17 |
 | [Yam](https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I) | [sharkboy](https://open.spotify.com/artist/7eEiDNxx0ZlaXHkn74qOrM), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [UNDERWATER](https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4) | 2:45 | 2022-03-16 | 2022-09-17 |
+| [yeaaaa](https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma) | [Rollin Thrax](https://open.spotify.com/artist/7h5WosWv7dJz3XxcTSsqqj) | [yeaaaa](https://open.spotify.com/album/4m744Byj6lR19EMBtzhBLH) | 2:08 | 2022-12-19 |  |
 | [YEET \(feat\. Yeat\)](https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [YEET \(feat\. Yeat\)](https://open.spotify.com/album/7eOU7fB1ah7qgyX0LQDEG0) | 2:37 | 2022-01-28 | 2022-02-19 |
 | [You Know?, Pt\. 3](https://open.spotify.com/track/6n6TnyJwc10q07Jer3KILk) | [Crimsons Red](https://open.spotify.com/artist/5AYeIJIU09BXFjZEyDujtB) | [Rated Lux Diss](https://open.spotify.com/album/1Qz4SNMAW5N5OhQGGrDr51) | 1:20 | 2022-04-06 | 2022-07-29 |
 | [You Know?, Pt\. 3](https://open.spotify.com/track/4e8v2ZEw8uO7rBeJVbnHWj) | [Crimsons Red](https://open.spotify.com/artist/5AYeIJIU09BXFjZEyDujtB) | [You Know?, Pt\. 3](https://open.spotify.com/album/1X8o9bApRdaIH9LN6mllQe) | 1:20 | 2022-06-17 | 2022-09-17 |

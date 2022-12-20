@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Cuco
 
-207 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
+208 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Color my life](https://open.spotify.com/track/5W6PzzeG47CdCdPEKVtbv6) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT) | 3:28 | 2022-01-10 | 2022-08-12 |
 | [Common Places, Common Faces](https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2Qs5WqjxU8zMBYKZ8PD6PH) | 2:51 | 2022-01-10 | 2022-07-25 |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-03 |  |
+| [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 | 2022-12-16 |  |
 | [CONTRA LA GRAVEDAD](https://open.spotify.com/track/5dwGYep3MF7lOpDvgQoj2q) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [QUIERO SENTIR \(ALGO MÁS\)](https://open.spotify.com/album/1wYpUy7QxpnvQiFhrx3pZY) | 3:02 | 2022-12-02 |  |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2022-11-24 |  |
 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 | 2021-11-18 | 2022-11-25 |
@@ -147,7 +148,7 @@
 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 | 2021-11-18 | 2022-09-07 |
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [Otras Mujeres](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2022-12-16 |  |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-06 |  |
-| [Para cenar](https://open.spotify.com/track/7vJgPTBxooGDJ8U6b4JtUE) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Para cenar](https://open.spotify.com/album/7ygO1HGSFyUiRzbefypRAh) | 3:41 | 2022-12-09 |  |
+| [Para cenar](https://open.spotify.com/track/7vJgPTBxooGDJ8U6b4JtUE) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Para cenar](https://open.spotify.com/album/7ygO1HGSFyUiRzbefypRAh) | 3:41 | 2022-12-09 | 2022-12-20 |
 | [Para Nada](https://open.spotify.com/track/0f4PXAx8MCRSYl5A4RzNla) | [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [Para Nada](https://open.spotify.com/album/46qWTQj6l7vkquJKCWS5uS) | 2:26 | 2021-11-18 | 2022-07-27 |
 | [Para Siempre](https://open.spotify.com/track/7rHsKRxkxeNPSUHsrHCkJV) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Para Siempre](https://open.spotify.com/album/1ImtcFxcNGLx6GVaaSJZpy) | 3:18 | 2021-11-18 | 2022-07-25 |
 | [Paradise](https://open.spotify.com/track/6csiIHo2pYktlmyXZgKJns) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Paradise](https://open.spotify.com/album/2zaWUjh9T05lm2r3gKOqsk) | 3:43 | 2021-11-18 | 2022-10-28 |

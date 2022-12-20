@@ -404,24 +404,6 @@
     },
     {
       "album": {
-        "name": "Danny's Dream",
-        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
-      },
-      "artists": [
-        {
-          "name": "Tiril Brandt",
-          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
-        }
-      ],
-      "date_added": "2022-12-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200500,
-      "name": "Danny's Dream",
-      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
-    },
-    {
-      "album": {
         "name": "Deneb Cygni",
         "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
       },
@@ -525,6 +507,24 @@
       "duration_ms": 370006,
       "name": "Dub 002",
       "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
+    },
+    {
+      "album": {
+        "name": "Eladio",
+        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138100,
+      "name": "Eladio",
+      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
     },
     {
       "album": {

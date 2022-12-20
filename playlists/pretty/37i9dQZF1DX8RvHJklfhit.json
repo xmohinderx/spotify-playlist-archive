@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics.",
-  "num_followers": 134066,
+  "num_followers": 134257,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk3NzgyMSwwMDAwMDAwMDhiNzA3YWI4MTlhM2FiZTBlMjNjM2EzZDZhNjE4MDhk",
+  "snapshot_id": "MTY3MDk3NzgyMSwwMDAwMDAwMDA5NTk5MTdiMzRmZTE3NmNkOGY2ZGUxNTg2ZDEzMGM0",
   "tracks": [
     {
       "added_at": "2022-12-14 00:30:21",
@@ -163,54 +163,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -227,6 +179,38 @@
       "duration_ms": 227586,
       "name": "Mi Buen Amor",
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -259,6 +243,22 @@
       "duration_ms": 211021,
       "name": "Beso",
       "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 206611,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 188341,
-      "name": "Suin Romanticon",
-      "url": "https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "\u00c9pocas",
         "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 221853,
       "name": "\u00c9pocas",
       "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 188341,
+      "name": "Suin Romanticon",
+      "url": "https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 248371,
+      "name": "M\u00e9tele",
+      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "M\u00e9tele",
-      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "Musica Para Despues De Almuerzo",
         "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 201223,
       "name": "Holy Soul",
       "url": "https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "Nefertiti",
-        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
-      },
-      "artists": [
-        {
-          "name": "Protistas",
-          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "En Mis Genes",
-      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "Estereomance",
         "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Protistas",
+          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
         }
       ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
+      "duration_ms": 242906,
+      "name": "En Mis Genes",
+      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
+        "name": "Analog Drift",
+        "url": "https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY"
+      },
+      "artists": [
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 272746,
+      "name": "Ya Yo S\u00e9",
+      "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 215257,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
-        "name": "Analog Drift",
-        "url": "https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY"
-      },
-      "artists": [
-        {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
-        }
-      ],
-      "duration_ms": 272746,
-      "name": "Ya Yo S\u00e9",
-      "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
+        "name": "Marem Ladson",
+        "url": "https://open.spotify.com/album/63BrmIxMevcdnmUJg0NWLZ"
+      },
+      "artists": [
+        {
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
+        }
+      ],
+      "duration_ms": 221931,
+      "name": "All My Storms",
+      "url": "https://open.spotify.com/track/30tqpZsnx3NBLbxZy8kPR1"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 256668,
       "name": "Dama Fina",
       "url": "https://open.spotify.com/track/5UQ1ZR19u2moiUdAhsQqCz"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
-        "name": "Marem Ladson",
-        "url": "https://open.spotify.com/album/63BrmIxMevcdnmUJg0NWLZ"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 221931,
-      "name": "All My Storms",
-      "url": "https://open.spotify.com/track/30tqpZsnx3NBLbxZy8kPR1"
     },
     {
       "added_at": "2022-12-14 00:30:21",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-12-14 00:30:21",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
-      },
-      "artists": [
-        {
-          "name": "Besos",
-          "url": "https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
-    },
-    {
-      "added_at": "2022-12-14 00:30:21",
-      "album": {
         "name": "Shining in the Dark",
         "url": "https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 260702,
       "name": "Shining in the Dark",
       "url": "https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc"
+    },
+    {
+      "added_at": "2022-12-14 00:30:21",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
+      },
+      "artists": [
+        {
+          "name": "Besos",
+          "url": "https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk"
+        }
+      ],
+      "duration_ms": 186598,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
     },
     {
       "added_at": "2022-12-14 00:30:21",

@@ -4,7 +4,7 @@
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/4AXkYbznAkUO1tVklEhRSv)
+68 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4AXkYbznAkUO1tVklEhRSv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 | 2022-05-25 |  |
 | [Darlin' Darlin' Baby \(Sweet, Tender, Love\)](https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:16 | 2022-05-25 |  |
 | [Deeper \(In Love with You\)](https://open.spotify.com/track/1PSfY3lSwBD888PZW0s5JH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 2:39 | 2022-05-25 | 2022-10-13 |
+| [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 | 2022-12-19 |  |
 | [Desire Me](https://open.spotify.com/track/6aupmChN6IQy7z2bOJj5k0) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:19 | 2022-05-27 | 2022-09-26 |
 | [Don't Call Me Brother](https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 8:56 | 2022-05-25 |  |
 | [Emotionally Yours](https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 5:15 | 2022-05-25 |  |
@@ -26,7 +27,7 @@
 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 | 2022-05-25 |  |
 | [Forever Mine](https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 6:06 | 2022-05-25 |  |
 | [Girl, Don't Let It Get You Down](https://open.spotify.com/track/0Jp09OKyRNJvhm3AcQ1G2G) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Year 2000](https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot) | 4:11 | 2022-05-25 | 2022-10-13 |
-| [Give the People What They Want](https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 4:10 | 2022-05-26 |  |
+| [Give the People What They Want](https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 4:10 | 2022-05-26 | 2022-12-20 |
 | [God Bless My Mama](https://open.spotify.com/track/49dn4HaJFrZLuonXfTynti) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Eddie Levert](https://open.spotify.com/artist/2IvCFI40bNhf40fRPO7cA0), [Walter Williams](https://open.spotify.com/artist/7l643twfn8Rq1l4iON1aKp) | [Brawl in Cell Block 99 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6K96xGtU1rfAcKfnrKr09U) | 4:38 | 2022-05-25 | 2022-10-13 |
 | [Help \(Somebody Please\)](https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:59 | 2022-05-25 |  |
 | [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 | 2022-05-25 |  |
@@ -64,7 +65,7 @@
 | [This Air I Breathe](https://open.spotify.com/track/7tVyJAzdKekmH0ChZxHhxB) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 3:53 | 2022-05-31 | 2022-10-13 |
 | [This Time Baby](https://open.spotify.com/track/4rrvpJUUWEtdjuwrcRO2i9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:24 | 2022-05-26 | 2022-11-18 |
 | [Time to Get Down](https://open.spotify.com/track/2mhVy5a8BmJ1t3YFk9DlWi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:52 | 2022-05-25 |  |
-| [Use ta Be My Girl](https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:18 | 2022-05-25 |  |
+| [Use ta Be My Girl \- Single Version](https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:18 | 2022-05-25 |  |
 | [What Am I Waiting For](https://open.spotify.com/track/7uWj004PAUVTlu7kqlb8wn) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:56 | 2022-05-25 |  |
 | [When the World's at Peace](https://open.spotify.com/track/5Z52756ttqY4zJMFhK1clR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 5:18 | 2022-05-25 | 2022-10-27 |
 | [Who Am I](https://open.spotify.com/track/2YswUTbozv3CfQfBV8p7L6) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 5:11 | 2022-05-25 |  |

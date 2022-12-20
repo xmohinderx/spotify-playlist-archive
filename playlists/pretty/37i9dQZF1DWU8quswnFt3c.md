@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,047 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,033 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [Lúc Thấy Lúc Không](https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:53 |
 | 49 | [推開世界的門](https://open.spotify.com/track/7rYdfR1PHguFvfYUIs0ehf) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 4:42 |
 | 50 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 |
-| 51 | [Ocean Blue](https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Ocean Blue](https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv) | 3:22 |
-| 52 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 |
+| 51 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 |
+| 52 | [Ocean Blue](https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Ocean Blue](https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv) | 3:22 |
 | 53 | [Take It or Leave It](https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Take It or Leave It](https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe) | 2:28 |
 | 54 | [Iparho Gia Sena](https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [Iparho Gia Sena](https://open.spotify.com/album/4lkyzgLGV1SmJv0UW3Pw4h) | 3:36 |
 | 55 | [TSUBASA](https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Yomi Jah](https://open.spotify.com/artist/2vdDL7Bk14vZT3Gj4DjF6q) | [TSUBASA](https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m) | 3:47 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 73 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 |
 | 74 | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz) | 2:33 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDBlMjVkZGNiMjYwMmNjNDlmYTc5NmNiYTM1ZjEzZWY3`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDg5ODg4OTljZDRjNTYxZWI3ZWViYWU5YzViZDViOTk3`

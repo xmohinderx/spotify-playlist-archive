@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 53557,
+  "num_followers": 53582,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyMjY3MywwMDAwMDAwMGJjOWYzNDM5OTIwN2RhZDljZTMwNjU0YzgzNjIxNTZj",
+  "snapshot_id": "MTY2OTEyMjY3MywwMDAwMDAwMGQ3NDhmNzk4MjQ0NjY2NjE4ZDZhMzNmZDA2ZGIyZWU3",
   "tracks": [
     {
       "added_at": "2021-01-21 22:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2018-09-24 13:56:36",
       "album": {
-        "name": "Born To Be Yours",
-        "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Born To Be Yours",
-      "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
-    },
-    {
-      "added_at": "2018-09-24 13:56:36",
-      "album": {
         "name": "Good as Gold",
         "url": "https://open.spotify.com/album/2QJkT49xznJniFP2LfpOWz"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 210226,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3OFnCTyDRIbv4WDRFotvMG"
+    },
+    {
+      "added_at": "2018-09-24 13:56:36",
+      "album": {
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Born To Be Yours",
+      "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
     },
     {
       "added_at": "2021-06-10 21:59:00",
@@ -989,26 +989,6 @@
       "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
     },
     {
-      "added_at": "2019-07-31 13:56:44",
-      "album": {
-        "name": "Colours & Lights",
-        "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "Colours & Lights",
-      "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
-    },
-    {
       "added_at": "2020-05-21 21:59:00",
       "album": {
         "name": "Frequency",
@@ -1063,6 +1043,26 @@
       "duration_ms": 211306,
       "name": "Fine Little Rhythm",
       "url": "https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA"
+    },
+    {
+      "added_at": "2019-07-31 13:56:44",
+      "album": {
+        "name": "Colours & Lights",
+        "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "Colours & Lights",
+      "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
     },
     {
       "added_at": "2021-05-21 05:41:41",

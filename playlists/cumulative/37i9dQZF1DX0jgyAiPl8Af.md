@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-508 songs - 22 hr 27 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+508 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,6 @@
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-02-15 |  |
 | [I Wish It Stayed Like This](https://open.spotify.com/track/5wcnN9Ru1abQHVo6mPG9o4) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [I Wish It Stayed Like This](https://open.spotify.com/album/5aodQfmbnWGK7AsD4ngCI1) | 3:53 | 2022-07-22 | 2022-10-29 |
 | [I Wouldn't Leave You](https://open.spotify.com/track/4PritxaHemeiRJAu8s3Q6L) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [I Wouldn't Leave You](https://open.spotify.com/album/5tf90VLuFHrAsfb8epib89) | 2:23 | 2022-05-27 | 2022-09-09 |
-| [I'm A Fool To Want You](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm A Fool To Want You](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 3:58 | 2022-12-16 |  |
 | [Icarus](https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Icarus](https://open.spotify.com/album/6kefDAQzsl3jmFnt93Iaxz) | 2:43 | 2022-10-28 |  |
 | [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 | 2022-12-09 |  |
 | [Illuminé](https://open.spotify.com/track/2BITPXNQ15DTL6yiaCByPI) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Illuminé](https://open.spotify.com/album/7Ab8RG5EdpXSfLpMqQDbn1) | 1:29 | 2022-09-02 |  |
@@ -483,6 +482,7 @@
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2021-12-08 | 2022-07-01 |
 | [Upon A Distant Plateau](https://open.spotify.com/track/41a0ZSdUfvojOPkJtkuk9p) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Upon A Distant Plateau](https://open.spotify.com/album/1nDJijrMW8Y1LBNfU5EnE9) | 2:08 | 2022-11-18 |  |
 | [Vacilando](https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Vacilando](https://open.spotify.com/album/1rTJlbruy1qEqYah6GYCJp) | 2:15 | 2022-06-03 | 2022-06-10 |
+| [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/7zhLkll5sC1tJRTDGCau2P) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 | 2022-12-16 |  |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2021-12-08 |  |
 | [Vanja](https://open.spotify.com/track/7lyDrjn4e8BCszy5o7tNuk) | [Lukas Rosendal](https://open.spotify.com/artist/3gvOqk86iSqfIsY4jceRDy) | [Askja](https://open.spotify.com/album/3GMGYp6kdBbD4e897A6IkT) | 2:21 | 2021-12-08 | 2022-07-01 |
 | [Veracity](https://open.spotify.com/track/49RUCdpg6fvClNHxI6HB3x) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Veracity](https://open.spotify.com/album/5mpEiRXZhlx8DHuoDbdr6u) | 1:42 | 2022-09-23 |  |

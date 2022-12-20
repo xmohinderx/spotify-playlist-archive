@@ -562,6 +562,32 @@
     },
     {
       "album": {
+        "name": "Anbe Anbe (From \"Kranti\")",
+        "url": "https://open.spotify.com/album/76iDLXwP6F5F8kW5Vww3Lq"
+      },
+      "artists": [
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        },
+        {
+          "name": "V. Hari Krishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Anbe Anbe (From \"Kranti\")",
+      "url": "https://open.spotify.com/track/4rx5C6KP31IYNVdpYdyPoE"
+    },
+    {
+      "album": {
         "name": "Pattathu Arasan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2IBkciBEY2GmBbDqsXH9g0"
       },
@@ -3599,12 +3625,12 @@
           "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
         },
         {
-          "name": "vaisagh",
-          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
-        },
-        {
           "name": "Manju Warrier",
           "url": "https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
         }
       ],
       "date_added": "2022-12-18",
@@ -5105,6 +5131,32 @@
       "duration_ms": 296436,
       "name": "Naan Poranthathume",
       "url": "https://open.spotify.com/track/4WXyaygmBa3gk06jFQiXBA"
+    },
+    {
+      "album": {
+        "name": "Naan Varaigira Vaanam (From \"Connect\")",
+        "url": "https://open.spotify.com/album/4GHAiGleZVw8avxmBd9wF7"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Chandrasekhar",
+          "url": "https://open.spotify.com/artist/6UavFYLV1AgRv0ndAPvFw9"
+        },
+        {
+          "name": "Uthara Unnikrishnan",
+          "url": "https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO"
+        },
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254788,
+      "name": "Naan Varaigira Vaanam",
+      "url": "https://open.spotify.com/track/3MxFOqNFgYbGT9NajgWW73"
     },
     {
       "album": {

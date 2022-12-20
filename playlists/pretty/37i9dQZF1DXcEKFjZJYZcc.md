@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Happy vibes for an upbeat morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,774 likes - 152 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,812 likes - 152 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

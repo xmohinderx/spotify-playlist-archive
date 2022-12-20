@@ -1,12 +1,12 @@
 {
   "description": "Celebra el amor igualitario con una fina selecci\u00f3n hecha por Sobrino.",
-  "num_followers": 9817,
+  "num_followers": 9819,
   "original_name": "Amor Libre: Sobrino Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU0NjIxNywwMDAwMDAwMDE5YjIyYmY4NTc3MDczZGM1MzJmZTliMzNlOTcxY2Qy",
+  "snapshot_id": "MTY1NjU0NjIxNywwMDAwMDAwMGQxZTczOTZhMTEyODJmYTZlNDI4NTg4ZDQwNmQyNzc2",
   "tracks": [
     {
       "added_at": "2022-06-29 23:43:37",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -179,6 +195,22 @@
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
+        "name": "Otra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 220202,
+      "name": "Otra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -207,38 +239,6 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "Otra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 220202,
-      "name": "Otra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 204956,
       "name": "212",
       "url": "https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -299,38 +315,6 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "Cayendo (Side A - Acoustic)",
-        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Cayendo (Side A - Acoustic)",
-      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "Cayendo (Side A - Acoustic)",
+        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Cayendo (Side A - Acoustic)",
+      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 248049,
       "name": "Aire soy (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/1ORb6uGvpjsFwZK8FUpzWy"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 161733,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -467,18 +483,18 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 161733,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY"
+      "duration_ms": 183280,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -499,18 +515,18 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 183280,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2"
+      "duration_ms": 140742,
+      "name": "Mequetrefe",
+      "url": "https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 140742,
-      "name": "Mequetrefe",
-      "url": "https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 222573,
       "name": "Baila",
       "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/2CsSaYUPI57QaeB90gwzGT"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
       },
       "artists": [
         {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 156865,
-      "name": "Heavy Metal and Reflective",
-      "url": "https://open.spotify.com/track/71PgrkvpCrNxpM1nvapbqG"
+      "duration_ms": 202720,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/2CsSaYUPI57QaeB90gwzGT"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -627,6 +611,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 156865,
+      "name": "Heavy Metal and Reflective",
+      "url": "https://open.spotify.com/track/71PgrkvpCrNxpM1nvapbqG"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "The ArchAndroid",
         "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "CUUUUuuuuuute",
-      "url": "https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 178323,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "CUUUUuuuuuute",
+      "url": "https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt"
     },
     {
       "added_at": "2022-06-29 23:43:37",

@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Ambré
 
-493 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+494 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/album/2SxvstE24VIYBAy8jQRswO) | 3:13 | 2022-03-18 | 2022-04-09 |
 | [Breaking Point](https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Breaking Point](https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4) | 4:53 | 2022-12-16 |  |
 | [Brown Sugar](https://open.spotify.com/track/2q5lWG2pP3KQ73cdWi0NTr) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz), [Daniel Novello](https://open.spotify.com/artist/3sBZ6NFwgh6f2uSJfr81sS), [Simmie](https://open.spotify.com/artist/3730JhzlwPpfNdE6a5qAv9) | [Brown Sugar](https://open.spotify.com/album/0ZBp4ME5Rb3XQi2ZTiMKnr) | 3:09 | 2022-04-08 | 2022-05-14 |
+| [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 | 2022-12-19 |  |
 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 | 2022-03-05 | 2022-04-16 |
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-20 | 2022-07-16 |
 | [C.L.O.U.D.S](https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB) | [CAMP](https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt) | [Process](https://open.spotify.com/album/3CRUA1fGG4vUqOOfdrNoDe) | 2:59 | 2022-03-11 | 2022-05-07 |

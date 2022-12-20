@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,938 likes - 159 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,948 likes - 159 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 43 | [Lust](https://open.spotify.com/track/7plHet0z5H3suL0neig2an) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Lust](https://open.spotify.com/album/4STXwZAd1SqiaAIc9yG5IT) | 2:29 |
 | 44 | [wakens bright](https://open.spotify.com/track/6tfOG7WshG7cEm8zx7KYYT) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [wakens bright](https://open.spotify.com/album/3kOMZJfPKUMdmUVZgGuudj) | 2:37 |
 | 45 | [Multiplier](https://open.spotify.com/track/7EMwd7BIruS3fqakmMcnW3) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Multiplier](https://open.spotify.com/album/2V0GpuUAm7bemnCGEQ0TT6) | 1:33 |
-| 46 | [Chelsea Bridge](https://open.spotify.com/track/3iF6IvHypN92ozus6M222C) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Chelsea Bridge](https://open.spotify.com/album/6n8CTsHh2Z6OzxtfLjCu6N) | 3:54 |
+| 46 | [Oh, silly old me](https://open.spotify.com/track/3iF6IvHypN92ozus6M222C) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Oh, silly old me](https://open.spotify.com/album/6n8CTsHh2Z6OzxtfLjCu6N) | 2:03 |
 | 47 | [180](https://open.spotify.com/track/5wPr1S5YKwSh1BKdwRuB1o) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [180](https://open.spotify.com/album/4WksqqScs7SRWvx2c3Ej8o) | 2:21 |
 | 48 | [Siluetas](https://open.spotify.com/track/1GfpFCLQcumNR6eVSNvYE8) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Siluetas](https://open.spotify.com/album/5iq2S5rBEv6SzbgmRLDTG2) | 2:26 |
 | 49 | [The Mystery](https://open.spotify.com/track/4QjWkfJH6XD95OGLvQ2C2x) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [The Mystery](https://open.spotify.com/album/68jSCZ3MEiN6Ob8xzy6o8O) | 2:20 |

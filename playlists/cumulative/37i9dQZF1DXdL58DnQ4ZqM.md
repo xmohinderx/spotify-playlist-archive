@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-493 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+493 songs - 1 day 4 hr 18 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,6 @@
 | [Cerebrum](https://open.spotify.com/track/1JGKFXOPgY1fiMU1OcZsUS) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Cerebrum](https://open.spotify.com/album/0hRPwJ4UeSMAAvGKcvONlG) | 2:13 | 2022-06-24 | 2022-07-09 |
 | [Chasing Visions](https://open.spotify.com/track/1zHftfTRiXiIgMcqRPk3iV) | [vvano](https://open.spotify.com/artist/12TCUeqwMVMOjFL9akYnY3) | [Xilo](https://open.spotify.com/album/0QcYuKCdB1FJDaZhGoItmO) | 3:24 | 2022-07-29 |  |
 | [Chasing Visions](https://open.spotify.com/track/6CLncNNrs3h7gWaEelsYps) | [vvano](https://open.spotify.com/artist/12TCUeqwMVMOjFL9akYnY3) | [KEEN: Electro Mind Vol\. 2](https://open.spotify.com/album/6Ohw0XLs0xRt3aaG97xuAu) | 3:24 | 2022-10-28 | 2022-11-13 |
-| [Chelsea Bridge](https://open.spotify.com/track/3iF6IvHypN92ozus6M222C) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Chelsea Bridge](https://open.spotify.com/album/6n8CTsHh2Z6OzxtfLjCu6N) | 3:54 | 2022-12-16 |  |
 | [Cinta Perdida 3](https://open.spotify.com/track/4S3kIY4rMzRfDf8Ida8Nly) | [Ralf Holiday](https://open.spotify.com/artist/2qRViSWmqF4ZGcxP2A2iWB) | [La Espera](https://open.spotify.com/album/6O6mNzfpUyK5b1cUklSAMv) | 2:16 | 2022-03-16 | 2022-07-09 |
 | [Clear Sky](https://open.spotify.com/track/3rvNNaoCyHMQpTxvaPM2ko) | [Sunscreen](https://open.spotify.com/artist/534G91HPzKsyd52ke8xJe2) | [Sunbed Chill Out \(Best Of 2014\-2016\)](https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R) | 5:53 | 2022-01-12 | 2022-07-28 |
 | [Clear Sky](https://open.spotify.com/track/6lkmtKLtuXXgq57mUZbUAd) | [Sunscreen](https://open.spotify.com/artist/534G91HPzKsyd52ke8xJe2) | [Sunbed Chill Out Vol\. 1](https://open.spotify.com/album/6Wf8QeSOXF5kghQk99DpZb) | 5:53 | 2022-07-29 | 2022-08-19 |
@@ -311,6 +310,7 @@
 | [Oceans \- Chill Out Version](https://open.spotify.com/track/3yGj8IMMKYBANeJKMcFPw0) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/0iF1j9nhAxi2yMw61iHtXc) | 3:55 | 2021-08-10 | 2022-07-29 |
 | [Oceans \- Chill Out Version](https://open.spotify.com/track/5GwOrZrxeUTHwaenkS2GdK) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/06zgUizEhdUW1hHUTb9C9b) | 3:55 | 2022-07-29 | 2022-08-05 |
 | [Oh La La](https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9) | [Red Hot Viper](https://open.spotify.com/artist/4gFtwOVP0ozdW5asXUidtk) | [Oh La La](https://open.spotify.com/album/4BNRC7NznGNmAQIa11ZKCc) | 3:14 | 2021-08-10 |  |
+| [Oh, silly old me](https://open.spotify.com/track/3iF6IvHypN92ozus6M222C) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Oh, silly old me](https://open.spotify.com/album/6n8CTsHh2Z6OzxtfLjCu6N) | 2:03 | 2022-12-16 |  |
 | [Once In A Dream \- Chill Original](https://open.spotify.com/track/15axDyGsxMRMbdblfSjSxI) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/0QaawGzGKcp7KYhiucUtgV) | 3:34 | 2022-07-29 | 2022-09-03 |
 | [Once In A Dream \- Chill Original](https://open.spotify.com/track/5tuNgB2oA7edy3Nw9mIQ6W) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai) | 3:34 | 2021-08-10 | 2022-07-29 |
 | [one more rainy day with you](https://open.spotify.com/track/1Ig5yQvxcUhFB9LlbtFxNb) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu), [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [one more rainy day with you](https://open.spotify.com/album/1ZGpu7Qjn7ZhiBNG3gJD2E) | 2:21 | 2022-06-24 | 2022-07-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 9446,
+  "num_followers": 9482,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMDg0NDUwNDAzM2M0MWI4NTMyOWVkYmZhNDdlZjBjZDRj",
+  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMDM5N2MyNmU4Y2JlMDZlZDRjMDc2YjViMDllMGFlYjM2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -493,6 +493,26 @@
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
@@ -519,26 +539,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2022-12-02 08:11:31",
@@ -805,26 +805,6 @@
       "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "FOR MY BABY",
@@ -879,18 +859,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "APOLLO",
-        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 172191,
-      "name": "ELI",
-      "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -907,6 +891,22 @@
       "duration_ms": 187206,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "APOLLO",
+        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 172191,
+      "name": "ELI",
+      "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "What Have We Done",
-        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
-    },
-    {
       "added_at": "2022-09-30 06:26:52",
       "album": {
         "name": "Fight For You",
@@ -981,20 +965,20 @@
       "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Bad4u",
-        "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
+        "name": "What Have We Done",
+        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 179762,
-      "name": "Bad4u",
-      "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
+      "duration_ms": 180773,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 201600,
       "name": "Feeling U",
       "url": "https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Bad4u",
+        "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 179762,
+      "name": "Bad4u",
+      "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -1229,6 +1229,22 @@
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
     },
     {
+      "added_at": "2022-08-12 05:44:57",
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Saturn",
@@ -1247,22 +1263,6 @@
       "duration_ms": 163200,
       "name": "Maria",
       "url": "https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM"
-    },
-    {
-      "added_at": "2022-08-12 05:44:57",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1353,6 +1353,22 @@
       "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "alright, ok",
+        "url": "https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "alright, ok",
+      "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
+    },
+    {
       "added_at": "2022-10-28 12:50:44",
       "album": {
         "name": "R-/LBT",
@@ -1371,22 +1387,6 @@
       "duration_ms": 230808,
       "name": "Lights Down Low",
       "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "alright, ok",
-        "url": "https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "alright, ok",
-      "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
     },
     {
       "added_at": "2022-06-09 23:00:00",

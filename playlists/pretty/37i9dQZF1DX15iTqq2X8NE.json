@@ -1,12 +1,12 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\nCover: Soulja",
-  "num_followers": 15212,
+  "num_followers": 15217,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI4MzI0OCwwMDAwMDAwMDc0M2U3OTVkZGQwYjFhOThmOTBmZmVmMzE4NWU4Y2U5",
+  "snapshot_id": "MTY3MDI4MzI0OCwwMDAwMDAwMDYzNTljODhjYWY1MGNhMTEyYTkyZmM4ZmJlMjVkMWU0",
   "tracks": [
     {
       "added_at": "2022-11-24 18:58:55",
@@ -299,46 +299,6 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
-        "name": "Fawda | \u0641\u0648\u0636\u064a",
-        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
-      },
-      "artists": [
-        {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
-        },
-        {
-          "name": "Dj Reo",
-          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
-        }
-      ],
-      "duration_ms": 255059,
-      "name": "Fawda | \u0641\u0648\u0636\u064a",
-      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
-    },
-    {
-      "added_at": "2022-11-24 18:58:55",
-      "album": {
-        "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
-        "url": "https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS"
-      },
-      "artists": [
-        {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
-        }
-      ],
-      "duration_ms": 227842,
-      "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
-      "url": "https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv"
-    },
-    {
-      "added_at": "2022-11-24 18:58:55",
-      "album": {
         "name": "Kabasa",
         "url": "https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6"
       },
@@ -359,6 +319,26 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
+        "name": "Fawda | \u0641\u0648\u0636\u064a",
+        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        },
+        {
+          "name": "Dj Reo",
+          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
+        }
+      ],
+      "duration_ms": 255059,
+      "name": "Fawda | \u0641\u0648\u0636\u064a",
+      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
+    },
+    {
+      "added_at": "2022-11-24 18:58:55",
+      "album": {
         "name": "MaMuhim",
         "url": "https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 223266,
       "name": "MaMuhim",
       "url": "https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM"
+    },
+    {
+      "added_at": "2022-11-24 18:58:55",
+      "album": {
+        "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
+        "url": "https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "duration_ms": 227842,
+      "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
+      "url": "https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv"
     },
     {
       "added_at": "2022-11-24 18:58:55",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
+        "name": "Ghadara",
+        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "Ghadara",
+      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
+    },
+    {
+      "added_at": "2022-11-24 18:58:55",
+      "album": {
         "name": "Matalib - COLORS Sudan",
         "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
       },
@@ -471,26 +487,6 @@
       "duration_ms": 387902,
       "name": "Azara Alhai",
       "url": "https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3"
-    },
-    {
-      "added_at": "2022-11-24 18:58:55",
-      "album": {
-        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
-      },
-      "artists": [
-        {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
     },
     {
       "added_at": "2022-11-24 18:58:55",
@@ -539,18 +535,22 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
-        "name": "Ghadara",
-        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
+        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
       },
       "artists": [
         {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
         }
       ],
-      "duration_ms": 182970,
-      "name": "Ghadara",
-      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
+      "duration_ms": 181000,
+      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
     },
     {
       "added_at": "2022-11-24 18:58:55",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O"
-      },
-      "artists": [
-        {
-          "name": "Tageel",
-          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje"
-    },
-    {
-      "added_at": "2022-11-24 18:58:55",
-      "album": {
         "name": "Bringi",
         "url": "https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 139309,
       "name": "Bringi",
       "url": "https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO"
+    },
+    {
+      "added_at": "2022-11-24 18:58:55",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje"
     },
     {
       "added_at": "2022-11-24 18:58:55",
@@ -623,6 +623,26 @@
       "duration_ms": 204197,
       "name": "Asly",
       "url": "https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j"
+    },
+    {
+      "added_at": "2022-11-24 18:58:55",
+      "album": {
+        "name": "Sit Al Banat (feat. Sheme)",
+        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        },
+        {
+          "name": "Sheme",
+          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
+        }
+      ],
+      "duration_ms": 206424,
+      "name": "Sit Al Banat (feat. Sheme)",
+      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
     },
     {
       "added_at": "2022-11-24 18:58:55",
@@ -663,26 +683,6 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
-        "name": "Sit Al Banat (feat. Sheme)",
-        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
-      },
-      "artists": [
-        {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        },
-        {
-          "name": "Sheme",
-          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
-        }
-      ],
-      "duration_ms": 206424,
-      "name": "Sit Al Banat (feat. Sheme)",
-      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
-    },
-    {
-      "added_at": "2022-11-24 18:58:55",
-      "album": {
         "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
         "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "added_at": "2022-11-24 18:58:55",
+      "album": {
         "name": "Ganay Albreedo",
         "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
-        "name": "Muslims and Christians (Habibi Funk 008)",
-        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK"
       },
       "artists": [
         {
-          "name": "Kamal Keila",
-          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
         }
       ],
-      "duration_ms": 391000,
-      "name": "Taban Ahwak",
-      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+      "duration_ms": 183000,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
     },
     {
       "added_at": "2022-11-24 18:58:55",
@@ -767,22 +783,6 @@
       "duration_ms": 194841,
       "name": "Red (feat. MaMan)",
       "url": "https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF"
-    },
-    {
-      "added_at": "2022-11-24 18:58:55",
-      "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK"
-      },
-      "artists": [
-        {
-          "name": "Nadine El Roubi",
-          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
     },
     {
       "added_at": "2022-11-24 18:58:55",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-24 18:58:55",
       "album": {
-        "name": "Qamar Al Massa (Moon of the Night)",
-        "url": "https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh"
-      },
-      "artists": [
-        {
-          "name": "Abu Obaida Hassan",
-          "url": "https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj"
-        }
-      ],
-      "duration_ms": 495442,
-      "name": "Qamar Al Massa (Moon of the Night)",
-      "url": "https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2"
-    },
-    {
-      "added_at": "2022-11-24 18:58:55",
-      "album": {
         "name": "\u0627\u0644\u0646\u0627\u0631 \u0648\u0644\u0639\u062a (feat. Ali Naseraldeen)",
         "url": "https://open.spotify.com/album/5Qm9D2Cgs5yKNuSReeLvTw"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 79944,
       "name": "\u0627\u0644\u0646\u0627\u0631 \u0648\u0644\u0639\u062a (feat. Ali Naseraldeen)",
       "url": "https://open.spotify.com/track/0tSLeFVhJ7zfXzJJpFhoI7"
+    },
+    {
+      "added_at": "2022-11-24 18:58:55",
+      "album": {
+        "name": "Qamar Al Massa (Moon of the Night)",
+        "url": "https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh"
+      },
+      "artists": [
+        {
+          "name": "Abu Obaida Hassan",
+          "url": "https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj"
+        }
+      ],
+      "duration_ms": 495442,
+      "name": "Qamar Al Massa (Moon of the Night)",
+      "url": "https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2"
     },
     {
       "added_at": "2022-11-24 18:58:55",

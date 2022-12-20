@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Rhove.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,344 likes - 181 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,388 likes - 181 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

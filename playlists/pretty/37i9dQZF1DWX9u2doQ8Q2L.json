@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 349255,
+  "num_followers": 349365,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDFiN2NjOWZkZjA1NmMxMGRhOWNlMWZmNDFmNzNlNmE0",
+  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMGM0YWViMmZlN2Y4OGZiYTAxZGU1YzE5OGJmNzY3Zjk0",
   "tracks": [
     {
       "added_at": "2022-12-15 15:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
+        "name": "Return of The Sofakingdom",
+        "url": "https://open.spotify.com/album/0l9xFH1N5L2vnVH7UZTYF7"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "duration_ms": 131714,
+      "name": "Operation : Multiverse of Love",
+      "url": "https://open.spotify.com/track/5XUX5h0D5o91Q0CYuVjv6O"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
         "name": "NO TIME",
         "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 160298,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
-        "name": "Return of The Sofakingdom",
-        "url": "https://open.spotify.com/album/0l9xFH1N5L2vnVH7UZTYF7"
-      },
-      "artists": [
-        {
-          "name": "PUNPEE",
-          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
-        }
-      ],
-      "duration_ms": 131714,
-      "name": "Operation : Multiverse of Love",
-      "url": "https://open.spotify.com/track/5XUX5h0D5o91Q0CYuVjv6O"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -695,22 +695,18 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "BE THE GROOVE",
-        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
+        "name": "Woofin' and Meowin'",
+        "url": "https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ"
       },
       "artists": [
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Mori Zentaro",
-          "url": "https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD"
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
         }
       ],
-      "duration_ms": 164800,
-      "name": "BE THE GROOVE",
-      "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
+      "duration_ms": 167951,
+      "name": "Woofin' and Meowin'",
+      "url": "https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "Woofin' and Meowin'",
-        "url": "https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ"
+        "name": "BE THE GROOVE",
+        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
       },
       "artists": [
         {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Mori Zentaro",
+          "url": "https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD"
         }
       ],
-      "duration_ms": 167951,
-      "name": "Woofin' and Meowin'",
-      "url": "https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2"
+      "duration_ms": 164800,
+      "name": "BE THE GROOVE",
+      "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
+        "name": "Christmas Is All Yours",
+        "url": "https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
         }
       ],
-      "duration_ms": 243531,
-      "name": "HOWL",
-      "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
+      "duration_ms": 208436,
+      "name": "Christmas Is All Yours",
+      "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -1203,38 +1203,18 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "U.F.O",
-        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
       },
       "artists": [
         {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
         }
       ],
-      "duration_ms": 230319,
-      "name": "U.F.O",
-      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
-        "name": "Christmas Is All Yours",
-        "url": "https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7"
-      },
-      "artists": [
-        {
-          "name": "Keishi Tanaka",
-          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
-        }
-      ],
-      "duration_ms": 208436,
-      "name": "Christmas Is All Yours",
-      "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
+      "duration_ms": 243531,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 187606,
       "name": "Playback",
       "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "U.F.O",
+        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "duration_ms": 230319,
+      "name": "U.F.O",
+      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
     },
     {
       "added_at": "2022-12-15 15:00:00",

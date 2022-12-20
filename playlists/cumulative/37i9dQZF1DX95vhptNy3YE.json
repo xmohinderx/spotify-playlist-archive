@@ -334,6 +334,24 @@
     },
     {
       "album": {
+        "name": "Acaju",
+        "url": "https://open.spotify.com/album/0PmRFNK871H7c4LQi1lKPf"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Acaju",
+      "url": "https://open.spotify.com/track/4ClelpEpACByNDtO105jWC"
+    },
+    {
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -517,6 +535,24 @@
       "duration_ms": 213634,
       "name": "Aulas e Cursos",
       "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "album": {
+        "name": "Auto Filter",
+        "url": "https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19"
+      },
+      "artists": [
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228196,
+      "name": "Auto Filter",
+      "url": "https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje"
     },
     {
       "album": {
@@ -1015,7 +1051,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 176640,
       "name": "Cavalona",
       "url": "https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO"
@@ -1279,6 +1315,24 @@
       "duration_ms": 228949,
       "name": "De Onde Eu Venho - Ao Vivo",
       "url": "https://open.spotify.com/track/5sBrPQKMisZePolGEXuGno"
+    },
+    {
+      "album": {
+        "name": "Talism\u00e3 da Sorte",
+        "url": "https://open.spotify.com/album/1wrF7lErTdohIXuUBxkSc8"
+      },
+      "artists": [
+        {
+          "name": "Intimistas",
+          "url": "https://open.spotify.com/artist/1ZPgwb5xgD5YYEnv0kEJb2"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205172,
+      "name": "Deixa Alagar",
+      "url": "https://open.spotify.com/track/33gI0PsuMH9dY5xlckLFMH"
     },
     {
       "album": {
@@ -2321,7 +2375,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 181157,
       "name": "Ins\u00f4nia - Ao Vivo",
       "url": "https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF"
@@ -2589,7 +2643,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 105600,
       "name": "Lado Nerd",
       "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
@@ -3238,6 +3292,32 @@
     },
     {
       "album": {
+        "name": "Mente De Malandra",
+        "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "Mente De Malandra",
+      "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
+    },
+    {
+      "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
       },
@@ -3257,7 +3337,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 133333,
       "name": "Metflix",
       "url": "https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK"
@@ -4079,7 +4159,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
@@ -4421,7 +4501,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 301685,
       "name": "Ponto Fraco / Dividido / Sonhos e Planos - Sou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M"
@@ -4583,6 +4663,42 @@
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
+    },
+    {
+      "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/1lOjoZGWkaw4VTp7rvKmNd"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163339,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/2JyzrRWYel4FiB7NbJuH7E"
+    },
+    {
+      "album": {
+        "name": "Rapper",
+        "url": "https://open.spotify.com/album/6QUcLAP54GOcf5ZUoSbUoZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142192,
+      "name": "Realeza",
+      "url": "https://open.spotify.com/track/5OU9MTz2dl9HKJmoxA5dJV"
     },
     {
       "album": {

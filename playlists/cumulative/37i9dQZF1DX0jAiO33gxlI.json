@@ -1244,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "Original Marginal Rap",
+        "url": "https://open.spotify.com/album/0rOxZJE47FdZnRSL63jpoT"
+      },
+      "artists": [
+        {
+          "name": "Uter\u00e7o",
+          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/0S4YjU15ivg0rB9zKYJmND"
+    },
+    {
+      "album": {
         "name": "Da Grade \u00e0 Liberdade",
         "url": "https://open.spotify.com/album/3yeRsEgLOGxLpJfCVsLnrr"
       },
@@ -2939,6 +2957,36 @@
       "duration_ms": 211252,
       "name": "Lado Sujo, Pt. 2",
       "url": "https://open.spotify.com/track/05OORli4KkXy3evm4sGNkU"
+    },
+    {
+      "album": {
+        "name": "R&F: UltraSom",
+        "url": "https://open.spotify.com/album/1aX7BghARSDAxshFvHOoZx"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272115,
+      "name": "Lembra Dessa",
+      "url": "https://open.spotify.com/track/0WC2QLIzlmR8mc5xVFpnFN"
     },
     {
       "album": {
@@ -4739,7 +4787,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 258000,
       "name": "Pelo Certo",
       "url": "https://open.spotify.com/track/05k6HUgzMCJkML8mn6rjC9"
@@ -5303,7 +5351,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 618000,
       "name": "R.U.A 12 Batalha de Vida",
       "url": "https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV"

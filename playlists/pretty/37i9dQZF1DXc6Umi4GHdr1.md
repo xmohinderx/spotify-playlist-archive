@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,871 likes - 109 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,883 likes - 109 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 35 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 |
 | 36 | [Cradle](https://open.spotify.com/track/6cEC34q3A0RQNSthy6UtwK) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Cradle](https://open.spotify.com/album/6L684rP3Pe8ChjjYQJTUTu) | 2:22 |
 | 37 | [Junto Contigo](https://open.spotify.com/track/5Hb0hG9ulwZBV7FuTnQMia) | [Nonô Ferreira](https://open.spotify.com/artist/1BHWBUxqmSIEyToEj6Wews) | [Junto Contigo](https://open.spotify.com/album/0CQXxwOMNTzGvnvtX54HuL) | 2:14 |
-| 38 | [I Believe It Can Change](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [I Believe It Can Change](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:54 |
+| 38 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 |
 | 39 | [Cumulus](https://open.spotify.com/track/5Ykw2B7qy8ziuYPq6GhsgR) | [Lesley Harmon](https://open.spotify.com/artist/4uKlprMWvRbTYRspAQQdM2) | [Cumulus](https://open.spotify.com/album/2tl0bMSrfzfM0nzTwlPddG) | 1:27 |
 | 40 | [Minore Sostenuto, Op\. 107](https://open.spotify.com/track/7xyK7jldqjNERe6RP0DWuZ) | [Mauro Giuliani](https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir), [Bill Russell](https://open.spotify.com/artist/7ilKUFoBWbdNujwb6t0PKe) | [Minore Sostenuto, Op\. 107](https://open.spotify.com/album/3AegI4cYed4MJCAF39DqQC) | 3:16 |
 | 41 | [Eventide](https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Eventide](https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB) | 2:34 |

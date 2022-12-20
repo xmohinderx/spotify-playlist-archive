@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169993,
+  "num_followers": 169992,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDA3YjJkYzFhNDg5MGE5ZWUwYTgyOTEzMGQ5YTM3Njg1",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGEzOTRiYmVmMTM3YTVlNGIzY2Q2ZDA1YzUwODA5Mzg2",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "She's A Self Made Man",
         "url": "https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G"
       },
@@ -271,22 +255,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Trilogy, Vol. 1",
         "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 243200,
       "name": "She Was a Doorman",
       "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Voodoo in the Shadows",
-        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
-      },
-      "artists": [
-        {
-          "name": "Fiona Boyes",
-          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Party at Red's",
-      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Too Worried Yet",
         "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 212903,
       "name": "Ain't Too Worried Yet",
       "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Voodoo in the Shadows",
+        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
+      },
+      "artists": [
+        {
+          "name": "Fiona Boyes",
+          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Party at Red's",
+      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Nowhere Left to Go",
+        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
+      },
+      "artists": [
+        {
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Nowhere Left to Go",
+      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 219945,
       "name": "Medicine Man",
       "url": "https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Nowhere Left to Go",
-        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
-      },
-      "artists": [
-        {
-          "name": "Layla Zoe",
-          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Nowhere Left to Go",
-      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Handle Me with Care",
-        "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
-      },
-      "artists": [
-        {
-          "name": "Jade Macrae",
-          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
-        }
-      ],
-      "duration_ms": 435426,
-      "name": "Handle Me with Care",
-      "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Masters of War",
         "url": "https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 296413,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Handle Me with Care",
+        "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
+      },
+      "artists": [
+        {
+          "name": "Jade Macrae",
+          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
+        }
+      ],
+      "duration_ms": 435426,
+      "name": "Handle Me with Care",
+      "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J"
+        "name": "Tug of War",
+        "url": "https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
         }
       ],
-      "duration_ms": 217920,
-      "name": "Call on God",
-      "url": "https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk"
+      "duration_ms": 213888,
+      "name": "They Never Pay Me",
+      "url": "https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2"
     }
   ],
   "unique_name": "EQUAL Blues",

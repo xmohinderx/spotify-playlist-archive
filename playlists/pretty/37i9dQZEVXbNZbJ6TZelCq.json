@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 28014,
+  "num_followers": 28019,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI0Njc2NjI2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI0NzYyMTg5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "THE NUTCRACKER (CHRISTMAS PHONK)",
+        "url": "https://open.spotify.com/album/4bhHYTBiU6M70mxdpBnLxk"
+      },
+      "artists": [
+        {
+          "name": "6SIXSIX",
+          "url": "https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2"
+        }
+      ],
+      "duration_ms": 145202,
+      "name": "THE NUTCRACKER (CHRISTMAS PHONK)",
+      "url": "https://open.spotify.com/track/2xxkNVECHw2YVvb0Rz0FVs"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "R8",
         "url": "https://open.spotify.com/album/5ADIlCZn4RwZqiMDbcVvvi"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/5QGToaybBcCxxCajc0wRuA"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "THE NUTCRACKER (CHRISTMAS PHONK)",
-        "url": "https://open.spotify.com/album/4bhHYTBiU6M70mxdpBnLxk"
-      },
-      "artists": [
-        {
-          "name": "6SIXSIX",
-          "url": "https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2"
-        }
-      ],
-      "duration_ms": 145202,
-      "name": "THE NUTCRACKER (CHRISTMAS PHONK)",
-      "url": "https://open.spotify.com/track/2xxkNVECHw2YVvb0Rz0FVs"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Trotinete (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/5mUAT2d6j1AAVWdpapiBDg"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Test Drive",
         "url": "https://open.spotify.com/album/1LW6IajlZo7hz8gAveGJhx"
@@ -141,23 +157,7 @@
       "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Gestu",
         "url": "https://open.spotify.com/album/0mmWK0LujdU55qyyODPUDD"
@@ -185,147 +185,7 @@
       "url": "https://open.spotify.com/track/4JjurgsSCdNejiuOZ98PyQ"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Regina Nop\u021bii",
-        "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 193588,
-      "name": "Regina Nop\u021bii",
-      "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/64YBjqNhYcJX2Ui4o1bEZz"
-      },
-      "artists": [
-        {
-          "name": "Gheboas\u0103",
-          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
-        },
-        {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/1y2H991hMLiHtiPENF9sjO"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "TRAUME & CO\u0218MARURI",
-        "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "NANE",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "TE SUN",
-      "url": "https://open.spotify.com/track/4kQ4Sk47IeG6fAQkNCQVs6"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
@@ -345,75 +205,111 @@
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
       "artists": [
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 166788,
-      "name": "Lumea asta",
-      "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "Bam Bam Bam",
-        "url": "https://open.spotify.com/album/7uRlKQOkTL8BjvL8NwEt9s"
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
       "artists": [
         {
-          "name": "Berechet",
-          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
-        }
-      ],
-      "duration_ms": 119877,
-      "name": "Bam Bam Bam",
-      "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Brasileira (From \u201cTEAMBUILDING\u201d The Movie)",
-        "url": "https://open.spotify.com/album/5qKXyDVdH0WeXEfwAmoDVj"
-      },
-      "artists": [
-        {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "TRAUME & CO\u0218MARURI",
+        "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "TE SUN",
+      "url": "https://open.spotify.com/track/4kQ4Sk47IeG6fAQkNCQVs6"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+      },
+      "artists": [
         {
           "name": "RAVA",
           "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Brasileira - From \u201cTEAMBUILDING\u201d The Movie",
-      "url": "https://open.spotify.com/track/1oanM8lNb88L5ZuKkVp9va"
+      "duration_ms": 97391,
+      "name": "BULIBA$HA",
+      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Slayer",
         "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
@@ -429,10 +325,26 @@
       "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "La san",
-        "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
       },
       "artists": [
         {
@@ -440,12 +352,48 @@
           "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 207435,
-      "name": "La san",
-      "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
+      "duration_ms": 166788,
+      "name": "Lumea asta",
+      "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Regina Nop\u021bii",
+        "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 193588,
+      "name": "Regina Nop\u021bii",
+      "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/64YBjqNhYcJX2Ui4o1bEZz"
+      },
+      "artists": [
+        {
+          "name": "Gheboas\u0103",
+          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
+        },
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/1y2H991hMLiHtiPENF9sjO"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -465,7 +413,23 @@
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "La san",
+        "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 207435,
+      "name": "La san",
+      "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -481,23 +445,23 @@
       "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "Te-am vazut fara inel",
-        "url": "https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI"
+        "name": "Bam Bam Bam",
+        "url": "https://open.spotify.com/album/7uRlKQOkTL8BjvL8NwEt9s"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Te-am vazut fara inel",
-      "url": "https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5"
+      "duration_ms": 119877,
+      "name": "Bam Bam Bam",
+      "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -513,7 +477,59 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Brasileira (From \u201cTEAMBUILDING\u201d The Movie)",
+        "url": "https://open.spotify.com/album/5qKXyDVdH0WeXEfwAmoDVj"
+      },
+      "artists": [
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Brasileira - From \u201cTEAMBUILDING\u201d The Movie",
+      "url": "https://open.spotify.com/track/1oanM8lNb88L5ZuKkVp9va"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Te-am vazut fara inel",
+        "url": "https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Te-am vazut fara inel",
+      "url": "https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
@@ -529,7 +545,39 @@
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "\u00cenapoi La Via\u021b\u0103",
+        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 297272,
+      "name": "Antetokounmpo",
+      "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Banii",
         "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
@@ -549,39 +597,7 @@
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "\u00cenapoi La Via\u021b\u0103",
-        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 297272,
-      "name": "Antetokounmpo",
-      "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -613,27 +629,75 @@
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+        "name": "\u00cenapoi La Via\u021b\u0103",
+        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
       },
       "artists": [
         {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
-        },
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
         }
       ],
-      "duration_ms": 139780,
-      "name": "Tarabanele",
-      "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
+      "duration_ms": 123448,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Fata cu paharul",
+        "url": "https://open.spotify.com/album/1XZxYwRQQ6TkIsRTvxkdNj"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 142165,
+      "name": "Fata cu paharul",
+      "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -653,71 +717,135 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 139780,
+      "name": "Tarabanele",
+      "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
         }
       ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+      "duration_ms": 216000,
+      "name": "Promite-mi",
+      "url": "https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "\u00cenapoi La Via\u021b\u0103",
-        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
       "artists": [
         {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 123448,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+        "name": "2089",
+        "url": "https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+      "duration_ms": 148800,
+      "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
+      "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -737,7 +865,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -761,67 +889,7 @@
       "url": "https://open.spotify.com/track/6VcmY5O2WE00BaF9fomffm"
     },
     {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Fata cu paharul",
-        "url": "https://open.spotify.com/album/1XZxYwRQQ6TkIsRTvxkdNj"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 142165,
-      "name": "Fata cu paharul",
-      "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Nonchalant",
-        "url": "https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Berechet",
-          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Promite-mi",
-      "url": "https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        },
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        }
-      ],
-      "duration_ms": 180063,
-      "name": "Piramida",
-      "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
+      "added_at": "2022-12-19 10:49:49",
       "album": {
         "name": "My Name Is Jos\u00e9 Feliciano",
         "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
@@ -835,102 +903,6 @@
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Dac\u0103 n-ai bani",
-        "url": "https://open.spotify.com/album/4yjhAtoHX508L5AU7ofXTU"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        },
-        {
-          "name": "Gheboas\u0103",
-          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
-        },
-        {
-          "name": "LilCagula",
-          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
-        },
-        {
-          "name": "Beach",
-          "url": "https://open.spotify.com/artist/7ueuz1DQIEB4AYBUP8iluK"
-        },
-        {
-          "name": "Please!",
-          "url": "https://open.spotify.com/artist/4LXd9esx7ItoVvop9XnKVs"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Dac\u0103 n-ai bani",
-      "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Nonchalant (Deluxe)",
-        "url": "https://open.spotify.com/album/4bkgiCcYCKEnQ6bOeW2IvJ"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        },
-        {
-          "name": "Bvcovia",
-          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
-        }
-      ],
-      "duration_ms": 168831,
-      "name": "Seara din nou",
-      "url": "https://open.spotify.com/track/6VQ955KM1zNzpLdLSBFSCv"
-    },
-    {
-      "added_at": "2022-12-18 11:03:46",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     }
   ],
   "unique_name": "Top 50 - Romania",

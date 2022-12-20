@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-168 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+169 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Luces de Colores \- En Vivo](https://open.spotify.com/track/6Yn3gyLn43DDGY5VAuWY5J) | [Vástago Epicentro](https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY) | [Concierto Navideño \(En Vivo Desde Monterrey, México\)](https://open.spotify.com/album/0429hLCtlpgVsucWSt6nuL) | 3:34 | 2021-12-24 |  |
 | [Medley Coritos De Navidad](https://open.spotify.com/track/51LEeTB85rTK2jVULTmAz4) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5) | [Plena Que Se Pega](https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um) | 2:26 | 2021-12-24 |  |
 | [Medley de Coritos](https://open.spotify.com/track/05d0deNBSJhofh0XOxT38x) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Ocasiones Especiales](https://open.spotify.com/album/1VhaBSZDvTZaSOOTNy9PaV) | 4:32 | 2021-12-24 | 2022-11-13 |
-| [Medley de Coritos](https://open.spotify.com/track/68XTSxhJjqYLNrn6vqol1e) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Navidades en Mi Tierra](https://open.spotify.com/album/6rqzU8FpFgpCKsn5uyUsCX) | 4:32 | 2021-12-24 |  |
+| [Medley de Coritos](https://open.spotify.com/track/68XTSxhJjqYLNrn6vqol1e) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Navidades en Mi Tierra](https://open.spotify.com/album/6rqzU8FpFgpCKsn5uyUsCX) | 4:32 | 2021-12-24 | 2022-12-20 |
 | [Medley de Coritos](https://open.spotify.com/track/0KsL7ntQptxiIGfuLqH4ue) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Navidad en Mi Tierra](https://open.spotify.com/album/3bBEvMvpx2UnVRIYMTn6S0) | 4:32 | 2021-12-24 | 2022-07-29 |
 | [Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 4:23 | 2021-12-24 |  |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd) | [Gospa](https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ) | [Navidad Con Gospa](https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6) | 3:07 | 2021-12-24 | 2022-12-17 |
@@ -149,6 +149,7 @@
 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 | 2021-12-24 |  |
 | [Solo Tú](https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:41 | 2021-12-24 |  |
 | [Solo Tú](https://open.spotify.com/track/4f1EgNWULfcBfXUe8FXpbT) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:41 | 2021-12-24 | 2022-07-29 |
+| [Tú Eres la Luz Noche de Paz \(Bonus Track\) \[Live\]](https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Navidad, Vol\. 3](https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw) | 3:27 | 2022-12-10 |  |
 | [Un Cuento De Navidad](https://open.spotify.com/track/0y9pSP2pvOXx5qyqIVnkrb) | [Adrian Romero](https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY), [Daniel Fraire](https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Un Cuento De Navidad](https://open.spotify.com/track/5xbCClguvpKvtwp03NIIsh) | [Adrián Romero](https://open.spotify.com/artist/07C86B0m9AJsysuDz8rEgV), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY), [Daniel Fraire](https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF) | [Navidad Con Vástago, Vol\. 2](https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2) | 3:37 | 2021-12-24 |  |
 | [Un Cuento de Navidad](https://open.spotify.com/track/5Yb7QfoGsQnWrb7gH5zTCf) | [Vastago Epicentro](https://open.spotify.com/artist/3U39rjg7HQTLaG8b6GaCJx), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY), [Adrian Romero](https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O), [Juan Gerardo Franco](https://open.spotify.com/artist/0k3voZLczPciELI4EpYauu), [Daniel Fraire](https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF) | [Concierto Navideño \(En Vivo\)](https://open.spotify.com/album/0CVhULFrhsqJC3eoFUvG6J) | 3:50 | 2021-12-24 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music served here. Cover- Ranbir & Alia.\n",
+  "description": "Hottest Hindi music served here. Cover - Pathaan\n",
   "name": "Hot Hits Hindi",
   "published_playlist_ids": [
     "62e26QUbeJ31xjxLbj35D3"
@@ -181,6 +181,28 @@
       "duration_ms": 329080,
       "name": "Aise Kyun - Ghazal Version",
       "url": "https://open.spotify.com/track/02wf1NAQdIpe5S1NJYPwvB"
+    },
+    {
+      "album": {
+        "name": "Bhediya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1tDqw5PVgd8b8pi26vCGsB"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261702,
+      "name": "Apna Bana Le",
+      "url": "https://open.spotify.com/track/1zhpW0PLYAhzF3X49GaAOX"
     },
     {
       "album": {
@@ -526,6 +548,44 @@
     },
     {
       "album": {
+        "name": "Besharam Rang (From \"Pathaan\")",
+        "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Caralisa Monteiro",
+          "url": "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258472,
+      "name": "Besharam Rang (From \"Pathaan\")",
+      "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
         "url": "https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq"
       },
@@ -659,7 +719,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 269780,
       "name": "Chaka Chak (From \"Atrangi Re\")",
       "url": "https://open.spotify.com/track/5pbOpE6CfRgGnPPZJSDfME"
@@ -851,7 +911,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 210163,
       "name": "De Taali (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J"
@@ -1936,6 +1996,40 @@
     },
     {
       "album": {
+        "name": "Jehda Nasha (From \"An Action Hero\")",
+        "url": "https://open.spotify.com/album/2ishN6ZECK81K6uRwPd7RH"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "Yohani",
+          "url": "https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"
+        },
+        {
+          "name": "Amar Jalal",
+          "url": "https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03"
+        },
+        {
+          "name": "Harjot Kaur",
+          "url": "https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222054,
+      "name": "Jehda Nasha (From \"An Action Hero\")",
+      "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj"
+    },
+    {
+      "album": {
         "name": "Shiddat",
         "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
       },
@@ -2355,7 +2449,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 264915,
       "name": "La Ilaaj",
       "url": "https://open.spotify.com/track/5uYHDSKVHfHxBLgYf4H6SH"
@@ -2391,7 +2485,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 172235,
       "name": "Lagan Lagi",
       "url": "https://open.spotify.com/track/3VrW0js3lDsZyqNa3kNcUa"
@@ -2895,7 +2989,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 212131,
       "name": "Mehabooba (From \"Kgf Chapter 2\")",
       "url": "https://open.spotify.com/track/4g5o1pEVeXJZi4OiWlTpGJ"
@@ -4395,6 +4489,28 @@
       "duration_ms": 224072,
       "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"
+    },
+    {
+      "album": {
+        "name": "Sun Maahi",
+        "url": "https://open.spotify.com/album/4EoDmQSqtj9lJKUu8vjKbR"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169404,
+      "name": "Sun Maahi",
+      "url": "https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X"
     },
     {
       "album": {

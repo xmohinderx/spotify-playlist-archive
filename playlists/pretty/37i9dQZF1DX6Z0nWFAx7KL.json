@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 27741,
+  "num_followers": 27773,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3NDQ2MiwwMDAwMDAwMDM4OTAzMmVkMWVjYmY2ODE1M2M4NDRkZGNhOGFjNzFi",
+  "snapshot_id": "MTY3MTE3NDQ2MiwwMDAwMDAwMDJkOTFjNWEyZWRkMTc1NWVkYWExNDY3ZDk2ZDk3ZDYy",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
-      "added_at": "2022-12-19 00:15:12",
+      "added_at": "2022-12-20 00:33:18",
       "album": {
         "name": "Don't Let Go",
         "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
@@ -575,30 +575,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Who's Holding You",
         "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Lightning To Strike",
-        "url": "https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "Lightning To Strike",
-      "url": "https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -811,6 +811,22 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -871,22 +887,6 @@
       "duration_ms": 208995,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
-      },
-      "artists": [
-        {
-          "name": "MAFQEES",
-          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Talk (Remixes)",
         "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 192928,
       "name": "Talk (with Royal & the Serpent)",
       "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
+      },
+      "artists": [
+        {
+          "name": "MAFQEES",
+          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
-      },
-      "artists": [
-        {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1239,22 +1223,34 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
       },
       "artists": [
         {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        },
-        {
-          "name": "Pool Blue",
-          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+          "name": "Sem Vox",
+          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
         }
       ],
-      "duration_ms": 147599,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
+      "duration_ms": 155520,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
+    },
+    {
+      "added_at": "2022-12-20 00:33:18",
+      "album": {
+        "name": "All The Highs (Alternate Versions)",
+        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 231543,
+      "name": "All The Highs - Slowed",
+      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1275,6 +1271,26 @@
       "duration_ms": 171696,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        },
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "duration_ms": 147599,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 166451,
       "name": "Some Kind Of Love",
       "url": "https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z"
-    },
-    {
-      "added_at": "2022-12-19 00:15:12",
-      "album": {
-        "name": "All The Highs (Alternate Versions)",
-        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 231543,
-      "name": "All The Highs - Slowed",
-      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/3GjLINFWwkDBAylZHl4jLY"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 158608,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2022-12-01 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Jadu Heart",
-  "num_followers": 110768,
+  "num_followers": 110772,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMGYyYjc4ZDBhMDRlNDUxNTcyOWMxZTNjYTA0NjM0MjY2",
+  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMDk2ZDU5Y2FlMjYxZDYwNWMyN2M5MTJiOTFiMmFjMDU2",
   "tracks": [
     {
       "added_at": "2022-11-25 00:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Thick of the Honey",
-      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Ethel",
-        "url": "https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 269409,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Miss Power",
         "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 137840,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Ethel",
+        "url": "https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 269409,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "I Know You Care",
-        "url": "https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t"
+        "name": "Sell Out",
+        "url": "https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ"
       },
       "artists": [
         {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
         }
       ],
-      "duration_ms": 188759,
-      "name": "I Know You Care",
-      "url": "https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1"
+      "duration_ms": 187453,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/5aWaPqgkheottumavM0tix"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Sell Out",
-        "url": "https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ"
+        "name": "I Know You Care",
+        "url": "https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t"
       },
       "artists": [
         {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 187453,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/5aWaPqgkheottumavM0tix"
+      "duration_ms": 188759,
+      "name": "I Know You Care",
+      "url": "https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Dreams, Pains & Paper Planes",
         "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 201942,
       "name": "I'm Just High",
       "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Hachiko",
-        "url": "https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce"
-      },
-      "artists": [
-        {
-          "name": "Nathan Day",
-          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
-        }
-      ],
-      "duration_ms": 174652,
-      "name": "Hachiko",
-      "url": "https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Kids 1995",
         "url": "https://open.spotify.com/album/70LOOk3n3ZDNtAvJ6JJ6aP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 276347,
       "name": "Kids 1995",
       "url": "https://open.spotify.com/track/6NbywDH5W9ZaSNWlnqAcAB"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Hachiko",
+        "url": "https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce"
+      },
+      "artists": [
+        {
+          "name": "Nathan Day",
+          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
+        }
+      ],
+      "duration_ms": 174652,
+      "name": "Hachiko",
+      "url": "https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "At Least I'm Free",
+        "url": "https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP"
+      },
+      "artists": [
+        {
+          "name": "WAAX",
+          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Read Receipts",
+      "url": "https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Factor 50!",
         "url": "https://open.spotify.com/album/7x3JedGA6zLR2K8nmYQy9H"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "At Least I'm Free",
-        "url": "https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP"
-      },
-      "artists": [
-        {
-          "name": "WAAX",
-          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Read Receipts",
-      "url": "https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Never Good Enough",
         "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Superblue",
-        "url": "https://open.spotify.com/album/3Pu25k3w3yE4Qfli9VqFP4"
+        "name": "World Below",
+        "url": "https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i"
       },
       "artists": [
         {
-          "name": "Voodoo Bandits",
-          "url": "https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T"
+          "name": "Baby Strange",
+          "url": "https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS"
         }
       ],
-      "duration_ms": 199374,
-      "name": "Superblue",
-      "url": "https://open.spotify.com/track/2xeyM4a9TxmBjPR13AG7CG"
+      "duration_ms": 174800,
+      "name": "I Feel So Cold But It's Warm Outside",
+      "url": "https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc"
     }
   ],
   "unique_name": "pulp",

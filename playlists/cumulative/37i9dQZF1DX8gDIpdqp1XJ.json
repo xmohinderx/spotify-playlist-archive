@@ -2817,7 +2817,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 252319,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
@@ -6451,6 +6451,24 @@
       "duration_ms": 276413,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0zWyIZOIBPtSEpAIfNiCb8"
+    },
+    {
+      "album": {
+        "name": "Being No One, Going Nowhere",
+        "url": "https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276413,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c"
     },
     {
       "album": {

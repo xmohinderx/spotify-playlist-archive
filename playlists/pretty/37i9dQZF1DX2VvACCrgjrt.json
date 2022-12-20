@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Nostalgix",
-  "num_followers": 405619,
+  "num_followers": 405761,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGFhZWEzZWYyNTMzYTJmNmI3YjgxYmQ0OWVhNjE0NDBh",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDg5YmU3MzVjYTkzYzMyNDgxNmNjYTk4OWM1ZmIwZWE0",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "House Call",
-          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
-        }
-      ],
-      "duration_ms": 138537,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Like Before",
         "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
       },
@@ -541,6 +521,26 @@
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
+        }
+      ],
+      "duration_ms": 138537,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Pump This",
@@ -563,22 +563,6 @@
       "duration_ms": 161484,
       "name": "Pump This",
       "url": "https://open.spotify.com/track/4EweZdJGV0nKkuhBO5jJoO"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/2AICKoS2vYrkwLjYEnyiYJ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 150761,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/3cOpv6dg4JYT2ZegTxw5XF"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 213333,
       "name": "Gang Gang",
       "url": "https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/2AICKoS2vYrkwLjYEnyiYJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 150761,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/3cOpv6dg4JYT2ZegTxw5XF"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Losing My Mind (with Elohim)",
-        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 206141,
-      "name": "Losing My Mind (with Elohim)",
-      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Losing My Mind (with Elohim)",
+        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 206141,
+      "name": "Losing My Mind (with Elohim)",
+      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 199384,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
-    },
-    {
-      "added_at": "2022-10-07 13:49:01",
-      "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Supah Fly",
-      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -951,6 +931,26 @@
       "duration_ms": 200366,
       "name": "Next Level - Habstrakt Remix",
       "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
+    },
+    {
+      "added_at": "2022-10-07 13:49:01",
+      "album": {
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Supah Fly",
+      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1013,6 +1013,26 @@
       "url": "https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Set The Tempo (feat. HQA)",
+        "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
+      },
+      "artists": [
+        {
+          "name": "PBH & JACK",
+          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
+        },
+        {
+          "name": "HQA",
+          "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
+        }
+      ],
+      "duration_ms": 183434,
+      "name": "Set The Tempo (feat. HQA)",
+      "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Deja Vu",
@@ -1037,42 +1057,6 @@
       "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Set The Tempo (feat. HQA)",
-        "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
-      },
-      "artists": [
-        {
-          "name": "PBH & JACK",
-          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
-        },
-        {
-          "name": "HQA",
-          "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
-        }
-      ],
-      "duration_ms": 183434,
-      "name": "Set The Tempo (feat. HQA)",
-      "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Make It Good",
-        "url": "https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 159344,
-      "name": "Make It Good",
-      "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Rush",
@@ -1091,6 +1075,22 @@
       "duration_ms": 232727,
       "name": "Rush",
       "url": "https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Make It Good",
+        "url": "https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 159344,
+      "name": "Make It Good",
+      "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Snakes On My Chest",
-        "url": "https://open.spotify.com/album/2aZLa2Fb3Rua6dBHfwEFUr"
-      },
-      "artists": [
-        {
-          "name": "Ilkan Gunuc",
-          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
-        },
-        {
-          "name": "Oliver Cricket",
-          "url": "https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Snakes On My Chest",
-      "url": "https://open.spotify.com/track/5OdiCCcYYGP0vrwkT6ONz7"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Move To The Beat Like",
         "url": "https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Snakes On My Chest",
+        "url": "https://open.spotify.com/album/2aZLa2Fb3Rua6dBHfwEFUr"
+      },
+      "artists": [
+        {
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+        },
+        {
+          "name": "Oliver Cricket",
+          "url": "https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Snakes On My Chest",
+      "url": "https://open.spotify.com/track/5OdiCCcYYGP0vrwkT6ONz7"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC"
-      },
-      "artists": [
-        {
-          "name": "Brandon Mints",
-          "url": "https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Funky Sound",
@@ -1499,6 +1483,22 @@
       "duration_ms": 139921,
       "name": "Funky Sound",
       "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC"
+      },
+      "artists": [
+        {
+          "name": "Brandon Mints",
+          "url": "https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1521,26 +1521,6 @@
       "url": "https://open.spotify.com/track/2h6fLwmfDafmP1ImJFFskj"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs"
-      },
-      "artists": [
-        {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
-        },
-        {
-          "name": "Maroox",
-          "url": "https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU"
-        }
-      ],
-      "duration_ms": 188287,
-      "name": "Another Level",
-      "url": "https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Techno",
@@ -1559,6 +1539,26 @@
       "duration_ms": 222260,
       "name": "Techno",
       "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        },
+        {
+          "name": "Maroox",
+          "url": "https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU"
+        }
+      ],
+      "duration_ms": 188287,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1623,6 +1623,22 @@
       "duration_ms": 177560,
       "name": "Zone",
       "url": "https://open.spotify.com/track/5G51lE61WAkzCOoaljqoHe"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "CONTROVERSIA by Alok Vol. 008",
+        "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1913,22 +1929,6 @@
       "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "CONTROVERSIA by Alok Vol. 008",
-        "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Fool",
@@ -2021,22 +2021,6 @@
       "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "City Of Lights",
-        "url": "https://open.spotify.com/album/0lhKewAQzYzvNyONpUKhjE"
-      },
-      "artists": [
-        {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "City Of Lights",
-      "url": "https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Who I Am",
@@ -2083,6 +2067,22 @@
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "City Of Lights",
+        "url": "https://open.spotify.com/album/0lhKewAQzYzvNyONpUKhjE"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "City Of Lights",
+      "url": "https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2201,6 +2201,26 @@
       "url": "https://open.spotify.com/track/18RDXgNcOosDmIxB2Bk8ke"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Westcoaster (AC Slater Remix)",
@@ -2255,26 +2275,6 @@
       "duration_ms": 265049,
       "name": "FYPM",
       "url": "https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Dark Side",
-        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Dark Side",
-      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2343,22 +2343,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/2VtYqahuMFHZdWWBWbpteH"
+        "name": "Come Again (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z"
       },
       "artists": [
         {
-          "name": "7vvch",
-          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         },
         {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+          "name": "Shahay",
+          "url": "https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/1HUTwupwYQDzD4xA5pNeFw"
+      "duration_ms": 256644,
+      "name": "Come Again (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N"
     }
   ],
   "unique_name": "Nasty Bits",

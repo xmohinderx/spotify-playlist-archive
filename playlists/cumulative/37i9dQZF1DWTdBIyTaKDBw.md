@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-181 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4JM95H8vsjsz2KMA6pkYt7)
+182 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/4JM95H8vsjsz2KMA6pkYt7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Precious Love](https://open.spotify.com/track/01ZTDb5OetwkYVR3BwKgKY) | [Park Ji Yoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [parkjiyoon 20th anniversary photo&live album](https://open.spotify.com/album/1EN66ikVqxvfD0uFgHZZa5) | 3:49 | 2022-05-03 | 2022-07-29 |
 | [PRIMAVERA \(프리마베라\)](https://open.spotify.com/track/2diLJdq5a4jvvgqsE5Tm6s) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [PRIMAVERA \(프리마베라\)](https://open.spotify.com/album/7L6k19ckCUmKlFU02m6ycx) | 5:14 | 2022-05-03 | 2022-07-29 |
 | [Privacy](https://open.spotify.com/track/4WxthDZgaQqmj5tIuneDNX) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:07 | 2022-05-03 | 2022-09-09 |
-| [Propose](https://open.spotify.com/track/5yygP5IhQWB6NExGRGziYZ) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/7rMCv5t7oZdLsWQWnDx72w) | 2:44 | 2022-05-03 |  |
+| [Propose](https://open.spotify.com/track/5yygP5IhQWB6NExGRGziYZ) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/7rMCv5t7oZdLsWQWnDx72w) | 2:44 | 2022-05-03 | 2022-12-20 |
 | [Purple Breeze](https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.5\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/07u6A8DhvM1hTFTQy9qRIw) | 4:11 | 2022-05-03 | 2022-07-26 |
 | [Rain](https://open.spotify.com/track/5n368tNF47S70THlmpaGLf) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Rain](https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ) | 3:57 | 2022-05-03 |  |
 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 | 2022-05-03 |  |
@@ -185,6 +185,7 @@
 | [안되나요](https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z) | 4:30 | 2022-07-22 | 2022-09-09 |
 | [안되나요](https://open.spotify.com/track/6kHgb8w8fxyJ0ppZJKH4DS) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 4:30 | 2022-05-03 | 2022-07-19 |
 | [어떡해 \(Feat\. 스텔라장\)](https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob) | [이요한](https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD) | [하지 말라면 더 하고 19 Part.2](https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6) | 4:20 | 2022-07-22 |  |
+| [이른 겨울\(Feat\. Gist, 기원\(Giwon\)\)](https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [기원 \(Giwon\)](https://open.spotify.com/artist/1sf52yxej6A0Yso1Gv7vdY) | [이른 겨울](https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu) | 2:52 | 2022-12-19 |  |
 | [잠들고 싶어\(zZ\)](https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 3:37 | 2022-05-03 |  |
 | [청춘일기 Our Time](https://open.spotify.com/track/5hjqgWCsHtmCI3KRcQpsuP) | [Jyunky](https://open.spotify.com/artist/0LjLDn3Psx4Wb0SXbqJouN) | [청춘일기 Our Time](https://open.spotify.com/album/5EuVbFOnoErXKcPBDgWxTn) | 3:55 | 2022-05-03 | 2022-07-28 |
 | [체념](https://open.spotify.com/track/2p0KqN6uxCMCzqIywTwNGl) | [Yoon Min Soo](https://open.spotify.com/artist/1BRBN3FGChQUlZW6QFDKfq), [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [나는 가수다 경연 10\-1\. 듀엣곡 부르기](https://open.spotify.com/album/3NM8u1qmPkCHFhRmpBXXKK) | 6:18 | 2022-06-13 | 2022-07-29 |

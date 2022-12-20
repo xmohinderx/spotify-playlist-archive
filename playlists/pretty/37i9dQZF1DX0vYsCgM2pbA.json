@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 108245,
+  "num_followers": 108298,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDM4NDRhZWI1ODVhMGY2NjM5YTI5NjU5MmNiNGYxMDdl",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDQwYTNhNmNhY2Q3ZjRiZDY2YWU4YjBmNzdjZTI4ODYx",
   "tracks": [
     {
       "added_at": "2022-12-15 13:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Atlas (Light / Dark Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Sundream",
-      "url": "https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Tomorrows",
         "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 202253,
       "name": "Can't Do Without (My Baby)",
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Atlas (Light / Dark Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Sundream",
+      "url": "https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "OoooH",
         "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
       },
@@ -799,26 +783,6 @@
       "duration_ms": 202017,
       "name": "OoooH",
       "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Love Is Real",
-        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Love Is Real",
-      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -843,6 +807,26 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
+        "name": "Love Is Real",
+        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 154960,
       "name": "See In Color",
       "url": "https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Touch (feat. Rromarin)",
-        "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Touch (feat. Rromarin)",
-      "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Bang My Line (feat. Tkay Maidza)",
         "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
       },
@@ -939,6 +919,26 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
+        "name": "Touch (feat. Rromarin)",
+        "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Touch (feat. Rromarin)",
+      "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
       },
@@ -951,6 +951,30 @@
       "duration_ms": 293775,
       "name": "Feel It Too",
       "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "So Far to Go",
+        "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "No\u00e9",
+          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Sun Moon",
+      "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -991,30 +1015,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "So Far to Go",
-        "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
-      },
-      "artists": [
-        {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
-        },
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "No\u00e9",
-          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Sun Moon",
-      "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Waiting for Nothing (feat. Yaeger)",
         "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 248169,
       "name": "Waiting for Nothing (feat. Yaeger)",
       "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     },
     {
       "added_at": "2022-12-15 13:00:00",

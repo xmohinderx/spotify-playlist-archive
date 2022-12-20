@@ -4,7 +4,7 @@
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-173 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/3Z8zm9B7hkX1o3xTsJ8Z1Z)
+175 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/3Z8zm9B7hkX1o3xTsJ8Z1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Love & Hate](https://open.spotify.com/track/0szjogw2vC9hu0VFYDPbdy) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Love & Hate](https://open.spotify.com/album/5yEDJLRBIB0qkIuh1Kqjil) | 3:53 | 2022-08-18 |  |
 | [Love It](https://open.spotify.com/track/15mBSt3MhEZF4bilQ1Hgwm) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Twin Flame Riddim](https://open.spotify.com/album/03wfRdMR3Tqt7y4sNJwkxL) | 3:24 | 2021-08-26 | 2022-02-25 |
 | [Magic](https://open.spotify.com/track/6APtPVoHSHsMvxHuyW6TKC) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [We Home](https://open.spotify.com/album/3gMFkeH1NpKPTEJKPxkIF8) | 4:10 | 2021-08-26 | 2022-02-25 |
-| [Mash Up](https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/5zz01v5QiZmweXPy0ctPmV) | 3:04 | 2022-02-24 |  |
+| [Mash Up](https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/5zz01v5QiZmweXPy0ctPmV) | 3:04 | 2022-02-24 | 2022-12-20 |
+| [Mash Up](https://open.spotify.com/track/7gERxWoMY5cCFJ4Oyy8qnC) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/4DngCnXAuryTNHVFR1kGtp) | 3:04 | 2022-08-18 |  |
 | [Mash Up](https://open.spotify.com/track/4aoNC3tF8z1wxhJ0ysQGFR) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Mash Up](https://open.spotify.com/album/3oKIMBVHVEB6O62tRjR2rQ) | 3:10 | 2022-02-26 | 2022-08-19 |
 | [Mi Shell](https://open.spotify.com/track/7b0R5v7Fdzx6BuiwCU41Nh) | [Tallpree](https://open.spotify.com/artist/26XGjOXHl9VOiPtxXakyLE) | [Drums by the River Riddim](https://open.spotify.com/album/6rK4ta4BOvpkl06PXD5rdK) | 2:39 | 2022-02-24 | 2022-08-19 |
 | [Midnight Cruise](https://open.spotify.com/track/22awu0GezGlAbQPqhYsnDR) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Midnight Cruise](https://open.spotify.com/album/01aLKJjUhez1j6vgg2kWgh) | 3:25 | 2021-08-26 | 2022-02-25 |
@@ -150,7 +151,8 @@
 | [Special Delight](https://open.spotify.com/track/5Pm8oqFW021lbkX0EsiJG4) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Boat Cruise Riddim](https://open.spotify.com/album/2ydLKJOG6p9nszhtXJSPwD) | 2:47 | 2022-02-24 | 2022-08-19 |
 | [Splinters](https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [The 2:00AM Project](https://open.spotify.com/album/20XQxBrkD07fk55JehBpjq) | 3:35 | 2021-08-26 | 2022-02-27 |
 | [Stage Gone Bad](https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Stage Gone Bad](https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5) | 3:13 | 2021-08-26 | 2022-02-25 |
-| [Stink Behavior](https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T) | 3:31 | 2022-08-18 |  |
+| [Stink Behavior](https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T) | 3:31 | 2022-08-18 | 2022-12-20 |
+| [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 | 2022-08-18 |  |
 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 | 2021-08-26 | 2022-02-25 |
 | [Sugar Daddy](https://open.spotify.com/track/10MtiXMthr7GxRTU95q6pR) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Sugar Daddy](https://open.spotify.com/album/5FDNeTkYaUhcYqlzQ43j8G) | 3:01 | 2021-08-26 | 2022-10-05 |
 | [Sugar Daddy](https://open.spotify.com/track/2uvf8lluCCoW5byQlC0HWb) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Sugar Daddy](https://open.spotify.com/album/4HlIvkeKFTjNahgxOFsVEW) | 3:01 | 2022-08-18 | 2022-11-13 |

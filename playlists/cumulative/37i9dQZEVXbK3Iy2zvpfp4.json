@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
@@ -3039,7 +3039,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -8555,7 +8555,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 165428,
       "name": "She's A 10 But...",
       "url": "https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD"
@@ -8893,7 +8893,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
@@ -9955,7 +9955,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 84817,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD"
@@ -11243,6 +11243,28 @@
       "duration_ms": 148148,
       "name": "\u0422\u044b \u0438 \u042f",
       "url": "https://open.spotify.com/track/75C98tVaHUtjYZTIcy9U7U"
+    },
+    {
+      "album": {
+        "name": "\u0422\u044b \u0438 \u042f",
+        "url": "https://open.spotify.com/album/709K3gR9ySWpUQLIGzl7lT"
+      },
+      "artists": [
+        {
+          "name": "yeanix",
+          "url": "https://open.spotify.com/artist/6tqRPlUavLUI398ZRw7M6e"
+        },
+        {
+          "name": "Mooney Tunes",
+          "url": "https://open.spotify.com/artist/6E0mkX5e82a2mza83653qh"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182909,
+      "name": "\u0422\u044b \u0438 \u042f - TikTok Remix",
+      "url": "https://open.spotify.com/track/0r4jCVUB3qi59WrA4O7Qoa"
     },
     {
       "album": {

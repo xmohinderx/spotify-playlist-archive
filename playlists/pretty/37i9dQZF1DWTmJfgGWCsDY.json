@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 783,
+  "num_followers": 785,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NjUwOCwwMDAwMDAwMGFmOTk0ZjcyNDE2OTU0ZDcyMGZjYzIyNzE1YWM1YzUw",
+  "snapshot_id": "MTY3MTE5NjUwOCwwMDAwMDAwMGI3NTgwNjM5YzUxNGE1N2Y5MzBjNzk3N2M3MmYxNWY1",
   "tracks": [
     {
       "added_at": "2022-11-24 20:59:00",
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Maturity EP",
-        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 270460,
-      "name": "Hatujui",
-      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
         "name": "Sina",
         "url": "https://open.spotify.com/album/79dZuymOBdhdcLjwkiHa18"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 297853,
       "name": "Sina",
       "url": "https://open.spotify.com/track/18BfciF0Zk46ZDuCVGj5gv"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Maturity EP",
+        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 270460,
+      "name": "Hatujui",
+      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -459,8 +459,8 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Sanamu La Michelini",
-        "url": "https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG"
+        "name": "Nalimwaga",
+        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
       },
       "artists": [
         {
@@ -468,13 +468,13 @@
           "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
         },
         {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 233866,
-      "name": "Sanamu La Michelini",
-      "url": "https://open.spotify.com/track/4izbp6tGtMpur0Dw05Wmql"
+      "duration_ms": 224906,
+      "name": "Nalimwaga",
+      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -499,42 +499,6 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
         "name": "We Nani",
         "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
       },
@@ -551,26 +515,6 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Nalimwaga",
-        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Nalimwaga",
-      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
         "name": "Poaa",
         "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
       },
@@ -583,6 +527,38 @@
       "duration_ms": 278233,
       "name": "Linga Linga - feat. Makaveli",
       "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+        }
+      ],
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -607,18 +583,42 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Sanamu La Michelini",
+        "url": "https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "Sanamu La Michelini",
+      "url": "https://open.spotify.com/track/4izbp6tGtMpur0Dw05Wmql"
     },
     {
       "added_at": "2022-11-07 14:48:19",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Chura Superstar",
+        "url": "https://open.spotify.com/album/5M4vDpC8xehFml0hAOXrVi"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 349880,
+      "name": "Chura Superstar",
+      "url": "https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Wapambe",
         "url": "https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie"
       },
@@ -705,10 +721,10 @@
       "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
     },
     {
-      "added_at": "2022-09-22 20:59:00",
+      "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Kwanini",
-        "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
       },
       "artists": [
         {
@@ -716,29 +732,13 @@
           "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
         },
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Kwanini",
-      "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Chura Superstar",
-        "url": "https://open.spotify.com/album/5M4vDpC8xehFml0hAOXrVi"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 349880,
-      "name": "Chura Superstar",
-      "url": "https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg"
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -777,26 +777,6 @@
       "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
     },
     {
-      "added_at": "2022-09-08 20:59:00",
-      "album": {
-        "name": "Singeli Twista",
-        "url": "https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Ay Masta",
-          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
-        }
-      ],
-      "duration_ms": 204252,
-      "name": "Singeli Twista",
-      "url": "https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV"
-    },
-    {
       "added_at": "2022-08-05 09:59:04",
       "album": {
         "name": "Motoni Kumedamshi",
@@ -833,10 +813,30 @@
       "url": "https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP"
     },
     {
-      "added_at": "2022-08-05 09:59:04",
+      "added_at": "2022-09-08 20:59:00",
       "album": {
-        "name": "Siyo Shida Zangu",
-        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+        "name": "Singeli Twista",
+        "url": "https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb"
+      },
+      "artists": [
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Ay Masta",
+          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
+        }
+      ],
+      "duration_ms": 204252,
+      "name": "Singeli Twista",
+      "url": "https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Kwanini",
+        "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
       },
       "artists": [
         {
@@ -844,29 +844,13 @@
           "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
         },
         {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 239612,
-      "name": "Siyo Shida Zangu",
-      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
-      },
-      "artists": [
-        {
           "name": "Balaa MC",
           "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+      "duration_ms": 275680,
+      "name": "Kwanini",
+      "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -883,6 +867,22 @@
       "duration_ms": 239972,
       "name": "Honey Wangu",
       "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
     },
     {
       "added_at": "2022-08-05 09:59:04",

@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Nabi
 
-358 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+359 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Per i Roiz 2](https://open.spotify.com/track/0wqh8UaAV1rqMyFOtFRWMT) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Nevia](https://open.spotify.com/artist/2CcJATfFG50akqpHUVp1be) | [Per i Roiz 2](https://open.spotify.com/album/55RAY16Dyy9bMIfyKRKatF) | 2:33 | 2022-10-13 | 2022-11-18 |
 | [PIACERE FRANCESCO](https://open.spotify.com/track/7rbsHurbo79lcr954mwjyw) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [PIACERE FRANCESCO](https://open.spotify.com/album/0vaYb9C3HxAFGwPJvIypgR) | 2:41 | 2022-05-10 | 2022-05-27 |
 | [PICCOLI](https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PICCOLI](https://open.spotify.com/album/552cO0pQzMzCNVkwLKkV8N) | 2:43 | 2022-05-10 | 2022-07-01 |
+| [PKS \#1](https://open.spotify.com/track/5Zwra4gIbI6kX7RBLKN4ip) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [PKS \#1](https://open.spotify.com/album/27sjVJxmPuZ8ofeeuDRbsX) | 2:09 | 2022-12-19 |  |
 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 | 2022-08-25 | 2022-12-09 |
 | [PLAYA](https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [PLAYA](https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE) | 2:34 | 2022-07-26 |  |
 | [Possessivo](https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Possessivo](https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN) | 2:35 | 2022-06-20 | 2022-11-30 |

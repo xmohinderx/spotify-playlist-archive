@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: d4vd
 
-1,989 songs - 4 day 10 hr 30 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,990 songs - 4 day 10 hr 33 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [Lightning \(feat\. Nana Lourdes\)](https://open.spotify.com/track/3aAKeyBdBRwWEOdFwkGXFx) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ), [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Lightning \(feat\. Nana Lourdes\)](https://open.spotify.com/album/78J8kbGoQHu0SNmm5A0tl4) | 2:49 | 2020-08-30 | 2020-09-12 |
 | [Lightning Of July](https://open.spotify.com/track/1gqhKpica2xrkDE9E3nNTv) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:56 | 2022-04-08 | 2022-08-06 |
 | [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 | 2022-02-02 | 2022-04-12 |
+| [Lights Out](https://open.spotify.com/track/4yK3xXuNrkSq0OVjKUaCkY) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:12 | 2022-12-19 |  |
 | [Lights Up](https://open.spotify.com/track/2plLJpUcYPFrl1sW2pMG63) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Lights Up](https://open.spotify.com/album/4Aag1alBrdk2TFnATVmn8D) | 2:52 | 2019-10-11 | 2020-04-02 |
 | [Like a Prayer \- Live](https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:27 | 2022-04-19 | 2022-06-10 |
 | [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-04 | 2021-08-14 |

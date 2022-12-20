@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,056 songs - 1 day 15 hr 59 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+1,056 songs - 1 day 15 hr 57 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Awakening](https://open.spotify.com/track/28TFSOJsr6zUIujZ9vvpOK) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Awakening](https://open.spotify.com/album/2LlvQDAl15bYhNSij713zO) | 1:48 | 2022-01-27 | 2022-09-03 |
 | [Baby Steps](https://open.spotify.com/track/1wHj1ok3aquNUubrCtcw7Q) | [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Baby Steps](https://open.spotify.com/album/1H3QOGHdXsCykOviRZe4N2) | 3:26 | 2022-08-12 | 2022-10-15 |
 | [Backhome](https://open.spotify.com/track/6sRDG18KiJrhoQuZJbTZi5) | [tatuí](https://open.spotify.com/artist/1h4sBiq6QUcJXyoUZDJCUu) | [Backhome](https://open.spotify.com/album/3g12yPQDZGTOsoyw6c676z) | 2:39 | 2022-09-02 |  |
+| [Balancing](https://open.spotify.com/track/6R5TBVKCGiV8ITQxBRXAz0) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Balancing](https://open.spotify.com/album/7jfKj6qTIRZM0qiRT2TFea) | 2:14 | 2022-12-16 |  |
 | [bald buff activated](https://open.spotify.com/track/1HL0PG4hoX3UQjliOpKowg) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Fnatic Island Vol\. 1](https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO) | 2:16 | 2022-11-11 |  |
 | [Baltazar](https://open.spotify.com/track/21x7LtSZQuLHu8rvemDmwS) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Baltazar](https://open.spotify.com/album/4k0Ig8ZwBID6I8tNJdCbzx) | 1:54 | 2022-12-09 |  |
 | [bay shore](https://open.spotify.com/track/6llUwBtLfgXBGxdnbzmpJj) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [bay shore](https://open.spotify.com/album/6wzmtKhymLk2sO4spvHCgs) | 1:52 | 2022-07-15 |  |
@@ -189,7 +190,6 @@
 | [Cloudy Paris \- Outro](https://open.spotify.com/track/4Grjo6qa6xvsO5xAHv6EJ1) | [Maxgonz](https://open.spotify.com/artist/5tqEVMpVVTtvK0AryNVoZY) | [Cloudy Paris \(Outro\)](https://open.spotify.com/album/32qWBkNzvYTaMWI7iAD9j1) | 1:07 | 2022-08-05 | 2022-12-17 |
 | [Coastal View](https://open.spotify.com/track/5dVzfbqB2GJd0yqsC5qP1d) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Coastal View](https://open.spotify.com/album/2v8W44dmqzSY8F8yhXW0al) | 2:29 | 2022-07-01 | 2022-12-10 |
 | [Cocody](https://open.spotify.com/track/2S5zCpMUfE6Vf0OfSp47lC) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Cocody](https://open.spotify.com/album/31XVK9Arz6Ak5LU7UXGu90) | 1:44 | 2022-09-23 |  |
-| [coffe break](https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [coffe break](https://open.spotify.com/album/2VDL52SN0l9MUAvkrC7d5y) | 2:32 | 2022-12-16 |  |
 | [coffe break](https://open.spotify.com/track/27nTIPsA7DPskQHdX7kAUR) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [coffe break](https://open.spotify.com/album/3pr0z0UHmCRgguVjgU8WE3) | 2:32 | 2022-12-16 |  |
 | [Coffee And Pie, Oh My!](https://open.spotify.com/track/1RKHfYrGwQVGld7XO2lOSt) | [Trainsleeper](https://open.spotify.com/artist/5vjsK1KRuMhzdFJHYI8ll5) | [Coffee And Pie, Oh My!](https://open.spotify.com/album/4BQSUpeKpiaLhbf8C3oe1H) | 1:47 | 2022-05-20 | 2022-11-26 |
 | [Coffee Bean](https://open.spotify.com/track/7vQW3Ml7G1AOpQhWHRz2Hh) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Coffee Bean](https://open.spotify.com/album/6XN9QFx0kHgb98qP2E4MB9) | 2:12 | 2022-01-27 | 2022-10-29 |
@@ -296,7 +296,6 @@
 | [Everything I'm not](https://open.spotify.com/track/3VRUnokiLze9VzGfeQWt8i) | [lowerful](https://open.spotify.com/artist/5vud9meb096x8pcNKiGDAm) | [Everything I'm not](https://open.spotify.com/album/25MzO5IM7UJI0YLX1eNfbM) | 1:48 | 2022-01-27 |  |
 | [Everything Stays](https://open.spotify.com/track/29nWlq0PgQvHqtDy54KHQz) | [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Everything Stays](https://open.spotify.com/album/3kvj4lNvoVnljnMXEiJGph) | 2:59 | 2022-01-27 | 2022-06-10 |
 | [Everything's Better With You](https://open.spotify.com/track/49mdBU2g01KDLPhsbadqgo) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:06 | 2022-01-27 |  |
-| [Existence](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Existence](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:48 | 2022-12-16 |  |
 | [extra air](https://open.spotify.com/track/6cwopXxD0cUYOo3g03GUUF) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh) | [extra air](https://open.spotify.com/album/71yot0UAbs7UWxTQh4VCWw) | 2:49 | 2022-09-02 |  |
 | [Fables](https://open.spotify.com/track/14ZQqkb1sbVcURlsjx5dxy) | [itsjrad](https://open.spotify.com/artist/7c4X1eCcicV6EfghXWER9w) | [Laika Beat Tape](https://open.spotify.com/album/5eDhZtUj7QqWECAI7l3kwb) | 2:12 | 2022-01-27 | 2022-06-10 |
 | [Fade Away](https://open.spotify.com/track/0L9PZKDkjAIWrOwAWI100d) | [Gary Alesbrook](https://open.spotify.com/artist/047bXeKqafhgvngu42Dc70) | [Fade Away](https://open.spotify.com/album/38HfVRLtGrA3TCzmBK90T3) | 2:15 | 2022-04-15 | 2022-11-12 |
@@ -433,6 +432,7 @@
 | [Hourglass](https://open.spotify.com/track/3OmQARxvER4irk4nXByqPX) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [The Secret](https://open.spotify.com/album/5E0KO37Nfh58iTAsZZQwmq) | 3:24 | 2022-07-22 | 2022-11-12 |
 | [Humble Beginnings](https://open.spotify.com/track/0UVqHTI07r3WdWVfR00xji) | [Kirolo](https://open.spotify.com/artist/4uOgSzsDfajCRYaCwLGc77) | [Humble Beginnings](https://open.spotify.com/album/410ECFBh7CTxLGzDDslIyV) | 2:51 | 2022-01-27 | 2022-09-03 |
 | [Humungous](https://open.spotify.com/track/182Jbdpfurj3xsJfyw1Mpj) | [Malik Dub](https://open.spotify.com/artist/666jRy7nc2K429rujGn37f) | [Humungous](https://open.spotify.com/album/4eXrXoFqvo1EAgyW9LB5eg) | 2:23 | 2022-01-27 | 2022-09-23 |
+| [I can feel it](https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [I can feel it](https://open.spotify.com/album/2VDL52SN0l9MUAvkrC7d5y) | 1:47 | 2022-12-16 |  |
 | [i feel empty](https://open.spotify.com/track/6kLYMXJQxcArmGYcVueUGR) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [i feel empty](https://open.spotify.com/album/06yV2b0E8Hbw8JzD6vrDwU) | 2:23 | 2022-12-09 |  |
 | [I Know](https://open.spotify.com/track/79AMJyh9oHGXinUaxh6Dd4) | [Nollex](https://open.spotify.com/artist/19WVYQtlRI6EPouvwegNNH) | [Harlow](https://open.spotify.com/album/0X7ddNw3fLTJXDZQ8xW2BQ) | 4:54 | 2022-01-27 | 2022-12-17 |
 | [I Needed](https://open.spotify.com/track/6rsCeQsdo9VyUeJkc9ozgB) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 2:00 | 2022-01-27 | 2022-06-10 |
@@ -475,6 +475,7 @@
 | [Jazz On The Rooftop](https://open.spotify.com/track/2IbaMbnKrLhOrKHFRaAesi) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Jazz On The Rooftop](https://open.spotify.com/album/4WpvyjzMbEMdQNhxx2mw21) | 1:54 | 2022-11-11 |  |
 | [jazz patterns](https://open.spotify.com/track/5RJF9tfEnpKUK75fXG0iM8) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [jazz patterns](https://open.spotify.com/album/0Mj31E62zRp5dBbaMNVrpV) | 1:42 | 2022-01-27 | 2022-04-22 |
 | [jazzfriends](https://open.spotify.com/track/6MZHm52Y666ah3rKO9LG5Z) | [Kudasaibeats](https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2) | [aerodynamic](https://open.spotify.com/album/7kAsmj6f9OH0gOpbJL2goO) | 1:16 | 2022-09-09 | 2022-11-12 |
+| [Jazzie Evening](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Jazzie Evening](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:05 | 2022-12-16 |  |
 | [Jazzing Around](https://open.spotify.com/track/7lYqr04JdvnVuBtZGeJ11y) | [Chrisse & The Other One](https://open.spotify.com/artist/4akjZ3i0I09kiUhqwJ19pN) | [Jazzing Around](https://open.spotify.com/album/6Bqn4JkgAM3scloG6okwMi) | 2:11 | 2022-10-15 |  |
 | [Jazzy](https://open.spotify.com/track/7lI4TBcLfevzVzLpBjuloh) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Jazzy](https://open.spotify.com/album/5ClcYdNTl3QfNATJQWcJ1S) | 2:24 | 2022-07-01 | 2022-12-10 |
 | [jazzy day](https://open.spotify.com/track/3nAJcl7mmWnBzRYjpIKgJ4) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR) | [jazzy day](https://open.spotify.com/album/2QrJkHjLrPWo1PmSAkRXWh) | 3:34 | 2022-06-17 | 2022-07-01 |
@@ -522,7 +523,6 @@
 | [lighthouse](https://open.spotify.com/track/6GaYn3Z1Eyz4xjA0Nuw98k) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [lighthouse](https://open.spotify.com/album/7hJQ6X9HRM1tq0xISbWYVZ) | 1:58 | 2022-10-08 |  |
 | [Lights Down](https://open.spotify.com/track/0rjbtVM8enAg85s1zc4Bpt) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Lights Down](https://open.spotify.com/album/4xCrjBY0N8JF8Tdqt4vLLu) | 1:40 | 2022-09-02 |  |
 | [Lights Out](https://open.spotify.com/track/0RPC5TjgZ2J8ILaeO9Z60B) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Lights Out](https://open.spotify.com/album/3jo6GWMSzyU8HckHKNUxSO) | 1:57 | 2022-11-25 |  |
-| [Like Saffron](https://open.spotify.com/track/6R5TBVKCGiV8ITQxBRXAz0) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Like Saffron](https://open.spotify.com/album/7jfKj6qTIRZM0qiRT2TFea) | 2:25 | 2022-12-16 |  |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-01-27 | 2022-09-03 |
 | [Liqueur](https://open.spotify.com/track/1KTKgEpAs0sOWl2QavI3bR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Liqueur](https://open.spotify.com/album/67nvpA8be1IUw5DAcx2rPK) | 2:26 | 2022-09-02 |  |
 | [Liquid Force](https://open.spotify.com/track/10bPPpQ60lkYCmoHYB6Y1o) | [Chilimanjaro](https://open.spotify.com/artist/4YZwxJSx2UJYXsIL9W514t) | [Jungle Haze](https://open.spotify.com/album/7Apf1ulc15WJvhlmLGhIKe) | 1:24 | 2022-01-27 | 2022-04-22 |

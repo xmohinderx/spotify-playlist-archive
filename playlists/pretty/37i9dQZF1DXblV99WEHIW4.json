@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 154968,
+  "num_followers": 155120,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGNiMTIxY2ZlZTcyNWVlNmY0ODcwNjdkZmJiY2VjYzg0",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGJmMWNiMDE5NjdjY2NiM2EyNzRkZWE1MjQyM2NhMDc4",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "Dear Agony",
+      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 243140,
       "name": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)",
       "url": "https://open.spotify.com/track/20Kau1BL5IUaPo4l488D57"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 258253,
-      "name": "Dear Agony",
-      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -495,6 +495,38 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "From Death To Destiny",
+        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 242593,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 256746,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Light Me Up",
         "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
       },
@@ -539,38 +571,6 @@
       "duration_ms": 255586,
       "name": "Hereafter",
       "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "From Death To Destiny",
-        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 242593,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
     },
     {
       "added_at": "2022-08-25 23:00:00",

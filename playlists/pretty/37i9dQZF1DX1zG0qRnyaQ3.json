@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 7640,
+  "num_followers": 7717,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGI3MDc3ODFkMjk5YzUzYTU2ZDE2OGEzMTZmNzk0ZTU1",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDZiYjRkZjA3YTIxODY0NTllOGYyYWQ1Y2E5MGI0ZGYy",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Get It Together",
         "url": "https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "If There Was Ever a Time",
         "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "American Attraction",
-        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "American Attraction",
-      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Super Spreader",
         "url": "https://open.spotify.com/album/1MmQCW4IEOyRXWu948orKy"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "Thoughts and Prayers",
-        "url": "https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW"
-      },
-      "artists": [
-        {
-          "name": "Good Riddance",
-          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
-        }
-      ],
-      "duration_ms": 136664,
-      "name": "Our Great Divide",
-      "url": "https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 237840,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "American Attraction",
+        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "Thoughts and Prayers",
+        "url": "https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW"
+      },
+      "artists": [
+        {
+          "name": "Good Riddance",
+          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
+        }
+      ],
+      "duration_ms": 136664,
+      "name": "Our Great Divide",
+      "url": "https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx"
     }
   ],
   "unique_name": "Political Punks",

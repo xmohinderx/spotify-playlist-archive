@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 208105,
+  "num_followers": 208134,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDJlNTA1NWJmMjM0NjVjODY4MmNiZWQ4YTM1YzYyMGMw",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDBhMGZjOTU1Yzk1NmM3ZTYwNmI0MDM1YTIyYmM3YTc1",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Dance",
-        "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Personal Touch",
         "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 308826,
       "name": "A Summer Night's Dream",
       "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Livin' Large",
+      "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Songs From The Night Before",
@@ -347,58 +363,6 @@
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Livin' Large",
-      "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        },
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 285893,
-      "name": "Stone Groove",
-      "url": "https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Just Once (Radio Edit)",
-        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 244450,
-      "name": "Just Once (Radio Edit)",
-      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -439,6 +403,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "duration_ms": 285893,
+      "name": "Stone Groove",
+      "url": "https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
       },
@@ -453,20 +437,52 @@
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Once (Radio Edit)",
+        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 244450,
+      "name": "Just Once (Radio Edit)",
+      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "There's A Riot Goin' On",
+        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Luv N' Haight",
+      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -491,38 +507,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "There's A Riot Goin' On",
-        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Luv N' Haight",
-      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Life And Times",
         "url": "https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 270466,
       "name": "Windfall",
       "url": "https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Groove On!",
-        "url": "https://open.spotify.com/album/5vYhpagdFervgTth43gDBp"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Round and Round",
-      "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "The Morning After",
@@ -623,26 +607,6 @@
       "duration_ms": 301853,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Backyard Brew",
-        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
-      },
-      "artists": [
-        {
-          "name": "The JT Project",
-          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
-        },
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 254376,
-      "name": "Backyard Brew",
-      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -665,6 +629,42 @@
       "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Backyard Brew",
+        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
+      },
+      "artists": [
+        {
+          "name": "The JT Project",
+          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 254376,
+      "name": "Backyard Brew",
+      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Groove On!",
+        "url": "https://open.spotify.com/album/5vYhpagdFervgTth43gDBp"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Round and Round",
+      "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
+    },
+    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Lookin' Up",
@@ -679,6 +679,26 @@
       "duration_ms": 251142,
       "name": "Sharon's Groove",
       "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Funky Fridays, Vol. 2",
+        "url": "https://open.spotify.com/album/4a5MVwLUmqVeT9wGKvhsfi"
+      },
+      "artists": [
+        {
+          "name": "Marlon McClain",
+          "url": "https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq"
+        },
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 199989,
+      "name": "ML Funk",
+      "url": "https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -737,26 +757,6 @@
       "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Funky Fridays, Vol. 2",
-        "url": "https://open.spotify.com/album/4a5MVwLUmqVeT9wGKvhsfi"
-      },
-      "artists": [
-        {
-          "name": "Marlon McClain",
-          "url": "https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq"
-        },
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 199989,
-      "name": "ML Funk",
-      "url": "https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "The Goddess",
@@ -771,6 +771,22 @@
       "duration_ms": 246458,
       "name": "The Goddess",
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Poetry In Motion",
+        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 280613,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -791,22 +807,6 @@
       "duration_ms": 212325,
       "name": "Espresso Shot",
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Poetry In Motion",
-        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 280613,
-      "name": "Stratosphere",
-      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Limitless - Radio Edit",
-      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Romance Language",
         "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 288731,
       "name": "I Wish I Wasn't",
       "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lamb",
+          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Limitless - Radio Edit",
+      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "City Beat",
@@ -1039,22 +1055,6 @@
       "duration_ms": 294946,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
-    },
-    {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
-        }
-      ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "G (Bonus Version)",
+        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Taking Control",
+      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "G (Bonus Version)",
-        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Taking Control",
-      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Smooth Jazz SAX Showcase",
         "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 296475,
       "name": "Got To Be Real",
       "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
-        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Barack's Groove",
-      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Breakin' Thru",
-        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
+        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
+        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
       },
       "artists": [
         {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
         }
       ],
-      "duration_ms": 270968,
-      "name": "Breakin' Thru",
-      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
+      "duration_ms": 229640,
+      "name": "Barack's Groove",
+      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 250093,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Breakin' Thru",
+        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Breakin' Thru",
+      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1333,26 +1333,6 @@
       "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Summer Feelin'",
-        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 238887,
-      "name": "Summer Feelin'",
-      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Play",
@@ -1383,6 +1363,26 @@
       "duration_ms": 227077,
       "name": "Say What",
       "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Feelin'",
+        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 238887,
+      "name": "Summer Feelin'",
+      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1485,6 +1485,34 @@
       "url": "https://open.spotify.com/track/021RV4e0gnjDuUB5KxJ6Ck"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/3zdZdYZmNYFWOd00GxOn0h"
+      },
+      "artists": [
+        {
+          "name": "BWB",
+          "url": "https://open.spotify.com/artist/3a6l5qcDjvTGpvBXmBYz3e"
+        },
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        },
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        },
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Another Part Of Me",
+      "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Nightfall",
@@ -1519,34 +1547,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/3zdZdYZmNYFWOd00GxOn0h"
-      },
-      "artists": [
-        {
-          "name": "BWB",
-          "url": "https://open.spotify.com/artist/3a6l5qcDjvTGpvBXmBYz3e"
-        },
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        },
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        },
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Another Part Of Me",
-      "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
       },
@@ -1559,38 +1559,6 @@
       "duration_ms": 243986,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pride And Joy",
-        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
-      },
-      "artists": [
-        {
-          "name": "Phillip Doc Martin",
-          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "American Garden",
-      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1611,18 +1579,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Pulling Off The Covers",
-        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
+        "name": "Pride And Joy",
+        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
       },
       "artists": [
         {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
         }
       ],
-      "duration_ms": 248880,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
+      "duration_ms": 248146,
+      "name": "American Garden",
+      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1647,18 +1615,34 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Sophistication",
-        "url": "https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
       },
       "artists": [
         {
-          "name": "Grady Nichols",
-          "url": "https://open.spotify.com/artist/6nThAZ6QnRjV4OWso1nXGA"
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
         }
       ],
-      "duration_ms": 227920,
-      "name": "Livin' The Life",
-      "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
+      "duration_ms": 217022,
+      "name": "You're My Joy",
+      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pulling Off The Covers",
+        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1675,6 +1659,22 @@
       "duration_ms": 304600,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Sophistication",
+        "url": "https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN"
+      },
+      "artists": [
+        {
+          "name": "Grady Nichols",
+          "url": "https://open.spotify.com/artist/6nThAZ6QnRjV4OWso1nXGA"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "Livin' The Life",
+      "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
     },
     {
       "added_at": "2022-06-17 04:02:00",

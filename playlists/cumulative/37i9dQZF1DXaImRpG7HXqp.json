@@ -98,24 +98,6 @@
     },
     {
       "album": {
-        "name": "A Short Prayer",
-        "url": "https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH"
-      },
-      "artists": [
-        {
-          "name": "Alexej Novikov",
-          "url": "https://open.spotify.com/artist/25W7iRXVywBozz7jZAdl1l"
-        }
-      ],
-      "date_added": "2022-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186495,
-      "name": "A Short Prayer",
-      "url": "https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA"
-    },
-    {
-      "album": {
         "name": "A Smooth Moment",
         "url": "https://open.spotify.com/album/2EPE95Zf4Okgij9QOotxL7"
       },
@@ -5423,6 +5405,24 @@
       "duration_ms": 231232,
       "name": "Slow Us Down",
       "url": "https://open.spotify.com/track/2pJVa3BEetPJLgBUCaVW7n"
+    },
+    {
+      "album": {
+        "name": "Sognefjord",
+        "url": "https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160958,
+      "name": "Sognefjord",
+      "url": "https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-121 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+122 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Let It Out](https://open.spotify.com/track/2TLcsdp1QqMam3mwP281L3) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [Let It Out](https://open.spotify.com/album/3H3eATaQZJTSu0saChsrDv) | 2:56 | 2022-04-15 |  |
 | [Let Me Sing Along](https://open.spotify.com/track/2LcHFQP3wIo3qKk9JYOCSg) | [Konshens the MC](https://open.spotify.com/artist/0EnMtr4oPQrGZelXq96IBB), [The Earth Band](https://open.spotify.com/artist/04VXEEv7kTvvWlpp3MUoi8), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N), [Doctor Noize](https://open.spotify.com/artist/2LWUw8CUOG9nCSlCQJXSX4), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Funk The Earth](https://open.spotify.com/album/3Yxv92kSQjYLLIuUtHNJfV) | 2:57 | 2022-04-15 |  |
 | [Letter C](https://open.spotify.com/track/3pDeU1HQaufmpKckaPS6Jd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 3:51 | 2022-04-15 |  |
-| [Like Nobody Else](https://open.spotify.com/track/0lxAaW5ajqmnvEZacxGPqX) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/6sZUdRMUBkkTXI5NS6G9pv) | 1:40 | 2022-10-07 |  |
+| [Like Nobody Else](https://open.spotify.com/track/0lxAaW5ajqmnvEZacxGPqX) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/6sZUdRMUBkkTXI5NS6G9pv) | 1:40 | 2022-10-07 | 2022-12-20 |
 | [Like Nobody Else](https://open.spotify.com/track/4ab5Xa3DF4gm6heuhTvqr9) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/3YzyCeKKhM8zFyxIc4C36M) | 1:40 | 2022-07-25 | 2022-10-08 |
+| [Like Nobody Else](https://open.spotify.com/track/4poaymEq8m70lsLIHBY0Ja) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/4FUUzbX1zQIRSYE4rcetEV) | 1:40 | 2022-12-09 |  |
 | [Like Nobody Else](https://open.spotify.com/track/7Dyvh9iPegx9fy94brVfdz) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats: Like Nobody Else](https://open.spotify.com/album/2GNSfXk2BurMZgd201FYI1) | 1:40 | 2022-04-15 | 2022-07-29 |
 | [Like This \- Who Where When Song](https://open.spotify.com/track/2z14Jx8XX75RQWImFgS7KB) | [Lingokids](https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O) | [Like This \(Who Where When Song\)](https://open.spotify.com/album/6PkSiM97Oc4ib8EPHil30T) | 2:41 | 2022-04-15 |  |
 | [Little Bee](https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Bee](https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo) | 3:12 | 2022-04-15 |  |

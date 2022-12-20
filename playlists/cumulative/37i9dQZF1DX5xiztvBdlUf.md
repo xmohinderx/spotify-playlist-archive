@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-302 songs - 1 day 4 hr 34 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+303 songs - 1 day 4 hr 38 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Baby Flute](https://open.spotify.com/track/3335q25uuuOxltjChRUxSx) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Baby Flute](https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4) | 2:31 | 2022-06-24 | 2022-10-01 |
 | [Bakaval](https://open.spotify.com/track/1LMTieioqpptv3VmvtLc1A) | [Aquarius Heaven](https://open.spotify.com/artist/0lAjFl20uNiFMWafrHRxea) | [Don't Back Down](https://open.spotify.com/album/5dhbt3FsdrW5wPwSinWJtj) | 6:56 | 2021-11-26 | 2022-04-16 |
 | [Bala](https://open.spotify.com/track/6GXMhdGDKvheXLVZHPkNO0) | [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH), [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Bala](https://open.spotify.com/album/21TPmAcPygMrtin1HVkSod) | 4:18 | 2021-11-26 | 2022-07-25 |
-| [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 | 2021-11-26 |  |
+| [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 | 2021-11-26 | 2022-12-20 |
 | [Be Here and Now](https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Be Here and Now](https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7) | 3:29 | 2021-11-26 |  |
 | [Better Do It Right](https://open.spotify.com/track/14zYY940HtQYEfUQPKf5i2) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Better Do It Right](https://open.spotify.com/album/7rjC1bfZ0JfymIa4arsV6Q) | 6:41 | 2022-02-18 | 2022-07-28 |
 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 | 2022-08-12 |  |
@@ -56,6 +56,7 @@
 | [Closer To Closure \- Andre Lodemann Remix](https://open.spotify.com/track/1ZD0ciZ5RJaZty3EAC5QXi) | [Carlos Barbero](https://open.spotify.com/artist/4OV4wJGy1jN0fCTiMFOXO0), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr), [Andre Lodemann](https://open.spotify.com/artist/1Em6QNi57qzKBsy0r4ZPXN) | [Closer To Closure \(Andre Lodemann Remix\)](https://open.spotify.com/album/6ujv9XxF3WIx2l2f5MGJrT) | 7:25 | 2022-04-15 | 2022-07-19 |
 | [Cloud 7](https://open.spotify.com/track/0Iqp5CMzuBY9B23EApb8Bu) | [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4) | [Watergate 20 Years](https://open.spotify.com/album/62aaAhBp5gU0w6RkOoF2hm) | 7:17 | 2022-11-25 |  |
 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/6fxVUbJy29bvtfqUm94y5b) | 4:06 | 2022-01-14 | 2022-07-29 |
+| [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 | 2022-11-25 |  |
 | [Collide](https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX) | [10 Years From Now / Collide](https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5) | 4:35 | 2021-11-26 |  |
 | [Come Away](https://open.spotify.com/track/2nr7m8gaYqbbXQrMFJ2lPu) | [Sad Money](https://open.spotify.com/artist/1jROQOzEAuW47ItjQ5FwCQ), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Come Away](https://open.spotify.com/album/7nEfBKGrEAasVTMoG2D91h) | 3:30 | 2022-04-04 | 2022-04-21 |
 | [Come Back Around](https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Come Back Around](https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav) | 3:51 | 2021-11-26 |  |

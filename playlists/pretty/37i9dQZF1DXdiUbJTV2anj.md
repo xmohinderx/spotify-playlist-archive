@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,992 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,181 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 36 | [Still Sinking](https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Inside My Head](https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk) | 3:44 |
 | 37 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 |
 | 38 | [RATATATA](https://open.spotify.com/track/69MHdGzxzt4GMliiXqpWn4) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv) | [RATATATA](https://open.spotify.com/album/4lvR3TmGeAdG6CesUqaPBd) | 3:27 |
-| 39 | [Lovecraft](https://open.spotify.com/track/2IzU2qbzP4agFgiKOXoBEt) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/4gzx8nvpuFGHpilzCVoAJ8) | 3:43 |
+| 39 | [Lovecraft](https://open.spotify.com/track/5XMJ0iPqfYdVSAMZaZu6x3) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/222AtgmkJIArvoRoP5KC8S) | 3:43 |
 | 40 | [Still Waiting](https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Still Waiting](https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9) | 2:40 |
 | 41 | [Diabolic](https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [Diabolic](https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j) | 3:25 |
 | 42 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 |
 | 50 | [MALIZIA](https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [MALIZIA](https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv) | 2:46 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDUyNTc3MmFmN2FjOWFiMzNiNmRmMGNlMjk0ODFhOTgw`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGQxNTlmOTUxZjk4OTVkZDIyODJhYjMzZGIzNmYwN2Rj`

@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: LEGADO 7 & Juan De Ron
 
-345 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+346 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-07-22 |  |
 | [El Rey de las Libras](https://open.spotify.com/track/0HnjrSH6Y4DTpxdOPnD1xt) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Rony Lugo](https://open.spotify.com/artist/2aGfHXtQxBBtVh5xC4AjE0) | [El Rey de las Libras](https://open.spotify.com/album/2SSkXUefzNp81xgnJiERmV) | 2:59 | 2022-09-23 | 2022-10-08 |
 | [El Rey De Los Fletes](https://open.spotify.com/track/2HhW7PvfxZ3EGmkNxtYXIR) | [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd) | [El Rey De Los Fletes](https://open.spotify.com/album/4fo3ccidYCACfCuhQ69bgC) | 2:41 | 2022-07-15 | 2022-08-19 |
-| [El RR \(En Vivo\)](https://open.spotify.com/track/1mvH121Rpxenvz9eQBERcM) | [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El RR \(En Vivo\)](https://open.spotify.com/album/3LfQ4z2sO0vDLipoqeksrT) | 3:10 | 2022-08-19 |  |
+| [El RR \(En Vivo\)](https://open.spotify.com/track/1mvH121Rpxenvz9eQBERcM) | [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El RR \(En Vivo\)](https://open.spotify.com/album/3LfQ4z2sO0vDLipoqeksrT) | 3:10 | 2022-08-19 | 2022-12-20 |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-05-13 |  |
 | [El Sargento](https://open.spotify.com/track/43RupHTyIIexEvWvAubVOS) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [El Sargento](https://open.spotify.com/album/0MS3XeLtbOiBEBKtOQpkei) | 3:24 | 2022-08-26 | 2022-10-08 |
 | [El Seriecito \- En Vivo](https://open.spotify.com/track/5eY9ccllP0oMeuxI0fsC4v) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Seriecito \(En Vivo\)](https://open.spotify.com/album/3CVVTX3BJtX1VdDACu9qMc) | 3:16 | 2022-05-13 | 2022-09-24 |
@@ -350,6 +350,7 @@
 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 | 2022-11-11 |  |
 | [Ya Me Va Mejor](https://open.spotify.com/track/2Se8iSCMXXEd6UD0bI4efk) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Ya Me Va Mejor](https://open.spotify.com/album/3RgShSLXoIuOWKEgziNjEx) | 2:35 | 2022-09-23 |  |
 | [Yo No Me Rajo](https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Yo No Me Rajo](https://open.spotify.com/album/6KvRJthG8uP4lYGsMjZEzU) | 2:30 | 2022-10-07 |  |
+| [Yo Soy Quien Soy](https://open.spotify.com/track/2AjgHgWcoxO9uycGNXfK15) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Yo Soy Quien Soy](https://open.spotify.com/album/1H61wbISCCfmrrylwnTw2E) | 2:57 | 2022-12-02 |  |
 | [Yo Soy Quien Soy \(En Vivo\)](https://open.spotify.com/track/6gEluRhJsIkZrf69R17eiF) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Yo Soy Quien Soy \(En Vivo\)](https://open.spotify.com/album/1gJYrHcQO5OAg50CCDKfZw) | 3:14 | 2022-12-02 |  |
 | [Yo Soy Quién Soy](https://open.spotify.com/track/7FRw7sx9XqS7ZGvNpYrxTR) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Yo Soy Quien Soy](https://open.spotify.com/album/26ABUNLiTL9cVimrN24Dyf) | 2:57 | 2022-05-27 | 2022-12-14 |
 | [Órdenes Directas](https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Órdenes Directas \(Deltas\)](https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU) | 2:27 | 2022-08-26 | 2022-12-06 |

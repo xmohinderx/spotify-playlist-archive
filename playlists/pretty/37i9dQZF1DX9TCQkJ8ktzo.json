@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 19271,
+  "num_followers": 19290,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NzAzMSwwMDAwMDAwMDBiYTdkMTYyOTM3NWJkM2Q1MmFlNzMxMjI0Zjc0ZDUz",
+  "snapshot_id": "MTY3MDQ1NzAzMSwwMDAwMDAwMDdlN2M5MTZkNTIxZWFkM2Y5ZDZmMjY1MjkzYmIwY2U0",
   "tracks": [
     {
       "added_at": "2022-12-07 23:50:31",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
         "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 134293,
       "name": "Agujetas de Color de Rosa (Pink Shoe Laces)",
       "url": "https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -223,26 +223,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
-        "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 178651,
-      "name": "Siluetas",
-      "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
       },
@@ -291,18 +271,22 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+        "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
+        "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
         }
       ],
-      "duration_ms": 180986,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
+      "duration_ms": 178651,
+      "name": "Siluetas",
+      "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -335,6 +319,22 @@
       "duration_ms": 163120,
       "name": "El Malquerido",
       "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
+        "name": "Vicente Fernandez",
+        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "El Remedio",
+      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
         "name": "15 Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
@@ -439,6 +455,22 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Muchacha Bonita",
+      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -451,22 +483,6 @@
       "duration_ms": 143480,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Vicente Fernandez",
-        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "El Remedio",
-      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -499,22 +515,6 @@
       "duration_ms": 193782,
       "name": "Ven Que Te Quiero",
       "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Muchacha Bonita",
-      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Mon\u00f3logo",
-      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "Ya no llores",
         "url": "https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 173400,
       "name": "Cuerdas de Mi Guitarra",
       "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Doble 2 En 1",
-        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "Grandes \u00c9xitos de Lucho Gatica",
         "url": "https://open.spotify.com/album/56zOTEFBTqMxQQ1LHUAWpc"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
       "artists": [
         {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 136280,
-      "name": "El Gran Tom\u00e1s (Norman)",
-      "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -791,6 +775,38 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 136280,
+      "name": "El Gran Tom\u00e1s (Norman)",
+      "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Mujeres Universales Vol. 2",
+        "url": "https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Acomp\u00e1\u00f1ame",
+      "url": "https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
         "name": "Trios de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 157880,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "22 \u00c9xitos de Oro, vol. 4",
-        "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Devoluci\u00f3n",
-      "url": "https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Mujeres Universales Vol. 2",
-        "url": "https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Acomp\u00e1\u00f1ame",
-      "url": "https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "Son con Guaguanc\u00f3",
         "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 168280,
       "name": "Oye Mi Consejo",
       "url": "https://open.spotify.com/track/7dLU5U9ikHDXucBcTp0jcr"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "22 \u00c9xitos de Oro, vol. 4",
+        "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Devoluci\u00f3n",
+      "url": "https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Rock de los 60's",
+        "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Agujetas de Color de Rosa",
+      "url": "https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -939,34 +955,18 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Rock de los 60's",
-        "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
       },
       "artists": [
         {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
         }
       ],
-      "duration_ms": 168213,
-      "name": "Agujetas de Color de Rosa",
-      "url": "https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
-        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
-      },
-      "artists": [
-        {
-          "name": "Los Yetis",
-          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/1wCJgm1ZdVyV9prrKSX9Kg"
+      "duration_ms": 164284,
+      "name": "Que Hiciste",
+      "url": "https://open.spotify.com/track/4AraDm5Gw0YqA90Z8IPWtn"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -987,18 +987,34 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+        "name": "Lo Mejor De (Remastered)",
+        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
       },
       "artists": [
         {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 164284,
-      "name": "Que Hiciste",
-      "url": "https://open.spotify.com/track/4AraDm5Gw0YqA90Z8IPWtn"
+      "duration_ms": 132133,
+      "name": "Colores - Remastered",
+      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
+        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
+      },
+      "artists": [
+        {
+          "name": "Los Yetis",
+          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/1wCJgm1ZdVyV9prrKSX9Kg"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -1015,22 +1031,6 @@
       "duration_ms": 161960,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Lo Mejor De (Remastered)",
-        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 132133,
-      "name": "Colores - Remastered",
-      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
     },
     {
       "added_at": "2022-12-07 23:50:31",

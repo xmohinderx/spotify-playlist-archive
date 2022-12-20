@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-822 songs - 1 day 21 hr 32 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+823 songs - 1 day 21 hr 34 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All Cried Out \(feat\. Alex Newell\) \- Don Diablo Remix](https://open.spotify.com/track/5wusiZe1lYYfgfrMZPo3bJ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Reconstructions](https://open.spotify.com/album/4bMk4WQ6nRNkmNLofkqfts) | 4:29 | 2020-05-22\* | 2020-09-06 |
 | [All I Know](https://open.spotify.com/track/122vZqxDr7xtRuNhZZPUda) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [All I Know](https://open.spotify.com/album/1HflDVwmJaYYJCvnusHcAw) | 2:28 | 2020-05-22\* | 2020-09-06 |
 | [All Night](https://open.spotify.com/track/5aUmuq6558VklXn7ccDEgs) | [Soundstream](https://open.spotify.com/artist/06Bb7O2LqLNb7kRayt2tfV) | [All Night](https://open.spotify.com/album/68NuE55yBJanWp9SVwns6B) | 8:33 | 2020-07-01 | 2021-12-21 |
+| [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 |  |
 | [All Over The World](https://open.spotify.com/track/0XS2z0E0ox7F4JHYKKR4wK) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [All Over The World](https://open.spotify.com/album/1RRCrllIhLM6hfW366vsvP) | 2:25 | 2020-05-22\* | 2022-04-19 |
 | [All This](https://open.spotify.com/track/4wrU9cEodNDst7mBN7jI5t) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [All This](https://open.spotify.com/album/1ov4UNu2eD3XmgAKpXIRtI) | 3:07 | 2020-05-22\* | 2022-04-19 |
 | [All We Got \(feat\. KIDDO\) \- Ofenbach Remix](https://open.spotify.com/track/2rUsJXt4NeeDiIU6sBvrxo) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [All We Got \(feat\. KIDDO\) \[Ofenbach Remix\]](https://open.spotify.com/album/4ZnfL03JMiQpMpWZ7e6YXY) | 2:09 | 2021-01-25 | 2022-07-02 |
@@ -354,7 +355,7 @@
 | [I Love You \- CID Remix](https://open.spotify.com/track/5GrUWIm6FMdtqaLYTqW5yh) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [I Love You \(CID Remix\)](https://open.spotify.com/album/23cJBxx1WN89hFUkCu2xUl) | 2:36 | 2020-05-22\* | 2021-12-21 |
 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 | 2020-05-22\* | 2020-09-06 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-14 | 2022-08-11 |
-| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-12-14 |  |
+| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-12-14 | 2022-12-20 |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-17 | 2022-07-13 |
 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 | 2020-12-27 | 2022-07-02 |
 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 | 2022-05-13 |  |

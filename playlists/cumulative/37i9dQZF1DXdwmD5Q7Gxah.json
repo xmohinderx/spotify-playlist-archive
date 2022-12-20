@@ -19022,6 +19022,24 @@
     },
     {
       "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4yK3xXuNrkSq0OVjKUaCkY"
+    },
+    {
+      "album": {
         "name": "Lights Up",
         "url": "https://open.spotify.com/album/4Aag1alBrdk2TFnATVmn8D"
       },

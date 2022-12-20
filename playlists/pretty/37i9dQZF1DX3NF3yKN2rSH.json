@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53202,
+  "num_followers": 53198,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDUzNGI5MGQxNmY4MWU4Y2Y2MjYwOTRkYjZjYzc0NmFm",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDQ4YWI0OGEzNjM1ODQ1ZTJhOWE0NTY1YjQ4OWU0NDA5",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -127,6 +127,26 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "duration_ms": 480546,
+      "name": "You Know My Name",
+      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "A Worshipper's Heart",
         "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
       },
@@ -159,22 +179,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "My Very OWN Easter - EP",
         "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
       },
@@ -191,38 +195,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 480546,
-      "name": "You Know My Name",
-      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Nicole C. Mullen",
-        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
-      },
-      "artists": [
-        {
-          "name": "Nicole C. Mullen",
-          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -243,6 +227,22 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Nicole C. Mullen",
+        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole C. Mullen",
+          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
       "artists": [
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 392639,
       "name": "The Blessing (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "He Got Up",
-        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
-      },
-      "artists": [
-        {
-          "name": "Deacon D.A.S.",
-          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
-        },
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "He Got Up",
-      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 338354,
       "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
       "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "He Got Up",
+        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
+      },
+      "artists": [
+        {
+          "name": "Deacon D.A.S.",
+          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "He Got Up",
+      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Live In Detroit (Live)",
         "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
@@ -1799,18 +1783,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "He Carried The Cross For Me",
-        "url": "https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN"
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
       },
       "artists": [
         {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
         }
       ],
-      "duration_ms": 230659,
-      "name": "He Carried The Cross For Me",
-      "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
+      "duration_ms": 348773,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1827,6 +1811,26 @@
       "duration_ms": 545000,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "The Blood Song",
+        "url": "https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5"
+      },
+      "artists": [
+        {
+          "name": "Chris Bender",
+          "url": "https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG"
+        },
+        {
+          "name": "D'Shondra Perry",
+          "url": "https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa"
+        }
+      ],
+      "duration_ms": 334550,
+      "name": "The Blood Song",
+      "url": "https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa"
     }
   ],
   "unique_name": "Easter Gospel",

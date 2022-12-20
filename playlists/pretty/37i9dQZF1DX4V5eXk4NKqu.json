@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Ambar Lucid",
-  "num_followers": 139744,
+  "num_followers": 139813,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA1MzU0MCwwMDAwMDAwMDA2NjM0ZWI2MDkyNTMyZTdjMzJlNzUyYWRlMjQyNDU1",
+  "snapshot_id": "MTY3MTA1MzU0MCwwMDAwMDAwMGIzMDExNDk1Zjc1ZjFmYTlhMDA1MDgzNzQ1ZmQxZDgy",
   "tracks": [
     {
       "added_at": "2022-12-14 21:32:20",
@@ -167,6 +167,38 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -191,22 +223,6 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -411,8 +411,8 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+      "duration_ms": 210240,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
         "name": "Un Mill\u00f3n",
         "url": "https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -607,6 +591,22 @@
       "duration_ms": 199523,
       "name": "jard\u00edn de flores",
       "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "Alcoh\u00f3lica Funcional",
-        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161953,
-      "name": "Alcoh\u00f3lica Funcional",
-      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
+        "name": "Alcoh\u00f3lica Funcional",
+        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161953,
+      "name": "Alcoh\u00f3lica Funcional",
+      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
+        "name": "Ya no estoy aqu\u00ed",
+        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Ya no estoy aqu\u00ed",
+      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
         "name": "Nada Mal",
         "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 140952,
       "name": "Nada Mal",
       "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
-        "name": "Ya no estoy aqu\u00ed",
-        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Ya no estoy aqu\u00ed",
-      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 192485,
-      "name": "C\u00edrculos",
-      "url": "https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
         "name": "Far In",
         "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 330000,
       "name": "La Naranja",
       "url": "https://open.spotify.com/track/5iWThcuhNojfn2MStjz5Tq"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd"
+      },
+      "artists": [
+        {
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
+        }
+      ],
+      "duration_ms": 192485,
+      "name": "C\u00edrculos",
+      "url": "https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "\u00faltimo y primero",
-        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 179377,
-      "name": "\u00faltimo y primero",
-      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 263080,
       "name": "You Were Bored",
       "url": "https://open.spotify.com/track/4Qghywsxi70o4Kk5D2hoyL"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
+        "name": "\u00faltimo y primero",
+        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 179377,
+      "name": "\u00faltimo y primero",
+      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "Secuestro Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6xqaapMrs0H4rFEuB5Ai1W"
-      },
-      "artists": [
-        {
-          "name": "Katz\u00f9 Oso",
-          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
-        }
-      ],
-      "duration_ms": 193862,
-      "name": "Secuestro Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/17iFYr5wL9jN23PZCitJmi"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
         "name": "PARIS",
         "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 198573,
       "name": "PARIS",
       "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
+        "name": "Secuestro Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6xqaapMrs0H4rFEuB5Ai1W"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "duration_ms": 193862,
+      "name": "Secuestro Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/17iFYr5wL9jN23PZCitJmi"
     },
     {
       "added_at": "2022-12-14 21:32:20",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-12-14 21:32:20",
       "album": {
-        "name": "I Don't Mind",
-        "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
-      },
-      "artists": [
-        {
-          "name": "RARRI BLANCO",
-          "url": "https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U"
-        }
-      ],
-      "duration_ms": 216844,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
-    },
-    {
-      "added_at": "2022-12-14 21:32:20",
-      "album": {
         "name": "\u00bfYpqsp?",
         "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 272511,
       "name": "\u00bfYpqsp?",
       "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
+    },
+    {
+      "added_at": "2022-12-14 21:32:20",
+      "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP"
+      },
+      "artists": [
+        {
+          "name": "Calista Del Toro",
+          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
+        }
+      ],
+      "duration_ms": 164535,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5"
     },
     {
       "added_at": "2022-12-14 21:32:20",

@@ -4,7 +4,7 @@
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-161 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
+162 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2021-03-05 |  |
 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 | 2021-03-05 |  |
 | [Falling \(Stripped\)](https://open.spotify.com/track/55FkPfOruqXV8V894BAZMO) | [The Kind](https://open.spotify.com/artist/0oUPljKX0Sl0MNJg3oL4QH) | [Falling \(Stripped\)](https://open.spotify.com/album/39pD08a7e6bhZsKxKDt3dZ) | 3:50 | 2021-03-05 |  |
+| [Feel](https://open.spotify.com/track/0mesc5M3rg18gSQQELwwKu) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 3:02 | 2022-10-14 |  |
 | [Feel](https://open.spotify.com/track/1SMtYXgIOy3btvonrn4pa5) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Feel](https://open.spotify.com/album/3Lqu5UobtbYUhASHttzNjY) | 3:02 | 2021-03-05 | 2022-07-29 |
-| [Feel](https://open.spotify.com/track/3adxxXViv1a6kvkAaACCMm) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES](https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla) | 3:02 | 2021-03-05 |  |
+| [Feel](https://open.spotify.com/track/3adxxXViv1a6kvkAaACCMm) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES](https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla) | 3:02 | 2021-03-05 | 2022-12-20 |
 | [Feel](https://open.spotify.com/track/4jqqNRHecEuY7hlLBtZc0R) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Studying Vibes](https://open.spotify.com/album/0HxO8XfU6n3L797N7IPF1m) | 3:02 | 2022-10-14 | 2022-11-13 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2021-03-05 |  |
 | [Fire](https://open.spotify.com/track/0A3nVGUkAN4MDBcnIXrheL) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Fire](https://open.spotify.com/album/3GWzQm3cxcrGj8wF2dZv8X) | 2:28 | 2021-03-05 | 2022-07-29 |

@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 258799,
       "name": "Ask Me Out",
       "url": "https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 226773,
       "name": "Better Than Birthday",
       "url": "https://open.spotify.com/track/5IfGBdAnVcrRZ43ABAgu9A"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 232053,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/3beMVL4X8krvydjvUToFTm"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 203146,
       "name": "Dear, Beloved - Original Version",
       "url": "https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 246333,
       "name": "Faith",
       "url": "https://open.spotify.com/track/2KI9a9rMZd1VoCZbaObBkQ"
@@ -2975,7 +2975,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 209373,
       "name": "I Guess I Like You",
       "url": "https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG"
@@ -3011,7 +3011,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 178373,
       "name": "I like you",
       "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
@@ -3285,7 +3285,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 221906,
       "name": "I'm here",
       "url": "https://open.spotify.com/track/2UCX1ls4T8RRCOpedsC66G"
@@ -3501,7 +3501,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 231426,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/4oqx4yqCwbudGYhgb7cqC5"
@@ -3519,7 +3519,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 278727,
       "name": "It hurts to love you",
       "url": "https://open.spotify.com/track/2GxG8MBqH9UnCTvb3WP8E3"
@@ -3885,7 +3885,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 240000,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0GGTcdfOMfP26Vc7z5GJsS"
@@ -3965,6 +3965,24 @@
       "duration_ms": 208600,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/17L3Am6DeUdCkmm70P5bTh"
+    },
+    {
+      "album": {
+        "name": "Taepung's Bride (Original Soundtrack), Pt.12",
+        "url": "https://open.spotify.com/album/3QM2Rst2qjhxF1uesO1uEU"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Let it go",
+      "url": "https://open.spotify.com/track/7pcQDc1hAZJhm4T3N9B9QK"
     },
     {
       "album": {
@@ -4127,6 +4145,24 @@
       "duration_ms": 240932,
       "name": "Like a Star",
       "url": "https://open.spotify.com/track/4KtYxw90PrXeB6SyrEQJT2"
+    },
+    {
+      "album": {
+        "name": "Reborn Rich (Original Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2dRVuhkmaPDdRFGiqIarIV"
+      },
+      "artists": [
+        {
+          "name": "MOON SUA(Billlie)",
+          "url": "https://open.spotify.com/artist/1EC3MS97YT9lOI8YHSmOYp"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215782,
+      "name": "Like a Star",
+      "url": "https://open.spotify.com/track/0uoXefj4KKRp6K30YGpMgP"
     },
     {
       "album": {
@@ -4386,6 +4422,24 @@
     },
     {
       "album": {
+        "name": "Love is (CURTAIN CALL OST Part.8)",
+        "url": "https://open.spotify.com/album/0pqnP0umCdXV393jE15ymW"
+      },
+      "artists": [
+        {
+          "name": "nautilus",
+          "url": "https://open.spotify.com/artist/19ddo3hi6DZb6iZqWuvziQ"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/3LCzKYk2HMznKEaUYjB6CC"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.24",
         "url": "https://open.spotify.com/album/7hmpttoWQ2y5xoEpUSK7EF"
       },
@@ -4581,6 +4635,28 @@
       "duration_ms": 187453,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/3Jk7aEL31GI8kGmLTZooXf"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp"
+      },
+      "artists": [
+        {
+          "name": "Tearliner",
+          "url": "https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si"
+        },
+        {
+          "name": "Love X Stereo",
+          "url": "https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Me, the Protagonist (Feat. Love X Stereo)",
+      "url": "https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3"
     },
     {
       "album": {
@@ -4791,6 +4867,24 @@
       "duration_ms": 229226,
       "name": "Moon Crater",
       "url": "https://open.spotify.com/track/0gNCRiYd95VjjWMBuXcYaJ"
+    },
+    {
+      "album": {
+        "name": "Work Later Drink Now S2, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/12Mkp2HBj5ta7lEv4Bczsg"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186047,
+      "name": "Moon of Seoul",
+      "url": "https://open.spotify.com/track/6jmn2IEoU3Yfw3j4hKgSlm"
     },
     {
       "album": {
@@ -5267,7 +5361,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 203931,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/6flW8xreXJvR6Ay5ClaotA"
@@ -5365,7 +5459,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -5387,6 +5481,24 @@
       "duration_ms": 217933,
       "name": "Once In A Minute",
       "url": "https://open.spotify.com/track/6EBdUoWOLXWQAs9cKgdAdM"
+    },
+    {
+      "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.23",
+        "url": "https://open.spotify.com/album/2x3aDNlIC5WjRkWaN5KNEm"
+      },
+      "artists": [
+        {
+          "name": "Baek Yeseul",
+          "url": "https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206340,
+      "name": "Once, More Than Anyone",
+      "url": "https://open.spotify.com/track/4x6MZH5XsfnHH3D4fTiU8L"
     },
     {
       "album": {
@@ -5891,7 +6003,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 239866,
       "name": "Saying Hello",
       "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
@@ -6096,6 +6208,24 @@
     },
     {
       "album": {
+        "name": "PLAYLIST SEASON2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Slainte!",
+      "url": "https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8"
+    },
+    {
+      "album": {
         "name": "Love is for Suckers, Pt.5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1f3HrC8d2uSztNpPyvaXDe"
       },
@@ -6241,6 +6371,24 @@
       "duration_ms": 205786,
       "name": "Squabble",
       "url": "https://open.spotify.com/track/7Mj1kQLaqu6Rr6rwAIJQQh"
+    },
+    {
+      "album": {
+        "name": "Stand By Your Side (CURTAIN CALL OST Part.7)",
+        "url": "https://open.spotify.com/album/7c0jTAaxnlZgPAhvYsdr0a"
+      },
+      "artists": [
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270693,
+      "name": "Stand By Your Side",
+      "url": "https://open.spotify.com/track/1h2EjiRBZu1geZrxV5dWhz"
     },
     {
       "album": {
@@ -6820,6 +6968,24 @@
     },
     {
       "album": {
+        "name": "Police Station Next To Fire Station (Original Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/5neeCg2mR1zseHWLJKJIYy"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "The Name of You",
+      "url": "https://open.spotify.com/track/6B5f8dNLVXYRoZD67bEfwo"
+    },
+    {
+      "album": {
         "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/45AZsZfx4wTLps1b1DVdRX"
       },
@@ -7072,6 +7238,24 @@
     },
     {
       "album": {
+        "name": "Seoul Check-in OST Part 12",
+        "url": "https://open.spotify.com/album/3oMeuwSCtpt0e1ln0o4IHO"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184554,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/0mChhyeHONd7iEiyfETprG"
+    },
+    {
+      "album": {
         "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/7CkYfRXfHB3QMeIe1aBXxi"
       },
@@ -7083,7 +7267,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 181280,
       "name": "Tuning In To You",
       "url": "https://open.spotify.com/track/0Xpc3mahBga9f9fAcFK6W4"
@@ -7451,6 +7635,28 @@
       "duration_ms": 206970,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6jQLbSf1TkrPpA5kNuTWbj"
+      },
+      "artists": [
+        {
+          "name": "Tearliner",
+          "url": "https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si"
+        },
+        {
+          "name": "Bang Jae Min",
+          "url": "https://open.spotify.com/artist/0HzOCIGHmazaITu8kLibAp"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "We Swim in Dreams (Feat. Bang JaeMin)",
+      "url": "https://open.spotify.com/track/1eUsM8Wd2IGi0J6NeUoC7c"
     },
     {
       "album": {
@@ -8256,6 +8462,24 @@
     },
     {
       "album": {
+        "name": "Themselves (Original Soundtrack) Chapter. 2",
+        "url": "https://open.spotify.com/album/38pMPeUiYvIIFLnySQoLt6"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "\uadf8\ub0a0\uc758 \uadf8\ub300\uc5ec",
+      "url": "https://open.spotify.com/track/01Phm3foggf3vXgAbQy1ht"
+    },
+    {
+      "album": {
         "name": "9\ubc88\ubc29\uc758 \ud569\ucc3d (Original Television Soundtrack) - \uae30\uc5b5\ud558\uc9c0 \ub9d0\uc544\uc694",
         "url": "https://open.spotify.com/album/1TVnqWX6cE2JJT2x01YhVU"
       },
@@ -8375,7 +8599,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 231837,
       "name": "\uc548\uac1c \uc18d \uc5b4\ub514\ub85c",
       "url": "https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0"

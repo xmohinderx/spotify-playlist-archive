@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 12542,
+  "num_followers": 12573,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExODY4OCwwMDAwMDAwMDg3NzAxODM2MDczMTYxYmYxNjdmZjJmYTk5NzExZGI4",
+  "snapshot_id": "MTY3MTExODY4OCwwMDAwMDAwMGExY2YyMTVhN2JiOTk3NTg2N2FhNzg2YzA2ZGUwZTI0",
   "tracks": [
     {
       "added_at": "2022-12-15 15:38:08",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-15 15:38:08",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2022-12-15 15:38:08",
-      "album": {
         "name": "\u6c17\u5206",
         "url": "https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 305597,
       "name": "\u6c17\u5206",
       "url": "https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1"
+    },
+    {
+      "added_at": "2022-12-15 15:38:08",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2022-12-15 15:38:08",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-15 15:38:08",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2"
-      },
-      "artists": [
-        {
-          "name": "Vickeblanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 198062,
-      "name": "\u9b54\u6cd5\u306e\u30a2\u30c8",
-      "url": "https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n"
-    },
-    {
-      "added_at": "2022-12-15 15:38:08",
-      "album": {
         "name": "Grow Old",
         "url": "https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184545,
       "name": "Grow Old",
       "url": "https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf"
+    },
+    {
+      "added_at": "2022-12-15 15:38:08",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2"
+      },
+      "artists": [
+        {
+          "name": "Vickeblanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 198062,
+      "name": "\u9b54\u6cd5\u306e\u30a2\u30c8",
+      "url": "https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n"
     },
     {
       "added_at": "2022-12-15 15:38:08",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-12-15 15:38:08",
       "album": {
+        "name": "wish",
+        "url": "https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "duration_ms": 264375,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt"
+    },
+    {
+      "added_at": "2022-12-15 15:38:08",
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 195852,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh"
-    },
-    {
-      "added_at": "2022-12-15 15:38:08",
-      "album": {
-        "name": "wish",
-        "url": "https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO"
-      },
-      "artists": [
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        }
-      ],
-      "duration_ms": 264375,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

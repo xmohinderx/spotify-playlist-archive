@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. Cover: tricot",
-  "num_followers": 37058,
+  "num_followers": 37088,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMGZkOTdlMTk2YmNiZjc5MmNmOTQ0MTNiYzc2ZDE0YmJk",
+  "snapshot_id": "MTY3MTExNjQwMCwwMDAwMDAwMDM3OWQ1MzNmMGY1NTJiNjJkNTU4OTQyZTE2YTUwNzA0",
   "tracks": [
     {
       "added_at": "2022-12-15 15:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "missing",
-        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 189565,
-      "name": "missing",
-      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "NEW ME",
         "url": "https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 261238,
       "name": "NEW ME",
       "url": "https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u5922\u3092\u307f\u305b\u3066",
+        "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
+      },
+      "artists": [
+        {
+          "name": "C\u00f6 Shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+        }
+      ],
+      "duration_ms": 324184,
+      "name": "\u5922\u3092\u307f\u305b\u3066",
+      "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u5922\u3092\u307f\u305b\u3066",
-        "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
+        "name": "missing",
+        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
       },
       "artists": [
         {
-          "name": "C\u00f6 Shu Nie",
-          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 324184,
-      "name": "\u5922\u3092\u307f\u305b\u3066",
-      "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
+      "duration_ms": 189565,
+      "name": "missing",
+      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
-        "name": "\u30da\u30f3\u30b7\u30eb\u30ed\u30b1\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8"
-      },
-      "artists": [
-        {
-          "name": "\u9ed2\u5b50\u9996",
-          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
-        }
-      ],
-      "duration_ms": 207239,
-      "name": "\u304a\u307c\u3048\u305f\u3066",
-      "url": "https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
         "name": "\u60b2\u3057\u307f\u3088\u3068\u307e\u308c",
         "url": "https://open.spotify.com/album/4xxILSNY5gqWfu2fYqdB0S"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-12-15 15:00:00",
       "album": {
+        "name": "\u30da\u30f3\u30b7\u30eb\u30ed\u30b1\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u5b50\u9996",
+          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
+        }
+      ],
+      "duration_ms": 207239,
+      "name": "\u304a\u307c\u3048\u305f\u3066",
+      "url": "https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
         "name": "d a n c i n g a l o n e",
         "url": "https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 186620,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp"
-    },
-    {
-      "added_at": "2022-12-15 15:00:00",
-      "album": {
-        "name": "\u8e0a\u308b\u69d8\u306b",
-        "url": "https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E"
-      },
-      "artists": [
-        {
-          "name": "POLKADOT STINGRAY",
-          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "odoru yo-ni",
-      "url": "https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva"
     },
     {
       "added_at": "2022-12-15 15:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 271893,
       "name": "\u30ed\u30fc\u30ea\u30f3\u30bd\u30a6\u30eb\u30fb\u30cf\u30c3\u30d4\u30fc\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ"
+    },
+    {
+      "added_at": "2022-12-15 15:00:00",
+      "album": {
+        "name": "\u8e0a\u308b\u69d8\u306b",
+        "url": "https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E"
+      },
+      "artists": [
+        {
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "odoru yo-ni",
+      "url": "https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva"
     },
     {
       "added_at": "2022-12-15 15:00:00",

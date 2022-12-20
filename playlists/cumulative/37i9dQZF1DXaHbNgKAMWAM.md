@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-204 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+205 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [D \- 이야기](https://open.spotify.com/track/3rWvseGXGmmOsg4hRm7jUl) | [DAB19](https://open.spotify.com/artist/5UdyE3s0FtqyDMWNGkQvOu) | [D \- 이야기](https://open.spotify.com/album/0VAzE9GG4ifqL05VtRhsDQ) | 4:04 | 2022-06-20 | 2022-06-29 |
 | [DALLA](https://open.spotify.com/track/0BE13JCAlf4OYlWzlXNitY) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [DALLA](https://open.spotify.com/album/5GlGTxGBX3amAqGEjZAD7l) | 2:56 | 2022-05-11 | 2022-07-23 |
 | [DATE](https://open.spotify.com/track/6QBLkeLbQ7zvQ0WuHesn1d) | [SEONGRI](https://open.spotify.com/artist/3lKRDSj7o3AtOKSVPEhe3Z) | [DATE](https://open.spotify.com/album/5BUwBTVvhJuMm2PJSKQxcu) | 3:36 | 2022-06-09 | 2022-07-10 |
-| [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-14 |  |
+| [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-13 |  |
 | [Dear.](https://open.spotify.com/track/5Hwo3p2oT7RaHXlY0Ks1ZV) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dear.](https://open.spotify.com/album/6k8MPTcvl25jtS2GKu6GpA) | 3:53 | 2022-05-11 | 2022-07-24 |
 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 | 2022-05-11 |  |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-11 | 2022-07-27 |
@@ -102,7 +102,7 @@
 | [Kiss Me](https://open.spotify.com/track/3FyOTEfKpjQkPq4aSw7Qeb) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [다시 만난 세계 Original Television Soundtrack](https://open.spotify.com/album/7gwkCFqJVgjO1vXRQJ2YiQ) | 3:17 | 2022-05-11 | 2022-07-20 |
 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 | 2022-05-11 |  |
 | [Let's stay together](https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th) | [O.zic](https://open.spotify.com/artist/3CAnNFqNZE11RKX3743MfR), [Martian](https://open.spotify.com/artist/2NBnwR3hvn7iOIfxWBzCYK) | [Let's stay together](https://open.spotify.com/album/6pZaDtwrcHUTPW1XOok1kA) | 3:59 | 2022-05-11 | 2022-08-02 |
-| [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 | 2022-05-11 |  |
+| [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 | 2022-05-11 | 2022-12-20 |
 | [Like a fairy tale](https://open.spotify.com/track/3EAAyFgs5ezTmEPuZhF8B6) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [Can you hear my heart](https://open.spotify.com/album/40KoO74KTCRxeegC2q78y2) | 4:16 | 2022-07-08 | 2022-07-28 |
 | [LIKE YOU](https://open.spotify.com/track/3cEy0jKDf5UQ2yZ4fsB7xX) | [YOON CHAE KYUNG](https://open.spotify.com/artist/7t64s5breOMMSEfhw9td7N), [CHA HUN \(N.Flying\)](https://open.spotify.com/artist/4WKzUxDwpNCy7vMop9PrTW) | [Woof &Meow Do you love me? OST](https://open.spotify.com/album/577AQ4CR7ara4EveBUUTNz) | 2:42 | 2022-06-09 | 2022-06-22 |
 | [Look & Spring \(Feat\. Ko Young Bae of Soran\)](https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [D\_iary page.2](https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv) | 4:06 | 2022-05-11 | 2022-07-29 |
@@ -142,6 +142,7 @@
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-11 | 2022-08-02 |
 | [Shall we dance tonight](https://open.spotify.com/track/7J7XWKFgpUqiq0sYnm0kBu) | [이정권](https://open.spotify.com/artist/2JTaMLHMmhuALiVj8vpGg9) | [Shall we dance tonight](https://open.spotify.com/album/6alu7CXqzSj3g45f8r8WBv) | 3:25 | 2022-06-13 | 2022-07-03 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 |  |
+| [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-20 |  |
 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 | 2022-07-08 |  |
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 | 2022-10-13 | 2022-12-14 |

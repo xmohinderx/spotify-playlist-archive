@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-905 songs - 2 day 1 hr 38 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
+906 songs - 2 day 1 hr 41 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/track/0poEFjyV2iHKtxjdWFwjmS) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/album/0wXQE5QGxFdviVPa7GKMCA) | 2:46 | 2020-09-21\* | 2021-02-06 |
 | [All Night Long](https://open.spotify.com/track/32sbxzReRCPKlKmSUUOX1V) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [All Night Long](https://open.spotify.com/album/3ki9e5nnk14lEkTJg6CrBC) | 2:40 | 2021-08-21 | 2021-10-23 |
 | [All On Me \(feat\. Zhu\)](https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Year Zero](https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP) | 4:09 | 2020-11-03 | 2021-03-26 |
+| [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 |  |
 | [All That I Can](https://open.spotify.com/track/2EtwxAprswAqDZ3uRq8pr8) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [All That I Can](https://open.spotify.com/album/0odjRQYZTwuSsDskgk3j3K) | 3:37 | 2020-09-21\* | 2021-02-20 |
 | [All the Ladies](https://open.spotify.com/track/4gH12KjwxV1h5z3Lq5OdJN) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [All the Ladies](https://open.spotify.com/album/1w1UECYYfHeqLXGUuWR9Mg) | 4:07 | 2020-09-21\* | 2021-01-23 |
 | [All Time](https://open.spotify.com/track/09m37OH1O6YVqL25jziNfJ) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [All Time](https://open.spotify.com/album/5nvsvlK2CZAZa4qnVkSFAd) | 2:46 | 2021-02-20 | 2021-07-24 |
@@ -289,7 +290,7 @@
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-11 | 2021-08-07 |
 | [GO](https://open.spotify.com/track/386HYzADE7k5zhM6ZLM1On) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [GO](https://open.spotify.com/album/1yZNhpqPc5JOXyQL5KIQnA) | 3:23 | 2020-09-21\* | 2021-02-20 |
 | [Go Head](https://open.spotify.com/track/1XUM16N9IFPKb5RA0bRHmf) | [Ryden](https://open.spotify.com/artist/1Y5qZuVu8BdlAcTRInoT4B) | [Go Head](https://open.spotify.com/album/5Ryo4aP0ruj6kONX3bsVcB) | 3:07 | 2021-10-23 | 2022-03-12 |
-| [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2022-04-01 |  |
+| [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2022-04-01 | 2022-12-20 |
 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-03-27 | 2021-09-18 |
 | [Gold \- DubVision Remix](https://open.spotify.com/track/6cZk2cg2H9XgWUcRaeRStT) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Gold \(Remixes\)](https://open.spotify.com/album/7Ind88GGJrY1KtDu07D06v) | 3:29 | 2021-07-07 | 2021-09-18 |
 | [Golden \(feat\. Blondfire\)](https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Blondfire](https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3) | [Golden \(feat\. Blondfire\)](https://open.spotify.com/album/3lUeNPdccSYi4LK4pLvBiv) | 3:29 | 2021-03-11 | 2021-07-24 |

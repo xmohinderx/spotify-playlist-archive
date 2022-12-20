@@ -1108,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
+    },
+    {
+      "album": {
         "name": "MERRY GO ROUND",
         "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
       },
@@ -1683,7 +1701,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 244360,
       "name": "To you, Tomorrow",
       "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"

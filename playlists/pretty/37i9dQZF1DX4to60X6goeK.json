@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38577,
+  "num_followers": 38582,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMGI3NWVmZGU1NzRlNjgxZDhlYzk3NjYwNjdmOTBlZjRj",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMGMwNTVkY2NhOThlZmNjOWRhOTI4NzVkYjY5Nzc5ZTg0",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 240000,
       "name": "Tekkers Riddim (feat. Harry Shotta & Mr Traumatik)",
       "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 292117,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 292117,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Back To Normal",
         "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Let You Go EP",
         "url": "https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D"
       },
@@ -1075,30 +1091,6 @@
       "duration_ms": 256180,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Hazard",
-        "url": "https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8"
-      },
-      "artists": [
-        {
-          "name": "JMullaUK",
-          "url": "https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
-        },
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
-        }
-      ],
-      "duration_ms": 248239,
-      "name": "Hazard",
-      "url": "https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z"
     }
   ],
   "unique_name": "Jump Up!",

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Process",
+        "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
+    },
+    {
+      "album": {
         "name": "Swum Baby",
         "url": "https://open.spotify.com/album/2p47OHaW1agrdBbgBP1S3W"
       },
@@ -510,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
+    },
+    {
+      "album": {
         "name": "Are You Even Real?",
         "url": "https://open.spotify.com/album/4k4iHNk6u4RlloqaNXlzwQ"
       },
@@ -557,7 +593,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 133676,
       "name": "Ascend and Try Again",
       "url": "https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR"
@@ -1309,7 +1345,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282000,
       "name": "Columbia River",
       "url": "https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko"
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 224393,
       "name": "Condition",
       "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
@@ -1523,7 +1559,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218151,
       "name": "D'vocean",
       "url": "https://open.spotify.com/track/7mkjLeqNeFLuzjcf2sOTqP"
@@ -1704,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "Three Songs",
+        "url": "https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185041,
+      "name": "Did I Get It Wrong",
+      "url": "https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy"
+    },
+    {
+      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj"
       },
@@ -1741,7 +1795,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 198897,
       "name": "dimeback",
       "url": "https://open.spotify.com/track/3WIjTtXpbu1dViSMQYfID5"
@@ -2039,7 +2093,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 153728,
       "name": "Drifting Off",
       "url": "https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD"
@@ -2075,7 +2129,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154573,
       "name": "drip bounce _ 7_24_18",
       "url": "https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA"
@@ -2093,7 +2147,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 191750,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL"
@@ -2515,7 +2569,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 217373,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
@@ -3201,7 +3255,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
@@ -3273,10 +3327,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 160941,
       "name": "i don't care - bonus track",
       "url": "https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA"
+    },
+    {
+      "album": {
+        "name": "Where Will We Go, Pt. 2",
+        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299839,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
     },
     {
       "album": {
@@ -3927,7 +3999,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
@@ -3985,7 +4057,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
@@ -4003,7 +4075,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 262600,
       "name": "Lonely Shade of Blue",
       "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
@@ -4285,6 +4357,24 @@
       "duration_ms": 271578,
       "name": "Lucy - Gentle Dom Remix",
       "url": "https://open.spotify.com/track/5N8vDHwjXE8YB7nDKopI90"
+    },
+    {
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/3VQysw3feitddUUw8Y7uAk"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128360,
+      "name": "Lumbago",
+      "url": "https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6"
     },
     {
       "album": {
@@ -4834,6 +4924,28 @@
     },
     {
       "album": {
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224448,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
+      "album": {
         "name": "Norton Commander (All We Need)",
         "url": "https://open.spotify.com/album/7Lc8WAp0aFlQyIvlHSBAJh"
       },
@@ -4942,6 +5054,24 @@
     },
     {
       "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134240,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6GH5wjtkTqJsS7tC3TjaWq"
+    },
+    {
+      "album": {
         "name": "On Your Side (stud1nt Remix)",
         "url": "https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky"
       },
@@ -5029,7 +5159,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
@@ -5963,6 +6093,24 @@
       "duration_ms": 206634,
       "name": "Slacks",
       "url": "https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH"
+    },
+    {
+      "album": {
+        "name": "Good Mmornin",
+        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336506,
+      "name": "Small Worlds",
+      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
     },
     {
       "album": {
@@ -6963,6 +7111,24 @@
     {
       "album": {
         "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258002,
+      "name": "Tomb",
+      "url": "https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV"
+    },
+    {
+      "album": {
+        "name": "Tomb",
         "url": "https://open.spotify.com/album/5OaRF9FbwGlSeAO5QZBBOa"
       },
       "artists": [
@@ -7529,6 +7695,28 @@
       "duration_ms": 515865,
       "name": "WILSHIRE",
       "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
+    },
+    {
+      "album": {
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "album": {

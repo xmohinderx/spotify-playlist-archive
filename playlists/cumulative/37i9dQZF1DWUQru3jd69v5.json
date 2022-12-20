@@ -5446,6 +5446,24 @@
     },
     {
       "album": {
+        "name": "PKS #1",
+        "url": "https://open.spotify.com/album/27sjVJxmPuZ8ofeeuDRbsX"
+      },
+      "artists": [
+        {
+          "name": "Pikasso",
+          "url": "https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129457,
+      "name": "PKS #1",
+      "url": "https://open.spotify.com/track/5Zwra4gIbI6kX7RBLKN4ip"
+    },
+    {
+      "album": {
         "name": "Plaquette",
         "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
       },

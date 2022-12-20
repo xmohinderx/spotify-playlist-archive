@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,259 songs - 5 day 5 hr 55 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,260 songs - 5 day 5 hr 57 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,7 +866,7 @@
 | [Evenings](https://open.spotify.com/track/3jSslE7Fop3jOjiPYDpVD0) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Now / Again](https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0) | 2:49 | 2021-09-17 | 2022-11-20 |
 | [Evenings](https://open.spotify.com/track/1gT2IDC2z4W9Km3JvX4RVh) | [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Purple Skies](https://open.spotify.com/album/2nivV1pgFdEoGRwQmSjsRj) | 2:35 | 2021-07-01 | 2021-07-30 |
 | [Evenings in Soho](https://open.spotify.com/track/1YHrzzAYyhe7c34Fv2OHQK) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Evenings in Soho](https://open.spotify.com/album/47WDvEwx51V8pO1JEcnzsn) | 2:57 | 2020-09-25 | 2021-03-06 |
-| [Everest](https://open.spotify.com/track/0hVBBtEN1zjNXskK7dMRPN) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Everest](https://open.spotify.com/album/4Cz7Cjo1bbgJL2w3Umnt4S) | 1:36 | 2022-11-17 |  |
+| [Everest](https://open.spotify.com/track/0hVBBtEN1zjNXskK7dMRPN) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Everest](https://open.spotify.com/album/4Cz7Cjo1bbgJL2w3Umnt4S) | 1:36 | 2022-11-17 | 2022-12-20 |
 | [Everest](https://open.spotify.com/track/4dGdL5dCoidGdU8zqTnj2S) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Everest](https://open.spotify.com/album/5W2WQ7NAoeBOBWHUjISZ5N) | 1:36 | 2022-03-04 | 2022-09-04 |
 | [Everest](https://open.spotify.com/track/3vYouZujMonwhGjVFESJHe) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Everest](https://open.spotify.com/album/6RnGFy9JPCqI7Ls0XIIDn6) | 2:02 | 2022-11-03 |  |
 | [Evergreen](https://open.spotify.com/track/4JBkIQ34kFeWuyJQwQKDK2) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [Evergreen](https://open.spotify.com/album/1NorQWStaLdQzCuJyFoB8l) | 2:15 | 2021-05-22 | 2022-07-01 |
@@ -2390,6 +2390,7 @@
 | [Salt & Honey](https://open.spotify.com/track/7MJFecDyvdlcuoibwJ8LL5) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Sea Slugs Vol\. 4](https://open.spotify.com/album/74TjwcKzGkRjhWm3nAns5H) | 2:10 | 2020-07-24 | 2021-03-26 |
 | [samba hop](https://open.spotify.com/track/5Xfb6A8dS3LkA3doJT5jtm) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Cookies](https://open.spotify.com/album/0EF6vdGjkjHHkJizEbQrOr) | 1:14 | 2022-02-11 | 2022-03-10 |
 | [Same Here](https://open.spotify.com/track/4CmCA9wQXNycEvrjRhTPJb) | [Bill adlib](https://open.spotify.com/artist/2vtcShcGkXS1SZeLwEOqKz) | [Same Here](https://open.spotify.com/album/6da5oFl9XkZfuEoJ5C1iEo) | 1:19 | 2021-08-27 | 2021-10-22 |
+| [Same Old](https://open.spotify.com/track/40rGVDpEBZpoa8SHVgT7Pb) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Same Old](https://open.spotify.com/album/3OuAFfTI7XgHhZtfwOzX2W) | 2:41 | 2022-12-15 |  |
 | [SAMO](https://open.spotify.com/track/6GuiDpEuU8J3L2gKRObRhq) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh) | 2:16 | 2020-12-09 | 2021-06-11 |
 | [Samurai](https://open.spotify.com/track/3Rb52ZLcNvASaoprWY3KKA) | [VINCENT MOON](https://open.spotify.com/artist/0BiIN25nWNSub42oUnFKoM), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Samurai](https://open.spotify.com/album/5vgHWGJaa3CgiZuw0x2WRi) | 2:37 | 2021-05-21 | 2022-01-07 |
 | [San Francisco Nights](https://open.spotify.com/track/3bWN5Hibd5W2Zcz0hsM5Ga) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [San Francisco Nights](https://open.spotify.com/album/6r7OUf8jfevNCAM0g1padv) | 1:55 | 2020-12-11 | 2021-03-06 |

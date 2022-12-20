@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,896 likes - 150 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,972 likes - 150 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 46 | [Red Maple Leaves](https://open.spotify.com/track/0I2PBwHOSV64TRDxqvdBIB) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Red Maple Leaves](https://open.spotify.com/album/4o8yu9sJK3u53SGIZTduOW) | 3:22 |
 | 47 | [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 3:31 |
 | 48 | [An Italian Lovesong](https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5Qjq6Rr6Fgzzln3HlwzaCF) | 3:31 |
-| 49 | [Matter](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Matter](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 2:19 |
+| 49 | [Valle dei Templi](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Valle dei Templi](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 3:00 |
 | 50 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 |
 | 51 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 |
 | 52 | [Afrodite](https://open.spotify.com/track/6skzlMw87XL85eM9YhMAxR) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:46 |

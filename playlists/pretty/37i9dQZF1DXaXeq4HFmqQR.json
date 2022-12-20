@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Mon Laferte en portada. ",
-  "num_followers": 10625,
+  "num_followers": 10646,
   "original_name": "Lo mejor de EQUAL Chile 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDYwYzg5MDE0ZDg1ZGU5OWFhYjNiY2NlMzE0MjVhMTcx",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDM1ZTJhYTc2YzE0NWRkODNhMjBhNWJhYmZlMzJjM2Ji",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Beautiful Sadness",
-      "url": "https://open.spotify.com/track/3gCU77vVGjA80B6cxXexWA"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 160028,
       "name": "Horas Contigo",
       "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Beautiful Sadness",
+      "url": "https://open.spotify.com/track/3gCU77vVGjA80B6cxXexWA"
     },
     {
       "added_at": "2022-11-30 13:00:00",

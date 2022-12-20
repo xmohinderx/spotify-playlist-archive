@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,249 likes - 500 songs - 18 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,454 likes - 500 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,12 +103,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 93 | [It's Not Just Me](https://open.spotify.com/track/2XrXZ0DH1mqspN4mZWEp05) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [It's Not Just Me](https://open.spotify.com/album/6kH8vRc89EBSXfHCl2TJ6E) | 2:51 |
 | 94 | [Grava](https://open.spotify.com/track/0JXecbPggkex2WUbQnyPID) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Grava](https://open.spotify.com/album/5X7xtSXccXdVKSr6C9Yx8U) | 2:22 |
 | 95 | [Zeal](https://open.spotify.com/track/7gWksPQCd3aSdB7phjMTXy) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Zeal](https://open.spotify.com/album/1mPNHtXpRMDp6W9Xj2ShMB) | 2:21 |
-| 96 | [Like Saffron](https://open.spotify.com/track/6R5TBVKCGiV8ITQxBRXAz0) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Like Saffron](https://open.spotify.com/album/7jfKj6qTIRZM0qiRT2TFea) | 2:25 |
+| 96 | [Balancing](https://open.spotify.com/track/6R5TBVKCGiV8ITQxBRXAz0) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Balancing](https://open.spotify.com/album/7jfKj6qTIRZM0qiRT2TFea) | 2:14 |
 | 97 | [Chillpill](https://open.spotify.com/track/4WAL1RcMM1MUlSxLntpHjF) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Pysig](https://open.spotify.com/album/0dQVTWnBsV7WJLDQhKow4d) | 2:42 |
 | 98 | [coffe break](https://open.spotify.com/track/27nTIPsA7DPskQHdX7kAUR) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [coffe break](https://open.spotify.com/album/3pr0z0UHmCRgguVjgU8WE3) | 2:32 |
 | 99 | [Hacienda](https://open.spotify.com/track/7IUTIwIpHaquAp6mHMJEZ4) | [Pandaw](https://open.spotify.com/artist/5Dis5h8442u0u3IA8846ho) | [Hacienda](https://open.spotify.com/album/3bz3AZng3nz1ewUS5Wwpuk) | 2:25 |
-| 100 | [coffe break](https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [coffe break](https://open.spotify.com/album/2VDL52SN0l9MUAvkrC7d5y) | 2:32 |
-| 101 | [Existence](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Existence](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:48 |
+| 100 | [I can feel it](https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [I can feel it](https://open.spotify.com/album/2VDL52SN0l9MUAvkrC7d5y) | 1:47 |
+| 101 | [Jazzie Evening](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Jazzie Evening](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:05 |
 | 102 | [u gone](https://open.spotify.com/track/3MJEawIXqT89BhJ6L8ySSM) | [Beatboxbandit](https://open.spotify.com/artist/4eoLeg3TmwwZQJf6coCfy1) | [u gone](https://open.spotify.com/album/3yBszZ5SxqhdYAgNOFfBas) | 1:07 |
 | 103 | [December](https://open.spotify.com/track/5BJYYJv3YcFkFzlEiQnOzx) | [Amaez](https://open.spotify.com/artist/5UL219t4aptfSBcRGFeLJU) | [December](https://open.spotify.com/album/0QZeRn3RZeQuTVlPchRl0M) | 2:30 |
 | 104 | [Tuesday](https://open.spotify.com/track/4i6soSPJv5nE00bolyoxZ3) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Gxldxn Fxnch](https://open.spotify.com/artist/05mJfp9M0IpJ6k07ikXIkB) | [Tuesday](https://open.spotify.com/album/5jNxny3pje8T25KIxIrQWw) | 3:30 |

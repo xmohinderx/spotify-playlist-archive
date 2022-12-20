@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 212806,
+  "num_followers": 212927,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGZjNDFkMWMyM2ZmN2M2Mzk5ZTA0N2E5NGE5NmExYmFj",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDNlYTk3ZWQxMmFkYTJmNTQ5NDUwZTNhOTQyNWE5MTky",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 117495,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Dreams for Two",
         "url": "https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180601,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",

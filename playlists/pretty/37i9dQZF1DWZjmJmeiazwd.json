@@ -1,15 +1,15 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 432450,
+  "num_followers": 432482,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1MDg3NiwwMDAwMDAwMGY5MTY5N2M3ZDNkZTE5YWUyODVmODYwZmQ2NTY3ZTM4",
+  "snapshot_id": "MTY2OTc1MDg3NiwwMDAwMDAwMDg5MTA5ZjhlYjMxMzJiZTZjYWIwMjRkOTNiNGUzMjg5",
   "tracks": [
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
     },
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
+    },
+    {
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
@@ -135,22 +135,6 @@
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
-    },
-    {
-      "added_at": "2022-12-19 00:04:31",
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
     },
     {
       "added_at": "2022-10-07 15:29:20",
@@ -167,6 +151,22 @@
       "duration_ms": 220426,
       "name": "When You Were Young",
       "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
+    },
+    {
+      "added_at": "2022-12-20 01:01:36",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
     },
     {
       "added_at": "2022-10-07 15:29:20",
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 206648,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3"
+    },
+    {
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
         "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
         "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 223173,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 206648,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3"
     },
     {
       "added_at": "2022-10-07 15:29:20",
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "What Separates Me From You",
         "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2D9BrlpeyjXF0vli2dYQ5V"
     },
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "Machines",
         "url": "https://open.spotify.com/album/7DqkWmFsqgZWzEvPyRsLEh"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
     },
     {
-      "added_at": "2022-12-19 00:04:31",
+      "added_at": "2022-12-20 01:01:36",
       "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "Dear Monsters",
-        "url": "https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 188769,
-      "name": "If Tomorrow Never Comes",
-      "url": "https://open.spotify.com/track/0OzYhueF403FBct7orzGEg"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
+        "name": "Dear Monsters",
+        "url": "https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 188769,
+      "name": "If Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/0OzYhueF403FBct7orzGEg"
     },
     {
       "added_at": "2022-10-07 15:29:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "N.A.T.I.O.N.",
-        "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Killing Me Slowly",
-      "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
         "name": "Sing To Me",
         "url": "https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 202209,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
+    },
+    {
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
+        "name": "N.A.T.I.O.N.",
+        "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
     },
     {
       "added_at": "2022-10-07 15:29:20",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
+    },
+    {
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ"
       },
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "Below",
-        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 198927,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
+      "duration_ms": 195390,
+      "name": "They Don't Want What We Want (And They Don't Care)",
+      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
     },
     {
       "added_at": "2022-10-07 15:29:20",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
       },
       "artists": [
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 195390,
-      "name": "They Don't Want What We Want (And They Don't Care)",
-      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
+      "duration_ms": 198927,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
     },
     {
       "added_at": "2022-10-07 15:29:20",
@@ -1479,38 +1479,6 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "Monster Made of Memories",
-        "url": "https://open.spotify.com/album/3PYXlGZJmUtSwq5fJ840oV"
-      },
-      "artists": [
-        {
-          "name": "Citizen Soldier",
-          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Monster Made of Memories",
-      "url": "https://open.spotify.com/track/7HdGW7nnqYz5LhKt13J6PQ"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
-        "name": "See What\u2019s On The Inside",
-        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
         "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
         "url": "https://open.spotify.com/album/4CFzl6z4I2HfIH1gPow3bw"
       },
@@ -1531,6 +1499,38 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
+        "name": "See What\u2019s On The Inside",
+        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+    },
+    {
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
+        "name": "Monster Made of Memories",
+        "url": "https://open.spotify.com/album/3PYXlGZJmUtSwq5fJ840oV"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Monster Made of Memories",
+      "url": "https://open.spotify.com/track/7HdGW7nnqYz5LhKt13J6PQ"
+    },
+    {
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-10-07 15:29:20",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2022-10-07 15:29:20",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 208418,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr"
+    },
+    {
+      "added_at": "2022-10-07 15:29:20",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-10-07 15:29:20",

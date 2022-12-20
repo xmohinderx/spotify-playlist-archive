@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-302 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
+302 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,6 @@
 | [Photograph](https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:20 | 2022-11-25 |  |
 | [Pillow Talk \(Acoustic\)](https://open.spotify.com/track/3u1RjvWGVcVWPUMMbhDaA7) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Pillow Talk \(Acoustic\)](https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz) | 3:30 | 2022-10-26 |  |
 | [PILLOWTALK \- the living room session](https://open.spotify.com/track/3Tluzy27Qdbe8aRK2OCQf3) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [PILLOWTALK \(the living room session\)](https://open.spotify.com/album/7bWxyXxuT9LVzVkgDEWm5V) | 2:25 | 2022-10-14 | 2022-10-27 |
-| [Pour toi](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Pour toi](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 2:11 | 2022-12-16 |  |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 | 2021-03-11 |  |
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2021-03-11 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-03-11 | 2022-11-26 |
@@ -233,7 +232,6 @@
 | [Savage Love \- Acoustic Cover](https://open.spotify.com/track/303GLwk2sGt4TYDomRUogQ) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Acustic Hits 2020](https://open.spotify.com/album/0TE1Oc5OANq645xPnBrm64) | 3:50 | 2022-08-31 | 2022-11-26 |
 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/5LuSu8fS8PGCH88EDPLYcy) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/7Hl0Vq5KSaX8o0yNYZCGm9) | 2:57 | 2022-08-31 |  |
 | [Say something \- Acoustic](https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:26 | 2022-10-14 |  |
-| [Scoop Up](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Scoop Up](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:38 | 2022-12-16 |  |
 | [see you soon](https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [see you soon](https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW) | 2:38 | 2022-11-25 |  |
 | [Send My Love \(To Your New Lover\) \- Acoustic Version](https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [25 Acoustic \(Acoustic Version\)](https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a) | 3:37 | 2022-10-14 |  |
 | [Senorita \- Acoustic](https://open.spotify.com/track/69jAWn8c3I81SHphhF6zHj) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Senorita \(Acoustic\)](https://open.spotify.com/album/3Ar1IuER5q0B6ZJDKHJVzt) | 3:19 | 2021-03-11 | 2022-07-29 |
@@ -261,9 +259,11 @@
 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 | 2021-03-11 |  |
 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 | 2022-12-02 |  |
 | [STAY](https://open.spotify.com/track/47HAVYDQN5gH38pf9R8VpJ) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [STAY](https://open.spotify.com/album/1Vxqds6fwlew2NKKge1lgn) | 2:34 | 2022-08-31 | 2022-12-02 |
+| [Stay with me](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:54 | 2022-12-16 |  |
 | [Stitches \(Acoustic\)](https://open.spotify.com/track/1NEMlQEO4ArMfTXjXYtgQH) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Stitches \(Acoustic\)](https://open.spotify.com/album/4qJFXxyt5OjMmOeymnN784) | 3:14 | 2022-08-31 |  |
 | [Stupid Love \- Acoustic Cover](https://open.spotify.com/track/67UOPTeZfrUENW7MA5F3e6) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Stupid Love \(Acoustic Cover\)](https://open.spotify.com/album/4Pn5qhCGfkSnRlPGTlrcrN) | 3:21 | 2021-03-11 | 2022-12-17 |
 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-09 |  |
+| [Take me to church \- Acoustic](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Take Me To Church \(Acoustic\)](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 3:51 | 2022-12-16 |  |
 | [THATS WHAT I WANT \- Piano Acoustic](https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0) | [THATS WHAT I WANT \(Piano Acoustic\)](https://open.spotify.com/album/4uqUIxdqSwWRtnHGZBPcrj) | 2:56 | 2022-11-11 |  |
 | [The Last Time \- Acoustic](https://open.spotify.com/track/2uVGbDn2fqGjQONpKfTaxl) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Last Time \(Acoustic\)](https://open.spotify.com/album/5oTybq1gUqM2zS24spst7z) | 3:16 | 2021-03-11 | 2022-07-29 |
 | [The Last Time \- Acoustic](https://open.spotify.com/track/7CEIn4lDK1nZQRfc6XVTqU) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Last Time](https://open.spotify.com/album/3hB121yuKWnt1sRyJV9UK3) | 3:16 | 2021-03-11 | 2022-11-26 |

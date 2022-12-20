@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-252 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+254 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ANYTHING YOU WANT \- Duet Version](https://open.spotify.com/track/4QpK3n9kidFcEHU4rBfLoi) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW), [吳宇恆](https://open.spotify.com/artist/45bOOG6ExnhMFBjKLZNZ2M) | [ANYTHING YOU WANT \(Duet Version\)](https://open.spotify.com/album/0AWl8bgcO3k3uuT8kiOiXr) | 3:17 | 2022-06-13 | 2022-07-21 |
 | [B with U\(《隔離後見個面,好嗎?》片頭曲\)](https://open.spotify.com/track/4kgb0sJneRMjRPMWHqIBEO) | [Zing](https://open.spotify.com/artist/3nd2krSPtjMBeEbkpzHloW) | [Zing A Song](https://open.spotify.com/album/03MLJrBD85VgFeW5GdvgJf) | 3:09 | 2022-06-06 | 2022-07-09 |
 | [Baby I Love You](https://open.spotify.com/track/7Cq5fL4HxgcOKIA7P2z64C) | [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l), [劉人語](https://open.spotify.com/artist/4Azl1sNQoUntardC0dI9xN) | [Baby I Love You](https://open.spotify.com/album/6dpEEIjoYDAbANMkFT984J) | 4:40 | 2022-06-06 | 2022-07-21 |
-| [Cappuccino](https://open.spotify.com/track/7dXdcK5hFBKDITomqjW3U2) | [PINK FUN](https://open.spotify.com/artist/00cxLg9WhGOmZKMNI7fnnW) | [Cappuccino](https://open.spotify.com/album/5GSFZurxEZUNSQZ0clSvil) | 3:16 | 2022-12-13 |  |
+| [Cappuccino](https://open.spotify.com/track/7dXdcK5hFBKDITomqjW3U2) | [PINK FUN](https://open.spotify.com/artist/00cxLg9WhGOmZKMNI7fnnW) | [Cappuccino](https://open.spotify.com/album/5GSFZurxEZUNSQZ0clSvil) | 3:16 | 2022-12-13 | 2022-12-20 |
 | [Crush on You](https://open.spotify.com/track/1Px6GqkS5SvAiVtx902av5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [還原](https://open.spotify.com/album/7DxCILyrU4E6TabC9Bt4lI) | 3:07 | 2022-06-27 | 2022-07-26 |
 | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/track/7bZjpW7r2Bf2QLXyeUFaen) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf) | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps) | 2:44 | 2022-06-06 | 2022-07-27 |
 | [Fall in Love](https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Fall in Love](https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7) | 3:21 | 2022-06-06 |  |
@@ -28,6 +28,7 @@
 | [I'm in love](https://open.spotify.com/track/37n0amZ1Uq2GB1P94U92bE) | [田亞霍](https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit) | [I'm in love](https://open.spotify.com/album/0ZOQhvjG1IIOhR5AG9be3L) | 3:17 | 2022-06-06 | 2022-08-17 |
 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 | 2022-07-25 |  |
 | [Lipstick](https://open.spotify.com/track/0xNt7H35xQGckARubdX2pR) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Lipstick](https://open.spotify.com/album/4yJ2xM0pYjViEDZnFwP5PK) | 2:34 | 2022-06-06 | 2022-07-21 |
+| [Little Present](https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [Little Present](https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE) | 3:45 | 2022-12-19 |  |
 | [LOVE U](https://open.spotify.com/track/4WMtqsI7PJHr06JhaCVdPe) | [齊晨](https://open.spotify.com/artist/6FgvbauqkRDLhAB6Jv8HWK) | [LOVE U](https://open.spotify.com/album/3Dai6zQWjLo9Bygbq4wa2G) | 4:22 | 2022-06-13 | 2022-07-05 |
 | [LOVE YOU](https://open.spotify.com/track/1rzLrlJ3dB0OYODelxaRQY) | [C.T.O](https://open.spotify.com/artist/7lcIiKfgKb19JCpm16acIQ) | [LOVE YOU](https://open.spotify.com/album/7mrM3Ixy1Ui3wXBxEadmE2) | 3:34 | 2022-06-20 | 2022-07-07 |
 | [Love you till I die](https://open.spotify.com/track/20ysHIsiNC08vzhhHE9p8O) | [黃號](https://open.spotify.com/artist/0RVEZgV5JHf5UR8ywnIYrA), [曾薀帆](https://open.spotify.com/artist/7J7oIdrlpxuIXXkfT0FmOD) | [為你唱情歌 \- Love you till I die](https://open.spotify.com/album/2tX0HTJYDGSLwNSVO0Qt1T) | 3:22 | 2022-11-08 |  |
@@ -96,6 +97,7 @@
 | [原來真的愛上了](https://open.spotify.com/track/021RtAtctOzhRhctErmiWZ) | [羅啟聰](https://open.spotify.com/artist/4UbI3GzO9gvf3HfzDSPFXw), [秋和政](https://open.spotify.com/artist/4ONvl9dIUCXvlfooTFJfND) | [原來真的愛上了](https://open.spotify.com/album/3HmVUS1UJ77yF6tZRGOfeH) | 2:51 | 2022-07-25 | 2022-07-28 |
 | [只對你有感覺](https://open.spotify.com/track/6WdMREn0gO76tvckO16SQu) | [飛輪海](https://open.spotify.com/artist/37Ge9MTQaJqJknImNwYhWF), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [飛輪海首張同名專輯](https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F) | 3:59 | 2022-06-20 | 2022-06-30 |
 | [告白氣球](https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 3:35 | 2022-07-11 |  |
+| [和你的天气总是那么好 \(新传媒电视剧《遇见你,真香!》插曲\)](https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9) | [Xu Bin](https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs), [Chantalle Ng](https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK) | [新传媒电视剧《遇见你,真香!》电视剧原声带](https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE) | 3:08 | 2022-12-19 |  |
 | [哆唻咪](https://open.spotify.com/track/57RA8RHw9BlzKPkSDET63E) | [賀敬軒](https://open.spotify.com/artist/78AtbJzyfj3N9MTtfByW85) | [哆唻咪](https://open.spotify.com/album/5Ue3zLUZw5MqLh7WqBUYSd) | 4:02 | 2022-07-04 | 2022-07-08 |
 | [哪裡來的勇氣](https://open.spotify.com/track/5JqnhLnwkayjT4dFEyPwDu) | [Da Tian Chen](https://open.spotify.com/artist/0vap3muSZLb1kqpPs1UmS6) | [一百種失戀的方法](https://open.spotify.com/album/1w2K9kDHi4I7n89bTOanMu) | 3:58 | 2022-06-06 | 2022-06-29 |
 | [喜歡](https://open.spotify.com/track/2fp2exMvOesqBQ1Km5Zut6) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [謝孟庭](https://open.spotify.com/artist/25iwdlQf9Cxdxhq8MQj8Pc) | [找到我](https://open.spotify.com/album/6u8wGLHZFB6H8HQRZ40L9G) | 3:42 | 2022-06-13 | 2022-07-26 |
@@ -177,7 +179,7 @@
 | [我陪你接不接受](https://open.spotify.com/track/72VwWIrCMKrZrD5YyE3zpL) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [河智昊](https://open.spotify.com/artist/3DEFgAPbosvePBoBfXwCak) | [我陪你接不接受](https://open.spotify.com/album/6f4A78YRMtNVNVmEgClg5y) | 3:09 | 2022-06-27 | 2022-07-19 |
 | [所有相愛的人啊\(熱情版\)](https://open.spotify.com/track/0nPuFKswOvCUaGYl4FIs8m) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [所有相愛的人啊\(熱情版\)](https://open.spotify.com/album/6VgF9QqDn6twLGVQHMvXT1) | 4:08 | 2022-06-06 | 2022-07-29 |
 | [敬嘮叨](https://open.spotify.com/track/7B3O98DIT9hOVB8sbwgtYY) | [繆以欣](https://open.spotify.com/artist/43aTla1ZVfTG1AUNhhbqsv) | [如果心情會說話](https://open.spotify.com/album/5BwIe4tDn9K8LVKJP1uFyr) | 3:58 | 2022-07-18 | 2022-07-20 |
-| [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 |  |
+| [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 | 2022-12-20 |
 | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 | 2022-06-06 |  |
 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 | 2022-07-25 |  |
 | [星晴](https://open.spotify.com/track/5oZh0gPKEioN2la70JsKHR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/6r6z1ChrXORrklFyEdRfNs) | 4:16 | 2022-06-06 | 2022-07-28 |

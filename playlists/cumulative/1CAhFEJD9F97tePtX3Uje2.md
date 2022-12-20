@@ -4,7 +4,7 @@
 
 > 
 
-199 songs - 12 hr 1 min - not published yet
+200 songs - 12 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Luna](https://open.spotify.com/track/5bZRKkPYoXGoE4iVwamv21) | [Sorsari](https://open.spotify.com/artist/2t01L1I0juJWbThU5jP06Y) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 3:20 | 2018-11-27 |  |
 | [Lunar Orbit](https://open.spotify.com/track/4JDXpjzsSmJCcnPpJbe6z0) | [Five Suns](https://open.spotify.com/artist/58bIS29PlIe7RhCSoHJnnq) | [Lunar Orbit](https://open.spotify.com/album/3YfE4KU7el3068i2J8rlyM) | 3:25 | 2019-11-07 |  |
 | [Mental Loop](https://open.spotify.com/track/7EovzLbZJ3mHcJ3239ytln) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:47 | 2021-07-04 |  |
+| [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 | 2022-12-19 |  |
 | [MISFORTUNE](https://open.spotify.com/track/2v3XiXADdx9wcmoLqzkyX7) | [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub), [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru) | [MISFORTUNE](https://open.spotify.com/album/0PIqngcqaFZ08s8SK2EuBW) | 2:59 | 2018-11-27 |  |
 | [Moon](https://open.spotify.com/track/5TIifxIVxDkXMsGaQsxjvB) | [nanebo](https://open.spotify.com/artist/0GItY0oa4LLOi7LBZ6f345) | [Moon](https://open.spotify.com/album/6e9D6OZsVXVgcQYJQaXcyh) | 2:44 | 2022-08-06 |  |
 | [Moonshinx](https://open.spotify.com/track/59DfeMKQitH6e1bhL3MCj1) | [MYSTXRIVL](https://open.spotify.com/artist/5puIJpEBWYS37qD8TS8gZq) | [Moonshinx](https://open.spotify.com/album/5rd0rMUhv2KuhMf6QF2q6c) | 3:40 | 2018-11-27 |  |

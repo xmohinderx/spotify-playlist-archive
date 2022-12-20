@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: J Rabbit(\uc81c\uc774\ub808\ube57)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
+  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: Stella Jang(\uc2a4\ud154\ub77c \uc7a5)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
   "name": "K-Pop Acoustic",
   "published_playlist_ids": [
     "6ycQZelJsg1QvKdkpuvD2Q"
@@ -572,6 +572,24 @@
     },
     {
       "album": {
+        "name": "be around me",
+        "url": "https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG"
+      },
+      "artists": [
+        {
+          "name": "PARKJIWOO",
+          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "be around me",
+      "url": "https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt"
+    },
+    {
+      "album": {
         "name": "Be Love",
         "url": "https://open.spotify.com/album/6pc6IdDxGdtDQqYUtI3Oer"
       },
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 227691,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 214506,
       "name": "Envy you",
       "url": "https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd"
@@ -2407,6 +2425,24 @@
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0"
+      },
+      "artists": [
+        {
+          "name": "HANUM",
+          "url": "https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173997,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H"
     },
     {
       "album": {
@@ -7023,7 +7059,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -7063,6 +7099,24 @@
       "duration_ms": 184084,
       "name": "Where are you?",
       "url": "https://open.spotify.com/track/7eDhlnVZiPzlNHjJEVCXJv"
+    },
+    {
+      "album": {
+        "name": "Where sorrow has passed\u200b",
+        "url": "https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Where sorrow has passed\u200b",
+      "url": "https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts"
     },
     {
       "album": {

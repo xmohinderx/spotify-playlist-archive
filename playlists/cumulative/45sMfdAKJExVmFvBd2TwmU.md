@@ -4,7 +4,7 @@
 
 > Shah Rukh Khan\-Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-121 songs - 9 hr 35 min - not published yet
+122 songs - 9 hr 40 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 | 2022-03-24 |  |
 | [Pyaar Ke Pal \- Unplugged](https://open.spotify.com/track/16k3QLuKbOiX2xk2dIs3XU) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [KK : Unplugged](https://open.spotify.com/album/1HvSbkHFr46Rt49hFN1ltv) | 6:57 | 2022-06-07 | 2022-11-17 |
 | [Raanjhanaa](https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jaswinder Singh](https://open.spotify.com/artist/2IP4wcE4hRbDi1zdV8Si6g), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 4:14 | 2021-11-22 |  |
+| [Raat Ka Nasha](https://open.spotify.com/track/4gjFNGQ0BodNqiOAOAOMSW) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:13 | 2022-12-19 |  |
 | [Saathi Rey](https://open.spotify.com/track/6P0XrGFaGfNh0ObmhSTKW2) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 4:32 | 2022-05-10 |  |
 | [Saawali Si Raat](https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:08 | 2022-05-10 |  |
 | [Sadka](https://open.spotify.com/track/4dPeCbg2Op44s9kwyMS3ZT) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Suraj Jagan](https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 5:43 | 2022-03-17 |  |

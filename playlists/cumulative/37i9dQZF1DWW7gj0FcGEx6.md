@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-215 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+216 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Le secret](https://open.spotify.com/track/1yEPMwd5y36JpZcETVWVYI) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 3:51 | 2021-12-20 |  |
 | [Leah and Bex Sleep](https://open.spotify.com/track/4WyjmaYIeJd2P7ySunGETm) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [Martyrs Lane \(Original Score\)](https://open.spotify.com/album/4s5SkiabIOjVDLoHWZlbH0) | 2:03 | 2022-11-04 |  |
 | [Leave Someday](https://open.spotify.com/track/7L0kDthsWe72iFJLoQrBy0) | [Andrew Lockington](https://open.spotify.com/artist/0sK0i9UQeU4aPaxgGTFTcC) | [Mayor of Kingstown: Season 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/4ySSi9E1zuHn2B6Ho23w7j) | 2:18 | 2022-01-07 |  |
+| [Leaving Home](https://open.spotify.com/track/36bhoKLSIcHFPP9GH8XCE8) | [Simon Franglen](https://open.spotify.com/artist/12WCXE6DlRcCn2rEShNepL) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 3:27 | 2022-12-19 |  |
 | [Leaving Sri Lanka](https://open.spotify.com/track/2g60osV8ASRCYHmFgQdIEF) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Funny Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IcKD7iOViugsBt9IQxkyA) | 4:15 | 2021-12-20 | 2022-07-09 |
 | [Leaving the Farm](https://open.spotify.com/track/22P2FBXPVENSfJp9rQUpAt) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [A Quiet Place Part II \(Music from the Motion Picture\)](https://open.spotify.com/album/62LYN8SfBNzlYP3Q7Tntya) | 1:34 | 2021-12-20 | 2022-07-09 |
 | [Leda](https://open.spotify.com/track/1IIAQAAsnL51sYw3rK3957) | [Dickon Hinchliffe](https://open.spotify.com/artist/3SzIzpOIDpgwKNWaKL4FG4) | [Leda](https://open.spotify.com/album/67quHHVMflpXF3zQEs7AqP) | 2:14 | 2021-12-20 |  |

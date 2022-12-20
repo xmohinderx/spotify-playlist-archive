@@ -2730,6 +2730,24 @@
     },
     {
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/4Huthg4syNIjySQreWLkls"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142244,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/1pqGwiN4oGvu5tg421QRXb"
+    },
+    {
+      "album": {
         "name": "Cooks",
         "url": "https://open.spotify.com/album/36aWHA59o4IuxVg8WTV3v8"
       },
@@ -12289,7 +12307,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 168384,
       "name": "SUMMER GIRL",
       "url": "https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd"

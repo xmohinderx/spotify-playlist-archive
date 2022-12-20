@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Hasan Raheem
 
-130 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+131 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [I Could Save You](https://open.spotify.com/track/6itdaQh0oR32nRC5gcpP8q) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:47 | 2022-09-01 | 2022-11-03 |
 | [Ishq Di Chaawaan](https://open.spotify.com/track/32QciyqHLkDbIfSMwZ4vaF) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/3wCkTerpj85FLiecQwQnsJ) | 3:45 | 2022-05-20 |  |
 | [It'll Be Alright](https://open.spotify.com/track/2hBZiD9FNe1B2KWazQ6PpA) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [It'll Be Alright](https://open.spotify.com/album/6ey6At5pDT8X1fIaSaIbsf) | 4:25 | 2022-11-02 |  |
+| [Jaadugar](https://open.spotify.com/track/0gmEt2nKOssVRStyUmjSpE) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/43iHptEDCmyn1WOQ40P7w4) | 3:12 | 2022-12-19 |  |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-20 | 2022-07-16 |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2022-07-15 | 2022-09-02 |
 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-05-20 |  |

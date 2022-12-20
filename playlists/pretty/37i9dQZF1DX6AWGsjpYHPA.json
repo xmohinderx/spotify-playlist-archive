@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 92432,
+  "num_followers": 92492,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDc5NmMyMDEyN2UxZWNkM2ZmNjg3NGM1YzQwYzE1ZmRi",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDg3ZTRmNGRlZjYyODE4MDFiNGFkZjA0NzU2NTYyYjk1",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -111,18 +111,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 232053,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -143,22 +147,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+      "duration_ms": 232053,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Heartbreak / 6000 Ft.",
         "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Fantastic Freeriding the Next Chapter",
-        "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
-      },
-      "artists": [
-        {
-          "name": "Kabanjak",
-          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Revelation Dub",
-      "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Fantastic Freeriding the Next Chapter",
+        "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
+      },
+      "artists": [
+        {
+          "name": "Kabanjak",
+          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Revelation Dub",
+      "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
     }
   ],
   "unique_name": "Turntable",

@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 122299,
+  "num_followers": 122319,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMDE5OWZlMjJkZDM5NTFkMzhhY2U2Y2I5Y2RjZDgxMWVj",
+  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGFiYmVmY2M4MzI1NjVkYzJlZTU4OGQ2YjFmYWI4Zjc1",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Maurissa Rose",
-          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
-        }
-      ],
-      "duration_ms": 199272,
-      "name": "Feel It - Edit",
-      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Byen",
         "url": "https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD"
       },
@@ -171,22 +151,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "I'll Be Okay",
-        "url": "https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex"
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
       },
       "artists": [
         {
-          "name": "Kasket Club",
-          "url": "https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy"
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
         },
         {
-          "name": "Soul Gem",
-          "url": "https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB"
+          "name": "Maurissa Rose",
+          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
         }
       ],
-      "duration_ms": 196932,
-      "name": "I'll Be Okay",
-      "url": "https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP"
+      "duration_ms": 199272,
+      "name": "Feel It - Edit",
+      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -239,6 +219,26 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex"
+      },
+      "artists": [
+        {
+          "name": "Kasket Club",
+          "url": "https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy"
+        },
+        {
+          "name": "Soul Gem",
+          "url": "https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB"
+        }
+      ],
+      "duration_ms": 196932,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 333520,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Villa Amorini",
         "url": "https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 359306,
       "name": "how long is... cold pizza good for",
       "url": "https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 333520,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 387760,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
-      },
-      "artists": [
-        {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
-        }
-      ],
-      "duration_ms": 401066,
-      "name": "Flott Flyt",
-      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Closing Shot",
         "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 503648,
       "name": "Closing Shot",
       "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+      },
+      "artists": [
+        {
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+        }
+      ],
+      "duration_ms": 401066,
+      "name": "Flott Flyt",
+      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Sadsongwtf",
-        "url": "https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 173164,
-      "name": "Sadsongwtf",
-      "url": "https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Eurodans",
         "url": "https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 387053,
       "name": "Italian Stallion",
       "url": "https://open.spotify.com/track/3o7AUvN9hTo5TRUrrW0HYV"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Sadsongwtf",
+        "url": "https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 173164,
+      "name": "Sadsongwtf",
+      "url": "https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -747,42 +747,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Oppkok",
-        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 303282,
-      "name": "Nitten Nitti - Harvey's Not Normal Mix",
-      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        },
-        {
-          "name": "Tilla",
-          "url": "https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI"
-        }
-      ],
-      "duration_ms": 127524,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Baby Can't Stop",
         "url": "https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG"
       },
@@ -799,6 +763,22 @@
       "duration_ms": 371333,
       "name": "Baby Can't Stop",
       "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Oppkok",
+        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 303282,
+      "name": "Nitten Nitti - Harvey's Not Normal Mix",
+      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -831,6 +811,26 @@
       "duration_ms": 291018,
       "name": "HS",
       "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Tilla",
+          "url": "https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI"
+        }
+      ],
+      "duration_ms": 127524,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
     },
     {
       "added_at": "2022-11-24 23:01:00",

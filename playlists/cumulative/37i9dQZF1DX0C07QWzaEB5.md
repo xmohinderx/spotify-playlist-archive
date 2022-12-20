@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-160 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
+161 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [The Winter, Stopped You & Me](https://open.spotify.com/track/6CE6tNmGCWEau3glNjXjXo) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [Spend The Night With You](https://open.spotify.com/album/3QolHtd0girLLqKM0Gw1Al) | 3:32 | 2021-12-07 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/3q7IOUrYa0hQZkhC1ZVFTS) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Baddest Nice Guys](https://open.spotify.com/album/0TGo7wuEtmc7HstlDWFcia) | 3:34 | 2021-12-07 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/3iQqCQZtx8ZEKSXBkg3J4s) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Baddest Nice Guys](https://open.spotify.com/album/187fmTy0wOPQ8geiMNACPT) | 3:34 | 2022-07-04 |  |
+| [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/track/5oodXSTHKXbciMByyywlC8) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u) | 3:22 | 2022-12-19 |  |
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-12-07 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/0NVDKNljMvGrJBTj7BoU4H) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:10 | 2022-07-04 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/7rQDt6y60dMT9Wh7xzLZAf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:10 | 2021-12-07 | 2022-07-29 |

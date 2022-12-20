@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-294 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+295 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [His Name Shall Be](https://open.spotify.com/track/0mzyK6XVIC90D5q94tE7FY) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [His Name Shall Be](https://open.spotify.com/album/09acCs0YrzMbeb2ASCXsXz) | 5:16 | 2021-12-24 | 2022-07-28 |
 | [His Name Shall Be](https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-24 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6V0o74Ptf4aygUPCT2Wdcu) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier](https://open.spotify.com/album/7o83BpMH6xfIhOfDGxLcpa) | 2:21 | 2021-12-24 |  |
-| [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-24 |  |
+| [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-24 | 2022-12-20 |
 | [How Glorious The Love Of Heaven](https://open.spotify.com/track/3VJLvwssjJJEZgE2BwjU5L) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [How Glorious The Love Of Heaven](https://open.spotify.com/album/5BAmXMvVZeq8Glme23qNC3) | 3:58 | 2021-12-24 | 2022-07-25 |
 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 | 2021-12-24 |  |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/6ZvGIWs3Vt4cmVkuycJaFM) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 4:22 | 2021-12-24 |  |
@@ -301,6 +301,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/3bD0ww92h2G9oTRYkmQcB5) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold \(Deluxe\)](https://open.spotify.com/album/2pUDUet97GvfDELqwTnMFo) | 2:57 | 2021-12-24 | 2022-07-13 |
 | [Winter Wonderland](https://open.spotify.com/track/0mEVR7fOrIeOtLXP1DLuAx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Winter Wonderland](https://open.spotify.com/album/1X8tQ76K8lWa5hC5Ebtpek) | 2:31 | 2021-12-24 |  |
 | [Wonderful \(feat\. Steven Curtis Chapman\)](https://open.spotify.com/track/2GSzK7BiSvC0RBKpUUPFDI) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Wonderful \- EP](https://open.spotify.com/album/1qtMnfH1xAI7kwF6scN7gw) | 3:43 | 2021-12-24 |  |
+| [Your Majesty](https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 3:19 | 2022-12-11 |  |
 | [Your Peace Will Make Us One](https://open.spotify.com/track/5sjyXo1fLKG1r5Mhe82Vob) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Urban Doxology](https://open.spotify.com/artist/4ZJmHVZS6HW3x7MQYmqYeS) | [Your Peace Will Make Us One](https://open.spotify.com/album/3tTI93K1IqzCSsrAVbXhDD) | 3:40 | 2021-12-24 | 2022-12-12 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

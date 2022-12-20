@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Camin",
-  "num_followers": 20300,
+  "num_followers": 20302,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMDhiZjE2MDM1ZDVhOTQzYjYwMDc2NDEyNTg1M2NjM2U0",
+  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMGZiYjgwY2M0NmM3OTI3MmI2OTY3MTE1OWE4ODhmMDg1",
   "tracks": [
     {
       "added_at": "2022-11-11 11:01:19",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "Por Encima Del Dinero",
         "url": "https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 134117,
       "name": "Por Encima Del Dinero",
       "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "cuando anochece",
-        "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 185553,
-      "name": "cuando anochece",
-      "url": "https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+        "name": "cuando anochece",
+        "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+      "duration_ms": 185553,
+      "name": "cuando anochece",
+      "url": "https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "No Llores (feat. Alice Wonder)",
         "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
       },
@@ -303,6 +287,90 @@
       "duration_ms": 218119,
       "name": "No Llores (feat. Alice Wonder)",
       "url": "https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Alex Turner",
+        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Alex Turner",
+      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "la pesta\u00f1a que sopl\u00e9",
+        "url": "https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 140823,
+      "name": "la pesta\u00f1a que sopl\u00e9",
+      "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -355,110 +423,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Alex Turner",
-        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Alex Turner",
-      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "la pesta\u00f1a que sopl\u00e9",
-        "url": "https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "la pesta\u00f1a que sopl\u00e9",
-      "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Cosas Que Dijimos De Hacer",
-        "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Cosas Que Dijimos De Hacer",
-      "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Mientras Ando",
-        "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        },
-        {
-          "name": "Belicemanu",
-          "url": "https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Me lo kiero imaginar",
-      "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "100tas / Nunca",
         "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
       },
@@ -487,6 +451,58 @@
       "duration_ms": 141800,
       "name": "C\u00f3mo Me Voy A Olvidar",
       "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Cosas Que Dijimos De Hacer",
+        "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Cosas Que Dijimos De Hacer",
+      "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Prom\u00e9teme",
+        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 159307,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Mientras Ando",
+        "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "Belicemanu",
+          "url": "https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Me lo kiero imaginar",
+      "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -527,22 +543,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Prom\u00e9teme",
-        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 159307,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "a partes",
         "url": "https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 100744,
       "name": "uno x ciento",
       "url": "https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Delgao",
-          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
-        }
-      ],
-      "duration_ms": 187130,
-      "name": "A Contraluz",
-      "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -615,38 +595,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
       },
       "artists": [
         {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         },
         {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Disneyland Paris",
-        "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
-      },
-      "artists": [
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "Disneyland Paris",
-      "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
+      "duration_ms": 187130,
+      "name": "A Contraluz",
+      "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -667,6 +631,42 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "Disneyland Paris",
+        "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
+      },
+      "artists": [
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "duration_ms": 144624,
+      "name": "Disneyland Paris",
+      "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "friki",
         "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 131871,
       "name": "friki",
       "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "un poco s\u00ed...",
-        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "un poco s\u00ed...",
-      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -735,22 +719,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "scenario!",
-        "url": "https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL"
-      },
-      "artists": [
-        {
-          "name": "Ghouljaboy",
-          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
-        }
-      ],
-      "duration_ms": 194166,
-      "name": "scenario!",
-      "url": "https://open.spotify.com/track/3thdka0EjolLblroJXiE3U"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 177002,
       "name": "canci\u00f3n de amor",
       "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "un poco s\u00ed...",
+        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "un poco s\u00ed...",
+      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "scenario!",
+        "url": "https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL"
+      },
+      "artists": [
+        {
+          "name": "Ghouljaboy",
+          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
+        }
+      ],
+      "duration_ms": 194166,
+      "name": "scenario!",
+      "url": "https://open.spotify.com/track/3thdka0EjolLblroJXiE3U"
     },
     {
       "added_at": "2022-11-11 11:01:19",

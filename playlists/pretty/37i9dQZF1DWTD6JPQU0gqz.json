@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44962,
+  "num_followers": 44961,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMGIzMzQwN2ViMTRjOWU1ZGZkMzQ3Zjc3MDNlNDMwMGVm",
+  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMGUxMWJhZmEyMTZmYWZlNTJiOWNmMjhkMjk1YzdiNWI1",
   "tracks": [
     {
       "added_at": "2022-09-13 13:20:57",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
-      "added_at": "2022-12-18 23:54:46",
+      "added_at": "2022-12-20 00:31:16",
       "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 216510,
-      "name": "Sal y Perrea",
-      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "BLACKsummers'night (2009)",
         "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 141335,
       "name": "KI-KI",
       "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 216510,
+      "name": "Sal y Perrea",
+      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/6LuKwOlk7P0ZpR9L6c9b4y"
     },
     {
-      "added_at": "2022-12-18 23:54:46",
+      "added_at": "2022-12-20 00:31:16",
       "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
@@ -399,26 +399,6 @@
       "duration_ms": 150071,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
-        "name": "Apretaito",
-        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Apretaito",
-      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -455,6 +435,26 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
+        "name": "Apretaito",
+        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Apretaito",
+      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
         "name": "La Revancha del Burro",
         "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 195204,
       "name": "Sister 2 Sister",
       "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
-        "name": "Pilot (Extended Version)",
-        "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -551,22 +535,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "G Wagon",
-        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "G Wagon",
-      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 224869,
       "name": "Qu\u00e9 L\u00e1stima",
       "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "Pilot (Extended Version)",
+        "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -623,18 +607,18 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 190173,
-      "name": "Loiza",
-      "url": "https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw"
+      "duration_ms": 209680,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -655,22 +639,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Michael X",
-        "url": "https://open.spotify.com/album/5z8ftBDRoLV9zkyrzoegvZ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 204981,
-      "name": "Michael X",
-      "url": "https://open.spotify.com/track/4BDNef3IA4NkoXkZeqrxch"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "Bitcoin",
         "url": "https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 201370,
       "name": "Bitcoin",
       "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Loiza",
+      "url": "https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "Michael X",
+        "url": "https://open.spotify.com/album/5z8ftBDRoLV9zkyrzoegvZ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 204981,
+      "name": "Michael X",
+      "url": "https://open.spotify.com/track/4BDNef3IA4NkoXkZeqrxch"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
-      "added_at": "2022-12-18 23:54:46",
+      "added_at": "2022-12-20 00:31:16",
       "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "ABUC",
-        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Afro Mambo",
-      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 146023,
       "name": "Oye Mi Ritmo",
       "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "ABUC",
+        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Afro Mambo",
+      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
     },
     {
       "added_at": "2022-09-13 13:20:57",

@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-294 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+295 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Born In Bethlehem](https://open.spotify.com/track/0bx2d5fwkiVtipA1JT7Qdm) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Christmas Offerings](https://open.spotify.com/album/0ytvxlV9CcT0IAke7hxdfj) | 3:42 | 2021-12-11 |  |
 | [Born on That Day](https://open.spotify.com/track/3wlUyTYyx0XBsk2IoKu6R7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:35 | 2021-12-11 |  |
 | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/track/3nt6KSOlcetP5Asp9mAL2I) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/album/3wugGehkfYGRLeWN1ZFtVw) | 4:55 | 2022-11-26 |  |
-| [Brightest And Best](https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Brightest And Best](https://open.spotify.com/album/3NuC18AEUC7JWFENjWsnag) | 4:40 | 2021-12-11 |  |
+| [Brightest And Best](https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Brightest And Best](https://open.spotify.com/album/3NuC18AEUC7JWFENjWsnag) | 4:40 | 2021-12-11 | 2022-12-20 |
 | [Christmas \(What the World Needs\)](https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas \(What the World Needs\)](https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h) | 3:36 | 2021-12-11 |  |
 | [Christmas Back Home](https://open.spotify.com/track/6UdwFxbk5DM9Wi7ravGUgY) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Christmas Back Home](https://open.spotify.com/album/4xpkOAvw5wL5FQv2G0z6cU) | 3:41 | 2021-12-11 | 2022-07-28 |
 | [Christmas Day](https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:23 | 2021-12-11 |  |
@@ -178,6 +178,7 @@
 | [Light of the World](https://open.spotify.com/track/4IR0seMxE1JhVfv90KE1NV) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thank God it's Christmas](https://open.spotify.com/album/1FBFqL715gCViWqbmVGgRD) | 3:32 | 2021-12-11 | 2022-07-29 |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-11 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/0yS3skL5mFKSiWXQU2OCrM) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 4:23 | 2021-12-24 | 2022-07-23 |
+| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
 | [Make Room](https://open.spotify.com/track/0lEWsFKKwItsH88Lv2QwB3) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [The Last Christmas On Earth..\. Again!](https://open.spotify.com/album/0nMovNBGG59zb0XmniBhAF) | 4:16 | 2021-12-24 | 2022-07-28 |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 | 2022-11-26 |  |
 | [Mary Did You Know](https://open.spotify.com/track/6KLBLbycBR3gTKIJGYTVBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Christmas: God With Us](https://open.spotify.com/album/4lif7qdfFAsjGkyCL83gNU) | 4:04 | 2021-12-24 | 2022-10-10 |

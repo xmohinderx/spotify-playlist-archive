@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 467897,
+  "num_followers": 467909,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGIwZjE5MWQxODdlZThkZGZlMTAwZmQ2ZjYwYzBhMGY5",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ4ZmYwMGNjZWU3MDkyNGJjZjk2Zjc2NDQ2ODFhYjZm",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "brightside bonus tracks",
+        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "just like heaven",
+      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "brightside bonus tracks",
-        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "just like heaven",
-      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Caves",
+        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 179234,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Singing Other People's Love Songs",
         "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 214786,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Caves",
-        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "Caves",
-      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
-      "added_at": "2022-12-19 01:06:55",
+      "added_at": "2022-12-20 01:10:43",
       "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Free Fallin'",
-        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 291930,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Boots Of Spanish Leather",
         "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 282173,
       "name": "Boots Of Spanish Leather",
       "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Free Fallin'",
+        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 291930,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Other People's Songs Volume One",
         "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 184693,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1671,30 +1671,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        },
-        {
-          "name": "Sam Cohen",
-          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
-        }
-      ],
-      "duration_ms": 222996,
-      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/404DH5KgWamwVcCincjRJE"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 205760,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        },
+        {
+          "name": "Sam Cohen",
+          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
+        }
+      ],
+      "duration_ms": 222996,
+      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
     },
     {
       "added_at": "2022-10-14 04:00:00",

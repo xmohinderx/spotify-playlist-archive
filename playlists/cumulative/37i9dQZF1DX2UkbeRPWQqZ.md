@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-150 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+150 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,6 @@
 | [I Jump To Grab A Star](https://open.spotify.com/track/1DPotsjdKBF7HicSOwvGt2) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [I Jump To Grab A Star](https://open.spotify.com/album/12Rms3EhCNA2N1OLmbffy3) | 2:55 | 2022-12-16 |  |
 | [I Stay Until You Sleep](https://open.spotify.com/track/4RbBxl2t2gLPcs465yX4pP) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [I Stay Until You Sleep](https://open.spotify.com/album/137c1tSYODEXlIFdAOebp3) | 4:02 | 2021-11-11 |  |
 | [I trollskogen](https://open.spotify.com/track/5kz2PDCQ8kTkSyT3jhZdn8) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [I trollskogen](https://open.spotify.com/album/1vC9LVXA3ifzigFY332i0q) | 1:37 | 2022-11-25 |  |
-| [I'm A Fool To Want You](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm A Fool To Want You](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 3:58 | 2022-12-16 |  |
 | [I'm Just Happy You Are Here](https://open.spotify.com/track/5THYwLZSyxQmriI7TQiXG7) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [I'm Just Happy You Are Here](https://open.spotify.com/album/1FnVNnpr8Cdl7iFODCWoc4) | 2:25 | 2021-11-11 |  |
 | [If You're Happy and You Know It](https://open.spotify.com/track/5r9A6XkKEjazT4A0PhXgiy) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [If You're Happy and You Know It](https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR) | 2:06 | 2021-11-11 |  |
 | [Imse vimse spindel](https://open.spotify.com/track/4QNvxfmjIWKhNR5MEIMow2) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Bedtime Lullabies](https://open.spotify.com/album/0VLjmHAqOa6R1pv7MttzLL) | 1:29 | 2021-11-11 |  |
@@ -112,6 +111,7 @@
 | [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 1:58 | 2021-11-11 |  |
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-22 |  |
 | [Pillows](https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [Pillows](https://open.spotify.com/album/1oaYNR7kCYRVaGj6c5fnGa) | 1:56 | 2021-11-11 |  |
+| [Ponnien min](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Ponnien min](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:14 | 2022-12-16 |  |
 | [Pop Goes the Weasel](https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Pop Goes the Weasel](https://open.spotify.com/album/5axZEOVm1BnlBFEcrEjjk3) | 1:18 | 2021-11-11 |  |
 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 | 2021-11-11 |  |
 | [Rain, Rain, Go Away](https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [This Old Man](https://open.spotify.com/album/3lchEgofOY5DYfGnFj58DD) | 1:48 | 2021-11-11 |  |
@@ -127,7 +127,6 @@
 | [Sleep You Little Videyoung](https://open.spotify.com/track/6AmhUIvNyevwaoy2D73OxJ) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Musica Di Bambino](https://open.spotify.com/album/6sTdjqRsLtroU8vM8CswYg) | 2:57 | 2021-11-11 |  |
 | [Sleepy times](https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Sleepy times](https://open.spotify.com/album/3mk8LC5Nh8TicpfM5N69K0) | 1:13 | 2022-11-25 |  |
 | [So Many Stars](https://open.spotify.com/track/54Mmafmblu61obktO4hibb) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 2:55 | 2022-06-10 |  |
-| [Sognefjord](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:40 | 2022-12-16 |  |
 | [Sov godt trollet mitt](https://open.spotify.com/track/5n03A1PL8EYrVwGmtG9glK) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sov godt trollet mitt](https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x) | 1:30 | 2021-11-11 |  |
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 |  |
 | [Stars at Night](https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF) | [3rd Street Guitar](https://open.spotify.com/artist/2A7EWzNXsSbpTOpw8NvUhF) | [Stars at Night](https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP) | 1:42 | 2021-11-11 |  |
@@ -147,6 +146,7 @@
 | [Trollmors vuggevise](https://open.spotify.com/track/1PKjwXKjMSUN1q48vcciui) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sanger for de minste](https://open.spotify.com/album/73HFQPdPGcT72SGPbNre5h) | 1:43 | 2021-11-11 |  |
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2021-11-11 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-11-11 |  |
+| [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/7zhLkll5sC1tJRTDGCau2P) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 | 2022-12-16 |  |
 | [Waltzing Matilda](https://open.spotify.com/track/35TStN96CwcjFedErjW8Wq) | [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [Classical Guitar Lullabies Volume 1](https://open.spotify.com/album/4bOdmU2jKgz7eMoyFxWE0L) | 2:28 | 2021-11-11 |  |
 | [We Walk Around](https://open.spotify.com/track/308Pv80NYNomGwut3BgKrQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [We Walk Around](https://open.spotify.com/album/4aTGIFMnK2nTsjGlXTV1Qm) | 2:39 | 2022-09-02 |  |
 | [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 | 2021-11-11 |  |

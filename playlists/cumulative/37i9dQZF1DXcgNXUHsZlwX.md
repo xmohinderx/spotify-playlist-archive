@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-384 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+385 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Au bout du monde](https://open.spotify.com/track/6hcoT48e93uJSiqES3eKMy) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Au bout du monde](https://open.spotify.com/album/3GglngNuy4H740Q3cfTv31) | 2:53 | 2022-02-25 | 2022-06-24 |
 | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa) | 4:07 | 2021-01-03\* | 2022-07-29 |
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
-| [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 |  |
+| [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 | 2022-12-20 |
 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 |  |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 |  |
 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 | 2021-10-09 |  |
@@ -73,6 +73,7 @@
 | [Dahlia](https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Dahlia](https://open.spotify.com/album/2JIQTUXCAVjUq0LvLbZFMr) | 4:17 | 2021-01-03\* | 2022-07-23 |
 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 | 2021-11-28 |  |
 | [Dans tes bras](https://open.spotify.com/track/6MqZU9IaaFM7LPNuRnFlUf) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Dans tes bras](https://open.spotify.com/album/5SbmPKpoZHhRMMeh2KTM76) | 4:01 | 2021-01-03\* | 2021-05-08 |
+| [Defunct Baseball Team](https://open.spotify.com/track/528146UttVCudD2otAEkEI) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Defunct Baseball Team](https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG) | 2:28 | 2022-12-16 |  |
 | [Demain nous nous verrons](https://open.spotify.com/track/1dRgHx8QuWoz2ApVgxOR46) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Entre deux éboulements](https://open.spotify.com/album/07l0yqSuVBOALvcDpx2WVN) | 2:34 | 2021-01-03\* | 2021-01-18 |
 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 | 2022-07-08 |  |
 | [Derrière le bruit](https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 4:05 | 2021-01-03\* | 2022-07-29 |

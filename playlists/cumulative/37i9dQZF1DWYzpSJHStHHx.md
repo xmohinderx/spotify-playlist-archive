@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-209 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+210 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Avant Gardener](https://open.spotify.com/track/0U49QcRHyGfbmhhbNl92Q4) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double Ep: A Sea of Split Peas](https://open.spotify.com/album/2Tj0T4o9svdk19AjADY4lx) | 5:12 | 2021-02-05 | 2022-07-29 |
 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 | 2022-07-22 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2021-04-13 | 2022-06-17 |
-| [Beach Comber](https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Real Estate](https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y) | 4:28 | 2021-02-05 |  |
+| [Beach Comber](https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Real Estate](https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y) | 4:28 | 2021-02-05 | 2022-12-20 |
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-08-27 | 2022-07-29 |
 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 | 2021-02-05 | 2022-07-29 |
 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2022-07-22 |  |
@@ -169,6 +169,7 @@
 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 | 2021-02-05 | 2022-06-30 |
 | [Something New](https://open.spotify.com/track/1roGQgXbwaKojyfEGPCk8D) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Something New](https://open.spotify.com/album/2aKQxCgAkenCRpyKy040W9) | 3:13 | 2021-02-05 | 2022-07-29 |
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-22 | 2022-12-01 |
+| [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-09-22 |  |
 | [Sports](https://open.spotify.com/track/2B9aVoZ2GWDtR09jIpFpQD) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/71zuqxUvaTrtGppFhL1ajp) | 2:44 | 2021-02-05 | 2022-04-21 |
 | [Step Out](https://open.spotify.com/track/3hDVTXOMEkhaAVjPdltpi3) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [No\. 1](https://open.spotify.com/album/5Df4StYJqSo2yCK1nLIt5r) | 2:32 | 2021-02-05 | 2022-04-20 |
 | [Stoned](https://open.spotify.com/track/5Uu6Kdcx62SVKbikkbM5oU) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3P2vcYCOMzyQThpAnmCTi2) | 3:11 | 2021-02-05 | 2022-07-29 |

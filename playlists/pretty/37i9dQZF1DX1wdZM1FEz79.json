@@ -1,28 +1,28 @@
 {
-  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: J Rabbit(\uc81c\uc774\ub808\ube57)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 229629,
+  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: Stella Jang(\uc2a4\ud154\ub77c \uc7a5)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
+  "num_followers": 229687,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxOTUxOCwwMDAwMDAwMDNlMGIzZTZmZmQ1MTRkNDUwMjQ1ZDk3YzhlMDE4NTE5",
+  "snapshot_id": "MTY3MTQzNjU5MywwMDAwMDAwMDBkODM1MmJkMTFlNmJhYmY3MjMzNWRmYWUxNjMwN2U3",
   "tracks": [
     {
-      "added_at": "2022-12-13 08:18:38",
+      "added_at": "2022-12-20 01:03:22",
       "album": {
-        "name": "Envy you",
-        "url": "https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S"
+        "name": "Where sorrow has passed\u200b",
+        "url": "https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5"
       },
       "artists": [
         {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Envy you",
-      "url": "https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd"
+      "duration_ms": 247000,
+      "name": "Where sorrow has passed\u200b",
+      "url": "https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts"
     },
     {
       "added_at": "2022-12-13 08:18:38",
@@ -39,6 +39,58 @@
       "duration_ms": 287523,
       "name": "Dozy Dozy",
       "url": "https://open.spotify.com/track/3WKdOdaC8iHUxmMdH3wCtx"
+    },
+    {
+      "added_at": "2022-12-20 01:03:22",
+      "album": {
+        "name": "be around me",
+        "url": "https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG"
+      },
+      "artists": [
+        {
+          "name": "PARKJIWOO",
+          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "be around me",
+      "url": "https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt"
+    },
+    {
+      "added_at": "2022-12-20 01:03:22",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0"
+      },
+      "artists": [
+        {
+          "name": "HANUM",
+          "url": "https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH"
+        }
+      ],
+      "duration_ms": 173997,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H"
+    },
+    {
+      "added_at": "2022-12-13 08:18:38",
+      "album": {
+        "name": "Just 10 centimeters",
+        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Just 10 centimeters",
+      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
     },
     {
       "added_at": "2022-12-13 08:18:38",
@@ -71,26 +123,6 @@
       "duration_ms": 207163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
-        "name": "Just 10 centimeters",
-        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Just 10 centimeters",
-      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
     },
     {
       "added_at": "2022-12-13 08:18:38",
@@ -211,22 +243,6 @@
     {
       "added_at": "2022-12-13 08:18:38",
       "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
@@ -255,6 +271,22 @@
       "duration_ms": 238266,
       "name": "We're Already",
       "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
+    },
+    {
+      "added_at": "2022-12-13 08:18:38",
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2022-12-13 08:18:38",
@@ -419,22 +451,6 @@
     {
       "added_at": "2022-12-13 08:18:38",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -467,6 +483,22 @@
       "duration_ms": 186666,
       "name": "See you",
       "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
+    },
+    {
+      "added_at": "2022-12-13 08:18:38",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
     },
     {
       "added_at": "2022-12-13 08:18:38",
@@ -539,22 +571,6 @@
     {
       "added_at": "2022-12-13 08:18:38",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
         "name": "Cape",
         "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
       },
@@ -611,6 +627,22 @@
       "duration_ms": 192293,
       "name": "Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)",
       "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
+    },
+    {
+      "added_at": "2022-12-13 08:18:38",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2022-12-13 08:18:38",
@@ -679,22 +711,6 @@
     {
       "added_at": "2022-12-13 08:18:38",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
         "name": "Uncontrollably Fond OST Part.1",
         "url": "https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2022-12-13 08:18:38",
       "album": {
-        "name": "I AM SAM",
-        "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 258961,
-      "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
-      "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-12-13 08:18:38",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf"
+    },
+    {
+      "added_at": "2022-12-13 08:18:38",
+      "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "added_at": "2022-12-13 08:18:38",
+      "album": {
+        "name": "I AM SAM",
+        "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 258961,
+      "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
     },
     {
       "added_at": "2022-12-13 08:18:38",
@@ -855,38 +887,6 @@
       "duration_ms": 239866,
       "name": "Saying Hello",
       "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
-        "name": "Our Blues, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/090bFiHKTLRk5QA4hsE5Zv"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 227691,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt"
-    },
-    {
-      "added_at": "2022-12-13 08:18:38",
-      "album": {
-        "name": "When The Wind Blows - SM STATION",
-        "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
-      },
-      "artists": [
-        {
-          "name": "YOONA",
-          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
-        }
-      ],
-      "duration_ms": 226168,
-      "name": "When The Wind Blows",
-      "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
     }
   ],
   "unique_name": "K-Pop Acoustic",

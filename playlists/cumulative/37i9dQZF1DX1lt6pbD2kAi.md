@@ -4,7 +4,7 @@
 
 > Marília Mendonça e os artistas mais ouvidos no Brasil em 2022.
 
-105 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/67KWFJphEdCzKRICjRpC7e)
+106 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/67KWFJphEdCzKRICjRpC7e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2021-12-10 | 2022-11-29 |
 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 | 2021-12-10 | 2022-11-29 |
 | [Esqueça\-Me Se For Capaz](https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 | 2022-11-30 |  |
-| [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5emL18Je5WuruMhWr0gj4w) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Eu Já Tava Bem \(Ao Vivo\)](https://open.spotify.com/album/2m81ZDyTcPZ2OvxtsWC0bw) | 2:15 | 2022-11-30 |  |
+| [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5emL18Je5WuruMhWr0gj4w) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Eu Já Tava Bem \(Ao Vivo\)](https://open.spotify.com/album/2m81ZDyTcPZ2OvxtsWC0bw) | 2:15 | 2022-11-30 | 2022-12-20 |
+| [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 | 2022-11-30 |  |
 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 | 2022-11-30 |  |
 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 | 2022-11-30 |  |
 | [FALA MAL DE MIM](https://open.spotify.com/track/5glMxRMRHGBRj6bydBjoPM) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [FALA MAL DE MIM](https://open.spotify.com/album/3x3CccLoOFQN8jnFJxF91n) | 2:34 | 2021-12-10 | 2022-11-29 |

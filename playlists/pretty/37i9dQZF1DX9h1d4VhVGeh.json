@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 136697,
+  "num_followers": 136780,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk5MzI4MywwMDAwMDAwMDVlZjk1YTBmNzFlZGIwODUwN2JhZjVkODNiOWI3NWU2",
+  "snapshot_id": "MTY2Nzk5MzI4MywwMDAwMDAwMDNjNDlkODQ2ODUwOWQzODA3ZTkyNGM2MDM4ZDlkMjAw",
   "tracks": [
     {
       "added_at": "2022-11-09 11:28:03",
@@ -223,6 +223,26 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "3abali",
+      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
         "name": "A Vava Inouva",
         "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
       },
@@ -291,26 +311,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        },
-        {
-          "name": "Samer Doumet",
-          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "3abali",
-      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
       },
@@ -355,26 +355,6 @@
       "duration_ms": 253895,
       "name": "Kefayak Aazar",
       "url": "https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
-        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
-      },
-      "artists": [
-        {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        },
-        {
-          "name": "Mohab Omer",
-          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -443,6 +423,26 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
+        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        },
+        {
+          "name": "Mohab Omer",
+          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
         "name": "Hashrab Hashish",
         "url": "https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 184123,
       "name": "Hashrab Hashish",
       "url": "https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Shahrazad (Live)",
+        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "Ya Ana Ya Ana - Live",
+      "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -555,22 +571,6 @@
       "duration_ms": 199636,
       "name": "Ahwak Hiba",
       "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
-        "name": "Shahrazad (Live)",
-        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "Ya Ana Ya Ana - Live",
-      "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Bala Wala Shi",
-        "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
-      },
-      "artists": [
-        {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Bala Wala Shi",
-      "url": "https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Shahrazad (Live)",
         "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 211617,
       "name": "Habbaitak Be El Saif - Live",
       "url": "https://open.spotify.com/track/1QJ2l3k2BFJypRUT5M4mLg"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Bala Wala Shi",
+        "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Bala Wala Shi",
+      "url": "https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Ya Bay - Live",
-        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Ya Bay - Live",
-      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Second Verse",
         "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 272480,
       "name": "Bad Timing",
       "url": "https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Ya Bay - Live",
+        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Ya Bay - Live",
+      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Life (Acoustic)",
-        "url": "https://open.spotify.com/album/11TZPC3sgwUZukOoGrwfQk"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Life - Acoustic",
-      "url": "https://open.spotify.com/track/24HKZoXy9lp7Yp3G7BlJ8v"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Ana Moush Kafer",
         "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 346800,
       "name": "Shou Hal Ayyam - 2008 Remastered",
       "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Life (Acoustic)",
+        "url": "https://open.spotify.com/album/11TZPC3sgwUZukOoGrwfQk"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Life - Acoustic",
+      "url": "https://open.spotify.com/track/24HKZoXy9lp7Yp3G7BlJ8v"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
         "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 206044,
       "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Dessine-moi Un Pays",
-        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 208845,
-      "name": "Dessine-moi Un Pays",
-      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
+      "duration_ms": 267098,
+      "name": "Ansaki",
+      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1599,34 +1599,18 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+        "name": "Dessine-moi Un Pays",
+        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
       },
       "artists": [
         {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
         }
       ],
-      "duration_ms": 248952,
-      "name": "Ella Enta (Live Session)",
-      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 267098,
-      "name": "Ansaki",
-      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
+      "duration_ms": 208845,
+      "name": "Dessine-moi Un Pays",
+      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1643,6 +1627,22 @@
       "duration_ms": 190712,
       "name": "Kil Ma T'illi",
       "url": "https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Ella Enta (Live Session)",
+        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "Ella Enta (Live Session)",
+      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
     },
     {
       "added_at": "2022-11-09 11:28:03",

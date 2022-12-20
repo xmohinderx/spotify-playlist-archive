@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,279 likes - 200 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,425 likes - 200 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 33 | [Kowloon Memories](https://open.spotify.com/track/56NBmGecvxum7lVslfJ0Vo) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Kowloon Memories](https://open.spotify.com/album/6BTy6MO3S6eCm59EF6rNrH) | 1:41 |
 | 34 | [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 |
 | 35 | [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 |
-| 36 | [A Short Prayer](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Alexej Novikov](https://open.spotify.com/artist/25W7iRXVywBozz7jZAdl1l) | [A Short Prayer](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 3:06 |
+| 36 | [Sognefjord](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 2:40 |
 | 37 | [Sine Qua Non](https://open.spotify.com/track/1O2iWnAVqXWYaOXCOTezfo) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Miracle Mountain](https://open.spotify.com/album/1H6xXlZDDFMpu9MIj4rPqT) | 2:42 |
 | 38 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 |
 | 39 | [Ven aquí pequeño](https://open.spotify.com/track/5lgywSbwoZeYa3ALM3dc8S) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Ven aquí pequeño](https://open.spotify.com/album/3OrHfAaCGGB15CqyzJLLVA) | 3:03 |

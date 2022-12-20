@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 19495,
+  "num_followers": 19526,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMDlhMTg5OGMwYTJkYTk4ZmExZTQ4MTNlNjQwODM4NTM0",
+  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMGVmMDViOTFiZWQxYTVhODg0NTdiYzg3MDkzYjBlZThj",
   "tracks": [
     {
       "added_at": "2022-02-14 13:51:20",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-02-14 13:51:20",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 212446,
-      "name": "Pretty Shining People",
-      "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
-    },
-    {
-      "added_at": "2022-02-14 13:51:20",
-      "album": {
         "name": "Patched Up",
         "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 223638,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
+    },
+    {
+      "added_at": "2022-02-14 13:51:20",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 212446,
+      "name": "Pretty Shining People",
+      "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
     },
     {
       "added_at": "2022-02-14 13:51:20",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-02-14 13:51:20",
       "album": {
-        "name": "XV",
-        "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 150366,
-      "name": "Five More Minutes",
-      "url": "https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W"
-    },
-    {
-      "added_at": "2022-02-14 13:51:20",
-      "album": {
         "name": "Collage 1",
         "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 200200,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
+    },
+    {
+      "added_at": "2022-02-14 13:51:20",
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 150366,
+      "name": "Five More Minutes",
+      "url": "https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W"
     },
     {
       "added_at": "2022-02-14 13:51:20",

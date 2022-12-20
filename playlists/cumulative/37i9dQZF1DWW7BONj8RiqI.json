@@ -1863,10 +1863,28 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 184440,
       "name": "Mash Up",
       "url": "https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn"
+    },
+    {
+      "album": {
+        "name": "Mash Up",
+        "url": "https://open.spotify.com/album/4DngCnXAuryTNHVFR1kGtp"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "Mash Up",
+      "url": "https://open.spotify.com/track/7gERxWoMY5cCFJ4Oyy8qnC"
     },
     {
       "album": {
@@ -2767,10 +2785,32 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 211022,
       "name": "Stink Behavior",
       "url": "https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf"
+    },
+    {
+      "album": {
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
+      },
+      "artists": [
+        {
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
     },
     {
       "album": {

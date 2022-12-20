@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 680175,
+  "num_followers": 680318,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwNTI5OSwwMDAwMDAwMGU2N2ZkOGRhMDE3N2YxNDc2OGFkYjg5Y2QxODM0OTk0",
+  "snapshot_id": "MTY3MTIwNTI5OSwwMDAwMDAwMGM3YWE1YmIyYWZhYTE4MmU3MDlkMmI2MzY4NGQ0NWQ1",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
       },
@@ -251,38 +251,6 @@
       "duration_ms": 132746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
-    },
-    {
-      "added_at": "2022-12-16 15:41:08",
-      "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 132215,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -303,6 +271,38 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 132215,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi"
+    },
+    {
+      "added_at": "2022-12-16 15:41:08",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "SINS",
         "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
       },
@@ -317,10 +317,10 @@
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Baby Queen",
-        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
       },
       "artists": [
         {
@@ -328,29 +328,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "spend the money (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 199669,
-      "name": "spend the money (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -371,6 +351,26 @@
       "duration_ms": 193120,
       "name": "VIVID",
       "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "spend the money (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 199669,
+      "name": "spend the money (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -403,6 +403,22 @@
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -473,38 +489,6 @@
       "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Skinny Ape",
-        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 281258,
-      "name": "Skinny Ape",
-      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Big Pussy",
-        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "Big Pussy",
-      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Gold",
@@ -523,6 +507,22 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Big Pussy",
+        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 140600,
+      "name": "Big Pussy",
+      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "spotify singles",
-        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 208710,
-      "name": "feel good inc (bbno$ re-finessed) - spotify single",
-      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -805,24 +805,44 @@
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Picking Up (feat. Deb Never)",
-        "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
+        "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
+        "url": "https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
         },
         {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+          "name": "Flatbush Zombies",
+          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
+        },
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         }
       ],
-      "duration_ms": 175520,
-      "name": "Picking Up (feat. Deb Never)",
-      "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
+      "duration_ms": 144484,
+      "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
+      "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Leaving You",
+        "url": "https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 113374,
+      "name": "Leaving You",
+      "url": "https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -841,20 +861,24 @@
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Leaving You",
-        "url": "https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O"
+        "name": "Picking Up (feat. Deb Never)",
+        "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
       },
       "artists": [
         {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
         }
       ],
-      "duration_ms": 113374,
-      "name": "Leaving You",
-      "url": "https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM"
+      "duration_ms": 175520,
+      "name": "Picking Up (feat. Deb Never)",
+      "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -887,30 +911,6 @@
       "duration_ms": 108800,
       "name": "Baby Blues",
       "url": "https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
-        "url": "https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0"
-      },
-      "artists": [
-        {
-          "name": "Meechy Darko",
-          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
-        },
-        {
-          "name": "Flatbush Zombies",
-          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
-        },
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 144484,
-      "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
-      "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "PORN ACTING*",
+      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Impostor Syndrome",
         "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "PORN ACTING*",
-      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Made Your Mama Cry",
         "url": "https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 158451,
       "name": "Made Your Mama Cry",
       "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Cold Blood",
-        "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 164610,
-      "name": "Cold Blood",
-      "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1323,22 +1307,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "MAKER'S DESIGN",
-        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
+        "name": "Cold Blood",
+        "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
       },
       "artists": [
         {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
         }
       ],
-      "duration_ms": 186531,
-      "name": "THE SEASON (feat. PawPaw Rod)",
-      "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
+      "duration_ms": 164610,
+      "name": "Cold Blood",
+      "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1355,6 +1335,26 @@
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/0MFpii15OtF6euR17upS7S"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "MAKER'S DESIGN",
+        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 186531,
+      "name": "THE SEASON (feat. PawPaw Rod)",
+      "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7"
     },
     {
+      "added_at": "2022-12-08 15:20:00",
+      "album": {
+        "name": "HARRISONBORTS 2022",
+        "url": "https://open.spotify.com/album/1nDUU71dKAMO6dtXwjAc2C"
+      },
+      "artists": [
+        {
+          "name": "Harrison Borts",
+          "url": "https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv"
+        }
+      ],
+      "duration_ms": 109923,
+      "name": "SEPTEMBER 17",
+      "url": "https://open.spotify.com/track/1fNXOSx9FcXhrF6o6IkxkK"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "BBC",
@@ -1473,22 +1489,6 @@
       "url": "https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek"
     },
     {
-      "added_at": "2022-12-08 15:20:00",
-      "album": {
-        "name": "HARRISONBORTS 2022",
-        "url": "https://open.spotify.com/album/1nDUU71dKAMO6dtXwjAc2C"
-      },
-      "artists": [
-        {
-          "name": "Harrison Borts",
-          "url": "https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv"
-        }
-      ],
-      "duration_ms": 109923,
-      "name": "SEPTEMBER 17",
-      "url": "https://open.spotify.com/track/1fNXOSx9FcXhrF6o6IkxkK"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Off The Drugs",
@@ -1507,6 +1507,26 @@
       "duration_ms": 177273,
       "name": "Off The Drugs",
       "url": "https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1611,22 +1631,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
+        "name": "Doja Cat",
+        "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
         }
       ],
-      "duration_ms": 112666,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+      "duration_ms": 160397,
+      "name": "Doja Cat",
+      "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1647,22 +1663,6 @@
       "duration_ms": 153337,
       "name": "Peach Fuzz (with Cybertrash)",
       "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Doja Cat",
-        "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        }
-      ],
-      "duration_ms": 160397,
-      "name": "Doja Cat",
-      "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
     },
     {
       "added_at": "2022-11-30 19:41:15",

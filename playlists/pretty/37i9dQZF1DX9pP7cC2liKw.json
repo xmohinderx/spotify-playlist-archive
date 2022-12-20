@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 79499,
+  "num_followers": 79730,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM4ODA1NCwwMDAwMDAwMDQwYjc0NGRmZjEwMDJmNTQ3NDFkZDc5ZmI2NTM4MjBj",
+  "snapshot_id": "MTY3MDM4ODA1NCwwMDAwMDAwMDNkY2YzNWQzOTNmMTkzMDk5OTY0YTMzZDhkNTQzOWE3",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
     },
     {
-      "added_at": "2022-07-01 02:43:42",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "TANDEM",
@@ -611,6 +595,22 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+    },
+    {
+      "added_at": "2022-07-01 02:43:42",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -671,6 +671,30 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 268956,
+      "name": "Xica Xica",
+      "url": "https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Laughter of the Sea",
         "url": "https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH"
       },
@@ -687,22 +711,6 @@
       "duration_ms": 359781,
       "name": "Laughter of the Sea",
       "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Sentir",
-        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        }
-      ],
-      "duration_ms": 228194,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -727,26 +735,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
+        "name": "Sentir",
+        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
         }
       ],
-      "duration_ms": 268956,
-      "name": "Xica Xica",
-      "url": "https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315"
+      "duration_ms": 228194,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
       "added_at": "2022-09-29 01:47:59",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Psychedelic Train",
+        "url": "https://open.spotify.com/album/06w7pCU6snW8ydhyUp8yk3"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/2hTRr2UxDJmHYXXgW89Mhx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 331158,
       "name": "El Abuelo",
       "url": "https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Psychedelic Train",
-        "url": "https://open.spotify.com/album/06w7pCU6snW8ydhyUp8yk3"
-      },
-      "artists": [
-        {
-          "name": "Derrick Harriott",
-          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "The Loser",
-      "url": "https://open.spotify.com/track/2hTRr2UxDJmHYXXgW89Mhx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
-      },
-      "artists": [
-        {
-          "name": "Mente Org\u00e1nica",
-          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
-        }
-      ],
-      "duration_ms": 310401,
-      "name": "Manos",
-      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
+      },
+      "artists": [
+        {
+          "name": "Mente Org\u00e1nica",
+          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
+        }
+      ],
+      "duration_ms": 310401,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "It All Depends (Aguacate Version)",
+        "url": "https://open.spotify.com/album/6HPPIRAjrwCKnzloCd3PUe"
+      },
+      "artists": [
+        {
+          "name": "Roderic",
+          "url": "https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs"
+        }
+      ],
+      "duration_ms": 416409,
+      "name": "It All Depends - Aguacate Version",
+      "url": "https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Claremont 56: 10 Years, Pt. 1",
         "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
       },
@@ -1051,38 +1067,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "It All Depends (Aguacate Version)",
-        "url": "https://open.spotify.com/album/6HPPIRAjrwCKnzloCd3PUe"
-      },
-      "artists": [
-        {
-          "name": "Roderic",
-          "url": "https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs"
-        }
-      ],
-      "duration_ms": 416409,
-      "name": "It All Depends - Aguacate Version",
-      "url": "https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Hustler's Lullaby",
         "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 314181,
       "name": "Shinjuku Strut",
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2022-06-15 04:26:09",

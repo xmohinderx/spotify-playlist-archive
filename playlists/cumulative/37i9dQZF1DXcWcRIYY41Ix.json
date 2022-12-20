@@ -1476,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "Decreto",
+        "url": "https://open.spotify.com/album/7tlbnFYU7AQR5nqBLy9SMm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205266,
+      "name": "Decreto",
+      "url": "https://open.spotify.com/track/3ISHt7hGxzM1pWnlXlIDjy"
+    },
+    {
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 166112,
       "name": "Hierbas",
       "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
@@ -3377,7 +3395,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
@@ -5327,7 +5345,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 191500,
       "name": "te quiero (Alicia)",
       "url": "https://open.spotify.com/track/4QPXlzBpwLwEqDnoMHZePB"

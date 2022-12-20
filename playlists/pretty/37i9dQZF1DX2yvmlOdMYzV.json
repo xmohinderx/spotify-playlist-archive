@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 825090,
+  "num_followers": 825475,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMGJlNWQ1OWFjZGNiODYxOTJiOGQ5MTdiOWY5YzBlYWNh",
+  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMGU0MGJmMDFjNDZmMDkyMWZhM2M2MjE5MjRjMWM2MThl",
   "tracks": [
     {
       "added_at": "2022-11-09 20:14:28",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "FEELS",
-        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 194303,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
       },
@@ -167,6 +151,38 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "dirty dancer",
+        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "dirty dancer",
+      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "dirty dancer",
-        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "dirty dancer",
-      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -483,26 +483,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "aiMless",
         "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 200214,
       "name": "Waiting For (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -659,38 +659,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Orlando",
-      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Letter Blue",
         "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
       },
@@ -711,6 +679,38 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
       },
@@ -723,6 +723,30 @@
       "duration_ms": 129048,
       "name": "You",
       "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Flight 99",
+        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Flight 99",
+      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -759,30 +783,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Flight 99",
-        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
-      },
-      "artists": [
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "matt mcwaters",
-          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Flight 99",
-      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Choose Your Weapon",
         "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
       },
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Verbs",
-        "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
-      },
-      "artists": [
-        {
-          "name": "Peyton",
-          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Verbs",
-      "url": "https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Verbs",
+        "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
+      },
+      "artists": [
+        {
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Verbs",
+      "url": "https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "'Justments",
         "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 229573,
       "name": "Can We Pretend",
       "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "As Days Go By",
+        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "duration_ms": 222654,
+      "name": "As Days Go By",
+      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -891,22 +907,6 @@
       "duration_ms": 237699,
       "name": "Fair Chance",
       "url": "https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "As Days Go By",
-        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
-      },
-      "artists": [
-        {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
-        }
-      ],
-      "duration_ms": 222654,
-      "name": "As Days Go By",
-      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 148280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "TheKAMAUU-CASSETTE: \u016dRTH G\u014dLD",
-        "url": "https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        }
-      ],
-      "duration_ms": 240856,
-      "name": "L\u0103V\u012dND\u016dR",
-      "url": "https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Poster Girl",
         "url": "https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 174330,
       "name": "Poster Girl",
       "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "TheKAMAUU-CASSETTE: \u016dRTH G\u014dLD",
+        "url": "https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 240856,
+      "name": "L\u0103V\u012dND\u016dR",
+      "url": "https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX"
     },
     {
       "added_at": "2022-11-09 20:14:28",

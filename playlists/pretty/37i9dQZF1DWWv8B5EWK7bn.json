@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 126876,
+  "num_followers": 127105,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGU1ZGZmMjUxMmQwYjcxZDEyYmQ5NzA5ZTM5MzQxNzUz",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDFjMzgzZWE3YTc5YmYwODlkNmY1ZjllZmFmYjFhMzIw",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -229,22 +229,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2022-07-19 04:00:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
-    },
-    {
       "added_at": "2022-09-29 00:42:15",
       "album": {
         "name": "Blood Be Fluid",
@@ -291,6 +275,22 @@
       "duration_ms": 317453,
       "name": "Zoo Eyes",
       "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
+    },
+    {
+      "added_at": "2022-07-19 04:00:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
+      "added_at": "2022-08-31 04:34:22",
+      "album": {
+        "name": "If I Were A Butterfly",
+        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 311948,
+      "name": "If I Were A Butterfly - Single Version",
+      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -451,22 +467,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2022-08-31 04:34:22",
-      "album": {
-        "name": "If I Were A Butterfly",
-        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 311948,
-      "name": "If I Were A Butterfly - Single Version",
-      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
       "added_at": "2022-08-13 00:53:45",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
       "added_at": "2022-09-22 17:52:51",
       "album": {
         "name": "The Order of the Rain",
@@ -527,22 +543,6 @@
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
-      "added_at": "2022-05-24 01:31:24",
-      "album": {
-        "name": "Sun's Signature",
-        "url": "https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF"
-      },
-      "artists": [
-        {
-          "name": "Sun's Signature",
-          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
-        }
-      ],
-      "duration_ms": 405773,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
-    },
-    {
       "added_at": "2022-07-15 05:42:57",
       "album": {
         "name": "Robot Riot",
@@ -683,6 +667,22 @@
       "duration_ms": 176952,
       "name": "Robot Riot",
       "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
+    },
+    {
+      "added_at": "2022-05-24 01:31:24",
+      "album": {
+        "name": "Sun's Signature",
+        "url": "https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF"
+      },
+      "artists": [
+        {
+          "name": "Sun's Signature",
+          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
+        }
+      ],
+      "duration_ms": 405773,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
     },
     {
       "added_at": "2022-02-08 17:25:13",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
-      "added_at": "2022-09-29 01:39:00",
-      "album": {
-        "name": "Two minutes",
-        "url": "https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8"
-      },
-      "artists": [
-        {
-          "name": "The Wisely Brothers",
-          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Two minutes",
-      "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
-    },
-    {
       "added_at": "2022-09-29 00:40:57",
       "album": {
         "name": "Shining Armor",
@@ -1135,6 +1119,22 @@
       "duration_ms": 159480,
       "name": "Shining Armor",
       "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
+    },
+    {
+      "added_at": "2022-09-29 01:39:00",
+      "album": {
+        "name": "Two minutes",
+        "url": "https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8"
+      },
+      "artists": [
+        {
+          "name": "The Wisely Brothers",
+          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Two minutes",
+      "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
     },
     {
-      "added_at": "2022-02-09 04:04:07",
-      "album": {
-        "name": "Tintagel",
-        "url": "https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 228809,
-      "name": "Tintagel",
-      "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Revolution Of Super Visions",
@@ -1199,22 +1183,6 @@
       "duration_ms": 301153,
       "name": "The Revolution Of Super Visions",
       "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
-    },
-    {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
-      },
-      "artists": [
-        {
-          "name": "Perera Elsewhere",
-          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
-        }
-      ],
-      "duration_ms": 237999,
-      "name": "Travel Lite",
-      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1239,6 +1207,38 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
+    },
+    {
+      "added_at": "2022-02-09 04:04:07",
+      "album": {
+        "name": "Tintagel",
+        "url": "https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 228809,
+      "name": "Tintagel",
+      "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
+      },
+      "artists": [
+        {
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
+        }
+      ],
+      "duration_ms": 237999,
+      "name": "Travel Lite",
+      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
+      "added_at": "2022-03-11 04:34:08",
+      "album": {
+        "name": "P.O.N",
+        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
       "added_at": "2021-12-01 01:36:10",
       "album": {
         "name": "SEIM",
@@ -1399,22 +1415,6 @@
       "duration_ms": 460945,
       "name": "Face The Music",
       "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
-    },
-    {
-      "added_at": "2022-03-11 04:34:08",
-      "album": {
-        "name": "P.O.N",
-        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
     },
     {
-      "added_at": "2022-09-03 03:42:34",
-      "album": {
-        "name": "Velvet Station",
-        "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
-      },
-      "artists": [
-        {
-          "name": "Base Stereo Club",
-          "url": "https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q"
-        }
-      ],
-      "duration_ms": 170750,
-      "name": "Sue Me",
-      "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Sunken Lupine",
@@ -1499,6 +1483,22 @@
       "duration_ms": 406162,
       "name": "Sunken Lupine",
       "url": "https://open.spotify.com/track/45Gj8HBuOtMjooXu3pLEOt"
+    },
+    {
+      "added_at": "2022-09-03 03:42:34",
+      "album": {
+        "name": "Velvet Station",
+        "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
+      },
+      "artists": [
+        {
+          "name": "Base Stereo Club",
+          "url": "https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q"
+        }
+      ],
+      "duration_ms": 170750,
+      "name": "Sue Me",
+      "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
     },
     {
       "added_at": "2022-08-25 19:38:46",

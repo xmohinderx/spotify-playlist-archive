@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-124 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+125 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-05-17 |  |
 | [Har Ek Baat](https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/5EnjKdpZKtAlJWmn3GPIeo) | 4:00 | 2022-12-07 |  |
 | [Har Ek Baat](https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF) | 4:00 | 2022-12-07 | 2022-12-09 |
-| [Homelands](https://open.spotify.com/track/5FqlDVyNf0FuHKAPS8a6K4) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 6:02 | 2022-05-17 |  |
+| [Homelands](https://open.spotify.com/track/5FqlDVyNf0FuHKAPS8a6K4) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 6:02 | 2022-05-17 | 2022-12-20 |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-05-17 |  |
 | [Humri Ateriya](https://open.spotify.com/track/4QLgVKSIe3OkXRNu5zJSJu) | [Smita Rao Bellur](https://open.spotify.com/artist/0Dje5wyfIRWD7Ks4k2gH0e) | [Yeh Kaali Kaali Ankhein \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ou3S5OJfPdEskgHpAQzsj) | 3:31 | 2022-05-17 |  |
 | [Indian Summer](https://open.spotify.com/track/54ruOsJVivnYVW6SWmbPX6) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:54 | 2022-05-17 |  |
@@ -95,6 +95,7 @@
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 |  |
 | [Raah Piya](https://open.spotify.com/track/0ixfdWFlkqjbgTRsCLm7cQ) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Pakshee](https://open.spotify.com/album/3si2hUnaDjTT9MslMfZEjB) | 7:04 | 2022-05-17 |  |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-05-17 |  |
+| [Raanjhanaa](https://open.spotify.com/track/2EM5e2WiPfjKS3BK0JrzIH) | [Rudra Majumder](https://open.spotify.com/artist/6JblbbuaCCT2CHWDlbtDXM), [Biyas Sarkar](https://open.spotify.com/artist/2WCEJe0EyzzXUmsqejOcGt) | [Raanjhanaa](https://open.spotify.com/album/3FJWP2lkzVIX5jbsabqOuX) | 2:50 | 2022-12-19 |  |
 | [Raga Hamsdhwani](https://open.spotify.com/track/7jtMQFKfAq1C9qPHJzMgfz) | [Utsav Lal](https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd) | [Piano Moods of Indian Ragas](https://open.spotify.com/album/6H4RCbPplqiFEDKrhKtcFL) | 13:01 | 2022-05-17 | 2022-07-29 |
 | [Raga Hamsdhwani](https://open.spotify.com/track/1H7V3AzrqHvO5wnP4AcUw1) | [Utsav Lal](https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd) | [Piano Moods of Indian Ragas](https://open.spotify.com/album/0w5TiC3gMe2m69oUsMskrC) | 13:01 | 2022-07-12 |  |
 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 |  |

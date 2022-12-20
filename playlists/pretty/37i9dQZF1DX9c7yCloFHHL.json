@@ -1,12 +1,12 @@
 {
   "description": "The most popular Ambient tracks in 2022. ",
-  "num_followers": 113339,
+  "num_followers": 113470,
   "original_name": "Best of Ambiente 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDg5YWJkZGI4NzJjYzEyOGQ4NzQ1M2QzZjNlOGM1OGRh",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDJjMGFhMDZhZmJjNDZlZDg5ZDg1MGM4NDVlNTk4ZGYw",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Music For Psychedelic Therapy (Excerpt)",
+        "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 427299,
+      "name": "Music For Psychedelic Therapy - Excerpt",
+      "url": "https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Music For Psychedelic Therapy (Excerpt)",
-        "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 427299,
-      "name": "Music For Psychedelic Therapy - Excerpt",
-      "url": "https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Klass (MISSUXO Film Edit)",
-        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Klass - MISSUXO Film Edit",
-      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Isola",
         "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
       },
@@ -283,34 +267,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "time to time",
-        "url": "https://open.spotify.com/album/1eCGj5XvDvL0robzpjph9p"
+        "name": "Klass (MISSUXO Film Edit)",
+        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
       },
       "artists": [
         {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 121653,
-      "name": "softly",
-      "url": "https://open.spotify.com/track/1zp5bDTjX4hFLaKm3JAAub"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "the storm before the calm",
-        "url": "https://open.spotify.com/album/5mXNbzv8w9yL7yT4fcls2r"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "light\u2014the lightworker\u2019s lament",
-      "url": "https://open.spotify.com/track/2eIfwGaVlemywEmFrGdgpd"
+      "duration_ms": 238000,
+      "name": "Klass - MISSUXO Film Edit",
+      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -351,6 +319,38 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "time to time",
+        "url": "https://open.spotify.com/album/1eCGj5XvDvL0robzpjph9p"
+      },
+      "artists": [
+        {
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+        }
+      ],
+      "duration_ms": 121653,
+      "name": "softly",
+      "url": "https://open.spotify.com/track/1zp5bDTjX4hFLaKm3JAAub"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "the storm before the calm",
+        "url": "https://open.spotify.com/album/5mXNbzv8w9yL7yT4fcls2r"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "light\u2014the lightworker\u2019s lament",
+      "url": "https://open.spotify.com/track/2eIfwGaVlemywEmFrGdgpd"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Monomom",
         "url": "https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW"
       },
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Owls",
+        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Powell",
+          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Hypernormality",
         "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 316693,
       "name": "St Henri",
       "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Owls",
-        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
-      },
-      "artists": [
-        {
-          "name": "Samuel Powell",
-          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -531,26 +531,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
-        "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
+        "name": "Spirit Exit",
+        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
       },
       "artists": [
         {
-          "name": "Pauli The PSM",
-          "url": "https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp"
-        },
-        {
-          "name": "OFFAIR",
-          "url": "https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp"
-        },
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
         }
       ],
-      "duration_ms": 222212,
-      "name": "CAPRICORN",
-      "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+      "duration_ms": 619200,
+      "name": "Knot of Spirit - Synth Version",
+      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -587,34 +579,26 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Spirit Exit",
-        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
+        "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
+        "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 619200,
-      "name": "Knot of Spirit - Synth Version",
-      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "atomic bombs atomic bonds i love you",
-        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
-      },
-      "artists": [
+          "name": "Pauli The PSM",
+          "url": "https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp"
+        },
         {
-          "name": "Askjell",
-          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+          "name": "OFFAIR",
+          "url": "https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
         }
       ],
-      "duration_ms": 327600,
-      "name": "atomic bombs atomic bonds i love you",
-      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+      "duration_ms": 222212,
+      "name": "CAPRICORN",
+      "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -631,6 +615,22 @@
       "duration_ms": 199058,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+      },
+      "artists": [
+        {
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X"
-      },
-      "artists": [
-        {
-          "name": "The Last Days of Our Past",
-          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Fermarsi",
         "url": "https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 1254000,
       "name": "Intorno allo schermo",
       "url": "https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Purples (Live)",
-        "url": "https://open.spotify.com/album/76DiyrxUsjI52JBcFq1TgY"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
-        }
-      ],
-      "duration_ms": 450000,
-      "name": "Purples - Live",
-      "url": "https://open.spotify.com/track/0bNg765s4JOqt3QpaLtbLu"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Insula",
         "url": "https://open.spotify.com/album/0ATWho0WmSadHHvkYp6DdE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 241465,
       "name": "34-46",
       "url": "https://open.spotify.com/track/12OE00ciFg4FWrZY1sw1L2"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Purples (Live)",
+        "url": "https://open.spotify.com/album/76DiyrxUsjI52JBcFq1TgY"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+        }
+      ],
+      "duration_ms": 450000,
+      "name": "Purples - Live",
+      "url": "https://open.spotify.com/track/0bNg765s4JOqt3QpaLtbLu"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Avichrom",
-        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
-      },
-      "artists": [
-        {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
-        }
-      ],
-      "duration_ms": 497053,
-      "name": "Rotmilan",
-      "url": "https://open.spotify.com/track/2FddItgHhjt1CnzLZHPrbq"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "I Remember You Like the Best Song",
         "url": "https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 1077812,
       "name": "I Remember You Like the Best Song",
       "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Avichrom",
+        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "duration_ms": 497053,
+      "name": "Rotmilan",
+      "url": "https://open.spotify.com/track/2FddItgHhjt1CnzLZHPrbq"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Mysteries",
-        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        }
-      ],
-      "duration_ms": 183851,
-      "name": "Mysteries",
-      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Collected Pieces: 2015-2020",
         "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 365458,
       "name": "For Scott Kelly, Returned To Earth",
       "url": "https://open.spotify.com/track/7lG9BjDCVt3IlBnt1iScv1"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Mysteries",
+        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
+      },
+      "artists": [
+        {
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        }
+      ],
+      "duration_ms": 183851,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Marching with Feathers",
-        "url": "https://open.spotify.com/album/62rf7CtyihPLQntLbiYvwU"
-      },
-      "artists": [
-        {
-          "name": "Rob Burger",
-          "url": "https://open.spotify.com/artist/7106JMHJxV5jS84aegmR8N"
-        }
-      ],
-      "duration_ms": 342399,
-      "name": "Night Feet",
-      "url": "https://open.spotify.com/track/0HMs40LmDeJyuVUsgtI300"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Persona (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4J7oRjeqqBkz1JQ1GZP8j7"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Marching with Feathers",
+        "url": "https://open.spotify.com/album/62rf7CtyihPLQntLbiYvwU"
+      },
+      "artists": [
+        {
+          "name": "Rob Burger",
+          "url": "https://open.spotify.com/artist/7106JMHJxV5jS84aegmR8N"
+        }
+      ],
+      "duration_ms": 342399,
+      "name": "Night Feet",
+      "url": "https://open.spotify.com/track/0HMs40LmDeJyuVUsgtI300"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Yield",
         "url": "https://open.spotify.com/album/4VGGAsrsGcHt5Kh7MKLPF4"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 206653,
       "name": "Yield",
       "url": "https://open.spotify.com/track/4tlQhk4lU7x9Jz0I1lEVtl"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Streichelfisch (Remastered 2022)",
-        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 351980,
-      "name": "Aparaquasynthe - Remastered 2022",
-      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 1088375,
       "name": "Mira",
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Streichelfisch (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 351980,
+      "name": "Aparaquasynthe - Remastered 2022",
+      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Brian And Charles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4uCcxyNHo5l9YQc0nmtLn3"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pemberton",
-          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Wales, Land of Wonder",
-      "url": "https://open.spotify.com/track/02FyLVYdZeToFCZj4TJ7HL"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Heart Cave (Extended Version)",
         "url": "https://open.spotify.com/album/3WKv3GqU0DUJ0neKe5Os7S"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 672000,
       "name": "Heart Cave - Extended Version",
       "url": "https://open.spotify.com/track/1HE4xVPnzWKc5r08wQjUeR"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Brian And Charles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4uCcxyNHo5l9YQc0nmtLn3"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Wales, Land of Wonder",
+      "url": "https://open.spotify.com/track/02FyLVYdZeToFCZj4TJ7HL"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "after.",
-        "url": "https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2"
-      },
-      "artists": [
-        {
-          "name": "Project AER",
-          "url": "https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "ever, after",
-      "url": "https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "In Tenebris",
         "url": "https://open.spotify.com/album/5og8EEI2vJIayYOtqLCKPg"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 194000,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "after.",
+        "url": "https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2"
+      },
+      "artists": [
+        {
+          "name": "Project AER",
+          "url": "https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "ever, after",
+      "url": "https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Sincretico Modale",
-        "url": "https://open.spotify.com/album/2z0qqpHJUTaWSXWn4ZqwVS"
-      },
-      "artists": [
-        {
-          "name": "Lino Capra Vaccina",
-          "url": "https://open.spotify.com/artist/2gLAzELc6CIseAelT3PzVm"
-        }
-      ],
-      "duration_ms": 415266,
-      "name": "Armonie Della Mente",
-      "url": "https://open.spotify.com/track/2KeaoZokOnnGstN8MP7YPC"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "LAYERS",
         "url": "https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 249306,
       "name": "Traquair (LAYERS ambient)",
       "url": "https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Sincretico Modale",
+        "url": "https://open.spotify.com/album/2z0qqpHJUTaWSXWn4ZqwVS"
+      },
+      "artists": [
+        {
+          "name": "Lino Capra Vaccina",
+          "url": "https://open.spotify.com/artist/2gLAzELc6CIseAelT3PzVm"
+        }
+      ],
+      "duration_ms": 415266,
+      "name": "Armonie Della Mente",
+      "url": "https://open.spotify.com/track/2KeaoZokOnnGstN8MP7YPC"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t"
-      },
-      "artists": [
-        {
-          "name": "Kilometre Club",
-          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
-        }
-      ],
-      "duration_ms": 295729,
-      "name": "The Marrow Thieves",
-      "url": "https://open.spotify.com/track/09LnT0qfWTuOMsSElTczCE"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/2YHvyVDyxTrPcaQyqclG7L"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 320009,
       "name": "Remember This Time",
       "url": "https://open.spotify.com/track/5GB1TCF6ZMbcYMmGoKQtf3"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "duration_ms": 295729,
+      "name": "The Marrow Thieves",
+      "url": "https://open.spotify.com/track/09LnT0qfWTuOMsSElTczCE"
     },
     {
       "added_at": "2022-11-30 13:45:00",

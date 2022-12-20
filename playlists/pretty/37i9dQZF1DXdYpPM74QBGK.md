@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 46 | [One Little Finger](https://open.spotify.com/track/6pWVgkIwrj0hVr2oBMmqZd) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Classroom Songs](https://open.spotify.com/album/4wUGqDapWvRgKwTcj1Cwn6) | 2:13 |
 | 47 | [Truck](https://open.spotify.com/track/2eSGNOrSxVbLrDjfg6AhZU) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Just a Minute!](https://open.spotify.com/album/7N27mNG8NjKnmFIcNE7e0C) | 1:03 |
 | 48 | [Hello World \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/3O4FgcbCzg3Wm7Pg0ezMzM) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Hello World \(from "Back to the Outback" soundtrack\)](https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91) | 2:36 |
-| 49 | [PAW Patrol Opening Theme](https://open.spotify.com/track/6J5tBYqpU2amNkTkIPHCHE) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1) | 0:40 |
+| 49 | [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 |
 | 50 | [Elephant \(triple j Like A Version\)](https://open.spotify.com/track/0RHWFlVVJZ82sAEgYCQB6y) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 3:22 |
 
-Snapshot ID: `MTY2OTgxNjUwMCwwMDAwMDAwMDYyYWY0MjVlMzUwZTg0YjJmNTI3YjQxYWMxOGY3YjZh`
+Snapshot ID: `MTY2OTgxNjUwMCwwMDAwMDAwMGUyNGRjZDBkYmNjNDI1NzljOGJkYTEzNTFiMWJhMmMx`

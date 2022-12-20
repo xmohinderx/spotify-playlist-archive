@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 111884,
+  "num_followers": 111958,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGM3OTIxZDY2Yjg5NzI5ODNhNWVlMDRhYTRjYWNlYzdh",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGI4Y2NmYzNmNjU2MTRmOWNiYWVmNTJmZDg0MjY0NDJl",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -607,30 +607,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Coming In Hot - Wuki Remix",
-        "url": "https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Coming In Hot - Wuki Remix",
-      "url": "https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 152769,
       "name": "SIMPLE (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Coming In Hot - Wuki Remix",
+        "url": "https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Coming In Hot - Wuki Remix",
+      "url": "https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -719,22 +719,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Never Land II",
-        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 193809,
-      "name": "Working On It",
-      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -751,22 +747,6 @@
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -803,6 +783,26 @@
       "duration_ms": 161323,
       "name": "Fight My Fight For Me",
       "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Never Land II",
+        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Working On It",
+      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -887,6 +887,26 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 175292,
+      "name": "Millionaire (Good Like That)",
+      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 160775,
       "name": "Amazing Grace - HGHTS Remix",
       "url": "https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 175292,
-      "name": "Millionaire (Good Like That)",
-      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Together In This (From The Jungle Beat Motion Picture)",
-        "url": "https://open.spotify.com/album/4wsn49kPVdAGxM1GnCVlEt"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Together In This - From The Jungle Beat Motion Picture",
-      "url": "https://open.spotify.com/track/0x9p2PjS0t9DbwqK4vgtWR"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 221368,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Together In This (From The Jungle Beat Motion Picture)",
+        "url": "https://open.spotify.com/album/4wsn49kPVdAGxM1GnCVlEt"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "Together In This - From The Jungle Beat Motion Picture",
+      "url": "https://open.spotify.com/track/0x9p2PjS0t9DbwqK4vgtWR"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 211182,
+      "name": "Won't He Do It (Remix)",
+      "url": "https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Entre Nubes",
         "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
       },
@@ -1287,26 +1303,6 @@
       "duration_ms": 205706,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/3wNAcHO8vZNoUyhaVopRb3"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Cole Walowac",
-          "url": "https://open.spotify.com/artist/3F0U7DCVTndyOFP6ncOX5C"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "Not Today - Remix",
-      "url": "https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u"
     }
   ],
   "unique_name": "Christian Dance Party",

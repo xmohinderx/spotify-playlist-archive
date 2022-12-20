@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 527260,
+  "num_followers": 527318,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMGI3MmRlY2QzMjE1Y2QyYzBhYzc5MjIyYjQ1ZjlmZmZj",
+  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDMzOTRhYjliNDBiNTZiMGI5MDQ1NmZiZjRmODEzZTUz",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 259253,
       "name": "NFWMB",
       "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 207470,
-      "name": "Light a Fire",
-      "url": "https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Sometimes Why",
         "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 357773,
       "name": "Too Repressed - Explicit",
       "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Moths, Flames, Etc.",
+        "url": "https://open.spotify.com/album/70X36a93N5RF7tXXJmESEJ"
+      },
+      "artists": [
+        {
+          "name": "The Careful Ones",
+          "url": "https://open.spotify.com/artist/1DdAoWvETBUklcJCOISZx1"
+        }
+      ],
+      "duration_ms": 216405,
+      "name": "Revelry",
+      "url": "https://open.spotify.com/track/0MqjKvmJPGJ6t0EQ83jcd2"
     }
   ],
   "unique_name": "Sexy As Folk",

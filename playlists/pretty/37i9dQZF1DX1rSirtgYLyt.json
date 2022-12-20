@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 15273,
+  "num_followers": 15361,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMDEzNGY4Y2M4NDhkYzA0NmZmNDA2N2RjZDNmNjM3MmQy",
+  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMDBjNTMyYzI0Y2MxZThjYWZmMzU2ZDNhNjViOTc1YzQ4",
   "tracks": [
     {
       "added_at": "2022-11-11 14:48:18",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "The 1971 Fillmore East Recordings",
         "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 269946,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Hot Tuna",
         "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 306866,
       "name": "Hesitation Blues - Live",
       "url": "https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Crawling King Snake",
+      "url": "https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "Burgers",
         "url": "https://open.spotify.com/album/0NWwuGPSfuj9H0OMUDikws"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 265000,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/32rkgJbRDxBoCocsT6iSrd"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Crawling King Snake",
-      "url": "https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
-        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Sweet Home Chicago - Mono Rough Mix",
-      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Cover My Blues",
         "url": "https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 283000,
       "name": "Honky Tonk Woman",
       "url": "https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
+        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Sweet Home Chicago - Mono Rough Mix",
+      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+        "name": "Hot Tuna",
+        "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Hot Tuna",
+          "url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7"
         }
       ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
+      "duration_ms": 297373,
+      "name": "Uncle Sam Blues - Live",
+      "url": "https://open.spotify.com/track/3YqtzrRTFoEUWdFXxmFHJP"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Hot Tuna",
-        "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
-      },
-      "artists": [
-        {
-          "name": "Hot Tuna",
-          "url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7"
-        }
-      ],
-      "duration_ms": 297373,
-      "name": "Uncle Sam Blues - Live",
-      "url": "https://open.spotify.com/track/3YqtzrRTFoEUWdFXxmFHJP"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
         "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 158600,
       "name": "Like Crying (with Noel Gallagher) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 229869,
+      "name": "Stop Messin\u2019 Round (Live)",
+      "url": "https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1019,22 +1035,6 @@
       "duration_ms": 175453,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 229869,
-      "name": "Stop Messin\u2019 Round (Live)",
-      "url": "https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
+        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        },
+        {
+          "name": "Rick Vito",
+          "url": "https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA"
+        }
+      ],
+      "duration_ms": 354026,
+      "name": "Love That Burns (with Rick Vito) - Live from The London Palladium",
+      "url": "https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "Keepin' Outta Trouble: A Tribute To Bukka White",
         "url": "https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 354760,
       "name": "Still Got the Blues",
       "url": "https://open.spotify.com/track/4foKEzs442JODnkwNRro1R"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
-        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
-      },
-      "artists": [
-        {
-          "name": "Mick Fleetwood and Friends",
-          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
-        },
-        {
-          "name": "Rick Vito",
-          "url": "https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA"
-        }
-      ],
-      "duration_ms": 354026,
-      "name": "Love That Burns (with Rick Vito) - Live from The London Palladium",
-      "url": "https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0"
     },
     {
       "added_at": "2022-11-11 14:48:18",

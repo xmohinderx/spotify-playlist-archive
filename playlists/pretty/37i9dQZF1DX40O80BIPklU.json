@@ -1,13 +1,49 @@
 {
-  "description": "De Tijuana a Tierra del Fuego, aqu\u00ed los que dominan el\u00a0juego. McKlopedia en portada. ",
-  "num_followers": 272319,
+  "description": "En memoria de Neto Reyno, DEP.",
+  "num_followers": 272464,
   "original_name": "Rap en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NjczMCwwMDAwMDAwMDM1YjBhMWY2NzRhZmM5NmQ3ZDljMjhjZTc1MDhlNDA2",
+  "snapshot_id": "MTY3MTQ5NDgwNSwwMDAwMDAwMDE1YWQ4YjgzZjgwODMxZmIyMTEwOThiZGJmMWFmYmQ5",
   "tracks": [
+    {
+      "added_at": "2022-12-20 00:06:45",
+      "album": {
+        "name": "Sin Rap No Hay Vida",
+        "url": "https://open.spotify.com/album/2q98m8YtkJMX0fw7BeoOHt"
+      },
+      "artists": [
+        {
+          "name": "Neto Reyno",
+          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        },
+        {
+          "name": "Son Doobie",
+          "url": "https://open.spotify.com/artist/0AQidAQ712Y0M7bDBVg8mz"
+        },
+        {
+          "name": "Mexakinz",
+          "url": "https://open.spotify.com/artist/4cAxfReUD8tNEmcn90MFwG"
+        },
+        {
+          "name": "Tocadiscos Trez",
+          "url": "https://open.spotify.com/artist/3DM2vfPkMCsjFPvHXZgdSv"
+        },
+        {
+          "name": "Nemesis HCP",
+          "url": "https://open.spotify.com/artist/1bGhJsDUmZ2dw3004CcXig"
+        }
+      ],
+      "duration_ms": 265617,
+      "name": "Sin Rap No Hay Vida",
+      "url": "https://open.spotify.com/track/3dKrmQJqytKDhScy0KlVut"
+    },
     {
       "added_at": "2022-12-16 02:12:10",
       "album": {
@@ -435,22 +471,6 @@
       "duration_ms": 220300,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
-    },
-    {
-      "added_at": "2022-12-07 16:34:04",
-      "album": {
-        "name": "PUAJ (sesi\u00f3n)",
-        "url": "https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 156665,
-      "name": "PUAJ (sesi\u00f3n)",
-      "url": "https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8"
     },
     {
       "added_at": "2022-12-07 16:34:04",

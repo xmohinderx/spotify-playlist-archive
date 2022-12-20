@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  ずっと真夜中でいいのに。
 
-606 songs - 1 day 13 hr 55 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+608 songs - 1 day 14 hr 6 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3636](https://open.spotify.com/track/207OCGfaLuJllRSgHtKLji) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [3636](https://open.spotify.com/album/0LSU1wIbJmGLZhzOnkk9sN) | 4:11 | 2022-07-31 | 2022-08-21 |
 | [3636](https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:11 | 2022-08-14 | 2022-10-17 |
 | [3月の帰り道](https://open.spotify.com/track/609ZaFJuwGmqSsCDFCYIwG) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [3月の帰り道](https://open.spotify.com/album/4X3LwKBdbwqznwtNPenS62) | 3:38 | 2022-02-20 | 2022-03-14 |
+| [A Ride On The Gentle Luminous Dragon](https://open.spotify.com/track/0VdZOJzfLxWruafPR5Dt5F) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [映画「Dr.コトー診療所」オリジナルサウンドトラック](https://open.spotify.com/album/4P4mHnIg0zLw8aIrJt2Vq1) | 6:14 | 2022-12-19 |  |
 | [ACTION \(with ZAZEN BOYS\)](https://open.spotify.com/track/7KRwCd1TCyUtrpGXZNDiwA) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [ACTION \(with ZAZEN BOYS\)](https://open.spotify.com/album/7FHSYBTV5QfpHUGAXzPhQw) | 3:35 | 2021-12-19 | 2022-01-03 |
 | [Actually...](https://open.spotify.com/track/4pfJEUjNi65LLQcEBHaWAz) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Actually..\. \(Special Edition\)](https://open.spotify.com/album/0gPax2EEHYH3dPUN4OJhsz) | 3:40 | 2022-03-21 | 2022-03-28 |
 | [Afraid??](https://open.spotify.com/track/3rfRK2PupQzcNUax4s0jQl) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Afraid??](https://open.spotify.com/album/0AwUv4QlEg7y7oZGSGtfW8) | 3:16 | 2022-11-27 |  |
@@ -142,7 +143,7 @@
 | [I’ll be by your side](https://open.spotify.com/track/1Fb3LtxFAY2eMmauqJQsKq) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [I’ll be by your side](https://open.spotify.com/album/54BxRk1Z9Pux41bLJb81yI) | 3:18 | 2022-03-13 | 2022-03-21 |
 | [Jealous](https://open.spotify.com/track/18epNr7w87GhCVoJTQxOKD) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [HOCUS POCUS 3](https://open.spotify.com/album/54DQf4eWVVxYhs47wuxR0y) | 3:30 | 2022-05-29 | 2022-06-13 |
 | [Join Us!](https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Join Us!](https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA) | 3:27 | 2022-12-18 |  |
-| [JUMP](https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [JUMP](https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje) | 3:47 | 2022-11-27 |  |
+| [JUMP](https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [JUMP](https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje) | 3:47 | 2022-11-27 | 2022-12-20 |
 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 | 2022-10-30 | 2022-11-14 |
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-25 | 2022-08-01 |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-30 | 2022-11-14 |
@@ -359,7 +360,7 @@
 | [たぶんMaybe明治 feat\. あ、たぎれんたろう](https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あ、たぎれんたろう](https://open.spotify.com/artist/5HT55SPkrxr8N49KCsDrFC) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:31 | 2022-04-24 | 2022-06-13 |
 | [たましいの居場所](https://open.spotify.com/track/5D16E22MJJyKesh9PrJf2L) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [たましいの居場所](https://open.spotify.com/album/7Gy6jvTXkSgx5oEbaWBt1l) | 3:21 | 2022-06-19 | 2022-08-15 |
 | [たまらない予感](https://open.spotify.com/track/6iEOAvmq4bH8zh9Kyi1Bb1) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [たまらない予感](https://open.spotify.com/album/6XBBnVjfDehSLZEMJypPRR) | 4:26 | 2022-04-24 | 2022-05-02 |
-| [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2022-11-27 |  |
+| [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2022-11-27 | 2022-12-20 |
 | [つまらない夜](https://open.spotify.com/track/0PMR3L7zQDVQDcRueCD7zl) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [JUMP ROPE FREAKS](https://open.spotify.com/album/3Pv9Rv10eEHpJfHvWYjZfs) | 3:25 | 2022-01-23 | 2022-02-07 |
 | [つまらない夜](https://open.spotify.com/track/4mAeZfLSMlBB8QLkbRSna7) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [つまらない夜](https://open.spotify.com/album/4rwHmmlqeg8K2JseloLizx) | 3:26 | 2022-01-09 | 2022-01-17 |
 | [どれにしようかな](https://open.spotify.com/track/18fNMIIjs0Hu2zozNacmad) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [どれにしようかな](https://open.spotify.com/album/3RDkKW3HQFiCqKABAFcFRP) | 2:40 | 2022-02-06 | 2022-03-04 |
@@ -527,6 +528,7 @@
 | [摩天楼](https://open.spotify.com/track/4xHKYFUmIRjpW98hbuvwWm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [摩天楼](https://open.spotify.com/album/4MS2FUKzECOcgt69p1y97q) | 3:34 | 2022-01-23 | 2022-04-04 |
 | [新呼吸](https://open.spotify.com/track/6AQfpBDkerfo3AWJUMr7ND) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [新呼吸](https://open.spotify.com/album/6ZWyL8ksiCKbmtUkyIgnfy) | 3:38 | 2021-12-19 | 2022-01-03 |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-12 | 2022-10-09 |
+| [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2022-12-19 |  |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-04-17 | 2022-06-20 |
 | [春は溶けて](https://open.spotify.com/track/391NzELM5jOnG6bte67GpB) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [春は溶けて](https://open.spotify.com/album/3x2qHZqzWLTvkzThbP0l9k) | 4:36 | 2022-03-21 | 2022-04-18 |
 | [時代遅れのRock'n'Roll Band](https://open.spotify.com/track/5x1mEZL7jAmnDvPoALyBdO) | [Keisuke Kuwata feat\. Motoharu Sano, Masanori Sera, Char, Goro Noguchi](https://open.spotify.com/artist/1Zwp8omq5fAcxwTfjZKLoJ), [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [時代遅れのRock'n'Roll Band](https://open.spotify.com/album/34880OhTzI2pjzQW05ooka) | 4:15 | 2022-05-29 | 2022-07-04 |

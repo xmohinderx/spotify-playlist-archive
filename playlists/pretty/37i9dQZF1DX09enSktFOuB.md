@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain]
 
 > Check out these funky Tanglish Love Tracks!<br/>Cover : Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,937 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,027 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

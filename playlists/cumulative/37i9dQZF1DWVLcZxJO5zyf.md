@@ -4,7 +4,7 @@
 
 > Ouça os hits do momento do pop BR! Foto: Giulia Be
 
-153 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
+154 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2022-01-14 |  |
 | [Number One](https://open.spotify.com/track/7ysjfyBKvnO2iX1vWqhn4X) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Number One](https://open.spotify.com/album/3fVQZx5dGqz2QmOeScqhMM) | 3:02 | 2022-01-14 | 2022-02-05 |
 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 | 2022-01-26 | 2022-11-12 |
+| [Não Se Vá](https://open.spotify.com/track/0XoFdDHxXJ0SqgomwiLAet) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Não Se Vá](https://open.spotify.com/album/5ZDXO9LppxZbYNaqD1L1Rf) | 2:38 | 2022-12-19 |  |
 | [Não Te Amo](https://open.spotify.com/track/4NIOFeptzAsbkOUnyBE6FY) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:00 | 2022-01-14 | 2022-02-05 |
 | [OH MOÇA!](https://open.spotify.com/track/23OJkU2mXHEY1iUIuzMinl) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy), [Fraga](https://open.spotify.com/artist/6WPfa3cpGOhlD4tXc6a9ke) | [OH MOÇA!](https://open.spotify.com/album/2wqwUCvxzj4StPquAdKpcN) | 3:55 | 2022-02-18 | 2022-03-18 |
 | [OLHADINHA](https://open.spotify.com/track/0pOZWyXIqROnYI24H5AVsk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [OLHADINHA](https://open.spotify.com/album/5pu94Dk34XMqa8sTKft31Z) | 2:17 | 2022-10-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 193130,
+  "num_followers": 193136,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDIyZTVkZjM0YTI2MDE4M2I5ZDQyNTdmNzg1YzY5MTY2",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDFiODE0ZTg1NmY0NTEzMWQ1ODgxYjM0MWFlZmZlOTc4",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -347,30 +347,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "God Only Knows (Timbaland Remix)",
-        "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 215020,
-      "name": "God Only Knows (Timbaland Remix)",
-      "url": "https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 165895,
       "name": "Devil Is A Liar",
       "url": "https://open.spotify.com/track/0Q4fUM7mSeqVKD5qnqS2gO"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "God Only Knows (Timbaland Remix)",
+        "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 215020,
+      "name": "God Only Knows (Timbaland Remix)",
+      "url": "https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Bigger Story",
-        "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 195506,
-      "name": "Every Step of the Way",
-      "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
+        "name": "Bigger Story",
+        "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+      "duration_ms": 195506,
+      "name": "Every Step of the Way",
+      "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 182000,
       "name": "No Better Day",
       "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Perspectives",
-        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "Yes & No",
-      "url": "https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Better View, Part I - EP",
         "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 213373,
       "name": "perfection",
       "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Yes & No",
+      "url": "https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Jordan Feliz Collection",
         "url": "https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 226886,
       "name": "Faith - Radio Version",
       "url": "https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Energ\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 266181,
-      "name": "Energ\u00eda - Remix",
-      "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Godsend",
         "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
       },
@@ -1059,18 +1035,26 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
+        "name": "Energ\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 181224,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB"
+      "duration_ms": 266181,
+      "name": "Energ\u00eda - Remix",
+      "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "All Of My Best Friends (Acoustic)",
-        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
         }
       ],
-      "duration_ms": 293160,
-      "name": "Lord Send Revival - Acoustic",
-      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+      "duration_ms": 181224,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1119,6 +1103,22 @@
       "duration_ms": 203874,
       "name": "Save Me - Bonus Track",
       "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
     },
     {
       "added_at": "2021-10-31 01:51:05",

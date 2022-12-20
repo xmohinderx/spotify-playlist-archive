@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,080 likes - 1,150 songs - 3 day 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,137 likes - 1,150 songs - 3 day 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

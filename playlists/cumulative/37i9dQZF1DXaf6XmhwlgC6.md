@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-125 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+129 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,11 @@
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [Dreaming While Awake](https://open.spotify.com/track/1KVq03Ocupx3tRE18yZa5Q) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Dreaming While Awake](https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5) | 2:50 | 2022-11-11 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |
+| [Echosphere](https://open.spotify.com/track/44Wfvp7nBgp3Epgx79wZ0F) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Echosphere](https://open.spotify.com/album/62iPtloH7ukCRgKhsPDpYX) | 2:41 | 2022-12-19 |  |
+| [Effortless](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Tony Iver](https://open.spotify.com/artist/33Y6lgwXmYok6gkTjnaYZ5) | [Effortless](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:29 | 2022-12-19 |  |
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
+| [ethereal nightshade](https://open.spotify.com/track/1zuGJlN7qtUUkqDwbvtaRi) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [ethereal nightshade](https://open.spotify.com/album/0cUidGib6mOXgnT0YrLLGg) | 2:24 | 2022-12-19 |  |
 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |
@@ -64,6 +67,7 @@
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6r4AmkZbvhorcU7gxpev3z) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3OrrYv7sHlX3Azpvak9w6w) | 5:42 | 2022-03-30 | 2022-10-19 |
 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 | 2022-05-19 |  |
 | [Mending a Secret](https://open.spotify.com/track/5b5isnIY653i8qEmopWVej) | [Steve Jansen](https://open.spotify.com/artist/5o1OTSNeI8tu3s54avv6Ba) | [Tender Extinction](https://open.spotify.com/album/5rtQaDi9nnrfAwQCxDgoZj) | 5:03 | 2022-03-30 |  |
+| [Milky Way](https://open.spotify.com/track/6NcweAlijfIK0HL0um4vGb) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Time Defined](https://open.spotify.com/album/32QUK26XzeT5WoaMGU5ZkF) | 2:50 | 2022-12-19 |  |
 | [Mind games](https://open.spotify.com/track/6OXrNh8asCu28gqFyTSw3Z) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Mind games](https://open.spotify.com/album/3LRCWo4BAlXhTnbc2FFpbk) | 2:10 | 2022-11-18 |  |
 | [mixtapes](https://open.spotify.com/track/6e9hqBIQzF9q0M1tqp8mqj) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [mixtapes](https://open.spotify.com/album/2rMzwSfdnPKcThZRB77Lp1) | 2:09 | 2022-08-23 |  |
 | [Modeling Structures](https://open.spotify.com/track/5j69T9lwivG9Uf452qRu6l) | [Akustique](https://open.spotify.com/artist/2AOnQvebnP4UuohgsdRJ6A) | [Modeling Structures](https://open.spotify.com/album/3Rf2n1WL2wEFfa6N58nygc) | 2:21 | 2022-08-23 |  |

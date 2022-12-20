@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 242857,
+  "num_followers": 243035,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDE3ZTVkNTE4NDA1MDM0MjA3ODQwODE1Y2M0ZWUzNTkx",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDkzMWFiNjVkYjMyNTBkZWRlNGQ0OTczMjQ3ZDEwYzk4",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -551,6 +551,34 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Ac\u00fastico Canc\u00fan",
+        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Irineu Bars\u00e9",
+          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Uma Linda Mulher - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Arcano 19",
         "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
@@ -607,34 +635,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Canc\u00fan",
-        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Irineu Bars\u00e9",
-          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Uma Linda Mulher - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "CULPADO",
         "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Tocaia",
-        "url": "https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq"
-      },
-      "artists": [
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Tocaia",
-      "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -695,6 +675,26 @@
       "duration_ms": 191933,
       "name": "Sussurros",
       "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Tocaia",
+        "url": "https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Tocaia",
+      "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -927,6 +927,30 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Toda Mal\u00e9vola",
+        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Toda Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
       },
@@ -1051,30 +1075,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Toda Mal\u00e9vola",
-        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 196691,
-      "name": "Toda Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Melhor Que Ontem",
         "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
       },
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Aleluia, Am\u00e9m",
-        "url": "https://open.spotify.com/album/1o5wtmAJUGvBkQd7zFkhpv"
-      },
-      "artists": [
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 206705,
-      "name": "Aleluia, Am\u00e9m",
-      "url": "https://open.spotify.com/track/5K3wfWRRB9s5JAUc3JfT6k"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Aleluia, Am\u00e9m",
+        "url": "https://open.spotify.com/album/1o5wtmAJUGvBkQd7zFkhpv"
+      },
+      "artists": [
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 206705,
+      "name": "Aleluia, Am\u00e9m",
+      "url": "https://open.spotify.com/track/5K3wfWRRB9s5JAUc3JfT6k"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Malandra Treinada",
-        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Malandra Treinada",
-      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/4OXmBQKfqClzQD5fG9gxkD"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 184629,
       "name": "Ainda \u00c9 Ver\u00e3o",
       "url": "https://open.spotify.com/track/1JaH1KgP4oYWBdc2I6dYud"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Malandra Treinada",
+        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Malandra Treinada",
+      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        }
+      ],
+      "duration_ms": 139480,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Sem Ca\u00f4",
         "url": "https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 234826,
       "name": "Sem Ca\u00f4",
       "url": "https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        }
-      ],
-      "duration_ms": 139480,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "AL\u00c9M DE LOVE",
-        "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
-      },
-      "artists": [
-        {
-          "name": "Agostta",
-          "url": "https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "PRIMEIRA VISTA",
-      "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Beija e Arranha",
         "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 172874,
       "name": "Beija e Arranha",
       "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "AL\u00c9M DE LOVE",
+        "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
+      },
+      "artists": [
+        {
+          "name": "Agostta",
+          "url": "https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "PRIMEIRA VISTA",
+      "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "SEU SOL",
-        "url": "https://open.spotify.com/album/1n3Ax7otBTeuGxd1ztbrhT"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        }
-      ],
-      "duration_ms": 119189,
-      "name": "SEU SOL",
-      "url": "https://open.spotify.com/track/1p5qK8NjUybbXdbXfpc0dJ"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "SEU SOL",
+        "url": "https://open.spotify.com/album/1n3Ax7otBTeuGxd1ztbrhT"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        }
+      ],
+      "duration_ms": 119189,
+      "name": "SEU SOL",
+      "url": "https://open.spotify.com/track/1p5qK8NjUybbXdbXfpc0dJ"
     }
   ],
   "unique_name": "brisa",

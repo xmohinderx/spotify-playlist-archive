@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,688 likes - 172 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,907 likes - 172 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 171 | [Downstreams](https://open.spotify.com/track/0PfQd8JoZTLC7QmuSALrnH) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Downstreams](https://open.spotify.com/album/3BGgZ0ogCdoaejPURuwfbP) | 2:18 |
 | 172 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 |
 
-Snapshot ID: `MTY3MDk0NDQyNywwMDAwMDAwMDIwOThmNjE5MGJiMGFkMzNhYWZkNmMxYWQxNzY3MzEz`
+Snapshot ID: `MTY3MTQ2NDY1MCwwMDAwMDAwMGFmZDkxN2NhYTZjNmNhZmViZTg5NDdmZDI5ZjJlYzQx`

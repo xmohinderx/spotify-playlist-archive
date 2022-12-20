@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-814 songs - 1 day 18 hr 24 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+815 songs - 1 day 18 hr 26 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Common Ground](https://open.spotify.com/track/0q4NNUAPEMYsVY4cLxG2uX) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Common Ground](https://open.spotify.com/album/0PbHXjuQ7RBvG21YyuCmj0) | 3:43 | 2021-03-21 | 2021-08-27 |
 | [companions <3](https://open.spotify.com/track/2NvmyE3zwZuJCMyAH4pnyd) | [Matt DiMona](https://open.spotify.com/artist/1PMiXPKjsgXEDDcfIRNVaq) | [JUNO](https://open.spotify.com/album/2KQ0FFROSh8DQmjGiYEOqI) | 3:39 | 2019-07-30\* | 2021-05-17 |
 | [Coney Island](https://open.spotify.com/track/4El2xSjNbgMxG4voKhcixB) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Coney Island](https://open.spotify.com/album/7Li6LmCBrMQP4Q3Qm6Tmct) | 2:49 | 2021-04-12 | 2022-07-28 |
+| [Conversation](https://open.spotify.com/track/1pqGwiN4oGvu5tg421QRXb) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Conversation](https://open.spotify.com/album/4Huthg4syNIjySQreWLkls) | 2:22 | 2022-12-19 |  |
 | [Cooks](https://open.spotify.com/track/2T64m94VBrsEISkAYq6Cnq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/36aWHA59o4IuxVg8WTV3v8) | 2:54 | 2019-07-30\* | 2022-07-29 |
 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 | 2021-02-27 |  |
 | [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 | 2019-09-25 | 2022-07-29 |
@@ -669,7 +670,7 @@
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-03-04 | 2022-07-27 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-01 | 2022-12-15 |
 | [sugar ray](https://open.spotify.com/track/2A1WPASEga9mFnpNRc7ADd) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [sugar ray](https://open.spotify.com/album/6Ou1n0STYMpzbbrxNC454M) | 4:03 | 2021-06-04 | 2022-04-26 |
-| [SUMMER GIRL](https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd) | [Ian Hugel](https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC) | [SUMMER GIRL](https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC) | 2:48 | 2020-07-08 |  |
+| [SUMMER GIRL](https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd) | [Ian Hugel](https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC) | [SUMMER GIRL](https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC) | 2:48 | 2020-07-08 | 2022-12-20 |
 | [summers ours](https://open.spotify.com/track/5FK2LR2lepWzp5qGDyi2AL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd), [Wes Calliope](https://open.spotify.com/artist/11RMlyK9xv96pa0PEWALMJ) | [summers ours](https://open.spotify.com/album/3eH8TUNHdAOEm4MxxCqGLX) | 1:42 | 2021-08-13 | 2022-04-19 |
 | [Summertime](https://open.spotify.com/track/6wnYU4r3lrzn9Yloq816Oj) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Summertime](https://open.spotify.com/album/3KpLyj4nJzfZVthITEOMQ4) | 3:10 | 2021-06-25 | 2022-04-19 |
 | [Summertime Silence](https://open.spotify.com/track/5aysvKjGKnX9sse9mIm7LY) | [FruitPunchLoverBoy](https://open.spotify.com/artist/7pAPdjGwblD7qvfnVNCtZ8) | [Summertime Silence](https://open.spotify.com/album/185kiPDfetExVqWRVHjTos) | 2:58 | 2020-04-18 | 2021-05-28 |

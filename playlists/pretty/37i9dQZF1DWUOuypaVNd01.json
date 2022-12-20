@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 23882,
+  "num_followers": 23919,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGMxZDg2NTBkNzgzZjVhNmNkOTYwMzhlOTUxZjMzM2Jh",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGMwMGNiM2Y0YzhlMGE0NjJmY2JlNGY3OTY0NWViZmEw",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -403,6 +403,54 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 155942,
+      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Os Pitbull do Ano, Pt. 2",
+        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+        },
+        {
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
+        }
+      ],
+      "duration_ms": 207976,
+      "name": "Os Pitbull do Ano, Pt. 2",
+      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -423,26 +471,6 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 155942,
-      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -499,50 +527,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "A Bruta, a Braba, a Forte",
-        "url": "https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "A Bruta, a Braba, a Forte",
-      "url": "https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Os Pitbull do Ano, Pt. 2",
-        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
-        }
-      ],
-      "duration_ms": 207976,
-      "name": "Os Pitbull do Ano, Pt. 2",
-      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Mandrake",
         "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 112764,
       "name": "Mandrake",
       "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "A Bruta, a Braba, a Forte",
+        "url": "https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "A Bruta, a Braba, a Forte",
+      "url": "https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -655,22 +655,18 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "JOVEM OG",
-        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
+        "name": "Rumo ao Estrelato",
+        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
       },
       "artists": [
         {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
         }
       ],
-      "duration_ms": 188330,
-      "name": "CRIME",
-      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+      "duration_ms": 169859,
+      "name": "Rumo ao Estrelato",
+      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -695,6 +691,26 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "JOVEM OG",
+        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Prop\u00f3sitos",
         "url": "https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 216338,
       "name": "Prop\u00f3sitos",
       "url": "https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Rumo ao Estrelato",
-        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        }
-      ],
-      "duration_ms": 169859,
-      "name": "Rumo ao Estrelato",
-      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -755,6 +755,34 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Armamento do Ir\u00e3",
+        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "D r o p e",
+          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Olympio",
+          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
+        }
+      ],
+      "duration_ms": 259754,
+      "name": "Armamento do Ir\u00e3",
+      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Esculpido a Machado",
         "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
       },
@@ -771,30 +799,6 @@
       "duration_ms": 157241,
       "name": "Encomenda",
       "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "BRIME!",
-        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 150064,
-      "name": "CHELSEA",
-      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -867,34 +871,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Armamento do Ir\u00e3",
-        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "D r o p e",
-          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Olympio",
-          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
-        }
-      ],
-      "duration_ms": 259754,
-      "name": "Armamento do Ir\u00e3",
-      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Edgar Davids",
         "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
       },
@@ -963,8 +939,8 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
+        "name": "BRIME!",
+        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
       },
       "artists": [
         {
@@ -980,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+      "duration_ms": 150064,
+      "name": "CHELSEA",
+      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1147,6 +1123,30 @@
       "duration_ms": 109741,
       "name": "Mvp",
       "url": "https://open.spotify.com/track/4H9cPnHTghjVPmjuBucCMN"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2022-12-02 03:01:00",

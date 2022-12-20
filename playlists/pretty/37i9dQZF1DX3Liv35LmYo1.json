@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 99897,
+  "num_followers": 99934,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDFiYzA1NDNkNjFjNjdjNDBjMzc0NTRlNjQ2YThmNzcw",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGM4MDRmMWVlZGI2NWEyMTlmY2U4NDAxNDJmZGYyMWU1",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -131,18 +131,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Orsay",
-        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
+        "name": "Can We Still Be Friends?",
+        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         }
       ],
-      "duration_ms": 246363,
-      "name": "Orsay",
-      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
+      "duration_ms": 243498,
+      "name": "Can We Still Be Friends?",
+      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -159,6 +163,22 @@
       "duration_ms": 228609,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Orsay",
+        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 246363,
+      "name": "Orsay",
+      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -183,26 +203,6 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Can We Still Be Friends?",
-        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "Can We Still Be Friends?",
-      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -263,22 +263,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Condition",
-        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 224393,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -331,6 +327,26 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Condition",
+        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Please Keep Shimmering",
         "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
       },
@@ -343,6 +359,38 @@
       "duration_ms": 263842,
       "name": "Keep Shimmering",
       "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
+      },
+      "artists": [
+        {
+          "name": "Nice Girl",
+          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
+        }
+      ],
+      "duration_ms": 270271,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "the come up",
+        "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
+      },
+      "artists": [
+        {
+          "name": "poolsideconvo",
+          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "lights up",
+      "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -371,70 +419,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
-      },
-      "artists": [
-        {
-          "name": "Nice Girl",
-          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
-        }
-      ],
-      "duration_ms": 270271,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "the come up",
-        "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
-      },
-      "artists": [
-        {
-          "name": "poolsideconvo",
-          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "lights up",
-      "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF"
-      },
-      "artists": [
-        {
-          "name": "Juno Mamba",
-          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
-        }
-      ],
-      "duration_ms": 291657,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF"
+      },
+      "artists": [
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        }
+      ],
+      "duration_ms": 291657,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
-      "added_at": "2022-12-19 00:17:16",
+      "added_at": "2022-12-20 01:17:12",
       "album": {
         "name": "FREE002",
         "url": "https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB"
@@ -639,54 +639,6 @@
       "duration_ms": 356367,
       "name": "Jump Code",
       "url": "https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Whatever Happens, Happens",
-        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 227304,
-      "name": "Whatever Happens, Happens",
-      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -707,18 +659,34 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+        "name": "Whatever Happens, Happens",
+        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
       "artists": [
         {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+      "duration_ms": 227304,
+      "name": "Whatever Happens, Happens",
+      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -739,18 +707,34 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Quiet Corners Of My Mind",
-        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
       },
       "artists": [
         {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
         }
       ],
-      "duration_ms": 268237,
-      "name": "Quiet Corners Of My Mind",
-      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Quiet Corners Of My Mind",
+        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 268237,
+      "name": "Quiet Corners Of My Mind",
+      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Speed King",
-        "url": "https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 592972,
-      "name": "Speed King",
-      "url": "https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Closure (feat. Helena)",
         "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 270536,
       "name": "Closure (feat. Helena)",
       "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Speed King",
+        "url": "https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 592972,
+      "name": "Speed King",
+      "url": "https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Moonbaton Vol. 1",
+        "url": "https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 142852,
+      "name": "Flauta Magica",
+      "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Palaces : The Remixes, Pt. 2",
         "url": "https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 275121,
       "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
       "url": "https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Moonbaton Vol. 1",
-        "url": "https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        }
-      ],
-      "duration_ms": 142852,
-      "name": "Flauta Magica",
-      "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "All Together, Here Together",
         "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 298285,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2022-12-01 13:00:00",

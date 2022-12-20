@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di TY1, Lazza, Nabi, Quentin40, Mezzosangue e molti altri.
 
-1,112 songs - 2 day 3 hr 1 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+1,114 songs - 2 day 3 hr 6 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [1TOT](https://open.spotify.com/track/38Zp4uNQBw8goSWgr8NAkF) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [1TOT](https://open.spotify.com/album/2GwLEs08qGyLSIbDUs3wtp) | 2:17 | 2022-11-04 | 2022-11-11 |
 | [20 Anni \(Andale\)](https://open.spotify.com/track/5F9qPcOEMVaeFJYpTGckAS) | [Gorka](https://open.spotify.com/artist/0PeyvqHvFlYQjI3GfNQqLR), [Fra Bacci](https://open.spotify.com/artist/0MKjQHGhnW0QrlWMJthrKx) | [20 Anni \(Andale\)](https://open.spotify.com/album/0Y8euCijZZYD0gHCefXtK6) | 2:43 | 2022-05-10 | 2022-05-13 |
 | [2003](https://open.spotify.com/track/1eIsHZTtQrGAucyyMLN2ba) | [Cristian Margelia](https://open.spotify.com/artist/5VPQZTf2iiPKyDJNKwuKg5), [neezyboy](https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv) | [2003](https://open.spotify.com/album/4dpnXPrdhmcdnJp9PwrgSI) | 2:11 | 2022-10-20 | 2022-11-18 |
+| [21 Freestyle](https://open.spotify.com/track/2WnKNBq12Hf8BzTdrjwEkP) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [21 Freestyle](https://open.spotify.com/album/58apMhROHuGnRpGbjtJ00u) | 2:41 | 2022-12-19 |  |
 | [24H](https://open.spotify.com/track/287m6wHKyJcXXW8OaENS7K) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b), [Lambda](https://open.spotify.com/artist/0Y0Z665GTJFDiiL3TsI9gV) | [24H](https://open.spotify.com/album/7Iy2rKFB7nA0kvC26IiPLn) | 2:34 | 2022-11-10 | 2022-12-02 |
 | [2k \(Restare al passo\)](https://open.spotify.com/track/4iBUYMJsLqudO34mzUwPTP) | [Vapo](https://open.spotify.com/artist/0bdiCwAcYoiXLuGzzkPOu9) | [2k \(Restare al passo\)](https://open.spotify.com/album/38izG0F3scJYkVWFZp4l14) | 1:50 | 2022-11-18 | 2022-12-09 |
 | [2€ / SECONDO](https://open.spotify.com/track/4cPKM95iyfo7ow3lqWNFE7) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [2€ / SECONDO](https://open.spotify.com/album/02W1dw3wnWn5XmWxDNJcld) | 2:43 | 2022-11-18 | 2022-12-02 |
@@ -779,7 +780,8 @@
 | [Piccolo principe](https://open.spotify.com/track/0OziUV1T8aoQk6rr95pPA8) | [Panama Era](https://open.spotify.com/artist/5q1c9NCZ4P1WUFg52a9Dnj) | [Piccolo principe](https://open.spotify.com/album/4XXpE9UmGHavDVKMLZeeYl) | 3:21 | 2022-07-29 | 2022-08-05 |
 | [Pioggia](https://open.spotify.com/track/4Gatggg43ESx92VTeiFNjZ) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos), [Duffy](https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL) | [Pioggia](https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz) | 2:38 | 2022-05-24 | 2022-06-17 |
 | [PIOMBO](https://open.spotify.com/track/4XoGrS9kKmQURNWC788YdG) | [Mukunda](https://open.spotify.com/artist/2OY777pvru8jnG8lvdjhMf), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [PIOMBO](https://open.spotify.com/album/1WrpHB1JHzgKNn67bpr8p1) | 2:44 | 2022-08-25 | 2022-09-16 |
-| [PIOVE \(Concertos\)](https://open.spotify.com/track/4rqFWEYlbjNs7QNHSPbdcr) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO \(Concertos\)](https://open.spotify.com/album/5q8ZljcjeDcEhCZ7pe0WaA) | 2:51 | 2022-12-15 |  |
+| [PIOVE \(Concertos\)](https://open.spotify.com/track/1qvdspvSwXch9dKKV4lT3A) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k) | 2:51 | 2022-12-19 |  |
+| [PIOVE \(Concertos\)](https://open.spotify.com/track/4rqFWEYlbjNs7QNHSPbdcr) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO \(Concertos\)](https://open.spotify.com/album/5q8ZljcjeDcEhCZ7pe0WaA) | 2:51 | 2022-12-15 | 2022-12-20 |
 | [Piovre \(feat\. Yazee\)](https://open.spotify.com/track/6ISBppZrSP37GWnIplKz4t) | [Sanchee](https://open.spotify.com/artist/3zcrLOprEtgvuaTmLi7vOa), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [Piovre \(feat\. Yazee\)](https://open.spotify.com/album/4gARjIOXYEoO2YlAPbae9f) | 2:31 | 2022-11-18 | 2022-12-02 |
 | [Pistole a via Libetta](https://open.spotify.com/track/1DTaT7xjkJMPPzTwbutwQ9) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Niko Pandetta](https://open.spotify.com/artist/5H5RWXYleho8amdspskcUb) | [Pistole a via Libetta](https://open.spotify.com/album/6YNfmNuXWwL42abFCQk3nU) | 3:11 | 2022-09-22 | 2022-10-14 |
 | [Pistole Nella Prada](https://open.spotify.com/track/5LBg87idFfjTclkmFGnyR6) | [Niko Pandetta](https://open.spotify.com/artist/5H5RWXYleho8amdspskcUb), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq), [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74) | [Pistole Nella Prada](https://open.spotify.com/album/1E53fSjTEpz9lc9r0Wkkdp) | 3:10 | 2022-07-07 | 2022-08-13 |

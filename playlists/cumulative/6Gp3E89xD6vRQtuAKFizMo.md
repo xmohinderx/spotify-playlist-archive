@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-119 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+120 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Dramatic \(prod\. PLAYDED\)](https://open.spotify.com/track/2KIJSmiVOO0Obh6h1rx8ti) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [PLAYDED](https://open.spotify.com/artist/2bVDBU5YmauWpiN1LJ8ZkL) | [Dramatic](https://open.spotify.com/album/0QuSvdYztrOUUPE5E6WKpP) | 2:34 | 2022-10-21 |  |
 | [DROP](https://open.spotify.com/track/7xN35VVLctNoKT3A4khKqE) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [DROP](https://open.spotify.com/album/18V8UhRyjkIdJJ6giY7J9F) | 2:49 | 2022-05-06 | 2022-10-01 |
 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 | 2022-05-06 | 2022-08-27 |
-| [En Secreto](https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [En Secreto](https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1) | 2:09 | 2022-12-09 |  |
+| [En Secreto](https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [En Secreto](https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1) | 2:09 | 2022-12-09 | 2022-12-20 |
 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 | 2022-05-06 | 2022-08-18 |
 | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/track/4sDBG6YWfUcWd6Cev8fWUJ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Alix Robson](https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT) | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/album/15ShC3FREY48amM8OYEP0E) | 3:43 | 2022-05-06 |  |
 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 | 2022-05-24 |  |
@@ -113,6 +113,7 @@
 | [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 |  |
 | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/album/5ijTP9RBfREShGfAQ90rrP) | 2:27 | 2022-11-04 |  |
 | [Toxic Rain \(prod\. David Mugratsch\) \- VIP Mix](https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\) \[VIP Mix\]](https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR) | 1:56 | 2022-11-28 |  |
+| [Treat U Wrong](https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Treat U Wrong](https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm) | 2:02 | 2022-12-19 |  |
 | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk) | 2:46 | 2022-09-30 |  |
 | [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 | 2022-11-08 |  |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 | 2022-11-19 |

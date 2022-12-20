@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 104693,
+  "num_followers": 104710,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDYxMDk4NSwwMDAwMDAwMDFkNzlmNTNhZWFhMTg1ZmM2ZjhlNjZlNzE3YzkwZjcz",
+  "snapshot_id": "MTY2MDYxMDk4NSwwMDAwMDAwMDJlZjM0ZGJjMWY2MDZhYjkwYjBiNzg5YjM3OTNhN2Rh",
   "tracks": [
     {
       "added_at": "2018-12-05 03:36:52",
@@ -111,22 +111,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl"
-      },
-      "artists": [
-        {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "El Ultimo Beso",
-      "url": "https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "15 Exitos De Enrique Guzman Vol. ll",
         "url": "https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 142800,
       "name": "Hazme una Se\u00f1al - Gimme Little Sign",
       "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "El Ultimo Beso",
+      "url": "https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -319,22 +319,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
-        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "Ay Preciosa",
-      "url": "https://open.spotify.com/track/3pAHm4UEtWd61N2W34x9Zz"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
       },
@@ -347,54 +331,6 @@
       "duration_ms": 149536,
       "name": "Johnny El Enoj\u00f3n",
       "url": "https://open.spotify.com/track/5tiDiBxMJZSk420LyddJdX"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Fiesta Rocker",
-        "url": "https://open.spotify.com/album/4rHgW22Eiyj2oLpYEkleyt"
-      },
-      "artists": [
-        {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
-        }
-      ],
-      "duration_ms": 141920,
-      "name": "Anoche me enamor\u00e9",
-      "url": "https://open.spotify.com/track/2rHEyeBDE2w9jOMpTV1ICj"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Primeros \u00e9xitos que me hicieron triunfar",
-        "url": "https://open.spotify.com/album/2L9qg6IxMeZyuJi2zGtAiB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 145803,
-      "name": "Anoche no dorm\u00ed (Remastered)",
-      "url": "https://open.spotify.com/track/14XlSJufgSTCOsL47EQUAC"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Glamour (Remastered 2015)",
-        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Cu\u00e1ndo, cu\u00e1ndo, cu\u00e1ndo (Swing) - Remastered 2015",
-      "url": "https://open.spotify.com/track/4SPrqvpEt9s9610XNN1UDW"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -415,8 +351,40 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
+        "name": "Primeros \u00e9xitos que me hicieron triunfar",
+        "url": "https://open.spotify.com/album/2L9qg6IxMeZyuJi2zGtAiB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 145803,
+      "name": "Anoche no dorm\u00ed (Remastered)",
+      "url": "https://open.spotify.com/track/14XlSJufgSTCOsL47EQUAC"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Fiesta Rocker",
+        "url": "https://open.spotify.com/album/4rHgW22Eiyj2oLpYEkleyt"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 141920,
+      "name": "Anoche me enamor\u00e9",
+      "url": "https://open.spotify.com/track/2rHEyeBDE2w9jOMpTV1ICj"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
+        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
       "artists": [
         {
@@ -424,9 +392,25 @@
           "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 132458,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8"
+      "duration_ms": 174521,
+      "name": "Ay Preciosa",
+      "url": "https://open.spotify.com/track/3pAHm4UEtWd61N2W34x9Zz"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Glamour (Remastered 2015)",
+        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
+      },
+      "artists": [
+        {
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Cu\u00e1ndo, cu\u00e1ndo, cu\u00e1ndo (Swing) - Remastered 2015",
+      "url": "https://open.spotify.com/track/4SPrqvpEt9s9610XNN1UDW"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -443,6 +427,22 @@
       "duration_ms": 144133,
       "name": "Yo,T\u00fa y las Rosas",
       "url": "https://open.spotify.com/track/26bc0h5bngOkWEv5944ZEA"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Enrique Guzm\u00e1n (Celos de Ti)",
+        "url": "https://open.spotify.com/album/5BZ9SZPvCiXRjx9YGBjLXQ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Cari\u00f1o y Desprecio (Half Heaven-Half Heartache)",
+      "url": "https://open.spotify.com/track/7kfM5OnPGQ9O4fag48WFDC"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -483,22 +483,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Glamour (Remastered 2015)",
-        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 122280,
-      "name": "Estaba escrito (Mambo moruno) - Remastered 2015",
-      "url": "https://open.spotify.com/track/6aAgMvYI20KMsge17suey0"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Enrique Guzm\u00e1n (Celos de Ti)",
-        "url": "https://open.spotify.com/album/5BZ9SZPvCiXRjx9YGBjLXQ"
+        "name": "Glamour (Remastered 2015)",
+        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Cari\u00f1o y Desprecio (Half Heaven-Half Heartache)",
-      "url": "https://open.spotify.com/track/7kfM5OnPGQ9O4fag48WFDC"
+      "duration_ms": 122280,
+      "name": "Estaba escrito (Mambo moruno) - Remastered 2015",
+      "url": "https://open.spotify.com/track/6aAgMvYI20KMsge17suey0"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -563,50 +547,34 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
       },
       "artists": [
         {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 145533,
-      "name": "La Novia de Mi Mejor Amigo",
-      "url": "https://open.spotify.com/track/17Hvwi97oKipA2h6evwzdM"
+      "duration_ms": 132458,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8"
     },
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/4GjepOhyR5PpIyRTIb24LH"
+        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
+        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
       },
       "artists": [
         {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
         }
       ],
-      "duration_ms": 139533,
-      "name": "Tombola",
-      "url": "https://open.spotify.com/track/0IIFQcQwXEnJtJp7BKyPVg"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 136385,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/7L6laDgYm7x2JbKdXtHVNw"
+      "duration_ms": 141973,
+      "name": "Mu\u00f1equita (Roly Poly)",
+      "url": "https://open.spotify.com/track/1jB2iqxlQZcLe2Cd9QOhgQ"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -631,34 +599,34 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/4GjepOhyR5PpIyRTIb24LH"
       },
       "artists": [
         {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
         }
       ],
-      "duration_ms": 135706,
-      "name": "Amorcito",
-      "url": "https://open.spotify.com/track/5nY0Hb0b7fDhgRjJi4Y3Kt"
+      "duration_ms": 139533,
+      "name": "Tombola",
+      "url": "https://open.spotify.com/track/0IIFQcQwXEnJtJp7BKyPVg"
     },
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
-        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
         }
       ],
-      "duration_ms": 141973,
-      "name": "Mu\u00f1equita (Roly Poly)",
-      "url": "https://open.spotify.com/track/1jB2iqxlQZcLe2Cd9QOhgQ"
+      "duration_ms": 145533,
+      "name": "La Novia de Mi Mejor Amigo",
+      "url": "https://open.spotify.com/track/17Hvwi97oKipA2h6evwzdM"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -675,6 +643,38 @@
       "duration_ms": 170585,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/7pMV3XQJOwzWQGidxu2GN4"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 136385,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/7L6laDgYm7x2JbKdXtHVNw"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "Amorcito",
+      "url": "https://open.spotify.com/track/5nY0Hb0b7fDhgRjJi4Y3Kt"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -707,22 +707,6 @@
       "duration_ms": 157226,
       "name": "La Favorita del Profesor (Teacher's Pet)",
       "url": "https://open.spotify.com/track/24nhRNpFhLfWU8z7gYQHCK"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 162011,
-      "name": "El Primer Beso",
-      "url": "https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD"
     },
     {
       "added_at": "2022-03-30 15:46:23",
@@ -759,6 +743,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 162011,
+      "name": "El Primer Beso",
+      "url": "https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Disco Conmemorativo 40 Aniversario El Disco de Oro de Rock",
-        "url": "https://open.spotify.com/album/2cK8ZVic0S4a039K7SSLMl"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
-        }
-      ],
-      "duration_ms": 118960,
-      "name": "Ruedas (Wheels)",
-      "url": "https://open.spotify.com/track/1vu89S6yJ3ipXJp1I4fxWO"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Las Numero 1 De Angelica Maria",
         "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 181533,
       "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
       "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Disco Conmemorativo 40 Aniversario El Disco de Oro de Rock",
+        "url": "https://open.spotify.com/album/2cK8ZVic0S4a039K7SSLMl"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
+        }
+      ],
+      "duration_ms": 118960,
+      "name": "Ruedas (Wheels)",
+      "url": "https://open.spotify.com/track/1vu89S6yJ3ipXJp1I4fxWO"
     }
   ],
   "unique_name": "Romance Rocanrol",

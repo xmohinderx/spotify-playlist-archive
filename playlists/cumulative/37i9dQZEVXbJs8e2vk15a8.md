@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-646 songs - 1 day 12 hr 7 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+647 songs - 1 day 12 hr 11 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:22 | 2022-11-06 | 2022-11-10 |
 | [Huella Letal](https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Huella Letal](https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA) | 2:17 | 2022-04-26 | 2022-06-01 |
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-23 | 2022-09-15 |
-| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-23 |  |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-23 | 2022-12-20 |
 | [I am happy](https://open.spotify.com/track/6I8HPcA3003gZgVSH4uGlT) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [I am happy](https://open.spotify.com/album/4OpP3ds9cnx886rVjnmAuw) | 2:15 | 2022-04-15 | 2022-04-28 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-26 | 2022-12-05 |
 | [I Swear](https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 1:38 | 2022-07-14 | 2022-08-04 |
@@ -481,6 +481,7 @@
 | [Quiere Que Llame](https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU) | [Feloman](https://open.spotify.com/artist/28VWxxfmtShKO6W1qYvnw8), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Quiere Que Llame](https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU) | 3:09 | 2022-11-27 |  |
 | [Quiero Pelarme](https://open.spotify.com/track/5THQOgMI2EIIWiCiRu6Ltj) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Quiero Pelarme](https://open.spotify.com/album/0LyDaK9KIevDLBfXAvVdlU) | 2:26 | 2022-09-22 | 2022-10-02 |
 | [Rakata](https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:31 | 2022-11-13 | 2022-11-28 |
+| [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2022-12-19 |  |
 | [Rapa Nui Mi Amor](https://open.spotify.com/track/6EUOJhj0E2uBkrNw062vzF) | [Hai Luau](https://open.spotify.com/artist/0d584WJKygEacLTwFGYXjf) | [Música Chilena](https://open.spotify.com/album/4amd4eCAJb5Zqdc0S4t0j1) | 4:16 | 2022-09-18 | 2022-09-20 |
 | [RATIO](https://open.spotify.com/track/1spITpds0bb12suzLpqk31) | [JuanSGuarnizo](https://open.spotify.com/artist/193FNrNDNDnzFrNxUw6Dr3), [Rodezel](https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x) | [RATIO](https://open.spotify.com/album/6hPIS2sIYeeiUMQOy70Ev1) | 2:39 | 2022-05-09 | 2022-05-11 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-15 | 2022-06-09 |

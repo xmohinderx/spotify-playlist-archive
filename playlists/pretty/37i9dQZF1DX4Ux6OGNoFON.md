@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,318 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,454 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 38 | [Sol](https://open.spotify.com/track/5puRHAfjknvAqfgHCpIdo1) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Sol](https://open.spotify.com/album/51EJaWaQVRJXo9ZeQW0G69) | 3:11 |
 | 39 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:41 |
 | 40 | [Estos Días](https://open.spotify.com/track/1sU1f9ivTcNvxSDyygim3G) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Estos Días](https://open.spotify.com/album/56HAfUfBAVGaPSwfaH0QJX) | 3:31 |
-| 41 | [El Tambor](https://open.spotify.com/track/244xfUeyheD5Ibupwjwmd3) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso](https://open.spotify.com/album/3WnFaJJHV6tPbaeDiAZ6dP) | 4:40 |
+| 41 | [El Tambor](https://open.spotify.com/track/2DzEvKYEkhNOymxnvIeXDf) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso Eterno](https://open.spotify.com/album/745taLBsTAJAtYAHGQfaTP) | 4:40 |
 | 42 | [Ready](https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ready](https://open.spotify.com/album/6eSOrBQDFoAT27MUPHW5d4) | 2:30 |
 | 43 | [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 |
 | 44 | [Tranquiliboy](https://open.spotify.com/track/3IyiIBDEQmWP9Y17ueWWMB) | [La Merfi](https://open.spotify.com/artist/5TXJa9XiARe5SWqn8m5J9R) | [Tranquiliboy](https://open.spotify.com/album/6rHuYjxs5Oyu8Dqs0Jtbr7) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 59 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 | 60 | [Llena Mi Vida](https://open.spotify.com/track/1rSDWwJkMrxCChahQDnkfu) | [Bamboo](https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ), [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Llena Mi Vida](https://open.spotify.com/album/7xlXTMCcCDO7aapw0CRd7G) | 4:25 |
 
-Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDA1NDVmNGUwZTFmZDI5ZTY2YWEwOTRhNzU5NzdiNzE5`
+Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDYzZTU2YjIyY2NmM2FjYmQ2ZTExMWM2ZGJhMTc0MjE3`
