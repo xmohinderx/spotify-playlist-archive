@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-104 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+108 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [forgotten thoughts](https://open.spotify.com/track/4SL8NjHJQblUTL8seDLn5Z) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:36 | 2022-11-11 |  |
 | [forgotten thoughts, but it's slowed & reverb](https://open.spotify.com/track/1TbF2VK8UEv0Y92YZHYw0O) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:52 | 2022-11-11 |  |
 | [Forms](https://open.spotify.com/track/1bOHmmrh740p2MfJTs7kyw) | [Cardamom](https://open.spotify.com/artist/6GE1lOueuEqo5mZhGNrEOl) | [Forms](https://open.spotify.com/album/4zJyzTHbVAZOYfX8kXlGPO) | 3:00 | 2022-05-19 |  |
+| [Forthright](https://open.spotify.com/track/0hPbrW1AnRabxn1JNtk1ys) | [Banton Tune](https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN) | [Forthright](https://open.spotify.com/album/312Ry4bijlP4l28jrs9NoL) | 2:48 | 2022-12-20 |  |
 | [Frozen Sunlight \- Music Only](https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 |  |
 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 | 2022-07-08 |  |
 | [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-11 |  |
@@ -57,6 +58,7 @@
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-05-19 |  |
 | [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 | 2022-05-19 |  |
 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 | 2022-05-19 |  |
+| [Hypnos](https://open.spotify.com/track/4ZQAfZLXmoAgzFWoM4anUS) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Dream Vibes](https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD) | 3:48 | 2022-12-20 |  |
 | [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 | 2022-09-30 |  |
 | [in motion](https://open.spotify.com/track/1SJAJFXAh3qMeVcMfRXrWa) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 3:57 | 2022-05-19 |  |
 | [Inner Illumination](https://open.spotify.com/track/5QEIM4Ut4qiu2cRlqzT1xR) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inner Illumination](https://open.spotify.com/album/6t2Gp4obISbu6ji2svw4Wb) | 3:42 | 2022-09-23 |  |
@@ -69,6 +71,7 @@
 | [March](https://open.spotify.com/track/1bB3YmkkpZaVIVfzBcrKzB) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 13:00 | 2022-05-19 |  |
 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 | 2022-05-19 |  |
 | [Milky Sea](https://open.spotify.com/track/324oRBwsXBuTVrlPHh5SqP) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 3:40 | 2022-05-19 |  |
+| [Mixed Waves](https://open.spotify.com/track/5FuFjrRUGV0ZEXTEtk3luB) | [Soundscapes in Blue](https://open.spotify.com/artist/7Cvz7DJgZTwBAk8q6Jjy5e), [The Little Oak Project](https://open.spotify.com/artist/7cHzdlHgaXI9IDP73gkd1r) | [Miles and Miles Away](https://open.spotify.com/album/57tX0svPI2w5kmEGEHPcHC) | 3:05 | 2022-12-20 |  |
 | [moon balloon](https://open.spotify.com/track/7Dzcto6bubJGOQ6IloqxtI) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [moon balloon](https://open.spotify.com/album/2yPY5BOOer5vs4J2FxWYbB) | 4:13 | 2022-09-23 |  |
 | [Moon of the Crusted Snow](https://open.spotify.com/track/2z0xcVWiSp0GBZ7YMHUu89) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 6:33 | 2022-05-19 |  |
 | [Morning Repose](https://open.spotify.com/track/0X32YnznPuE9Ass1qQMM0m) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:46 | 2022-07-08 |  |
@@ -77,6 +80,7 @@
 | [Nebula](https://open.spotify.com/track/0U4ueXuj5RV1szpREx3ow0) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Nebula](https://open.spotify.com/album/1zXUiNnIWZdgVQ0EacLlQe) | 3:17 | 2022-08-05 |  |
 | [Night Atmospheres](https://open.spotify.com/track/4A8XgsY1Jc0DhlkQdCFvPm) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:42 | 2022-05-19 |  |
 | [Nightime](https://open.spotify.com/track/6jrUeg6RAa2Nd9bXTFfi1W) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 10:58 | 2022-05-19 |  |
+| [Objecting](https://open.spotify.com/track/2VZWcp3QYWVMxj3Bn8r6dX) | [Alexander Mark](https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T) | [Objecting](https://open.spotify.com/album/4f07SHjOfxLqGwaq3YyCBM) | 2:48 | 2022-12-20 |  |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2022-05-19 |  |
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2022-05-19 |  |
 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 | 2022-07-08 |  |

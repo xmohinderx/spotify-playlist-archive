@@ -1558,6 +1558,24 @@
     },
     {
       "album": {
+        "name": "Hildurs Poem",
+        "url": "https://open.spotify.com/album/2q5R4j3aYzOVfftfGepWrd"
+      },
+      "artists": [
+        {
+          "name": "Vabali",
+          "url": "https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Hildurs Poem",
+      "url": "https://open.spotify.com/track/31NWMeV1GPqcvI7UUyMEZ1"
+    },
+    {
+      "album": {
         "name": "Hourglass",
         "url": "https://open.spotify.com/album/12LBbLeQwB7FHwGSqiWr03"
       },

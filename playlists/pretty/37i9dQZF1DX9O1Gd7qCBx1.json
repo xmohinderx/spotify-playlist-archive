@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 185078,
+  "num_followers": 185081,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMGJiODQyMzlmMDExYzUzMTk4YmU5MmZlNmQyMjM4Njkw",
+  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMGU3MzMwMTVkMzAyZmMyODI5NGNkMDJkM2RmMTFkMGMy",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Tiempo transcurrido",
-        "url": "https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "La muerte chiquita",
-      "url": "https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
         "url": "https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173549,
       "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula - Co\u00e1gula Esp\u00e1tulo",
       "url": "https://open.spotify.com/track/5VgsXmsfGIBOqq0imAv4y1"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Tiempo transcurrido",
+        "url": "https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "La muerte chiquita",
+      "url": "https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "El Diablito Loco",
-        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
-      },
-      "artists": [
-        {
-          "name": "Leda Moreno",
-          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "El Diablito Loco",
-      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "El Ritmo De Chico Che Y La Crisis",
         "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 172643,
       "name": "Uy que miedo",
       "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Romance del Enamorado y la Muerte",
+        "url": "https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Romance del Enamorado y la Muerte",
+      "url": "https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -791,18 +791,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Romance del Enamorado y la Muerte",
-        "url": "https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js"
+        "name": "El Diablito Loco",
+        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Leda Moreno",
+          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Romance del Enamorado y la Muerte",
-      "url": "https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY"
+      "duration_ms": 147906,
+      "name": "El Diablito Loco",
+      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "God Save The Queers EP",
-        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
-      },
-      "artists": [
-        {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "Kumbia Zombie",
-      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Illustrated Songs",
         "url": "https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s"
       },
@@ -1123,30 +1107,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "A los 4 Vientos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/6qSYt56lDGLyHMdWZUmHg7"
+        "name": "God Save The Queers EP",
+        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
       },
       "artists": [
         {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        },
-        {
-          "name": "Pepe Elizondo",
-          "url": "https://open.spotify.com/artist/1sxnhcOMyZeeiwmXg9m08a"
-        },
-        {
-          "name": "Gera Razo",
-          "url": "https://open.spotify.com/artist/3MoQvXRyY8NRuakcgCdwJY"
-        },
-        {
-          "name": "Checo Razo",
-          "url": "https://open.spotify.com/artist/2jsd09FzKJn9kPj4EMw95g"
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
         }
       ],
-      "duration_ms": 225384,
-      "name": "Mi Funeral",
-      "url": "https://open.spotify.com/track/5JrNQsQ36HN25a6seNV9ye"
+      "duration_ms": 288253,
+      "name": "Kumbia Zombie",
+      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1183,18 +1155,30 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+        "name": "A los 4 Vientos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/6qSYt56lDGLyHMdWZUmHg7"
       },
       "artists": [
         {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        },
+        {
+          "name": "Pepe Elizondo",
+          "url": "https://open.spotify.com/artist/1sxnhcOMyZeeiwmXg9m08a"
+        },
+        {
+          "name": "Gera Razo",
+          "url": "https://open.spotify.com/artist/3MoQvXRyY8NRuakcgCdwJY"
+        },
+        {
+          "name": "Checo Razo",
+          "url": "https://open.spotify.com/artist/2jsd09FzKJn9kPj4EMw95g"
         }
       ],
-      "duration_ms": 232037,
-      "name": "Pan de Muertos",
-      "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
+      "duration_ms": 225384,
+      "name": "Mi Funeral",
+      "url": "https://open.spotify.com/track/5JrNQsQ36HN25a6seNV9ye"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1211,6 +1195,22 @@
       "duration_ms": 235773,
       "name": "El Enterrador",
       "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 232037,
+      "name": "Pan de Muertos",
+      "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS"
-      },
-      "artists": [
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 213509,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
         "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 131039,
       "name": "Vengan Abuelitos",
       "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS"
+      },
+      "artists": [
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 213509,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo"
     },
     {
       "added_at": "2021-11-01 17:39:36",

@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-98 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+100 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Stormy Sea](https://open.spotify.com/track/5sRBN3gSOlHizpDLn7hLJo) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Stormy Sea](https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p) | 2:44 | 2022-10-14 |  |
 | [Sturdy Star](https://open.spotify.com/track/5baWJQIakBdVLrBUBKWyER) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Sturdy Star](https://open.spotify.com/album/1F8EXbWYAq1NHR9Y9aGZYQ) | 2:32 | 2022-11-18 |  |
 | [Sunset Guitar Blues](https://open.spotify.com/track/1VA18gUNRVnyrS53bAb6zg) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Sunset Guitar Blues](https://open.spotify.com/album/1vEnl3zi7CM0SLyVfaHxbC) | 2:07 | 2022-04-15 |  |
+| [Sweet Emma](https://open.spotify.com/track/1eBoPVndwtjwybJKDHNref) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 3:55 | 2022-12-20 |  |
 | [Take Five \(Solo Guitar\)](https://open.spotify.com/track/1MRivhXSuW5lICmMxVuIES) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Five](https://open.spotify.com/album/00M7DsogdksAlx0Q745kV9) | 2:21 | 2022-04-15 |  |
 | [The Blink Of An Eye](https://open.spotify.com/track/2vJLBn78JRXewtqcUVvtm3) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/6XIK9crFq9HgXowGwTK91I) | 6:02 | 2022-04-15 | 2022-07-29 |
 | [The Blink Of An Eye](https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v) | 6:02 | 2022-07-08 |  |
@@ -106,5 +107,6 @@
 | [Twin Cities Blues](https://open.spotify.com/track/5QTNOAonSo9nw9mYNjb07R) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Stormy Sea](https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p) | 2:02 | 2022-10-14 |  |
 | [Unique Ambience for Staying Home](https://open.spotify.com/track/0oHsRS3yY9FZ5eJHbwgvKw) | [Instrumental Blues Retro](https://open.spotify.com/artist/6ynE2UtjVmR7Ljqr8hBbq0) | [Slow Blues Guitar \- Ambiance for Working](https://open.spotify.com/album/6sUMKVFDCkCiX3oR34ii2j) | 2:40 | 2022-04-15 |  |
 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 | 2022-04-15 |  |
+| [You Don't Know Me](https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 5:41 | 2022-12-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

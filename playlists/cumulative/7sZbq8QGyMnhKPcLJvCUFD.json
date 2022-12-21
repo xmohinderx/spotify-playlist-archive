@@ -1030,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/4qoActIgfsN38oC0qCL1x5"
+      },
+      "artists": [
+        {
+          "name": "Lennart Schroot",
+          "url": "https://open.spotify.com/artist/2X0ndI9nIkbMvJE9YlLQr4"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134651,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/6n6g8x3L94VKeaTwXdERjG"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU"
       },

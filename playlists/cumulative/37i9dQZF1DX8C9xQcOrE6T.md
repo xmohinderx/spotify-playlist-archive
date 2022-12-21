@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All of your favorite Disney hits, including songs from Disenchanted\. Stream Disenchanted on Disney+.
+> All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
 154 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
 
@@ -91,7 +91,7 @@
 | [Mother Knows Best \(Reprise\) \- From "Tangled"/Soundtrack Version](https://open.spotify.com/track/1nrXPF5szKZhHr0iANiPcS) | [Donna Murphy](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 1:38 | 2022-04-01 |  |
 | [Mother Knows Best \- From "Tangled"/Soundtrack Version](https://open.spotify.com/track/1lOSxJNCLvWm2bYaTcTSmK) | [Donna Murphy](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:10 | 2022-04-01 |  |
 | [Nobody Like U](https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 2:40 | 2022-04-01 |  |
-| [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-16 |  |
+| [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-16 | 2022-12-21 |
 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/2C10p0VZJHYj07oBALeUE3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 3:20 | 2022-04-01 | 2022-12-17 |
 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Once Upon a Dream \(from "Maleficent"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi) | 3:23 | 2022-12-16 |  |
 | [One Jump Ahead](https://open.spotify.com/track/4wN8Ov3kPZdkJ8XcYxYUGz) | [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u) | 2:22 | 2022-12-16 |  |

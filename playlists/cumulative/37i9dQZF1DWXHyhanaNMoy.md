@@ -4,7 +4,7 @@
 
 > Ladies love Idaly! De playlist voor motion en good vibes
 
-325 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+326 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 | 2022-07-21 | 2022-10-07 |
 | [In De Stad](https://open.spotify.com/track/30lf4XnHp3frvhhdkaTLPP) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [In De Stad](https://open.spotify.com/album/0moBAfClHoAxNCHFzoNYNQ) | 2:36 | 2022-10-06 | 2022-11-11 |
 | [In M'n Mind](https://open.spotify.com/track/0U4aE9KIaHW1DgzlxWfIkR) | [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [In M'n Mind](https://open.spotify.com/album/39MT1sBbQoTZQR7QZlN1f5) | 2:27 | 2022-07-14 | 2022-08-26 |
-| [In Mijn Hoofd](https://open.spotify.com/track/2mYRIubhyxtSDtQevdyKiT) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Noncha](https://open.spotify.com/album/0pHgtWrTTVXWOkJT2qCVao) | 2:24 | 2022-12-15 |  |
+| [In Mijn Hoofd](https://open.spotify.com/track/2mYRIubhyxtSDtQevdyKiT) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Noncha De EP](https://open.spotify.com/album/0pHgtWrTTVXWOkJT2qCVao) | 2:24 | 2022-12-15 |  |
 | [Instagram / Maandag](https://open.spotify.com/track/1SRYtQoeBxREwiEWRDwF6w) | [Remy](https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn), [Mas](https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT), [Dylan Colombia](https://open.spotify.com/artist/0MsSo9JtxZVSanSc66xLs5) | [Instagram / Maandag](https://open.spotify.com/album/1cj0WtCdWb3xMo9KecPvOA) | 2:37 | 2022-11-25 | 2022-12-16 |
 | [Interessant \(feat\. Bizzey\)](https://open.spotify.com/track/1NFgyfNYN7ZlVeS0TUbCna) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Jeriel Thunder](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Interessant \(feat\. Bizzey\)](https://open.spotify.com/album/1AgAZ2A82hq0ZpTe0Yt37H) | 2:22 | 2022-07-14 | 2022-09-09 |
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-09-15 | 2022-11-18 |
@@ -172,6 +172,7 @@
 | [LOS VAN](https://open.spotify.com/track/2XJevn22zKX4GVXkVK7mrX) | [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti), [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7) | [LOS VAN](https://open.spotify.com/album/4c5n50pYkLcLW7RvwoMB2v) | 3:01 | 2022-07-14 | 2022-08-05 |
 | [Love Me](https://open.spotify.com/track/1k9sNbjyxxB0uzB4Z3eXDl) | [Alex Euro](https://open.spotify.com/artist/1btts0oj1pH2inP7TKYiLL), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Love Me](https://open.spotify.com/album/2iUCn646cvtZ0EHW1CFzFT) | 2:21 | 2022-07-14 | 2022-10-21 |
 | [Love Me](https://open.spotify.com/track/26hyxyMtZ99UdcF0BCFCgf) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [Love Me](https://open.spotify.com/album/5ZhEV8tgdNoJhEWVMU8PWJ) | 2:28 | 2022-07-28 | 2022-10-21 |
+| [Low](https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ) | [Kidda](https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj) | [Low](https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id) | 3:14 | 2022-12-20 |  |
 | [MALO](https://open.spotify.com/track/6rrvp92Tq5z4BgZp7fCyA2) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [MALO](https://open.spotify.com/album/1mGgtzDE8CO86ApVNvKUVN) | 2:39 | 2022-08-18 | 2022-09-02 |
 | [Mamacita](https://open.spotify.com/track/1aMBEPxu04bm2IE2B9dfKQ) | [Latu](https://open.spotify.com/artist/4R6hvBrUMsQVBoKJv2tLFz), [Nordin](https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK) | [Mamacita](https://open.spotify.com/album/155ZliUPSgXIl5Z4lFl5KK) | 2:12 | 2022-08-24 | 2022-09-16 |
 | [Mamasita](https://open.spotify.com/track/1FtkAvphTDUzGKfSZvV8Kw) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Deeper X \(Part 1\)](https://open.spotify.com/album/2UgN9DlIqhTRvKK6qhJSVW) | 2:40 | 2022-07-14 | 2022-07-22 |

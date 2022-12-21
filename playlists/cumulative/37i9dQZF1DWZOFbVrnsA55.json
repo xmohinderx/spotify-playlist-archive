@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Paradoxically, forgetting",
+        "url": "https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN"
+      },
+      "artists": [
+        {
+          "name": "Weatherson",
+          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 835000,
+      "name": "2679 miles away",
+      "url": "https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ"
+    },
+    {
+      "album": {
         "name": "Pilled Up on a Couple of Doves",
         "url": "https://open.spotify.com/album/0J8haEuiXYtr6z7Pg4HFz6"
       },

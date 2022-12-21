@@ -1064,6 +1064,28 @@
     },
     {
       "album": {
+        "name": "Ghazali (feat. Bryan Mg)",
+        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184661,
+      "name": "Ghazali (feat. Bryan Mg)",
+      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+    },
+    {
+      "album": {
         "name": "Ghir Ntiya",
         "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
       },
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 186120,
       "name": "INE INE",
       "url": "https://open.spotify.com/track/03O73RwxB4Ja3hBYRU6T0c"
@@ -1763,6 +1785,32 @@
       "duration_ms": 212389,
       "name": "L3achrane",
       "url": "https://open.spotify.com/track/6KIFae9YNanPnknAvvvBeC"
+    },
+    {
+      "album": {
+        "name": "\u0664in (Act 4)",
+        "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Sa\u00efd Senhaji",
+          "url": "https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca"
+        },
+        {
+          "name": "Abdelaziz Stati",
+          "url": "https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365529,
+      "name": "L7essada",
+      "url": "https://open.spotify.com/track/6BbRk218FsK51B2KVc4GrA"
     },
     {
       "album": {
@@ -2813,7 +2861,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 188408,
       "name": "Premier amour",
       "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"

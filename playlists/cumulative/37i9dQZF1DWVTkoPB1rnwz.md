@@ -4,12 +4,13 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-271 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+272 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 | 2022-11-09 |  |
 | [2013](https://open.spotify.com/track/3PJIKoSgXBohYJ4qTwRzyd) | [Falls](https://open.spotify.com/artist/3ATHXs1f58nnxQGsP90xbz) | [Oldthought](https://open.spotify.com/album/4ivM83KKZ6ioPulyW20OUo) | 1:45 | 2021-10-16 |  |
+| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-21 |  |
 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 | 2021-10-16 |  |
 | [5:36am](https://open.spotify.com/track/3D4AfHfei811onW5lJAbyh) | [Naveih](https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt) | [5:36am](https://open.spotify.com/album/6mgTereFy0CMKaZHYEntzg) | 1:42 | 2021-10-16 | 2022-07-27 |
 | [A\-001](https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk) | [Corntuth](https://open.spotify.com/artist/3GFs5bdCNNiBb8wkfgaw88) | [Music To Work To](https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK) | 4:17 | 2021-10-16 |  |
@@ -225,7 +226,7 @@
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-16 | 2022-07-27 |
 | [Study of a Bull](https://open.spotify.com/track/7r4YdYRQNVZMd2M37DVQhu) | [Rushab Nandha](https://open.spotify.com/artist/08JY95hQcpOet2v3lYRoaA) | [Study of a Bull](https://open.spotify.com/album/24Us6fvwBE6xFuGi7u7twU) | 4:22 | 2022-09-30 | 2022-11-01 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2021-10-16 |  |
-| [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-16 |  |
+| [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-16 | 2022-12-21 |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-16 |  |
 | [Sunset Sugarlife](https://open.spotify.com/track/2zr5I7zEDaVLhyWKqHJR5g) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Vacations](https://open.spotify.com/album/032Q8Io07qKivVogFfEr9B) | 1:22 | 2021-10-16 | 2022-07-24 |
 | [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 | 2022-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 601 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 606 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 33 | [Ndolelele](https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH), [Sharon Sento](https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy) | [NDURA EP](https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG) | 3:23 |
 | 34 | [Been Bout My Thang](https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K) | [Lyrical G](https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ), [GNL Zamba](https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK) | [Geezy](https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd) | 3:04 |
 | 35 | [Blow Up](https://open.spotify.com/track/1vNfNoQklN2A7Qn4h7mJKO) | [Triggah](https://open.spotify.com/artist/0X3KWKamiMstCtGBljaikR) | [Blow Up](https://open.spotify.com/album/58n7ELafEIhHUCMSYeRnJe) | 3:47 |
-| 36 | [TEMPTED!](https://open.spotify.com/track/5WEqt1UFhpdZaSdrnjp5I4) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [T3MPTED!](https://open.spotify.com/album/2AHQ2LYxqLi3OOPzqMGG81) | 2:54 |
+| 36 | [TEMPTED!](https://open.spotify.com/track/0IJysriTxT9Bp5iJceAVHh) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [I'M DONE, NEVER AGAIN!](https://open.spotify.com/album/3eBpH7vwfpP3nhCdRNIXtP) | 2:54 |
 | 37 | [stars](https://open.spotify.com/track/2IRthOa69PZ1juCQ7ZGJSk) | [antigravity!](https://open.spotify.com/artist/1YLvt6xBvA3OhAZ9FjY1vV) | [stars](https://open.spotify.com/album/6KLjec6wpFGBw6okysaj6R) | 3:37 |
 | 38 | [Mandela Effect](https://open.spotify.com/track/5n8KYQfXbZI28b1dZEv3y1) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [TimTonne](https://open.spotify.com/artist/5AnewAHWpqtev6lg7MGOPA) | [Mandela Effect](https://open.spotify.com/album/5zmclbxfppW8ztaPHcXDak) | 2:50 |
 | 39 | [Love Say](https://open.spotify.com/track/1XooJUOhghelEYTYS6Wp4z) | [Joshtheson](https://open.spotify.com/artist/3TnAeKpnEEsiXZ5wBazNiz) | [Love Say](https://open.spotify.com/album/3KpId1zKLJuRG43mql2U3H) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 49 | [Kaazi](https://open.spotify.com/track/0lDoCgY33JV4rEllLJ8ubM) | [Paapa T](https://open.spotify.com/artist/7Ii9A3fiHC0LWGzgjekkba), [Rie](https://open.spotify.com/artist/67qQPzQB13ihMnIwS27kbr) | [Kaazi](https://open.spotify.com/album/57Ad8YNHXuOYMzpVVbvC9L) | 4:09 |
 | 50 | [Nobody](https://open.spotify.com/track/6krUogRWd9GJTqmLX4qiGH) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp), [J\-Wats](https://open.spotify.com/artist/5SICeSfCoS3DTaNhNnZj94) | [Nobody](https://open.spotify.com/album/6jLFWGaIVgdgKXBIJZKkNn) | 3:43 |
 
-Snapshot ID: `MTY3MTE4OTg5NiwwMDAwMDAwMGMzNzYyMDEyOTM0MWVlZjVjZjdlNjY5M2M5ZjVkNGY1`
+Snapshot ID: `MTY3MTE4OTg5NiwwMDAwMDAwMDk3NjA5NTdjODdhMmI4M2ExNTViZjYyN2ZiYWFiMWZj`

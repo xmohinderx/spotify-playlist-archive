@@ -1,12 +1,12 @@
 {
   "description": "75 ways to cope with your Indie fomo. Pixey on cover.",
-  "num_followers": 8455,
+  "num_followers": 8593,
   "original_name": "Indie songs from 2022 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMDYwYmI5Y2QzMGFjYWY1NTk4NzVmMjNkYTU5MTlkYTBl",
+  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMDBjMzg3ZDc3NWQ1OTU3OGQzYjA4ZDY2MTliMDlmYmM3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Love You By Myself",
+        "url": "https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Love You By Myself",
+      "url": "https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Close to Your Heart",
         "url": "https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 164823,
       "name": "Distant Calls",
       "url": "https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Love You By Myself",
-        "url": "https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Love You By Myself",
-      "url": "https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "can you see me?",
-        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 197994,
-      "name": "can you see me?",
-      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 148915,
+      "name": "EN EL CIELO",
+      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Do You Well (feat. Perfume Genius)",
         "url": "https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 213293,
       "name": "Do You Well (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 148915,
-      "name": "EN EL CIELO",
-      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Mirror Dance",
-        "url": "https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V"
-      },
-      "artists": [
-        {
-          "name": "Dame Dearest",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        }
-      ],
-      "duration_ms": 183183,
-      "name": "Mirror Dance",
-      "url": "https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Metamorphosis: Final Stage",
         "url": "https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 208363,
       "name": "Back In The Game",
       "url": "https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Mirror Dance",
+        "url": "https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V"
+      },
+      "artists": [
+        {
+          "name": "Dame Dearest",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "duration_ms": 183183,
+      "name": "Mirror Dance",
+      "url": "https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Sex in Afrikaans",
-        "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
-      },
-      "artists": [
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Sex in Afrikaans",
-      "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Valley",
-        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
+        "name": "Sex in Afrikaans",
+        "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
       },
       "artists": [
         {
-          "name": "Racoma",
-          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Valley",
-      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
+      "duration_ms": 186500,
+      "name": "Sex in Afrikaans",
+      "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -775,6 +759,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Valley",
+        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
+      },
+      "artists": [
+        {
+          "name": "Racoma",
+          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Mott St",
-        "url": "https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE"
-      },
-      "artists": [
-        {
-          "name": "CIB",
-          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
-        }
-      ],
-      "duration_ms": 175945,
-      "name": "Mott St",
-      "url": "https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 230169,
       "name": "Like You",
       "url": "https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Mott St",
+        "url": "https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE"
+      },
+      "artists": [
+        {
+          "name": "CIB",
+          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
+        }
+      ],
+      "duration_ms": 175945,
+      "name": "Mott St",
+      "url": "https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Take Your Turn",
-        "url": "https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN"
-      },
-      "artists": [
-        {
-          "name": "Umair Ali",
-          "url": "https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs"
-        },
-        {
-          "name": "Zoha Zuberi",
-          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Take Your Turn",
-      "url": "https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -1043,6 +1023,26 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Take Your Turn",
+        "url": "https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN"
+      },
+      "artists": [
+        {
+          "name": "Umair Ali",
+          "url": "https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs"
+        },
+        {
+          "name": "Zoha Zuberi",
+          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Take Your Turn",
+      "url": "https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Caught in a Parade",
         "url": "https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "The Year of February",
-        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
-      },
-      "artists": [
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Enjoy Your Stay",
         "url": "https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 190079,
       "name": "Allure",
       "url": "https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "The Year of February",
+        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc"
     },
     {
       "added_at": "2022-11-30 13:45:00",

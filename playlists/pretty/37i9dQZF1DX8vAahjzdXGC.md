@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Mikha Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,650 likes - 87 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,673 likes - 87 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [terjanji \- From "Cek Toko Sebelah 2"](https://open.spotify.com/track/3NQ1T3sN6clo8P5i8DIneg) | [Mikha Angelo](https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf) | [terjanji \(From "Cek Toko Sebelah 2"\)](https://open.spotify.com/album/1yMKiFk1KEtaF9MB5f4ATO) | 4:18 |
 | 2 | [Beri Waktu](https://open.spotify.com/track/5jN5OcPcsHge3dgj2pg0Jh) | [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Sammy Simorangkir \- Kisah Abadi](https://open.spotify.com/album/6qbZdwGrY2vA1WkVWPoRS6) | 3:54 |
-| 3 | [Balada Si Roy \(feat\. Eet Sjahranie\)](https://open.spotify.com/track/5IqN3PYDiOppZEln4AQ54E) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Eet Sjahranie](https://open.spotify.com/artist/1o5v9Ql52RqXXZmWIbuFdX) | [Balada Si Roy \(feat\. Eet Sjahranie\)](https://open.spotify.com/album/1FPVqPgzfIyIRwArwOKed7) | 4:11 |
+| 3 | [Balada Si Roy](https://open.spotify.com/track/5IqN3PYDiOppZEln4AQ54E) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Eet Sjahranie](https://open.spotify.com/artist/1o5v9Ql52RqXXZmWIbuFdX) | [Balada Si Roy](https://open.spotify.com/album/1FPVqPgzfIyIRwArwOKed7) | 4:11 |
 | 4 | [Patah Hati](https://open.spotify.com/track/6wMZgPKc7BH4vVuS07bA2o) | [Elmatu](https://open.spotify.com/artist/2a5qh3vr6mQFCjnGd7fM8I) | [Patah Hati](https://open.spotify.com/album/5YKdcnS6abvPSsgyPkF9LH) | 4:21 |
 | 5 | [Misal](https://open.spotify.com/track/4br3AKyFfsCxH6B1KgA5fd) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Misal](https://open.spotify.com/album/0vj8E1u2oEzj470hNpoT0u) | 3:57 |
 | 6 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 38 | [Sing Your Lullaby](https://open.spotify.com/track/3LGqmgDKefGR9zp3h92VmW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Sing Your Lullaby](https://open.spotify.com/album/61nC52SUGV19X5i0VJoyoa) | 3:42 |
 | 39 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 | 40 | [Radio Blues](https://open.spotify.com/track/3axyZ2sK4a8xsXh95Gz2id) | [Tokyolite](https://open.spotify.com/artist/5B5CUIyGVsu1aJdLvqH2m5) | [Radio Blues](https://open.spotify.com/album/0J7twHc4JLiMeKLYnH2dJy) | 3:01 |
-| 41 | [Moonlight](https://open.spotify.com/track/3fsysiUDYIZLuZPX7ewMMa) | [Tiara Eve](https://open.spotify.com/artist/3kio6eSaWyIYN9oUvQy6ij), [Sistine](https://open.spotify.com/artist/3jgmja08ynVzyDZXM3R68A) | [Moonlight](https://open.spotify.com/album/4ed7He2rKb6FkhuKp54kVm) | 3:36 |
+| 41 | [Moonlight](https://open.spotify.com/track/3fsysiUDYIZLuZPX7ewMMa) | [Tiara Eve](https://open.spotify.com/artist/3kio6eSaWyIYN9oUvQy6ij), [Sistine](https://open.spotify.com/artist/5ilVkrQdSdHHhss0NApuy6) | [Moonlight](https://open.spotify.com/album/4ed7He2rKb6FkhuKp54kVm) | 3:36 |
 | 42 | [Love Tonight, Pt\. 2](https://open.spotify.com/track/4Kt0GI34vHwLw4jlnKeCdY) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [NIGHTINGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [Retro Cactus](https://open.spotify.com/artist/6aEHYwalIVWmgVOBMYwMx3) | [Love Tonight, Pt\. 2](https://open.spotify.com/album/1CW9GZRiosTy12fUeXPISf) | 3:25 |
 | 43 | [Sad Girl :\(](https://open.spotify.com/track/4M0IGuPS2SCkNenz6FDG2H) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Sad Girl :\(](https://open.spotify.com/album/56plU3pezZzzzI5i2y41XV) | 2:04 |
 | 44 | [Better Days](https://open.spotify.com/track/0N6LjAOLVv8XmJmxYzeyc5) | [Popo Fauza](https://open.spotify.com/artist/4JpceQzMIN7UaS6wSUuQb8), [Tabitha Kunze](https://open.spotify.com/artist/6B1ZiNpkyJ0NYv3X01vG5u) | [Better Days](https://open.spotify.com/album/75GwmK0CcQPaM2fCBrOWXN) | 3:31 |

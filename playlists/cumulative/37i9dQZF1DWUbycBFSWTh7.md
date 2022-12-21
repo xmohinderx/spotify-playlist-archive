@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-137 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+138 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Mothercity \- Tom Jarmey Remix](https://open.spotify.com/track/1ju2P3fI1P0a41wLwjcBPn) | [Penner+Muder](https://open.spotify.com/artist/4fpAs40OBZoto9ZtoEdOuE), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Mothercity \(Tom Jarmey Remix\)](https://open.spotify.com/album/6VgrSHW2dVbP77n5I4rGHe) | 5:55 | 2022-09-15 |  |
 | [Moulin Rouge \- Original Mix](https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT) | [Stazzia](https://open.spotify.com/artist/17TOgS3UEH2wza058lRCQy) | [Groovin' Attitude EP](https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B) | 5:00 | 2022-09-15 |  |
 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 | 2022-09-15 |  |
+| [Never Thought \[Printworks\] \- Main Vocal Mix](https://open.spotify.com/track/5EQSnb89lN9K3ACVBOSsjD) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Sunchilde](https://open.spotify.com/artist/2vqTInpbq4fzqySS5BudrR) | [Spaces and Places](https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT) | 6:17 | 2022-12-20 |  |
 | [Nine O Nine](https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/4wM0efpVUJ0P8rGfVhEdxW) | 3:16 | 2022-10-13 |  |
 | [Nine O Nine](https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/3IlhSayycfkGlctTf9xvz2) | 3:16 | 2022-09-15 | 2022-10-20 |
 | [Noemie](https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [Noemie](https://open.spotify.com/album/2QOW9TFUMABmFYGMPXDi1c) | 2:58 | 2022-09-15 |  |

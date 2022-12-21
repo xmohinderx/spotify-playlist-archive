@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-268 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
+269 songs - 23 hr 6 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Burn It All Down](https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:31 | 2021-12-26 | 2022-11-09 |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-11-22 |  |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-01-07 |  |
-| [Chapter 7 \(feat\. Laurel Halo\)](https://open.spotify.com/track/1hXkvSqFLOBkpWTwO3bvbk) | [Moritz Von Oswald Trio](https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2), [Heinrich Kobberling](https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chapter 7 \(feat\. Laurel Halo\)](https://open.spotify.com/album/3zipBnqqinWy5szfmoFaCV) | 6:04 | 2021-12-26 |  |
+| [Chapter 7 \(feat\. Laurel Halo\)](https://open.spotify.com/track/1hXkvSqFLOBkpWTwO3bvbk) | [Moritz Von Oswald Trio](https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2), [Heinrich Kobberling](https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chapter 7 \(feat\. Laurel Halo\)](https://open.spotify.com/album/3zipBnqqinWy5szfmoFaCV) | 6:04 | 2021-12-26 | 2022-12-21 |
 | [CHIAROSCURO](https://open.spotify.com/track/6v5vNUiUrdFWvOkq6ViJE1) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VERDE](https://open.spotify.com/album/5q7wnQwXduhyYg9XZ6RSNS) | 7:56 | 2021-12-26 | 2022-07-27 |
 | [Choisis Ton Arme \- Pal Parallax Remix](https://open.spotify.com/track/1WW45Hqf4fwb0gQbWB0xob) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND), [Pal Parallax](https://open.spotify.com/artist/6slcGVBtWnlN3Pvo9XGAA4) | [Choisis Ton Arme \(Pal Parallax Remix\)](https://open.spotify.com/album/6TVTi9KVolcp4uvzbPUvNy) | 2:21 | 2021-12-26 | 2022-01-28 |
 | [Chrome Dreams](https://open.spotify.com/track/6Z4YT5Qz3FAjURIhAlacsF) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/6UV2yKGCSjwpoBHra6IaRc) | 6:16 | 2021-12-26 | 2022-07-29 |
@@ -276,5 +276,6 @@
 | [Worlds Collide \- Hannes Kretzer Rework](https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf), [Morten Reppesgård](https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Worlds Collide \(Hannes Kretzer Rework\)](https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc) | 3:51 | 2022-03-11 |  |
 | [XYZ](https://open.spotify.com/track/72oEGguykIkj1PDA8dXTMW) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [XYZ](https://open.spotify.com/album/6TFaNIzSXMAnOLpjIcWOKO) | 3:22 | 2022-01-07 | 2022-07-21 |
 | [You Ain't Down](https://open.spotify.com/track/29sHG2nNKkqOPAlBGiTMn8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:23 | 2021-12-26 |  |
+| [Zero Law](https://open.spotify.com/track/1T86cvA0iw7ygJDHVulEWe) | [Zomnis](https://open.spotify.com/artist/5hfJICKoX0X34piKb8siZB) | [Music for Robots](https://open.spotify.com/album/50utrathEVv4UTEMjUtwbE) | 2:50 | 2022-12-20 |  |
 
 \*This playlist was first scraped on 2022-01-05. Prior content cannot be recovered.

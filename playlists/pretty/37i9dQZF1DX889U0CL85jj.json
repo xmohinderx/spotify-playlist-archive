@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2387440,
+  "num_followers": 2387711,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MTk4MCwwMDAwMDAwMGUzZDY5ODgxMjMzYzhlMTU3YjMwZWU5YmY4ODMxMjdk",
+  "snapshot_id": "MTY3MTU1MDk1MiwwMDAwMDAwMDFjZjEwNzM2M2E0YWJiMjc2NGUwMmM4NDc4NDE3M2U4",
   "tracks": [
     {
       "added_at": "2022-10-08 00:29:29",
@@ -31,6 +31,26 @@
       "duration_ms": 190000,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
+    },
+    {
+      "added_at": "2022-12-20 15:42:12",
+      "album": {
+        "name": "Her (Original Score)",
+        "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        },
+        {
+          "name": "Owen Pallett",
+          "url": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+        }
+      ],
+      "duration_ms": 215621,
+      "name": "Song on the Beach",
+      "url": "https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2235,26 +2255,6 @@
       "duration_ms": 406566,
       "name": "Sun is going down",
       "url": "https://open.spotify.com/track/3DN0yq0VaZgiANOyTrWnUP"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "I Leave Again",
-      "url": "https://open.spotify.com/track/4aNNFLoRfSOMHeYQXidsXL"
     },
     {
       "added_at": "2022-08-19 04:00:00",

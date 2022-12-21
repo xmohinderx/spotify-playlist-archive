@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,765 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,841 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 57 | [C Walk 2](https://open.spotify.com/track/0CeaAvEotqd1vxT25x2oQ2) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [C Walk 2](https://open.spotify.com/album/1acftUORHmGwfl2HMP2ZUH) | 3:43 |
 | 58 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 |
 | 59 | [RJ Mais Que Atlanta](https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [RJ Mais Que Atlanta](https://open.spotify.com/album/3fkbibWGlHrHzaaoJ6MXq1) | 3:04 |
-| 60 | [Eu Peço Paz](https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Eu Peço Paz](https://open.spotify.com/album/5ghalgVjIzcEQfZiKbFkPk) | 5:14 |
+| 60 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
 
-Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMGMxMTY5MjMwNjdhYzQzOWM0MThlZGE0NDRjZmU4ZTdk`
+Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDY3YTAyMWQwY2Q1N2JlZGM5MTI3YTI0M2E4YmE4YWYy`

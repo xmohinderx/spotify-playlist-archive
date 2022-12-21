@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-467 songs - 1 day 4 hr 52 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+468 songs - 1 day 4 hr 56 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Baanu Bhoomi \(From "Rider"\)](https://open.spotify.com/track/0sYvZ1brE8S3rUpak3XZBX) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Baanu Bhoomi \(From "Rider"\)](https://open.spotify.com/album/72jWk75FUE1WPuV5tremjS) | 3:18 | 2021-12-23 | 2022-02-03 |
 | [Baanu Bhoomi \- From "Kandidi Nodona"](https://open.spotify.com/track/5APQaYxd4XKBCXfaloPsP2) | [Sreedhar Kashyap](https://open.spotify.com/artist/0drFlB2BFrnjVvZApPAqe3), [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Baanu Bhoomi \(From "Kandidi Nodona"\)](https://open.spotify.com/album/2yLPdKLEfMpOtnplmxDYMz) | 3:24 | 2022-04-27 | 2022-07-19 |
 | [Baare Baare Rajakumari \(From "Raja Rani Roarer Rocket"\)](https://open.spotify.com/track/2TI0vJ8Jdrwjx6Aht5lYFh) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prabhu S R](https://open.spotify.com/artist/4VrFORsWwVXNQ0hLCMrV1w) | [Baare Baare Rajakumari \(From "Raja Rani Roarer Rocket"\)](https://open.spotify.com/album/1BpHJxPScE5w2FVGeVOoBW) | 3:52 | 2022-04-06 |  |
+| [Baaro Picturegogona \(From "Padavi Poorva"\)](https://open.spotify.com/track/6l7BIy9VqwAitnvPhvjRsX) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1) | [Baaro Picturegogona \(From "Padavi Poorva"\)](https://open.spotify.com/album/1kGq7nlv71rIw7DO94dHT2) | 3:49 | 2022-12-20 |  |
 | [Baaro Raja](https://open.spotify.com/track/5aApK4jfmDfJvKgh1fBTBD) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Dhananjay Ranjan](https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p) | [Luckyman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4THkDjieEZKUIzVkLC10Co) | 4:24 | 2022-09-22 |  |
 | [Baby Dance Floor Ready](https://open.spotify.com/track/46d48XfYFH8VNQX3cmo236) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Roberrt](https://open.spotify.com/album/0x431C4IAEYKuKxOdrjs1M) | 3:33 | 2021-12-06 | 2022-03-14 |
 | [Baby Run The Bush \(From "Man Of The Match"\)](https://open.spotify.com/track/6LijWX7PJMlVdFeR33dPHS) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Gokul Abhishek](https://open.spotify.com/artist/0OOQrP00g6QUmlrvpTbfQd) | [Baby Run The Bush \(From "Man Of The Match"\)](https://open.spotify.com/album/0GXWQsfxVJdYTXBCRBkRc3) | 1:36 | 2022-05-07 | 2022-11-15 |

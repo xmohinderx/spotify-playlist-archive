@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 37349,
+  "num_followers": 37420,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMDNmM2RjNmVhNzBlY2NjMzQ4NjUwM2FlMGI0YWVlODRk",
+  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMGFiODk3MGNmYmI5MWExNjU0MDhmNjFmOWU5ZDRhOWYw",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Essential Collection",
-        "url": "https://open.spotify.com/album/3AxsXQdgP3zZXPvezSI9bK"
-      },
-      "artists": [
-        {
-          "name": "The Dubliners",
-          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "Black Velvet Band",
-      "url": "https://open.spotify.com/track/3eLJLZn6bkE6il9x5pS07g"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Rum Sodomy & The Lash (Expanded Edition)",
         "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 301213,
       "name": "A Pair of Brown Eyes",
       "url": "https://open.spotify.com/track/32soEc9h0wDy1BEjV5egeh"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "The Essential Collection",
+        "url": "https://open.spotify.com/album/3AxsXQdgP3zZXPvezSI9bK"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/3eLJLZn6bkE6il9x5pS07g"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Best Of The Dubliners",
-        "url": "https://open.spotify.com/album/14p25ZN9xDdhJP5Vkn1NG1"
-      },
-      "artists": [
-        {
-          "name": "The Dubliners",
-          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Molly Malone",
-      "url": "https://open.spotify.com/track/6K5kPhYPbLNkkdyvyjzP3t"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Noel Mcloughlin: Ireland",
         "url": "https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 152680,
       "name": "The Boys Of Killybegs",
       "url": "https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "The Best Of The Dubliners",
+        "url": "https://open.spotify.com/album/14p25ZN9xDdhJP5Vkn1NG1"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Molly Malone",
+      "url": "https://open.spotify.com/track/6K5kPhYPbLNkkdyvyjzP3t"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk At Its Best",
-        "url": "https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz"
-      },
-      "artists": [
-        {
-          "name": "Cyril O Donoghue",
-          "url": "https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "The Bright Side of the Moon",
-      "url": "https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "20 Best Irish Songs",
         "url": "https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ"
       },
@@ -375,26 +359,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Ireland: Tales of Our Land",
-        "url": "https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF"
+        "name": "Irish Folk At Its Best",
+        "url": "https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz"
       },
       "artists": [
         {
-          "name": "Janet Sutton",
-          "url": "https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy"
-        },
-        {
-          "name": "Fred Johnston",
-          "url": "https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm"
-        },
-        {
-          "name": "Brid Ni Chathain",
-          "url": "https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN"
+          "name": "Cyril O Donoghue",
+          "url": "https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Road to Granard / Gallagher's Frolics / Out on the Ocean",
-      "url": "https://open.spotify.com/track/6hJpbmcFZJcwskh0o3u4VV"
+      "duration_ms": 227600,
+      "name": "The Bright Side of the Moon",
+      "url": "https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -423,6 +399,30 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Ireland: Tales of Our Land",
+        "url": "https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF"
+      },
+      "artists": [
+        {
+          "name": "Janet Sutton",
+          "url": "https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy"
+        },
+        {
+          "name": "Fred Johnston",
+          "url": "https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm"
+        },
+        {
+          "name": "Brid Ni Chathain",
+          "url": "https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Road to Granard / Gallagher's Frolics / Out on the Ocean",
+      "url": "https://open.spotify.com/track/6hJpbmcFZJcwskh0o3u4VV"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "The Craic Is Mighty",
         "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 228373,
       "name": "The Black Velvet Band",
       "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Music & Ballads from Ireland",
+        "url": "https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl"
+      },
+      "artists": [
+        {
+          "name": "Noel McLoughlin",
+          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Unicorns",
+      "url": "https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -491,6 +507,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 137146,
+      "name": "Dicey Reilly",
+      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Ireland: Tales of Our Land",
         "url": "https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF"
       },
@@ -519,38 +551,6 @@
       "duration_ms": 210533,
       "name": "The Hunt / Dunphy's Hornpipe",
       "url": "https://open.spotify.com/track/3Qmkw1Jq9Gdw7C0rmMFw2h"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Music & Ballads from Ireland",
-        "url": "https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl"
-      },
-      "artists": [
-        {
-          "name": "Noel McLoughlin",
-          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Unicorns",
-      "url": "https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
-      },
-      "artists": [
-        {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
-        }
-      ],
-      "duration_ms": 137146,
-      "name": "Dicey Reilly",
-      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
-      },
-      "artists": [
-        {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "The Craic Was Ninety",
-      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Home Is the Rover",
         "url": "https://open.spotify.com/album/0k8jMO6MMsBNVFWfYhYhjZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 256399,
       "name": "Roseville Fair",
       "url": "https://open.spotify.com/track/7a7GS4avfjMhbN2mnpNWGY"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "The Craic Was Ninety",
+      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
-      },
-      "artists": [
-        {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
-        }
-      ],
-      "duration_ms": 168413,
-      "name": "The Mickey Dam",
-      "url": "https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Sean Tyrrell Live at Greenes",
         "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 248659,
       "name": "Sweet Ballyvaughaan - Live",
       "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "duration_ms": 168413,
+      "name": "The Mickey Dam",
+      "url": "https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB"
     }
   ],
   "unique_name": "Irish Tavern",

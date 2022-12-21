@@ -926,6 +926,24 @@
     },
     {
       "album": {
+        "name": "ALITHIA",
+        "url": "https://open.spotify.com/album/5ZciK7pQkN9IS66i5DgFyR"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "ALITHIA",
+      "url": "https://open.spotify.com/track/61sfFpr4TG2fV9PjQlU6vL"
+    },
+    {
+      "album": {
         "name": "Still Active",
         "url": "https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe"
       },
@@ -8361,7 +8379,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 283000,
       "name": "Iliovasilema - (Part 2 - Fos)",
       "url": "https://open.spotify.com/track/3gMkuoFyby1uUf7rR7y8Km"
@@ -15687,7 +15705,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 73636,
       "name": "Pure",
       "url": "https://open.spotify.com/track/7makDOAs66DPSP8s9CZ5rd"
@@ -20431,7 +20449,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 141500,
       "name": "We Came for Love",
       "url": "https://open.spotify.com/track/2kIVmLQVNEeZvcH8ZEZmdJ"

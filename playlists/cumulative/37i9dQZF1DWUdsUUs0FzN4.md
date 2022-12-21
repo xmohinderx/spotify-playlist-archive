@@ -2,9 +2,9 @@
 
 ### [Reggaetón Bellakoso](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
 
-> Bienvenidxs al mundo del bellaqueo, con Bellakath.
+> Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.
 
-102 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/6uhnpN8l70O9yI67E5CkB2)
+103 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6uhnpN8l70O9yI67E5CkB2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [De Tin Marin](https://open.spotify.com/track/5S4pezCIx9zIz1xRVcdOOP) | [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya) | [De Tin Marin](https://open.spotify.com/album/236aS4CdWzVT1aP9247gf4) | 2:33 | 2022-01-04 |  |
 | [Dejavú](https://open.spotify.com/track/6UJYf3tf4XzWYTsRT3eBHU) | [DJ Tona](https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB), [A\-WING](https://open.spotify.com/artist/2zj5Z9L8qLFrcdkRHsLek9), [Efe Baby](https://open.spotify.com/artist/1ezrMxapdeMeP6a7brwkWq), [Matt Vargas](https://open.spotify.com/artist/4UjXGM1HMpliImxMOdiiTz) | [Dejavú](https://open.spotify.com/album/73oiVusyAWk7MXV2bavtIf) | 3:12 | 2022-01-04 | 2022-07-24 |
 | [Diabla en bellakera](https://open.spotify.com/track/6Tm42ujjFYSmYPG2t0QCbu) | [Dj Flacko Monterrey](https://open.spotify.com/artist/1wNss5CYWZXudK9XnuMLbX), [DJ WICHO](https://open.spotify.com/artist/6RcXXVJ0cB3cKnc8PhQSZg), [Dj Diestro](https://open.spotify.com/artist/3WWMZusY0DgheUWKhTVx9j) | [Diabla en bellakera](https://open.spotify.com/album/04s4sX5A9qSqbNajrtZ2Rw) | 3:35 | 2022-03-10 |  |
-| [Dioza](https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Dioza](https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek) | 2:57 | 2022-01-04 |  |
+| [Dioza](https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Dioza](https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek) | 2:57 | 2022-01-04 | 2022-12-21 |
 | [EL Diablo](https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj) | [EL Fresh](https://open.spotify.com/artist/5SKKmrCayBdpFX1A7l42Cw), [Ledavile](https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk) | [EL Diablo](https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI) | 2:44 | 2022-01-04 |  |
 | [El Goloso](https://open.spotify.com/track/68QtlyBrzD98s4phcL1fx2) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [Flow Pesao](https://open.spotify.com/album/6DL7KLWzBh9VSX0Zaf4LM3) | 2:57 | 2022-01-04 |  |
 | [El Goloso TikTok](https://open.spotify.com/track/5T1GVe2SqHjI5Gi3G7wLfb) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [El Goloso TikTok](https://open.spotify.com/album/5LvwaFYGu8KDM9XxJ33Rwn) | 3:37 | 2022-03-08 | 2022-07-29 |
@@ -95,6 +95,7 @@
 | [Se Menea](https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6) | [Se Menea](https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM) | 3:39 | 2022-01-04 |  |
 | [Se Preparó](https://open.spotify.com/track/50QKzgxB4Xxvltj3z4cEV5) | [Kid Moonsta](https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy), [Mao Skaay](https://open.spotify.com/artist/743t33bqMFr3IdHIMcaUF1), [Yhan Malek](https://open.spotify.com/artist/1uLcL0EwsauxLNrfQtrYF2) | [Se Preparó](https://open.spotify.com/album/3TvmbijUTm1bg8Gmi9i4uv) | 2:48 | 2022-01-04 | 2022-07-25 |
 | [Si Baja](https://open.spotify.com/track/7gM8yNTLCYRJQ7IyhMxt7z) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Si Baja](https://open.spotify.com/album/4oua4IPbtlQVIsUNLaGvmK) | 2:18 | 2022-01-04 | 2022-07-29 |
+| [Sport](https://open.spotify.com/track/2gRPbGv4aKgqWw9csZP5CM) | [B.OG](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Sport](https://open.spotify.com/album/3U1jjNgnVvlwVbu5kyZA7a) | 3:04 | 2022-12-20 |  |
 | [Sueltate el Dembow](https://open.spotify.com/track/6lW3Zxh9wBch3cNrTMicSq) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Sueltate el Dembow](https://open.spotify.com/album/19REskE6qmcBnveMqcIQx7) | 3:03 | 2022-01-04 |  |
 | [Suena Perreo](https://open.spotify.com/track/5DizCtWxvshIngUI3SqQ86) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [Suena Perreo](https://open.spotify.com/album/65ZMs4WTkn1nmRGYxJQffs) | 3:25 | 2022-01-04 | 2022-07-29 |
 | [Suena Perreo](https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [Suena Perreo](https://open.spotify.com/album/3TwLgYFKn6hC7nHqjxi3Kj) | 3:25 | 2022-07-19 |  |

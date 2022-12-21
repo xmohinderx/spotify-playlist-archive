@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4e09\u6d66\u900f\u5b50",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
   "name": "Women's Voice",
   "published_playlist_ids": [
     "0SZUWy0MOvj9UVdaGWsuiR"
@@ -2103,7 +2103,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 262000,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4mQhIl8Cynxh8zfaquBmux"
@@ -2877,6 +2877,24 @@
       "duration_ms": 261122,
       "name": "First Love - 2022 Mix",
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
+    },
+    {
+      "album": {
+        "name": "Fish as like me is\u2026",
+        "url": "https://open.spotify.com/album/51s7qOmng4KEPZCjkRgNXn"
+      },
+      "artists": [
+        {
+          "name": "\u6e6f\u6728\u6167",
+          "url": "https://open.spotify.com/artist/6CLuhpHEjf2V9eTf0yAYUr"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286287,
+      "name": "Fish as like me is\u2026",
+      "url": "https://open.spotify.com/track/4psCqj4hKxuY12kZwmZBGC"
     },
     {
       "album": {
@@ -4383,7 +4401,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 207808,
       "name": "Join Us!",
       "url": "https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh"
@@ -4405,6 +4423,24 @@
       "duration_ms": 227432,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/4g4QLW0E1SfBipYZuE5Hym"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Hummingbird",
+          "url": "https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "June",
+      "url": "https://open.spotify.com/track/0Q1TLhnHvNs5xTsasBhaOg"
     },
     {
       "album": {
@@ -4814,6 +4850,28 @@
     },
     {
       "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/7zAoGrrJwpEd16ACo1SLiF"
+      },
+      "artists": [
+        {
+          "name": "diue",
+          "url": "https://open.spotify.com/artist/0BghUUqZWmXlfXxAZfqkvw"
+        },
+        {
+          "name": "&mkz",
+          "url": "https://open.spotify.com/artist/1n4aHNYirNcTqD074Ml8It"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126899,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/27GXDT9uMX6VLcnAYPisMj"
+    },
+    {
+      "album": {
         "name": "round trip",
         "url": "https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt"
       },
@@ -4987,7 +5045,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 197333,
       "name": "Logbook",
       "url": "https://open.spotify.com/track/7Dm0vGq2EZnok8p2PQjkMH"
@@ -5476,6 +5534,28 @@
     },
     {
       "album": {
+        "name": "Time Won't Stop",
+        "url": "https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "Mimiko",
+          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308162,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux"
+    },
+    {
+      "album": {
         "name": "Me",
         "url": "https://open.spotify.com/album/14CUeUoILBY0xLdTu4LnUw"
       },
@@ -5683,6 +5763,24 @@
       "duration_ms": 176000,
       "name": "Midnight Whisper - feat. Masahiro Sengoku",
       "url": "https://open.spotify.com/track/1aPeIT8OXsQMByZQgv5VSj"
+    },
+    {
+      "album": {
+        "name": "Hitotozukushizu (Another Edition)",
+        "url": "https://open.spotify.com/album/3KKLO623sFUcK964j2dmPD"
+      },
+      "artists": [
+        {
+          "name": "Yo Hitoto",
+          "url": "https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335800,
+      "name": "Mimi O Sumasu",
+      "url": "https://open.spotify.com/track/548JbCzzAo5Vm283DQ0ZXt"
     },
     {
       "album": {
@@ -6952,6 +7050,24 @@
     },
     {
       "album": {
+        "name": "Roll",
+        "url": "https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215928,
+      "name": "Roll",
+      "url": "https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP"
+    },
+    {
+      "album": {
         "name": "Rooftop Rhapsody",
         "url": "https://open.spotify.com/album/0SEeaTLdugL0UPr46I7RXl"
       },
@@ -7057,7 +7173,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 196972,
       "name": "Secret Love - Band ver.",
       "url": "https://open.spotify.com/track/4zlerKi4ecdtvwNRTYn5DP"
@@ -12734,6 +12850,24 @@
     },
     {
       "album": {
+        "name": "\u30d4\u30af\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB"
+      },
+      "artists": [
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168633,
+      "name": "\u30d4\u30af\u30c1\u30e3\u30fc",
+      "url": "https://open.spotify.com/track/302U8EHJsUBooB2vGvkl9y"
+    },
+    {
+      "album": {
         "name": "\u30d4\u30b9\u30bf\u30c1\u30aa",
         "url": "https://open.spotify.com/album/67KdyQpyMf2WB5sMwQh5SN"
       },
@@ -12781,7 +12915,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 211202,
       "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 - English Version",
       "url": "https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe"
@@ -12925,7 +13059,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 179472,
       "name": "\u30da\u30fc\u30d1\u30fc\u30c9\u30e9\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6YpYRWZCGjdhxKM1txkfmK"
@@ -15903,7 +16037,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 268173,
       "name": "\u6642\u8a08\u306f\u7720\u3044",
       "url": "https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv"

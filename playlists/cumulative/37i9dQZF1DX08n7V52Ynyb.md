@@ -4,11 +4,11 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-152 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
+153 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight](https://open.spotify.com/track/6wpE2kIiFQUdJiKDlSywdf) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | ['Round Midnight](https://open.spotify.com/album/1EQmKx9SFKyMyFhTLchdEZ) | 5:46 | 2022-04-22 |  |
+| ['Round Midnight](https://open.spotify.com/track/6wpE2kIiFQUdJiKDlSywdf) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | ['Round Midnight](https://open.spotify.com/album/1EQmKx9SFKyMyFhTLchdEZ) | 5:46 | 2022-04-22 | 2022-12-21 |
 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 | 2022-04-13 |  |
 | [A Beautiful Friendship](https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK) | [Alexis Cole](https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE), [Bucky Pizzarelli](https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq) | [A Beautiful Friendship](https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ) | 4:18 | 2022-04-13 |  |
 | [A Child Is Born](https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM) | [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [A Child Is Born](https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx) | 2:54 | 2022-04-13 |  |
@@ -72,6 +72,7 @@
 | [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 | 2022-04-13 |  |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2022-04-13 | 2022-06-01 |
 | [In A Sentimental Mood](https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [London/Paris](https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW) | 6:50 | 2022-04-13 | 2022-11-13 |
+| [In the Wee Small Hours](https://open.spotify.com/track/4MxZoNyKehFAWt5Kwe2ZXm) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY) | [In the Wee Small Hours](https://open.spotify.com/album/4im28jrt1yqHnzUlFFaKwn) | 4:09 | 2022-12-15 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 3:14 | 2022-08-31 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m) | 5:15 | 2022-04-13 | 2022-06-15 |
 | [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 | 2022-11-10 |  |

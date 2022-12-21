@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Bollywood beats to keep you dancing all night\. Cover: Govinda Naam Mera
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,470 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,630 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 | 16 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 |
 | 17 | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/1PDnTLpadsuLNSs6LCQtQh) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jassi Sidhu](https://open.spotify.com/artist/2VXIKojJeuVC7NyOQs4JlE), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y) | 2:33 |
 | 18 | [Best of 2021 Dance Hits](https://open.spotify.com/track/3M2hoXdc7P8tgQt11hT5Lp) | [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [Best of 2021 Dance Hits](https://open.spotify.com/album/6oYNZaANR2Cns7V1GheUPl) | 3:47 |
-| 19 | [The Hic Song](https://open.spotify.com/track/1wDrMKmeL9MAL2s7FZCH20) | [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Goodbye \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rvENGQpGCFQf2gOUfGfjp) | 3:31 |
+| 19 | [The Hic Song](https://open.spotify.com/track/7JhxVvHZZwO3n4swDgIG7O) | [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Goodbye \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NlqpZE0J3sZ4gT74lpFj0) | 3:31 |
 | 20 | [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/2FlkFn2YRzTQ13Fu2tfHb0) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/5tul86eaJyQKvgzoRemZtv) | 4:07 |
 | 21 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 |
 | 22 | [Chura Ke Dil Mera \- From "Hungama 2"](https://open.spotify.com/track/7d5ufSYehroRIgCXxJvcTM) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Anmol Malik](https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Chura Ke Dil Mera \(From "Hungama 2"\)](https://open.spotify.com/album/3XaG6643y3npUx6Dp7WGtY) | 4:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 | 64 | [Bang Bang](https://open.spotify.com/track/7DonyrUlcVcrtk28mqvWNL) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3) | 5:20 |
 | 65 | [The Disco Song](https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 5:42 |
 
-Snapshot ID: `MTY3MDg0NzQ1MiwwMDAwMDAwMDYwYTVlOTMwM2IzNjgwZDdkNGQ3NGJjZjEyYzFmOTg4`
+Snapshot ID: `MTY3MDg0NzQ1MiwwMDAwMDAwMGNiNjI2NDVlZGM1YzQwNTVlMWQ0ZjFmNGM2NGNiZjA0`

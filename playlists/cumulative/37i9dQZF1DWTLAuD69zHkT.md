@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-85 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+87 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 | 2022-07-13 |  |
 | [Blue And Lonesome](https://open.spotify.com/track/2mGIN7Wttje8xPUVyhIwZg) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Blues, Ballads](https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx) | 4:05 | 2022-10-14 |  |
 | [Blues For Rampart Street](https://open.spotify.com/track/2kcUYFKefPRK1IeNwkdJUo) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 2:57 | 2022-07-13 |  |
+| [Blues Force](https://open.spotify.com/track/2zuIf7x32FXaxnKaa5hBSo) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [...Yes, Please!](https://open.spotify.com/album/7bY9FdUPAsuwPF4ix8ueKt) | 6:59 | 2022-12-20 |  |
 | [Bring on the Blues](https://open.spotify.com/track/3i4WJaPerBXW1Up1ZVGU5t) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [So Long](https://open.spotify.com/album/2LQC92IPJ9amNY40rdKj5E) | 4:53 | 2022-07-13 |  |
 | [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 | 2022-07-13 |  |
 | [Cherry Pickin' Blues](https://open.spotify.com/track/5jQzD7M8t0EjR3lK1MN7Bt) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 3:29 | 2022-07-13 |  |
@@ -39,6 +40,7 @@
 | [Fine Fat Daddy](https://open.spotify.com/track/5Rr8ikDdsamSpjUu9uUabY) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:20 | 2022-07-13 |  |
 | [Fine Little Angel \(Take 2\)](https://open.spotify.com/track/5EP7cCsnijchK08uL6lINe) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 4:15 | 2022-07-13 |  |
 | [Glory Be](https://open.spotify.com/track/25H4Ux5UrzQz2LEqtGq5C6) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:26 | 2022-07-13 |  |
+| [God Must Be A Woman](https://open.spotify.com/track/4plzwfwY5LHyMhrQTm0qvG) | [Ray James](https://open.spotify.com/artist/7K70WLaQVQLFKCuFYRsFTZ) | [God Must Be A Woman](https://open.spotify.com/album/0p4yKiJbsX1lryWlCwItt7) | 4:04 | 2022-12-20 |  |
 | [Goin' Down Slow](https://open.spotify.com/track/5srIpIuhGKnPuiDcoaz1tw) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:04 | 2022-09-12 |  |
 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 | 2022-10-10 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-07-13 |  |

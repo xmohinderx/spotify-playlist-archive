@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Nando Reis
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,097 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,093 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 8 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 |
 | 9 | [A Mesma Coisa](https://open.spotify.com/track/6Fg4d58rbY4br0kACB2yWY) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [A Mesma Coisa](https://open.spotify.com/album/6RaKLp5NgcVnqAyGr58iAW) | 3:03 |
 | 10 | [Aos Poucos](https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Aos Poucos](https://open.spotify.com/album/3T0Wa2f0JfwZHR1vdFGTEI) | 3:37 |
-| 11 | [Duas Vidas Em Jogo](https://open.spotify.com/track/6YB8N8pPrXW84xgJ03Gu9E) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Diorama](https://open.spotify.com/artist/0jWNXxLwPaSXBWHyrutBRr) | [Duas Vidas Em Jogo](https://open.spotify.com/album/7nUDW1cWvea6dJyrY6s7Ol) | 3:10 |
+| 11 | [Duas Vidas Em Jogo](https://open.spotify.com/track/6YB8N8pPrXW84xgJ03Gu9E) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Diorama](https://open.spotify.com/artist/6E6B0NdJdBCZ0hVcFB4yNV) | [Duas Vidas Em Jogo](https://open.spotify.com/album/7nUDW1cWvea6dJyrY6s7Ol) | 3:10 |
 | 12 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
 | 13 | [O Ano da Volta](https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L) | [Sound Bullet](https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz) | [O Ano da Volta](https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De) | 4:43 |
 | 14 | [História de Verão \- Ao Vivo](https://open.spotify.com/track/1Bt9doFN2PjDIeKjYUHdHt) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Ao Vivo Na Fundição](https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s) | 3:14 |

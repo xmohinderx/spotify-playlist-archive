@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 161350,
+  "num_followers": 161360,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMDE5NGI3YzU2YTdhMWUwMmNhZjlhNDIxY2NlZmM2MWQ1",
+  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMGVjOWVhYTNmZjkwN2RkZTZhY2U0MmI2ZTYxMTkyODMy",
   "tracks": [
     {
       "added_at": "2022-06-30 13:51:59",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
+        "name": "The Lady Killer",
+        "url": "https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
-        "name": "The Lady Killer",
-        "url": "https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY"
-      },
-      "artists": [
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"
     },
     {
       "added_at": "2022-06-30 13:51:59",

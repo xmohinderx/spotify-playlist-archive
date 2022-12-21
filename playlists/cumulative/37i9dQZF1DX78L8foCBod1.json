@@ -1064,6 +1064,28 @@
     },
     {
       "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/0pNEUlmHs3A3xvBY99kStQ"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "XAI",
+          "url": "https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168640,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/5q6dJYjSfbG3hWjB2r5bTa"
+    },
+    {
+      "album": {
         "name": "R\u2203/MEMBER",
         "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
       },

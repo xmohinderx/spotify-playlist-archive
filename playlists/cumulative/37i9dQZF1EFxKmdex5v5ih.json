@@ -2650,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "Collected Thoughts",
+        "url": "https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T"
+      },
+      "artists": [
+        {
+          "name": "Mike Riches Ross",
+          "url": "https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271438,
+      "name": "Lied on Me",
+      "url": "https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL"
+    },
+    {
+      "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA"
       },

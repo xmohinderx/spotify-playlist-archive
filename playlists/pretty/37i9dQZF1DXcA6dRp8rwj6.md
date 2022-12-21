@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Diddy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,438 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,487 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 33 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 34 | [BRUISE \(Feat\. Skinny Brown, Loopy\)](https://open.spotify.com/track/45pjYjmR1qekpLX5SviYXZ) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [루피 \(Loopy\)](https://open.spotify.com/artist/1m9RWAAMDiUdOo9WDW9JoP) | [BRUISE](https://open.spotify.com/album/7Ci64GT3vPXALHb9j7rEAh) | 4:17 |
 | 35 | [Too Many](https://open.spotify.com/track/245cBrBsyEhCQdn2pOEO7N) | [Li Rye](https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [So Icy Boyz: The Finale](https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2) | 2:46 |
-| 36 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
+| 36 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
 | 37 | [CROWS](https://open.spotify.com/track/4pPOxtugmmQTNgGhLPBB5Q) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [CROWS](https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd) | 2:07 |
 | 38 | [Glory Boyz feat\. 904TEZZO](https://open.spotify.com/track/471zaxTcJ6Ik7XjnhNc5OD) | [Lil Boom](https://open.spotify.com/artist/1mmlWsyPJvvxMdabcGJjRn), [904TEZZO](https://open.spotify.com/artist/56HrCPz22OqbQLizgOEjm7) | [COLORFUL](https://open.spotify.com/album/0AvHIGhIEaYmYLqCw9rgba) | 1:22 |
 | 39 | [Activated](https://open.spotify.com/track/4EGteZcOt41jRmMtJlbrDF) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Activated](https://open.spotify.com/album/6Ma8rxZEirihIRGqe8vXhf) | 3:59 |

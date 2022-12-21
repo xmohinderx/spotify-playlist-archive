@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: Chelsea Cutler
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776,420 likes - 86 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,777,553 likes - 86 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

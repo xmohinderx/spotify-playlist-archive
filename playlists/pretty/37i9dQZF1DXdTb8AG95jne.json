@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: it's(\uc774\uce20)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 415139,
+  "num_followers": 415419,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkxOTgxNCwwMDAwMDAwMDExYjYzMjNmZWRiOTRlZTE5ODczNjIxMGM2MzMxMzcw",
+  "snapshot_id": "MTY3MDkxOTgxNCwwMDAwMDAwMDExYTEwZGZjMjEyMDFjMmQ4NjEyNTE3MGMzZDZhYWVj",
   "tracks": [
     {
       "added_at": "2022-12-13 08:06:35",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5yrpZNk10TtSgQGKuVzAlB"
     },
     {
-      "added_at": "2022-12-20 01:04:13",
+      "added_at": "2022-12-21 01:04:54",
       "album": {
         "name": "be around me",
         "url": "https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG"
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-13 08:06:35",
       "album": {
-        "name": "Memoirs",
-        "url": "https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 254852,
-      "name": "My Dear Love",
-      "url": "https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG"
-    },
-    {
-      "added_at": "2022-12-13 08:06:35",
-      "album": {
         "name": "Esprit",
         "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 214918,
       "name": "Lustre",
       "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
+    },
+    {
+      "added_at": "2022-12-13 08:06:35",
+      "album": {
+        "name": "Memoirs",
+        "url": "https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 254852,
+      "name": "My Dear Love",
+      "url": "https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG"
     },
     {
       "added_at": "2022-12-13 08:06:35",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-13 08:06:35",
       "album": {
-        "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
-        "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "GRIPPIN\u2019THEGREEN",
-      "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
-    },
-    {
-      "added_at": "2022-12-13 08:06:35",
-      "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
       },
@@ -783,6 +767,42 @@
     {
       "added_at": "2022-12-13 08:06:35",
       "album": {
+        "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
+        "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "GRIPPIN\u2019THEGREEN",
+      "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
+    },
+    {
+      "added_at": "2022-12-13 08:06:35",
+      "album": {
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "Be Your Christmas (feat. BOL4)",
+      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
+    },
+    {
+      "added_at": "2022-12-13 08:06:35",
+      "album": {
         "name": "naps!",
         "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 361426,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
-    },
-    {
-      "added_at": "2022-12-13 08:06:35",
-      "album": {
-        "name": "Be Your Christmas",
-        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        },
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 158226,
-      "name": "Be Your Christmas (feat. BOL4)",
-      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
     },
     {
       "added_at": "2022-12-13 08:06:35",

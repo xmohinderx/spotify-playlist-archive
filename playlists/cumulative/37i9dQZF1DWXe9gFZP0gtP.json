@@ -3670,6 +3670,24 @@
     },
     {
       "album": {
+        "name": "Old Faro",
+        "url": "https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189938,
+      "name": "Old Faro",
+      "url": "https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi"
+    },
+    {
+      "album": {
         "name": "Gemstones, Vol. 5",
         "url": "https://open.spotify.com/album/1rwLMZEmA0AK34SMAHyh1m"
       },

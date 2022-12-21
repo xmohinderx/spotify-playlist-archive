@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-673 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+674 songs - 1 day 12 hr 33 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Amanat](https://open.spotify.com/track/0TeUlCl92AjyCXdfdU5C4M) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [Amanat](https://open.spotify.com/album/1B8j6mD6LY9wH13HJdWyEF) | 3:15 | 2022-02-04 | 2022-04-06 |
 | [Amber Nu Paudi](https://open.spotify.com/track/1Cgf1bIWS0oJtzHidStWtQ) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 4:23 | 2022-01-10 | 2022-01-15 |
 | [Apna Viah](https://open.spotify.com/track/0znBJ5J84AD5ykoOkauSdR) | [Advik](https://open.spotify.com/artist/4RnHjFdLJEfBqL9B4nQcLg), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Apna Viah](https://open.spotify.com/album/4SCjM3XgWj3vy2Bk8huEnm) | 3:24 | 2022-02-22 | 2022-03-11 |
+| [Athroo](https://open.spotify.com/track/1N2Zv3CeSFygwFWdpAMV1m) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Athroo](https://open.spotify.com/album/4se8I5DaOxmaiBPVfwbyXR) | 2:49 | 2022-12-20 |  |
 | [Attitude](https://open.spotify.com/track/1c69J5zh7bFdzuCskQ1nDM) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/3pcfgQjmTD9v9z2uq4Zoj4) | 2:49 | 2022-09-30 | 2022-10-02 |
 | [Attitude](https://open.spotify.com/track/1doASRJQuXt97FMqJgn4aK) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Babe Bhangra Paunde Ne \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63zguPGRWX1sxdCc4Jl2MF) | 2:49 | 2022-11-11 | 2022-11-14 |
 | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/5pcPJPmlRG4L1yqPJd2g3o) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG) | [Attitude \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/72JdGkMg4jhAaooXKIYmah) | 2:49 | 2022-09-30 |  |

@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-97 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
+99 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Fuji](https://open.spotify.com/track/31W8m9tads0D5ARBlKi7nt) | [Takano Marise](https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM) | [Fuji](https://open.spotify.com/album/06aTTkyS7arBbMekxtFQsr) | 1:51 | 2022-05-26 |  |
 | [Garden Of Rhythm](https://open.spotify.com/track/4WFhr2DDEyMEdNXW8waIL5) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:11 | 2022-05-26 |  |
 | [Ghostly Dome](https://open.spotify.com/track/5XoPvzUlpMqUwbd7vzFPWp) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Ghostly Dome](https://open.spotify.com/album/6wAt1Jv6LDK1D23tqgW8h8) | 2:39 | 2022-10-14 |  |
+| [Harmony of the Elements](https://open.spotify.com/track/31q1XqoqpW818uPGceQChi) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Harmony of the Elements & Silver Spring](https://open.spotify.com/album/1Q8xSFkxaWPDBaQBBmrDpi) | 3:39 | 2022-12-20 |  |
 | [Healing Drums](https://open.spotify.com/track/1JnMcSLVT3QlZYuovCk8dL) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:24 | 2022-05-26 |  |
 | [Healing Ritual](https://open.spotify.com/track/2LV4q6wKUyBIMJ1KxCqYsT) | [Five Senses Meditation Sanctuary](https://open.spotify.com/artist/2yQankcHwEvfEbpyRXqeVz) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 6:06 | 2022-05-26 | 2022-10-01 |
 | [Healing Shaman Dance \(The Spiritual Companion\)](https://open.spotify.com/track/6wJOdAFs9ANTqLmUgqP3YT) | [Handpan Player](https://open.spotify.com/artist/5ASKao4QmrWIwcwCZk3o8j), [Chill Out Universe](https://open.spotify.com/artist/1s1zaTgXl0h2Bezu4QeL6H) | [Healing Shaman Dance \(The Spiritual Companion\)](https://open.spotify.com/album/2hbKCdH4ug6D6oJu3kn5ls) | 4:06 | 2022-05-26 |  |
@@ -69,6 +70,7 @@
 | [Path With A Heart](https://open.spotify.com/track/259s8MOBuUzZXPvYphaYbK) | [David & Steve Gordon](https://open.spotify.com/artist/4yt002Vil1q4Vl9JOx48QG) | [Sacred Spirit Drums](https://open.spotify.com/album/6tTwqPPKw7lWr6ip66djBy) | 5:53 | 2022-05-26 |  |
 | [Peace Within](https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS) | [Holly Summers](https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es) | [Peace Within](https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb) | 2:16 | 2022-11-11 |  |
 | [Peaceful Beat](https://open.spotify.com/track/1K1bPlZna6jKf7awyKi6K8) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Peaceful Beat](https://open.spotify.com/album/4geUtHZzcLPidEcjgaIvQB) | 2:58 | 2022-05-26 |  |
+| [Planets Rise](https://open.spotify.com/track/0Qx2fTCn7wSxeHt3jyI1Jj) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Planets Rise](https://open.spotify.com/album/65izdFSoEJds0oVAHgzzVZ) | 3:24 | 2022-12-20 |  |
 | [Protected](https://open.spotify.com/track/39c0wkcay8Zk7gAiibB6OZ) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Found](https://open.spotify.com/album/5S45s0wsGcnj4gx7UmoRti) | 3:04 | 2022-05-26 |  |
 | [Ramadu Meditation](https://open.spotify.com/track/30bl33zjZCyeueDwytjKy5) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:35 | 2022-05-26 |  |
 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 | 2022-05-26 |  |

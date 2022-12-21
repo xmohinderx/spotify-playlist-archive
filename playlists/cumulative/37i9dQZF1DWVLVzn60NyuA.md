@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-368 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+369 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 | 2021-12-16 |  |
 | [Konsentra](https://open.spotify.com/track/7LEsTCnDwSyy994RI7xQEQ) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Konsentra](https://open.spotify.com/album/0S5ImD3mDpq22iXVNkT5d2) | 3:08 | 2021-12-16 |  |
 | [Kontrol](https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Kontrol](https://open.spotify.com/album/0qvdWQTD4DeilItZUvHecT) | 3:26 | 2021-12-16 |  |
-| [Kute & Neat](https://open.spotify.com/track/1P01cmmSQIaWnhjDe1fdQF) | [Sasique](https://open.spotify.com/artist/0IfOujGLUo7rVkWGg84Nd1) | [Kute & Neat](https://open.spotify.com/album/0ERXtxLbzljkQaluDv1WOY) | 3:09 | 2022-11-03 |  |
+| [Kute & Neat](https://open.spotify.com/track/1P01cmmSQIaWnhjDe1fdQF) | [Sasique](https://open.spotify.com/artist/0IfOujGLUo7rVkWGg84Nd1) | [Kute & Neat](https://open.spotify.com/album/0ERXtxLbzljkQaluDv1WOY) | 3:09 | 2022-11-03 | 2022-12-21 |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2022-04-14 | 2022-05-16 |
 | [Lag'é Penetrá](https://open.spotify.com/track/1lDo1X8v3ua8gnC35tMECP) | [Da Ridlaz](https://open.spotify.com/artist/6pFfQlFLTkmSMes6mZysCj), [Hnly](https://open.spotify.com/artist/4CwqaspIyu13WLrhYbHLNJ) | [Lag'é Penetrá](https://open.spotify.com/album/4Mhd9TxfbM4uuCCIhpAxE5) | 3:54 | 2022-03-10 | 2022-04-15 |
@@ -287,6 +287,7 @@
 | [See You Again](https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:45 | 2021-12-16 | 2022-12-08 |
 | [Sempe](https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:51 | 2021-12-16 |  |
 | [Senseless \- Remix](https://open.spotify.com/track/3O3VkFcW34oKuCgJdQ0W2H) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Senseless \(Remix\)](https://open.spotify.com/album/4tIeCjzkmadSVHjm9HoukF) | 2:53 | 2021-12-16 | 2022-07-14 |
+| [Set It](https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Set It](https://open.spotify.com/album/48P5zv9zxFr0VkxZUf4wKa) | 2:34 | 2022-12-20 |  |
 | [Shaku Shaku](https://open.spotify.com/track/1TCMIBKmQGJ27Rm04bs7dI) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH) | [Afrowave 3](https://open.spotify.com/album/79dXMRWb9dGw08ud6M87GH) | 3:09 | 2021-12-16 | 2022-04-15 |
 | [She Got It \(with Rafa Pabön\)](https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [She Got It \(with Rafa Pabön\)](https://open.spotify.com/album/6t9SPVEh2WUu9UWDIjbPm6) | 2:50 | 2021-12-16 | 2022-02-23 |
 | [Show Them](https://open.spotify.com/track/0F0gYhu89PlecJB3XUi5Jf) | [Sam Dutchy](https://open.spotify.com/artist/4ZDwxw2U2vf0kGbgBF8QMP) | [Show Them](https://open.spotify.com/album/626DRnpftmOKOEIzVZ4dEK) | 3:18 | 2021-12-16 | 2022-07-29 |

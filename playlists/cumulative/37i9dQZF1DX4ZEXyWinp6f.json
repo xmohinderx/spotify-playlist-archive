@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
       },
@@ -165,6 +183,24 @@
       "duration_ms": 338853,
       "name": "2. Satz: Gewitter (Energy Rise - Energy Collaps)",
       "url": "https://open.spotify.com/track/5rlG4Fnws22Ecu6aXctE33"
+    },
+    {
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "2\u00b0C (Intermittent Rain)",
+      "url": "https://open.spotify.com/track/5Dp9L8FONgB0MwnS0hZDXh"
     },
     {
       "album": {
@@ -363,7 +399,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 251200,
       "name": "Autumn Linn",
       "url": "https://open.spotify.com/track/2itquu15gAnReyWqLfsrnL"
@@ -4533,7 +4569,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 379066,
       "name": "The Belldog",
       "url": "https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP"

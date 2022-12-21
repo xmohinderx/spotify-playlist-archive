@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 650880,
+  "num_followers": 651038,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNjEzMiwwMDAwMDAwMGJmOGE5NTQ3MTM4OTc1NmU4MDljM2Q3MDg3Yzc4Y2Uy",
+  "snapshot_id": "MTY2ODcxNjEzMiwwMDAwMDAwMGNiYTJjY2Y5N2U3M2YxMjBmNDU2YTg4YmQyZTkwNDk3",
   "tracks": [
     {
       "added_at": "2022-09-29 15:28:06",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-09-29 15:28:06",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2022-09-29 15:28:06",
-      "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
+    },
+    {
+      "added_at": "2022-09-29 15:28:06",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2022-09-29 15:28:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-29 15:28:06",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2022-09-29 15:28:06",
-      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
+    },
+    {
+      "added_at": "2022-09-29 15:28:06",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2022-09-29 15:28:06",
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
     },
     {
-      "added_at": "2022-12-20 01:11:27",
+      "added_at": "2022-12-21 00:08:21",
       "album": {
         "name": "Starfucker",
         "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3PbsDnKdrZY0ttX7VE9s5R"
     },
     {
-      "added_at": "2022-12-20 01:11:27",
+      "added_at": "2022-12-21 00:08:21",
       "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
@@ -1161,7 +1161,7 @@
       "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
     },
     {
-      "added_at": "2022-12-20 01:11:27",
+      "added_at": "2022-12-21 00:08:21",
       "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
@@ -1177,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
     },
     {
-      "added_at": "2022-12-20 01:11:27",
+      "added_at": "2022-12-21 00:08:21",
       "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp"
@@ -1257,7 +1257,7 @@
       "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
     },
     {
-      "added_at": "2022-12-20 01:11:27",
+      "added_at": "2022-12-21 00:08:21",
       "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"

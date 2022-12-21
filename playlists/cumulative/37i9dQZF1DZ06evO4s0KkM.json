@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "Johnny, I Hardly Knew Ya",
+      "url": "https://open.spotify.com/track/2JKG5gyxMeZaBazd8S6FGt"
+    },
+    {
+      "album": {
         "name": "The Meanest of Times",
         "url": "https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 234653,
       "name": "Johnny, I Hardly Knew Ya",
       "url": "https://open.spotify.com/track/6WNAhQVBolZgVfyxWd0z7I"

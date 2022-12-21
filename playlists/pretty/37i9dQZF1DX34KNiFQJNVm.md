@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez com Murilo Huff, Maiara & Maraisa, MC Hariel e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,806,842 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,807,427 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 27 | [Vibe De Butequeira](https://open.spotify.com/track/1QADWshM5fjZB2u0DkBf13) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Vibe De Butequeira](https://open.spotify.com/album/7klf805wQF1vSIm7GZMC9L) | 1:43 |
 | 28 | [Quando Ela Sentou \- Ao Vivo](https://open.spotify.com/track/6FyJ2RJURlpQL9mndtcBxC) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Quando Ela Sentou \(Ao Vivo\)](https://open.spotify.com/album/7McGA4qJ5NectLvB95Z0jq) | 2:50 |
 | 29 | [Bateu e Rolou \- Ao Vivo](https://open.spotify.com/track/5Z3k03X1tKu4dRLvpiagRN) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs), [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Bateu e Rolou \(Ao Vivo\)](https://open.spotify.com/album/2EJCoaJruHWugZHICwCLAg) | 3:04 |
-| 30 | [Despedida](https://open.spotify.com/track/5JIsWkS1pYDxuPDJOkUZKB) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lucas Beat](https://open.spotify.com/artist/5gglOc4s3jxP3teEzgFS6e) | [Despedida](https://open.spotify.com/album/6ts0y4wBVYxmaRC223hWii) | 2:29 |
+| 30 | [Despedida](https://open.spotify.com/track/5JIsWkS1pYDxuPDJOkUZKB) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Despedida](https://open.spotify.com/album/6ts0y4wBVYxmaRC223hWii) | 2:29 |
 | 31 | [Nojo do meu ex \- Ao Vivo](https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:40 |
 | 32 | [Para De Brigar Por Mim](https://open.spotify.com/track/7hj7hJVH9TtgsMRqHUoxIw) | [Lipe Lucena](https://open.spotify.com/artist/2hr2Pae57x29iMVqjKnHnf), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Para De Brigar Por Mim](https://open.spotify.com/album/1XSq4bjfOqiqRmD7UGgZbs) | 3:03 |
 | 33 | [Tira a Prova](https://open.spotify.com/track/2sVvADyFBFTnj2I5KfTrTa) | [Matogrosso & Mathias](https://open.spotify.com/artist/5he1UTofdFOcdbKqnLixko), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Tira a Prova](https://open.spotify.com/album/2ASY1ZhgaGCjGVnor2Exc4) | 3:04 |

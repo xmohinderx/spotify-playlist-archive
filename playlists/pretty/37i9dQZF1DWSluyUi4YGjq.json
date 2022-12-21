@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. For Tracy Hyde on cover!",
-  "num_followers": 22543,
+  "num_followers": 22584,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEyNzMwMywwMDAwMDAwMDUwY2E1NmExOWUyMDc0ZDEzZGM4MTk0NDUxOTc3Yjky",
+  "snapshot_id": "MTY3MTEyNzMwMywwMDAwMDAwMDczOWMyYTg0NWFkZDIwNWY1ZGZmOTg4YWM5MzgzNzIx",
   "tracks": [
     {
       "added_at": "2022-12-14 00:00:00",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
     },
     {
+      "added_at": "2022-12-21 00:52:36",
+      "album": {
+        "name": "\u0411\u0435\u0440\u0435\u0433\u0438 \u0441\u0435\u0431\u044f",
+        "url": "https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u0432\u0442\u043e\u0441\u043f\u043e\u0440\u0442",
+          "url": "https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE"
+        }
+      ],
+      "duration_ms": 187326,
+      "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
+      "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Blouse",
@@ -215,22 +231,6 @@
       "duration_ms": 208237,
       "name": "Into Black",
       "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
-    },
-    {
-      "added_at": "2022-12-20 00:37:49",
-      "album": {
-        "name": "\u0411\u0435\u0440\u0435\u0433\u0438 \u0441\u0435\u0431\u044f",
-        "url": "https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u0432\u0442\u043e\u0441\u043f\u043e\u0440\u0442",
-          "url": "https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE"
-        }
-      ],
-      "duration_ms": 187326,
-      "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
-      "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"
     },
     {
       "added_at": "2022-12-12 18:21:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Distressor",
         "url": "https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 253443,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "To See the Next Part of the Dream",
         "url": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ"
@@ -457,23 +457,7 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
-    },
-    {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Odes to the Void",
         "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
@@ -505,7 +489,23 @@
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
+    },
+    {
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "nightlife",
         "url": "https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7"
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
-        "name": "Happy Songs for Happy Zombies",
-        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
+        "name": "eye cue rew see",
+        "url": "https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "Plastic Girl In Closet",
+          "url": "https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm"
         }
       ],
-      "duration_ms": 204202,
-      "name": "Blaster",
-      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
+      "duration_ms": 178920,
+      "name": "ERROR",
+      "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -617,20 +617,20 @@
       "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "eye cue rew see",
-        "url": "https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0"
+        "name": "Happy Songs for Happy Zombies",
+        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
       },
       "artists": [
         {
-          "name": "Plastic Girl In Closet",
-          "url": "https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 178920,
-      "name": "ERROR",
-      "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
+      "duration_ms": 204202,
+      "name": "Blaster",
+      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Out of Line",
         "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Urban Twilight (Remaster)",
         "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Too Wild",
         "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
@@ -905,6 +905,26 @@
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
+      "added_at": "2022-12-21 00:52:36",
+      "album": {
+        "name": "Blush Response & Warm",
+        "url": "https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn"
+      },
+      "artists": [
+        {
+          "name": "Blush Response",
+          "url": "https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj"
+        },
+        {
+          "name": "Warm",
+          "url": "https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "OUTLAW69",
+      "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+    },
+    {
       "added_at": "2021-12-08 15:59:07",
       "album": {
         "name": "Death Spells",
@@ -935,26 +955,6 @@
       "duration_ms": 153746,
       "name": "Frame Of Reference",
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
-    },
-    {
-      "added_at": "2022-12-20 00:37:49",
-      "album": {
-        "name": "Blush Response & Warm",
-        "url": "https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn"
-      },
-      "artists": [
-        {
-          "name": "Blush Response",
-          "url": "https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj"
-        },
-        {
-          "name": "Warm",
-          "url": "https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "OUTLAW69",
-      "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
     },
     {
-      "added_at": "2022-10-27 22:19:36",
-      "album": {
-        "name": "T.W.I.N.",
-        "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 187654,
-      "name": "T.W.I.N.",
-      "url": "https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Citrus",
@@ -1019,6 +1003,22 @@
       "duration_ms": 257173,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
+    },
+    {
+      "added_at": "2022-10-27 22:19:36",
+      "album": {
+        "name": "T.W.I.N.",
+        "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 187654,
+      "name": "T.W.I.N.",
+      "url": "https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Find Yourself Along The Way",
-        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
-      },
-      "artists": [
-        {
-          "name": "The Meeting Places",
-          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Now I Know You Could Never Be The One",
-      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
       },
@@ -1069,7 +1053,7 @@
       "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Devour",
         "url": "https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM"
@@ -1083,6 +1067,22 @@
       "duration_ms": 209000,
       "name": "Last Night's Haze",
       "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Find Yourself Along The Way",
+        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
+      },
+      "artists": [
+        {
+          "name": "The Meeting Places",
+          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Now I Know You Could Never Be The One",
+      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Subway Station Revelation",
         "url": "https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04"
@@ -1163,6 +1163,22 @@
       "duration_ms": 279747,
       "name": "Molten Young Lovers",
       "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Junebouvier",
+      "url": "https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1197,23 +1213,7 @@
       "url": "https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Junebouvier",
-      "url": "https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu"
-    },
-    {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Mindfullness",
         "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "RABBIT EP",
         "url": "https://open.spotify.com/album/6bNKwYjohWbpVaFOU8z5um"
@@ -1345,7 +1345,7 @@
       "url": "https://open.spotify.com/track/2dwIC1Ls0pAWxIrDbpsMhD"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "Tragicomedy",
         "url": "https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN"
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
     },
     {
+      "added_at": "2022-01-21 14:06:58",
+      "album": {
+        "name": "Famously Alive",
+        "url": "https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw"
+      },
+      "artists": [
+        {
+          "name": "Guerilla Toss",
+          "url": "https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO"
+        }
+      ],
+      "duration_ms": 264003,
+      "name": "Cannibal Capital",
+      "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Life Is Not A Lesson",
@@ -1457,20 +1473,20 @@
       "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
     },
     {
-      "added_at": "2022-01-21 14:06:58",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Famously Alive",
-        "url": "https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw"
+        "name": "Miserable Miracles",
+        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
       },
       "artists": [
         {
-          "name": "Guerilla Toss",
-          "url": "https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 264003,
-      "name": "Cannibal Capital",
-      "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
+      "duration_ms": 272498,
+      "name": "Dance AM",
+      "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Miserable Miracles",
-        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 272498,
-      "name": "Dance AM",
-      "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu"
       },
@@ -1525,39 +1525,7 @@
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
-      "album": {
-        "name": "Everywhere I Go Is Silence",
-        "url": "https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg"
-      },
-      "artists": [
-        {
-          "name": "Box And The Twins",
-          "url": "https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "This Place Called Nowhere",
-      "url": "https://open.spotify.com/track/01qMqTMNQAqtJ8nGt9oEaq"
-    },
-    {
-      "added_at": "2022-12-20 00:37:49",
-      "album": {
-        "name": "Wait to Pleasure",
-        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
-      },
-      "artists": [
-        {
-          "name": "No Joy",
-          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
-        }
-      ],
-      "duration_ms": 206023,
-      "name": "Hare Tarot Lies",
-      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
-    },
-    {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "\ube44\ud0c0\ubbfc\uacfc \uc6b0\ub824 Vitamins and Apprehension",
         "url": "https://open.spotify.com/album/3KvDdvikW0qXKnfGYZQtXf"
@@ -1573,20 +1541,36 @@
       "url": "https://open.spotify.com/track/5h5Z6jn1hc8HTbQwTerSJn"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1"
+        "name": "Everywhere I Go Is Silence",
+        "url": "https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg"
       },
       "artists": [
         {
-          "name": "Young Prisms",
-          "url": "https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK"
+          "name": "Box And The Twins",
+          "url": "https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z"
         }
       ],
-      "duration_ms": 273533,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk"
+      "duration_ms": 280000,
+      "name": "This Place Called Nowhere",
+      "url": "https://open.spotify.com/track/01qMqTMNQAqtJ8nGt9oEaq"
+    },
+    {
+      "added_at": "2022-12-21 00:52:36",
+      "album": {
+        "name": "Wait to Pleasure",
+        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "duration_ms": 206023,
+      "name": "Hare Tarot Lies",
+      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
     },
     {
       "added_at": "2022-01-14 02:28:22",
@@ -1603,6 +1587,22 @@
       "duration_ms": 265600,
       "name": "While My Waves Wonder",
       "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1"
+      },
+      "artists": [
+        {
+          "name": "Young Prisms",
+          "url": "https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk"
     },
     {
       "added_at": "2022-12-12 18:23:41",
@@ -1669,7 +1669,7 @@
       "url": "https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj"
     },
     {
-      "added_at": "2022-12-20 00:37:49",
+      "added_at": "2022-12-21 00:52:36",
       "album": {
         "name": "SPECTRUM",
         "url": "https://open.spotify.com/album/40BU39M6MTjelshDop9fHm"
@@ -1717,6 +1717,22 @@
       "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
     },
     {
+      "added_at": "2022-04-05 16:58:56",
+      "album": {
+        "name": "New Low",
+        "url": "https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT"
+      },
+      "artists": [
+        {
+          "name": "Greet Death",
+          "url": "https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "Panic Song",
+      "url": "https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Our Goal to Realise",
@@ -1731,22 +1747,6 @@
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
-    },
-    {
-      "added_at": "2022-06-20 23:05:31",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 386604,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     }
   ],
   "unique_name": "Shoegaze Now",

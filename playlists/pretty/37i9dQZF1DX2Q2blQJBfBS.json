@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 23595,
+  "num_followers": 23912,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGE0MjZiZTU2OGQ4ODhmNjk4NWIwOGM4ZmYzYTU4ZjE5",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDkxZTRkZGVlZDdhNjFlOTZkMGMxM2YyYTE0ZGVlNmJi",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
+      },
+      "artists": [
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "I Like It (I Wanna Be Where You Are)",
+      "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -389,22 +405,6 @@
       "url": "https://open.spotify.com/track/52PgJoRz30sRQGOGqXYKdX"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "I Like It (I Wanna Be Where You Are)",
-      "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
-    },
-    {
       "added_at": "2022-10-29 04:00:00",
       "album": {
         "name": "10",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Electric Relaxation",
-      "url": "https://open.spotify.com/track/32WDVNZXIAuu7EqncTTKjH"
-    },
-    {
       "added_at": "2022-07-01 12:00:00",
       "album": {
         "name": "Uptown Saturday Night",
@@ -457,7 +441,23 @@
       "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
     },
     {
-      "added_at": "2022-12-20 00:58:08",
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Electric Relaxation",
+      "url": "https://open.spotify.com/track/32WDVNZXIAuu7EqncTTKjH"
+    },
+    {
+      "added_at": "2022-12-21 00:56:44",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/2csZLnXBMuw6ETZuRxdUZF"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 270653,
+      "name": "Paris, Tokyo",
+      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
+    },
+    {
       "added_at": "2022-08-12 12:00:00",
       "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
@@ -703,22 +719,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Lupe Fiasco's The Cool",
-        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Paris, Tokyo",
-      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -969,26 +969,6 @@
       "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
-      "added_at": "2022-12-20 00:58:08",
-      "album": {
-        "name": "Narcan",
-        "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
-      },
-      "artists": [
-        {
-          "name": "Rasheed Chappell",
-          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
-        },
-        {
-          "name": "Little Vic",
-          "url": "https://open.spotify.com/artist/6SXvUYTC88Qb6JqQY1Cc2c"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Narcan",
-      "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Liquid Swords",
@@ -1017,6 +997,42 @@
       "url": "https://open.spotify.com/track/6NTceGKsDLTYehlyRbYp6O"
     },
     {
+      "added_at": "2022-12-21 00:56:44",
+      "album": {
+        "name": "Narcan",
+        "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
+      },
+      "artists": [
+        {
+          "name": "Rasheed Chappell",
+          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
+        },
+        {
+          "name": "Little Vic",
+          "url": "https://open.spotify.com/artist/6SXvUYTC88Qb6JqQY1Cc2c"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Narcan",
+      "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
+    },
+    {
+      "added_at": "2022-09-30 04:10:30",
+      "album": {
+        "name": "KISS THE RING",
+        "url": "https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg"
+      },
+      "artists": [
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "duration_ms": 205316,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
+    },
+    {
       "added_at": "2022-08-19 19:38:15",
       "album": {
         "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
@@ -1035,22 +1051,6 @@
       "duration_ms": 214946,
       "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
       "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
-    },
-    {
-      "added_at": "2022-09-30 04:10:30",
-      "album": {
-        "name": "KISS THE RING",
-        "url": "https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg"
-      },
-      "artists": [
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        }
-      ],
-      "duration_ms": 205316,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
-      "added_at": "2022-12-20 00:58:08",
+      "added_at": "2022-12-21 00:56:44",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "When Rappers Attack",
-        "url": "https://open.spotify.com/album/5JlBzh8mNPpjSZYkcofV4a"
-      },
-      "artists": [
-        {
-          "name": "Tame One",
-          "url": "https://open.spotify.com/artist/1EoI42jrKtZiXtti5YormP"
-        }
-      ],
-      "duration_ms": 100933,
-      "name": "Slick Talkin'",
-      "url": "https://open.spotify.com/track/61asDMua0oGUCDXOhIsN0u"
-    },
-    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "Beep",
@@ -1319,6 +1303,22 @@
       "duration_ms": 171219,
       "name": "Beep",
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "When Rappers Attack",
+        "url": "https://open.spotify.com/album/5JlBzh8mNPpjSZYkcofV4a"
+      },
+      "artists": [
+        {
+          "name": "Tame One",
+          "url": "https://open.spotify.com/artist/1EoI42jrKtZiXtti5YormP"
+        }
+      ],
+      "duration_ms": 100933,
+      "name": "Slick Talkin'",
+      "url": "https://open.spotify.com/track/61asDMua0oGUCDXOhIsN0u"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
     },
     {
-      "added_at": "2022-07-08 12:00:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 3",
-        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 68830,
-      "name": "Cherry Beach",
-      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Aethiopes",
@@ -1411,6 +1395,22 @@
       "duration_ms": 143781,
       "name": "Heavy Water",
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
+    },
+    {
+      "added_at": "2022-07-08 12:00:00",
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1505,6 +1505,26 @@
       "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
+      },
+      "artists": [
+        {
+          "name": "Willie The Kid",
+          "url": "https://open.spotify.com/artist/0hZvVmOluFCV1ZjvvqtRB6"
+        },
+        {
+          "name": "V Don",
+          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
+        }
+      ],
+      "duration_ms": 107379,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
+    },
+    {
       "added_at": "2022-06-10 12:00:00",
       "album": {
         "name": "Metropolis",
@@ -1529,27 +1549,7 @@
       "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
-      },
-      "artists": [
-        {
-          "name": "Willie The Kid",
-          "url": "https://open.spotify.com/artist/0hZvVmOluFCV1ZjvvqtRB6"
-        },
-        {
-          "name": "V Don",
-          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
-        }
-      ],
-      "duration_ms": 107379,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
-    },
-    {
-      "added_at": "2022-12-20 00:58:08",
+      "added_at": "2022-12-21 00:56:44",
       "album": {
         "name": "One Man Army",
         "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
+      "added_at": "2022-12-21 00:56:44",
+      "album": {
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 153886,
+      "name": "Here's Johnny",
+      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Component System with the Auto Reverse",
@@ -1613,26 +1629,6 @@
       "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
     },
     {
-      "added_at": "2022-07-15 12:00:00",
-      "album": {
-        "name": "The Return Of Sasquatch",
-        "url": "https://open.spotify.com/album/35f2l6py8BifthBkTK2t8K"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 118126,
-      "name": "The Return Of Sasquatch",
-      "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Gravity",
@@ -1653,26 +1649,6 @@
       "url": "https://open.spotify.com/track/7eGKbOhLhUGPGOtyEgnRhc"
     },
     {
-      "added_at": "2022-10-29 04:00:00",
-      "album": {
-        "name": "Soon You'll Understand",
-        "url": "https://open.spotify.com/album/3y9LcyWa7gYevziWBx4wiu"
-      },
-      "artists": [
-        {
-          "name": "Monday Night",
-          "url": "https://open.spotify.com/artist/2McZu1EnlbfSEz7TG5jTQ3"
-        },
-        {
-          "name": "Heather Grey",
-          "url": "https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE"
-        }
-      ],
-      "duration_ms": 240501,
-      "name": "Randy Moss / Twenty-Six",
-      "url": "https://open.spotify.com/track/1fIsoghaCZ5i61AB9Lv5Is"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "To Kill A Sunrise",
@@ -1691,6 +1667,26 @@
       "duration_ms": 222439,
       "name": "The Cold",
       "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
+    },
+    {
+      "added_at": "2022-10-29 04:00:00",
+      "album": {
+        "name": "Soon You'll Understand",
+        "url": "https://open.spotify.com/album/3y9LcyWa7gYevziWBx4wiu"
+      },
+      "artists": [
+        {
+          "name": "Monday Night",
+          "url": "https://open.spotify.com/artist/2McZu1EnlbfSEz7TG5jTQ3"
+        },
+        {
+          "name": "Heather Grey",
+          "url": "https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE"
+        }
+      ],
+      "duration_ms": 240501,
+      "name": "Randy Moss / Twenty-Six",
+      "url": "https://open.spotify.com/track/1fIsoghaCZ5i61AB9Lv5Is"
     },
     {
       "added_at": "2022-07-29 12:00:00",
@@ -1765,20 +1761,24 @@
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
-      "added_at": "2022-10-29 04:00:00",
+      "added_at": "2022-07-15 12:00:00",
       "album": {
-        "name": "The Yodfather",
-        "url": "https://open.spotify.com/album/4E3NYgEdGGqHXcV1z4ZUjo"
+        "name": "The Return Of Sasquatch",
+        "url": "https://open.spotify.com/album/35f2l6py8BifthBkTK2t8K"
       },
       "artists": [
         {
           "name": "Your Old Droog",
           "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         }
       ],
-      "duration_ms": 170872,
-      "name": "90 From The Line, Pt. 3",
-      "url": "https://open.spotify.com/track/3Ngt4ShOQ02FC0MvsfDfFK"
+      "duration_ms": 118126,
+      "name": "The Return Of Sasquatch",
+      "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
       "added_at": "2022-05-20 12:00:00",
@@ -1845,7 +1845,7 @@
       "url": "https://open.spotify.com/track/3Km9evmYEbOWSoAviuhJNA"
     },
     {
-      "added_at": "2022-12-20 00:58:08",
+      "added_at": "2022-12-21 00:56:44",
       "album": {
         "name": "Deutsche Marks 3",
         "url": "https://open.spotify.com/album/7k9IS4gC6f5ERorZ8eScJu"
@@ -1863,38 +1863,6 @@
       "duration_ms": 198783,
       "name": "Triple Double",
       "url": "https://open.spotify.com/track/6z6yb0LVcMSuHXS0oCpUvx"
-    },
-    {
-      "added_at": "2022-12-20 00:58:08",
-      "album": {
-        "name": "MONTARA",
-        "url": "https://open.spotify.com/album/2Nl3fjllNCG3uPZrMBW4yU"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        }
-      ],
-      "duration_ms": 135870,
-      "name": "MONTARA",
-      "url": "https://open.spotify.com/track/43qEaP04zQe12Ch7PkXvUR"
-    },
-    {
-      "added_at": "2022-12-20 00:58:08",
-      "album": {
-        "name": "YOD Presents: The Shining",
-        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Here's Johnny",
-      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1923,6 +1891,22 @@
     {
       "added_at": "2022-10-29 04:00:00",
       "album": {
+        "name": "The Yodfather",
+        "url": "https://open.spotify.com/album/4E3NYgEdGGqHXcV1z4ZUjo"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 170872,
+      "name": "90 From The Line, Pt. 3",
+      "url": "https://open.spotify.com/track/3Ngt4ShOQ02FC0MvsfDfFK"
+    },
+    {
+      "added_at": "2022-10-29 04:00:00",
+      "album": {
         "name": "Amir Divine (Damn Son Rework)",
         "url": "https://open.spotify.com/album/3SImf3Y8oGlCJNMIax4wMu"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 123000,
       "name": "Amir Divine - Damn Son Rework",
       "url": "https://open.spotify.com/track/1cpZ8qDrMA4qWqCOPw5xcU"
+    },
+    {
+      "added_at": "2022-12-21 00:56:44",
+      "album": {
+        "name": "MONTARA",
+        "url": "https://open.spotify.com/album/2Nl3fjllNCG3uPZrMBW4yU"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "duration_ms": 135870,
+      "name": "MONTARA",
+      "url": "https://open.spotify.com/track/43qEaP04zQe12Ch7PkXvUR"
     },
     {
       "added_at": "2022-05-10 19:26:35",

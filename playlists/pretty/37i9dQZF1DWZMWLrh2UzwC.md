@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Yung Raja
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,099 likes - 73 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,100 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 64 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 |
 | 65 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 |
 | 66 | [loving u is a sin](https://open.spotify.com/track/3haoWZlbnaggz6YoCJrY9e) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [loving u is a sin](https://open.spotify.com/album/40cqrsaOT5pFmMW8rI4krz) | 2:59 |
-| 67 | [Moonlight](https://open.spotify.com/track/3fsysiUDYIZLuZPX7ewMMa) | [Tiara Eve](https://open.spotify.com/artist/3kio6eSaWyIYN9oUvQy6ij), [Sistine](https://open.spotify.com/artist/3jgmja08ynVzyDZXM3R68A) | [Moonlight](https://open.spotify.com/album/4ed7He2rKb6FkhuKp54kVm) | 3:36 |
+| 67 | [Moonlight](https://open.spotify.com/track/3fsysiUDYIZLuZPX7ewMMa) | [Tiara Eve](https://open.spotify.com/artist/3kio6eSaWyIYN9oUvQy6ij), [Sistine](https://open.spotify.com/artist/5ilVkrQdSdHHhss0NApuy6) | [Moonlight](https://open.spotify.com/album/4ed7He2rKb6FkhuKp54kVm) | 3:36 |
 | 68 | [forever etc.](https://open.spotify.com/track/7hFKcpYPDLZkIFsHmcJsfw) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j) | [U.R.L](https://open.spotify.com/album/4a8F2FLbcBXu4URHFfNqd8) | 2:45 |
 | 69 | [We'll remain a novel](https://open.spotify.com/track/6wm9C6RDGE3JoHZJTnB0Pv) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [We'll remain a novel](https://open.spotify.com/album/5h8k1Glt3vRzp1ELV08i42) | 4:34 |
 | 70 | [Love](https://open.spotify.com/track/1jHBDv0BfjsL89RrTcM0qZ) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Love This Side of Me \- EP](https://open.spotify.com/album/3WDwV2pzR5ztznUh2whBW2) | 3:34 |

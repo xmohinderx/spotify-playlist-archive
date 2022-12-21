@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,506 likes - 181 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,632 likes - 181 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 41 | [Fading Memories](https://open.spotify.com/track/2vj3EDcN6kanqFHzTfnNWH) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Fading Memories](https://open.spotify.com/album/41HNfLXPpmsOm4UtUxi7pV) | 2:46 |
 | 42 | [Beyond Our Walls \- Original Studio Version](https://open.spotify.com/track/0FyNIWrcV08RFgRLuoHtd5) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Beyond Our Walls \(Original Studio Version\)](https://open.spotify.com/album/19JVqi1U0tdaeV93daaEGJ) | 2:21 |
 | 43 | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/track/3wbUNzYewaXXPMqeKZvl8I) | [Aramis Silvereke](https://open.spotify.com/artist/11efnmWuN6PImMPmQjAfKq) | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/album/0ZwZThQ3XiWXWNw8xF06hF) | 4:00 |
-| 44 | [Sanne](https://open.spotify.com/track/5wen1tv3qCLW7ERokutMhG) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Sanne](https://open.spotify.com/album/1fLzfHGGCOoYiU3fFsVEZq) | 2:16 |
+| 44 | [Sanne](https://open.spotify.com/track/2poZ7JyF7ain5odsHddQ8T) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Aparigraha](https://open.spotify.com/album/272vdjKU9Wz68K6SMHtiiy) | 2:16 |
 | 45 | [La Belle Époque](https://open.spotify.com/track/3neszfVeLbV5zJmAABsWs0) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Retrato](https://open.spotify.com/album/3hQ5BEiTYPxDUM2en5mxXV) | 3:08 |
 | 46 | [Berceuse Lunaire](https://open.spotify.com/track/0u7orD5v4Yrw6NwaWdBh5Q) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/0oe2Iw47umB4rnfgeiAhrB) | 2:53 |
 | 47 | [Rosa Luxemburgo](https://open.spotify.com/track/3DSLUfpT5GcCoNin7XkUK0) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Rosa Luxemburgo](https://open.spotify.com/album/6rGf3FOvvgBG3JOxkNnj4t) | 2:36 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 180 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 |
 | 181 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 |
 
-Snapshot ID: `MTY2Njc3NDU0MywwMDAwMDAwMDgxMTU3NGI4MWY1YWYxNjdmMzU0MjE3ZDllN2U5YzY5`
+Snapshot ID: `MTY2Njc3NDU0MywwMDAwMDAwMDViODY3MTg1ODBhN2Q2OGZiYTc5ZTAyMzM5NjMwOWVl`

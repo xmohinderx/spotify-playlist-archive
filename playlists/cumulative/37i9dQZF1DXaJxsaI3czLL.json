@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 278331,
       "name": "astronaut",
       "url": "https://open.spotify.com/track/7MyaO0sCEPGYAugCbltZsr"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 199113,
       "name": "CAREFREE",
       "url": "https://open.spotify.com/track/6RyqEix17XNNzdvhU8FrFK"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 382733,
       "name": "cast a spell on her",
       "url": "https://open.spotify.com/track/63Gc02okIgL5XTbEiP4SpQ"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 132000,
       "name": "Earth: my Home Planet",
       "url": "https://open.spotify.com/track/5jrasBBRelZu8W51HHYWSx"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 185133,
       "name": "Sashiiro",
       "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "\u3064\u3050\u307f",
       "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
@@ -1964,6 +1964,24 @@
     },
     {
       "album": {
+        "name": "\u661f\u7a7a\u306e\u30af\u30ea\u30b9\u30de\u30b9",
+        "url": "https://open.spotify.com/album/0EAps7DuInxzcYl3oGRDgY"
+      },
+      "artists": [
+        {
+          "name": "Akane Irihi",
+          "url": "https://open.spotify.com/artist/2N0lFQ7S1GpMvmTxamY0Ww"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248070,
+      "name": "\u661f\u7a7a\u306e\u30af\u30ea\u30b9\u30de\u30b9",
+      "url": "https://open.spotify.com/track/6Ma1w1UOKocjW1qDiDZfMk"
+    },
+    {
+      "album": {
         "name": "\u6642\u8a08\u306f\u7720\u3044",
         "url": "https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB"
       },
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 268173,
       "name": "\u6642\u8a08\u306f\u7720\u3044",
       "url": "https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 301693,
       "name": "\u8857\u8def\u6a39",
       "url": "https://open.spotify.com/track/1LvQW7xwIYdH2eCH028AGn"

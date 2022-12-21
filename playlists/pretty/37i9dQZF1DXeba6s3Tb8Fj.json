@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 5480,
+  "num_followers": 5491,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDg5OGQzYzhjODBkYjE3YjBiMTQ3MjJlY2VhYmYwZjBl",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGM2MDkxYWUxMjk1NmMwYzBhMDAwMmE3MWU5NDg4MTk3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -587,22 +587,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Kulanjan",
-        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
+        "name": "Temet",
+        "url": "https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
-        },
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Mississippi-Mali Blues",
-      "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
+      "duration_ms": 252493,
+      "name": "Tamudre",
+      "url": "https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,18 +639,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Temet",
-        "url": "https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq"
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
       "artists": [
         {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 252493,
-      "name": "Tamudre",
-      "url": "https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q"
+      "duration_ms": 197960,
+      "name": "Mississippi-Mali Blues",
+      "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -45,6 +45,28 @@
     {
       "album": {
         "name": "Bach: Well Tempered Clavier (Books I & II, Complete)",
+        "url": "https://open.spotify.com/album/2hYizcKgB3qoyTbxqkIB1A"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "Book I: Prelude and Fugue No. 1 in C Major BWV 846",
+      "url": "https://open.spotify.com/track/4DhsyDcXQvtbSwqrvNtk47"
+    },
+    {
+      "album": {
+        "name": "Bach: Well Tempered Clavier (Books I & II, Complete)",
         "url": "https://open.spotify.com/album/4OsweMAATSbKd9awYvOEEj"
       },
       "artists": [
@@ -81,7 +103,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 155213,
       "name": "Book I: Prelude and Fugue No. 1 in C Major BWV 846: II. Fugue",
       "url": "https://open.spotify.com/track/7zHvJKdxDHeTfOnUGgwBJR"

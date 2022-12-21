@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,482 likes - 87 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,218 likes - 87 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 4 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
 | 5 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 |
 | 6 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
-| 7 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
+| 7 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
 | 8 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 |
 | 9 | [Eye Spy](https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Eye Spy](https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB) | 2:26 |
 | 10 | [MYLAR](https://open.spotify.com/track/3Qw7LPrzt23bdQXMsguiyb) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MYLAR](https://open.spotify.com/album/4Dv0bJQKXIOwcV30jhuNCc) | 2:52 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 12 | [GR1MREAPER](https://open.spotify.com/track/0juFSiUkyc2KmV1HhpsOGN) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Luga](https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz), [SUPAVIZOR](https://open.spotify.com/artist/5bqZQouZMITNQpaJsKqhsK) | [DYSMORPHIA](https://open.spotify.com/album/2BBICmkdAFWm0V8sJloZjF) | 1:25 |
 | 13 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 |
 | 14 | [from hell, with love](https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [from hell, with love](https://open.spotify.com/album/5Z1wCaNwpco3vL0q42r1ph) | 1:49 |
-| 15 | [GODZILLA!](https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [GODZILLA!](https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB) | 2:47 |
+| 15 | [GODZILLA!](https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [GODZILLA!](https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB) | 2:47 |
 | 16 | [Shut It](https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Homesick](https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l) | 2:21 |
 | 17 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 |
 | 18 | [MONOCHROME](https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MONOCHROME](https://open.spotify.com/album/1VdHzzopSxbS83ttJ3hIRg) | 2:19 |

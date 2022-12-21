@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 196536,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
@@ -2853,6 +2853,28 @@
       "duration_ms": 190116,
       "name": "Untitled (You Ain't Gotta)",
       "url": "https://open.spotify.com/track/1yluFW6kHw3r8Xk1g7uP2m"
+    },
+    {
+      "album": {
+        "name": "Way That We Feel",
+        "url": "https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG"
+      },
+      "artists": [
+        {
+          "name": "TOI",
+          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
+        },
+        {
+          "name": "Zoe Moon",
+          "url": "https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190469,
+      "name": "Way That We Feel",
+      "url": "https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp"
     },
     {
       "album": {

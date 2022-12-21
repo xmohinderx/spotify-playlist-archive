@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "...Yes, Please!",
+        "url": "https://open.spotify.com/album/7bY9FdUPAsuwPF4ix8ueKt"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419160,
+      "name": "Blues Force",
+      "url": "https://open.spotify.com/track/2zuIf7x32FXaxnKaa5hBSo"
+    },
+    {
+      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/2LQC92IPJ9amNY40rdKj5E"
       },
@@ -591,6 +609,24 @@
       "duration_ms": 266756,
       "name": "Glory Be",
       "url": "https://open.spotify.com/track/25H4Ux5UrzQz2LEqtGq5C6"
+    },
+    {
+      "album": {
+        "name": "God Must Be A Woman",
+        "url": "https://open.spotify.com/album/0p4yKiJbsX1lryWlCwItt7"
+      },
+      "artists": [
+        {
+          "name": "Ray James",
+          "url": "https://open.spotify.com/artist/7K70WLaQVQLFKCuFYRsFTZ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "God Must Be A Woman",
+      "url": "https://open.spotify.com/track/4plzwfwY5LHyMhrQTm0qvG"
     },
     {
       "album": {

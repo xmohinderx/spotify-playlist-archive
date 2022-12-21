@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 169347,
       "name": "DOSOKAI",
       "url": "https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 140873,
       "name": "Forgery",
       "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
@@ -1625,6 +1625,32 @@
       "duration_ms": 211232,
       "name": "INAZMA",
       "url": "https://open.spotify.com/track/3POLsjox8STfaKN7p1no44"
+    },
+    {
+      "album": {
+        "name": "infinite",
+        "url": "https://open.spotify.com/album/7mu30DLJheyS31WvgkxyMJ"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u7a7a\u97f3",
+          "url": "https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU"
+        },
+        {
+          "name": "meiyo",
+          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156766,
+      "name": "infinite",
+      "url": "https://open.spotify.com/track/4ydXZZ1E7YybDo7rP64Gp3"
     },
     {
       "album": {
@@ -2325,7 +2351,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 125771,
       "name": "PAKU",
       "url": "https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV"
@@ -5530,6 +5556,24 @@
     },
     {
       "album": {
+        "name": "\u30bd\u30ef\u30ec",
+        "url": "https://open.spotify.com/album/7mLp1yLUJdrWyHWmvCTUCz"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228409,
+      "name": "\u30bd\u30ef\u30ec",
+      "url": "https://open.spotify.com/track/7dbAKZNlWhIdmmINkHeKL7"
+    },
+    {
+      "album": {
         "name": "\u30bd\u30fc\u30a4\u30f3\u30b0\u30dc\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH"
       },
@@ -6541,7 +6585,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 249273,
       "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
@@ -8615,7 +8659,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 175129,
       "name": "\u672a\u5b8c\u6210\u30ec\u30be\u30ca\u30f3\u30b9",
       "url": "https://open.spotify.com/track/2xp8nv9MiUCQWSaA4HvnfV"
@@ -9547,6 +9591,24 @@
       "duration_ms": 214412,
       "name": "\u7a7a\u5ba4",
       "url": "https://open.spotify.com/track/5mDt4FsNI4FtRI5ZBqhgvi"
+    },
+    {
+      "album": {
+        "name": "\u7a7a\u6d1e\u30b5\u30a4\u30dc\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/4CshPlm8d2bqFetd98dfSQ"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u8c37\u5fd7\u9f8d",
+          "url": "https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "\u7a7a\u6d1e\u30b5\u30a4\u30dc\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/1AItWfHcNkmXpvTgxt33xp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-906 songs - 2 day 1 hr 41 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
+907 songs - 2 day 1 hr 45 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 | 2022-04-22 |  |
 | [Kingdom](https://open.spotify.com/track/7mYp88qI0fTKLWr93vHTJM) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Kingdom](https://open.spotify.com/album/7vYDaAmX76hkgdwuWyGga2) | 4:00 | 2020-09-21\* | 2021-02-20 |
 | [Kingdoms](https://open.spotify.com/track/1w7AnnTldbh47eNFwReiIn) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Kingdoms](https://open.spotify.com/album/5Mx2xEa6vEKmAhOqe1ixQY) | 2:23 | 2020-12-18 | 2021-08-07 |
-| [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 | 2022-10-14 |  |
+| [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 | 2022-10-14 | 2022-12-21 |
 | [KNAS \- BROHUG Remix](https://open.spotify.com/track/0PJ4RVL5wCeHDO8wHpk3YG) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [KNAS \(BROHUG Remix\)](https://open.spotify.com/album/4G4BYaen6CzVkKw16JKLPv) | 3:21 | 2020-09-21\* | 2021-01-23 |
 | [Knight Rider](https://open.spotify.com/track/388Qk5MTCyVQ6eYlX4UF8o) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [Knight Rider](https://open.spotify.com/album/6TksuFPj9HdewLS6Z3hYm5) | 2:37 | 2022-04-15 | 2022-04-21 |
 | [Know You](https://open.spotify.com/track/21AwRXJcrb0rq0SaCnzk01) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh) | [Know You](https://open.spotify.com/album/2u4MSSmix7IGd2wpBt6Sea) | 2:33 | 2020-09-21\* | 2021-01-05 |
@@ -405,6 +405,7 @@
 | [Known You Before \(with Emilie Brandt\)](https://open.spotify.com/track/46EA3tB2G4GrOMhDie094Q) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Emilie Brandt](https://open.spotify.com/artist/5ooIuCvSBl6Eo4cHixvB7x) | [Known You Before \(with Emilie Brandt\)](https://open.spotify.com/album/26xtoxHhaAn3Y3mZ1kvE9V) | 3:39 | 2020-09-21\* | 2021-02-20 |
 | [Kong](https://open.spotify.com/track/4GTZNsnEwRCG2l0H2nTKiA) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Kong](https://open.spotify.com/album/3bBQi7fx59FjnpFBWOxgPq) | 2:13 | 2021-08-14 | 2022-01-29 |
 | [L.E.D\. There Be Light \- Cosmic Gate Remix](https://open.spotify.com/track/5A46DyoGOI7pSMIIZgelu4) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [20 Years \[Forward Ever Backward Never\]](https://open.spotify.com/album/6d4PJ6qE1Gv96huFCVQiEQ) | 3:30 | 2020-09-21\* | 2021-01-23 |
+| [La Danse](https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [La Danse](https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl) | 4:08 | 2022-12-16 |  |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-07-15 |  |
 | [Learn To Love Again](https://open.spotify.com/track/4548LyFomXQmDAINcFizEq) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Learn To Love Again](https://open.spotify.com/album/442Ed4spkcuDL5gSFPwAjY) | 3:44 | 2021-05-15 | 2021-09-18 |
 | [Leave A Little Love](https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/6XLHU3z6eInpudfIe5rq0r) | 3:07 | 2021-03-11 | 2022-03-12 |

@@ -3561,10 +3561,6 @@
       },
       "artists": [
         {
-          "name": "The\u00f8",
-          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
-        },
-        {
           "name": "Plant",
           "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
         },
@@ -3573,12 +3569,16 @@
           "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
         },
         {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
         },
         {
           "name": "LA SAD",
           "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
       "date_added": "2022-12-15",

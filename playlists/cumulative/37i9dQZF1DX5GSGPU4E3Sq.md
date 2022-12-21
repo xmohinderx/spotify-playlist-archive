@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-268 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+269 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Midsummer Nice Dream](https://open.spotify.com/track/2ZqiNwcrUc4Qzlid5DpETd) | [Ochre](https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts) | [A Midsummer Nice Dream \(15th Anniversary Edition\)](https://open.spotify.com/album/0T1A50uIBACNBnmIj57HrU) | 2:55 | 2022-06-29 | 2022-07-28 |
 | [A New Day](https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [A New Day](https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M) | 2:58 | 2022-06-29 |  |
 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/1yON8AeGECjNVsxBH7QEzs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/18PagmMWN9250w8cED8U8f) | 2:42 | 2022-06-29 | 2022-07-29 |
-| [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 | 2022-07-19 |  |
+| [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 | 2022-07-19 | 2022-12-21 |
 | [A State of Serenity](https://open.spotify.com/track/176IOSw9ni8nujE5dohokG) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/57igbGHTL6IlAtYAbN15PV) | 2:18 | 2022-07-19 |  |
 | [A State of Serenity](https://open.spotify.com/track/2X5ft2Wr7rKNWOIq95r4jN) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/4cRhOKD4JYSYT3m6rCoadt) | 2:18 | 2022-06-29 | 2022-07-29 |
 | [A3](https://open.spotify.com/track/1Jcqa7zjW20XYBw5MqUli1) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [A3](https://open.spotify.com/album/2B0YCjyV5FA8oaFea1Gvg3) | 3:02 | 2022-07-19 |  |
@@ -99,7 +99,7 @@
 | [Floating](https://open.spotify.com/track/4wf5xK49EYGX9kHpT91XRH) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Floating](https://open.spotify.com/album/0V8NEzImXsmnlvgnDxzrl5) | 2:22 | 2022-06-29 | 2022-09-11 |
 | [Flow](https://open.spotify.com/track/0w4EJf5MuynrRUMiMHzCIz) | [Holistic Dreams](https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ) | [Flow](https://open.spotify.com/album/6TLIpKF6SGGG9mngKiNUAj) | 2:13 | 2022-06-29 | 2022-07-29 |
 | [Flow](https://open.spotify.com/track/3WbrNlrGx3Bs6HbsmVJ4MI) | [Holistic Dreams](https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ) | [Flow](https://open.spotify.com/album/59LxOeTJCyX3tIrrpWjH2Q) | 2:13 | 2022-07-19 | 2022-07-30 |
-| [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-13 |  |
+| [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [For All Eternity](https://open.spotify.com/track/1WwnmxDezAigrQlteH8xDT) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [For All Eternity](https://open.spotify.com/album/4SpmkLsv6p8JG8Gwub4quJ) | 2:58 | 2022-06-29 | 2022-07-29 |
 | [Forest Hymn](https://open.spotify.com/track/1mdSp7m71uz8wi3o4y9HIu) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Moments in Golden Light](https://open.spotify.com/album/3GRbvsjOmWtfdngQBTf4a1) | 6:18 | 2022-06-29 |  |
 | [Four](https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 7:00 | 2022-07-19 |  |
@@ -215,6 +215,7 @@
 | [Silviculture](https://open.spotify.com/track/5gPJUTZ50tXhTc7AciCS4i) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/0j150j8xYS3EK49gxR1Xj5) | 2:02 | 2022-06-29 | 2022-07-29 |
 | [Silviculture](https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B) | 2:02 | 2022-07-19 |  |
 | [Singing birds of the forest, in the background the woodpecker tapping](https://open.spotify.com/track/3jzeyOClxpZLm6n35AEGIZ) | [Letnie Glosy Ptakow](https://open.spotify.com/artist/6qWRwuEnZK78sityDgR91Y) | [Summertime Bird Songs & Bird Calls](https://open.spotify.com/album/4LQaTjIvbPuccgIVqxCHme) | 3:51 | 2022-06-29 |  |
+| [Sinharaja Rain Forest](https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY) | 2:09 | 2022-11-11 |  |
 | [Sinharaja Rain Forest](https://open.spotify.com/track/7gqMUXQ0Lo33WwUdSv8c2L) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/5uofsTBl7a60q0yHg64DiR) | 2:09 | 2022-06-29 | 2022-07-29 |
 | [Siren's Whisper](https://open.spotify.com/track/2TduwqKH9OdGIGLNFGm9fG) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [Seabed](https://open.spotify.com/album/3Dy9SrqQmXpPqZUGOnhfEm) | 4:43 | 2022-06-29 |  |
 | [Sky Could Undress \- Jefre Cantu\-Ledesma](https://open.spotify.com/track/0toXeJz73Lzf2PFiygwANI) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Clear Language: Reworked](https://open.spotify.com/album/5TjXgUYLsml3d8DX3QhlD6) | 7:01 | 2022-07-19 | 2022-07-26 |
@@ -237,7 +238,7 @@
 | [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 | 2022-11-13 |
 | [Sunrise.](https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/4OkpHMa6TXAV8iZPDpBPah) | 2:58 | 2022-07-19 |  |
 | [Sunrise.](https://open.spotify.com/track/6kv7h8wQzFq9gJDkR8AR24) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/26vgL2Xkr7FyYAe57aCWR4) | 2:58 | 2022-06-29 | 2022-07-29 |
-| [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-14 |  |
+| [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-11 |  |
 | [Sweet Iris](https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt) | [Lukkii and The Whale](https://open.spotify.com/artist/4UeyQjMmoBKj8AhXpDAiwj) | [Pink Lotus](https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP) | 3:36 | 2022-06-29 |  |
 | [Synecdoche](https://open.spotify.com/track/5SQP5YvLw6zUx9unLdgi3L) | [Anton Belov](https://open.spotify.com/artist/2zzIRgAwjF8dskcUr3hgfz) | [Synecdoche](https://open.spotify.com/album/1hih6eWMwMrT4rawDvUSp4) | 6:06 | 2022-06-29 | 2022-07-29 |
 | [Synecdoche](https://open.spotify.com/track/7AkwuKuX5e7SMpNTKQYToD) | [Anton Belov](https://open.spotify.com/artist/2zzIRgAwjF8dskcUr3hgfz) | [Piano Works I](https://open.spotify.com/album/6oVDzb2GGAlm18hil5hWqn) | 6:06 | 2022-07-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 52184,
+  "num_followers": 52305,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMDQwMTEyNjE4NTdlNzlkOWQ3YThjY2NhMmVhZDc3Y2Qz",
+  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMDc5YWE4NzQxZmZmMDg5ZDE1YmVjMTY0NTE5ZjI3OThm",
   "tracks": [
     {
       "added_at": "2022-08-02 16:37:39",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "Solo Me Gustas T\u00fa",
-        "url": "https://open.spotify.com/album/3R3w9aYqqhKCkLuifBxvw6"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "Casky",
-          "url": "https://open.spotify.com/artist/6C9VbzkpOtldLCPCImRuQa"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "Solo Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/5UxLx0jK2aCcAD50Cu4dSw"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
         "name": "There's No Way (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 174860,
       "name": "There's No Way (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "Solo Me Gustas T\u00fa",
+        "url": "https://open.spotify.com/album/3R3w9aYqqhKCkLuifBxvw6"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Casky",
+          "url": "https://open.spotify.com/artist/6C9VbzkpOtldLCPCImRuQa"
+        }
+      ],
+      "duration_ms": 144624,
+      "name": "Solo Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/5UxLx0jK2aCcAD50Cu4dSw"
     },
     {
       "added_at": "2022-08-02 16:37:39",

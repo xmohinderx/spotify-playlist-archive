@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25193,
+  "num_followers": 25196,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDlmNTI1YmY1MGE2Y2Y1YjJmMTY5ODQyMTZlNWU2YTI0",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDRjZTc4MmNjOGY2NmQxODEyN2MxM2RiNzk4MmVkM2Nl",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "Lavez, lavez",
-      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 244933,
       "name": "La berceuse du petit diable",
       "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "Lavez, lavez",
+      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
     },
     {
       "added_at": "2020-04-07 15:18:18",

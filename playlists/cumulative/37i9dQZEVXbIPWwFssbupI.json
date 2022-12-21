@@ -2677,7 +2677,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/7edvQQI4OxF0qbqWNmoHJn"
@@ -3729,7 +3729,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 185883,
       "name": "Cartier Panth\u00e8re",
       "url": "https://open.spotify.com/track/39u64b5XPIpyHn2CP1PJq4"
@@ -8921,7 +8921,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 175047,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/5uiQynC3Gq7tR7U41BONTF"
@@ -11063,7 +11063,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -12722,6 +12722,24 @@
     },
     {
       "album": {
+        "name": "Ma Came",
+        "url": "https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm"
+      },
+      "artists": [
+        {
+          "name": "Dertay",
+          "url": "https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Ma Came",
+      "url": "https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI"
+    },
+    {
+      "album": {
         "name": "Ma Casio",
         "url": "https://open.spotify.com/album/3Z7AXQHiAlCHBa1HFf9yW9"
       },
@@ -12805,7 +12823,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 76525,
       "name": "MaDrug",
       "url": "https://open.spotify.com/track/6Mxsg88vEWwurUPjVtpRyQ"
@@ -16921,7 +16939,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 235555,
       "name": "Ramenez la coupe \u00e0 la maison",
       "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
@@ -18445,7 +18463,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 217413,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw"

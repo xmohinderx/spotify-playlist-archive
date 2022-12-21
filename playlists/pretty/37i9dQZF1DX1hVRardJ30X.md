@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Quevedo & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,712 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,906 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 |
 | 22 | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/track/2vkP9YxIShIv2BnpxWeK09) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/album/5ICLoIxxGde3n3lvyAqoQx) | 3:19 |
 | 23 | [Embustera](https://open.spotify.com/track/4dxCMeCpKu8B7xhe8A0S2l) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [DRAFTED](https://open.spotify.com/album/57XVF8Pi8q8LOmEHGZcPXR) | 3:18 |
-| 24 | [Más \(feat\. Spencer Ludwig\)](https://open.spotify.com/track/377mObzoylGLn4VhaYlLwl) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Más \(feat\. Spencer Ludwig\)](https://open.spotify.com/album/2zlvWU5qmu9iyhWBcaQa6y) | 2:44 |
+| 24 | [Más](https://open.spotify.com/track/377mObzoylGLn4VhaYlLwl) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Más](https://open.spotify.com/album/2zlvWU5qmu9iyhWBcaQa6y) | 2:44 |
 | 25 | [IDK Y](https://open.spotify.com/track/5mz9ccLx1kUEiUeGqULgkG) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [IDK Y](https://open.spotify.com/album/4caBV0z6cphDZ7HyRYSMq6) | 2:41 |
 | 26 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 |
 | 27 | [Diamante](https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [El mundo no se hizo en dos días](https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP) | 4:05 |

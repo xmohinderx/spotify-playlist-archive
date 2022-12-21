@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4566,
+  "num_followers": 4572,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDEzMzc4NjhhZjU1NDdlNzQ0MzM3NjM3MTY1YTJkZTQx",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDRjMTMwMTE0NmMxM2M3MDVjN2YwNzAyYTc0OGYxYmM4",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -59,22 +59,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Vega [Street Fighter II]",
-        "url": "https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv"
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
       },
       "artists": [
         {
           "name": "Mariachi Entertainment System",
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
-        },
-        {
-          "name": "The OneUps",
-          "url": "https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp"
         }
       ],
-      "duration_ms": 159138,
-      "name": "Vega [Street Fighter II]",
-      "url": "https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV"
+      "duration_ms": 140250,
+      "name": "Dragon Roost Island (from \"The Legend of Zelda: Wind Waker\")",
+      "url": "https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -143,18 +139,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+        "name": "Vega [Street Fighter II]",
+        "url": "https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv"
       },
       "artists": [
         {
           "name": "Mariachi Entertainment System",
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+        },
+        {
+          "name": "The OneUps",
+          "url": "https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp"
         }
       ],
-      "duration_ms": 140250,
-      "name": "Dragon Roost Island (from \"The Legend of Zelda: Wind Waker\")",
-      "url": "https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5"
+      "duration_ms": 159138,
+      "name": "Vega [Street Fighter II]",
+      "url": "https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 268203,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/7pE8VRAZfWCwiQhRf2NXuX"
+      "duration_ms": 235766,
+      "name": "Livin' On a Prayer",
+      "url": "https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 235766,
-      "name": "Livin' On a Prayer",
-      "url": "https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p"
+      "duration_ms": 268203,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/7pE8VRAZfWCwiQhRf2NXuX"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb"
-      },
-      "artists": [
-        {
-          "name": "Metalachi",
-          "url": "https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6"
-        }
-      ],
-      "duration_ms": 265032,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Sonidos de Jalisco, Vol. 3",
         "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 238160,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/1qvshK9S8bSNnsHxDhYhiJ"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb"
+      },
+      "artists": [
+        {
+          "name": "Metalachi",
+          "url": "https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6"
+        }
+      ],
+      "duration_ms": 265032,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7"
     }
   ],
   "unique_name": "Mariachi Covers",

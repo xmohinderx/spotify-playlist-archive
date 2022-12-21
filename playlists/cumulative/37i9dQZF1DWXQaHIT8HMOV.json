@@ -466,6 +466,28 @@
     },
     {
       "album": {
+        "name": "Clock",
+        "url": "https://open.spotify.com/album/2M1ox2H825rpzaOovVvGLd"
+      },
+      "artists": [
+        {
+          "name": "Mark Stel",
+          "url": "https://open.spotify.com/artist/1UdEDQFkWIBAfTgJVPAx1U"
+        },
+        {
+          "name": "ALLAN TONIKS",
+          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Clock",
+      "url": "https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL"
+    },
+    {
+      "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
       },
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 190515,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"

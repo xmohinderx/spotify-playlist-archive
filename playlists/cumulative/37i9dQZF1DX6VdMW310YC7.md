@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,381 songs - 3 day 23 hr 39 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,382 songs - 3 day 23 hr 43 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 | 2021-03-27 | 2022-09-24 |
 | [I Wanna Know](https://open.spotify.com/track/4XgIfTSrjbyLTa71j8HRva) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [I Wanna Know](https://open.spotify.com/album/6mJWG8zHzWVAegZGOaWpto) | 3:04 | 2020-05-19 | 2020-07-03 |
 | [i want you](https://open.spotify.com/track/6lzhQZlu2c0CZ947BmHJhP) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [CLASS XIX](https://open.spotify.com/album/59If0lqH0DczyoHVOU0Ctg) | 3:06 | 2020-03-17 | 2020-06-12 |
+| [I Want You \(feat\. Braev\)](https://open.spotify.com/track/31kN6sakkWj7SxVjm0d0gd) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. Braev\)](https://open.spotify.com/album/2PBu4Kc89jFrsNZqt4ISSx) | 4:18 | 2022-09-09 |  |
 | [I Want You \(feat\. braev\)](https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. braev\)](https://open.spotify.com/album/5tsdkY0jtsruBtZ27vVU8a) | 4:18 | 2021-02-19 | 2022-12-01 |
 | [I'll Wait](https://open.spotify.com/track/1bBglCIHeIwR78kJXJzkZo) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 3:44 | 2022-01-21 | 2022-02-12 |
 | [I'll Wait \- Le Youth Remix](https://open.spotify.com/track/3FzB5aTsvd9QcZ0MW4WOoH) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [I'll Wait \(Le Youth Remix\)](https://open.spotify.com/album/0GNd3BBHeg8urhR9vbJ9dE) | 4:56 | 2022-12-02 |  |
@@ -1309,7 +1310,7 @@
 | [Watermelon Wormhole](https://open.spotify.com/track/0kDXSB7nn4QBSdQqmEJpEm) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:53 | 2022-01-21 | 2022-02-12 |
 | [Wave \(Instrumental\)](https://open.spotify.com/track/7kjSUj8koP3ZcxRRbos65h) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/77StEacT5IhWZLdj0Rj2W2) | 4:32 | 2020-03-16 | 2021-02-19 |
 | [Waves \- OCULA Remix](https://open.spotify.com/track/3IeLJ5OLr0tCHsr7SDnfi8) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Waves](https://open.spotify.com/album/6c3NYJWidoCQL0E54YlzR1) | 4:04 | 2020-08-06 | 2020-10-09 |
-| [Way Back Home](https://open.spotify.com/track/5ORJq9RvKIVGf1pVWWTUB7) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Way Back Home](https://open.spotify.com/album/42hAGH1OZvT3hnoyiTGg8o) | 3:04 | 2021-04-03 |  |
+| [Way Back Home](https://open.spotify.com/track/5ORJq9RvKIVGf1pVWWTUB7) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Way Back Home](https://open.spotify.com/album/42hAGH1OZvT3hnoyiTGg8o) | 3:04 | 2021-04-03 | 2022-12-21 |
 | [Weight](https://open.spotify.com/track/1LLfISnjs6dYegkJGohqTm) | [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [Weight](https://open.spotify.com/album/1XYH6NoQTvzaO4ivIGzvd7) | 4:05 | 2020-05-18 | 2020-07-03 |
 | [Weightless \- jamesjamesjames Remix](https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv) | 4:09 | 2022-08-26 | 2022-09-10 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2020-03-16 | 2020-07-03 |

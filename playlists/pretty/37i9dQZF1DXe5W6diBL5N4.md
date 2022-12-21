@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: WEi\(위아이\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,108 likes - 779 songs - 1 day 21 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,242 likes - 779 songs - 1 day 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 27 | [SHuKi \(feat\. RIPLEY\)](https://open.spotify.com/track/1VvMLUT1ldjt7fbPnyOr4s) | [TYLE](https://open.spotify.com/artist/4w8HunD12TWreB1iroWj0a), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [SHuKi \(feat\. RIPLEY\)](https://open.spotify.com/album/6YnwlAwmAevA8RGq9v4Btp) | 3:38 |
 | 28 | [Crazy](https://open.spotify.com/track/2v63UGIHgOUfG1M8jwbdGE) | [PYMEL](https://open.spotify.com/artist/4lcveRjo1vlFWfvLiGIFkg) | [98%](https://open.spotify.com/album/5SoAESaH39J5Q90nIJrw1O) | 2:09 |
 | 29 | [Thank You](https://open.spotify.com/track/6FlCuZG1bp05Peno7KzYdK) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [THANK YOU](https://open.spotify.com/album/1EBJSo4XSiKOIpzfPor1T5) | 4:39 |
-| 30 | [Only if I have you](https://open.spotify.com/track/3A4Sa8vjPGVpG0YHSCrFqq) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [전생연분 OST](https://open.spotify.com/album/362clfXMZn5EiwE3M81Zeu) | 3:16 |
+| 30 | [Only if I have you](https://open.spotify.com/track/3A4Sa8vjPGVpG0YHSCrFqq) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [A Match Made in the Past OST](https://open.spotify.com/album/362clfXMZn5EiwE3M81Zeu) | 3:16 |
 | 31 | [The farewell I knew](https://open.spotify.com/track/53cDhBqIZI7a5RTCCviBta) | [Suki](https://open.spotify.com/artist/2moEpVrvwnQKjR9ZaDgbVk) | [Three Siblings Bravely \(Original Soundtrack\), Pt.6](https://open.spotify.com/album/2gNFTD8ij49IfS1rPDEMY3) | 5:04 |
 | 32 | [Happy For Love](https://open.spotify.com/track/56MoHxJvpi1XJUX4fDfOqF) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.25](https://open.spotify.com/album/1cHdaXL8j9CWm8gOpiGEIT) | 3:20 |
 | 33 | [AM I \(Feat\. Bamsem\)](https://open.spotify.com/track/0WSUMztxfiVH984Nfi7bfK) | [Red House](https://open.spotify.com/artist/4VsMli3t4LtmPPGCHcyfON), [Bamsem](https://open.spotify.com/artist/5iHMzgKZSoexGZSlY7Fext) | [Essay](https://open.spotify.com/album/4LtXrv5N0dCWZCisJjtOWI) | 3:27 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 47 | [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 |
 | 48 | [stay with me](https://open.spotify.com/track/0NmyWgwsiMHnGJuncly0ti) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [winter feels](https://open.spotify.com/album/3S5YHfIwiPCdFQc17teLWy) | 2:08 |
 | 49 | [Endless Dance](https://open.spotify.com/track/6ufG57VUdOTV9OBh7Uvs0v) | [FauloCity](https://open.spotify.com/artist/78A7VxduMrrBV0cj6ImHCU) | [Falling](https://open.spotify.com/album/0dJPpSDTcdzFcqs0tO2Nu2) | 4:58 |
-| 50 | [Fortunately, what is still](https://open.spotify.com/track/6SwdQ4lPPios6cMNsWnsXO) | [Joan](https://open.spotify.com/artist/5vkB8qjpQm7eGr5WOXTO3n) | [Fortunately, what is still](https://open.spotify.com/album/03J4FqSk8CmNJeHQfDIlfY) | 3:51 |
+| 50 | [Fortunately, what is still](https://open.spotify.com/track/6SwdQ4lPPios6cMNsWnsXO) | [Joan](https://open.spotify.com/artist/3VbcozefO25M8CPWFrP8Vg) | [Fortunately, what is still](https://open.spotify.com/album/03J4FqSk8CmNJeHQfDIlfY) | 3:51 |
 | 51 | [If I were who I am back then](https://open.spotify.com/track/2H4UCwUAWz0CC0ZMkI7Imm) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [mail box Episode\. 2](https://open.spotify.com/album/5OkE3VpUHEDkqCGMjgCqjT) | 4:46 |
 | 52 | [LIMBO \(feat\. Swervy\)](https://open.spotify.com/track/0VaMlRGroQ8RgVrQv3s8Uv) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [BOBO](https://open.spotify.com/album/4WS73BYKxWkfs30vPUhcuj) | 2:15 |
 | 53 | [Holiday \(Feat\. lIlBOI, GIRIBOY\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 4:07 |

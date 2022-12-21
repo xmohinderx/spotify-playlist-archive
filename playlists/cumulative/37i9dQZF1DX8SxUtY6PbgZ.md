@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-89 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
+91 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Candles](https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 2:28 | 2022-05-27 |  |
 | [Candles](https://open.spotify.com/track/5aHfJAmeXgew9u2e6up7R0) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Klassik Lounge Nightflight, Vol\. 5 \(Compiled by DJ Nartak\)](https://open.spotify.com/album/6vWwEEDdXop4jJweDiBKMQ) | 2:28 | 2022-10-04 | 2022-11-13 |
 | [Candles](https://open.spotify.com/track/7aS8e5XKVWDcbyn06mF9fz) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uMFg3hvo58SMkVlU1uhKJ) | 2:28 | 2022-05-27 | 2022-07-29 |
+| [Clouds Appear](https://open.spotify.com/track/2DiEIYrtTyeQBnmLVJkYc2) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 2:47 | 2022-12-20 |  |
 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 | 2022-05-27 |  |
 | [Dark Materials](https://open.spotify.com/track/1PqBbPkPnR7LxF863SINl5) | [Blanck Mass](https://open.spotify.com/artist/73LvjicByRK5LazcQYZMAY) | [Ted K \(Original Motion Picture Score\)](https://open.spotify.com/album/5vPILD4gVccPDNboEqY0tn) | 3:24 | 2022-05-27 |  |
 | [Desert Music](https://open.spotify.com/track/03RruqL6P3illbLLitAKnB) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Sicario \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04FRFSqcTfN9zfmFfzhbHn) | 5:07 | 2022-05-27 |  |
@@ -86,6 +87,7 @@
 | [Tree Synthesisers](https://open.spotify.com/track/6STwGnK99tM0QbveXFCvss) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [You Were Never Really Here \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AWQmUP2qy8Jb8jKVL45dL) | 4:25 | 2022-11-23 |  |
 | [Vacuum](https://open.spotify.com/track/4TM98xnatOQ1AAzpgfOOLX) | [Egopusher](https://open.spotify.com/artist/6OyLCLGxOLOnQK1MrXBVuz) | [Ambient Mix Tape](https://open.spotify.com/album/2RM4GLMLWBrXCEzz0XL1BM) | 2:55 | 2022-05-27 |  |
 | [Vanity](https://open.spotify.com/track/1unH1mDWKxidZvjgnLigXg) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Jackie \(Original Soundtrack Album\)](https://open.spotify.com/album/198sB62Rh8wbNNXDIvMHzD) | 2:59 | 2022-05-27 |  |
+| [Washed Out](https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 1:47 | 2022-12-20 |  |
 | [Wear Your Seat Belt](https://open.spotify.com/track/0gSV4AFHXzOszSK38cOYno) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 3:10 | 2022-08-17 |  |
 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 | 2022-05-27 |  |
 | [What Do You Know?](https://open.spotify.com/track/4PYkiul9hjpW4RNSHRrJRR) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:36 | 2022-05-27 |  |

@@ -4310,6 +4310,52 @@
     },
     {
       "album": {
+        "name": "Cattive abitudini",
+        "url": "https://open.spotify.com/album/74x9ZOmHJ3PMIENIgGolmj"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "DJ Gengis",
+          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
+        },
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Pretty Solero",
+          "url": "https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0"
+        },
+        {
+          "name": "Ugo Borghetti",
+          "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "Cattive abitudini",
+      "url": "https://open.spotify.com/track/0CZ8D5rtIAAJCjaC0mjfWv"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
       },
@@ -13443,10 +13489,6 @@
       },
       "artists": [
         {
-          "name": "The\u00f8",
-          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
-        },
-        {
           "name": "Plant",
           "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
         },
@@ -13455,12 +13497,16 @@
           "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
         },
         {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
         },
         {
           "name": "LA SAD",
           "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
       "date_added": "2022-12-15",
@@ -15589,7 +15635,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 178285,
       "name": "Nu Vase E Po Basta",
       "url": "https://open.spotify.com/track/4SlW1yke0wvPi34x8Ek4ql"
@@ -16799,7 +16845,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 148946,
       "name": "Perdonami (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/5FDcvMV87UABSO1cgwT3e7"
@@ -17194,6 +17240,24 @@
     },
     {
       "album": {
+        "name": "PKS #1",
+        "url": "https://open.spotify.com/album/27sjVJxmPuZ8ofeeuDRbsX"
+      },
+      "artists": [
+        {
+          "name": "Pikasso",
+          "url": "https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129457,
+      "name": "PKS #1",
+      "url": "https://open.spotify.com/track/5Zwra4gIbI6kX7RBLKN4ip"
+    },
+    {
+      "album": {
         "name": "Plaquette",
         "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
       },
@@ -17536,6 +17600,28 @@
     },
     {
       "album": {
+        "name": "PPx2",
+        "url": "https://open.spotify.com/album/3BBfvHyGCXh9oyHVpKmjXy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rumore",
+          "url": "https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU"
+        },
+        {
+          "name": "Coma",
+          "url": "https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140296,
+      "name": "PPx2",
+      "url": "https://open.spotify.com/track/5WEVEeIGBC9AJ7du4bRe8z"
+    },
+    {
+      "album": {
         "name": "Pre-season 2",
         "url": "https://open.spotify.com/album/4UlHqkIDsIP56FuRKzdl4I"
       },
@@ -17787,7 +17873,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 181298,
       "name": "Pula Ciao",
       "url": "https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1"
@@ -18063,7 +18149,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 157105,
       "name": "Quello in cui credo",
       "url": "https://open.spotify.com/track/6VpAdAYfHP6epFVvONls3b"
@@ -21435,7 +21521,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 130169,
       "name": "Sul petto",
       "url": "https://open.spotify.com/track/4lGSI4eAo7tiX1nSQBeaI6"
@@ -23659,7 +23745,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 191257,
       "name": "Vorrei (feat. Lazza)",
       "url": "https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN"
@@ -23947,6 +24033,28 @@
       "duration_ms": 155368,
       "name": "WHY U NAKED?",
       "url": "https://open.spotify.com/track/5Tjs43LYIKEdlLU7EXlM7Q"
+    },
+    {
+      "album": {
+        "name": "WRAITH",
+        "url": "https://open.spotify.com/album/2jq78rXdQZhyw7QpuS9TQl"
+      },
+      "artists": [
+        {
+          "name": "Astro Centauri",
+          "url": "https://open.spotify.com/artist/027y7WtCHLPyUJr50Q0p6E"
+        },
+        {
+          "name": "Mothz",
+          "url": "https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/6gEpPd2y5szimEgWO5ACr3"
     },
     {
       "album": {

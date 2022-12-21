@@ -3386,6 +3386,24 @@
     },
     {
       "album": {
+        "name": "Aparigraha",
+        "url": "https://open.spotify.com/album/272vdjKU9Wz68K6SMHtiiy"
+      },
+      "artists": [
+        {
+          "name": "Challem",
+          "url": "https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136697,
+      "name": "Sanne",
+      "url": "https://open.spotify.com/track/2poZ7JyF7ain5odsHddQ8T"
+    },
+    {
+      "album": {
         "name": "Sanne",
         "url": "https://open.spotify.com/album/1fLzfHGGCOoYiU3fFsVEZq"
       },
@@ -3397,7 +3415,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 136697,
       "name": "Sanne",
       "url": "https://open.spotify.com/track/5wen1tv3qCLW7ERokutMhG"

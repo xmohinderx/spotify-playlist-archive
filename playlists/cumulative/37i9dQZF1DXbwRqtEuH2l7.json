@@ -772,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Cloudline",
+        "url": "https://open.spotify.com/album/1bLq05o6DZoBw85k6ITEsa"
+      },
+      "artists": [
+        {
+          "name": "Hats\u00fc",
+          "url": "https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Cloudline",
+      "url": "https://open.spotify.com/track/6p4yw4aRRg2SJuQm898pla"
+    },
+    {
+      "album": {
         "name": "2R0I2P0",
         "url": "https://open.spotify.com/album/3yHKmmc0q9KDfLrdX2FKEE"
       },
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 263851,
       "name": "Distant - Drone Mix",
       "url": "https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 159197,
       "name": "Evil-Minded",
       "url": "https://open.spotify.com/track/3THvr8CyGPLmMKJgGttxYp"
@@ -2014,6 +2032,28 @@
     },
     {
       "album": {
+        "name": "Moons of Jupiter",
+        "url": "https://open.spotify.com/album/59KUVS7yqnphA6QLUczhKu"
+      },
+      "artists": [
+        {
+          "name": "Science Of Sleeping",
+          "url": "https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn"
+        },
+        {
+          "name": "Spacecraft",
+          "url": "https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248940,
+      "name": "Metis",
+      "url": "https://open.spotify.com/track/6AhQjVyjnB224UKG5oTWrm"
+    },
+    {
+      "album": {
         "name": "Midori",
         "url": "https://open.spotify.com/album/0xFxNaTLVYJ6LvePlWjnsm"
       },
@@ -2719,7 +2759,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 142053,
       "name": "Spora",
       "url": "https://open.spotify.com/track/37eq8mf6CHkrvTRR8GnmYs"
@@ -3313,6 +3353,24 @@
       "duration_ms": 120000,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/0duCORCB0jzdnSGW7yPZrW"
+    },
+    {
+      "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
     },
     {
       "album": {

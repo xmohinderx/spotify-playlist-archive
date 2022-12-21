@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Cuimhne",
+        "url": "https://open.spotify.com/album/11HhPEoFFN56mWcKAcelI8"
+      },
+      "artists": [
+        {
+          "name": "Cadhla Byrne",
+          "url": "https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170874,
+      "name": "Cuimhne",
+      "url": "https://open.spotify.com/track/3cuSTJIpzPdmI1a46b4xth"
+    },
+    {
+      "album": {
         "name": "C\u00edes",
         "url": "https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC"
       },
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 119554,
       "name": "Morning Breeze",
       "url": "https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak"

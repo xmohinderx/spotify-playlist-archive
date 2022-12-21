@@ -1274,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Old Faro",
+        "url": "https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189938,
+      "name": "Old Faro",
+      "url": "https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/47m2jkxUKg7LKwTuAvifdt"
       },
@@ -1793,6 +1811,24 @@
       "duration_ms": 152000,
       "name": "Star Light",
       "url": "https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78"
+    },
+    {
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE"
+      },
+      "artists": [
+        {
+          "name": "Taeda Trees",
+          "url": "https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168215,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/7doPDvbDidcSQklSmuZE17"
     },
     {
       "album": {

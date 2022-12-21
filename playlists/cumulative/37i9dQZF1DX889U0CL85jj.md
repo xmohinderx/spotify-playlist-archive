@@ -4,7 +4,7 @@
 
 > Just chill.
 
-409 songs - 23 hr 39 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+410 songs - 23 hr 43 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-09-06 | 2022-01-22 |
 | [i feel like chet \(khai dreams edit\)](https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [plum blossom \(the edits\)](https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2) | 2:53 | 2019-07-26 | 2022-06-18 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-05-22 | 2022-07-29 |
-| [I Leave Again](https://open.spotify.com/track/4aNNFLoRfSOMHeYQXidsXL) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 4:00 | 2022-06-10 |  |
+| [I Leave Again](https://open.spotify.com/track/4aNNFLoRfSOMHeYQXidsXL) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 4:00 | 2022-06-10 | 2022-12-21 |
 | [I Need U](https://open.spotify.com/track/5lbdxt9C6rsELTimTkyMn8) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Need U](https://open.spotify.com/album/3c9n16f0gLbXdpmYYoRZ6O) | 2:22 | 2020-05-29 | 2022-07-29 |
 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 | 2022-06-10 |  |
 | [I Never Stay In Love](https://open.spotify.com/track/7cgrzmkoIn4t0bMQ5NoatW) | [Stephen](https://open.spotify.com/artist/64N1HzkQEXvjlJBQinWeu2) | [I Never Stay In Love](https://open.spotify.com/album/7kramHTbDhB8FADYJCv2fa) | 4:04 | 2020-05-08 | 2022-01-22 |
@@ -326,6 +326,7 @@
 | [something to live for](https://open.spotify.com/track/0iQPej6D7P8i2lWlulqH2T) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [something to live for](https://open.spotify.com/album/1PKTmqOWuI8UzZ3Mf0RFys) | 2:14 | 2020-08-21 | 2022-01-22 |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 | 2022-06-10 |  |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/5ysFFsqJFcsX8Rez67j2tv) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3ERQUpVWleQpvEueo3KFgj) | 2:33 | 2021-03-11 | 2022-07-29 |
+| [Song on the Beach](https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 3:35 | 2022-12-20 |  |
 | [Speaking of the End](https://open.spotify.com/track/05WcicrMesButARnfWkrJe) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Speaking of the End](https://open.spotify.com/album/4a5PcKfE79MAbm89YNtEVN) | 3:08 | 2020-03-26 | 2022-01-22 |
 | [STAND STILL](https://open.spotify.com/track/6C54NvHWrSBZ5hQJTGH5RN) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80), [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [STAND STILL](https://open.spotify.com/album/1qP5cEcugmuQOHNzHG70BD) | 4:26 | 2020-10-14 | 2022-09-17 |
 | [Start Again](https://open.spotify.com/track/1paqDaEmvtY89pZPso63bT) | [Steve Cousins](https://open.spotify.com/artist/48W7OjKwB7Aj78pMskyZiO) | [Start Again](https://open.spotify.com/album/3qyt5asteYs11agJXDNBSq) | 3:00 | 2020-05-29 | 2022-01-22 |

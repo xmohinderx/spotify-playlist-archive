@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1990s.",
-  "num_followers": 428566,
+  "num_followers": 429178,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMGVlMTE3Yjk0ZTI5NjI4YjY5Y2VjNzJiMTlmMDY0MWQ3",
+  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMGVhODUzMzQ1MThiM2M5ODkxNDM3ZjIyNWQ0ZDZkNWY2",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "I've Been Expecting You",
-        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "She's The One",
-      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Relish",
         "url": "https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 320466,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "I've Been Expecting You",
+        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "She's The One",
+      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 293838,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/2fYYmPNwDaNpw1KRSxpQ5H"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 304880,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 293838,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2fYYmPNwDaNpw1KRSxpQ5H"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Rush Street",
         "url": "https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 274266,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Great Expectations",
         "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 281853,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Painted Desert Serenade",
-        "url": "https://open.spotify.com/album/1EEVf5UBSD4YlE1NBQXLfW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Kadison",
-          "url": "https://open.spotify.com/artist/2VrP5BkyzDhY43dWMlaYjD"
-        }
-      ],
-      "duration_ms": 319026,
-      "name": "Jessie",
-      "url": "https://open.spotify.com/track/4n8iSiSWRdaSeSpJMbdk9O"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 411146,
       "name": "Jesus to a Child",
       "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Painted Desert Serenade",
+        "url": "https://open.spotify.com/album/1EEVf5UBSD4YlE1NBQXLfW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Kadison",
+          "url": "https://open.spotify.com/artist/2VrP5BkyzDhY43dWMlaYjD"
+        }
+      ],
+      "duration_ms": 319026,
+      "name": "Jessie",
+      "url": "https://open.spotify.com/track/4n8iSiSWRdaSeSpJMbdk9O"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Timeless (The Classics)",
-        "url": "https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 247973,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -2239,6 +2223,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Timeless (The Classics)",
+        "url": "https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 247973,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "I'm Gonna Soothe You",
         "url": "https://open.spotify.com/album/02PxsJZPJdp6YrCTqoKHpb"
       },
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Gold Experience",
-        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "The Most Beautiful Girl In the World",
-      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Extreme II: Pornograffitti (Deluxe)",
         "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 227826,
       "name": "More Than Words - Remix",
       "url": "https://open.spotify.com/track/5agRdN48WN57DGLja3klwV"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Never Forget: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 250560,
       "name": "The Power of Good-Bye",
       "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Never Forget: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2751,22 +2751,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "This Desert Life",
-        "url": "https://open.spotify.com/album/60561o2TNguqnXD5ZurDup"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/2a7NRfaVMfob2BvkBmOxA0"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/4bdoso638zheKxQLBJxn2i"
       },
@@ -2779,6 +2763,22 @@
       "duration_ms": 278600,
       "name": "Tell Me It's Real",
       "url": "https://open.spotify.com/track/3fQtdmVB0cAe4Hs9e5bVQb"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "This Desert Life",
+        "url": "https://open.spotify.com/album/60561o2TNguqnXD5ZurDup"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2a7NRfaVMfob2BvkBmOxA0"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2915,22 +2915,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Size Isn't Everything",
-        "url": "https://open.spotify.com/album/7JOsP4Thh20VLmsGqy7pDQ"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "For Whom The Bell Tolls",
-      "url": "https://open.spotify.com/track/4jVu0QPK9BVeNgAmfvkocn"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Pilgrim",
         "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
       },
@@ -2943,6 +2927,22 @@
       "duration_ms": 323440,
       "name": "My Father's Eyes",
       "url": "https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Size Isn't Everything",
+        "url": "https://open.spotify.com/album/7JOsP4Thh20VLmsGqy7pDQ"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "For Whom The Bell Tolls",
+      "url": "https://open.spotify.com/track/4jVu0QPK9BVeNgAmfvkocn"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2963,22 +2963,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Come On Over (International Version)",
-        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "You've Got A Way",
-      "url": "https://open.spotify.com/track/3E714D9pZURRdgJ6iGhc8E"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "PHILADELPHIA - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/7EpzUNDXiDs0OJT4JERRYa"
       },
@@ -2991,6 +2975,22 @@
       "duration_ms": 252493,
       "name": "Streets of Philadelphia",
       "url": "https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Come On Over (International Version)",
+        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "You've Got A Way",
+      "url": "https://open.spotify.com/track/3E714D9pZURRdgJ6iGhc8E"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3043,6 +3043,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "Crash! Boom! Bang!",
+      "url": "https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
       },
@@ -3059,22 +3075,6 @@
       "duration_ms": 291133,
       "name": "Cose della vita (Can't Stop Thinking of You)",
       "url": "https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Crash! Boom! Bang! (Extended Version)",
-        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 301493,
-      "name": "Crash! Boom! Bang!",
-      "url": "https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G"
     },
     {
       "added_at": "2022-03-21 23:00:00",

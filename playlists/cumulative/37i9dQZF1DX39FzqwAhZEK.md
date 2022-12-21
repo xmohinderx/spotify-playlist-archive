@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-319 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+320 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Down by the Ocean](https://open.spotify.com/track/3RYqhN2wn4Qg5fwLRbCinW) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 2:57 | 2022-11-11 |  |
 | [Dreaminess](https://open.spotify.com/track/6FTI1GirXye67U41XkzR2h) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Dreaminess](https://open.spotify.com/album/3KglVMFuTixkC48muX1fox) | 3:17 | 2022-07-05 |  |
 | [Dreams of the Milky Way](https://open.spotify.com/track/55MCIV8vcsHVz2ECaveJpT) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Dreams of the Milky Way](https://open.spotify.com/album/0KVbigs9HOU9c16GRmrZew) | 2:05 | 2022-07-05 |  |
-| [Drømme](https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Drømme](https://open.spotify.com/album/37DmOAu4jFHqzroEvraPPu) | 4:13 | 2022-07-05 |  |
+| [Drømme](https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Drømme](https://open.spotify.com/album/37DmOAu4jFHqzroEvraPPu) | 4:13 | 2022-07-05 | 2022-12-21 |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2022-07-05 |  |
 | [Dysania](https://open.spotify.com/track/0DDAJ13i1P8PAG2uSmJxQA) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Confessions](https://open.spotify.com/album/0SR37Tsywrqw2SBims80Ij) | 3:01 | 2022-12-02 |  |
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-07-05 |  |
@@ -164,7 +164,7 @@
 | [Kaolnite](https://open.spotify.com/track/4fItBSHKBcgKWixN1Idie5) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Kaolnite](https://open.spotify.com/album/4ZPUoevTs8TL3qSTYoiV5N) | 3:00 | 2022-07-05 |  |
 | [Know Yourself](https://open.spotify.com/track/52COkLkSSQQHvJvyYVCjmq) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Know Yourself](https://open.spotify.com/album/1BqRWjG425c6JcxthtJF83) | 3:03 | 2022-07-05 | 2022-08-16 |
 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2022-11-22 |  |
-| [Lavender Fields](https://open.spotify.com/track/2RZHgUsh0JdF9qptiP6F2j) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Lavender Fields](https://open.spotify.com/album/5mWAUKwtkE0eJ2yySSIaPD) | 2:11 | 2022-07-05 |  |
+| [Lavender Fields](https://open.spotify.com/track/2RZHgUsh0JdF9qptiP6F2j) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Lavender Fields](https://open.spotify.com/album/5mWAUKwtkE0eJ2yySSIaPD) | 2:11 | 2022-07-05 | 2022-12-21 |
 | [Lavender Fields](https://open.spotify.com/track/7rhnKUAukqD2mtsNoPSt4J) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Lavender Fields](https://open.spotify.com/album/0fyPwPU9bhuUD6ivYpm6pe) | 2:11 | 2022-07-05 | 2022-07-29 |
 | [Life From Above](https://open.spotify.com/track/5t2EOrgbyupZmjFUROk1E0) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Life From Above](https://open.spotify.com/album/5W2etau8vKbNwCy0UGxJEj) | 2:25 | 2022-09-13 |  |
 | [Light in the Attic](https://open.spotify.com/track/5j7GcmiP6EuarM5DYwu5Et) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Light in the Attic](https://open.spotify.com/album/2rop9Z5oSSUDYt3gLjC4tu) | 2:23 | 2022-07-05 | 2022-07-29 |
@@ -206,6 +206,7 @@
 | [North Pacific](https://open.spotify.com/track/1tdlUNqmOI0cPXR0Pg542F) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [North Pacific](https://open.spotify.com/album/3GnsKaRT4AR0ZMty732WIW) | 2:22 | 2022-07-05 | 2022-07-29 |
 | [North Pacific](https://open.spotify.com/track/7iZvjrLOS3r7UW7QNBZmuN) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [North Pacific](https://open.spotify.com/album/6kUfsqCUWLse0ndUxABWJm) | 2:22 | 2022-07-05 |  |
 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2022-07-05 |  |
+| [Old Faro](https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Old Faro](https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH) | 3:09 | 2022-12-20 |  |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-08-15 |  |
 | [Over the Mediterranean](https://open.spotify.com/track/0p2nXjOZnxh8opbaeBYSLa) | [Lake Orchard](https://open.spotify.com/artist/0inbyfgIo5EiXGJOuY44Qm) | [Over the Mediterranean](https://open.spotify.com/album/1sZV2b0Aob9GurOCUr14Fd) | 3:11 | 2022-07-05 |  |
 | [Over the Mediterranean](https://open.spotify.com/track/7swVudxGbAVwchQ7BrGeix) | [Lake Orchard](https://open.spotify.com/artist/0inbyfgIo5EiXGJOuY44Qm) | [Over the Mediterranean](https://open.spotify.com/album/2pNxncWOxy71ewltzhYDVh) | 3:11 | 2022-07-05 | 2022-07-29 |
@@ -291,7 +292,7 @@
 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 | 2022-07-05 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Calm](https://open.spotify.com/track/1nqq9YCuHGnk9YabcqH1bp) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Voices of the Forest](https://open.spotify.com/album/10xjwZtSIcQbvo2VgyOlSN) | 2:37 | 2022-07-05 |  |
-| [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2022-07-05 |  |
+| [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2022-07-05 | 2022-12-21 |
 | [The Lonely Mountain](https://open.spotify.com/track/79Yt5NGbPCEECa3rlpbOve) | [Simon Folwar](https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ) | [The Lonely Mountain](https://open.spotify.com/album/1wUv8HDDx9WWbPF2okGNE7) | 3:18 | 2022-07-05 |  |
 | [The Sky Above Us](https://open.spotify.com/track/4rBitWwPvC7hgE9IdDNwnr) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [The Sky Above Us](https://open.spotify.com/album/40RHBVPLKNpftZHmnOX8zy) | 3:42 | 2022-07-05 |  |
 | [The Weightless World](https://open.spotify.com/track/3387xDEjSAso0ADsSnIuSs) | [Aquarium Haze](https://open.spotify.com/artist/2F5h2SNluMoGRPAeBh2068) | [The Weightless World](https://open.spotify.com/album/569bxW3nN4x297WhUtMOzV) | 3:02 | 2022-07-05 | 2022-07-29 |

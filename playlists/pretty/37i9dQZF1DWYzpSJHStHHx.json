@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 477524,
+  "num_followers": 477625,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMGNhZGMzODhiN2VjNjYyZjE4M2M5ZmQzNDRmNWQ0YzFl",
+  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDU4YWRlMzNkNDM5ZjBmYjkwNTQyYzlhZWUyODljYTk4",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+        "name": "Favorite Holiday, Vol. 1",
+        "url": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
       },
       "artists": [
         {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+      "duration_ms": 250800,
+      "name": "Fire Flower",
+      "url": "https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Favorite Holiday, Vol. 1",
-        "url": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
       "artists": [
         {
-          "name": "Summer Salt",
-          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
         }
       ],
-      "duration_ms": 250800,
-      "name": "Fire Flower",
-      "url": "https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2"
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Spring EP",
         "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 223053,
       "name": "Let the Sun In",
       "url": "https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
     },
     {
       "added_at": "2022-09-22 19:11:53",

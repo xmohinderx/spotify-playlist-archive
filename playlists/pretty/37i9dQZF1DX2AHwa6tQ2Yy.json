@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 31900,
+  "num_followers": 31914,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExMjIzMSwwMDAwMDAwMGYxNTdmZGMxZThhOWZmMDNiNGNjNTQ3ZjEyZTI3YzI3",
+  "snapshot_id": "MTY3MTExMjIzMSwwMDAwMDAwMGJiNWJhMDcyMmNmYTQ3NWJlZTllMjA1NjU1YTI3ZDk4",
   "tracks": [
     {
       "added_at": "2022-12-15 13:50:31",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-15 13:50:31",
       "album": {
-        "name": "COMETA",
-        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Feeling Myself",
-      "url": "https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx"
-    },
-    {
-      "added_at": "2022-12-15 13:50:31",
-      "album": {
         "name": "Hurts So Bad",
         "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 235061,
       "name": "Hurts So Bad - with Josh Teskey",
       "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
+    },
+    {
+      "added_at": "2022-12-15 13:50:31",
+      "album": {
+        "name": "COMETA",
+        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx"
     },
     {
       "added_at": "2022-12-15 13:50:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-15 13:50:31",
       "album": {
-        "name": "CDW",
-        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 303408,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
-    },
-    {
-      "added_at": "2022-12-15 13:50:31",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 189426,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+    },
+    {
+      "added_at": "2022-12-15 13:50:31",
+      "album": {
+        "name": "CDW",
+        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 303408,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
     },
     {
       "added_at": "2022-12-15 13:50:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-15 13:50:31",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
-    },
-    {
-      "added_at": "2022-12-15 13:50:31",
-      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 222203,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
+    },
+    {
+      "added_at": "2022-12-15 13:50:31",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
     },
     {
       "added_at": "2022-12-15 13:50:31",
@@ -1179,18 +1179,22 @@
     {
       "added_at": "2022-12-15 13:50:31",
       "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z"
+        "name": "Way That We Feel",
+        "url": "https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG"
       },
       "artists": [
         {
-          "name": "Miiesha",
-          "url": "https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL"
+          "name": "TOI",
+          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
+        },
+        {
+          "name": "Zoe Moon",
+          "url": "https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob"
         }
       ],
-      "duration_ms": 196536,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
+      "duration_ms": 190469,
+      "name": "Way That We Feel",
+      "url": "https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp"
     }
   ],
   "unique_name": "Soulful",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Dani Torres en portada.",
-  "num_followers": 55194,
+  "num_followers": 55195,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NTgzMCwwMDAwMDAwMGQwMzBlZGQzYjdiOTZiMjIyMDJlZjEwNzc4OGI4ZDg5",
+  "snapshot_id": "MTY3MTE1NTgzMCwwMDAwMDAwMDhiYzA1NTk4ZjdkYzUzYTc1OTEyN2ZlYjAzMDI4NGMw",
   "tracks": [
     {
       "added_at": "2022-11-25 02:28:29",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Pa' Siempre",
-        "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
       },
       "artists": [
         {
-          "name": "Daniel Vargas",
-          "url": "https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5"
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
         }
       ],
-      "duration_ms": 139026,
-      "name": "Pa' Siempre",
-      "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -987,6 +971,22 @@
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Pa' Siempre",
+        "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Vargas",
+          "url": "https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5"
+        }
+      ],
+      "duration_ms": 139026,
+      "name": "Pa' Siempre",
+      "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
     },
     {
       "added_at": "2022-09-29 23:31:37",

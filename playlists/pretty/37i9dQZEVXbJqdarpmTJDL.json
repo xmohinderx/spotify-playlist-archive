@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 80849,
+  "num_followers": 80876,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI0NzYyMjAxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI0ODcyNDA1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Gagarin",
         "url": "https://open.spotify.com/album/7oc13DbROFU3t7TS7TjVhS"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/3qFj5MapvQvQH4u1PIVX9n"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -53,23 +53,7 @@
       "url": "https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "IPIZME",
-        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "ERIMO",
-      "url": "https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "IPIZME",
+        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "ERIMO",
+      "url": "https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Tn",
         "url": "https://open.spotify.com/album/4WNZOYgf1RiVPPiGTK4eln"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Forema",
         "url": "https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "ADRENALINA",
         "url": "https://open.spotify.com/album/5llOuE82CLyPvoW9wzM1pb"
@@ -153,23 +169,7 @@
       "url": "https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/2czUL73B83n4VfVeBEfXCs"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -213,23 +213,7 @@
       "url": "https://open.spotify.com/track/0OyiXp4CdjqOYDSpzgfEx7"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Mystiko",
-        "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Mystiko",
-      "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Mystiko",
+        "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mystiko",
+      "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
@@ -273,27 +273,7 @@
       "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "RACKATTACK 2",
-        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
-      },
-      "artists": [
-        {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc"
@@ -317,7 +297,27 @@
       "url": "https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "CC COMMANDOZ",
         "url": "https://open.spotify.com/album/7rCAtdZaRBIxTyNf7Ovlwu"
@@ -381,7 +381,23 @@
       "url": "https://open.spotify.com/track/2Vm1AL0pK6UIvNEiIBxsj0"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "ALITHIA",
+        "url": "https://open.spotify.com/album/5ZciK7pQkN9IS66i5DgFyR"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "ALITHIA",
+      "url": "https://open.spotify.com/track/61sfFpr4TG2fV9PjQlU6vL"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Erotas",
         "url": "https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu"
@@ -397,7 +413,87 @@
       "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 158999,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "UNIQUE",
+        "url": "https://open.spotify.com/album/6DeYijcJrAh9jtJubejjIv"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "UNIQUE",
+      "url": "https://open.spotify.com/track/5Tbuk8Mr01Y53EWmrM7D4r"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Apothimeno",
+        "url": "https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Issy Beats",
+          "url": "https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Apothimeno",
+      "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "IPIZME",
+        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 158211,
+      "name": "MON AMIE",
+      "url": "https://open.spotify.com/track/1QphVfogCxCARRZLergCjS"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "El Telephone (Remix)",
         "url": "https://open.spotify.com/album/5OYlXWtC3fZjrfW8pV41ME"
@@ -433,67 +529,7 @@
       "url": "https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
-        }
-      ],
-      "duration_ms": 158999,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "UNIQUE",
-        "url": "https://open.spotify.com/album/6DeYijcJrAh9jtJubejjIv"
-      },
-      "artists": [
-        {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "UNIQUE",
-      "url": "https://open.spotify.com/track/5Tbuk8Mr01Y53EWmrM7D4r"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Apothimeno",
-        "url": "https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS"
-      },
-      "artists": [
-        {
-          "name": "Mente Fuerte",
-          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        },
-        {
-          "name": "Issy Beats",
-          "url": "https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Apothimeno",
-      "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -517,7 +553,7 @@
       "url": "https://open.spotify.com/track/0C11SdO6nuqHDx230fZ2Gh"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Crayon",
         "url": "https://open.spotify.com/album/4nPRQeETNSzXAq0Q97hpla"
@@ -533,27 +569,7 @@
       "url": "https://open.spotify.com/track/3Ih2cQKuXvsKOFlhZAnBDW"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "IPIZME",
-        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 158211,
-      "name": "MON AMIE",
-      "url": "https://open.spotify.com/track/1QphVfogCxCARRZLergCjS"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
@@ -577,83 +593,7 @@
       "url": "https://open.spotify.com/track/61BaxNqs8df4B4Vtndb9DE"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
-      },
-      "artists": [
-        {
-          "name": "GMARK",
-          "url": "https://open.spotify.com/artist/1bf3cUHhTcwmhtGWKxLttn"
-        }
-      ],
-      "duration_ms": 203454,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Egw & Esy",
-        "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 186885,
-      "name": "Egw & Esy",
-      "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "LIBERTA",
-        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
-      },
-      "artists": [
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 147288,
-      "name": "CELINE",
-      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5wnROpYlI0LDF5ctSr7Lpj"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "ATHENA",
         "url": "https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc"
@@ -673,7 +613,103 @@
       "url": "https://open.spotify.com/track/5zpbXrxF7v5Q82Uh9SHAzn"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Egw & Esy",
+        "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 186885,
+      "name": "Egw & Esy",
+      "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5wnROpYlI0LDF5ctSr7Lpj"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "G Walk",
+        "url": "https://open.spotify.com/album/7GVxDeeFP1rDvu47uaYeIb"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "G Walk",
+      "url": "https://open.spotify.com/track/0cOGWQcGaMe5HsGO9AEw25"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "LIBERTA",
+        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "duration_ms": 147288,
+      "name": "CELINE",
+      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
+      },
+      "artists": [
+        {
+          "name": "GMARK",
+          "url": "https://open.spotify.com/artist/1bf3cUHhTcwmhtGWKxLttn"
+        }
+      ],
+      "duration_ms": 203454,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "To Kserw",
         "url": "https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu"
@@ -689,7 +725,27 @@
       "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/0ADZrwmBTPsHIVB6s6Ay94"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/0mc6tED7ojUnim6W9Johm4"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
@@ -713,7 +769,23 @@
       "url": "https://open.spotify.com/track/0PUzUn6NlCsVeomsUg9SKx"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/5GksI05afwE672khHJc29F"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7hAXfOZnowSQOXOhpwesTK"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -733,47 +805,27 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
-        "name": "G Walk",
-        "url": "https://open.spotify.com/album/7GVxDeeFP1rDvu47uaYeIb"
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc"
       },
       "artists": [
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
         },
         {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+          "name": "Kid Young",
+          "url": "https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz"
         }
       ],
-      "duration_ms": 174705,
-      "name": "G Walk",
-      "url": "https://open.spotify.com/track/0cOGWQcGaMe5HsGO9AEw25"
+      "duration_ms": 230985,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/6eM45lJwm0LXuke4Ga0uOr"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/0ADZrwmBTPsHIVB6s6Ay94"
-      },
-      "artists": [
-        {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/0mc6tED7ojUnim6W9Johm4"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -797,7 +849,23 @@
       "url": "https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "duration_ms": 123045,
+      "name": "Skoni",
+      "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Kales Douleies",
         "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
@@ -821,7 +889,27 @@
       "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Jessy Blue",
+          "url": "https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG"
+        }
+      ],
+      "duration_ms": 73636,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/7makDOAs66DPSP8s9CZ5rd"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/3GUaXfPTFlQnur4oWrRoXh"
@@ -845,99 +933,7 @@
       "url": "https://open.spotify.com/track/3jP6Yx6d8608AU4aIRJsE2"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 123045,
-      "name": "Skoni",
-      "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Ligo Ligo",
-        "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Ligo Ligo",
-      "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "ATHENA",
-        "url": "https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc"
-      },
-      "artists": [
-        {
-          "name": "Immune",
-          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
-        },
-        {
-          "name": "Kid Young",
-          "url": "https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz"
-        }
-      ],
-      "duration_ms": 230985,
-      "name": "Restart",
-      "url": "https://open.spotify.com/track/6eM45lJwm0LXuke4Ga0uOr"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "All Eyes On Me",
-        "url": "https://open.spotify.com/album/5GksI05afwE672khHJc29F"
-      },
-      "artists": [
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/7hAXfOZnowSQOXOhpwesTK"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "Den Exw Sima",
-        "url": "https://open.spotify.com/album/0ZAB0aiipoAR13uMikO0Si"
-      },
-      "artists": [
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        },
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "Saxpas",
-          "url": "https://open.spotify.com/artist/1IiQBASBfh603PVlAKUOaL"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Den Exw Sima",
-      "url": "https://open.spotify.com/track/0VfJj7Z3IQjF6lh5DhQYTs"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
@@ -953,7 +949,7 @@
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -977,27 +973,47 @@
       "url": "https://open.spotify.com/track/7I6fZpYaW9BjlXJEKFL1Su"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
       "album": {
-        "name": "We Came for Love",
-        "url": "https://open.spotify.com/album/4cy5728K4dMttPwd0s3Xyv"
+        "name": "Den Exw Sima",
+        "url": "https://open.spotify.com/album/0ZAB0aiipoAR13uMikO0Si"
       },
       "artists": [
         {
-          "name": "Solven",
-          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
         },
         {
-          "name": "Phil Phauler",
-          "url": "https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf"
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Saxpas",
+          "url": "https://open.spotify.com/artist/1IiQBASBfh603PVlAKUOaL"
         }
       ],
-      "duration_ms": 141500,
-      "name": "We Came for Love",
-      "url": "https://open.spotify.com/track/2kIVmLQVNEeZvcH8ZEZmdJ"
+      "duration_ms": 146400,
+      "name": "Den Exw Sima",
+      "url": "https://open.spotify.com/track/0VfJj7Z3IQjF6lh5DhQYTs"
     },
     {
-      "added_at": "2022-12-19 10:50:01",
+      "added_at": "2022-12-20 17:26:45",
+      "album": {
+        "name": "Ligo Ligo",
+        "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Ligo Ligo",
+      "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
+    },
+    {
+      "added_at": "2022-12-20 17:26:45",
       "album": {
         "name": "Escapism. (Sped Up)",
         "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
@@ -1015,26 +1031,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
-    },
-    {
-      "added_at": "2022-12-19 10:50:01",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Iliovasilema - (Part 2 - Fos)",
-      "url": "https://open.spotify.com/track/3gMkuoFyby1uUf7rR7y8Km"
     }
   ],
   "unique_name": "Top 50 - Greece",

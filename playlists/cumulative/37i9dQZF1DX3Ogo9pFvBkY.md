@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-703 songs - 1 day 13 hr 8 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+704 songs - 1 day 13 hr 11 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Equinox](https://open.spotify.com/track/0ZzaDwLtsBeHilR13PMFcZ) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Trojan](https://open.spotify.com/album/2zXu0weQP2kQktWq6UmMJJ) | 3:29 | 2020-07-11 | 2021-09-14 |
 | [Essentials](https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk) | [River Hall](https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag) | [Essentials](https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48) | 3:00 | 2021-11-26 |  |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2021-06-16 |  |
-| [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2019-12-07 |  |
+| [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2019-12-07 | 2022-12-21 |
 | [Eternalism](https://open.spotify.com/track/4ifPxJCobE5fygSy90ygxq) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [I Will Remember Everything Forever](https://open.spotify.com/album/0EMKIUx6PXzwCAfMeF9bct) | 4:18 | 2020-08-08 | 2020-10-27 |
 | [Eternalistic](https://open.spotify.com/track/28vgg790lTkfhaBgsSAaqq) | [Asabea Wheeler](https://open.spotify.com/artist/48ZJv6xlsgG8EdgJt4SOBZ) | [Eternalistic](https://open.spotify.com/album/7thB8MyVTdHo34FboEgwSI) | 2:26 | 2022-10-14 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-09-21 |  |
@@ -342,6 +342,7 @@
 | [Intermission](https://open.spotify.com/track/6BXlFjJouW6ugTjeORRYHm) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Breaking Point](https://open.spotify.com/album/56BmBSGXSbAQ0OtXqNc5UE) | 3:44 | 2020-05-18 |  |
 | [Interpretations](https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [Whisper of the Pines](https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj) | 2:37 | 2020-05-18 | 2021-11-26 |
 | [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 | 2022-08-23 |  |
+| [Into The Infinite](https://open.spotify.com/track/5eiWXtGTtACH4JGkGB8gFb) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [Stratosphere](https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE) | 2:48 | 2022-12-20 |  |
 | [Into the Sun](https://open.spotify.com/track/7IkkA7rrKze0Acq7CRJEz8) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Growth](https://open.spotify.com/album/2MDHOrWThwJ2vhCpQLMvE2) | 2:45 | 2020-01-03 | 2021-09-14 |
 | [Island Rain](https://open.spotify.com/track/3kyTnVMy1jkuIi72RFSprb) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 2:48 | 2020-01-03 | 2020-08-08 |
 | [Jamas In Heaven](https://open.spotify.com/track/0ekmQX29tnEb4TYPW2Mqpi) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Trust](https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk) | 2:46 | 2020-07-11 | 2021-09-14 |

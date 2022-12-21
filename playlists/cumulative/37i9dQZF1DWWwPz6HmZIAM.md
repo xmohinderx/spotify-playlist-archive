@@ -4,7 +4,7 @@
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-77 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6rxM2yercaF5daIevJxo0C)
+78 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/6rxM2yercaF5daIevJxo0C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Fantastic Magic](https://open.spotify.com/track/3BXk27URU7QRnDzIPoLcZq) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 4:08 | 2022-03-15 | 2022-07-29 |
 | [film A moment \( film edition \)](https://open.spotify.com/track/14uxMa3hXTDAVFxLZ1LyD8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 7:46 | 2022-03-15 |  |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 |  |
+| [first death \(Slushii Remix\)](https://open.spotify.com/track/1MP6V6J9u0vC9lCWRz7Sjz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [first death \(Slushii Remix\)](https://open.spotify.com/album/1u0liJXMHykVQ73cwjyuwP) | 3:13 | 2022-12-20 |  |
 | [flower](https://open.spotify.com/track/0bPP8TKUIto1T9CAIoHONw) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:39 | 2022-03-15 |  |
 | [flower](https://open.spotify.com/track/6nMHoCucEuY6fLY8UxHVWr) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/1sHH1LxQbi4QjsKzIyN5ox) | 4:39 | 2022-03-15 | 2022-07-29 |
 | [fourth](https://open.spotify.com/track/1pnQ4KFFScTV4HalmIleIv) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:28 | 2022-03-15 |  |

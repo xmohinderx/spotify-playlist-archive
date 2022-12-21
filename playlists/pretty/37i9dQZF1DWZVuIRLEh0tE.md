@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,819 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,909 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paketum](https://open.spotify.com/track/1Tam1wR5Hm7CudXEcX6dU9) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Paketum](https://open.spotify.com/album/2lN8KHVPTWKxvxpy0qbjz2) | 3:44 |
 | 2 | [A I O](https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3) | 2:58 |
-| 3 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 |
+| 3 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 |
 | 4 | [Zuculento](https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [D´Flow Aka La Maldad](https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG) | [Zuculento](https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od) | 2:47 |
 | 5 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
 | 6 | [Velocidad](https://open.spotify.com/track/7hw0ws2Hj7Rnlg9ayxQ1YQ) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Velocidad](https://open.spotify.com/album/6HuItN6PiWhMhfGdFP6KJh) | 2:44 |

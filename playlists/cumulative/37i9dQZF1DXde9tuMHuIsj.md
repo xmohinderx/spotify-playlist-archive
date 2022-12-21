@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Arcángel
 
-194 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+195 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-12-02 |  |
 | [El Case](https://open.spotify.com/track/5iAcQOl6yTHdXm1CqlNVMq) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [El Case](https://open.spotify.com/album/00P66oToPdQ8UpgYQTSjKp) | 2:41 | 2022-12-02 | 2022-12-15 |
 | [El Congreso](https://open.spotify.com/track/1ds3UoIlolByK0rNyNbmvP) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [El Congreso](https://open.spotify.com/album/1WShl2Ns50BWfZuyqsKDXP) | 3:20 | 2022-04-01 | 2022-11-23 |
-| [El Congreso](https://open.spotify.com/track/2gG7dRgCYDU8HjbINLTGxI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [El Congreso](https://open.spotify.com/album/4ll3ufkVHwVxWp4bS6jIOA) | 3:20 | 2022-11-21 |  |
+| [El Congreso](https://open.spotify.com/track/2gG7dRgCYDU8HjbINLTGxI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [El Congreso](https://open.spotify.com/album/4ll3ufkVHwVxWp4bS6jIOA) | 3:20 | 2022-11-21 | 2022-12-21 |
 | [El de la Caña](https://open.spotify.com/track/7cn4vTsi42PPl9yJSxCG15) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El de la Caña](https://open.spotify.com/album/4tcD9vE6UcsVcQWgpYJa5G) | 5:14 | 2022-08-12 |  |
 | [El Fucking MVP](https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [El Fucking MVP](https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4) | 3:00 | 2022-06-03 |  |
 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 | 2022-03-18 | 2022-04-16 |
@@ -83,6 +83,7 @@
 | [FCK U X2](https://open.spotify.com/track/7CLRoWBqSizI8Zpolsud5K) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:39 | 2022-03-18 |  |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2022-03-18 | 2022-05-04 |
 | [FOLLOWS](https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [FOLLOWS](https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E) | 3:57 | 2022-08-05 | 2022-12-03 |
+| [Freestyle](https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Freestyle](https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7) | 2:47 | 2022-12-20 |  |
 | [Freestyle v3](https://open.spotify.com/track/4qlmoS5qlXx6wWYpeZwsrK) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [King Kong](https://open.spotify.com/album/52HFcMSiek3WJAPJYDvnT6) | 2:22 | 2022-09-16 | 2022-12-03 |
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-03-18 |  |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-22 |  |

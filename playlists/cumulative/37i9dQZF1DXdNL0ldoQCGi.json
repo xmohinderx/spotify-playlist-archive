@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 553536,
       "name": "Bokaloka",
       "url": "https://open.spotify.com/track/15MMy5OQqEyGBLkjVSsS9e"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 199572,
       "name": "Cor do Amor",
       "url": "https://open.spotify.com/track/6epY5iZGSDkPkq0lFITHiN"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 133224,
       "name": "Hino Nacional Funk",
       "url": "https://open.spotify.com/track/6v6zeeNg8luclQngcotmAB"
@@ -3330,6 +3330,44 @@
     },
     {
       "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/66sPGdwWCdc7u2k078e0sb"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Dj Koringa MPC",
+          "url": "https://open.spotify.com/artist/15QRURY8n9h2p03T91Fxi9"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344470,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/0EAWZdQCUjJjXCDzJmn8Xw"
+    },
+    {
+      "album": {
         "name": "Parecia Tempestade",
         "url": "https://open.spotify.com/album/6BAy5WlPVBYzeBDDLd32Jk"
       },
@@ -3415,7 +3453,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 134739,
       "name": "Pique Neymar (feat. Nuzzin)",
       "url": "https://open.spotify.com/track/1TPaI8n966Y2QbN1HmHpwi"

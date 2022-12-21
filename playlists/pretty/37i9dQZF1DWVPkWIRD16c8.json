@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 29967,
+  "num_followers": 29986,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDg3YTc3MGZhNjYyYmQ5MDY0MmI5MDAwNjlkYTkwYjAx",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDQ5ZWMwNGI3ODA2ZTNmODE4ODkzYTlhZTdjYzk2ZDM4",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Eye On It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 214665,
-      "name": "Me Without You",
-      "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Eye On It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 214665,
+      "name": "Me Without You",
+      "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
     },
     {
       "added_at": "2019-11-20 07:28:20",

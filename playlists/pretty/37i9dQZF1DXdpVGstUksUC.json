@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 466707,
+  "num_followers": 466950,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYwOTA2MSwwMDAwMDAwMDllZmRkNTNjNzI3OTg3MDJmZmZiNWU1NTUyM2RiODI0",
+  "snapshot_id": "MTY3MDYwOTA2MSwwMDAwMDAwMDEyMjAxMzk2MDc1MDMwNTA4OTdiNDVlNGUxNGRjMzFl",
   "tracks": [
     {
       "added_at": "2022-10-14 07:00:00",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
     },
     {
-      "added_at": "2022-12-20 00:36:11",
+      "added_at": "2022-12-21 01:34:44",
       "album": {
         "name": "Myriad",
         "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
       },
       "artists": [
         {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
         }
       ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Repeater",
-        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
-      },
-      "artists": [
-        {
-          "name": "King Buffalo",
-          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
-        }
-      ],
-      "duration_ms": 356824,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "The No. 6 Dance",
         "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 214600,
       "name": "Mississippi King",
       "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
+      },
+      "artists": [
+        {
+          "name": "King Buffalo",
+          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
+        }
+      ],
+      "duration_ms": 356824,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "The Devil and the Almighty Blues",
         "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
       },
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 384866,
       "name": "Electric Machine",
       "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Back From The Abyss",
-        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
-      },
-      "artists": [
-        {
-          "name": "Orange Goblin",
-          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
-        }
-      ],
-      "duration_ms": 378920,
-      "name": "Heavy Lies The Crown",
-      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+        "name": "Back From The Abyss",
+        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
       },
       "artists": [
         {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+          "name": "Orange Goblin",
+          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
         }
       ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+      "duration_ms": 378920,
+      "name": "Heavy Lies The Crown",
+      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
         }
       ],
-      "duration_ms": 304600,
-      "name": "Colossal",
-      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 302416,
       "name": "Vakuum",
       "url": "https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Woodland Rites",
-        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
-      },
-      "artists": [
-        {
-          "name": "Green Lung",
-          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
-        }
-      ],
-      "duration_ms": 274453,
-      "name": "Woodland Rites",
-      "url": "https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Psych Aux Tropiques",
         "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 225786,
       "name": "Palomino",
       "url": "https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Woodland Rites",
+        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "duration_ms": 274453,
+      "name": "Woodland Rites",
+      "url": "https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp"
     },
     {
       "added_at": "2022-10-14 07:00:00",

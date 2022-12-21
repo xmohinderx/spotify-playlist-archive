@@ -2,7 +2,7 @@
 
 ### [Top México](https://open.spotify.com/playlist/37i9dQZF1DWZKpHIbfDI1i)
 
-> La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Bellakath en portada.
+> La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Natalia Lafourcade en portada.
 
 364 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/16BvyH2RXxLXWNmCTqr5Js)
 

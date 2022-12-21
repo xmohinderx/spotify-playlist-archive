@@ -1281,10 +1281,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 223538,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3iuInbK0VFSFLv3fts8IcI"
+    },
+    {
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/2if8mACHves2Fw1Pv3qC0k"
+      },
+      "artists": [
+        {
+          "name": "Challem",
+          "url": "https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6ETiqLUzBgn8dvNmCYjpoG"
     },
     {
       "album": {

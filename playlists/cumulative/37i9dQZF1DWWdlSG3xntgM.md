@@ -4,7 +4,7 @@
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-170 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
+171 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Hồn Trinh Nữ](https://open.spotify.com/track/63ARxrKTXP3AXmcas34U7S) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Hồn Trinh Nữ](https://open.spotify.com/album/1QzEsp11RmZmLG0fRnUMrJ) | 5:01 | 2022-03-11 | 2022-07-27 |
 | [Khong Gio Roi \(feat\. Truong Vu\)](https://open.spotify.com/track/1Kinxed6RGvVnPAMhgRDgw) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Khong Gio Roi](https://open.spotify.com/album/1DiR2MBcORbrbhnpqNLJc9) | 5:12 | 2022-03-11 | 2022-07-28 |
 | [Khuya Nay Anh Đi Rồi](https://open.spotify.com/track/0nxkkjvAmUl7mviO0al76E) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Khuya Nay Anh Đi Rồi](https://open.spotify.com/album/56qWlLfGOyVkCLqj8w682V) | 4:13 | 2022-03-11 | 2022-07-25 |
-| [Không Bao Giờ Quên Anh](https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:07 | 2022-03-11 |  |
+| [Không Bao Giờ Quên Anh](https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:07 | 2022-03-11 | 2022-12-21 |
 | [Không Giờ Rồi](https://open.spotify.com/track/0AXJI72yrYKt5XMgu8zYFn) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Kiếp Nghèo](https://open.spotify.com/album/31GoVkL7i5uNuF7TReZtG2) | 4:37 | 2022-03-11 | 2022-07-29 |
 | [Không Giờ Rồi](https://open.spotify.com/track/4UdycZeTpOihYrfojvoQhB) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Nhớ Người Yêu](https://open.spotify.com/album/6C3EJ1gluECmodQm2ZXtl1) | 3:34 | 2022-03-11 | 2022-07-23 |
 | [Không Giờ Rồi](https://open.spotify.com/track/4hCo5F8lu2qeVYEUgOX9Ba) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Không Giờ Rồi](https://open.spotify.com/album/5kWpxGSD5nHD9hKN1dMFtN) | 5:12 | 2022-03-11 |  |
@@ -134,6 +134,7 @@
 | [Thói đời](https://open.spotify.com/track/283pZAMU2awKhsGFWHep0e) | [Đạt Võ](https://open.spotify.com/artist/3QFgKz8AHtlfjq237cwjoq) | [Cát bụi cuộc đời \- Đạt võ giọng ca lạ](https://open.spotify.com/album/0WwXeueJei8GibI5x0rIHf) | 5:08 | 2022-03-11 | 2022-07-23 |
 | [Thôi Em Về Đi Em](https://open.spotify.com/track/1PJddQl5TY07mKRnh0Rj0H) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Thôi Em Về Đi Em](https://open.spotify.com/album/4RKVjK4tsSDQjqECBtDNze) | 3:58 | 2022-03-11 | 2022-07-07 |
 | [Thư hồi âm](https://open.spotify.com/track/0cCG5kOMgmZIYc2YGa12rq) | [Le Minh Trung](https://open.spotify.com/artist/0crvrM34uGoPas0sO0uhJu) | [Gĩa từ vũ khí](https://open.spotify.com/album/1ALMUB2WIRDGI8xLrquuad) | 4:25 | 2022-03-11 | 2022-07-22 |
+| [Thư Xuân Trên Rừng Cao](https://open.spotify.com/track/31ucOkV1kym9k9lRXMhZ0d) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 4:57 | 2022-03-11 |  |
 | [Thương Mãi Một Người](https://open.spotify.com/track/2vdk2KM7Y4Ku6fAvT25rWC) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Thương Mãi Một Người](https://open.spotify.com/album/6xXSjBOEUOJmATMWsjPZIY) | 4:52 | 2022-03-11 | 2022-07-29 |
 | [Thị Trấn Về Đêm](https://open.spotify.com/track/03igILuXzzYDmswJpgjcOX) | [Phương Ý](https://open.spotify.com/artist/39rzQretQQ5JFkeigPdhcg) | [Thị Trấn Về Đêm](https://open.spotify.com/album/6NCw3N1ugo5jrgId4dqdSe) | 4:30 | 2022-03-11 | 2022-07-19 |
 | [Trang Nhật Ký](https://open.spotify.com/track/0tyLYxdMSTuvhDmnJZtmsX) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Dong Nguyen](https://open.spotify.com/artist/5euEtaUIXOl9B8MKotc5Vb) | [Trang Nhật Ký](https://open.spotify.com/album/0zCM0g5xt8HJj0Hc1rVZW7) | 4:24 | 2022-03-11 | 2022-07-29 |

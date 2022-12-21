@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-185 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
+186 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 | 2021-12-17 | 2022-07-26 |
 | [An Other One For Me](https://open.spotify.com/track/4LWiFuehm2uY3GK8q8sduT) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Be Mine LP](https://open.spotify.com/album/4iJzbjMFVcfN3mgcdB1jWQ) | 7:08 | 2022-01-07 | 2022-07-29 |
 | [And That's the Story of Their Love](https://open.spotify.com/track/60Yu5b3337hvIZEt0vqtTW) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys) | [And That's the Story of Their Love](https://open.spotify.com/album/2c3S9YJYTgNOZE47WOE66H) | 9:06 | 2021-12-17 | 2022-07-25 |
-| [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 | 2022-06-02 |  |
+| [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 | 2022-06-02 | 2022-12-21 |
 | [argentin](https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [argentin](https://open.spotify.com/album/6K99lHPJIPlR62rMl0RvLN) | 2:53 | 2021-12-17 | 2022-06-03 |
 | [Back to My Place](https://open.spotify.com/track/1zlRyggzGQWbRCSMUCDjtu) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/2KIm32RanAPzrPvXryYEKP) | 4:05 | 2021-12-17 | 2022-07-29 |
 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 | 2022-07-01 |  |
@@ -192,6 +192,7 @@
 | [Wear Me Down](https://open.spotify.com/track/1SA3sXFX3V8WgzmZdlO223) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:19 | 2022-03-31 | 2022-04-20 |
 | [WhereYouGonnaGo?](https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [TJD006](https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP) | 5:08 | 2022-07-01 |  |
 | [WhereYouGonnaGo?](https://open.spotify.com/track/43ttSUWX6oHVLGboWVq1Kl) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [WhereYouGonnaGo?](https://open.spotify.com/album/6PbHFMJ0iwcRAYclGi02wE) | 5:08 | 2022-03-25 | 2022-04-12 |
+| [YOU CAN DO IT](https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq) | 2:56 | 2022-10-21 |  |
 | [YOU CAN DO IT](https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh) | 2:56 | 2021-12-17 | 2022-11-20 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

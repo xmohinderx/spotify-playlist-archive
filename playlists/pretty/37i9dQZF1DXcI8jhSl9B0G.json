@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 68694,
+  "num_followers": 68720,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMGM3MjQ2MGQ5NDFjOGYxYTBjZWNhODBkN2ZhZThiMmM3",
+  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDIzNDQ0ZjEyYjQxYzIyNmNlMzQ4MjkyODJkNjliOTVh",
   "tracks": [
     {
       "added_at": "2022-12-15 08:41:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Outside Kinda Kids",
-        "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 195299,
-      "name": "Outside Kinda Kids",
-      "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "Love Shack",
         "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
       },
@@ -987,18 +971,34 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "Feel Like Clarity",
+        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Gaudion",
+          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+      "duration_ms": 188004,
+      "name": "Feel Like Clarity",
+      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "Outside Kinda Kids",
+        "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "duration_ms": 195299,
+      "name": "Outside Kinda Kids",
+      "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
     }
   ],
   "unique_name": "Summer Daze",

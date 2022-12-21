@@ -6932,6 +6932,24 @@
     },
     {
       "album": {
+        "name": "Tears Of Change",
+        "url": "https://open.spotify.com/album/4OKcUyYXCVMR4FrIsUsCRm"
+      },
+      "artists": [
+        {
+          "name": "Leon Baker",
+          "url": "https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Tears Of Change",
+      "url": "https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v"
+    },
+    {
+      "album": {
         "name": "LiKKma",
         "url": "https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d"
       },

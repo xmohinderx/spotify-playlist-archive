@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: Jung Seung Hwan(\uc815\uc2b9\ud658)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 309034,
+  "num_followers": 309102,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzNzc2MiwwMDAwMDAwMGUxNTA1NzRkOTIzNmU3MmI1ODA5MjZmNWQ2MGQ5OTEz",
+  "snapshot_id": "MTY3MTQzNzc2MiwwMDAwMDAwMDc1YThkNTE1ZTBhMzhmNzliNzJkYTRmMDI0MjBhYmY3",
   "tracks": [
     {
       "added_at": "2022-12-19 08:16:02",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 264678,
       "name": "Will Last Forever",
       "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Myo (Cat)",
         "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
       },
@@ -711,6 +695,42 @@
       "duration_ms": 217640,
       "name": "Myo (Cat)",
       "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Mother Nature (H\u2082O)",
+        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "Mother Nature (H\u2082O)",
+      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -747,26 +767,6 @@
       "duration_ms": 205800,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
-        "name": "Mother Nature (H\u2082O)",
-        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "Kang Seungwon",
-          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "Mother Nature (H\u2082O)",
-      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
+        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 267280,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
         "name": "Because I am a woman",
         "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
-        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 267280,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "When You Believe",
-        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "When You Believe",
-      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Solo Christmas",
         "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
-        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "I Can\u2019t",
-      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "My Liberation Notes OST Part 1",
         "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 246293,
       "name": "\ub108\ub97c \uc704\ud574",
       "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
+        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "I Can\u2019t",
+      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1391,38 +1407,6 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
-        "name": "DOCTOR LAWYER (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "An Unfamiliar Day",
-      "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1459,6 +1443,22 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "DOCTOR LAWYER (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "An Unfamiliar Day",
+      "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Link",
-      "url": "https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 160426,
       "name": "Bad Influence",
       "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
+        "name": "Dunia - Into A New World, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5zfvPWlLE1LpYewbAejTgX"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 251682,
+      "name": "\ud30c\ub780 \ubd04",
+      "url": "https://open.spotify.com/track/0KpXBGMi5TPHu8cJGWvNBb"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
         "name": "First of all",
         "url": "https://open.spotify.com/album/55BqAH8rp3OjiisTNm7de1"
       },
@@ -1671,34 +1687,18 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Invitation",
-      "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
-        "name": "Dunia - Into A New World, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5zfvPWlLE1LpYewbAejTgX"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 251682,
-      "name": "\ud30c\ub780 \ubd04",
-      "url": "https://open.spotify.com/track/0KpXBGMi5TPHu8cJGWvNBb"
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
     }
   ],
   "unique_name": "v o K a l",

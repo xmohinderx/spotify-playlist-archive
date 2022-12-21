@@ -1,6 +1,6 @@
 {
   "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 la sad e villa in cover",
-  "num_followers": 30590,
+  "num_followers": 30606,
   "original_name": "sanguegiovane",
   "owner": {
     "name": "Spotify",
@@ -16,10 +16,6 @@
       },
       "artists": [
         {
-          "name": "The\u00f8",
-          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
-        },
-        {
           "name": "Plant",
           "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
         },
@@ -28,12 +24,16 @@
           "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
         },
         {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
         },
         {
           "name": "LA SAD",
           "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
       "duration_ms": 178969,

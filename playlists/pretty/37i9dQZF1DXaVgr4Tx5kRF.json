@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 572529,
+  "num_followers": 572656,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMDI4NWUzMzI5NjlkNmM5ODcyMzM0MzYxOTAwZDhkY2Zh",
+  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMGNkNjljM2I2ZDhmNGE1MDRmZTYzOTI2MzUyZjA0MGU1",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Ugly Beautiful",
-        "url": "https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb"
-      },
-      "artists": [
-        {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 210200,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Ugly Beautiful",
+        "url": "https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb"
+      },
+      "artists": [
+        {
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Everything Must Go 20 (Remastered)",
-        "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "A Design for Life - 2016 Remastered Version",
-      "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Give Out But Don't Give Up",
         "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 217373,
       "name": "Rocks",
       "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Everything Must Go 20 (Remastered)",
+        "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 257653,
+      "name": "A Design for Life - 2016 Remastered Version",
+      "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Kollected - The Best Of Kula Shaker",
-        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
-      },
-      "artists": [
-        {
-          "name": "Kula Shaker",
-          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Tattva",
-      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 422600,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Kollected - The Best Of Kula Shaker",
+        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
     },
     {
       "added_at": "2022-05-04 17:11:49",

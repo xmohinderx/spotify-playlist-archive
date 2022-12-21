@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,909 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,959 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Runaway](https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Runaway](https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH) | 3:06 |
 | 9 | [COOL KIDS](https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [COOL KIDS](https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU) | 2:16 |
 | 10 | [I Hate You, I Love You](https://open.spotify.com/track/18RK0e1rjXAF7sPE8h3IBn) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [I Hate You, I Love You](https://open.spotify.com/album/7lKYxMi5eKpAtoEHDfBwEj) | 2:22 |
-| 11 | [Moje Sve](https://open.spotify.com/track/0Hq0gYL2x4P0SMpeOmPD52) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Segen und Fluch](https://open.spotify.com/album/33hoFyeXIrysMK2QgtwpSr) | 2:43 |
-| 12 | [Wenn Du die Augen schließt](https://open.spotify.com/track/0vyuUUq4T4zHVomByCKOUJ) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn Du die Augen schließt](https://open.spotify.com/album/3E0a4bY370TM8hTPRy1mZd) | 2:52 |
+| 11 | [Wenn Du die Augen schließt](https://open.spotify.com/track/0vyuUUq4T4zHVomByCKOUJ) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn Du die Augen schließt](https://open.spotify.com/album/3E0a4bY370TM8hTPRy1mZd) | 2:52 |
+| 12 | [Moje Sve](https://open.spotify.com/track/0Hq0gYL2x4P0SMpeOmPD52) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Segen und Fluch](https://open.spotify.com/album/33hoFyeXIrysMK2QgtwpSr) | 2:43 |
 | 13 | [hausflur](https://open.spotify.com/track/6xlnblDNPhIcEKrAePjNgV) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [verlierer](https://open.spotify.com/album/0q8XIgIhKo2O2oukgDsy2s) | 2:47 |
 | 14 | [Glue](https://open.spotify.com/track/3wRg5uSSBcSusvRux1ZxJQ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [I Am My Mother](https://open.spotify.com/album/3pNWUdehNQaNeMlRpwkhx1) | 2:16 |
 | 15 | [99 Probleme](https://open.spotify.com/track/5kzcodJVFIui6nCRAfKw3O) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:33 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [BEIFAHRERSITZ](https://open.spotify.com/track/1YZU0P3SdMWIjNWdUixYzd) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [BEIFAHRERSITZ](https://open.spotify.com/album/1ydhVNe1Gut5PMC5hXr92D) | 3:04 |
 | 28 | [Wasser](https://open.spotify.com/track/6JL3BHxeR7jiGY6SOIxq2m) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Wasser](https://open.spotify.com/album/1mL6Awa2c23Y8TAZEU3kHb) | 2:31 |
 | 29 | [Mona Lisa, a girl's best friend](https://open.spotify.com/track/5vHUwpWDPKGkTsA7Th7bCf) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 3:20 |
-| 30 | [SO WIE ICH](https://open.spotify.com/track/5yN903LkiXLmyEuGzwMJUh) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [WORAN HÄLTST DU DICH FEST, WENN ALLES ZERBRICHT?](https://open.spotify.com/album/4xmhtPurl9t7IFDxUnyCrt) | 3:39 |
-| 31 | [Mirror](https://open.spotify.com/track/5YNQEdw7Oh7ALLQ4Jltzg2) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Mirror](https://open.spotify.com/album/6sN1NexZcInVG5scqfgaw0) | 2:20 |
+| 30 | [Mirror](https://open.spotify.com/track/5YNQEdw7Oh7ALLQ4Jltzg2) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Mirror](https://open.spotify.com/album/6sN1NexZcInVG5scqfgaw0) | 2:20 |
+| 31 | [SO WIE ICH](https://open.spotify.com/track/5yN903LkiXLmyEuGzwMJUh) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [WORAN HÄLTST DU DICH FEST, WENN ALLES ZERBRICHT?](https://open.spotify.com/album/4xmhtPurl9t7IFDxUnyCrt) | 3:39 |
 | 32 | [Flowers](https://open.spotify.com/track/6p2DKSuKLPvIBIHkoqBTtX) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Flowers](https://open.spotify.com/album/3FtYC7MmFKnjJoCE1aElBx) | 3:36 |
 | 33 | [House of the Lost](https://open.spotify.com/track/58HTIOhO6njnB6EttbH8RO) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [House of the Lost](https://open.spotify.com/album/0VJxrvIS07zcIbKHKYBSrp) | 2:46 |
 | 34 | [Schiebedach](https://open.spotify.com/track/4p4fKKNyiDT76Xvw1IWVA0) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Liebe 404](https://open.spotify.com/album/1V2uMKtPGqx7RK5bGjDcVj) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6dQzvpLz9qwutLYx6GUYCM) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Mirrors](https://open.spotify.com/album/0KnR5gUhV3Hb6mL13zU05z) | 4:21 |
 | 50 | [Shitlife](https://open.spotify.com/track/2LL9g7WEYzeVM2q7wtORWW) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Softness, Pt\. 2](https://open.spotify.com/album/1kFBJy9PoFDTiVlfAPuqDF) | 3:45 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDI2ZmFkYWY5ZDEyMTlmMWYzZTg1MzM3NTBkODYxNjk5`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGRmNzFmMTQyZGNjYzQ4MGU1ZTY1ZGU2NzM3Nzc3NWQ0`

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 9482,
+  "num_followers": 9498,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMDM5N2MyNmU4Y2JlMDZlZDRjMDc2YjViMDllMGFlYjM2",
+  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMGIyNGI4NjE4OWRhNWRiODMwNjJlMWYwMWJlNWExZDIx",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1017,26 +1017,6 @@
       "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
     },
     {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "JUDAH LION",
-        "url": "https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "JUDAH LION",
-      "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Bordeaux",
@@ -1067,6 +1047,26 @@
       "duration_ms": 198555,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "JUDAH LION",
+        "url": "https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "JUDAH LION",
+      "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Dutty Love",
-        "url": "https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4"
-      },
-      "artists": [
-        {
-          "name": "Ojahbee",
-          "url": "https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Dutty Love",
-      "url": "https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Your Love (Mogbe)",
         "url": "https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Dutty Love",
+        "url": "https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4"
+      },
+      "artists": [
+        {
+          "name": "Ojahbee",
+          "url": "https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Dutty Love",
+      "url": "https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT"
     },
     {
       "added_at": "2022-08-12 05:44:57",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Streets",
-        "url": "https://open.spotify.com/album/1goCePe21K8C2PtUJ5ylFa"
+        "name": "Somali Rose",
+        "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
       },
       "artists": [
         {
-          "name": "Dwin, The Stoic",
-          "url": "https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC"
-        },
-        {
-          "name": "Rhaffy",
-          "url": "https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL"
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
         }
       ],
-      "duration_ms": 166517,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4"
+      "duration_ms": 259673,
+      "name": "Somali Rose",
+      "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
     }
   ],
   "unique_name": "Chill Bops",

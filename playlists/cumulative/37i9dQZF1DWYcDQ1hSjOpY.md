@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-365 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+369 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Eleven Degrees North](https://open.spotify.com/track/1ytBTJUCVq3ljXsEri2Bel) | [Simeon Oliver](https://open.spotify.com/artist/0JeUJ2ivX8X1GyI4p02swQ) | [If You Please](https://open.spotify.com/album/12aULoazclVKrdDnYSESym) | 3:44 | 2021-11-10 |  |
 | [Ellips](https://open.spotify.com/track/1BElZwQK3VhQ8iHRMolo1i) | [Nightweaver](https://open.spotify.com/artist/6tfQKH57x0m7yECik90Rd9) | [Ellips](https://open.spotify.com/album/19CV6Lr9VbryVgNcoyPMm4) | 2:56 | 2021-11-10 |  |
 | [Elphine](https://open.spotify.com/track/7q0inA86Z78g6BIY06xwoz) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Elphine](https://open.spotify.com/album/4jl6RTcFr236YEhqs4s7EH) | 2:22 | 2021-11-10 |  |
+| [Elude](https://open.spotify.com/track/3IIX3ZJHdlQ7jJc13FOKH9) | [Vinyardo](https://open.spotify.com/artist/2wQMVtkA9XenZkYUbyoE1Y) | [Anya](https://open.spotify.com/album/2kfA1EeuBVBTpXdQrOFdZC) | 2:42 | 2022-12-20 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 | 2022-03-25 |
 | [Engel Stemme](https://open.spotify.com/track/1lwYE92fXWS6nebOLO5yTR) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Engel Stemme](https://open.spotify.com/album/6YEYVd0UNdA0JNFoc02YWx) | 3:50 | 2021-11-10 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-11-10 |  |
@@ -133,6 +134,7 @@
 | [Erlaxatu](https://open.spotify.com/track/3ROErV7ENsyuiM8CYd4uNP) | [Aingeni](https://open.spotify.com/artist/0cUxB8x7iRbqVCgZmdBtk8) | [Erlaxatu](https://open.spotify.com/album/7CfQJT2XMbcy52URkSYap1) | 2:38 | 2022-10-21 |  |
 | [Eternal Drift](https://open.spotify.com/track/3F8dD3bpSN4MiQtZJ4TRS1) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Eternal Drift](https://open.spotify.com/album/59Yown2MHetdJBLUXqGdeq) | 1:33 | 2021-11-10 |  |
 | [Eternal Glow](https://open.spotify.com/track/6utIEcZZHk4AbF3fBVIlNM) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Eternal Glow](https://open.spotify.com/album/2sKXwQiIpJjRiUYnKF2OqV) | 2:47 | 2021-11-10 |  |
+| [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2022-12-20 |  |
 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2021-11-10 |  |
 | [Europa](https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Europa](https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t) | 3:13 | 2022-05-05 |  |
 | [Fate](https://open.spotify.com/track/1Pxoyavrxw7aElGkMwWHVj) | [Reuben Hensley](https://open.spotify.com/artist/0mz4d5jY4R7Xby9AUlpViB) | [Fate](https://open.spotify.com/album/04QvfbZwhaFKDtp1Qou7vO) | 2:53 | 2021-11-10 |  |
@@ -166,6 +168,7 @@
 | [Hopeful](https://open.spotify.com/track/6pnhLxKJShRqP5YeXdtkWc) | [Asher Francis](https://open.spotify.com/artist/7A3PJ0HRctOwwSLMIwFDte) | [Hopeful](https://open.spotify.com/album/5qNrPIDJil1rGVkiO8LI9A) | 2:11 | 2021-11-10 |  |
 | [Horizons](https://open.spotify.com/track/5UTGQ7EW9lD4sCJs1QjL9l) | [Thalia Mathis](https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F) | [Horizons](https://open.spotify.com/album/6Wk54eiOWaHHWGQ8n5oGKh) | 2:34 | 2022-12-02 |  |
 | [Hybrid](https://open.spotify.com/track/1VRFoW2WUOY4FxQNvdTcja) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Dreamcatcher](https://open.spotify.com/album/7BddZNhcTyWCJnnglynrT3) | 2:25 | 2022-01-28 |  |
+| [If Ever Two Were One](https://open.spotify.com/track/725z4lty7B7pcrBzg4udLU) | [Troy Fuentes](https://open.spotify.com/artist/7FsKe2FZdoq66vdqJjIMCM) | [If Ever Two Were One](https://open.spotify.com/album/6ircWe4J1ug26qcNNQTuuT) | 2:46 | 2022-12-20 |  |
 | [If Only I Could Fly](https://open.spotify.com/track/5YqXPRA1ErLjJ9UZCJxJyG) | [Dream Flows](https://open.spotify.com/artist/2uktBHXHPmG6qYMOypLCHl) | [Ever So Slightly](https://open.spotify.com/album/1w8fsgM9nty9TyheWILL2Z) | 1:47 | 2021-11-10 |  |
 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 | 2021-11-10 |  |
 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 | 2021-11-10 |  |
@@ -271,6 +274,7 @@
 | [Recognition](https://open.spotify.com/track/6xVQVTHr7fV0LF4A0Fu2nZ) | [Vivienne Mathieu](https://open.spotify.com/artist/5E76BhZoqL5bXb38tiDtDu) | [Recognition](https://open.spotify.com/album/4l7eJPNHJBWCJW2Za5m1tz) | 2:32 | 2022-11-11 |  |
 | [Reflections](https://open.spotify.com/track/33Gd870hCA6BtxcUsux3II) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Reflections](https://open.spotify.com/album/5HFHTBrxqpifCFFd4nZ28k) | 2:38 | 2022-09-30 |  |
 | [Reflections](https://open.spotify.com/track/2RZxw2tD8VenO9k5vawirO) | [Klara Forýs](https://open.spotify.com/artist/2IxUpCvKOJSylcWrtRD6i9) | [Reflections](https://open.spotify.com/album/2UFypZ8OWd8iHsdcfjkdLT) | 2:46 | 2021-11-10 |  |
+| [Regalo](https://open.spotify.com/track/5qcmNLdFifX58Gv1GurM3D) | [Lia Ventie](https://open.spotify.com/artist/3pYx1bZWCGHLXHeiicrQDK) | [Ayudarme](https://open.spotify.com/album/1auxggMk9ZEffExwWJvMcz) | 2:00 | 2022-12-20 |  |
 | [Relaksohuni](https://open.spotify.com/track/2iXFZRMJCWCkLd8hrm8GmO) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Relaksohuni](https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ) | 3:02 | 2021-11-10 |  |
 | [Reoite](https://open.spotify.com/track/6DCLjXH0ak1YerLNW2hwcI) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Reoite](https://open.spotify.com/album/6k3bhzXrhLfc9z9fUdo7h8) | 2:22 | 2021-11-10 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2021-11-10 |  |

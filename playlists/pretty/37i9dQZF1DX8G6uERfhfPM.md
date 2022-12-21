@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain]
 
 > Best of the Jazz music scene in India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,928 likes - 71 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,937 likes - 71 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

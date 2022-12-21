@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 
 > Un viaje musical por nuestras raíces prehispánicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,516 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,523 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 11 | [Josefinita](https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS) | [Rocío Próspero](https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l) | [Antología de la Música P'urhepecha, Vol\. VII](https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc) | 2:33 |
 | 12 | [California Nipaia Nipaia \- Adiós California](https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv) | [Banda Revelación de San Andrés Michoacán](https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk) | [Toro Pinto: Música Purépecha \(Abajeños / Pirékuas / Sones\)](https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs) | 3:34 |
 | 13 | [Danza Del Tambor](https://open.spotify.com/track/5aUsfU1EVSDQEBaoXjHNhK) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [The Flayed God](https://open.spotify.com/album/36hOL8R8t9sKSz64pQ9qxK) | 3:01 |
-| 14 | [Jajvel](https://open.spotify.com/track/3xxs8YXrqQW2lILPeQ9Pxz) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Slajem K'op](https://open.spotify.com/artist/0tfqvpIPdZzRdu8fcCedMb) | [K'op Kuxul](https://open.spotify.com/album/4fh1lwgtTR6adLCmxv2kjB) | 3:25 |
+| 14 | [Male Chabelita](https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR) | [Banda Laser](https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4) | [Male Chabelita \(Música Purepecha, Abajeños, Sones, Pirékuas\)](https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr) | 3:37 |
 | 15 | [Flauta Grande de Colima y Caracol Azteca](https://open.spotify.com/track/0tGIHFgNu2kKuyWcJE5gug) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 0:52 |
-| 16 | [Male Chabelita](https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR) | [Banda Laser](https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4) | [Male Chabelita \(Música Purepecha, Abajeños, Sones, Pirékuas\)](https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr) | 3:37 |
+| 16 | [Jajvel](https://open.spotify.com/track/3xxs8YXrqQW2lILPeQ9Pxz) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Slajem K'op](https://open.spotify.com/artist/0tfqvpIPdZzRdu8fcCedMb) | [K'op Kuxul](https://open.spotify.com/album/4fh1lwgtTR6adLCmxv2kjB) | 3:25 |
 | 17 | [Copal Offering To The Four Directions](https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Aztec Dances](https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd) | 4:43 |
 | 18 | [Suite al Culto Solar \- In Altepetl Tonal](https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii) | [Luis Perez](https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS) | [Ipan In Xiktli Metztli \(México Mágico Cósmico, en el Ombligo de la Luna\)](https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N) | 3:20 |
 | 19 | [Xochipitzahua / Flor Menudita \(A Guitarra y Zampoña Desde Casa\)](https://open.spotify.com/track/5dAalqBNmHi3qNeAfHeKfQ) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [Xochipitzahua / Flor Menudita \(A Guitarra y Zampoña Desde Casa\)](https://open.spotify.com/album/4lnCOgwtCf98BetdUh3DeP) | 2:40 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 29 | [Ofrenda a Huitzilopoxtli](https://open.spotify.com/track/5tJWeSXyV9qzCbIPkKcrBh) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:16 |
 | 30 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5rvaAQ4KccKBQX3DgW5z8T) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:33 |
 
-Snapshot ID: `MTYzMTIzMDIyOCwwMDAwMDAwMDUzZjhmNWM1MjVhNWM3ZTg5ODFjN2EzNTliZTAxYTgz`
+Snapshot ID: `MTYzMTIzMDIyOCwwMDAwMDAwMGVlODc4ODM0MjRmMTZkNmE0MGQwOTc4ZWVkOTY3ZjI4`

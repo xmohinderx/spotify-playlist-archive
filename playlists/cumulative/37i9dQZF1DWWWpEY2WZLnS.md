@@ -4,7 +4,7 @@
 
 > Lo mas pegao en Dembow\. <br/>Cover: Farina
 
-134 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
+135 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [El Niño](https://open.spotify.com/track/75HO1EKtI4QSsKjP3qU613) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Cambiando el Juego](https://open.spotify.com/album/1JLwZcj57nk69vrlbCLym5) | 2:44 | 2022-03-18 |  |
 | [El Patron](https://open.spotify.com/track/0EfgdRTQ7GQ8kTkphHwKWq) | [Chiki El De La Vaina](https://open.spotify.com/artist/3FRVhQjAe73b3Et1XsOCnF), [Saeta el Lider](https://open.spotify.com/artist/1RFV4obXyCDfr7Kuh1X64D), [Tommy Titerito](https://open.spotify.com/artist/4FptG3srb8GD0OerIuuvsV) | [El Patron](https://open.spotify.com/album/5J8tDb4Xw5CFCAYvKaGkP9) | 3:04 | 2022-03-18 |  |
 | [El Perico \- Remix](https://open.spotify.com/track/3M6x1JHQl3lljk3YPW2z7Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Mega](https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs), [Mandrake](https://open.spotify.com/artist/59Jj7AyajlK7eLa1JKaHcc) | [El Perico \(Remix\)](https://open.spotify.com/album/05a0m5nAXLWEIooQHrgVLE) | 3:01 | 2022-03-18 |  |
+| [El Toro](https://open.spotify.com/track/6lyoUlB3Ppo4MHrG2Sp47o) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [El Toro](https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH) | 2:39 | 2022-12-20 |  |
 | [Electrica](https://open.spotify.com/track/37rWH6oWKMq8JTadyzmbNG) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [rosmailin wa](https://open.spotify.com/artist/3XlmlCduqAlfsTPNAR0zIK) | [Electrica](https://open.spotify.com/album/2lj326xftmGNvaG0sEwX0U) | 2:05 | 2022-04-15 |  |
 | [Elma Maria](https://open.spotify.com/track/2X0ZB9z924BusDXia6yYiw) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Elma Maria](https://open.spotify.com/album/1uCTg0kVU6LzfFeBjK7CR7) | 3:16 | 2021-11-19 |  |
 | [Esta Si](https://open.spotify.com/track/2xjd6t95oEuxTn9vjWkC0n) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Esta Si](https://open.spotify.com/album/5aDc8yNNHhhab8EyeNLGej) | 3:24 | 2022-03-18 |  |

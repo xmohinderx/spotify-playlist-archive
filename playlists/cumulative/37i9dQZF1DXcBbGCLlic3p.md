@@ -4,14 +4,14 @@
 
 > Restorative piano and ambient music.
 
-246 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+247 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 | 2021-12-23 |  |
-| [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 | 2021-12-23 |  |
-| [](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 0:00 | 2021-12-23 |  |
-| [](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 | 2021-12-23 | 2022-12-21 |
+| [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 | 2021-12-23 | 2022-12-21 |
+| [](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 0:00 | 2021-12-23 | 2022-12-21 |
+| [](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 0:00 | 2021-12-23 | 2022-12-21 |
 | [](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 | 2021-12-23 | 2022-09-03 |
 | [& Wishes](https://open.spotify.com/track/4hkCo5wgTmVLuVRUUgPDu7) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6S14GsEPWVumGwNoc4t0Zw) | 2:43 | 2021-12-23 | 2022-07-29 |
 | [& Wishes](https://open.spotify.com/track/73hY81aqUHZF1KHCY7P5Mk) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6btauNVZRPm75SILUUOLJY) | 2:44 | 2022-07-22 |  |
@@ -143,6 +143,7 @@
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-12-23 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2021-12-23 |  |
 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 | 2021-12-23 |  |
+| [Nidificatis](https://open.spotify.com/track/1pV8smgVNjsXkKafaR3Xzw) | [Naara Constellation](https://open.spotify.com/artist/2hBWR8hVlBRuM7Zuoe3vKM) | [Nidificatis](https://open.spotify.com/album/6qn2pv0c1CI7wz4VQIRTG4) | 2:15 | 2022-12-20 |  |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2021-12-23 | 2022-09-03 |
 | [No me despiertes](https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [No me despiertes](https://open.spotify.com/album/2ZiLz7HnpiTwkZiP3ZW7gF) | 3:07 | 2021-12-23 |  |
 | [No One Knows](https://open.spotify.com/track/55cj9j5lNgAsKIYjX2mJLm) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [No One Knows](https://open.spotify.com/album/5yog0IePhrPvYeh3SU7kGM) | 3:14 | 2021-12-23 |  |
@@ -199,7 +200,7 @@
 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
 | [Skirr](https://open.spotify.com/track/0tzo8lb0ghQsazQTkmUtss) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Skirr](https://open.spotify.com/album/02bD03yEh1tcxFNVEIIXqj) | 2:30 | 2022-03-03 |  |
 | [Slowly Drifting Away](https://open.spotify.com/track/3xgSzRqNvrQtUVcYP0LxdI) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Slowly Drifting Away](https://open.spotify.com/album/3mTYgLak5gS3ZQqheAFLMj) | 2:58 | 2022-03-03 |  |
-| [Slowly Relaxing](https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:21 | 2021-12-23 |  |
+| [Slowly Relaxing](https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:21 | 2021-12-23 | 2022-12-21 |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-23 |  |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Soluma](https://open.spotify.com/track/1pfYu9JKsojWVnmb5J9Xc0) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Soluma](https://open.spotify.com/album/1qoutOhGSCzeCZSp3Is4Ps) | 3:44 | 2021-12-23 |  |

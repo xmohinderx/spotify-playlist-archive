@@ -1598,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "enemy",
+        "url": "https://open.spotify.com/album/4qRXeEzlFMUJozSzXGCDX4"
+      },
+      "artists": [
+        {
+          "name": "dawgss",
+          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "enemy",
+      "url": "https://open.spotify.com/track/1qCnJZRn6iAXbWOCfiFhak"
+    },
+    {
+      "album": {
         "name": "error",
         "url": "https://open.spotify.com/album/5D1RTl6tH5l0ZoiQoztNdx"
       },
@@ -3326,6 +3344,28 @@
     },
     {
       "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174219,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
+    },
+    {
+      "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/5zMhYV7mGuSjeojqJHKfdm"
       },
@@ -3651,7 +3691,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 264903,
       "name": "Night Out",
       "url": "https://open.spotify.com/track/0qO3nh7giIoryNbhpkA52V"
@@ -4964,6 +5004,24 @@
     },
     {
       "album": {
+        "name": "Something's Wrong -EP-",
+        "url": "https://open.spotify.com/album/66ygCCt3KocnFaSjaEkrau"
+      },
+      "artists": [
+        {
+          "name": "TOSH",
+          "url": "https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208857,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/6AXsqlJW6QxA4rt4zmx5LH"
+    },
+    {
+      "album": {
         "name": "Talking Box (Dirty Pop Remix) / SPACESHIP",
         "url": "https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q"
       },
@@ -5325,7 +5383,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 272230,
       "name": "Sweet Child",
       "url": "https://open.spotify.com/track/2yqsyoYqdrfHTSY9kYlLhp"
@@ -6085,7 +6143,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 190344,
       "name": "World is Mine",
       "url": "https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS"
@@ -6569,7 +6627,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 207239,
       "name": "\u304a\u307c\u3048\u305f\u3066",
       "url": "https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF"
@@ -6868,6 +6926,24 @@
     },
     {
       "album": {
+        "name": "Branch",
+        "url": "https://open.spotify.com/album/6Slv8BDdb7322gk9MghxHb"
+      },
+      "artists": [
+        {
+          "name": "Monthly Mu & New Caledonia",
+          "url": "https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215778,
+      "name": "\u3069\u304e\u307e\u304e",
+      "url": "https://open.spotify.com/track/27wRgdpVu61YL1LJq5H6dZ"
+    },
+    {
+      "album": {
         "name": "\u306f\u3058\u307e\u308b",
         "url": "https://open.spotify.com/album/68xb9Fj47KT2j6YCerL0QL"
       },
@@ -6987,7 +7063,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 166000,
       "name": "\u3082\u3046\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/5lHUcQLVfpvLHcr7X43xiy"
@@ -7646,6 +7722,24 @@
     },
     {
       "album": {
+        "name": "Dear DECADE,",
+        "url": "https://open.spotify.com/album/2Q7v2wgfYIuZ2JoPa3Puhr"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/3ilHK59gf2Rmw1QHr6bdnI"
+    },
+    {
+      "album": {
         "name": "\u4e5d\u7a2e\u4e5d\u724c",
         "url": "https://open.spotify.com/album/3DvopbZPVLdM5twT6Rob9Z"
       },
@@ -8021,7 +8115,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 196333,
       "name": "\u30e0\u30b9\u30af\u306e\u9999\u308a",
       "url": "https://open.spotify.com/track/5N7gaC7e7eeOFe8Bgnzhti"

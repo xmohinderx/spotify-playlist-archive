@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-327 songs - 5 day 1 hr 44 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
+328 songs - 5 day 1 hr 58 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [14:31](https://open.spotify.com/track/3gpLIMd0ySkcorvVIMtmTp) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 14:38 | 2022-05-25 |  |
 | [17:43](https://open.spotify.com/track/7almtV6686k9AcE2FFOYip) | [Nico Seel](https://open.spotify.com/artist/39DOxPvEw50bnpSDBxrDGl) | [Für Immer, dein weißes Rauschen](https://open.spotify.com/album/1WxCOFCZ5qOS7ELpMBQ1Xo) | 17:28 | 2022-05-25 |  |
 | [20,880 Breaths](https://open.spotify.com/track/6EmOhzudC2WiEGFj0o5mru) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Thoughts or Feelings?](https://open.spotify.com/album/5vMoeKUXBSkrIuXxgkB7YC) | 1:31:38 | 2022-05-25 |  |
+| [2679 miles away](https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Paradoxically, forgetting](https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN) | 13:55 | 2022-12-20 |  |
 | [49 Days](https://open.spotify.com/track/2Q5NRptvgxkvMkPlhOQJve) | [PDP III](https://open.spotify.com/artist/2Esvw7cg26pnkY21vbFuos), [Britton Powell](https://open.spotify.com/artist/2JrU8x8JbXJRhiVNvvXpxV), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Pilled Up on a Couple of Doves](https://open.spotify.com/album/0J8haEuiXYtr6z7Pg4HFz6) | 19:46 | 2022-05-25 |  |
 | [77 Million Paintings](https://open.spotify.com/track/2YkMGSJ1NgdPoHu7TsxtGO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Installations](https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq) | 44:00 | 2022-05-25 |  |
 | [A 477](https://open.spotify.com/track/1zpArFIlQ4ZS2j5PFa86al) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 15:51 | 2022-05-25 |  |

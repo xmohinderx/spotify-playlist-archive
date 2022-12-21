@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-423 songs - 1 day 2 hr 26 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+424 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Cruel World \- Jim\-E Stack Remix](https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Cruel World \(Jim\-E Stack Remix\)](https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS) | 3:12 | 2020-12-21 | 2022-07-29 |
 | [Crush](https://open.spotify.com/track/2y7JqO7Jc7ErdOmxpvifRF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 4:26 | 2020-12-21 | 2022-04-20 |
 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 | 2022-05-06 |  |
-| [D'vocean](https://open.spotify.com/track/7mkjLeqNeFLuzjcf2sOTqP) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [D'vocean](https://open.spotify.com/album/7EdGStQq6pCfMdURb1T2Hz) | 3:38 | 2022-05-06 |  |
+| [D'vocean](https://open.spotify.com/track/7mkjLeqNeFLuzjcf2sOTqP) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [D'vocean](https://open.spotify.com/album/7EdGStQq6pCfMdURb1T2Hz) | 3:38 | 2022-05-06 | 2022-12-21 |
 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-19 |  |
 | [Dance Like U](https://open.spotify.com/track/1xCwzlJ0pXrAQfh5B09eZ3) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 2:50 | 2020-12-21 | 2022-04-19 |
 | [Dark & Handsome](https://open.spotify.com/track/0Zgcv1wy4bRWpfsM27uPGK) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Angel's Pulse](https://open.spotify.com/album/3KLLRiCnqYvt78H52TeZ1k) | 2:33 | 2020-12-21 | 2022-04-21 |
@@ -248,6 +248,7 @@
 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 | 2022-07-08 |  |
 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 | 2022-07-20 |  |
 | [Midnight Blue](https://open.spotify.com/track/0GHlFvtU5ALfhCSNEtTE0T) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Midnight Blue](https://open.spotify.com/album/6SEcf0C3QO1K45Fju3dqEO) | 4:39 | 2020-12-21 | 2022-04-20 |
+| [Mis](https://open.spotify.com/track/0DSgZOTRW9O7FGlheqWCHg) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Rules](https://open.spotify.com/album/0Nz3xKQGtje65y3xcEVj3N) | 3:20 | 2022-10-28 |  |
 | [Miss Me Sometimes U Do](https://open.spotify.com/track/4g9VBiwuUAsUnhfqVstSuf) | [The Nice Nice](https://open.spotify.com/artist/0eFNwPu1ML0WJ0Bobwakea) | [Miss Me Sometimes U Do](https://open.spotify.com/album/3gcN6pRbxzn7qmI8ip30g1) | 3:23 | 2020-12-21 | 2022-04-19 |
 | [Mixer](https://open.spotify.com/track/5Gda2dF6ew4ORmTL4xaxZT) | [Nap Eyes](https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7) | [Thought Rock Fish Scale](https://open.spotify.com/album/1FDHzgZsF2Pn7CL9d87eRY) | 4:36 | 2020-12-21 | 2022-04-20 |
 | [Monday](https://open.spotify.com/track/6F5SQwp6UjEA99hnevuF6w) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Monday](https://open.spotify.com/album/7lKgwQvRpotyn5gu6B6NQu) | 4:07 | 2020-12-21 | 2022-04-18 |

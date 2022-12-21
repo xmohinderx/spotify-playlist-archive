@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Athroo",
+        "url": "https://open.spotify.com/album/4se8I5DaOxmaiBPVfwbyXR"
+      },
+      "artists": [
+        {
+          "name": "Karan Randhawa",
+          "url": "https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169270,
+      "name": "Athroo",
+      "url": "https://open.spotify.com/track/1N2Zv3CeSFygwFWdpAMV1m"
+    },
+    {
+      "album": {
         "name": "Attitude (From \"Babe Bhangra Paunde Ne\")",
         "url": "https://open.spotify.com/album/3pcfgQjmTD9v9z2uq4Zoj4"
       },

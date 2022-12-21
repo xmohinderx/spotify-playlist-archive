@@ -794,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Eternal Spaces",
+        "url": "https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168874,
+      "name": "Eternal Spaces",
+      "url": "https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq"
+    },
+    {
+      "album": {
         "name": "Eternity and Beyond",
         "url": "https://open.spotify.com/album/5eyxjz1D0sA4KPH7wrOa05"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 68981,
+  "num_followers": 69114,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDZjZjlkODdhNDIzNzE5ZmVjNDE2YzMzMDg5MWRmYzll",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDIyMzQ5Y2FkZDA1ZGQ5YWEyMGQ0MTQ2ZGU4YWU3MTM2",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -227,6 +227,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Nwa Baby (Ashawo Remix)",
+        "url": "https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "Nwa Baby - Ashawo Remix",
+      "url": "https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 288130,
       "name": "Adonai (Remix) [feat. Castro]",
       "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Nwa Baby (Ashawo Remix)",
-        "url": "https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 257880,
-      "name": "Nwa Baby - Ashawo Remix",
-      "url": "https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX"
     },
     {
       "added_at": "2020-11-06 13:21:21",

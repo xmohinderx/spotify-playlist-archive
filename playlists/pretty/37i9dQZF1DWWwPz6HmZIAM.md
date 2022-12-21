@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,269 likes - 53 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,302 likes - 54 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 | 51 | [fragile](https://open.spotify.com/track/3Zp85gotRBHjqkEfJ0sQ0q) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:08 |
 | 52 | [fourth](https://open.spotify.com/track/1pnQ4KFFScTV4HalmIleIv) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:28 |
 | 53 | [daylily](https://open.spotify.com/track/5gfJrXcpdoLUJvzU4wb2rS) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 2:35 |
+| 54 | [first death \(Slushii Remix\)](https://open.spotify.com/track/1MP6V6J9u0vC9lCWRz7Sjz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [first death \(Slushii Remix\)](https://open.spotify.com/album/1u0liJXMHykVQ73cwjyuwP) | 3:13 |
 
-Snapshot ID: `MTY2OTczNDAwMCwwMDAwMDAwMDdlZDI5MzQyODRkNTY3Nzg5YzNlODZlNzQ4M2YxYmM4`
+Snapshot ID: `MTY3MTU0ODQwMCwwMDAwMDAwMDgyMmY1ZTczMTY5NGZhMzJkYTM2ZjdmMjc1MjRlYWFh`

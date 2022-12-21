@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Little Simz \(pictured\), Tom Grennan, Central Cee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,807 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,850 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 30 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 |
 | 31 | [Checkers \(feat\. Bandmanrill\)](https://open.spotify.com/track/2UUEnFfWx3y3lPKiwHTknQ) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Checkers \(feat\. Bandmanrill\)](https://open.spotify.com/album/3xszxg2o7K6EPVBpihMo4n) | 2:41 |
 | 32 | [Give Me Your Heart](https://open.spotify.com/track/26U22Oyiz9MC3y1CzxJq3a) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy) | [Give Me Your Heart](https://open.spotify.com/album/0NWnmc7lfGrZOr4mUmmVus) | 3:58 |
-| 33 | [Blessing](https://open.spotify.com/track/5Uwb5MlCwXaRWCFEF2GC4I) | [Swarmz](https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ) | [Blessing](https://open.spotify.com/album/1YOhDImNXsNeuG5LGUG1Jw) | 3:32 |
+| 33 | [Blessing](https://open.spotify.com/track/5Uwb5MlCwXaRWCFEF2GC4I) | [Swarmz](https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ) | [Blessing](https://open.spotify.com/album/1YOhDImNXsNeuG5LGUG1Jw) | 3:25 |
 | 34 | [btw.](https://open.spotify.com/track/75MNaynUPdW8rht91ibZfE) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [u the real star here \(Deluxe\)](https://open.spotify.com/album/0NlWe8XF3PV1DHNtSuqntH) | 1:45 |
 | 35 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 |
 | 36 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 |

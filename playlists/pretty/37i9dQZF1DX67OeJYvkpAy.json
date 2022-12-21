@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 80710,
+  "num_followers": 80770,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDM1MTQ5Njk1MmRmYmI1MDJiYjA1NWVmN2MyOTM3Y2E3",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGE4ODA3NDYyM2NjNjQxYzgxMzY4NjcyMzU3ODRlNzIw",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
-      },
-      "artists": [
-        {
-          "name": "Mboogz",
-          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
-        }
-      ],
-      "duration_ms": 213790,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Frozen Gold",
         "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 138135,
       "name": "Frozen Gold",
       "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
+      },
+      "artists": [
+        {
+          "name": "Mboogz",
+          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
+        }
+      ],
+      "duration_ms": 213790,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "No Games",
-        "url": "https://open.spotify.com/album/6mdanK35TKkMBZDVOEAjwc"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 153912,
-      "name": "No Games",
-      "url": "https://open.spotify.com/track/3wpnvzQY2AKFnIvrx1o9Mf"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/6mdanK35TKkMBZDVOEAjwc"
       },
       "artists": [
         {
-          "name": "Adzmilli",
-          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
+      "duration_ms": 153912,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/3wpnvzQY2AKFnIvrx1o9Mf"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -515,6 +499,22 @@
       "duration_ms": 97477,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
+      },
+      "artists": [
+        {
+          "name": "Adzmilli",
+          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 134234,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 195558,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 134234,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Shipp\u016bden",
-        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
       },
       "artists": [
         {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 179594,
-      "name": "Shipp\u016bden",
-      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Shipp\u016bden",
+        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "Shipp\u016bden",
+      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Can\u2019t Feel My Face",
         "url": "https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 162751,
       "name": "Can\u2019t Feel My Face",
       "url": "https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -751,22 +751,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "9AM",
-        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
+        "name": "One Mic Freestyle (S3-EP1)",
+        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
       },
       "artists": [
         {
-          "name": "Drizdoneit",
-          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
-        },
-        {
-          "name": "Jbandz",
-          "url": "https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg"
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 172199,
-      "name": "9AM",
-      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+      "duration_ms": 121624,
+      "name": "One Mic Freestyle (S3-EP1)",
+      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -783,6 +779,26 @@
       "duration_ms": 180047,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "9AM",
+        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
+      },
+      "artists": [
+        {
+          "name": "Drizdoneit",
+          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
+        },
+        {
+          "name": "Jbandz",
+          "url": "https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "9AM",
+      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "J\u00f6etry",
-        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
-      },
-      "artists": [
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "mate in five",
-      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "No Pain",
         "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "J\u00f6etry",
+        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "mate in five",
+      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 96086,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "One Mic Freestyle (S3-EP1)",
-        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 121624,
-      "name": "One Mic Freestyle (S3-EP1)",
-      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
       "artists": [
         {
-          "name": "NSJ Mali",
-          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
+      "duration_ms": 153089,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "My Girl (Gemini)",
-        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
       },
       "artists": [
         {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
+          "name": "NSJ Mali",
+          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
         }
       ],
-      "duration_ms": 153089,
-      "name": "My Girl (Gemini)",
-      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
+      "duration_ms": 185142,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
-      },
-      "artists": [
-        {
-          "name": "KS",
-          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
-        }
-      ],
-      "duration_ms": 146729,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "No Emotions",
         "url": "https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 170062,
       "name": "No Emotions",
       "url": "https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
+      },
+      "artists": [
+        {
+          "name": "KS",
+          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
+        }
+      ],
+      "duration_ms": 146729,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Who Am I?(I Dont Know)",
-        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Who Am I?(I Dont Know)",
-      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "High on Love",
         "url": "https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "I Wanna Start My Life Again",
-        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
+        "name": "Who Am I?(I Dont Know)",
+        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 150884,
-      "name": "I Wanna Start My Life Again",
-      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
+      "duration_ms": 162206,
+      "name": "Who Am I?(I Dont Know)",
+      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1687,6 +1671,22 @@
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/5857X0HSQoIMW8mdJKhDVA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "I Wanna Start My Life Again",
+        "url": "https://open.spotify.com/album/2ZKJfUIWwVZL2dYYrRXetk"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 150884,
+      "name": "I Wanna Start My Life Again",
+      "url": "https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP"
     }
   ],
   "unique_name": "lofi rap",

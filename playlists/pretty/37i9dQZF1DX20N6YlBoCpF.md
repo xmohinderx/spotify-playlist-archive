@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG?si=c9OuKcphROy5gKDb49DkdA">Jakkie Louw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,200 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,220 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 11 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 |
 | 12 | [Suikerbos](https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy) | [Stefan Jansen](https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD) | [Suikerbos](https://open.spotify.com/album/64pO3zEBukMDwyZ8bUSBqU) | 4:17 |
 | 13 | [Sandkasteel](https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Sandkasteel](https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y) | 4:24 |
-| 14 | [Uit my hande \- Dans Remix](https://open.spotify.com/track/4lCtBr0a9mOTohN3J81vwA) | [Jacques & Liezel](https://open.spotify.com/artist/2ze4VL41D2QuhyJcOfDHjo) | [Uit my hande](https://open.spotify.com/album/44la9oqHWKpNcx2eEfTMxP) | 3:53 |
+| 14 | [Uit my hande \- Dans Remix](https://open.spotify.com/track/4lCtBr0a9mOTohN3J81vwA) | [Jacques & Liezel](https://open.spotify.com/artist/2ze4VL41D2QuhyJcOfDHjo) | [Uit my hande \(Dans Remix\)](https://open.spotify.com/album/44la9oqHWKpNcx2eEfTMxP) | 3:53 |
 | 15 | [Alles](https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj) | [Dani Villé](https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE) | [Alles](https://open.spotify.com/album/3y6DJQFdkjfuLwKu2RhV43) | 3:42 |
 | 16 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 |
 | 17 | [Transkei](https://open.spotify.com/track/2o9jYylPOF7mOAF54iMwno) | [Sarel Kleinhans](https://open.spotify.com/artist/1nruqwJit4t0rxlbF0wjBv) | [Transkei](https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm) | 3:27 |

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-284 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+286 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2022-11-25 |  |
 | [Crack](https://open.spotify.com/track/5G84D0D1IpS1zJrmdOYyBx) | [NM Linges](https://open.spotify.com/artist/7F1xpPdr8TnUyGcUJsbDVT) | [Crack](https://open.spotify.com/album/3UM0gnmOYK7WzVtNUmLRsp) | 4:08 | 2022-08-25 | 2022-10-14 |
 | [Dei \- From "Think Specials"](https://open.spotify.com/track/2MJVUEFXFiMFYjqLCnfxUo) | [Inbaraj Rajendran](https://open.spotify.com/artist/66XIpVT4VmscyfSrPNFkaJ), [Anugraha Raphy](https://open.spotify.com/artist/2mOt2eAGBhSlwjiQNkVvvN) | [Dei \(From "Think Specials"\)](https://open.spotify.com/album/721Fc2J0RU2yPYUroSfKEG) | 3:44 | 2022-05-26 | 2022-07-15 |
+| [Dhamaa Thundu](https://open.spotify.com/track/1lUh6aLGOHS70yTY4Yvu5E) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Dhamaa Thundu](https://open.spotify.com/album/7oCcYPS3NlEqh9xY3irW1G) | 1:04 | 2022-12-20 |  |
 | [Dhandasoru](https://open.spotify.com/track/3mAyqaqsWRTY3CM26S1Hxn) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Dhandasoru](https://open.spotify.com/album/7nrYJxXREf24DLnoNJCbZ0) | 3:23 | 2022-05-20 | 2022-06-16 |
 | [Dolu Dolu](https://open.spotify.com/track/7qG4GUCpzFW2ipC9cV0Ek4) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Dolu Dolu](https://open.spotify.com/album/3vTEBAk2S0U5XNfoKyD4CP) | 5:13 | 2022-12-02 |  |
 | [Ean Machi](https://open.spotify.com/track/6IxYter8iWxtHJgQzK0DPQ) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Ean Machi](https://open.spotify.com/album/7JPauQxNNTAYPLXnxSOZlx) | 3:37 | 2022-12-15 |  |
@@ -87,6 +88,7 @@
 | [Jenmam Niraindhathu \- Naatpadu Theral \- 2](https://open.spotify.com/track/0YuLriSsTsu2SGzXw6mubg) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Jenmam Niraindhathu \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/1Eyi5zWgSuVNWeRsbojyB6) | 8:24 | 2022-06-20 | 2022-07-01 |
 | [Jokers](https://open.spotify.com/track/6Kr5jY8gYGn2XpfvEjEPus) | [Akira Da Rapwolf](https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Kaos](https://open.spotify.com/artist/7BUpwacmZORknFyanmyq7Y) | [Jokers](https://open.spotify.com/album/4VPJ7W8FJTOkPmF7Z3bYTY) | 3:40 | 2022-08-11 | 2022-10-18 |
 | [Jorthaale](https://open.spotify.com/track/39g4GmzPyDLTdtnhu24r2H) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jorthaale](https://open.spotify.com/album/6ubFX2BkueKqYDxkQUpVb9) | 1:50 | 2021-12-01 |  |
+| [Kaadhal Dhevathaiye](https://open.spotify.com/track/1J3fwSmN2BNVgptyBYdLpu) | [Ram SK](https://open.spotify.com/artist/6YqlCTnPB1qNu3PlPSnHnq), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kaadhal Dhevathaiye](https://open.spotify.com/album/6B9CFmXUej7OEbOlzxvVku) | 3:17 | 2022-12-20 |  |
 | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \- From "Irandaam kaadhal"](https://open.spotify.com/track/14fsJKRZp1RlFBvsVq4kNq) | [Kevin D'costa](https://open.spotify.com/artist/11m2LnJnChht9JbeiRIAmv), [Kiran Adithya GK](https://open.spotify.com/artist/7yGEsuloXy1pMd5p1xukPY) | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \(From "Irandaam kaadhal"\)](https://open.spotify.com/album/6O26zFJwro5cCzZqZ4iF4p) | 4:17 | 2022-02-03 | 2022-06-14 |
 | [Kaaka Kadha \- From "Think Indie"](https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kaaka Kadha \(From "Think Indie"\)](https://open.spotify.com/album/2Rf7Tu3ZqCmUdwqPosFaH4) | 3:30 | 2022-07-11 |  |
 | [Kaanadha Vizhigal](https://open.spotify.com/track/7K02crvfkaOH4LqZcp8lNM) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC) | [Kaanadha Vizhigal](https://open.spotify.com/album/2RJYqOUDoLnrErpDQ3OW3A) | 2:57 | 2022-02-25 | 2022-07-08 |

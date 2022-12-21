@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Sweet Emma",
+        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235427,
+      "name": "Sweet Emma",
+      "url": "https://open.spotify.com/track/1eBoPVndwtjwybJKDHNref"
+    },
+    {
+      "album": {
         "name": "Take Five",
         "url": "https://open.spotify.com/album/00M7DsogdksAlx0Q745kV9"
       },
@@ -1817,6 +1835,24 @@
       "duration_ms": 308026,
       "name": "Wayfaring Pilgrim",
       "url": "https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3"
+    },
+    {
+      "album": {
+        "name": "Sweet Emma",
+        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341854,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9tJFUKjeDqu"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 la sad e villa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,590 likes - 91 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,606 likes - 91 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MAYDAY \(feat\. VillaBanks\)](https://open.spotify.com/track/3OXQqhbch5uALz1FdCKvWT) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 2:58 |
+| 1 | [MAYDAY \(feat\. VillaBanks\)](https://open.spotify.com/track/3OXQqhbch5uALz1FdCKvWT) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 2:58 |
 | 2 | [STOCCOLMA](https://open.spotify.com/track/2YbyAH03K37nF4fOnOGkIo) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [STOCCOLMA](https://open.spotify.com/album/0sctf7X3nBVx3d2yIznyXD) | 3:05 |
 | 3 | [Solo come un cane](https://open.spotify.com/track/7uqxz5qUAtgugvxlpQ0EA2) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Solo come un cane](https://open.spotify.com/album/6CBCpUpGNwxz2pZpEDsnS9) | 3:23 |
 | 4 | [VA SEMPRE PEGGIO](https://open.spotify.com/track/5krUYcVNkG8om59CRJrISE) | [La Stalla](https://open.spotify.com/artist/4XnlgX9eaUXdOc75E81PjI) | [STALLA MXTP 2](https://open.spotify.com/album/2tCqETeHkk3gOw80RjbYQB) | 3:34 |

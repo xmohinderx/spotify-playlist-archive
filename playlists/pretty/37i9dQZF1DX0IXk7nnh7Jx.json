@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43386,
+  "num_followers": 43395,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDBhN2E1NTRkMzE1ZTZmODhjMzAzM2YyNTA2NTU3NzQz",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDg3MjA4MjcyZmQ3OGI5ZTMyNzg4NDcwMzVjNTAxMWE1",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 274293,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 197426,
       "name": "Tides",
       "url": "https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 274293,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Take All of Me",
-        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Marcus",
-          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Take All of Me",
-      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 312789,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Take All of Me",
+        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Marcus",
+          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Take All of Me",
+      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
     },
     {
       "added_at": "2020-12-18 06:02:14",

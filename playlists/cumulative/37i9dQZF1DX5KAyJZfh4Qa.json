@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-28",
-  "description": "it's just one of those days w/ <a href=\"https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU?si=gfm00MdpTL63d2aPVJdtZg\">Can't Swim</a>.",
+  "description": "it's just one of those days w/ <a href=\"https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb?si=6rDzYCSkSrSbnfwH1WhERA\">One Step Closer</a>",
   "name": "emo right now",
   "published_playlist_ids": [],
   "tracks": [
@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Dog Logic",
+        "url": "https://open.spotify.com/album/7I9yqOPKYHqfYmIVIvXZIa"
+      },
+      "artists": [
+        {
+          "name": "Plainclothes",
+          "url": "https://open.spotify.com/artist/313z2zL8t1mV5ohmAW7j5M"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132231,
+      "name": "Burt Reynolds, Burnt Candles",
+      "url": "https://open.spotify.com/track/3aI5gBXahNlCOJsFmTKE1R"
+    },
+    {
+      "album": {
         "name": "cadence",
         "url": "https://open.spotify.com/album/5W3HQVjsF1UCmsaehz5eiX"
       },
@@ -147,6 +165,24 @@
       "duration_ms": 167689,
       "name": "caffeine cops",
       "url": "https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S"
+    },
+    {
+      "album": {
+        "name": "Little Green House",
+        "url": "https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181915,
+      "name": "Call From You",
+      "url": "https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR"
     },
     {
       "album": {
@@ -842,6 +878,24 @@
     },
     {
       "album": {
+        "name": "not a christmas carol",
+        "url": "https://open.spotify.com/album/39FakGbdymf5l7cOg9639P"
+      },
+      "artists": [
+        {
+          "name": "Dear Me",
+          "url": "https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "not a christmas carol",
+      "url": "https://open.spotify.com/track/4PhwBqyQ825gi1qfQKY3yN"
+    },
+    {
+      "album": {
         "name": "October Valentine",
         "url": "https://open.spotify.com/album/27nkQoAzmV91yIaQg3Uz5h"
       },
@@ -1148,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Kodak",
+        "url": "https://open.spotify.com/album/3NyudK6fP44msAyDMlvSwk"
+      },
+      "artists": [
+        {
+          "name": "All Get Out",
+          "url": "https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203240,
+      "name": "Sumter",
+      "url": "https://open.spotify.com/track/1Kq8INivQrqF8brZgwL3J8"
+    },
+    {
+      "album": {
         "name": "Old Clothes",
         "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
       },
@@ -1285,7 +1357,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 205456,
       "name": "Where You Been",
       "url": "https://open.spotify.com/track/0QpFMcUua64JDUl5QIh0NI"

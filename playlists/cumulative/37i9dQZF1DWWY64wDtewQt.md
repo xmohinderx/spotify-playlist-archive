@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-382 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+383 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2021-11-12 | 2022-06-11 |
 | [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 | 2022-08-12 | 2022-10-08 |
 | [Night Ride](https://open.spotify.com/track/1yVcviVfd5qtBab5Vzynoq) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Night Ride](https://open.spotify.com/album/4Ite7FdD6MJrwD8XDcAChg) | 3:07 | 2022-11-18 |  |
-| [no confies en mujeres](https://open.spotify.com/track/1JgsGofAL2rQ47MjgqCwk6) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [no confies en mujeres](https://open.spotify.com/album/0FCSzaCWgRsohk84Rmuzlx) | 2:03 | 2022-12-02 |  |
+| [no confies en mujeres](https://open.spotify.com/track/1JgsGofAL2rQ47MjgqCwk6) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [no confies en mujeres](https://open.spotify.com/album/0FCSzaCWgRsohk84Rmuzlx) | 2:03 | 2022-12-02 | 2022-12-21 |
+| [no confies en mujeres](https://open.spotify.com/track/5pyVBGWa0nVRGwftTxm0dn) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [no confies en mujeres](https://open.spotify.com/album/7GIelpiCo6slNavB8SsJrr) | 2:03 | 2022-12-02 |  |
 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 | 2021-05-12 |  |
 | [North Memphis](https://open.spotify.com/track/3UoRLUFPhTSYqhbqSdlf1U) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/3pXNnx5yR3ozsjmHXnMDav) | 2:16 | 2021-05-12 | 2022-07-29 |
 | [Noxious Impact](https://open.spotify.com/track/7ebGUJsfpSmczGcBjCmGSE) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH), [XHNORT](https://open.spotify.com/artist/23vwxJA0kYYvK0iwe06MAd) | [Noxious Impact](https://open.spotify.com/album/4EYOE4uqNGZsmMdAV8ECd4) | 2:46 | 2021-06-24 | 2022-02-05 |

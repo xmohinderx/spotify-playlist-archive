@@ -1,12 +1,12 @@
 {
   "description": "Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.",
-  "num_followers": 530008,
+  "num_followers": 530164,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM5NjkwNywwMDAwMDAwMGI3MDY3YWQxZTU3MDBmMzgzMDVlN2VlYmQ3NTc0ZDk1",
+  "snapshot_id": "MTY3MDM5NjkwNywwMDAwMDAwMGM0OWNlOTlkYTU3MTkyNjZjZTMzZDZiMDQyOWIzZDZl",
   "tracks": [
     {
       "added_at": "2022-12-07 07:08:27",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-12-07 07:08:27",
       "album": {
-        "name": "Rasa Cinta Ini",
-        "url": "https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 241294,
-      "name": "Rasa Cinta Ini",
-      "url": "https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7"
-    },
-    {
-      "added_at": "2022-12-07 07:08:27",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 234386,
       "name": "Perahu Kertas",
       "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
+    },
+    {
+      "added_at": "2022-12-07 07:08:27",
+      "album": {
+        "name": "Rasa Cinta Ini",
+        "url": "https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 241294,
+      "name": "Rasa Cinta Ini",
+      "url": "https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7"
     },
     {
       "added_at": "2022-12-07 07:08:27",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-12-07 07:08:27",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
-      },
-      "artists": [
-        {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Dewi",
-      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
-    },
-    {
-      "added_at": "2022-12-07 07:08:27",
-      "album": {
         "name": "Rumpang",
         "url": "https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2022-12-07 07:08:27",
       "album": {
-        "name": "Hujan",
-        "url": "https://open.spotify.com/album/34Wh0Ff41ceA0tCJFQFSan"
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
       },
       "artists": [
         {
-          "name": "Jourdy Pranata",
-          "url": "https://open.spotify.com/artist/1hGg2T9OelLnkczhCqmPve"
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
         }
       ],
-      "duration_ms": 89215,
-      "name": "Hujan",
-      "url": "https://open.spotify.com/track/5QJANaK8ZlzI8ftloDM0We"
+      "duration_ms": 257760,
+      "name": "Dewi",
+      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
     },
     {
       "added_at": "2022-12-07 07:08:27",
@@ -959,6 +943,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2022-12-07 07:08:27",
+      "album": {
+        "name": "Hujan",
+        "url": "https://open.spotify.com/album/34Wh0Ff41ceA0tCJFQFSan"
+      },
+      "artists": [
+        {
+          "name": "Jourdy Pranata",
+          "url": "https://open.spotify.com/artist/1hGg2T9OelLnkczhCqmPve"
+        }
+      ],
+      "duration_ms": 89215,
+      "name": "Hujan",
+      "url": "https://open.spotify.com/track/5QJANaK8ZlzI8ftloDM0We"
     },
     {
       "added_at": "2022-12-07 07:08:27",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-07 07:08:27",
       "album": {
-        "name": "Cukup Tau",
-        "url": "https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 207191,
-      "name": "Cukup Tau",
-      "url": "https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR"
-    },
-    {
-      "added_at": "2022-12-07 07:08:27",
-      "album": {
         "name": "Seamin Tak Seiman",
         "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 216448,
       "name": "Seamin Tak Seiman",
       "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2022-12-07 07:08:27",
+      "album": {
+        "name": "Cukup Tau",
+        "url": "https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 207191,
+      "name": "Cukup Tau",
+      "url": "https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR"
     },
     {
       "added_at": "2022-12-07 07:08:27",

@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-169 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+170 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Ela Quer Ter Meu Sobrenome](https://open.spotify.com/track/1RqstZfFa7b2q51pr8Ww8s) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Ela Quer Ter Meu Sobrenome](https://open.spotify.com/album/1voebdY5yCRnEhSeU6BUiY) | 1:48 | 2022-11-25 |  |
 | [Encrenqueira](https://open.spotify.com/track/1cvaCi2boc8TNXbSKIFmWy) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Encrenqueira](https://open.spotify.com/album/3ZGFB9XjUMvlqWTPhFRhLU) | 2:51 | 2022-03-07 | 2022-09-24 |
 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 | 2022-03-07 | 2022-10-01 |
-| [Esquecer de Mim](https://open.spotify.com/track/4p71oZ6HA8fg1eTENW9vHu) | [Ghizzê](https://open.spotify.com/artist/2VmSp1C3SLDxVIuUj57wfN), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Esquecer de Mim](https://open.spotify.com/album/2OgvXwelRDowIhgDkd9q2U) | 2:43 | 2022-12-02 |  |
+| [Esquecer de Mim](https://open.spotify.com/track/4p71oZ6HA8fg1eTENW9vHu) | [Ghizzê](https://open.spotify.com/artist/2VmSp1C3SLDxVIuUj57wfN), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Esquecer de Mim](https://open.spotify.com/album/2OgvXwelRDowIhgDkd9q2U) | 2:43 | 2022-12-02 | 2022-12-21 |
 | [Estar Com Você](https://open.spotify.com/track/2XqByIU90gR9coHmmOfmK0) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Estar Com Você](https://open.spotify.com/album/20Ys40dexyzJgpR5Iu9iHz) | 3:00 | 2022-03-07 | 2022-07-29 |
 | [Estar Com Você](https://open.spotify.com/track/5DVf59dCoK2ch5O3gHZ7My) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Estar Com Você](https://open.spotify.com/album/1WnIusPTevmx5n0uJ6CJTk) | 3:00 | 2022-07-08 |  |
 | [Eu Gosto Dela](https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cohen](https://open.spotify.com/artist/6YANUKWAHOVnWhG0wnvm2M) | [Emicidio](https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs) | 3:17 | 2022-03-07 |  |
@@ -175,6 +175,7 @@
 | [Ver Me](https://open.spotify.com/track/11v7tAtk6I3c3DwD1pt5oh) | [LOH ALMEIDAH](https://open.spotify.com/artist/3cOGQtOrVLFdII5VCawDAk) | [Ver Me](https://open.spotify.com/album/7CKya59L63McSUKvr5vcLE) | 3:08 | 2022-09-02 | 2022-09-10 |
 | [Viciado 2.0](https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [OWL](https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS) | 2:53 | 2022-04-29 | 2022-06-25 |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-07 | 2022-09-03 |
+| [Vilã](https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Conteúdo Explícito, Pt\. 1](https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3) | 3:18 | 2022-12-20 |  |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-17 |  |
 | [É Que Eu Preciso Dizer](https://open.spotify.com/track/1kfwsz1ak4qZj75BaHG4YR) | [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4), [JNR Beats](https://open.spotify.com/artist/2MezhY4Nd9Fwo6bRFy7UXw) | [É Que Eu Preciso Dizer](https://open.spotify.com/album/1q3uJ7pD6FxPYOZ6Vm7MYd) | 1:40 | 2022-10-14 | 2022-11-05 |
 

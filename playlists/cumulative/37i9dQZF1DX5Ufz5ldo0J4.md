@@ -4,11 +4,11 @@
 
 > Lean back, close your eyes, and relax.
 
-273 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+274 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/181ybi6b0dYJBcQzETKv67) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6txt6BEwqboOhGfyZk5XkY) | 0:00 | 2021-12-10 |  |
+| [](https://open.spotify.com/track/181ybi6b0dYJBcQzETKv67) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6txt6BEwqboOhGfyZk5XkY) | 0:00 | 2021-12-10 | 2022-12-21 |
 | [01.15](https://open.spotify.com/track/20nnkLz609aY0afFTxwxHb) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Out to Sea](https://open.spotify.com/album/3sTo1HzdNGlaqBszP0bBQr) | 3:42 | 2021-12-10 |  |
 | [A Journey](https://open.spotify.com/track/5PKCpP5i64Jxdnc9jDnIVV) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [A Journey](https://open.spotify.com/album/0xpGZx3qwQLBodx6voW3M6) | 2:44 | 2022-09-02 |  |
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-10 |  |
@@ -78,6 +78,7 @@
 | [Equanimity](https://open.spotify.com/track/5Jq46as1MfI6dYJHgsWr8G) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [Equanimity](https://open.spotify.com/album/47dxX9iLiwVnc7CPq3uvHw) | 2:07 | 2021-12-10 |  |
 | [Espiritual](https://open.spotify.com/track/7cRsioZ4YNDjG7ueNhgMui) | [Nait](https://open.spotify.com/artist/45XwPTweTKUqmRfCkuGzCs) | [Espiritual](https://open.spotify.com/album/0uSSxGvk8Z85gcbDMkUS8q) | 1:55 | 2022-11-11 |  |
 | [Essence Of Life](https://open.spotify.com/track/1AEY6qqRFUTssOXfRZOh9p) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Essence Of Life](https://open.spotify.com/album/6meq3ncBqgqKwKmA8Zy7zR) | 3:15 | 2022-10-14 |  |
+| [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2022-12-20 |  |
 | [Eternal Divide](https://open.spotify.com/track/03YjqSYOKjETRbSyRuVXSn) | [Planet Pi](https://open.spotify.com/artist/6mdD8pnh12ENYpp2xIfJqg) | [Eternal Divide](https://open.spotify.com/album/6ivJ2Ybm4CuF6Ass8L0DGQ) | 3:21 | 2021-12-10 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-12-10 |  |
 | [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2021-12-10 |  |
@@ -152,7 +153,7 @@
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2021-12-10 |  |
 | [New Star](https://open.spotify.com/track/17511fdxVIh76Mw6Md4rzC) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 2:43 | 2021-12-10 |  |
 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 | 2021-12-10 |  |
-| [Nightlight](https://open.spotify.com/track/2OlcmyPBuYV93F5yya6gvY) | [Helene Roche](https://open.spotify.com/artist/35rUAUQHv5PFbWv1L6CMrq) | [Nightlight](https://open.spotify.com/album/422z8O8sTk1lBvRS0lyrMr) | 2:09 | 2021-12-10 |  |
+| [Nightlight](https://open.spotify.com/track/2OlcmyPBuYV93F5yya6gvY) | [Helene Roche](https://open.spotify.com/artist/35rUAUQHv5PFbWv1L6CMrq) | [Nightlight](https://open.spotify.com/album/422z8O8sTk1lBvRS0lyrMr) | 2:09 | 2021-12-10 | 2022-12-21 |
 | [Noches rojas](https://open.spotify.com/track/1npS27jD8Fm6QpNHmtH5Pq) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Noches rojas](https://open.spotify.com/album/3bJk1wBUTadZVvqgi26z3q) | 2:13 | 2021-12-10 |  |
 | [Nosce Te Ipsum](https://open.spotify.com/track/2g2R5NSv8samoXVcj0NUeS) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Nosce Te Ipsum](https://open.spotify.com/album/2bbrUDGtRUsjw2n0PfFPTN) | 2:56 | 2021-12-10 |  |
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2021-12-10 |  |
@@ -264,7 +265,7 @@
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2021-12-10 |  |
 | [Veracity](https://open.spotify.com/track/3ClKFHLvLvVEyCxFXg9lEi) | [Helene Roche](https://open.spotify.com/artist/35rUAUQHv5PFbWv1L6CMrq) | [Veracity](https://open.spotify.com/album/5GxPPNwT35iYXeLZPXNf7M) | 2:28 | 2021-12-10 | 2022-08-13 |
 | [Volg mij](https://open.spotify.com/track/5AGw6j8iKs4DbgEsvSqt6c) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Volg mij](https://open.spotify.com/album/1BkTxkapTckd7hkQDHggAC) | 3:27 | 2021-12-10 |  |
-| [Vue d'hiver](https://open.spotify.com/track/0ynxLfs9IO4bi4AMBbHqI9) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Vue d'hiver](https://open.spotify.com/album/4MfRxWi64sceHw2Hgbyp6Y) | 1:58 | 2021-12-10 |  |
+| [Vue d'hiver](https://open.spotify.com/track/0ynxLfs9IO4bi4AMBbHqI9) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Vue d'hiver](https://open.spotify.com/album/4MfRxWi64sceHw2Hgbyp6Y) | 1:58 | 2021-12-10 | 2022-12-21 |
 | [Wafting Waters](https://open.spotify.com/track/7wnieVijyua873Tmj163CZ) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [In The Open](https://open.spotify.com/album/3NNdbGYBf9prwsRHaKHwb1) | 2:55 | 2021-12-10 |  |
 | [Walk With Nature](https://open.spotify.com/track/1OHDjyHn6jwiuyWN84QB5w) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Walk With Nature](https://open.spotify.com/album/66BZweQPwzt1vktfvn7rui) | 2:57 | 2021-12-10 | 2022-03-31 |
 | [Water Flow](https://open.spotify.com/track/1KuuHDwv8BKKe911swYISj) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Water](https://open.spotify.com/album/679qmXq9SrdDHIIjPGDuBj) | 3:20 | 2021-12-10 | 2022-08-16 |

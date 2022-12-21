@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 40161,
+  "num_followers": 40179,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGYzNzg4OTMxMTgzMDI2OWMyNmJiMDE4NDk4NjZlNDc2",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGNmNGU5ZDkyYzk0ZGNkMTZmMzQxZDg3YWZmN2NhMWQy",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Gaza - Tradition musicale palestinienne",
-        "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
-      },
-      "artists": [
-        {
-          "name": "Ensemble Musical De Palestine",
-          "url": "https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Mayel ya Ghuzayel",
-      "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 136759,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Gaza - Tradition musicale palestinienne",
+        "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Musical De Palestine",
+          "url": "https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Mayel ya Ghuzayel",
+      "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "Can I Live",
+        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Can I Live",
+      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Mo Light",
         "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
       },
@@ -1127,26 +1143,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "BEL7AFLI",
-        "url": "https://open.spotify.com/album/1e2VKrq3Pt8TLflBCJLeEs"
-      },
-      "artists": [
-        {
-          "name": "EL X \u0627\u0644\u0625\u0643\u0633",
-          "url": "https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP"
-        },
-        {
-          "name": "\u0141OAY",
-          "url": "https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz"
-        }
-      ],
-      "duration_ms": 166421,
-      "name": "BEL7AFLI",
-      "url": "https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Badi Ellak",
         "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
       },
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Can I Live",
-        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
+        "name": "BEL7AFLI",
+        "url": "https://open.spotify.com/album/1e2VKrq3Pt8TLflBCJLeEs"
       },
       "artists": [
         {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+          "name": "EL X \u0627\u0644\u0625\u0643\u0633",
+          "url": "https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP"
+        },
+        {
+          "name": "\u0141OAY",
+          "url": "https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Can I Live",
-      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
+      "duration_ms": 166421,
+      "name": "BEL7AFLI",
+      "url": "https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK"
     },
     {
       "added_at": "2022-12-17 09:00:30",

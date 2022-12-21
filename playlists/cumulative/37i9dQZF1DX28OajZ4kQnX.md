@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-60 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
+61 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [StepBack](https://open.spotify.com/track/4kBWaLZse3pejcPzEr89kH) | [Ynxg\_Brian](https://open.spotify.com/artist/7gb2liYztEueG9OqFjGxdV) | [StepBack](https://open.spotify.com/album/3Tlz9vfEbltuYfNzHqctDX) | 2:08 | 2022-09-08 |  |
 | [Street](https://open.spotify.com/track/1Whqh8FYChDUfc0WWdtzwt) | [Prince Ghetto](https://open.spotify.com/artist/4eMzMqx857Dz0v0UUktdKN) | [Street](https://open.spotify.com/album/6vNNGsH4eBjFjsO4JEsc6H) | 3:43 | 2022-10-14 |  |
 | [SWMN \(Stop Working My Nerves\) Freestyle](https://open.spotify.com/track/2CeukWgEYUtvjvbHCuZV0i) | [Rey Macc](https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ) | [SWMN \(Stop Working My Nerves\) Freestyle](https://open.spotify.com/album/3RX9O4l7U9ssQrEp8R6RDE) | 3:12 | 2022-09-08 | 2022-10-15 |
-| [TEMPTED!](https://open.spotify.com/track/5WEqt1UFhpdZaSdrnjp5I4) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [T3MPTED!](https://open.spotify.com/album/2AHQ2LYxqLi3OOPzqMGG81) | 2:54 | 2022-09-08 |  |
+| [TEMPTED!](https://open.spotify.com/track/0IJysriTxT9Bp5iJceAVHh) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [I'M DONE, NEVER AGAIN!](https://open.spotify.com/album/3eBpH7vwfpP3nhCdRNIXtP) | 2:54 | 2022-09-08 |  |
+| [TEMPTED!](https://open.spotify.com/track/5WEqt1UFhpdZaSdrnjp5I4) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [T3MPTED!](https://open.spotify.com/album/2AHQ2LYxqLi3OOPzqMGG81) | 2:54 | 2022-09-08 | 2022-12-21 |
 | [The Light](https://open.spotify.com/track/19cwYaC0NLUA7B3Q3LvQS7) | [Kween G](https://open.spotify.com/artist/4u6bHNyuB19sp2uin2m4f1), [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [Sensible Rebel](https://open.spotify.com/album/1nmdOZzdcFJLHnBwLX7Y8p) | 3:37 | 2022-09-08 |  |
 | [Told You So](https://open.spotify.com/track/5bnX5oi9viuOLqaehmyhYt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 2:44 | 2022-09-22 |  |
 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 | 2022-09-08 |  |

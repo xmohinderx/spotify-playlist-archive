@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Jack Moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,670 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,780 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 11 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
 | 12 | [Never Coming Down](https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Never Coming Down](https://open.spotify.com/album/0LtZsZ2jYhBG7kV6W5jRbU) | 5:56 |
 | 13 | [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 |
-| 14 | [Magic](https://open.spotify.com/track/79IUJvJMFv3rOvKTs0eIhr) | [dazeychain](https://open.spotify.com/artist/6nRyak5Bpqz95OwA9JUBVE) | [Magic](https://open.spotify.com/album/1FH0tgNLVXGIYwQO5o7YLc) | 2:29 |
+| 14 | [Magic](https://open.spotify.com/track/79IUJvJMFv3rOvKTs0eIhr) | [dazeychain](https://open.spotify.com/artist/6nRyak5Bpqz95OwA9JUBVE), [The Wildcardz](https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L) | [Magic](https://open.spotify.com/album/1FH0tgNLVXGIYwQO5o7YLc) | 2:29 |
 | 15 | [Get With You Tonight](https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Get With You Tonight](https://open.spotify.com/album/6Oo7dbPYNo8qTQfd9iE7AT) | 3:44 |
 | 16 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 |
 | 17 | [Don't Mess With My Man \- Sgt Slick Remix](https://open.spotify.com/track/6U4ek0i45P6tT8NMJYJM3G) | [Zoë Badwi](https://open.spotify.com/artist/16Mje1BDQmN1DWp4a94YOC), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Don't Mess With My Man](https://open.spotify.com/album/1tVpuOjXKACzHnClTC3Uqs) | 2:48 |
