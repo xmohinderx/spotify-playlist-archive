@@ -4943,6 +4943,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Wedding Songs](/playlists/pretty/37i9dQZF1DX3Z99viCDp7Q.md)
 - [Wedding Songs 2022](/playlists/pretty/43eWkIiNDbimyD35iong1G.md)
 - [Wednesday Official Playlist](/playlists/pretty/37i9dQZF1DXbyvJ0pcthaD.md)
+- [Weekly Wire: Best New Rock & Metal Songs](/playlists/pretty/53x58hBq1M9qCzZxyRUmp4.md)
 - [Weightless](/playlists/pretty/37i9dQZF1DXe2zbyJVaPNZ.md)
 - [Welcome Baby Kimye!](/playlists/pretty/5zpAWvvDe0Q8TXjrgInIke.md)
 - [Welcome Home](/playlists/pretty/0LqjAibgbS9ep32zZrDcAN.md)
