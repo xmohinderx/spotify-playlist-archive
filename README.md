@@ -1685,6 +1685,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [G.O.O.D\. Music](/playlists/pretty/37i9dQZF1DX83ZswDLVXae.md)
 - [GHOST IN THE SHELL Series \-攻殻機動隊シリーズ\-](/playlists/pretty/37i9dQZF1DX9v9O7wB8rQi.md)
 - [GO\-GO](/playlists/pretty/37i9dQZF1DXcLNIxmtGu8N.md)
+- [GOD MODE ARC](/playlists/pretty/0Z8dYUrW0ZgdSMSVmlWlxR.md)
 - [GOLDEN KAMUY ゴールデンカムイ](/playlists/pretty/37i9dQZF1DX3raoUbvEnt0.md)
 - [GOOD GAME](/playlists/pretty/37i9dQZF1DWTKktnMCmHx1.md)
 - [GQOM Power House](/playlists/pretty/37i9dQZF1DXd9mvqWzJEWg.md)
