@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 118511,
+  "num_followers": 118518,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NTI1OCwwMDAwMDAwMGUxODlhNDA1OTQ0Njk4OWRkZmMwNWNjMmU3MGViYjRj",
+  "snapshot_id": "MTY3MDU0NTI1OCwwMDAwMDAwMGZhMmIyZmZiNTE2YjE3OWYzYmI1YjFlNDdlMWJlNTc3",
   "tracks": [
     {
       "added_at": "2022-12-09 00:20:58",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Lay All Your Love On Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 161125,
-      "name": "Lay All Your Love On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "Lay All Your Love On Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161125,
+      "name": "Lay All Your Love On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Turning Onto You",
-        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Turning Onto You",
-      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
         "name": "Through The Fire",
         "url": "https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Jag forts\u00e4tter gl\u00f6mma",
-        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
+        "name": "Turning Onto You",
+        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
       },
       "artists": [
         {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 233413,
-      "name": "Barn av v\u00e5r tid",
-      "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
+      "duration_ms": 201826,
+      "name": "Turning Onto You",
+      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -847,6 +831,22 @@
       "duration_ms": 214883,
       "name": "N\u00e4r jag blundar",
       "url": "https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "Jag forts\u00e4tter gl\u00f6mma",
+        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Barn av v\u00e5r tid",
+      "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Jag forts\u00e4tter gl\u00f6mma",
-        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
       },
       "artists": [
         {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 289613,
-      "name": "Aniara",
-      "url": "https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv"
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+        "name": "Jag forts\u00e4tter gl\u00f6mma",
+        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
         }
       ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
+      "duration_ms": 289613,
+      "name": "Aniara",
+      "url": "https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Belly Shots",
-        "url": "https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Belly Shots",
-      "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
         "name": "Saknar inte dig",
         "url": "https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 158750,
       "name": "Saknar inte dig",
       "url": "https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "Belly Shots",
+        "url": "https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Belly Shots",
+      "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Barnsben",
-        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 214190,
-      "name": "Barnsben",
-      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
         "name": "BACKYARD",
         "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 155085,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "Barnsben",
+        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 214190,
+      "name": "Barnsben",
+      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
+        "name": "Djur och m\u00e4nniska",
+        "url": "https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Om det \u00e4nd\u00e5 r\u00e4ckte att \u00e5ngra sig",
+      "url": "https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
         "name": "N\u00e4r vinden bl\u00e5ser kallt",
         "url": "https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM"
       },
@@ -1367,6 +1383,26 @@
       "duration_ms": 157124,
       "name": "N\u00e4r vinden bl\u00e5ser kallt",
       "url": "https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "B\u00e4sta Vi Gjort",
+        "url": "https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR"
+      },
+      "artists": [
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 172086,
+      "name": "B\u00e4sta Vi Gjort",
+      "url": "https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1403,42 +1439,6 @@
       "duration_ms": 200986,
       "name": "\u00c4ndstation",
       "url": "https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
-        "name": "Djur och m\u00e4nniska",
-        "url": "https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Om det \u00e4nd\u00e5 r\u00e4ckte att \u00e5ngra sig",
-      "url": "https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
-        "name": "B\u00e4sta Vi Gjort",
-        "url": "https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR"
-      },
-      "artists": [
-        {
-          "name": "Lamix",
-          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
-        },
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 172086,
-      "name": "B\u00e4sta Vi Gjort",
-      "url": "https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8"
     },
     {
       "added_at": "2022-12-09 00:20:58",

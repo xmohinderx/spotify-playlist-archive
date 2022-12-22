@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820 likes - 55 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,829 likes - 55 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 4 | [Luxury \- Enoo Napa Remix](https://open.spotify.com/track/2BlQJQKab1AbQmTy5N9Jta) | [Luka](https://open.spotify.com/artist/52RrVukaLWLFZo3vJ6ULC1), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Luxury \(Enoo Napa Remix\)](https://open.spotify.com/album/7wXfcUpqoHICMJTqn7jcYS) | 6:48 |
 | 5 | [T.R.O.A](https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [The Republic of Atmofrika](https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh) | 6:52 |
 | 6 | [Banike](https://open.spotify.com/track/0jN4e5DNTym9lA8tW8RsKy) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Banike](https://open.spotify.com/album/6US9oSxNBX1O1sMyH7lnBn) | 6:17 |
-| 7 | [Au Dede \- Karyendasoul Remix](https://open.spotify.com/track/6nXZdEDO1ksyr8113Qsplt) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [Au Dede \(Karyendasoul Remix\)](https://open.spotify.com/album/78b4DMtqUAN7vad5sl9Efi) | 6:42 |
+| 7 | [Au Dede \- Karyendasoul Remix](https://open.spotify.com/track/6nXZdEDO1ksyr8113Qsplt) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [Au Dede \(Karyendasoul Remix\)](https://open.spotify.com/album/78b4DMtqUAN7vad5sl9Efi) | 6:41 |
 | 8 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 |
 | 9 | [iFu](https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [iFu](https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f) | 5:59 |
 | 10 | [Sfede](https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Sfede](https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93) | 5:57 |

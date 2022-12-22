@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 328554,
+  "num_followers": 328711,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDU2N2I0YTFjZDdjZjJjNDgwZmU5NjZiMWVkY2UwMDdi",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDY2MzY2YTdiNTUzMDgzMjBhMmNiYzNlODU0OTIwNTg1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 138640,
-      "name": "He'll Have to Go",
-      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+      "duration_ms": 168821,
+      "name": "Swinging Doors - Re-Recorded",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+      "duration_ms": 138640,
+      "name": "He'll Have to Go",
+      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Fist City",
-        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Fist City",
-      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+        "name": "Fist City",
+        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+      "duration_ms": 133933,
+      "name": "Fist City",
+      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Glen Campbell - The Capitol Years 1965 - 1977",
         "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 160866,
       "name": "Galveston",
       "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 129240,
       "name": "A Six Pack To Go",
       "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2022-07-29 04:02:00",

@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,229 songs - 2 day 11 hr 25 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,230 songs - 2 day 11 hr 28 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Centauri](https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV) | 2:35 | 2022-07-08 | 2022-10-13 |
 | [Centauri](https://open.spotify.com/track/2soNYlAgFhZ5o0p04xjcj3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 2:35 | 2022-10-25 | 2022-10-29 |
 | [Chandelier](https://open.spotify.com/track/5H8jHmABa01Y7RSL8tejgh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Chandelier](https://open.spotify.com/album/5KFOZx4trm0m4BPQ2HzrZ1) | 3:09 | 2021-08-06 | 2021-09-03 |
-| [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-16 |  |
+| [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-16 | 2022-12-22 |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 | 2022-03-01 |
 | [Charmander](https://open.spotify.com/track/4Aocy7YAyOYf5YHj18Vfj3) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:11 | 2022-02-28 | 2022-04-05 |
 | [Charmander](https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Charmander](https://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE) | 2:11 | 2021-11-05 | 2022-03-01 |
@@ -326,6 +326,7 @@
 | [Evil](https://open.spotify.com/track/5xjouZNiq9ZPyQaYZvf6K9) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:29 | 2021-03-06 | 2022-02-12 |
 | [Expensive Taste](https://open.spotify.com/track/2GZ7hpra0vcDNXLVQiJsMN) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Expensive Taste](https://open.spotify.com/album/1JYJYA32IjG9AwW6jNvbae) | 2:10 | 2022-01-07 | 2022-02-23 |
 | [Extra Life](https://open.spotify.com/track/4QgivLY8vHOD4IcKLx1ni7) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 3:02 | 2021-10-02 | 2021-10-14 |
+| [Extrovert](https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Extrovert](https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic) | 3:06 | 2022-12-14 |  |
 | [EYE EYE EYE \(feat\. Kevin Abstract\)](https://open.spotify.com/track/0Q6aCpb9YX6fLJiC7EbYeM) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:45 | 2022-02-11 | 2022-03-01 |
 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 | 2022-04-08 |  |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-02-18 | 2022-06-04 |

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 72627,
+  "num_followers": 73049,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDAxMCwwMDAwMDAwMGI3NjE1ZDJjMzdlOWJlOGE3OGFhOWY2MTgxMzhjNDU2",
+  "snapshot_id": "MTY3MTIxMDAxMCwwMDAwMDAwMDA5MjNiMmY4ODJiZjljMWU2YmVkOWFmNWJhNzdjOTcw",
   "tracks": [
     {
       "added_at": "2022-12-16 17:00:10",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
         "name": "Colonia EP",
         "url": "https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 234546,
       "name": "Colonia",
       "url": "https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 378184,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p"
+    },
+    {
+      "added_at": "2022-12-16 17:00:10",
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2022-12-16 17:00:10",
       "album": {
-        "name": "The Door",
-        "url": "https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17"
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
       },
       "artists": [
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
         }
       ],
-      "duration_ms": 378184,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p"
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
     },
     {
       "added_at": "2022-12-16 17:00:10",
@@ -507,22 +523,6 @@
       "duration_ms": 419164,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
-    },
-    {
-      "added_at": "2022-12-16 17:00:10",
-      "album": {
-        "name": "Lonely Traveller",
-        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
-      },
-      "artists": [
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 366038,
-      "name": "Lonely Traveller",
-      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
     },
     {
       "added_at": "2022-12-16 17:00:10",

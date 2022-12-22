@@ -4,7 +4,7 @@
 
 > Just chill.
 
-410 songs - 23 hr 43 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+411 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Leaving The Canyons \- Radio Edit](https://open.spotify.com/track/1y7qBQRPUsnA1ff3LoK3p5) | [Kennebec](https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Leaving the Canyons](https://open.spotify.com/album/6vlOyEcveIrRtQRT7FeaU6) | 3:06 | 2022-10-08 | 2022-11-08 |
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2020-03-19 | 2022-01-22 |
 | [Let Go Today \- slenderbodies remix](https://open.spotify.com/track/3xWOoEvnmCobH7VNSo47Yq) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Let Go Today \(Remixes\)](https://open.spotify.com/album/0aCZBhRuD7IlSiRRRquKCa) | 3:01 | 2019-09-06 | 2022-01-22 |
+| [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 | 2022-12-21 |  |
 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-19 |  |
 | [Like a Bird](https://open.spotify.com/track/1tIpbQ5fXklxNJAVO5lv5p) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [New Daze](https://open.spotify.com/album/7uBehObICbzbtZtKzd9aAl) | 3:09 | 2022-08-19 | 2022-11-13 |
 | [Like a Bird](https://open.spotify.com/track/3FUfo6bZ81aI5rBRfid4ge) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [New Daze](https://open.spotify.com/album/14BnLlh0vzQMHGFgtidto8) | 3:09 | 2020-10-02 | 2022-07-29 |
@@ -326,7 +327,7 @@
 | [something to live for](https://open.spotify.com/track/0iQPej6D7P8i2lWlulqH2T) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [something to live for](https://open.spotify.com/album/1PKTmqOWuI8UzZ3Mf0RFys) | 2:14 | 2020-08-21 | 2022-01-22 |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 | 2022-06-10 |  |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/5ysFFsqJFcsX8Rez67j2tv) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3ERQUpVWleQpvEueo3KFgj) | 2:33 | 2021-03-11 | 2022-07-29 |
-| [Song on the Beach](https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 3:35 | 2022-12-20 |  |
+| [Song on the Beach](https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 3:35 | 2022-12-20 | 2022-12-22 |
 | [Speaking of the End](https://open.spotify.com/track/05WcicrMesButARnfWkrJe) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Speaking of the End](https://open.spotify.com/album/4a5PcKfE79MAbm89YNtEVN) | 3:08 | 2020-03-26 | 2022-01-22 |
 | [STAND STILL](https://open.spotify.com/track/6C54NvHWrSBZ5hQJTGH5RN) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80), [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [STAND STILL](https://open.spotify.com/album/1qP5cEcugmuQOHNzHG70BD) | 4:26 | 2020-10-14 | 2022-09-17 |
 | [Start Again](https://open.spotify.com/track/1paqDaEmvtY89pZPso63bT) | [Steve Cousins](https://open.spotify.com/artist/48W7OjKwB7Aj78pMskyZiO) | [Start Again](https://open.spotify.com/album/3qyt5asteYs11agJXDNBSq) | 3:00 | 2020-05-29 | 2022-01-22 |

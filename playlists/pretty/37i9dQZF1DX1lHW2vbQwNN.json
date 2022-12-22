@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 55385,
+  "num_followers": 55562,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDViZTkyZmM0NjY4MmI0OTA5NmNlMGNmMmEyOGM0Njg0",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMGIxNGUzN2IyNTU2N2YwMGNjOTNkZTJjNTVjODYzNjYz",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -391,18 +391,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
       "artists": [
         {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -427,22 +431,18 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "The People's Champ",
-        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sittin' Sidewayz (feat. Big Pokey)",
-      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "...And Then There Was X",
         "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 253040,
       "name": "What These Bitches Want",
       "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "Straight Outta Cashville",
+        "url": "https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ"
+      },
+      "artists": [
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "duration_ms": 261320,
+      "name": "Shorty Wanna Ride",
+      "url": "https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 230080,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "Straight Outta Cashville",
-        "url": "https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ"
-      },
-      "artists": [
-        {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
-        }
-      ],
-      "duration_ms": 261320,
-      "name": "Shorty Wanna Ride",
-      "url": "https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1855,22 +1855,30 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Mississippi: The Album",
-        "url": "https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7"
+        "name": "Golden Grain",
+        "url": "https://open.spotify.com/album/1HjiZwq8HvkzLchkB2XcyV"
       },
       "artists": [
         {
-          "name": "David Banner",
-          "url": "https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO"
+          "name": "Disturbing Tha Peace",
+          "url": "https://open.spotify.com/artist/3FsQX7FsrZAzTU9ah45P7O"
         },
         {
-          "name": "Lil' Flip",
-          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        },
+        {
+          "name": "I-20",
+          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
         }
       ],
-      "duration_ms": 254706,
-      "name": "Like A Pimp",
-      "url": "https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6"
+      "duration_ms": 272293,
+      "name": "Move Bitch",
+      "url": "https://open.spotify.com/track/0LyZGZEZcFqpeF8bAfx3v0"
     }
   ],
   "unique_name": "I Love My 2000s Hip-Hop",

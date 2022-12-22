@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Mec\u00e1nico",
-  "num_followers": 126873,
+  "num_followers": 126876,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDE0YmEzYjc2NmQyZDFjODk0ZWFjZmIxNDM3OWI0NDM4",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDdhYWIyZWEyYjA0YTY4NGM5YzI4ZDEwYzdlOTExZGEy",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Laurel",
-        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 313885,
-      "name": "Laurel",
-      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl"
       },
@@ -759,22 +743,6 @@
       "duration_ms": 200715,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Estado Vegetal",
-        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Estado Vegetal",
-      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -799,6 +767,38 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Estado Vegetal",
+        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Estado Vegetal",
+      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Laurel",
+        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 313885,
+      "name": "Laurel",
+      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Al Norte",
         "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 173336,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "El Encanto Del Fuego",
-        "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
-      },
-      "artists": [
-        {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Mirandonos",
-      "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 177428,
       "name": "Mi querida tempestad (en un vaso de agua)",
       "url": "https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "El Encanto Del Fuego",
+        "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
+      },
+      "artists": [
+        {
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Mirandonos",
+      "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "As\u00ed Te Soy",
-        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 221537,
-      "name": "As\u00ed Te Soy",
-      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "pienso tanto en abrazarte",
         "url": "https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 218997,
       "name": "pienso tanto en abrazarte",
       "url": "https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "As\u00ed Te Soy",
+        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 221537,
+      "name": "As\u00ed Te Soy",
+      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Los chicos est\u00e1n tristes",
-        "url": "https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L"
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
       },
       "artists": [
         {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Los chicos est\u00e1n tristes",
-      "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
+      "duration_ms": 273337,
+      "name": "Compa\u00f1erx",
+      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Compa\u00f1era",
-        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+        "name": "Los chicos est\u00e1n tristes",
+        "url": "https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
         }
       ],
-      "duration_ms": 273337,
-      "name": "Compa\u00f1erx",
-      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+      "duration_ms": 184080,
+      "name": "Los chicos est\u00e1n tristes",
+      "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1491,42 +1491,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Refresco",
-        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Juanita La O",
-          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
-        }
-      ],
-      "duration_ms": 197881,
-      "name": "XAT (Juanita La O Remix)",
-      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "El Pulso",
-        "url": "https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q"
-      },
-      "artists": [
-        {
-          "name": "Angel Maul\u00e9n",
-          "url": "https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh"
-        }
-      ],
-      "duration_ms": 221709,
-      "name": "Por Qu\u00e9 Me Tratas Tan Bien",
-      "url": "https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "arde lento (remixes)",
         "url": "https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8"
       },
@@ -1547,18 +1511,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Las Vueltas",
-        "url": "https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW"
+        "name": "Refresco",
+        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
         }
       ],
-      "duration_ms": 230541,
-      "name": "Las Vueltas",
-      "url": "https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk"
+      "duration_ms": 197881,
+      "name": "XAT (Juanita La O Remix)",
+      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1579,18 +1547,34 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Al Borde del Abismo",
-        "url": "https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten"
+        "name": "Las Vueltas",
+        "url": "https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW"
       },
       "artists": [
         {
-          "name": "Paco Miranda",
-          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Al Borde del Abismo",
-      "url": "https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp"
+      "duration_ms": 230541,
+      "name": "Las Vueltas",
+      "url": "https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "El Pulso",
+        "url": "https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q"
+      },
+      "artists": [
+        {
+          "name": "Angel Maul\u00e9n",
+          "url": "https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Por Qu\u00e9 Me Tratas Tan Bien",
+      "url": "https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 120000,
       "name": "Robot (de Juguete)",
       "url": "https://open.spotify.com/track/5ldcu2e1u50xIwUXgEYGLk"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Al Borde del Abismo",
+        "url": "https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten"
+      },
+      "artists": [
+        {
+          "name": "Paco Miranda",
+          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Al Borde del Abismo",
+      "url": "https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "#777",
-        "url": "https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2"
-      },
-      "artists": [
-        {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Por Esta Noche",
-      "url": "https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
       },
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "#777",
+        "url": "https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2"
+      },
+      "artists": [
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Por Esta Noche",
+      "url": "https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
       },
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 186922,
-      "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Fargo",
         "url": "https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 176842,
       "name": "Fargo",
       "url": "https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "No Es Tarde",
+        "url": "https://open.spotify.com/album/3Kq5jEJvqx1Mwev62asIzB"
+      },
+      "artists": [
+        {
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+        }
+      ],
+      "duration_ms": 156430,
+      "name": "No Es Tarde",
+      "url": "https://open.spotify.com/track/3POg7duhY3fUIi0vJce5Cq"
     }
   ],
   "unique_name": "Indie Chile",

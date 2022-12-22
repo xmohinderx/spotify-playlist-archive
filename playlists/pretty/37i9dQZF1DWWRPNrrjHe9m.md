@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRPNrrjHe9m.md) - [plain]
 
 > Hear all of SMTOWN's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,448 likes - 197 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,575 likes - 197 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

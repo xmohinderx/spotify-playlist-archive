@@ -417,7 +417,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 287826,
       "name": "Avanti",
       "url": "https://open.spotify.com/track/5b6Na8oqRxzzACWuS3LsMo"
@@ -3064,6 +3064,24 @@
     },
     {
       "album": {
+        "name": "Harmonies from Betelgeuse",
+        "url": "https://open.spotify.com/album/71RPcOUXLacUGpvWzbhx7r"
+      },
+      "artists": [
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Melancholy In Time",
+      "url": "https://open.spotify.com/track/2elhMSdgXrZsMkKEGVcAIq"
+    },
+    {
+      "album": {
         "name": "Milliseconds",
         "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
       },
@@ -3423,6 +3441,24 @@
       "duration_ms": 223200,
       "name": "Novu Hisy",
       "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
+    },
+    {
+      "album": {
+        "name": "New Age",
+        "url": "https://open.spotify.com/album/6NY6zDkPxY7SnnpH8Bb2gv"
+      },
+      "artists": [
+        {
+          "name": "Alina Labour",
+          "url": "https://open.spotify.com/artist/6ysGxxKDyB9vWjy6F3Cxyr"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188221,
+      "name": "OCD",
+      "url": "https://open.spotify.com/track/2iFSBWRbdJYH1yTznn90Hp"
     },
     {
       "album": {
@@ -4999,7 +5035,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 232564,
       "name": "Two Heads in a Frame Looking at Something Beautiful",
       "url": "https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf"

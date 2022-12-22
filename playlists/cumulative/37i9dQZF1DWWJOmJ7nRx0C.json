@@ -5208,6 +5208,24 @@
     },
     {
       "album": {
+        "name": "Kryptonite (Reloaded)",
+        "url": "https://open.spotify.com/album/0G2SRdxswmTnAehBCW0zqU"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157799,
+      "name": "Kryptonite (Reloaded)",
+      "url": "https://open.spotify.com/track/2VMs3LPD0pKKD3z55ZmnVH"
+    },
+    {
+      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },

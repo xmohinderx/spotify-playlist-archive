@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 176190,
       "name": "be around me",
       "url": "https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt"
@@ -2456,6 +2456,24 @@
     },
     {
       "album": {
+        "name": "Two Faces",
+        "url": "https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC"
+      },
+      "artists": [
+        {
+          "name": "Hwang Puha",
+          "url": "https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V"
+    },
+    {
+      "album": {
         "name": "Let\u2019s take a step to a brighter place",
         "url": "https://open.spotify.com/album/33myALTzpif1l5ApybO8pk"
       },
@@ -3846,6 +3864,28 @@
     },
     {
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/7hauZJUoi314kbFesqZ5Jt"
+      },
+      "artists": [
+        {
+          "name": "Kim Sookhyung",
+          "url": "https://open.spotify.com/artist/5Yjiiksbgd959gXHO7H7in"
+        },
+        {
+          "name": "sucozy",
+          "url": "https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188617,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/6I1VYleHY5n6RJujfFvj33"
+    },
+    {
+      "album": {
         "name": "Ice Dance",
         "url": "https://open.spotify.com/album/6Q2tJ19xmyWRZzlb9LypZC"
       },
@@ -4791,7 +4831,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 243022,
       "name": "Love in TV World",
       "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
@@ -7627,7 +7667,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 224000,
       "name": "Spring fizz",
       "url": "https://open.spotify.com/track/1ixhVsuAnM8bdqxBGmpNlN"
@@ -7707,6 +7747,24 @@
       "duration_ms": 269465,
       "name": "Spring's Gone \ubd04\uc774 \uc0ac\ub77c\uc9c0\uba74",
       "url": "https://open.spotify.com/track/0WeYsrGroJvuzsBQNuzoQ8"
+    },
+    {
+      "album": {
+        "name": "Stairs",
+        "url": "https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx"
+      },
+      "artists": [
+        {
+          "name": "Ouf Of Campus",
+          "url": "https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183103,
+      "name": "Stairs",
+      "url": "https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ"
     },
     {
       "album": {

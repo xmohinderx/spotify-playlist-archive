@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej to nejlepší, co se v roce 2022 urodilo\. Cover: Emma Drobna
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,604 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,608 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Na skróty](https://open.spotify.com/track/1eD30CVBMjfXnhFTPcNyOn) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Na skróty](https://open.spotify.com/album/0RHBRDZZinBgu9n3J28op5) | 2:27 |
+| 1 | [Zkraceno v překladu](https://open.spotify.com/track/2YsRZ7KDrgacSbOXMxty4O) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Umami](https://open.spotify.com/album/1dXLykCkxmJxSHFDHPLtES) | 2:27 |
 | 2 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 |
 | 3 | [Hawaii](https://open.spotify.com/track/2A86ymZLIGpvWSEaqsFzHz) | [Emma Drobna](https://open.spotify.com/artist/08vJe8xHzqcXV9xRuvcxEh) | [Hawaii](https://open.spotify.com/album/4QNMsRgovgCcRgMNDSN8aQ) | 3:11 |
 | 4 | [TOOTHBRUSH](https://open.spotify.com/track/3GRcpeGpXOX3VmF0NYoNVE) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [TOOTHBRUSH](https://open.spotify.com/album/379iv9yNVZQ0LnAx7FhgNX) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Perly](https://open.spotify.com/track/0fXTo66r7FrhFcUR5ye9OB) | [Annie](https://open.spotify.com/artist/67IQhB57JST5EyO2UrLssN) | [Perly](https://open.spotify.com/album/6Zl7wPmMCfCRYqtAcTGCpi) | 3:39 |
 | 50 | [Yesterday](https://open.spotify.com/track/30S6h1M1Ik2uvqNWY9Cdc6) | [Nia](https://open.spotify.com/artist/4Z1CxJhs6F9RGY84vEHpeJ) | [Yesterday](https://open.spotify.com/album/0051NbzTBMiGZERSyvfCsO) | 2:54 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDQyZWIzOGRmZjkyYjJiZDMyMWM3Y2MxNTM5NDQwYzBm`
+Snapshot ID: `MTY3MTYyMzQxMiwwMDAwMDAwMDdlMGQzMjA0MWFkMjI3ZjYzYWU5ZjAwYTMxYjQ2Zjk5`

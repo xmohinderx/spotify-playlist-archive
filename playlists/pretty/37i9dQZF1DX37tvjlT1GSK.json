@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Gemelos de Sinaloa en portada. ",
-  "num_followers": 708117,
+  "num_followers": 708200,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzY3MiwwMDAwMDAwMGU0YmViMWM5ZDE0MmUwYzFhNWFlZmI3MTMzYTY3YTI4",
+  "snapshot_id": "MTY2OTk1NzY3MiwwMDAwMDAwMGYzMDVhYjJmZWViN2QyYWJiNWU1NDFhZTE4Nzc1OTNl",
   "tracks": [
     {
       "added_at": "2022-12-02 05:07:52",
@@ -311,18 +311,22 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -383,22 +387,18 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "La Catafixia",
-        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "La Plebada del 09",
-      "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Te Deseo Lo Mejor",
         "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 140235,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "La Catafixia",
+        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "La Plebada del 09",
+      "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Perro Abandonado",
-        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 211198,
-      "name": "Perro Abandonado",
-      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Corridos y Sentimientos (Vol 2)",
         "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Mi Despedida",
-        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
+        "name": "Perro Abandonado",
+        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 196064,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+      "duration_ms": 211198,
+      "name": "Perro Abandonado",
+      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -979,6 +963,22 @@
       "duration_ms": 174405,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "Mi Despedida",
+        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 196064,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 166124,
       "name": "Triste",
       "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Comandante Tanque",
-        "url": "https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 206918,
-      "name": "Comandante Tanque",
-      "url": "https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Porque No Esta De Mas (En Vivo)",
         "url": "https://open.spotify.com/album/6B0WdTGPO2O4XlluKcnc5K"
       },
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
+        "name": "Comandante Tanque",
+        "url": "https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 206918,
+      "name": "Comandante Tanque",
+      "url": "https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
         "name": "A 180",
         "url": "https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Lo Lindo de Mi Ex",
-        "url": "https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Lo Lindo de Mi Ex",
-      "url": "https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Odio",
         "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 153732,
       "name": "Odio",
       "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "Lo Lindo de Mi Ex",
+        "url": "https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Lo Lindo de Mi Ex",
+      "url": "https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "GXLE 3",
-        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Chachito",
-          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Era El \u00danico",
         "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 222000,
       "name": "Falta de Qu\u00edmica",
       "url": "https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "GXLE 3",
+        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Chachito",
+          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1567,18 +1567,22 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+        "name": "El JR 01",
+        "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
         }
       ],
-      "duration_ms": 230303,
-      "name": "Saliste De Mi Mente",
-      "url": "https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn"
+      "duration_ms": 242785,
+      "name": "El JR 01",
+      "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1599,22 +1603,18 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "El JR 01",
-        "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 242785,
-      "name": "El JR 01",
-      "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
+      "duration_ms": 230303,
+      "name": "Saliste De Mi Mente",
+      "url": "https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn"
     },
     {
       "added_at": "2022-12-02 05:07:52",

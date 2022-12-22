@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 271349,
       "name": "2009",
       "url": "https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m"
@@ -2327,6 +2327,28 @@
       "duration_ms": 407432,
       "name": "Disco",
       "url": "https://open.spotify.com/track/4b8CVawtKXsHizyqEZfs8C"
+    },
+    {
+      "album": {
+        "name": "Disco Cosmos",
+        "url": "https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        },
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Disco Cosmos",
+      "url": "https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2"
     },
     {
       "album": {

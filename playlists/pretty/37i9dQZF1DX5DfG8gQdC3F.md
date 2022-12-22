@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd \(pictured\), Zeds Dead, Diddy ft\. PARTYNEXTDOOR, Little Simz, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,476 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,516 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 45 | [Compensate](https://open.spotify.com/track/3KWToGJGbyyd7RjvPOskqO) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Compensate](https://open.spotify.com/album/4DspHyHb0EyJcQRrVUa56Q) | 2:27 |
 | 46 | [Daily Duppy \(Dem Dead\)](https://open.spotify.com/track/1RLFNhcRa6572GRGfa6TBB) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Daily Duppy \(Dem Dead\)](https://open.spotify.com/album/6H1aU8exiYl8OI0Xt8d4GG) | 2:59 |
 | 47 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr) | 2:25 |
-| 48 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
+| 48 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
 | 49 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 |
 | 50 | [I Never Told You](https://open.spotify.com/track/00h9HFDaBasvU6MrvixRTo) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn) | [I Never Told You](https://open.spotify.com/album/55ObVSUEVO5JeZjjL0YKVX) | 2:01 |
 | 51 | [Trip House 3](https://open.spotify.com/track/2B9YHX2K1vjHCAb1fTUJXK) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Trip House 3](https://open.spotify.com/album/1oI9KMZORvMwkEa4ornMnn) | 3:25 |

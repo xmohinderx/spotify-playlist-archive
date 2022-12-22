@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una selezione speciale natalizia, a cura di <a href="spotify:artist:2qW0CNnmvdEQwiabdareHi">Paolo Fresu</a>! 🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,606 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,625 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

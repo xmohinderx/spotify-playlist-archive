@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 117735,
       "name": "10 Flows",
       "url": "https://open.spotify.com/track/2qPl6sZ9t2pNxpXbwCLRHp"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 131076,
       "name": "38",
       "url": "https://open.spotify.com/track/1tnty7L8fT2vB3Sj2P4e74"
@@ -837,6 +837,24 @@
       "duration_ms": 161451,
       "name": "All I Need (feat. Franglish)",
       "url": "https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/7lOWSNVxHtb45FXpNgSVjb"
+      },
+      "artists": [
+        {
+          "name": "Ville",
+          "url": "https://open.spotify.com/artist/1ms5JsVsbrhudk18ZPrMiA"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150309,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/19mlW7kCCIx7llsIWDkeWs"
     },
     {
       "album": {
@@ -1655,6 +1673,24 @@
       "duration_ms": 160800,
       "name": "BAGS",
       "url": "https://open.spotify.com/track/7BrVRDCieNEotTW4FptYh3"
+    },
+    {
+      "album": {
+        "name": "Ballon d\u2019Or",
+        "url": "https://open.spotify.com/album/2VTEkN8egQFqubOxx17WXP"
+      },
+      "artists": [
+        {
+          "name": "T.G Boogie",
+          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Ballon d\u2019Or",
+      "url": "https://open.spotify.com/track/0qRxGxNapJNMExgNjR3ndj"
     },
     {
       "album": {
@@ -12939,7 +12975,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 162480,
       "name": "TICK TACK",
       "url": "https://open.spotify.com/track/5XRZL49gUcxJGepV6G2t4b"
@@ -14135,6 +14171,28 @@
       "duration_ms": 144133,
       "name": "VitaminW",
       "url": "https://open.spotify.com/track/6xtS6yo7Zc4wvN01Qnbsqj"
+    },
+    {
+      "album": {
+        "name": "Von Dam",
+        "url": "https://open.spotify.com/album/383CqrHv1vBwRcCehwEpxx"
+      },
+      "artists": [
+        {
+          "name": "Yawel",
+          "url": "https://open.spotify.com/artist/6DNTr6j37RrOpXv6dcA0jl"
+        },
+        {
+          "name": "Chardel",
+          "url": "https://open.spotify.com/artist/6vDbbpAmNFcvk3tP3skLol"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135344,
+      "name": "Von Dam",
+      "url": "https://open.spotify.com/track/2ONw7QjUJMpQ6Gxasz2p7o"
     },
     {
       "album": {

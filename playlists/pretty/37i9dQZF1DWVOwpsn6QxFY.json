@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked indie to nourish the ears.",
-  "num_followers": 108581,
+  "num_followers": 108607,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMDA4ZDE2NWI1OTY1MDM2Mzg0OTJmZDg5NzMzYmVkNGQy",
+  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMGNhZDhhOTI3MzYyNzA3MzE2ZDFiMDNlYzk0YmEzZDc3",
   "tracks": [
     {
       "added_at": "2022-08-12 18:13:48",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Eugene",
-        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221804,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Once Twice Melody",
         "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Eugene",
+        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221804,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 399082,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Boonie Town",
         "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 399082,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "0151",
-        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
-      },
-      "artists": [
-        {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
-        }
-      ],
-      "duration_ms": 281594,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Someday (triple j Like A Version)",
         "url": "https://open.spotify.com/album/4frk1WIr4ydAYiVjloMn6O"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 264908,
       "name": "Someday - triple j Like A Version",
       "url": "https://open.spotify.com/track/7yHIhm47w7yPXbWrCU3NId"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "0151",
+        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "duration_ms": 281594,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 222776,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -875,6 +875,38 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 242844,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Gotta Get through Til Monday",
+        "url": "https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Gotta Get Through Til Monday",
+      "url": "https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -899,38 +931,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Gotta Get through Til Monday",
-        "url": "https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Gotta Get Through Til Monday",
-      "url": "https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 242844,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 216027,
-      "name": "Comingback - Single Version",
-      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 216027,
+      "name": "Comingback - Single Version",
+      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Corduroy",
+        "url": "https://open.spotify.com/album/0fwUb7KbDTiccmTkgaSemE"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Corduroy",
+      "url": "https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Sorry I Am",
         "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
       },
@@ -1167,6 +1183,22 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "I Found Out When the Day Had Come",
+        "url": "https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc"
+      },
+      "artists": [
+        {
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "I Found Out When the Day Had Come",
+      "url": "https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -1239,22 +1271,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "I Found Out When the Day Had Come",
-        "url": "https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc"
-      },
-      "artists": [
-        {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "I Found Out When the Day Had Come",
-      "url": "https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Changephobia",
         "url": "https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 229520,
       "name": "4Runner",
       "url": "https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "Corduroy",
-        "url": "https://open.spotify.com/album/0fwUb7KbDTiccmTkgaSemE"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Corduroy",
-      "url": "https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb"
     },
     {
       "added_at": "2022-08-12 18:13:48",

@@ -4,7 +4,7 @@
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-111 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
+113 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:49 | 2021-11-11 | 2022-08-16 |
 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 | 2021-11-11 | 2022-08-16 |
 | [I Want Action](https://open.spotify.com/track/3hetLCL51bTjUMRWYL8LSX) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:05 | 2022-08-15 | 2022-08-24 |
-| [I Won't Back Down](https://open.spotify.com/track/0Ir0Esfpcg0EB6Kq8VbbAh) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 2:55 | 2022-08-15 |  |
+| [I Won't Back Down](https://open.spotify.com/track/0Ir0Esfpcg0EB6Kq8VbbAh) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 2:55 | 2022-08-15 | 2022-12-22 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2021-11-11 | 2022-08-16 |
 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/7K3kTjAoifNySDAwI24qiP) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/6qX4eoPWGteMdJMqGOwPTs) | 5:33 | 2022-08-15 | 2022-08-24 |
 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 | 2022-08-15 |  |
@@ -75,7 +75,8 @@
 | [Monster Mash](https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX), [The Crypt\-Kickers](https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5) | [The Original Monster Mash](https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr) | 3:12 | 2022-08-15 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:42 | 2021-11-11 | 2022-08-16 |
 | [Narcos](https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:15 | 2022-08-15 |  |
-| [Need You to Know](https://open.spotify.com/track/5S9Ex4TLHQ5d5mBwzPdd5O) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Step Up: Season 3, Episode 7 \(Original Soundtrack\)](https://open.spotify.com/album/220B7wKU4sCVyN5d4JsLqI) | 3:11 | 2022-12-05 |  |
+| [Need You to Know](https://open.spotify.com/track/5S9Ex4TLHQ5d5mBwzPdd5O) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Step Up: Season 3, Episode 7 \(Original Soundtrack\)](https://open.spotify.com/album/220B7wKU4sCVyN5d4JsLqI) | 3:11 | 2022-12-05 | 2022-12-22 |
+| [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-22 |  |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 | 2021-11-11 | 2022-08-16 |
 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2022-08-15 |  |
 | [Paparazzi](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:28 | 2021-11-11 | 2022-08-16 |
@@ -89,6 +90,7 @@
 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 | 2021-11-11 | 2022-08-16 |
 | [Rehab](https://open.spotify.com/track/53e2iXhhuDfhcrzIWDpL2D) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/68wQRlCBGhBW3BNuXKr36W) | 3:34 | 2022-08-15 | 2022-08-24 |
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2022-08-15 | 2022-12-06 |
+| [Rise Up](https://open.spotify.com/track/1zPl3KAqFcIOTC9b2hsS3f) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Step Up: Season 3, Episode 9 \(Original Soundtrack\)](https://open.spotify.com/album/51i1NJjB1kpCJNBSLaJJqk) | 2:43 | 2022-12-22 |  |
 | [Rock This Town](https://open.spotify.com/track/2SknHmwY6GiOv6aK7YRahd) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:27 | 2022-08-15 |  |
 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 | 2022-08-15 |  |
 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 | 2022-08-15 | 2022-10-11 |

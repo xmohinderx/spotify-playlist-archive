@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 193137,
+  "num_followers": 193131,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGY3NTM4ZTVmOGJiYTE0NWI0MGYwNTBjZWFkNTYxN2Jh",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDJjOWJlYTJiMzA5ZjM0NDBiNTE4Mjg1YmIyMzQ2OWU0",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -247,6 +247,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "High Low",
+        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 205328,
+      "name": "High Low",
+      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Burn The Ships (R3HAB Remix)",
         "url": "https://open.spotify.com/album/637sa0MubVLyJ8al6duftV"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 146020,
       "name": "Burn The Ships (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "High Low",
-        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 205328,
-      "name": "High Low",
-      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+      "duration_ms": 182706,
+      "name": "Soldier On",
+      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Soldier On",
-      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Quiet Talk",
         "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 179381,
       "name": "Yes & No",
       "url": "https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "L.H.U.Y (LET HIM USE YA)",
         "url": "https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 201978,
       "name": "L.H.U.Y (LET HIM USE YA)",
       "url": "https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Helpless One",
-        "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Helpless One",
-      "url": "https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Energ\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Helpless One",
+        "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Helpless One",
+      "url": "https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "When You Speak",
         "url": "https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 191871,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
     },
     {
       "added_at": "2021-10-31 01:51:05",

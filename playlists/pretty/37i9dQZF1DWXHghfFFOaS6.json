@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 243098,
+  "num_followers": 243269,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDViZDU2NGIzZWUwNGQ0MjVmMDk5MjUxYzkyYTY4MzBk",
+  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDdiMGUwYTRhNTJmZmVlNTBkZGQ4NjU5NTJmODA5ZjUy",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Come Touch The Sun",
-        "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Yes Baby Yes",
-      "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Go! Common Classics",
         "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 243586,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Come Touch The Sun",
+        "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Yes Baby Yes",
+      "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Back In The Day",
+      "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hard Groove",
         "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 470546,
       "name": "I'll Stay",
       "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Worldwide Underground",
-        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Back In The Day",
-      "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Hi-Teknology",
         "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 274826,
       "name": "The Sun God",
       "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
-      },
-      "artists": [
-        {
-          "name": "Amnesty",
-          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "We Have Love",
-      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Here Come The Lords",
         "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 166400,
       "name": "Lord Jazz Hit Me One Time (Make It Funky)",
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
+      },
+      "artists": [
+        {
+          "name": "Amnesty",
+          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "We Have Love",
+      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "I-Level",
-        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
-      },
-      "artists": [
-        {
-          "name": "iLEVEL",
-          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
-        }
-      ],
-      "duration_ms": 241539,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Rewind, Vol. 4",
         "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 333106,
       "name": "Evil Vibrations",
       "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "I-Level",
+        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
+      },
+      "artists": [
+        {
+          "name": "iLEVEL",
+          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
+        }
+      ],
+      "duration_ms": 241539,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "And Now The Legacy Begins",
         "url": "https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 220000,
       "name": "Wash Your Face In My Sink",
       "url": "https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Girl Overboard",
-        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
       },
       "artists": [
         {
-          "name": "Snowboy",
-          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
-        },
-        {
-          "name": "Anna Ross",
-          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
         }
       ],
-      "duration_ms": 444333,
-      "name": "Girl Overboard",
-      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1119,6 +1099,26 @@
       "duration_ms": 220026,
       "name": "Datskat",
       "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Girl Overboard",
+        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
+      },
+      "artists": [
+        {
+          "name": "Snowboy",
+          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
+        },
+        {
+          "name": "Anna Ross",
+          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
+        }
+      ],
+      "duration_ms": 444333,
+      "name": "Girl Overboard",
+      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
     },
     {
       "added_at": "2022-07-14 19:24:43",

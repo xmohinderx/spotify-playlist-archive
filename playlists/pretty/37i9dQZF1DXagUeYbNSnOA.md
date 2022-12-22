@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,355 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,394 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 18 | [Tentación](https://open.spotify.com/track/1gvFCRgGken7XUOF5f30P0) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Tentación](https://open.spotify.com/album/0nDVEBmYce69womm73alvZ) | 3:44 |
 | 19 | [Me Dijiste Tu Nombre](https://open.spotify.com/track/0HGaZe9RRXgedMhyZLeDts) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 3:03 |
 | 20 | [No Me Quieras Tanto](https://open.spotify.com/track/2Nde4gcLvyDoy5Fw1UULOl) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Me Quieras Tanto](https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO) | 3:34 |
-| 21 | [vienes y te vas :\|](https://open.spotify.com/track/7JYmphizKecTyAicTJYgco) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [vienes y te vas :\|](https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU) | 3:09 |
-| 22 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
+| 21 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
+| 22 | [vienes y te vas :\|](https://open.spotify.com/track/7JYmphizKecTyAicTJYgco) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [vienes y te vas :\|](https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU) | 3:09 |
 | 23 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
 | 24 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
 | 25 | [Esto me pertenece](https://open.spotify.com/track/6FKcOmJVNmAq4OsuB4FtLV) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Esto me pertenece](https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9) | 4:35 |
-| 26 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
-| 27 | [Escaparnos](https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Escaparnos](https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7) | 3:25 |
+| 26 | [Escaparnos](https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Escaparnos](https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7) | 3:25 |
+| 27 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
 | 28 | [To' Los Días](https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [To' Los Días](https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI) | 3:38 |
 | 29 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 |
 | 30 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
 | 50 | [Madrid](https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba) | [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3), [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Madrid](https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a) | 2:51 |
 
-Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDBmNjYxN2ZlMzA4NmVkMDRmODNlMGIzNzY3NzhkNjYx`
+Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMGViNzAzNmQ3MTY0MGE4ZGRhMTQ0MmU5OWZiMDQ4ODBj`

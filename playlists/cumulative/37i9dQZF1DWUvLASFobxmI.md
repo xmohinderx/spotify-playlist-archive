@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Los de La O e Iván Cornejo en portada.
 
-206 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+207 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [El Fracasado](https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Fracasado](https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm) | 2:45 | 2022-07-01 | 2022-07-14 |
 | [El H](https://open.spotify.com/track/2JSp7tQTyQz6GA8Ko3m0Lw) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que las Cuartitos No Falten](https://open.spotify.com/album/63zx8Ne7jC03DB4w2yyQ6k) | 2:44 | 2022-03-11 | 2022-08-30 |
 | [El H](https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:55 | 2022-01-14 | 2022-12-14 |
+| [El H](https://open.spotify.com/track/6cGFQKwBZomwMQMiKf48ny) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:55 | 2022-08-29 |  |
 | [EL INFIERNO](https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [EL INFIERNO](https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf) | 3:37 | 2022-07-01 |  |
 | [El Invierno Pasado](https://open.spotify.com/track/68tZC61FSDP2WgdQAoImQG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jean Piero](https://open.spotify.com/artist/038hutZ2g8qq1UjZZGfTIs) | [El Invierno Pasado](https://open.spotify.com/album/7r0Et078YgtOvouUWg0UgY) | 4:08 | 2022-08-29 | 2022-10-01 |
 | [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 | 2022-08-29 | 2022-10-13 |
@@ -94,7 +95,7 @@
 | [Especial](https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Especial](https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J) | 3:07 | 2022-07-01 | 2022-11-12 |
 | [Flores](https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Flores](https://open.spotify.com/album/35f4q9OIhEtZy9FErsdrqx) | 2:38 | 2022-06-24 | 2022-08-30 |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-02-01 |  |
-| [Fuimos Un Fracaso](https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Fuimos Un Fracaso](https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D) | 3:18 | 2022-09-30 |  |
+| [Fuimos Un Fracaso](https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Fuimos Un Fracaso](https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D) | 3:18 | 2022-09-30 | 2022-12-22 |
 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 | 2022-07-01 |  |
 | [Gotas de Agua Dulce](https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Gotas de Agua Dulce](https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt) | 2:55 | 2022-12-02 |  |
 | [Gracias Al Sol](https://open.spotify.com/track/6VlhbnJq05oh8AxwePFn7X) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Desde Cero](https://open.spotify.com/album/16CwA4wGA3hUj1Aj9xW6Lk) | 3:27 | 2022-07-15 | 2022-08-17 |

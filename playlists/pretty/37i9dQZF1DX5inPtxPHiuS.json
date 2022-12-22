@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 80377,
+  "num_followers": 80393,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMGZmYjgwMWQ5YzdiZjgzOTAzYzYwY2M3NDlhNGM4M2E2",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDE4ODNlMGY0MWE4ZmJhNGRkZTVkZDc5ODNkNWJiMjVm",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Si no es muy tarde",
-        "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
-      },
-      "artists": [
-        {
-          "name": "Lina Sanabria",
-          "url": "https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV"
-        }
-      ],
-      "duration_ms": 153433,
-      "name": "Si no es muy tarde",
-      "url": "https://open.spotify.com/track/5lUS2JGjBQrVvUVgd2jgdF"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 249965,
       "name": "B\u00fahoz",
       "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Si no es muy tarde",
+        "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
+      },
+      "artists": [
+        {
+          "name": "Lina Sanabria",
+          "url": "https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV"
+        }
+      ],
+      "duration_ms": 153433,
+      "name": "Si no es muy tarde",
+      "url": "https://open.spotify.com/track/5lUS2JGjBQrVvUVgd2jgdF"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -867,6 +867,38 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Sangre de Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Sangre de Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
       },
@@ -895,38 +927,6 @@
       "duration_ms": 213146,
       "name": "Voy a olvidarme de mi",
       "url": "https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Sangre de Pr\u00f3fugo",
-        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Sangre de Pr\u00f3fugo",
-      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -979,22 +979,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Pimpinella",
-        "url": "https://open.spotify.com/album/1JjSmuzofyycWZ3s6wJE56"
+        "name": "Ma\u0301s Alla\u0301 del Tiempo",
+        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
       },
       "artists": [
         {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        },
-        {
-          "name": "Francesca Collavini",
-          "url": "https://open.spotify.com/artist/5v076gGHAwFFq2uAVPlHzg"
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
         }
       ],
-      "duration_ms": 253150,
-      "name": "Pimpinella",
-      "url": "https://open.spotify.com/track/2AWR5s0EOIKrmKjh77hTDF"
+      "duration_ms": 217640,
+      "name": "Ma\u0301s Alla\u0301 del Tiempo",
+      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2022-10-13 15:12:40",

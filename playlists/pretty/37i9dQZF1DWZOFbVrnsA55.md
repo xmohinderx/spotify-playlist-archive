@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,319 likes - 290 songs - 4 day 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,392 likes - 290 songs - 4 day 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

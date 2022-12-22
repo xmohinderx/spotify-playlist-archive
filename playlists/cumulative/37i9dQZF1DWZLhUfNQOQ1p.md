@@ -4,7 +4,7 @@
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-126 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2ZFxmpAoH6VW0wtMd26TFZ)
+127 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2ZFxmpAoH6VW0wtMd26TFZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Call Me Up \- Sebastien Remix](https://open.spotify.com/track/4RCMsYncj7cNtb2OPObVXG) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT), [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS) | [Call Me Up \(Sebastien Remix\)](https://open.spotify.com/album/5tFrkHgSBIFxZNcvszjQqk) | 3:08 | 2021-08-05 | 2022-07-06 |
 | [Calmly](https://open.spotify.com/track/1ROmNAVxMVmTDwXIQcnWIZ) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Sail](https://open.spotify.com/album/3mfmjgtgtGl9f4hUg5CGed) | 4:14 | 2021-08-05 | 2022-06-01 |
 | [Can You Feel Me](https://open.spotify.com/track/35H95rUd08Fwm0DeDifwZM) | [Love Beans](https://open.spotify.com/artist/252cgVmlHfU9jkUArZ8gDm) | [Can You Feel Me](https://open.spotify.com/album/1uHej97mZJH7VVqluMqbRn) | 3:16 | 2021-08-05 | 2022-05-23 |
-| [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 | 2021-08-05 |  |
+| [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 | 2021-08-05 | 2022-12-22 |
 | [Chillseekers](https://open.spotify.com/track/13roqX9Iow1epU7pMOYmgI) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Café Dreamer](https://open.spotify.com/album/34kp6iILHhggrkYCnXg9sd) | 2:40 | 2021-08-05 | 2022-06-22 |
 | [Coming for It](https://open.spotify.com/track/587TMPHADmZU77Im3kHM4v) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Mess It Up](https://open.spotify.com/album/5upCRtQrXqXOi2Vb2BBx7P) | 3:50 | 2021-08-05 | 2022-07-29 |
 | [Cruel Summer](https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2) | [Daniel Liebt](https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9) | [Cruel Summer](https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk) | 3:29 | 2021-08-05 |  |
@@ -84,6 +84,7 @@
 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 | 2021-08-05 |  |
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2021-08-05 |  |
 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 | 2021-08-05 | 2022-11-17 |
+| [One Last Time](https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf) | 2:30 | 2021-08-05 |  |
 | [Over](https://open.spotify.com/track/4eAKdH0VBbjF4VvU5f4zLp) | [Aérotique](https://open.spotify.com/artist/6qOzyug9zoGuMHTmErJ6zo), [Tara Mobee](https://open.spotify.com/artist/6HThDFOUqUBmjE07Bhqe5K) | [Over](https://open.spotify.com/album/4SAxlTMGIoqcoZxlzOG112) | 3:38 | 2021-08-05 | 2022-07-26 |
 | [Over and Over](https://open.spotify.com/track/1F0DPRmTffMqDkCbQ51vik) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Over and Over](https://open.spotify.com/album/1u718NqKyS7ahIrLbGTnWu) | 2:57 | 2021-08-05 | 2022-07-26 |
 | [Pablo IV](https://open.spotify.com/track/7x6FYyK7URaq3vQl50cCCG) | [Keppel Skies](https://open.spotify.com/artist/6GFa2nEUxUpfoPMowXuFUB) | [I Am Sick Of This Working Man's Coffee](https://open.spotify.com/album/03FKhU4zwvYF2zHMBog2iL) | 4:14 | 2021-08-05 | 2022-07-29 |

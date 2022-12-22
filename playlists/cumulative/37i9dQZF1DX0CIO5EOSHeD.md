@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: d4vd
 
-334 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+335 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [breakdowns](https://open.spotify.com/track/04PS35sEKukUvvVwkFCIas) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [let's play pretend](https://open.spotify.com/album/2wh1Rl0Y4M75r6QJE3fm4S) | 2:36 | 2021-02-26 | 2022-04-19 |
 | [Bridges](https://open.spotify.com/track/1Tcg3ZfPAbIgxpXkV6k29S) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8) | 3:01 | 2020-10-30 | 2021-02-06 |
 | [Buzzkill Bummer](https://open.spotify.com/track/1A9E6L24cyCjWSyVquC2Nt) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [Buzzkill Bummer](https://open.spotify.com/album/1wyuVpcuONLiY5qsllzc4K) | 3:02 | 2021-08-13 | 2022-07-29 |
+| [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 | 2022-09-13 |  |
 | [Buzzkill Bummer](https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [Buzzkill Bummer](https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd) | 3:02 | 2022-03-30 | 2022-12-05 |
 | [by the way](https://open.spotify.com/track/4zWrWNH8wEgJoLQwqjhTJE) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 3:44 | 2021-08-16 | 2022-07-22 |
 | [Cali](https://open.spotify.com/track/3C8XRQ7aJkPf64WpEHWIgg) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Cali](https://open.spotify.com/album/1YXwbTzHlv9v9ivzvsYM6f) | 3:34 | 2021-12-09 | 2022-07-24 |
@@ -288,7 +289,7 @@
 | [Spring Lovers](https://open.spotify.com/track/32HzGTnuDjLjyQuwrN530Y) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Yoshimitsu4432](https://open.spotify.com/artist/5PZuA5drLPCsRKsVldf7Th) | [Spring Lovers](https://open.spotify.com/album/7uoUO2tuWNyi0hWebcIltV) | 2:05 | 2021-07-30 | 2022-07-14 |
 | [stay](https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [dead2me](https://open.spotify.com/album/6N4nVJcTKMRIvYSLoL5Tx2) | 2:38 | 2021-11-26 | 2022-07-28 |
 | [Stray Fantasies](https://open.spotify.com/track/7oxl6743zINo2goOSRBnrM) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [Stray Fantasies](https://open.spotify.com/album/3Sa6zvka2JPNFU5B6DPdyI) | 3:13 | 2022-03-30 | 2022-04-20 |
-| [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 | 2021-08-11 |  |
+| [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 | 2021-08-11 | 2022-12-22 |
 | [Summer Something](https://open.spotify.com/track/6ysAK8JrtZE9TmgBZs3A60) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/4L5kYzcAbu4AcXoUL4FRPg) | 3:14 | 2022-03-30 | 2022-10-13 |
 | [Summer Something](https://open.spotify.com/track/707q7i5koucX2YSs6vR5pk) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Summer Something](https://open.spotify.com/album/7HYvEPOj7atMKoEBQgVtbj) | 3:14 | 2020-10-30 | 2022-07-29 |
 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 | 2021-09-16 | 2022-07-28 |

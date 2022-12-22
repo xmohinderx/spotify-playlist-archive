@@ -822,6 +822,24 @@
     },
     {
       "album": {
+        "name": "En \u00c1tomos Volando",
+        "url": "https://open.spotify.com/album/00LWccHAjSAVMgs6HFiV3o"
+      },
+      "artists": [
+        {
+          "name": "Ezmeralda",
+          "url": "https://open.spotify.com/artist/1evlZb4RMrNoQ26G6EyGZA"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285842,
+      "name": "Duelo (Cumbia del Fantasma)",
+      "url": "https://open.spotify.com/track/6heNYymv8CZYCKz90RpY6S"
+    },
+    {
+      "album": {
         "name": "All The Mirrors In The House [Home Recordings 1979 - 1986 Volume 1]",
         "url": "https://open.spotify.com/album/1p3jAwtkoUsHXaW4jcanVV"
       },
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 583500,
       "name": "Sonus Ruinae part 1",
       "url": "https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS"

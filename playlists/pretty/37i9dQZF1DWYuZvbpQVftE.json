@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 13047,
+  "num_followers": 13072,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMGJjMDAyNTk2ZDEyNTk1MTM3OTNiMjc5ODVmZjc3YTQy",
+  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDc2NDc0MzEwMmExYjEwMDUwNDVkNDcyOWFhOWUyZTJk",
   "tracks": [
     {
       "added_at": "2022-10-07 08:48:01",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 289735,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Playboys",
-        "url": "https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo"
+        "name": "Shorty Rodgers Courts The Count",
+        "url": "https://open.spotify.com/album/79crFBHL0AC42MEgShce76"
       },
       "artists": [
         {
-          "name": "Chet Baker and Art Pepper",
-          "url": "https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU"
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
         }
       ],
-      "duration_ms": 344239,
-      "name": "Resonant Emotions",
-      "url": "https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA"
+      "duration_ms": 262967,
+      "name": "Swingin' The Blues",
+      "url": "https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l"
     }
   ],
   "unique_name": "West Coast Jazz",

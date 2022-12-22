@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,572 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,589 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 47 | [Don't Stop Me Now](https://open.spotify.com/track/2keKYQq7bs6WUWBsmlzSOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:40 |
 | 48 | [Wonderwall](https://open.spotify.com/track/6114ISiNHPMQN8o2BUz1Bn) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:16 |
 | 49 | [Sweet Caroline](https://open.spotify.com/track/1qvshK9S8bSNnsHxDhYhiJ) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:58 |
-| 50 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 |
+| 50 | [The Moon \(from "Duck Tales"\)](https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:44 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDRjMTMwMTE0NmMxM2M3MDVjN2YwNzAyYTc0OGYxYmM4`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDE4ZWExMDI1NjI5OWZmOTZkNDJkMzE5NzhlOWU5MjU2`

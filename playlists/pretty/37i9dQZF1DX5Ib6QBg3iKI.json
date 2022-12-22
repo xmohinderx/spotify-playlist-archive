@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126100,
+  "num_followers": 126523,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDgwMWI3NWU1NDg4YTk3OTc5MTJjZmVjN2FhMzE4NGU5",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDFlZjM3ZDhmOGNmMGQ0MjViNDg2MjI5NDFjNDlkZGM2",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "The King of Soul",
-        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
-    },
-    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "Walking in The Air",
@@ -603,6 +587,22 @@
       "duration_ms": 239250,
       "name": "Walking in The Air",
       "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The King of Soul",
+        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Gold Rush Kid (Christmas Edition)",
         "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180853,
       "name": "Come On Home For Christmas",
       "url": "https://open.spotify.com/track/62FXKOa8jpLmvUiZ6O3uda"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
+        "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
+      },
+      "artists": [
+        {
+          "name": "Almost Christmas",
+          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Christmas Dream",
+      "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "A Very She & Him Christmas",
         "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
       },
@@ -1097,24 +1117,20 @@
       "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
+      "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
-        "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
       },
       "artists": [
         {
-          "name": "Almost Christmas",
-          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Christmas Dream",
-      "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1133,20 +1149,20 @@
       "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
     },
     {
-      "added_at": "2022-12-02 00:00:00",
+      "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+        "name": "Alone on Christmas Eve",
+        "url": "https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F"
       },
       "artists": [
         {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
         }
       ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+      "duration_ms": 136212,
+      "name": "Alone on Christmas Eve",
+      "url": "https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1163,22 +1179,6 @@
       "duration_ms": 182206,
       "name": "frozen halos",
       "url": "https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Alone on Christmas Eve",
-        "url": "https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 136212,
-      "name": "Alone on Christmas Eve",
-      "url": "https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K"
     },
     {
       "added_at": "2022-11-18 01:05:05",

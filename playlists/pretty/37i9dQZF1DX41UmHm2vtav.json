@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 370363,
+  "num_followers": 370487,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxNDcyNiwwMDAwMDAwMDAwYzM0MTZmNzRlZmVhMGViMDMyYzJjMTYwZDU4Mzhm",
+  "snapshot_id": "MTY3MTIxNDcyNiwwMDAwMDAwMGIwM2ExMGUzZmE3YTRlYjhhOWMxMGM2YzRiNzllMDNm",
   "tracks": [
     {
       "added_at": "2022-12-09 03:03:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-12-09 03:03:00",
       "album": {
-        "name": "Paradise (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
-      },
-      "artists": [
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "Paradise - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2022-12-09 03:03:00",
-      "album": {
         "name": "Pa\u00eds do Futebol (No Flow)",
         "url": "https://open.spotify.com/album/0OemWawwWXiabUo6rWUQbF"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 173986,
       "name": "Pa\u00eds do Futebol (No Flow)",
       "url": "https://open.spotify.com/track/115EFwguc4backKEA1WVWT"
+    },
+    {
+      "added_at": "2022-12-09 03:03:00",
+      "album": {
+        "name": "Paradise (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "Paradise - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
     },
     {
       "added_at": "2022-12-09 03:03:00",

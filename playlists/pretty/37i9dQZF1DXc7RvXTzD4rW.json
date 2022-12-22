@@ -1,15 +1,111 @@
 {
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u590f\u5ddd\u690e\u83dc",
-  "num_followers": 18693,
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u795e\u8c37\u6d69\u53f2 \u24b8Kiramune Project",
+  "num_followers": 18697,
   "original_name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5NTIwMSwwMDAwMDAwMGE5ZDhjZTMxZDA2NjkyNjc4OWNmOGY2YmRhZGEyNGZi",
+  "snapshot_id": "MTY3MTYzNjk4MCwwMDAwMDAwMGE5NmMzZWVkODFkYjMzZTBjMDNmMWUxZDU5MzNhNTAx",
   "tracks": [
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
+      "album": {
+        "name": "appside",
+        "url": "https://open.spotify.com/album/4Z4kkAn5NioiF0xl7aCroa"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u8c37\u6d69\u53f2",
+          "url": "https://open.spotify.com/artist/7iYyPaQU75oIHPrsf9EUbu"
+        }
+      ],
+      "duration_ms": 219408,
+      "name": "\u5e0c\u671b\u306e\u6e26",
+      "url": "https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg"
+    },
+    {
+      "added_at": "2022-12-21 15:36:20",
+      "album": {
+        "name": "THE ENTERTAINMENT",
+        "url": "https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "duration_ms": 257545,
+      "name": "\u884c\u3053\u3046!",
+      "url": "https://open.spotify.com/track/7sd91SE4lECAqoDNg4eKKU"
+    },
+    {
+      "added_at": "2022-12-21 15:36:20",
+      "album": {
+        "name": "Issen Mankai Hug Nanda",
+        "url": "https://open.spotify.com/album/1trzpISQxHdfKvwzTx5zU3"
+      },
+      "artists": [
+        {
+          "name": "DIALOGUE+",
+          "url": "https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Issen Mankai Hug Nanda",
+      "url": "https://open.spotify.com/track/470YNERPfTa62WU5Kc2KKm"
+    },
+    {
+      "added_at": "2022-12-21 15:36:20",
+      "album": {
+        "name": "Love\u221eVision",
+        "url": "https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX"
+      },
+      "artists": [
+        {
+          "name": "Yui Ogura",
+          "url": "https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "Love\u221eVision",
+      "url": "https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH"
+    },
+    {
+      "added_at": "2022-12-21 15:36:20",
+      "album": {
+        "name": "\u96c6\u7d50\u306e\u679c\u3066\u306b",
+        "url": "https://open.spotify.com/album/7f3CzXWceuQ4UEoEmXE1Xa"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "duration_ms": 238762,
+      "name": "\u96c6\u7d50\u306e\u679c\u3066\u306b",
+      "url": "https://open.spotify.com/track/41ChAWF2xtTY27QzeLVpns"
+    },
+    {
+      "added_at": "2022-12-21 15:36:20",
+      "album": {
+        "name": "\u9670/\u967d",
+        "url": "https://open.spotify.com/album/3jjCpP3z1nfa8wpUd3O6j3"
+      },
+      "artists": [
+        {
+          "name": "Soma Saito",
+          "url": "https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/0YRch7aOaE6Q3lE9mQozZZ"
+    },
+    {
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u30b5\u30b5\u30af\u30ec",
         "url": "https://open.spotify.com/album/1mGfeVdYbYLNGlRUB6hi1f"
@@ -25,7 +121,7 @@
       "url": "https://open.spotify.com/track/004Q7TsEI92sZ2r5iEiZGt"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "more<STRONGLY",
         "url": "https://open.spotify.com/album/2b53se6W2pO6rMbQ0OkSao"
@@ -41,7 +137,7 @@
       "url": "https://open.spotify.com/track/3i1AGed6mcym5gbF02oPDm"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u8f2a\u5efb\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
         "url": "https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq"
@@ -57,7 +153,7 @@
       "url": "https://open.spotify.com/track/4pse20eO6UxqETzbOQd86V"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u30b7\u30e5\u30ac\u30fc\u30fb\u30b7\u30e5\u30ac\u30fc\u30fb\u30b9\u30d1\u30a4\u30b9",
         "url": "https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO"
@@ -73,7 +169,7 @@
       "url": "https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "NO CONCEPT",
         "url": "https://open.spotify.com/album/0lijekjn4uTYjgA86q7z8p"
@@ -89,7 +185,7 @@
       "url": "https://open.spotify.com/track/59RdrGoDM2L9eWjI2PcCpw"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Jewel",
         "url": "https://open.spotify.com/album/28gvT9yWbfSljtWqXzf469"
@@ -105,23 +201,7 @@
       "url": "https://open.spotify.com/track/5g5EmGmq6cYSuJan0gIlXE"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
-      "album": {
-        "name": "THE ENTERTAINMENT",
-        "url": "https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9"
-      },
-      "artists": [
-        {
-          "name": "Mamoru Miyano",
-          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "THE ENTERTAINMENT",
-      "url": "https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz"
-    },
-    {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "WINNER",
         "url": "https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp"
@@ -137,7 +217,7 @@
       "url": "https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Anata to Watashi wo Tsunagumono",
         "url": "https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "ANTHOLOGY & DESTINY",
         "url": "https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq"
@@ -169,7 +249,7 @@
       "url": "https://open.spotify.com/track/3pxftpVRwWGMq1bZchhVLS"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "LOVE&MOON",
         "url": "https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf"
@@ -185,7 +265,7 @@
       "url": "https://open.spotify.com/track/7c9jAu2ln1PFzqF2a2wD2X"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Atrium",
         "url": "https://open.spotify.com/album/6YHWqToIXhOKMGVqCZO0Eh"
@@ -201,7 +281,7 @@
       "url": "https://open.spotify.com/track/7uzF5J8bX6g548Grw5IDGg"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "OPENING THEME FROM TV SERIES \u201dBIBLIOPHILE PRINCESS\u201d",
         "url": "https://open.spotify.com/album/2qGFHbqCOWEZt5cs4IgiPv"
@@ -217,7 +297,7 @@
       "url": "https://open.spotify.com/track/2leYGEirFsGtl6fuQwXVXT"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Fine Days",
         "url": "https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG"
@@ -233,7 +313,7 @@
       "url": "https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "VISIONS (feat. \u5bfa\u5cf6\u62d3\u7be4)",
         "url": "https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY"
@@ -253,7 +333,7 @@
       "url": "https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u306f\u3058\u307e\u308b\u30a6\u30a7\u30eb\u30ab\u30e0",
         "url": "https://open.spotify.com/album/0y90vkehxEb8od71BXqX4h"
@@ -269,7 +349,7 @@
       "url": "https://open.spotify.com/track/1tIr5G5H8l4h2jUTCDZio5"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Speak Out meets Giga",
         "url": "https://open.spotify.com/album/5JHClsBOrIzUUMWUbJpceO"
@@ -285,7 +365,7 @@
       "url": "https://open.spotify.com/track/2lEO1KZiyh5gsSM10H2q4o"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Sounds of Love",
         "url": "https://open.spotify.com/album/0ADWqHxUuWrth4DkM5OAQq"
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/4lqyDbJAXk4ChvQGRkzKTN"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Kyokansarenakutemoiijanai",
         "url": "https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p"
@@ -317,7 +397,7 @@
       "url": "https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u30a8\u30af\u30ea\u30d7\u30b9",
         "url": "https://open.spotify.com/album/6rGaUpBPHfsQlvLYSpwpYG"
@@ -333,7 +413,7 @@
       "url": "https://open.spotify.com/track/2JeLniD4bXVqmsDHFrccBx"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Kodokunagunshyuu",
         "url": "https://open.spotify.com/album/0Llu5DAYhTsWr43Hvhwaup"
@@ -349,7 +429,7 @@
       "url": "https://open.spotify.com/track/6g9Drm0itXNceqTlMBMYYz"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u5728\u308a\u3057\u65e5",
         "url": "https://open.spotify.com/album/0Asi1rjLIiuCqhw1SuMNpK"
@@ -365,7 +445,7 @@
       "url": "https://open.spotify.com/track/5NnSYrQ6Co0Zs8EzjKcpib"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Tear of Will",
         "url": "https://open.spotify.com/album/05jXEfMQhjc1Q9U9H4jndu"
@@ -381,7 +461,7 @@
       "url": "https://open.spotify.com/track/5V8qhD9u4XLGxaXWZBfZXR"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
@@ -397,7 +477,7 @@
       "url": "https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Mayonakano Love",
         "url": "https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65"
@@ -413,7 +493,7 @@
       "url": "https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Chaser Game",
         "url": "https://open.spotify.com/album/3ZLeRErx0q2jghKxXJHhUO"
@@ -429,7 +509,7 @@
       "url": "https://open.spotify.com/track/0EL4LKhJyuXNkZsBl7Qe53"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Someday is Today",
         "url": "https://open.spotify.com/album/7vQS8O03Zs6FhViFKG9rq1"
@@ -445,7 +525,7 @@
       "url": "https://open.spotify.com/track/6EWkOjcPts0EqPXWKuEteW"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "11-Eleven-",
         "url": "https://open.spotify.com/album/64UlPpsdOORwv3ta4AwBd8"
@@ -461,7 +541,7 @@
       "url": "https://open.spotify.com/track/2m1LtT7aAmHs1MxzmQLStx"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Congrats!!",
         "url": "https://open.spotify.com/album/3U0KKN2FVOuGAYHDQf9Wwy"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/7AauH6WocFaN2tvXEbHl40"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30b9\u30c8\u30fc\u30ea\u30fc",
         "url": "https://open.spotify.com/album/2BZdbHOGCthR1lmX4h6oTx"
@@ -497,7 +577,7 @@
       "url": "https://open.spotify.com/track/6xPeG3ShxpRou7Uqviw0lj"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "TrySail Live Tour 2021 \"Re Bon Voyage\"",
         "url": "https://open.spotify.com/album/40AJJY1WOjKdjSf3P9fzgh"
@@ -513,7 +593,7 @@
       "url": "https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Futari Pinocchio",
         "url": "https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58"
@@ -529,7 +609,7 @@
       "url": "https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "SMILE PRINCESS BEST FACE OFF",
         "url": "https://open.spotify.com/album/7Hsm62UNySMmkODq1ZmxwX"
@@ -545,7 +625,7 @@
       "url": "https://open.spotify.com/track/5ZxsYi8VpFyklvlmI70U8P"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "BLOOMING",
         "url": "https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD"
@@ -561,7 +641,7 @@
       "url": "https://open.spotify.com/track/0atXJP0z2gQb5ugEeUbard"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "OPENING THEME FROM TV SERIES MADE IN ABYSS \u201dTHE GOLDEN CITY OF THE SCORCHING SUN\u201d THE SHAPE OF",
         "url": "https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ"
@@ -577,7 +657,7 @@
       "url": "https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u6d77\u306e\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
         "url": "https://open.spotify.com/album/7gByOSWU12BeYLiLPDXxAq"
@@ -593,7 +673,7 @@
       "url": "https://open.spotify.com/track/1ZkTHbCmQKj6xYKla18Rct"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u591c\u3042\u305d\u3073\u3057\u3088\u3046\u305c",
         "url": "https://open.spotify.com/album/2TpBF2EYiNsEKyHwVua0e3"
@@ -613,7 +693,7 @@
       "url": "https://open.spotify.com/track/23yohx1mmUMUw8OFFpfUCp"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u4ed6\u306e\u3084\u3064\u306b\u3044\u304f\u306a\u3093\u3066\u3055",
         "url": "https://open.spotify.com/album/1ZrVJz7pp7KHs5HnbCwDF1"
@@ -629,7 +709,7 @@
       "url": "https://open.spotify.com/track/0ZKh2vbFllDul0wwJS8meo"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "\u4ffa\u7121\u3057\u3057\u3099\u3083\u751f\u304d\u3066\u3044\u3051\u306a\u3044?",
         "url": "https://open.spotify.com/album/0UYmrI4Z0L3fvI7rppGR7P"
@@ -645,7 +725,7 @@
       "url": "https://open.spotify.com/track/0sKCsrUs1vdrf3z9Xivsf2"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Kusunoki Tomori Birthday Live 2021\u300eReunion of Sparks\u300f",
         "url": "https://open.spotify.com/album/51bvix8GPFqYWO8JoWn8S6"
@@ -661,7 +741,7 @@
       "url": "https://open.spotify.com/track/0hWzjcYHNmnTdLQYVAStXc"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "Apiacere",
         "url": "https://open.spotify.com/album/0SmPHcLtOFL7cwPwu07sQr"
@@ -677,7 +757,7 @@
       "url": "https://open.spotify.com/track/6RedpoCKKhmd6OWPghPGIG"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "A PIECE OF CAKE",
         "url": "https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx"
@@ -693,7 +773,7 @@
       "url": "https://open.spotify.com/track/3Dxlh8m144OueR45QfdeuW"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "AIMI SOUND",
         "url": "https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr"
@@ -709,7 +789,7 @@
       "url": "https://open.spotify.com/track/57ye8XgQtyaZpa5iw4FJbS"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "IRiDESCENT%V!SION",
         "url": "https://open.spotify.com/album/39UmoCVQLTqseM8uksxdVm"
@@ -725,7 +805,7 @@
       "url": "https://open.spotify.com/track/7tQbwkztzZrsY6H3eNeKGq"
     },
     {
-      "added_at": "2022-11-18 18:13:21",
+      "added_at": "2022-12-21 15:36:20",
       "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/1Rik1MUuJmTUEQSafVhHr0"
@@ -739,86 +819,6 @@
       "duration_ms": 244480,
       "name": "\u50d5\u3089\u3060\u3051\u306e\u9f13\u52d5",
       "url": "https://open.spotify.com/track/71A6zeQcqe81pmKOYqfXxP"
-    },
-    {
-      "added_at": "2022-11-18 18:13:21",
-      "album": {
-        "name": "Adolescence",
-        "url": "https://open.spotify.com/album/7u5BqBGPH70vfUZh6HTjo9"
-      },
-      "artists": [
-        {
-          "name": "Rikako Aida",
-          "url": "https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Adolescence",
-      "url": "https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz"
-    },
-    {
-      "added_at": "2022-11-18 18:13:21",
-      "album": {
-        "name": "\u6c34\u93e1\u306e\u4e16\u754c",
-        "url": "https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4"
-      },
-      "artists": [
-        {
-          "name": "\u5800\u5185\u307e\u308a\u83dc",
-          "url": "https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP"
-        }
-      ],
-      "duration_ms": 275680,
-      "name": "\u6c34\u93e1\u306e\u4e16\u754c",
-      "url": "https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM"
-    },
-    {
-      "added_at": "2022-11-18 18:13:21",
-      "album": {
-        "name": "Starry-eyed Chronicle",
-        "url": "https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo"
-      },
-      "artists": [
-        {
-          "name": "Kaori Ishihara",
-          "url": "https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw"
-        }
-      ],
-      "duration_ms": 241426,
-      "name": "Starry-eyed Chronicle",
-      "url": "https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7"
-    },
-    {
-      "added_at": "2022-11-18 18:13:21",
-      "album": {
-        "name": "Pokerface",
-        "url": "https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h"
-      },
-      "artists": [
-        {
-          "name": "Kana Hanazawa",
-          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Pokerface",
-      "url": "https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P"
-    },
-    {
-      "added_at": "2022-11-18 18:13:21",
-      "album": {
-        "name": "Deneb and Spica",
-        "url": "https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g"
-      },
-      "artists": [
-        {
-          "name": "DIALOGUE+",
-          "url": "https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0"
-        }
-      ],
-      "duration_ms": 267880,
-      "name": "Deneb and Spica",
-      "url": "https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3"
     }
   ],
   "unique_name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",

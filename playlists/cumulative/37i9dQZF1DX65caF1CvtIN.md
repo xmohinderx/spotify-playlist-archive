@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-152 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
+157 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Efteraar](https://open.spotify.com/track/0E9fxTuKGsFLd9nirytamd) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Efteraar](https://open.spotify.com/album/5IJrl616LUYdsgjI6GT30K) | 2:24 | 2022-12-06 |  |
 | [El Misterio VII \(solo piano\)](https://open.spotify.com/track/6WwfOCmwiIkkZHjwlTcUu4) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Krabbé Zoekt Kahlo](https://open.spotify.com/album/0V5qBDi0tCD8DFKf8nhWEt) | 2:40 | 2022-09-23 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-08-03 |  |
+| [Entering](https://open.spotify.com/track/0PNGMJaRWetzMOir1QAKoC) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Entering](https://open.spotify.com/album/2EoKBXAOzplEACZ4PXmK4I) | 1:49 | 2022-12-21 |  |
 | [Equinoxe](https://open.spotify.com/track/58xUMSrmEvYUyHzGR9tYtL) | [Koëlíne](https://open.spotify.com/artist/1HytzswsY9X9XTD2Douni6) | [Equinoxe](https://open.spotify.com/album/4DWD8YqJ3S8NAVsTImbZ23) | 2:55 | 2022-08-03 |  |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-08-26 |  |
 | [Every Waking Moment](https://open.spotify.com/track/24Eavl6flA0caVwQDtXnAq) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Every Waking Moment](https://open.spotify.com/album/2z08XS1HOcqBCEubRfk2dS) | 1:55 | 2022-08-03 |  |
@@ -98,6 +99,7 @@
 | [Moon Glow](https://open.spotify.com/track/2lGO4YrvkZQqSHIwMZQm6c) | [Brackwhit](https://open.spotify.com/artist/7DR5iew6NBX4QmYl4ULooZ) | [Moon Glow](https://open.spotify.com/album/2XqesbTK95SoVv7T7f5xnj) | 2:29 | 2022-08-03 |  |
 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 | 2022-08-03 |  |
 | [My Beloved Twin Flame...](https://open.spotify.com/track/0h7S5ygplBgAWP990wIRs6) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 2:47 | 2022-08-03 |  |
+| [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 | 2022-12-21 |  |
 | [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2022-08-03 |  |
 | [Nocturne I](https://open.spotify.com/track/6f9DfXmjSQ7u2D9AzwA6l2) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:53 | 2022-08-03 |  |
 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-04 |  |
@@ -135,6 +137,7 @@
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-08-03 |  |
 | [Solemnity](https://open.spotify.com/track/5SFneEGsmuyDQ7icV9q7QS) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Solemnity](https://open.spotify.com/album/1Rut9Kb0vybVZUie7TNH7N) | 2:44 | 2022-08-03 |  |
 | [Solitude](https://open.spotify.com/track/5EaxoaMc2J9fq5zeQd1Nem) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Mirrored](https://open.spotify.com/album/0SsL5gEgRhjvYeX6aB3W0o) | 4:28 | 2022-12-06 |  |
+| [Solstice](https://open.spotify.com/track/0YToMJJspEyWPAy3qR5IUH) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [Solstice](https://open.spotify.com/album/1gIRbswLCQphvIUNnjX61P) | 2:09 | 2022-12-21 |  |
 | [Son Kolo Vikon](https://open.spotify.com/track/6HAismqcJ6zQplxVq0XEPO) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [When We Return to the Sun](https://open.spotify.com/album/1Zn4nlsuoEMfv07ydhkjUx) | 3:37 | 2022-12-06 |  |
 | [Son Kolo Vikon](https://open.spotify.com/track/7vmQmkU4WoWcUGZuiQQfx3) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Son Kolo Vikon](https://open.spotify.com/album/11LxXHazpnLHyQi2vHFUNc) | 3:37 | 2022-12-06 | 2022-12-16 |
 | [Song For Grace](https://open.spotify.com/track/3izNSG6xnfb1QY2hJGxUA4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Song For Grace](https://open.spotify.com/album/0ZjOOwIyZXHvrByUU0VNzJ) | 1:53 | 2022-08-03 | 2022-12-07 |
@@ -142,8 +145,10 @@
 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 | 2022-08-03 |  |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-08-03 |  |
 | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/track/6cpnzEVv7ukhlNn77azkVy) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/album/5z5c0cyNP5K6jwi01Zra5k) | 2:12 | 2022-09-23 |  |
+| [Tempered](https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tempered](https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx) | 1:24 | 2022-12-21 |  |
 | [Thank You](https://open.spotify.com/track/0KNqmxuXFi0DsyfvcQ1fS3) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Equinox](https://open.spotify.com/album/4eacjxBMXpKHtx1OQJa2Ao) | 3:22 | 2022-08-03 |  |
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 |  |
+| [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 |  |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
 | [The Rain](https://open.spotify.com/track/2PWiufRrW02EtmSYIokhHr) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [The Rain](https://open.spotify.com/album/1ZNO8N4VKuOTIqUuMucY1g) | 3:07 | 2022-12-06 |  |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2022-08-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 76309,
+  "num_followers": 76365,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQyNjMyNiwwMDAwMDAwMGFmYWJkNWZmMDcxYTM1NzA1MTE5YWRiY2U3MTNkODYx",
+  "snapshot_id": "MTY3MTQyNjMyNiwwMDAwMDAwMDIxZjBhY2MxN2M0OTZiOGZmYTlhYjJjNDg3NWZmZDlk",
   "tracks": [
     {
       "added_at": "2022-12-15 04:32:42",
@@ -411,6 +411,26 @@
     {
       "added_at": "2022-12-15 04:32:42",
       "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "added_at": "2022-12-15 04:32:42",
+      "album": {
         "name": "MOON AND BACK",
         "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
-    },
-    {
-      "added_at": "2022-12-15 04:32:42",
-      "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2022-12-15 04:32:42",
@@ -503,21 +503,25 @@
     {
       "added_at": "2022-12-15 04:32:42",
       "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
+        "name": "One Snowy Day",
+        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
       "artists": [
         {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 211997,
-      "name": "PIZZA",
-      "url": "https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u"
+      "duration_ms": 240800,
+      "name": "One Snowy Day (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
     },
     {
-      "added_at": "2022-12-21 00:50:52",
+      "added_at": "2022-12-22 01:23:25",
       "album": {
         "name": "Space science",
         "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
@@ -535,22 +539,18 @@
     {
       "added_at": "2022-12-15 04:32:42",
       "album": {
-        "name": "One Snowy Day",
-        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
+        "name": "Far From the Madding City",
+        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
         }
       ],
-      "duration_ms": 240800,
-      "name": "One Snowy Day (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
+      "duration_ms": 211997,
+      "name": "PIZZA",
+      "url": "https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u"
     },
     {
       "added_at": "2022-12-15 04:32:42",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-15 04:32:42",
       "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Blue Candle",
+      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
+    },
+    {
+      "added_at": "2022-12-15 04:32:42",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-12-15 04:32:42",
       "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Blue Candle",
-      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
+      "duration_ms": 212627,
+      "name": "Abandoned Dog",
+      "url": "https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp"
     },
     {
       "added_at": "2022-12-15 04:32:42",
@@ -823,22 +839,6 @@
       "duration_ms": 200440,
       "name": "Sinking Islands",
       "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
-    },
-    {
-      "added_at": "2022-12-15 04:32:42",
-      "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 212627,
-      "name": "Abandoned Dog",
-      "url": "https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp"
     },
     {
       "added_at": "2022-12-15 04:32:42",

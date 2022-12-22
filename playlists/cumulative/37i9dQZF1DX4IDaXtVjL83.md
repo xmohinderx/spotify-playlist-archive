@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: AB6IX, Reiley
 
-104 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
+106 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Rose \- English Version](https://open.spotify.com/track/2shyarF21wZvWew00TdaP3) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-12-20 | 2022-12-06 |
 | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1) | 2:38 | 2022-04-14 |  |
 | [Scars](https://open.spotify.com/track/4C9Zhjq5ux9ieiDWYfFcfP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars](https://open.spotify.com/album/3r5zRh7uNj1dvPVSUtzyvN) | 3:20 | 2021-12-20 | 2022-06-01 |
+| [Self Love](https://open.spotify.com/track/6pSCLFRN1QIJ4Rn0CDGwUC) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Self Love](https://open.spotify.com/album/6YiGUfINmmOfD4zBZwagW8) | 3:49 | 2022-12-21 |  |
 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 | 2022-05-16 |  |
 | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/track/1A3T3npKsrElQTjTEcr3LR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/album/7HRCvQbIY5cRkgCkSM0vO3) | 3:27 | 2021-12-20 | 2022-06-22 |
 | [SHUT DOWN \- JP Ver.](https://open.spotify.com/track/5PvVq0PXbiRXzveh3xXeJr) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [SHUT DOWN \(JP Ver.\)](https://open.spotify.com/album/7vwaP19jaG87FAp42Id6Hq) | 3:26 | 2022-06-22 |  |
@@ -100,6 +101,7 @@
 | [Valley of Lies](https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Valley of Lies](https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp) | 3:04 | 2022-07-22 |  |
 | [WANNABE \- Japanese ver.](https://open.spotify.com/track/1F6lnQwfiEzq7ikNnODitc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [WANNABE \(Japanese ver.\)](https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q) | 3:11 | 2021-12-20 | 2022-08-30 |
 | [When Dawn Comes Again](https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again](https://open.spotify.com/album/0qUXhzokHrK2wzei5UYBuM) | 4:00 | 2021-12-20 | 2022-02-24 |
+| [WHEN I MOVE \- Japanese Version](https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [WHEN I MOVE \(Japanese Version\)](https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd) | 2:58 | 2022-12-21 |  |
 | [When The Sun Goes Down](https://open.spotify.com/track/4ag3PFjrtBvPkAXWvDpBng) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [When The Sun Goes Down](https://open.spotify.com/album/1Diw0Vc2BRsiATDrRveAOq) | 3:15 | 2022-07-22 |  |
 | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/track/13ggxXlRQxbxVXvM02UCJe) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/album/1gqlifK1Pf9L9Xqx3vC4yg) | 2:50 | 2022-01-21 | 2022-12-06 |
 | [Wrap Me In Plastic](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp) | [Wrap Me In Plastic](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) | 3:12 | 2021-12-20 |  |

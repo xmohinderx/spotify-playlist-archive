@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 260054,
+  "num_followers": 260114,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDY2ZTgwNjNjMTFmNjllMWM0MDc0MmI5OWVlYjE1YzNj",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDJmYWU3NmEwZmQzMWMxNWJiYWU3YjNmMWFhNWU3MTY5",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 299453,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Things That I'm Afraid Of",
         "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 166988,
       "name": "Things That I'm Afraid Of",
       "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "The Work, Vol. 2",
+        "url": "https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "We're Here Because You're Here",
+      "url": "https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -571,38 +587,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "What I'm Waiting For",
-      "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "The Work, Vol. 2",
-        "url": "https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "We're Here Because You're Here",
-      "url": "https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "I Cry Jesus",
         "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 218765,
       "name": "I Cry Jesus",
       "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "What I'm Waiting For",
+      "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
+      "duration_ms": 199398,
+      "name": "While We Wait",
+      "url": "https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI"
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
       },
       "artists": [
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 199398,
-      "name": "While We Wait",
-      "url": "https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl"
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2022-10-01 07:07:16",

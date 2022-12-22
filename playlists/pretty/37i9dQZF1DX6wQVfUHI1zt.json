@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 181793,
+  "num_followers": 181846,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NjY5OCwwMDAwMDAwMDEwYjhjODdlZDQwYjg0MmQ2M2I0MWM3NGUxMTQ4M2Ni",
+  "snapshot_id": "MTY3MDQ1NjY5OCwwMDAwMDAwMGIyNjU5NWMxYjZlYjM2MDU2ZTU0NTFjZDQ5NzU1ZGY0",
   "tracks": [
     {
       "added_at": "2022-12-07 23:44:58",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-07 23:44:58",
       "album": {
-        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
-      },
-      "artists": [
-        {
-          "name": "Little Joe & La Familia",
-          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Las Nubes",
-      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
-    },
-    {
-      "added_at": "2022-12-07 23:44:58",
-      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 284120,
       "name": "Tejano Mix - Radio Edit",
       "url": "https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O"
+    },
+    {
+      "added_at": "2022-12-07 23:44:58",
+      "album": {
+        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
+      },
+      "artists": [
+        {
+          "name": "Little Joe & La Familia",
+          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
     },
     {
       "added_at": "2022-12-07 23:44:58",

@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Hnos Yaipen",
-  "num_followers": 86821,
+  "num_followers": 86908,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMGJhYTg0ZmI4YTVlMjg2YWU2ZGUxMGYxYTA0MWM4NGE0",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDQ0M2MzZDQxN2I1YzQ1NGFkNjE2M2MwZDcxOGU4MWI3",
   "tracks": [
     {
       "added_at": "2022-11-11 23:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa"
     },
     {
-      "added_at": "2022-12-21 00:48:04",
+      "added_at": "2022-12-22 01:03:35",
       "album": {
         "name": "Con la Mano en el Mo\u00f1o",
         "url": "https://open.spotify.com/album/1Vi8z8VCPnmMZoQ3nNBvPB"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
     },
     {
-      "added_at": "2022-12-21 00:48:04",
+      "added_at": "2022-12-22 01:03:35",
       "album": {
         "name": "D\u00edgame usted se\u00f1orita",
         "url": "https://open.spotify.com/album/0AVgpKaGnG95xnZ1MBozW7"
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "No S\u00e9",
-        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n De Iquitos",
-          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
-        }
-      ],
-      "duration_ms": 246141,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
-    },
-    {
-      "added_at": "2022-11-11 23:00:00",
-      "album": {
         "name": "No Te Creas Tan Importante",
         "url": "https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234880,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/4QeJ9ICMlwED0XfR5o2FRs"
+    },
+    {
+      "added_at": "2022-11-11 23:00:00",
+      "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n De Iquitos",
+          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
+        }
+      ],
+      "duration_ms": 246141,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
     },
     {
       "added_at": "2022-11-11 23:00:00",

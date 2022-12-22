@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118042,
+  "num_followers": 118033,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGQ3NDNkNTFlYTI0N2UwZjAyODcyNDUyMDgwYWYyNTZi",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGU1MzAzZWRiOWY3ZGE1OGM0ZTZmZDdhYzUyN2M0ODA4",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "The Big Day",
-        "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 225923,
-      "name": "Hot Shower",
-      "url": "https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "T\u00e3o Real",
         "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
       },
@@ -1875,6 +1851,30 @@
       "duration_ms": 166799,
       "name": "@ MEH",
       "url": "https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "The Big Day",
+        "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 225923,
+      "name": "Hot Shower",
+      "url": "https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf"
     }
   ],
   "unique_name": "Gamer Gang",

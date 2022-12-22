@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 60933,
+  "num_followers": 60975,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMDcxODAxMTdmZWY3OGNkNWY2YjU0Y2RkNTc3N2Y2NmUw",
+  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMDUwZTBhYjk0ODRkMmY3ZWY1YjBkY2NhNjc0NDI1MjY2",
   "tracks": [
     {
       "added_at": "2022-12-09 05:01:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "Palmas",
+        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Saga WhiteBlack",
+          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
+        }
+      ],
+      "duration_ms": 171089,
+      "name": "Palmas",
+      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 223283,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Palmas",
-        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Saga WhiteBlack",
-          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
-        }
-      ],
-      "duration_ms": 171089,
-      "name": "Palmas",
-      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Que Loco Mami",
         "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -935,30 +935,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Prendete",
-        "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
-      },
-      "artists": [
-        {
-          "name": "Ery",
-          "url": "https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
-        }
-      ],
-      "duration_ms": 213837,
-      "name": "Prendete",
-      "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "HOR\u00d3SCOPO",
         "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 248659,
       "name": "HOR\u00d3SCOPO",
       "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Prendete",
+        "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
+      },
+      "artists": [
+        {
+          "name": "Ery",
+          "url": "https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        }
+      ],
+      "duration_ms": 213837,
+      "name": "Prendete",
+      "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Me Juquie",
-        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Me Juquie",
-      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Qu\u00e9 Rico Repetirlo",
         "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 186840,
       "name": "Qu\u00e9 Rico Repetirlo",
       "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Me Juquie",
+        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Me Juquie",
+      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
     },
     {
       "added_at": "2022-12-09 05:01:00",

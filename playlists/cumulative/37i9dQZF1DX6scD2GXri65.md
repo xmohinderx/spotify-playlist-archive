@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-65 songs - 3 hr 53 min - not published yet
+66 songs - 3 hr 56 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Radar](https://open.spotify.com/track/1uDVbdOu9U824RnW5G1sON) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Radar](https://open.spotify.com/album/6zNZlpEXGGoLgkh8MfXZ89) | 2:43 | 2022-12-08 | 2022-12-16 |
 | [Respawn](https://open.spotify.com/track/0fFwgoY1RTsZyC2lhKbzaZ) | [ANDY SVGE](https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp), [Voidax](https://open.spotify.com/artist/2JqPH5sGxBA5lDMUmO5uAE), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Respawn \(feat\. Robin Vane\)](https://open.spotify.com/album/3EJnAee0ffhaYemzufVDKv) | 3:38 | 2022-12-08 |  |
 | [Sacrifice](https://open.spotify.com/track/0Yrl0j2sFiTYY5wgUl28Iz) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Sacrifice \(feat\. Max P\)](https://open.spotify.com/album/0BDzrXxO9aJ0lO3d5PtMZa) | 2:56 | 2022-12-08 |  |
-| [Savage \(feat\. Annicke Shireen\) \- Original Mix](https://open.spotify.com/track/4b6Ri9GUYw35nBDKpNUWXc) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Annicke Shireen](https://open.spotify.com/artist/7n621lRxjPvPGy0MEJbsct) | [Savage \(feat\. Annicke Shireen\) \[Original Mix\]](https://open.spotify.com/album/1vlcGURUY7Zru5XditPuEf) | 3:47 | 2022-12-08 |  |
+| [Savage \(feat\. Annicke Shireen\) \- Original Mix](https://open.spotify.com/track/4b6Ri9GUYw35nBDKpNUWXc) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Annicke Shireen](https://open.spotify.com/artist/7n621lRxjPvPGy0MEJbsct) | [Savage \(feat\. Annicke Shireen\) \[Original Mix\]](https://open.spotify.com/album/1vlcGURUY7Zru5XditPuEf) | 3:47 | 2022-12-08 | 2022-12-22 |
 | [Slave To The Rave](https://open.spotify.com/track/32ncEXDqBzDyblpzdcGRWB) | [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Slave To The Rave](https://open.spotify.com/album/3X68QkIEBNGdA3RTwV7YCO) | 3:42 | 2022-12-08 |  |
 | [Step Your Game Up](https://open.spotify.com/track/0bd0OMTOxlrtwVrBbzhPxu) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Step Your Game Up](https://open.spotify.com/album/2CYIWPsYP66TcfgoNJY1g8) | 3:04 | 2022-12-08 |  |
 | [Supa Dupa Fly](https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Supa Dupa Fly](https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR) | 3:11 | 2022-12-08 |  |
@@ -72,6 +72,7 @@
 | [Until the Day I Die](https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Until the Day I Die](https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV) | 3:11 | 2022-12-15 |  |
 | [Vault Hunter](https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Vault Hunter](https://open.spotify.com/album/3drPydTq7HVSuXZerLCJTh) | 4:27 | 2022-12-08 |  |
 | [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 | 2022-12-08 |  |
+| [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 | 2022-12-15 |  |
 | [Won't Forget](https://open.spotify.com/track/7JXZuqmi5XC8pfiNgeF1yZ) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Won't Forget](https://open.spotify.com/album/6PnHSLrP5IYAubIo3fT2n7) | 2:32 | 2022-12-08 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

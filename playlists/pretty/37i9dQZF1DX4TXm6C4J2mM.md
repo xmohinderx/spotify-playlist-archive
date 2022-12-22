@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,718 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,715 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 89 | [Wave \(feat\. Mike Sabath\) \- R3HAB Remix](https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Wave \(feat\. Mike Sabath\) \[The Remixes\]](https://open.spotify.com/album/72EUZdCcIBmbtn9uydakvF) | 3:13 |
 | 90 | [Nobody Else](https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Sara Sangfelt](https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC) | [Nobody Else](https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0) | 2:59 |
 | 91 | [Spoiled \(Goodboys Remix\)](https://open.spotify.com/track/2WZLaweYiFKTR3SANawH4J) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Spoiled \(Goodboys Remix\)](https://open.spotify.com/album/6XCbOW9kPr0peZdpzWqhkk) | 2:30 |
-| 92 | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [ØZMA](https://open.spotify.com/artist/1UsQc0jh5G4xfmXtYWSOpQ) | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr) | 3:10 |
-| 93 | [Ones You Miss](https://open.spotify.com/track/2KzcmgRWwh7LsFskO706sS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss](https://open.spotify.com/album/2CXzUowHtyuE6bDvnO47jB) | 2:13 |
+| 92 | [Ones You Miss](https://open.spotify.com/track/2KzcmgRWwh7LsFskO706sS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss](https://open.spotify.com/album/2CXzUowHtyuE6bDvnO47jB) | 2:13 |
+| 93 | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [ØZMA](https://open.spotify.com/artist/1UsQc0jh5G4xfmXtYWSOpQ) | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr) | 3:10 |
 | 94 | [Chains \(with Project 46\)](https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains \(with Project 46\)](https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO) | 3:43 |
 | 95 | [Revival \- R3HAB Remix](https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Revival \(R3HAB Remix\)](https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO) | 2:56 |
 | 96 | [Home](https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laeko](https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT) | [Home](https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW) | 2:17 |
-| 97 | [Party To Survive](https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI) | [TADROS](https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN) | [Party To Survive](https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH) | 2:24 |
-| 98 | [Magic](https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Magic](https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1) | 3:14 |
-| 99 | [Let’s Go Home Together \- MOTi Remix](https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Let’s Go Home Together \(MOTi Remix\)](https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN) | 2:40 |
+| 97 | [Where You Wanna Be](https://open.spotify.com/track/5xgWCe9Yqdx14PB8Je8SqC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Elena Temnikova](https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL) | [Where You Wanna Be](https://open.spotify.com/album/4bsRILidSiFs9ydIqz8XQB) | 2:38 |
+| 98 | [Party To Survive](https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI) | [TADROS](https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN) | [Party To Survive](https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH) | 2:24 |
+| 99 | [Magic](https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Magic](https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1) | 3:14 |
 | 100 | [Survivors](https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa) | [Survivors](https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V) | 2:57 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGNlZTE2MjZkNWViZGRkYTRlMDI0ZmEyYzVkMWVkZjY5`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDQ2YzVhZDY2ZmFiZDI2MjIxOGZhNDRmNDcyYjU5YmQ4`

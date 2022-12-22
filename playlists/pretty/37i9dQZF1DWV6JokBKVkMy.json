@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 403,
+  "num_followers": 406,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDUwOGFkNjZkMmEwYzZiNDYxYjVmNGRmNmUzNTZiMTZm",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDdmMjg5OGYzMmFiM2FjY2MzMzU4ZTQ3Njg5MGQ5NWFk",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
+        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Claude",
+          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Dhobi de classe",
+      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 216270,
       "name": "Zoli mamzel (Remix 2016) [feat. Kymai, DJ Cutson & DJ Cedrik]",
       "url": "https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
-        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Claude",
-          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Dhobi de classe",
-      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Soul Sok S\u00e9ga",
-        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
-      },
-      "artists": [
-        {
-          "name": "Claudio",
-          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Bhai Aboo",
-      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Eliza",
         "url": "https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 308052,
       "name": "Eliza",
       "url": "https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Soul Sok S\u00e9ga",
+        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
+      },
+      "artists": [
+        {
+          "name": "Claudio",
+          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Bhai Aboo",
+      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
     },
     {
       "added_at": "2022-08-11 10:05:16",

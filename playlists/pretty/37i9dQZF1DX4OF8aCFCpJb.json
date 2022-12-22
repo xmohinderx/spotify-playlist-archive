@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65737,
+  "num_followers": 65742,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NTgyOSwwMDAwMDAwMGY5YmE1MTIxNTY1NDlmNTUzZWUzYmZjZjI0YmE0YmYw",
+  "snapshot_id": "MTY3MDU0NTgyOSwwMDAwMDAwMGFjZWE2YTllNDNlNTJmNjNhOTZjYzI0YzU3NmQ5ZDE1",
   "tracks": [
     {
       "added_at": "2022-12-09 00:30:29",
@@ -227,26 +227,6 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "N\u00e4r solen g\u00e5r ner",
-        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
-      },
-      "artists": [
-        {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
-      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 260168,
       "name": "Smugglaren",
       "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
+        "name": "N\u00e4r solen g\u00e5r ner",
+        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
+      },
+      "artists": [
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
+      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -863,22 +863,18 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "The Tomtations Show",
-        "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
       },
       "artists": [
         {
-          "name": "L\u00f6stFolk",
-          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
-        },
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 282124,
-      "name": "Aina \u00c4lskar Reggae",
-      "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     }
   ],
   "unique_name": "Svensk Reggae",

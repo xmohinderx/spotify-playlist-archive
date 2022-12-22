@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddc8 Smooth joints. Cover: Masego \ud83c\udfb7 ",
-  "num_followers": 763593,
+  "num_followers": 763887,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxNjcyMiwwMDAwMDAwMDRmY2NhYjIzNWMzY2MxNjM4ODNhMTZjZWJlZGI2ZjBh",
+  "snapshot_id": "MTY3MTIxNjcyMiwwMDAwMDAwMDk2ZDFlZWY5YzZjNGYxYjg5NzFlODIyNzQ4NDY0OTJm",
   "tracks": [
     {
       "added_at": "2022-12-16 18:52:02",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Hu Man",
-        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Hu Man",
-      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 258243,
       "name": "Stars (feat. Yasiin Bey)",
       "url": "https://open.spotify.com/track/1SsbAUqPSt20PhHAuVSDNu"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "Hu Man",
+        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Hu Man",
+      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 201917,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Now, You Know",
-        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
       },
       "artists": [
         {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 183453,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+      "duration_ms": 201917,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -927,6 +911,22 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "Now, You Know",
+        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1123,26 +1123,18 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
+        "name": "Message (Better Days)",
+        "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
       },
       "artists": [
         {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Quintin Gulledge",
-          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 312341,
-      "name": "Soul Caliber",
-      "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
+      "duration_ms": 214504,
+      "name": "Message (Better Days)",
+      "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1163,18 +1155,26 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Message (Better Days)",
-        "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Quintin Gulledge",
+          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
         }
       ],
-      "duration_ms": 214504,
-      "name": "Message (Better Days)",
-      "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
+      "duration_ms": 312341,
+      "name": "Soul Caliber",
+      "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "CYBAH (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 244138,
-      "name": "CYBAH (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 160506,
       "name": "For South",
       "url": "https://open.spotify.com/track/0CwV9cfbSJEdjlBseVvo4H"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "CYBAH (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 244138,
+      "name": "CYBAH (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
         "name": "Gold Plated",
         "url": "https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 215648,
       "name": "Gold Plated",
       "url": "https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1523,26 +1523,18 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "DRONES",
-        "url": "https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa"
+        "name": "She Loves Me",
+        "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
         }
       ],
-      "duration_ms": 223991,
-      "name": "This Morning (feat. Arin Ray & Smino)",
-      "url": "https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ"
+      "duration_ms": 205986,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1563,18 +1555,26 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "She Loves Me",
-        "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
+        "name": "DRONES",
+        "url": "https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 205986,
-      "name": "She Loves Me",
-      "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
+      "duration_ms": 223991,
+      "name": "This Morning (feat. Arin Ray & Smino)",
+      "url": "https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ"
     },
     {
       "added_at": "2022-12-16 18:52:02",

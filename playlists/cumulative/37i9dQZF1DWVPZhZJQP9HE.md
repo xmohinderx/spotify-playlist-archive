@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-286 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+287 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Puppy Shame](https://open.spotify.com/track/5Iq2CSFEDfRkngMgDfrLMn) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f), [MD Musiq](https://open.spotify.com/artist/2xTXq78UpppRzJ8br7kFA1) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 3:02 | 2022-11-28 |  |
 | [Rendu Bottle Vodka \- From "Cosmo Kadhal"](https://open.spotify.com/track/54cWlnscttOqFY0tsNLNLW) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8), [Roe Vincent](https://open.spotify.com/artist/5FP2oei0td30JwMSj5jm2f), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rendu Bottle Vodka \(From "Cosmo Kadhal"\)](https://open.spotify.com/album/5rXK24JqIrZzCRZZhgpDpQ) | 3:40 | 2022-04-07 | 2022-08-12 |
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 | 2022-07-18 |
-| [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir Sulthan](https://open.spotify.com/artist/7twI3eNZIvvyJ4INbuKp7b) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 | 2022-08-12 |  |
+| [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 | 2022-08-12 |  |
 | [Saarale](https://open.spotify.com/track/0a3MbqRWc3TlqxzEFERJbu) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Saarale](https://open.spotify.com/album/5u51REoqz9KBLbqBhDcXd9) | 3:56 | 2022-12-07 |  |
 | [Saaya\-Tamil](https://open.spotify.com/track/6uizpDr1wwR7xQS4Jkw6mm) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Saaya\-Tamil](https://open.spotify.com/album/0NxKRbraH7cPudwyZy5Ika) | 3:59 | 2022-01-17 | 2022-07-16 |
 | [Saayai](https://open.spotify.com/track/640AcZ81A5sJAO4lFB7Kx0) | [Cheran](https://open.spotify.com/artist/12DO0YTSF7rvb0StUlUTU4) | [Saayai](https://open.spotify.com/album/1rAxjPAKFe0hAnS88KSN22) | 4:09 | 2022-05-11 | 2022-07-16 |
@@ -282,6 +282,7 @@
 | [Velli Meenum](https://open.spotify.com/track/4M988VyRKdAq26avTTzXDm) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Ratheesh Seenivasagam](https://open.spotify.com/artist/3gbBYzebTn3CcnbiL5QD0h) | [Velli Meenum](https://open.spotify.com/album/4rJ3faxZnNbpc5U2r2tzKe) | 3:58 | 2022-07-25 |  |
 | [Vena Vena Poo \- From "Valigal"](https://open.spotify.com/track/500jwNLc6tCyJiHvUeIhGG) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Gunaji](https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo) | [Vena Vena Poo \(From "Valigal"\)](https://open.spotify.com/album/1jtMDDSWyUI87iyCmLol3S) | 4:22 | 2022-08-17 |  |
 | [Vennilavum Ponninadhiyum \(From "Think Specials"\)](https://open.spotify.com/track/6l0zMrCEPTC1tIHRXqjwg2) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Vennilavum Ponninadhiyum \(From "Think Specials"\)](https://open.spotify.com/album/58PYBlSE6mWtDRD5aXPCx8) | 3:13 | 2022-02-03 | 2022-11-17 |
+| [Venum Nee Venum](https://open.spotify.com/track/4XoIPSNiO58XRhBzpH5NCt) | [Keerthanaa Karthikeyan](https://open.spotify.com/artist/7v44e3vQ4VxxsFztCosTMl), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Venum Nee Venum](https://open.spotify.com/album/06suDPYhXHCJUhZ0122Wdg) | 3:55 | 2022-12-21 |  |
 | [Vettai](https://open.spotify.com/track/4iWIMnU0cu45lsEIsG4wlc) | [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Vettai](https://open.spotify.com/album/7hTKG1aNFbQDr6YY7HZnGz) | 3:23 | 2022-04-05 | 2022-06-18 |
 | [Vilagaadhey](https://open.spotify.com/track/5V6qDweSwZsUjZJ1OEeIwD) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Vilagaadhey](https://open.spotify.com/album/5dlSNXdJMoIxe9TogHAzR2) | 1:43 | 2022-09-21 |  |
 | [Vizha](https://open.spotify.com/track/3nhlWORU1Zn9j9rNzFO9e2) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Vizha](https://open.spotify.com/album/4WnsKl21JeKrzpsnuQCLNV) | 2:50 | 2022-08-09 |  |

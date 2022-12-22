@@ -1,12 +1,12 @@
 {
   "description": "Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.",
-  "num_followers": 861005,
+  "num_followers": 860977,
   "original_name": "Top Artists of EQUAL Global 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDdhNjhjYzM0ZDlkY2Q4Yjk4MTczNWUwYTI5OWI2OTJm",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGRhODNmZTk4YjNiNzhkZjcyMjgzZDVlMzRhZDVmNTg3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Die Together",
-        "url": "https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tenfjord",
-          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
         "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 183238,
       "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
       "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Die Together",
+        "url": "https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Houwa",
-        "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Houwa",
-      "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Eva+Eva (feat. Rose Villain)",
         "url": "https://open.spotify.com/album/7JAbbByzQ8jd8QPXlJlnfX"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189702,
       "name": "Eva+Eva (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/471zaA6Hax2HkKJTfR4yE1"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Houwa",
+        "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "Houwa",
+      "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Swim Away",
+        "url": "https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205442,
+      "name": "Swim Away",
+      "url": "https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Ri\u0165",
         "url": "https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Swim Away",
-        "url": "https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205442,
-      "name": "Swim Away",
-      "url": "https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/11MTxbr0apAkujej0nJ5WJ"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
-        "url": "https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP"
-      },
-      "artists": [
-        {
-          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
-          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
-        }
-      ],
-      "duration_ms": 191105,
-      "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
-      "url": "https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Y2",
         "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 193500,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
+        "url": "https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "duration_ms": 191105,
+      "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
+      "url": "https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g"
     },
     {
       "added_at": "2022-11-30 13:46:00",

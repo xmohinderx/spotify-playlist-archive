@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 12523,
+  "num_followers": 12566,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGIwMGUxMWEwNGI0NzFlNTJkYzgxYTBkYjljYWUwMzFm",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDEzNWNhYzI2MjQ3NTJhYjkzODExNTdkNWU4NGE1YWI2",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+      },
+      "artists": [
+        {
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+        }
+      ],
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Trip",
@@ -519,22 +535,6 @@
       "duration_ms": 223880,
       "name": "Trip",
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
-      },
-      "artists": [
-        {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
-        }
-      ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "So Sweet (Matthias Tanzmann Remix)",
@@ -859,22 +875,6 @@
       "duration_ms": 333026,
       "name": "So Sweet - Matthias Tanzmann Remix",
       "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
       "added_at": "2022-08-19 04:00:00",

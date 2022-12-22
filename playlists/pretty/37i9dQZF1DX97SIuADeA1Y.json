@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 280034,
+  "num_followers": 280165,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NzQ4MCwwMDAwMDAwMGM4YzBhMWE3ZjA3NzU4MzhmMjdiNDZiZmMzYmVkMjk0",
+  "snapshot_id": "MTY3MTE5NzQ4MCwwMDAwMDAwMDYxZDI0NTY3YTA4NGE0ODExYzkzNDFkMTUyMjAwYTNj",
   "tracks": [
     {
       "added_at": "2022-12-16 13:31:20",
@@ -111,26 +111,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 153303,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 156000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 153303,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -195,6 +195,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "BE.TH",
+          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Whistle (feat. Bertie Scott)",
         "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Boots",
-        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "BE.TH",
-          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Shooting Darts (with R3HAB & Prezioso)",
         "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Nobody To Love (with Loren Gray)",
-        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
-      },
-      "artists": [
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Loren Gray",
-          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
-        }
-      ],
-      "duration_ms": 146372,
-      "name": "Nobody To Love (with Loren Gray)",
-      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 166887,
       "name": "Raindrops (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Nobody To Love (with Loren Gray)",
+        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Loren Gray",
+          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
+        }
+      ],
+      "duration_ms": 146372,
+      "name": "Nobody To Love (with Loren Gray)",
+      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
     },
     {
       "added_at": "2022-12-16 13:31:20",

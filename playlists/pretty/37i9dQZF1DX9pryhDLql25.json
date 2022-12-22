@@ -1,12 +1,12 @@
 {
   "description": "Gather your friends for the cherished ritual that is brunch. If not for the pomo irony, then for the endless hibiscus lavender mimosas.",
-  "num_followers": 195068,
+  "num_followers": 195056,
   "original_name": "Boozy Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1OTkxNjc3MSwwMDAwMDAwMDFmYTg4ZWEwNjFjZDZlYTdkMDk1Mzg1MjNkOGIyZjA2",
+  "snapshot_id": "MTU1OTkxNjc3MSwwMDAwMDAwMDc4ZjI5MmU2NzE4NDJmZDQ0MmY1ZGUwZDI2MmZmODNi",
   "tracks": [
     {
       "added_at": "2019-06-07 14:12:51",
@@ -915,6 +915,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "Ashkelon",
         "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Coming Down the Mountain",
-        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 273958,
-      "name": "Coming Down the Mountain",
-      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Make Way for Love",
-        "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
+        "name": "Coming Down the Mountain",
+        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 161690,
-      "name": "What's Chasing You",
-      "url": "https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u"
+      "duration_ms": 273958,
+      "name": "Coming Down the Mountain",
+      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Make Way for Love",
+        "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
         }
       ],
-      "duration_ms": 249866,
-      "name": "Sunday Morning Coming Down - Live",
-      "url": "https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS"
+      "duration_ms": 161690,
+      "name": "What's Chasing You",
+      "url": "https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1135,6 +1119,22 @@
       "duration_ms": 201666,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Sunday Morning Coming Down - Live",
+      "url": "https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Sparrow",
+        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Hands on You",
+      "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "Countries",
         "url": "https://open.spotify.com/album/2ZD2haTkSI2qz11IbkeJOe"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 236906,
       "name": "Revolution (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Sparrow",
-        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Hands on You",
-      "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
     },
     {
       "added_at": "2019-06-07 14:12:51",

@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: RM.",
-  "num_followers": 251980,
+  "num_followers": 252094,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM3MDgwOCwwMDAwMDAwMDU1OGUyNmY3ODc2ZTZmYzIxNjJlM2M1NDg5ZDRlNzU3",
+  "snapshot_id": "MTY3MDM3MDgwOCwwMDAwMDAwMDI4NmNlNzViOTEyMDZiYmYwZjA2OGNmMDJmMGFkOTA5",
   "tracks": [
     {
       "added_at": "2022-12-02 05:01:00",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
     },
     {
-      "added_at": "2022-12-21 01:10:48",
+      "added_at": "2022-12-22 00:50:57",
       "album": {
         "name": "Champagne Talk",
         "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Shade of Yellow",
-        "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 156963,
-      "name": "Shade of Yellow",
-      "url": "https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Shade of Yellow",
+        "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Bla Bli Blu",
-        "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        }
-      ],
-      "duration_ms": 177757,
-      "name": "Bla Bli Blu",
-      "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Healing House",
         "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
       },
@@ -1903,22 +1887,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "THREE IN THE MORNING",
-        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
+        "name": "Bla Bli Blu",
+        "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
         }
       ],
-      "duration_ms": 170476,
-      "name": "THREE IN THE MORNING",
-      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
+      "duration_ms": 177757,
+      "name": "Bla Bli Blu",
+      "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1943,6 +1923,26 @@
       "duration_ms": 186923,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "THREE IN THE MORNING",
+        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "THREE IN THE MORNING",
+      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2293,6 +2293,22 @@
       "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
     },
     {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "how to love",
+        "url": "https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD"
+      },
+      "artists": [
+        {
+          "name": "JEN Z",
+          "url": "https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "how to love",
+      "url": "https://open.spotify.com/track/0yo9larsomF52ozr81jCEm"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Strangers",
@@ -2329,22 +2345,6 @@
       "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "how to love",
-        "url": "https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD"
-      },
-      "artists": [
-        {
-          "name": "JEN Z",
-          "url": "https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b"
-        }
-      ],
-      "duration_ms": 213033,
-      "name": "how to love",
-      "url": "https://open.spotify.com/track/0yo9larsomF52ozr81jCEm"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Air Guitar",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "how i remember",
-        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 239858,
-      "name": "epilogue",
-      "url": "https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 138000,
       "name": "Smile",
       "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "how i remember",
+        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 239858,
+      "name": "epilogue",
+      "url": "https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2427,6 +2427,22 @@
       "duration_ms": 154969,
       "name": "Can We Have A Conversation?",
       "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/29V6Dh3psH6MpH3tSc9cSg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/1aNm7Q5mRuv0MUd7ZeS1Df"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -2535,22 +2551,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/29V6Dh3psH6MpH3tSc9cSg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/1aNm7Q5mRuv0MUd7ZeS1Df"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "PLAYTHING",
         "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
       },
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
-        }
-      ],
-      "duration_ms": 140658,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "SPOILED BITCH",
         "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 140500,
       "name": "SPOILED BITCH",
       "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "duration_ms": 140658,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
     },
     {
       "added_at": "2022-11-18 05:00:00",

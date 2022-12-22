@@ -1,47 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 26513,
+  "num_followers": 26603,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI0ODcyNDA0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI0OTM2MTI0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Talet Lghiba",
-        "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
-      },
-      "artists": [
-        {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
-        }
-      ],
-      "duration_ms": 211230,
-      "name": "Talet Lghiba",
-      "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 265806,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
@@ -61,10 +29,26 @@
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Gueule tap\u00e9e",
-        "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
+        "name": "Talet Lghiba",
+        "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "duration_ms": 211230,
+      "name": "Talet Lghiba",
+      "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
       },
       "artists": [
         {
@@ -72,12 +56,12 @@
           "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Gueule tap\u00e9e",
-      "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
+      "duration_ms": 265806,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -101,7 +85,23 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Gueule tap\u00e9e",
+        "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gueule tap\u00e9e",
+      "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
@@ -117,43 +117,7 @@
       "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Lovini",
-        "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
-      },
-      "artists": [
-        {
-          "name": "Mons",
-          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
-        }
-      ],
-      "duration_ms": 189692,
-      "name": "Lovini",
-      "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
@@ -173,7 +137,43 @@
       "url": "https://open.spotify.com/track/4oaNLwmI55IVTiJUaO6zIc"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Lovini",
+        "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "duration_ms": 189692,
+      "name": "Lovini",
+      "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -197,39 +197,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "CHICHI",
-        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "CHICHI",
-      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
@@ -245,62 +213,26 @@
       "url": "https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Dawk Lya",
-        "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
       },
       "artists": [
         {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
         }
       ],
-      "duration_ms": 148062,
-      "name": "Dawk Lya",
-      "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
+      "duration_ms": 238939,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "JRO7I",
-        "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
-      },
-      "artists": [
-        {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "JRO7I",
-      "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
-        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
-      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Taline",
-        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
+        "name": "CHICHI",
+        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
       },
       "artists": [
         {
@@ -308,12 +240,12 @@
           "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Taline",
-      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
@@ -333,7 +265,75 @@
       "url": "https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Taline",
+        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Taline",
+      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Dawk Lya",
+        "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 148062,
+      "name": "Dawk Lya",
+      "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
+        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
+      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "JRO7I",
+        "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
+      },
+      "artists": [
+        {
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "JRO7I",
+      "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "C\u0153ur blanc",
         "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
@@ -369,7 +369,23 @@
       "url": "https://open.spotify.com/track/3fTryDJnvpC4K2o8FfCA6r"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -409,23 +425,31 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+        "name": "\u0664in (Act 4)",
+        "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Sa\u00efd Senhaji",
+          "url": "https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca"
+        },
+        {
+          "name": "Abdelaziz Stati",
+          "url": "https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1"
         }
       ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+      "duration_ms": 365529,
+      "name": "L7essada",
+      "url": "https://open.spotify.com/track/6BbRk218FsK51B2KVc4GrA"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/6rjTLZmOHDByOn63ZZomyY"
@@ -453,23 +477,7 @@
       "url": "https://open.spotify.com/track/139nCjBRQCLgnWNRxBKAC7"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "FORSSA",
-        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 197785,
-      "name": "FORSSA",
-      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -485,7 +493,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Mots crois\u00e9s",
         "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
@@ -505,7 +513,39 @@
       "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "FORSSA",
+        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 197785,
+      "name": "FORSSA",
+      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -521,23 +561,23 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Dexter",
-        "url": "https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI"
+        "name": "De9at l9elb",
+        "url": "https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr"
       },
       "artists": [
         {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
         }
       ],
-      "duration_ms": 168411,
-      "name": "Dexter",
-      "url": "https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS"
+      "duration_ms": 154451,
+      "name": "De9at l9elb",
+      "url": "https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Ind\u00e9pendance",
         "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
@@ -557,23 +597,23 @@
       "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+        "name": "Dexter",
+        "url": "https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
         }
       ],
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+      "duration_ms": 168411,
+      "name": "Dexter",
+      "url": "https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Trap Roumi V2",
         "url": "https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly"
@@ -589,71 +629,7 @@
       "url": "https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "De9at l9elb",
-        "url": "https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr"
-      },
-      "artists": [
-        {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
-        }
-      ],
-      "duration_ms": 154451,
-      "name": "De9at l9elb",
-      "url": "https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Salade Coco",
-        "url": "https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 167730,
-      "name": "Salade Coco",
-      "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "DRAILL",
-        "url": "https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M"
-      },
-      "artists": [
-        {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
-        }
-      ],
-      "duration_ms": 220444,
-      "name": "DRAILL",
-      "url": "https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -669,7 +645,103 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Salade Coco",
+        "url": "https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 167730,
+      "name": "Salade Coco",
+      "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Hickey",
+        "url": "https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Hickey",
+      "url": "https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Nsiti",
+        "url": "https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG"
+      },
+      "artists": [
+        {
+          "name": "Oussama",
+          "url": "https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml"
+        }
+      ],
+      "duration_ms": 172022,
+      "name": "Nsiti",
+      "url": "https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "BREDA",
+        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "BREDA",
+      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Makhelaw magalou",
+        "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Makhelaw magalou",
+      "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -689,71 +761,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Hickey",
-        "url": "https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj"
-      },
-      "artists": [
-        {
-          "name": "Raste",
-          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Hickey",
-      "url": "https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Makhelaw magalou",
-        "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Makhelaw magalou",
-      "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Ha Mamma",
-        "url": "https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW"
-      },
-      "artists": [
-        {
-          "name": "Maestro",
-          "url": "https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Ha Mamma",
-      "url": "https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "BREDA",
-        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "BREDA",
-      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Sucr\u00e9 Sal\u00e9",
         "url": "https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS"
@@ -769,43 +777,55 @@
       "url": "https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Sans visa",
-        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
+        "name": "\u0664in (Act 4)",
+        "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
         }
       ],
-      "duration_ms": 176120,
-      "name": "Balader",
-      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
+      "duration_ms": 185949,
+      "name": "Caminando",
+      "url": "https://open.spotify.com/track/1DoDzNzvmMGQ6vc3Wjajr4"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Ghazali",
-        "url": "https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57"
+        "name": "DRAILL",
+        "url": "https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M"
       },
       "artists": [
         {
-          "name": "Bilal Tacchini",
-          "url": "https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o"
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
         }
       ],
-      "duration_ms": 304457,
-      "name": "Ghazali",
-      "url": "https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN"
+      "duration_ms": 220444,
+      "name": "DRAILL",
+      "url": "https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
+      "album": {
+        "name": "Ha Mamma",
+        "url": "https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW"
+      },
+      "artists": [
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Ha Mamma",
+      "url": "https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR"
+    },
+    {
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
@@ -825,27 +845,23 @@
       "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
         "name": "Fetty Wap",
         "url": "https://open.spotify.com/album/3FU8qkXDboBsrASS7VFIqK"
@@ -861,40 +877,28 @@
       "url": "https://open.spotify.com/track/5HavMB9WGE33KK6NL8XjXl"
     },
     {
-      "added_at": "2022-12-20 17:26:44",
+      "added_at": "2022-12-21 11:08:44",
       "album": {
-        "name": "Ghir Ntiya",
-        "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
+        "name": "\u0664in (Act 4)",
+        "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
       },
       "artists": [
         {
-          "name": "Marwa Loud",
-          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
         },
         {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        }
-      ],
-      "duration_ms": 214015,
-      "name": "Ghir Ntiya",
-      "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
-    },
-    {
-      "added_at": "2022-12-20 17:26:44",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+      "duration_ms": 196197,
+      "name": "Weld L3abd",
+      "url": "https://open.spotify.com/track/0MzVx8P5frmjdiTvoflRbd"
     }
   ],
   "unique_name": "Top 50 - Morocco",

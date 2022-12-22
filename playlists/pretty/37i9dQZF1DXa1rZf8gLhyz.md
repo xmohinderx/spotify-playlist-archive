@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,956 likes - 180 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,205 likes - 180 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 162 | [Blame it on My Youth](https://open.spotify.com/track/1KWj5vKH4ns49fPDsD6Qa1) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [In Love For the Rest of My Life](https://open.spotify.com/album/7um0tlhr6y5RIufvcyVjbp) | 2:33 |
 | 163 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 |
 | 164 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 |
-| 165 | [I'm in the Mood for Love](https://open.spotify.com/track/0KxJiWlCoNYTEFhvMxVl3D) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Yoga & Meditation: Piano Instrumentals for Mind and Body, Vol\. 3](https://open.spotify.com/album/7I7urbYtKezMDBNNAQp4Sk) | 2:14 |
+| 165 | [I'm in the Mood for Love](https://open.spotify.com/track/5lu7NSkpQQ9QBIQKTnpx0f) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Cocktail Piano: A gentle, genteel accompaniment to your party](https://open.spotify.com/album/7ujweyMOHnTFZs3quoaVlp) | 2:15 |
 | 166 | [When We Meet Again](https://open.spotify.com/track/71vWUMeyrgikHr6MwkUpCv) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [When We Meet Again](https://open.spotify.com/album/6vOUy7BcO38Yzd8Sfepaqm) | 2:47 |
 | 167 | [All The Things You Are](https://open.spotify.com/track/0bAtkqBlQwiqGGJ9AwQ6bH) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [All The Things You Are](https://open.spotify.com/album/0REx5Z6ns83cNF762mDcFw) | 3:25 |
 | 168 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 179 | [Nightmood](https://open.spotify.com/track/4ditrMy34cshzgGWwTc7bH) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Nightmood](https://open.spotify.com/album/36gnW9zzfAOMX61z76ey9b) | 3:44 |
 | 180 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 |
 
-Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDE4NDhhYzcxNTNmOTA3MDYyM2U2NTYzN2FlNjhiNWVj`
+Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDc1Y2YwNDFkODVlNTg2Y2FhMTRmYzFhZWQ1ZDE0NWQ2`

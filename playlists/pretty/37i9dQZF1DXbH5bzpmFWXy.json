@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme MalaFe & Jorge Carmona en portada.",
-  "num_followers": 102429,
+  "num_followers": 102530,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMDQ1ZjIzMGRiOWM3MDg2YmNiMTA5YjFkMGIyMjY2NjRl",
+  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMDk2ZjI0YzU5NjZlNDc1ZmQ3YjY4OGZkYjZkMGZmZDdk",
   "tracks": [
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Morritas",
+        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216330,
+      "name": "Morritas",
+      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Desde la Ra\u00edz",
@@ -1097,38 +1113,6 @@
       "url": "https://open.spotify.com/track/3gzj2Q3R1oSfp0hlDnzv7J"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Caile",
-        "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 300187,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Guisao",
@@ -1159,18 +1143,34 @@
     {
       "added_at": "2022-12-16 06:00:00",
       "album": {
-        "name": "Morritas",
-        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
+        "name": "Caile",
+        "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 216330,
-      "name": "Morritas",
-      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+      "duration_ms": 300187,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 380200,
-      "name": "El Diablo Anda Suelto",
-      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Delivery",
@@ -1333,6 +1317,22 @@
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 380200,
+      "name": "El Diablo Anda Suelto",
+      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
+    },
+    {
       "added_at": "2022-11-07 23:46:55",
       "album": {
         "name": "Sandro Malandro Por Amor Al Mic",
@@ -1347,6 +1347,26 @@
       "duration_ms": 198336,
       "name": "Asi Me Encula",
       "url": "https://open.spotify.com/track/2WIJXF6tT09YzL8FjyVy5x"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1383,26 +1403,6 @@
       "duration_ms": 200253,
       "name": "Pap\u00e1",
       "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
-    },
-    {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1769,22 +1769,6 @@
       "url": "https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Lo M\u00edo No Tiene Cura",
-        "url": "https://open.spotify.com/album/143kPEitPDgMiNotLyLene"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 220973,
-      "name": "Lo M\u00edo No Tiene Cura",
-      "url": "https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
@@ -1799,6 +1783,22 @@
       "duration_ms": 182933,
       "name": "Coraz\u00f3n Fr\u00edo",
       "url": "https://open.spotify.com/track/2CsSmQ90Px3Nx0b6WPb3k2"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Lo M\u00edo No Tiene Cura",
+        "url": "https://open.spotify.com/album/143kPEitPDgMiNotLyLene"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Lo M\u00edo No Tiene Cura",
+      "url": "https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X"
     },
     {
       "added_at": "2022-09-23 05:00:00",

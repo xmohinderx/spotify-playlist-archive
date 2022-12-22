@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,037 likes - 57 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,061 likes - 57 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 37 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa) | 3:30 |
 | 38 | [When Will I Be Loved](https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [When Will I Be Loved](https://open.spotify.com/album/4Tj6RmodeVYw5V41lfkWEY) | 2:39 |
 | 39 | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS) | 3:35 |
-| 40 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
+| 40 | [All About That Bass \(No Tenors\)](https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:54 |
 | 41 | [Surface Pressure](https://open.spotify.com/track/2YePcRCovlBZ0wIYX7bXAa) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Surface Pressure](https://open.spotify.com/album/7aNLvoaHB7xqpqssKfQuJ2) | 3:14 |
 | 42 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 |
 | 43 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 47 | [Call Me Maybe / What Makes You Beautiful](https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Over the Bridge](https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78) | 4:00 |
 | 48 | [Fireflies](https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp) | [University of Rochester Midnight Ramblers](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) | [Best of BOCA: The First 20 Years](https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs) | 3:38 |
 | 49 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
-| 50 | [All About That Bass \(No Tenors\)](https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:54 |
+| 50 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
 | 51 | [Ordinary People](https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe) | [Ordinary People](https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk) | 1:14 |
 | 52 | [We Found Love](https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [The Singles: In My Mind](https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY) | 3:45 |
 | 53 | [Defying Gravity](https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv) | [Washington University Stereotypes](https://open.spotify.com/artist/05uISKzHUkn0ZlhFL24uEt) | [Tongue Tied](https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP) | 3:52 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 | 57 | [Africa](https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [House Rules](https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v) | 4:06 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDZmYWVhYjMwMTgxNjU2NTk5YWExYzY0ZTIzYzIwZTlk`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGYyNzIyZGJlNmQzZTVlZDJmMGI3M2VkYTk5ODEyNzg0`

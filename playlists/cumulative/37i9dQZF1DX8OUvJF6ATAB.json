@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 311986,
       "name": "Asteria - Alva Noto Remodel",
       "url": "https://open.spotify.com/track/4wZi1G6Kh8aBDRO2HcjbcJ"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 275500,
       "name": "Bh",
       "url": "https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ"
@@ -2130,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Fungipedia",
+        "url": "https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO"
+      },
+      "artists": [
+        {
+          "name": "Azulina",
+          "url": "https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Inocybe",
+      "url": "https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc"
+    },
+    {
+      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -3287,7 +3305,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 305353,
       "name": "Overlay - KMRU Remix",
       "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
@@ -3471,6 +3489,24 @@
       "duration_ms": 117317,
       "name": "Powers Out",
       "url": "https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa"
+    },
+    {
+      "album": {
+        "name": "Infinita Incertidumbre",
+        "url": "https://open.spotify.com/album/53eUTbEJRh5YErWgEU8Nos"
+      },
+      "artists": [
+        {
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212909,
+      "name": "Presente y pasado",
+      "url": "https://open.spotify.com/track/5gJRzZRvusVHbuAtheMRt9"
     },
     {
       "album": {
@@ -3961,7 +3997,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 205955,
       "name": "Solidarity Theme (Release)",
       "url": "https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV"
@@ -4225,6 +4261,28 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
+      },
+      "artists": [
+        {
+          "name": "Braulio Lam",
+          "url": "https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS"
+        },
+        {
+          "name": "Simonel",
+          "url": "https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Tape Loops and Expired Film",
+      "url": "https://open.spotify.com/track/6DroDiBF5mmxH4YWctAyRP"
     },
     {
       "album": {
@@ -4705,6 +4763,24 @@
       "duration_ms": 350703,
       "name": "Toi",
       "url": "https://open.spotify.com/track/4gdw4paCuFB5JPisEPUQg7"
+    },
+    {
+      "album": {
+        "name": "Personal Territories",
+        "url": "https://open.spotify.com/album/4nfCaPmruDp3PiVjBivLzc"
+      },
+      "artists": [
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/0SnD5awSAVP2Kn4bAFdXDY"
     },
     {
       "album": {

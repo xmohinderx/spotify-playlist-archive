@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: LEGADO 7 & Juan De Ron",
-  "num_followers": 577516,
+  "num_followers": 577571,
   "original_name": "Corridos 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDhmZjU1MzI4Y2U5Y2MwOTBiYzUxMmY3NjA2NWU0NDY0",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDJmNDYxNzZjYmRlNjI3MGRjMzA5OGYwMzgyYWE1ZTdh",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Ahora Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 225767,
-      "name": "Ahora Todo Es Diferente",
-      "url": "https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Ahora Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 225767,
+      "name": "Ahora Todo Es Diferente",
+      "url": "https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 176208,
+      "name": "El Vago De Los Nike",
+      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Hay Que Hacer Dinero",
         "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
       },
@@ -1247,26 +1263,6 @@
       "duration_ms": 179130,
       "name": "Hay Que Hacer Dinero",
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Veneno Verde",
-        "url": "https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        },
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "Veneno Verde",
-      "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1307,6 +1303,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Veneno Verde",
+        "url": "https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        },
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Veneno Verde",
+      "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Una Chevy",
         "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 176208,
-      "name": "El Vago De Los Nike",
-      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "12 Rifles",
         "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
       },
@@ -1351,6 +1351,26 @@
       "duration_ms": 173500,
       "name": "12 Rifles",
       "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "H\u00e1gase Hombre",
+        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "H\u00e1gase Hombre",
+      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1383,26 +1403,6 @@
       "duration_ms": 169145,
       "name": "El Fugitivo",
       "url": "https://open.spotify.com/track/3HevcnYdnqtS0MvtyWkOg5"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "H\u00e1gase Hombre",
-        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "H\u00e1gase Hombre",
-      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "El 30",
-        "url": "https://open.spotify.com/album/5uFfnpEe1QrKi8kLEjEFSy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "El 30",
-      "url": "https://open.spotify.com/track/4YqYXDEXCOzoigKHCCAec7"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Padre Nuestro",
         "url": "https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9"
       },
@@ -1535,6 +1515,22 @@
       "duration_ms": 208213,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Kilos De H",
+        "url": "https://open.spotify.com/album/38tSpGhbcntqHHkNRRNQIb"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Kilos De H",
+      "url": "https://open.spotify.com/track/7s5XTKQdpxicXbPv1QAUcU"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1575,18 +1571,38 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Kilos De H",
-        "url": "https://open.spotify.com/album/38tSpGhbcntqHHkNRRNQIb"
+        "name": "El 30",
+        "url": "https://open.spotify.com/album/5uFfnpEe1QrKi8kLEjEFSy"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Kilos De H",
-      "url": "https://open.spotify.com/track/7s5XTKQdpxicXbPv1QAUcU"
+      "duration_ms": 190772,
+      "name": "El 30",
+      "url": "https://open.spotify.com/track/4YqYXDEXCOzoigKHCCAec7"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Tolin Infante",
-        "url": "https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3"
+        "name": "El de Houston",
+        "url": "https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 206573,
-      "name": "Tolin Infante",
-      "url": "https://open.spotify.com/track/0CllAgK2OReCaP8p1yl1SW"
+      "duration_ms": 182464,
+      "name": "El de Houston",
+      "url": "https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1767,22 +1771,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "El de Houston",
-        "url": "https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5"
+        "name": "Tolin Infante",
+        "url": "https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 182464,
-      "name": "El de Houston",
-      "url": "https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4"
+      "duration_ms": 206573,
+      "name": "Tolin Infante",
+      "url": "https://open.spotify.com/track/0CllAgK2OReCaP8p1yl1SW"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Soy de Sinaloa",
         "url": "https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 268527,
       "name": "Fabi",
       "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Me Dicen El Chavo",
-        "url": "https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Me Dicen El Chavo",
-      "url": "https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "El Cholo Iv\u00e1n",
         "url": "https://open.spotify.com/album/6A6KHpAfTwBWr2CQbbVKVL"
       },
@@ -2175,18 +2159,34 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Ave De Mal Ag\u00fcero",
-        "url": "https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX"
+        "name": "Me Dicen El Chavo",
+        "url": "https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Ave De Mal Ag\u00fcero",
-      "url": "https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn"
+      "duration_ms": 187037,
+      "name": "Me Dicen El Chavo",
+      "url": "https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "No Quiero Agarrar El Rollo",
+        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 121209,
+      "name": "No Quiero Agarrar El Rollo",
+      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Ave De Mal Ag\u00fcero",
+        "url": "https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Ave De Mal Ag\u00fcero",
+      "url": "https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "El Halcon",
         "url": "https://open.spotify.com/album/1qgHPNs3Yz5aTKZXTc6Ycy"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 198000,
       "name": "Presumo Lo Que Tengo",
       "url": "https://open.spotify.com/track/6CwFy3iB0Rtcbuy0Ip4Vhk"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "No Quiero Agarrar El Rollo",
-        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 121209,
-      "name": "No Quiero Agarrar El Rollo",
-      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "INERCIA",
+        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Fresa Me Ven",
         "url": "https://open.spotify.com/album/3F2e39Tdmweo2llDsZYZ4s"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 195760,
       "name": "Fresa Me Ven",
       "url": "https://open.spotify.com/track/25G7oP5Udqcfai35GMaHoJ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "INERCIA",
-        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2743,18 +2743,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Ah\u00ed Viene la Subida",
-        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
+        "name": "Brindo Por Lo Malo",
+        "url": "https://open.spotify.com/album/339OmmMXcDHHY1XJjlHyKd"
       },
       "artists": [
         {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 264750,
-      "name": "El 15",
-      "url": "https://open.spotify.com/track/67wRwLCjVnHvsTfLNz6Klx"
+      "duration_ms": 130479,
+      "name": "Brindo Por Lo Malo",
+      "url": "https://open.spotify.com/track/3sHfnPwJChhhgoSfrjKrsA"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2775,22 +2779,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Brindo Por Lo Malo",
-        "url": "https://open.spotify.com/album/339OmmMXcDHHY1XJjlHyKd"
+        "name": "Ah\u00ed Viene la Subida",
+        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
       },
       "artists": [
         {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 130479,
-      "name": "Brindo Por Lo Malo",
-      "url": "https://open.spotify.com/track/3sHfnPwJChhhgoSfrjKrsA"
+      "duration_ms": 264750,
+      "name": "El 15",
+      "url": "https://open.spotify.com/track/67wRwLCjVnHvsTfLNz6Klx"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2827,22 +2827,6 @@
       "duration_ms": 233499,
       "name": "Hoy Brilla el Sol",
       "url": "https://open.spotify.com/track/4Q3oAoP1TFJ8hncwGTePRQ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Gordo Pesado",
-        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Gordo Pesado",
-      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2915,6 +2899,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Gordo Pesado",
+        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Gordo Pesado",
+      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "El Escudo Del Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/6CWLYSGhQZPoeZ1HVmpLSh"
       },
@@ -2931,22 +2931,6 @@
       "duration_ms": 175000,
       "name": "El Escudo Del Chavo - En Vivo",
       "url": "https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Sangre Avenda\u00f1o",
-        "url": "https://open.spotify.com/album/3Yt8oT3W1Efx00jW3hi1JL"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Sangre Avenda\u00f1o",
-      "url": "https://open.spotify.com/track/6K9JdTjaP3A3yLP70pai9J"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2971,22 +2955,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "La Perris (En Vivo)",
-        "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
+        "name": "Sangre Avenda\u00f1o",
+        "url": "https://open.spotify.com/album/3Yt8oT3W1Efx00jW3hi1JL"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 165492,
-      "name": "La Perris - En Vivo",
-      "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
+      "duration_ms": 167680,
+      "name": "Sangre Avenda\u00f1o",
+      "url": "https://open.spotify.com/track/6K9JdTjaP3A3yLP70pai9J"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3007,6 +2987,26 @@
       "duration_ms": 165442,
       "name": "El Tony",
       "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "La Perris (En Vivo)",
+        "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        }
+      ],
+      "duration_ms": 165492,
+      "name": "La Perris - En Vivo",
+      "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3047,26 +3047,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Las Parrandas Del Gordo (En Vivo)",
-        "url": "https://open.spotify.com/album/6RgjLB7vJ5K3Wb6cnoWqWv"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Las Parrandas Del Gordo - En Vivo",
-      "url": "https://open.spotify.com/track/26Dv27PxgMRMS0kiWhUbEY"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "El Mal Camino",
         "url": "https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38"
       },
@@ -3083,6 +3063,26 @@
       "duration_ms": 238071,
       "name": "El Mal Camino",
       "url": "https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Las Parrandas Del Gordo (En Vivo)",
+        "url": "https://open.spotify.com/album/6RgjLB7vJ5K3Wb6cnoWqWv"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Las Parrandas Del Gordo - En Vivo",
+      "url": "https://open.spotify.com/track/26Dv27PxgMRMS0kiWhUbEY"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3239,6 +3239,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Yo Soy Quien Soy",
+        "url": "https://open.spotify.com/album/1H61wbISCCfmrrylwnTw2E"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 177780,
+      "name": "Yo Soy Quien Soy",
+      "url": "https://open.spotify.com/track/2AjgHgWcoxO9uycGNXfK15"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Vida Prestada",
         "url": "https://open.spotify.com/album/67XIm7lVT0ZvCxs7YuJYun"
       },
@@ -3283,22 +3299,6 @@
       "duration_ms": 116665,
       "name": "Ex Soldado Raygoza - En Vivo",
       "url": "https://open.spotify.com/track/0LfbsT99gdjQ4vAgDWkmhy"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Yo Soy Quien Soy",
-        "url": "https://open.spotify.com/album/1H61wbISCCfmrrylwnTw2E"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 177780,
-      "name": "Yo Soy Quien Soy",
-      "url": "https://open.spotify.com/track/2AjgHgWcoxO9uycGNXfK15"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3371,38 +3371,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "La Lista",
-        "url": "https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "El del Corvette",
-        "url": "https://open.spotify.com/album/6RcemfWBoHCZBs7Zi4JTPq"
-      },
-      "artists": [
-        {
-          "name": "Revolver Cannabis",
-          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "El del Corvette",
-      "url": "https://open.spotify.com/track/1Sc2tm7aeKp7HeP54metL0"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Corridos 100% Callejeros (Vol. 1)",
         "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
       },
@@ -3419,18 +3387,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Soldado Advertido",
-        "url": "https://open.spotify.com/album/6GBGtYthuZFxitIqe4Wp88"
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 199667,
-      "name": "Soldado Advertido",
-      "url": "https://open.spotify.com/track/0qphzsZAqqiWfU94d0kYjO"
+      "duration_ms": 211278,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3451,18 +3419,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Hombre De Ley (El 23)",
-        "url": "https://open.spotify.com/album/5ApUXj0kc2DTCThh5y2wC9"
+        "name": "El del Corvette",
+        "url": "https://open.spotify.com/album/6RcemfWBoHCZBs7Zi4JTPq"
       },
       "artists": [
         {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
         }
       ],
-      "duration_ms": 165626,
-      "name": "Hombre De Ley (El 23)",
-      "url": "https://open.spotify.com/track/6aykDzTp1Ws8AWFbqTVjEz"
+      "duration_ms": 208212,
+      "name": "El del Corvette",
+      "url": "https://open.spotify.com/track/1Sc2tm7aeKp7HeP54metL0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3479,6 +3447,38 @@
       "duration_ms": 150880,
       "name": "Yo No Me Rajo",
       "url": "https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Soldado Advertido",
+        "url": "https://open.spotify.com/album/6GBGtYthuZFxitIqe4Wp88"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 199667,
+      "name": "Soldado Advertido",
+      "url": "https://open.spotify.com/track/0qphzsZAqqiWfU94d0kYjO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Hombre De Ley (El 23)",
+        "url": "https://open.spotify.com/album/5ApUXj0kc2DTCThh5y2wC9"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "Hombre De Ley (El 23)",
+      "url": "https://open.spotify.com/track/6aykDzTp1Ws8AWFbqTVjEz"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3571,6 +3571,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "La Ruleta de la Vida",
+        "url": "https://open.spotify.com/album/4onNGEWvJ7CFdwxOfRNP8O"
+      },
+      "artists": [
+        {
+          "name": "La Instruxion",
+          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 159056,
+      "name": "La Ruleta de la Vida",
+      "url": "https://open.spotify.com/track/7LqZaeQLxCddAw8k0FA9T7"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "El Pochito",
         "url": "https://open.spotify.com/album/7ziQeB1l4NSn0dWw08yunZ"
       },
@@ -3603,22 +3623,6 @@
       "duration_ms": 165250,
       "name": "Sue\u00f1os y Metas",
       "url": "https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "El Mayor",
-        "url": "https://open.spotify.com/album/1zeinR43f370FNKzDZtAtF"
-      },
-      "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        }
-      ],
-      "duration_ms": 142869,
-      "name": "El Mayor",
-      "url": "https://open.spotify.com/track/69Va9TvP33ArLmaS5EmO1n"
     },
     {
       "added_at": "2022-12-02 05:00:00",

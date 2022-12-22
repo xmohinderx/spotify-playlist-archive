@@ -4,7 +4,7 @@
 
 > ❤️ o 💔
 
-166 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/6lpcIVeOfM0gXNeewIFzKd)
+167 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/6lpcIVeOfM0gXNeewIFzKd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [No Me Llores](https://open.spotify.com/track/4DNzemGNnckcJSr8DVk8Uj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/1icQUm91R0BRAMckJHyLwQ) | 3:11 | 2021-12-03 | 2022-07-29 |
 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-12-03 | 2022-07-29 |
 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 | 2021-12-03 |  |
-| [Nunca Me Amo](https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Nunca Me Amo](https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4) | 3:19 | 2021-12-03 |  |
+| [Nunca Me Amo](https://open.spotify.com/track/6jCF6MQ050engg73RJnN87) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Nunca Me Amo](https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU) | 3:19 | 2022-12-09 |  |
+| [Nunca Me Amo](https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Nunca Me Amo](https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4) | 3:19 | 2021-12-03 | 2022-12-22 |
 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 | 2021-12-03 |  |
 | [Otra Noche](https://open.spotify.com/track/77XZ8DaR6cfQT6MtIkQQbq) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Otra Noche](https://open.spotify.com/album/0JFyRk4ZJuUNBMqIhIauM6) | 3:08 | 2021-12-03 | 2022-07-16 |
 | [Pa Mi](https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Pa Mi](https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K) | 3:48 | 2022-06-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,071 likes - 98 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,093 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 16 | [Que Si Me Ves](https://open.spotify.com/track/5j0RE87fQ7NmMe5jFPsSIZ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Si Me Ves](https://open.spotify.com/album/6jtwPwLF9kyYPczMayydIB) | 3:07 |
 | 17 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 |
 | 18 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 |
-| 19 | [SUV](https://open.spotify.com/track/2hgoEGNNefWMveRlpLDiSG) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [SUV](https://open.spotify.com/album/1TT4xXj8sX6vDWGkDO7nYj) | 4:03 |
+| 19 | [SUV](https://open.spotify.com/track/2hgoEGNNefWMveRlpLDiSG) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [SUV](https://open.spotify.com/album/1TT4xXj8sX6vDWGkDO7nYj) | 4:03 |
 | 20 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
 | 21 | [Nunca Supiste](https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Nunca Supiste](https://open.spotify.com/album/3bIRrdw5Hjvlb59eiT6Ldo) | 3:56 |
 | 22 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 |

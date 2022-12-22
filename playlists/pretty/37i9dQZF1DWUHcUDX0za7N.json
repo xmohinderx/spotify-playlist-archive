@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 13309,
+  "num_followers": 13346,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMGZmOWIwMzUxOGQ5OGQzMmNmNDk4YmNlMjM4YzYyMDg5",
+  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMDhjMDc1ZTJiYTcwNGVkMDVlMzQxYTJhMjAxOTViOGFl",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
@@ -1211,22 +1227,6 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
-      },
-      "artists": [
-        {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
       "added_at": "2022-11-24 23:00:00",
       "album": {
         "name": "Ikebe",
@@ -1359,22 +1375,6 @@
       "duration_ms": 189230,
       "name": "Ikebe",
       "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
     },
     {
       "added_at": "2022-06-09 23:00:00",

@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0?si=sXcpNkErTdOSPCEsSZPOdw">Montell2099 </a>\. Watch his amazing live mix from Lake Atla, New Zealand <a href="https://youtu.be/FTbwJoYvA3I">HERE </a>
 
-626 songs - 1 day 10 hr 1 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+627 songs - 1 day 10 hr 5 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Drugs \- Effin VIP](https://open.spotify.com/track/0j43MFSf19vk8ctaWz7C74) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Drugs \(Remixes\)](https://open.spotify.com/album/4dmhCVyVbajUyZkZ5qCIRB) | 3:27 | 2022-04-18 | 2022-05-18 |
 | [Dry](https://open.spotify.com/track/0Yv5b5zk4aOsS5CDQaPE0J) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [AmanderSings](https://open.spotify.com/artist/173GfQx5bEtd47VPltulZ0) | [Dry](https://open.spotify.com/album/6TzMfoUiHRHWbHeAWYojBf) | 2:51 | 2022-04-29 | 2022-06-04 |
 | [Easy To Love](https://open.spotify.com/track/7cIkqDx8ySlgNgNFF5v5Bk) | [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Easy To Love](https://open.spotify.com/album/7gWIMxBq6vANxJ3LgHFQQo) | 4:47 | 2022-06-24 | 2022-07-29 |
+| [Electrifying](https://open.spotify.com/track/0OwVPc1LrKgQnTRgzFysvC) | [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Electrifying](https://open.spotify.com/album/6VDGx56kuc4zzJPB9GMfPz) | 3:19 | 2022-12-21 |  |
 | [Eliminate](https://open.spotify.com/track/3rD9mhlzhKKugBOEe62k50) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [LOGOS](https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP) | 3:41 | 2022-11-10 | 2022-12-17 |
 | [Emotion Sickness](https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Emotion Sickness](https://open.spotify.com/album/7wxZ1xnjbPodzxj3uOxwAe) | 3:22 | 2022-02-15 | 2022-09-15 |
 | [Emotion Sickness \- Dust of Apollon Remix](https://open.spotify.com/track/7rHSIDUCz341nJqBIuYVCx) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:28 | 2022-07-29 | 2022-11-24 |

@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-127 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
+128 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Fight Back Sisters](https://open.spotify.com/track/3QbYl04MfAbhQCNOBqeiqh) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Fight Back Sisters](https://open.spotify.com/album/1j8eySpDm565yzp9iQc4dh) | 3:15 | 2021-09-10 | 2022-07-28 |
 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 | 2021-09-10 |  |
 | [Flor de Cumbión](https://open.spotify.com/track/7onER4nMDWvYcGiKhBxqEl) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/3Khkq0CFTx8eZq99X2rWeF) | 2:37 | 2021-09-10 | 2022-07-27 |
-| [Gas Gas](https://open.spotify.com/track/19Ah7Hh26xdpgaXVv0sEJo) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Karmen with a Happy End](https://open.spotify.com/album/1l723TBcNXs5iQOMn1w3Zc) | 3:04 | 2021-09-10 |  |
+| [Gas Gas](https://open.spotify.com/track/19Ah7Hh26xdpgaXVv0sEJo) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Karmen with a Happy End](https://open.spotify.com/album/1l723TBcNXs5iQOMn1w3Zc) | 3:04 | 2021-09-10 | 2022-12-22 |
 | [Gitanas Mojadas](https://open.spotify.com/track/1UNkCY2v2hOUeoiJZMtX6C) | [Polka Madre](https://open.spotify.com/artist/0mQaCZUXORP5789FFfzDP8) | [Casa Dónde](https://open.spotify.com/album/7kfblvYGIlfBbetr0aZYFA) | 2:54 | 2021-09-10 | 2022-07-29 |
 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2021-09-10 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-09-10 |  |
@@ -57,6 +57,7 @@
 | [Hurry Up](https://open.spotify.com/track/55IgT3P3jYAbvnNcQgMUH9) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Colección Dorada \(Vol\. I\)](https://open.spotify.com/album/6JzeapBSMrUsjGZDgSCsyc) | 2:46 | 2021-09-10 | 2022-07-29 |
 | [Icsiti](https://open.spotify.com/track/1hC6QsXFXsEOBFRtqIcZxG) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs) | [Icsiti](https://open.spotify.com/album/4gNlThjhIw6h1o9X79TGZ5) | 3:41 | 2022-04-22 | 2022-08-03 |
 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 | 2021-09-10 |  |
+| [International Jet Set \- 2015 Remaster](https://open.spotify.com/track/7MrViz9E9dqO44F0PIbRI1) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [More Specials \(Deluxe Version\)](https://open.spotify.com/album/6ZaAmEOGxNs0L0xeduBc3S) | 5:38 | 2021-09-10 |  |
 | [Job](https://open.spotify.com/track/0yfzOlSCRVYg9oCZtBfM9X) | [Orquesta 24 Cuadros](https://open.spotify.com/artist/2orkkJ9BHC2Z2HpmvjLwLH) | [Orquesta 24 Cuadros](https://open.spotify.com/album/1WuZDwTJJHCPc4CABJD8Ku) | 4:42 | 2021-09-10 | 2022-11-13 |
 | [Just the Two of Us \- Borat Version](https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [It Wasn't Hard to Love You](https://open.spotify.com/album/2U1gmHeaRx1E8VaB7wO13R) | 2:56 | 2021-09-10 |  |
 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 | 2021-09-10 |  |

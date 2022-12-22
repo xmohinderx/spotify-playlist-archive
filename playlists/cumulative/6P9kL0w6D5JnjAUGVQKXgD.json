@@ -463,7 +463,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 137052,
       "name": "9PM",
       "url": "https://open.spotify.com/track/6OMkimjoNIgu1vLiXJgbOA"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/2xyIwHKujL7tSgkK2Waj2s"
@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 169910,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
@@ -5083,7 +5083,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 181330,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/5lEC9GGWBzWDmZgXf5X67F"
@@ -8611,7 +8611,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 148371,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn"
@@ -8637,7 +8637,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-27",
+      "date_removed": null,
       "duration_ms": 146474,
       "name": "Fire & Ice",
       "url": "https://open.spotify.com/track/13pjlPngBoxPWAYkng3NxR"
@@ -10073,7 +10073,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 226262,
       "name": "GOT EM",
       "url": "https://open.spotify.com/track/404RlM5dJoLH2FL1mBMGLt"
@@ -13117,7 +13117,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-16",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Infinity - Dubdogz & Bhaskar Edit",
       "url": "https://open.spotify.com/track/4ekDggjElGJX9kNSOtnbVf"
@@ -13267,7 +13267,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 171428,
       "name": "Instagram DJ",
       "url": "https://open.spotify.com/track/0yjpmYwnCcG3fhw2hZ7z4N"
@@ -14235,7 +14235,7 @@
       ],
       "date_added": "2020-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-16",
+      "date_removed": null,
       "duration_ms": 143562,
       "name": "Kingdoms",
       "url": "https://open.spotify.com/track/1w7AnnTldbh47eNFwReiIn"
@@ -16279,7 +16279,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
@@ -17533,7 +17533,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-28",
+      "date_removed": null,
       "duration_ms": 161311,
       "name": "My Loneliness - Jake Tarry Remix",
       "url": "https://open.spotify.com/track/6uqOSS7xyQqAYFSgd7oM0A"
@@ -19869,7 +19869,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-03-06",
+      "date_removed": null,
       "duration_ms": 147840,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/4flNsFzQBWO7CW99eMDwrS"
@@ -24079,7 +24079,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 141290,
       "name": "STAY",
       "url": "https://open.spotify.com/track/4ArMwaJAUT2xC7vIETjqdU"
@@ -24533,7 +24533,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 401815,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/0Rdjv1tZ5TC02GXhRFACcD"
@@ -25667,6 +25667,24 @@
       "duration_ms": 291532,
       "name": "The Grand Swell",
       "url": "https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh"
+    },
+    {
+      "album": {
+        "name": "The Great Consumer / Remind You",
+        "url": "https://open.spotify.com/album/6DNU67eyL0xzafUpwgB4qG"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358115,
+      "name": "The Great Consumer",
+      "url": "https://open.spotify.com/track/1o4hJ85d5nT7GXkudUGvWS"
     },
     {
       "album": {

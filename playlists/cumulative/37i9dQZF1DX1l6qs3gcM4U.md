@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.
 
-286 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+287 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 | 2021-12-10 |  |
 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 | 2021-12-10 |  |
 | [Novinha](https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Novinha](https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN) | 3:09 | 2022-11-04 | 2022-11-18 |
+| [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 | 2022-12-09 |  |
 | [Novo Amor](https://open.spotify.com/track/4IdyLuhexm9cbXUcDq5AYQ) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Novo Amor](https://open.spotify.com/album/745TKCU7StzNDkqxHudunL) | 2:44 | 2022-05-13 | 2022-06-17 |
 | [Nubian Queen](https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Nubian Queen](https://open.spotify.com/album/7fk3arz1TJEFTtwUWUbYGS) | 4:04 | 2021-12-10 | 2022-06-14 |
 | [Number One](https://open.spotify.com/track/0rauOsfmlYgBGkWFc4NHft) | [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [Number One](https://open.spotify.com/album/3avFebwaW78qZoLNXmBhLx) | 3:46 | 2022-03-25 | 2022-10-21 |
@@ -234,7 +235,7 @@
 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [Sexual Healing](https://open.spotify.com/track/2Rz27kKIB8LlbjzvyM1utV) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Sexual Healing](https://open.spotify.com/album/24RsjQJf1PscWiaj7dEOFy) | 4:57 | 2022-03-25 | 2022-04-21 |
 | [She's Dangerous \- Lil Maro Kizomba Remix](https://open.spotify.com/track/24mv6gkruGz3VMQlrbq2XE) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Big Nelo](https://open.spotify.com/artist/6fndolyUimclrN96l2IWdc), [Lil Maro](https://open.spotify.com/artist/5JKD7sTK9ipdYfb4wEXA9g) | [She's Dangerous \(Lil Maro Remixes\)](https://open.spotify.com/album/6Dm6VDa4OKtBYJ4SXlewTJ) | 4:16 | 2022-01-10 | 2022-01-13 |
-| [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 | 2022-02-18 |  |
+| [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 | 2022-02-18 | 2022-12-22 |
 | [Siguim](https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Siguim](https://open.spotify.com/album/1b5znILgCUFYB4xxJWRKTZ) | 3:04 | 2021-12-10 | 2022-09-15 |
 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 | 2022-04-07 |  |
 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 | 2021-12-10 |  |

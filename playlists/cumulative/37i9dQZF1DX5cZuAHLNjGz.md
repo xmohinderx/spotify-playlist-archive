@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with Karan Aujla
 
-176 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+177 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,8 +127,9 @@
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-05-29 |  |
 | [Peaches](https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 3:09 | 2022-07-15 |  |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2022-05-29 | 2022-12-11 |
+| [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2022-12-21 |  |
 | [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2022-08-17 | 2022-09-17 |
-| [Putt Sardara De](https://open.spotify.com/track/4E0ytkzNm1H6HCtMhroi8c) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Putt Sardara De](https://open.spotify.com/album/3Nil2VHLzpRrQ1HtInBsYi) | 2:13 | 2022-12-10 |  |
+| [Putt Sardara De](https://open.spotify.com/track/4E0ytkzNm1H6HCtMhroi8c) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Putt Sardara De](https://open.spotify.com/album/3Nil2VHLzpRrQ1HtInBsYi) | 2:13 | 2022-12-10 | 2022-12-22 |
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2022-05-29 | 2022-11-19 |
 | [Red Chilli](https://open.spotify.com/track/2ZxdwRUfd0LiAshQclfQZb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:32 | 2022-07-15 | 2022-10-08 |
 | [Roll Deep](https://open.spotify.com/track/4jRoXx97M0sSZBfwMkBEDV) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Roll Deep](https://open.spotify.com/album/0cQDo3urPpbh6QAawatABo) | 3:02 | 2022-05-29 | 2022-10-08 |

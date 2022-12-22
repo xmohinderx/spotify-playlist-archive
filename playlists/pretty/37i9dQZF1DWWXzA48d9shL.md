@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,218 likes - 87 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,044 likes - 87 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 25 | [BREAKDOWN!](https://open.spotify.com/track/75lF7jUfpfFDg5Cp2466Ji) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw) | [BREAKDOWN!](https://open.spotify.com/album/5IPMZ1gWckMM0ibsJsgPsP) | 2:12 |
 | 26 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 27 | [deadman \(feat\. Lil Toe\)](https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [bag or die](https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY) | 2:58 |
-| 28 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
+| 28 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 29 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
 | 30 | [A Cold Day in Hell](https://open.spotify.com/track/38agBZuMUFW1QbepsRmok8) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3), [adjacen7](https://open.spotify.com/artist/3cG5YrgvAKprcOFREldkip) | [GR/IM](https://open.spotify.com/album/6kob44ow17o97VSy9iXrff) | 1:49 |
 | 31 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 |

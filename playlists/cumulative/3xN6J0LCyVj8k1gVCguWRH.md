@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,888 songs - 4 day 12 hr 54 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,889 songs - 4 day 12 hr 57 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Coincide](https://open.spotify.com/track/0HOGA0XMC5E33f3SdybLba) | [Hunter Heflin](https://open.spotify.com/artist/78EOY1PZClscOyrP0StpoN) | [Coincide](https://open.spotify.com/album/454kioQrP4t8ChiFD3YgnK) | 2:49 | 2022-10-14 | 2022-11-05 |
 | [Cold](https://open.spotify.com/track/1ag9F6nXZEpHzuqah54NtZ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Cold](https://open.spotify.com/album/2iDomBfr8tDrI4tSG3BaSG) | 3:04 | 2022-01-15 | 2022-01-31 |
 | [Cold Hearted](https://open.spotify.com/track/7cB40VKCyeR4IZ90r0sVhN) | [SNJÜ](https://open.spotify.com/artist/4FZ3Wx6Mitb6txV51DqasS) | [Cold Hearted](https://open.spotify.com/album/6eMdFiAtpOGDNb868GgtGU) | 3:47 | 2022-05-06 | 2022-05-22 |
+| [Cold Night](https://open.spotify.com/track/6cRgIzBjxvgpKfN98ymj1H) | [Jennifer Coy](https://open.spotify.com/artist/3UxqYtZanTu5eWI9Jjs9Vt) | [Cold Night](https://open.spotify.com/album/6qvtXwev2YzZJg1OtrmOkN) | 3:13 | 2022-12-21 |  |
 | [Cold Shoulders](https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R) | [Arlo Indigo](https://open.spotify.com/artist/55gevsKWJFm3llYjMJu0t5) | [All We Can Do Is Nothing](https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU) | 2:51 | 2022-08-05 | 2022-11-05 |
 | [Cold Water](https://open.spotify.com/track/6wEvUPXuKmJBaviL4M0V8e) | [Arctik7](https://open.spotify.com/artist/18UgMQWIVVLtOHuPP4LX8o), [Sonya McGaffey](https://open.spotify.com/artist/4E7giyaVsni5DhzimIFglU) | [Cold Water](https://open.spotify.com/album/72ZbEjY6208Qv1H5jPaZtL) | 3:01 | 2021-01-04 | 2021-03-01 |
 | [Collide](https://open.spotify.com/track/19BTgOK2yjqUvUabVhDR78) | [MILLE](https://open.spotify.com/artist/06AAtBE3ddOMJPBu1MZQWf) | [Collide](https://open.spotify.com/album/0zxtxSBjkEw1VIjD2O5MDg) | 3:19 | 2021-01-15 | 2021-01-30 |

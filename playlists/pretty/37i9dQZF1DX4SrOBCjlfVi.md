@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring OTF, Young Dolph, Tyga and more\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,351 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,462 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 21 | [Checkers \(feat\. Bandmanrill\)](https://open.spotify.com/track/2UUEnFfWx3y3lPKiwHTknQ) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Checkers \(feat\. Bandmanrill\)](https://open.spotify.com/album/3xszxg2o7K6EPVBpihMo4n) | 2:41 |
 | 22 | [Sliders \[Feat\. Flatbush Zombies, Col3trane\]](https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Sliders \[Feat\. Flatbush Zombies, Col3trane\]](https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0) | 2:24 |
 | 23 | [E\. Coli \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/3GXSywNvYLAVUCtjMHkKDh) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Bread](https://open.spotify.com/album/6HB5Nq7lSjvTs3gJom6BXI) | 2:12 |
-| 24 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
+| 24 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
 | 25 | [1st Day of School](https://open.spotify.com/track/0GQ4pqjCYn5WTENwjb7eCJ) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [1st Day of School](https://open.spotify.com/album/7gXrFNnD9NopmuacVt0r7s) | 2:30 |
 | 26 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 | 27 | [Temper](https://open.spotify.com/track/6fXhozDwpdQEUKhq5Ak0mz) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Temper](https://open.spotify.com/album/3VSRbWNR7FBK54z6gWUY3f) | 1:49 |

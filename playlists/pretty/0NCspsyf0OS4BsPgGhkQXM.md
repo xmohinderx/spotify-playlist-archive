@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0?si=sXcpNkErTdOSPCEsSZPOdw">Montell2099 </a>\. Watch his amazing live mix from Lake Atla, New Zealand <a href="https://youtu.be/FTbwJoYvA3I">HERE </a>
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,552 likes - 25 songs - 1 hr 30 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,581 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,10 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 19 | [SENSATION](https://open.spotify.com/track/5oZBndJWhSpJGWcWdrN3og) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [SENSATION / BRU\-T333](https://open.spotify.com/album/2VUoc7SQ5WbS5rM9KiGnNE) | 6:39 |
 | 20 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 |
 | 21 | [Fallen](https://open.spotify.com/track/541X1Kd0KzOLxspM1T8fiv) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [LOGOS](https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP) | 3:30 |
-| 22 | [Nothing's Perfect](https://open.spotify.com/track/6gfi3T4K9MqNi7yxKnpNaZ) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:06 |
-| 23 | [Journée de merde.](https://open.spotify.com/track/2GzLKB9LnboEfhKxFHuRfC) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN) | [Journée de merde.](https://open.spotify.com/album/6SITryF4euMgRubCc3slzm) | 3:41 |
-| 24 | [It's Our Destiny](https://open.spotify.com/track/3XzeNnRIlvDZ6c4OdSfifY) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:33 |
-| 25 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 |
+| 22 | [Electrifying](https://open.spotify.com/track/0OwVPc1LrKgQnTRgzFysvC) | [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Electrifying](https://open.spotify.com/album/6VDGx56kuc4zzJPB9GMfPz) | 3:19 |
+| 23 | [Nothing's Perfect](https://open.spotify.com/track/6gfi3T4K9MqNi7yxKnpNaZ) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:06 |
+| 24 | [Journée de merde.](https://open.spotify.com/track/2GzLKB9LnboEfhKxFHuRfC) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN) | [Journée de merde.](https://open.spotify.com/album/6SITryF4euMgRubCc3slzm) | 3:41 |
+| 25 | [It's Our Destiny](https://open.spotify.com/track/3XzeNnRIlvDZ6c4OdSfifY) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:33 |
+| 26 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 |
 
-Snapshot ID: `MTI3OTgsYjliZjY5Y2RlYTVmMDhhOGM5NjY3ZjNmZjAzODI5ODIwZWI3MmM3Yw==`
+Snapshot ID: `MTI4MDAsNDhhNGU4NGE3N2Y0M2NjNzhlN2U2MDQ3NWYwZjZhZTI1Zjg5OTg4OA==`

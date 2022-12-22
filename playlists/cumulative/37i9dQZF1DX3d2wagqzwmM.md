@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Maddix
 
-220 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+221 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Hasta La Vista](https://open.spotify.com/track/0PTO7jQosM3VY3Orohun9y) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Hasta La Vista](https://open.spotify.com/album/6LaIGzezV5snMxCCjqEfwo) | 2:36 | 2022-04-14 | 2022-06-24 |
 | [He's A Pirate](https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [He's A Pirate](https://open.spotify.com/album/7wWM2IHx54paNs60XQe1zo) | 3:03 | 2022-10-27 |  |
 | [Heaven \(feat\. Sofia Quinn\) \- Club Mix](https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\) \[Club Mix\]](https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b) | 2:55 | 2022-04-14 |  |
+| [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2022-12-16 |  |
 | [Here For You](https://open.spotify.com/track/6bKPbGoNajOURIcz6scBaO) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Here For You](https://open.spotify.com/album/5hTj9b6fi06IiQCtwpIUOi) | 3:04 | 2022-06-30 | 2022-08-07 |
 | [Hero \- Dubvision Remix](https://open.spotify.com/track/1zz4r1u9x46gVmY5qZthEC) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Hero \(Dubvision Remix\)](https://open.spotify.com/album/35sT9OK0TguT214N9u70rS) | 3:51 | 2022-04-14 | 2022-07-26 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-18 |  |
@@ -168,7 +169,7 @@
 | [Risk It All](https://open.spotify.com/track/16ML9NPj4zpFnYDSWU5qwv) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Risk It All](https://open.spotify.com/album/72DWqm09UUQnBiKuvCU41H) | 3:20 | 2022-04-14 | 2022-07-28 |
 | [Run Away](https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7) | [Run Away](https://open.spotify.com/album/3gZDrYqECHtsaX6DI7QfRF) | 2:36 | 2022-04-14 | 2022-09-16 |
 | [Safe](https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe](https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3) | 3:45 | 2022-04-14 |  |
-| [Sao Paulo](https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [The Lost Shepherds](https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Sao Paulo](https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK) | 3:10 | 2022-04-14 |  |
+| [Sao Paulo](https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [The Lost Shepherds](https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Sao Paulo](https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK) | 3:10 | 2022-04-14 | 2022-12-22 |
 | [Satisfying](https://open.spotify.com/track/7Hgh3H9RFSKOmmRtwzZUng) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Satisfying](https://open.spotify.com/album/027sNTSNJ4NDuFs28UTi7v) | 3:06 | 2022-04-28 | 2022-07-28 |
 | [SELF DESTRUCT](https://open.spotify.com/track/4zhG9ruZL1Kj64X5zLiCcO) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [SELF DESTRUCT](https://open.spotify.com/album/3OavI82lANHClWoPPERADE) | 4:02 | 2022-08-25 | 2022-10-19 |
 | [She Movin'](https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [She Movin'](https://open.spotify.com/album/5bFs3EpDL14QlNqfyKEvVl) | 3:37 | 2022-06-02 | 2022-08-19 |

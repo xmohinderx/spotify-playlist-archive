@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭 / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-583 songs - 1 day 11 hr 14 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+584 songs - 1 day 11 hr 17 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [SoiNeon](https://open.spotify.com/track/6KHhrzEfS1q3sw3FV5hPIr) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/1q6tK0Rryn8mrD97eDFiVm) | 3:36 | 2022-07-28 | 2022-08-08 |
 | [SoiNeon](https://open.spotify.com/track/6utqEzW7oh8bxUnEt3YVpM) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/4uWjlIXZe66HjKVRura9hR) | 3:36 | 2022-07-12 | 2022-07-29 |
 | [SOMEDAY \- Itsuka \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/5reLsl2aIIjUdZgcNIMBWU) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [SOMEDAY \- Itsuka \(feat\. tonun\)](https://open.spotify.com/album/6yndqOxtCbFBpwy5Bz8D6Z) | 5:03 | 2022-03-29 | 2022-04-01 |
-| [Something's Wrong](https://open.spotify.com/track/6AXsqlJW6QxA4rt4zmx5LH) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/66ygCCt3KocnFaSjaEkrau) | 3:28 | 2022-12-20 |  |
+| [Something's Wrong](https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ) | 3:28 | 2022-12-20 |  |
+| [Something's Wrong](https://open.spotify.com/track/6AXsqlJW6QxA4rt4zmx5LH) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/66ygCCt3KocnFaSjaEkrau) | 3:28 | 2022-12-20 | 2022-12-22 |
 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 | 2022-03-31 | 2022-05-11 |
 | [Sparklers](https://open.spotify.com/track/2sPrM5v1J4JoCCvMlfyxxV) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Sparklers](https://open.spotify.com/album/0TLkKfHSdOBXXK4kFKfL3v) | 3:22 | 2022-10-25 |  |
 | [Spirit & Gravity](https://open.spotify.com/track/1g2hPwrbL8y0iFKnUveXnC) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Spirit & Gravity](https://open.spotify.com/album/0YakqLvr1o2wWpHcwZCeQX) | 4:40 | 2022-02-17 | 2022-03-23 |

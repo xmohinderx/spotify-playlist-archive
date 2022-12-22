@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 240506,
+  "num_followers": 240672,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMGJiNjY4ODc0OGZlNDEzMGY3OTA5ZWZkODYxY2M5N2Ri",
+  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMDk1NDJlN2M1NTE0NWU1NGVhYThhZTBkYTg5NGY4ZGQx",
   "tracks": [
     {
       "added_at": "2022-07-24 20:15:35",
@@ -191,22 +191,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -275,22 +271,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Sings the Songs that Made Him Famous",
-        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         },
         {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
-      "duration_ms": 151338,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
+      "duration_ms": 176893,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -311,18 +307,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+        "name": "Sings the Songs that Made Him Famous",
+        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+      "duration_ms": 151338,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
+        "name": "Johnny Horton'S Greatest Hits",
+        "url": "https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI"
+      },
+      "artists": [
+        {
+          "name": "Johnny Horton",
+          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "The Battle Of New Orleans",
+      "url": "https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
         "name": "Honky Tonkin (Expanded Undubbed Edition)",
         "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 174866,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
-        "name": "Johnny Horton'S Greatest Hits",
-        "url": "https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI"
-      },
-      "artists": [
-        {
-          "name": "Johnny Horton",
-          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "The Battle Of New Orleans",
-      "url": "https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "With His Hot and Blue Guitar",
-        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
-        }
-      ],
-      "duration_ms": 146970,
-      "name": "Cry! Cry! Cry!",
-      "url": "https://open.spotify.com/track/0i0kLLNXBnX31p1vWb69jr"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "Presenting Elton Britt",
         "url": "https://open.spotify.com/album/016arGrAjGeta09FWpXwsl"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 168466,
       "name": "The Auctioneer",
       "url": "https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "With His Hot and Blue Guitar",
+        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "duration_ms": 146970,
+      "name": "Cry! Cry! Cry!",
+      "url": "https://open.spotify.com/track/0i0kLLNXBnX31p1vWb69jr"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Johnny Cash at Sun",
-        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 133120,
-      "name": "Get Rhythm",
-      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "Dance To The Bop",
         "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 156306,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -647,22 +647,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+        "name": "Johnny Cash at Sun",
+        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 133306,
-      "name": "Honky Tonk Blues",
-      "url": "https://open.spotify.com/track/3BzfkAB5qE3BNiVsdA35nu"
+      "duration_ms": 133120,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -699,18 +695,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+      "duration_ms": 133306,
+      "name": "Honky Tonk Blues",
+      "url": "https://open.spotify.com/track/3BzfkAB5qE3BNiVsdA35nu"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -731,22 +731,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 165800,
-      "name": "Cold, Cold Heart",
-      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
+      "duration_ms": 182666,
+      "name": "Don't Take Your Guns to Town",
+      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -763,22 +759,6 @@
       "duration_ms": 153600,
       "name": "In Care Of The Blues",
       "url": "https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Don't Take Your Guns to Town",
-      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -831,6 +811,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 127746,
+      "name": "I Love You Because",
+      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
         "name": "Wanda Jackson",
         "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
       },
@@ -847,18 +843,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
-      "duration_ms": 127746,
-      "name": "I Love You Because",
-      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
+      "duration_ms": 165800,
+      "name": "Cold, Cold Heart",
+      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
-      },
-      "artists": [
-        {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
-        }
-      ],
-      "duration_ms": 151419,
-      "name": "Send Me the Pillow You Dream On",
-      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 164240,
       "name": "Under Your Spell Again",
       "url": "https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
     },
     {
       "added_at": "2022-07-24 20:15:35",

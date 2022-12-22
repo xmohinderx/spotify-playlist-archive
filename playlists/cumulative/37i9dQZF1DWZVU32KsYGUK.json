@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 149990,
       "name": "A\u0301tica",
       "url": "https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 172624,
       "name": "Colori autunnali",
       "url": "https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 169250,
       "name": "Deepest woods",
       "url": "https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7"
@@ -2194,6 +2194,24 @@
     },
     {
       "album": {
+        "name": "Largo \"Poetique\"",
+        "url": "https://open.spotify.com/album/7AIbY9qDsBHufKxI02EI1V"
+      },
+      "artists": [
+        {
+          "name": "Antoine Minot",
+          "url": "https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Largo \"Poetique\"",
+      "url": "https://open.spotify.com/track/4sT4K3PhPyn44UuaMgMdHR"
+    },
+    {
+      "album": {
         "name": "Larissa",
         "url": "https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4"
       },
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 144025,
       "name": "Late Winter",
       "url": "https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg"
@@ -2650,6 +2668,24 @@
     },
     {
       "album": {
+        "name": "Lustrous",
+        "url": "https://open.spotify.com/album/6GFCvtUpUur8ElUkE0JB6D"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcel M\u00edper",
+          "url": "https://open.spotify.com/artist/4dxleDjIAmvA5uXPAOV48i"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150357,
+      "name": "Lustrous",
+      "url": "https://open.spotify.com/track/0GWf8loSDDgwXRM3jHVeHn"
+    },
+    {
+      "album": {
         "name": "Maiestas",
         "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
       },
@@ -2877,7 +2913,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 119523,
       "name": "Moving Slowly",
       "url": "https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3"
@@ -3083,6 +3119,24 @@
       "duration_ms": 138625,
       "name": "Num\u00e9ro 7",
       "url": "https://open.spotify.com/track/17wwSS2zbCQR9oHAlA0pIS"
+    },
+    {
+      "album": {
+        "name": "Oblique",
+        "url": "https://open.spotify.com/album/4d5OuQinGbC9f57ORQNpOh"
+      },
+      "artists": [
+        {
+          "name": "Hazel Dumoulin",
+          "url": "https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146046,
+      "name": "Oblique",
+      "url": "https://open.spotify.com/track/1RqdwvVWVxolAzLFzVsQLc"
     },
     {
       "album": {
@@ -4977,7 +5031,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
@@ -5074,6 +5128,24 @@
     },
     {
       "album": {
+        "name": "Whirlwinds",
+        "url": "https://open.spotify.com/album/64MJJa6onYAvqhhi5pE8iw"
+      },
+      "artists": [
+        {
+          "name": "Dustin Koller",
+          "url": "https://open.spotify.com/artist/62yrCbWafSx5Wsh2nwEjSa"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163780,
+      "name": "Whirlwinds",
+      "url": "https://open.spotify.com/track/4itNJec1ddbOrS1fBSGEzU"
+    },
+    {
+      "album": {
         "name": "Who I Was",
         "url": "https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo"
       },
@@ -5151,6 +5223,24 @@
       "duration_ms": 180407,
       "name": "Winter Blossoms",
       "url": "https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P"
+    },
+    {
+      "album": {
+        "name": "Wolken Traum",
+        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165379,
+      "name": "Wolken Traum",
+      "url": "https://open.spotify.com/track/420yXNkrV1qcTT3M5vGgLi"
     },
     {
       "album": {

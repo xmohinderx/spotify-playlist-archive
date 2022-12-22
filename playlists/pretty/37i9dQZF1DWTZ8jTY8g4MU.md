@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,531 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,581 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 33 | [فرصة سعيدة](https://open.spotify.com/track/7BVm5vLbEhLPWJJ58UGMRk) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فرصة سعيدة](https://open.spotify.com/album/3UBchXbtssuqRgB3Ur6ZZw) | 4:24 |
 | 34 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 |
 | 35 | [لو ناوي تهجرني](https://open.spotify.com/track/3mmmTQYSWVkPKW6vDOnczU) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لو ناوي تهجرني](https://open.spotify.com/album/6Gg45Odg9uvMO0ZK9VBaAY) | 3:07 |
-| 36 | [حياة وروح](https://open.spotify.com/track/35k78NeGmBsfvnVRBri4H9) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [حياة وروح](https://open.spotify.com/album/0PwVtQ4mTqkXQj00Bz1S6w) | 3:15 |
+| 36 | [حياة وروح](https://open.spotify.com/track/4zEEvdJ6LEm2qMxeLg1kMI) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [حياة وروح](https://open.spotify.com/album/0TJIwfyGTMec9Bs9pcs2f1) | 3:15 |
 | 37 | [زينك دمار](https://open.spotify.com/track/5G9l3hXgO5ajf2LW2FUmLK) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [زينك دمار](https://open.spotify.com/album/7rp8YBgnlomjYRbdRW77Wg) | 4:34 |
 | 38 | [ناس غداره](https://open.spotify.com/track/25g7LLrHMwaFFl9kfOJtwi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/26f39nh2u5lNJEuiSF96fx) | 4:08 |
 | 39 | [الوصل مقطوع](https://open.spotify.com/track/2fPCXvO40Yl12NPsE6xsVC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/1ymFv5EHkfSK52jso4HnxB) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [Elly Tabeh](https://open.spotify.com/track/5ufm6qAEgQW5rHFHsCipnt) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Elly Tabeh](https://open.spotify.com/album/0VBlLnPK8yiqZi9LPMvoIF) | 2:37 |
 | 50 | [Koul Shya Weleh Nehayah](https://open.spotify.com/track/3V5UpDdPUZdGKSgaaDFKpr) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koul Shya Weleh Nehayah](https://open.spotify.com/album/6YpmIaqZ9iD4gVVenm6oAE) | 3:49 |
 
-Snapshot ID: `MTY3MDk3MTU3NiwwMDAwMDAwMDJjMjgyYTU1MjZlZjE0ZDE0YjU3ZmRlZGIzZmYzZjhm`
+Snapshot ID: `MTY3MDk3MTU3NiwwMDAwMDAwMDM1YTRmZmIzYTU0YmIzYTRlY2NjYmEwMDYyMzNkZDRi`

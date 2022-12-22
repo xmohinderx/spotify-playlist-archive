@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,943,978 likes - 277 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,192 likes - 277 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 48 | [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 |
 | 49 | [Guarisci il mio Cuore](https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Savoca](https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0) | 3:09 |
 | 50 | [Lovelight](https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N) | [Geoff Henzel](https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5) | [Lovelight](https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB) | 1:53 |
-| 51 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/7zhLkll5sC1tJRTDGCau2P) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 |
+| 51 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 |
 | 52 | [Gambrels of the Sky](https://open.spotify.com/track/6AYKnVV6OEgnOreURn48Kt) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Gambrels of the Sky](https://open.spotify.com/album/4UwgahnCyZDBe2L0jJLGGR) | 2:09 |
 | 53 | [Tree and Traveller](https://open.spotify.com/track/3BpomYyWO3vmpre6yAqi9a) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Tree and Traveller](https://open.spotify.com/album/12WlSNJDYyL51vwPRHYZMw) | 2:43 |
 | 54 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 |

@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 512772,
+  "num_followers": 513101,
   "original_name": "ROCK 'N' RUN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA2NDA5NCwwMDAwMDAwMDAwY2EyZGQzMjU4MDg1NmVmZjFhZjkzNDU4NDU5ZTIx",
+  "snapshot_id": "MTY2OTA2NDA5NCwwMDAwMDAwMDJkODdjMTBiZTQ5NWQ3MGZmMGNkZmQ1ZjdmMjdkOGVm",
   "tracks": [
     {
       "added_at": "2022-11-21 20:54:53",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-21 20:54:53",
       "album": {
-        "name": "311",
-        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN"
-    },
-    {
-      "added_at": "2022-11-21 20:54:53",
-      "album": {
         "name": "Lazaretto",
         "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 219400,
       "name": "Lazaretto",
       "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
+    },
+    {
+      "added_at": "2022-11-21 20:54:53",
+      "album": {
+        "name": "311",
+        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN"
     },
     {
       "added_at": "2022-11-21 20:54:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-21 20:54:53",
       "album": {
-        "name": "Figure Eight",
-        "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
-      },
-      "artists": [
-        {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
-        }
-      ],
-      "duration_ms": 201556,
-      "name": "Figure Eight",
-      "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
-    },
-    {
-      "added_at": "2022-11-21 20:54:53",
-      "album": {
         "name": "Singles - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 227200,
       "name": "State of Love and Trust",
       "url": "https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF"
+    },
+    {
+      "added_at": "2022-11-21 20:54:53",
+      "album": {
+        "name": "Figure Eight",
+        "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "duration_ms": 201556,
+      "name": "Figure Eight",
+      "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
     }
   ],
   "unique_name": "ROCK 'N' RUN",

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-165 songs - 9 hr 54 min - not published yet
+166 songs - 9 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-20 | 2022-11-30 |
 | [RECIPE](https://open.spotify.com/track/6zRjzLaCarPcnPUb4Zrh0W) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 3:32 | 2022-10-20 | 2022-11-16 |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 |  |
-| [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 |  |
+| [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 | 2022-12-22 |
+| [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 |  |
 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 | 2022-10-20 | 2022-11-30 |
 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-10-20 | 2022-12-09 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2022-10-20 |  |

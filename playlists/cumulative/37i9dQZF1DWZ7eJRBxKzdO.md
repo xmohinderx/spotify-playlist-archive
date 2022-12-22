@@ -4,12 +4,12 @@
 
 > The summer needs dance hits 😎☀️
 
-216 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/6ta8u2iDoFcxRb8dkiF2nY)
+217 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6ta8u2iDoFcxRb8dkiF2nY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-19 |  |
-| [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc) | 3:06 | 2022-05-02 |  |
+| [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc) | 3:06 | 2022-05-02 | 2022-12-22 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-18 |  |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-06-28 |  |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-07 |  |
@@ -121,6 +121,7 @@
 | [Love You Again \(feat\. Akua\)](https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Love You Again \(feat\. Akua\)](https://open.spotify.com/album/5F3slII7s40r8LCAplnBm8) | 2:56 | 2022-05-26 | 2022-06-23 |
 | [Lovefool](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Lovefool](https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT) | 3:10 | 2022-05-26 |  |
 | [Madan \(King\)](https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU) | 3:03 | 2022-06-16 | 2022-11-16 |
+| [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 | 2022-11-20 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2022-05-02 |  |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-28 |  |
 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2022-05-02 |  |

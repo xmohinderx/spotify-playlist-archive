@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-429 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+430 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Fly](https://open.spotify.com/track/3er5KNqecEwHMz5PPLIT6r) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Fly](https://open.spotify.com/album/4W5dc5jMDJGO5SbaZ8oXew) | 2:34 | 2020-06-29 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs) | 2:38 | 2022-07-28 |  |
+| [Fogào Love](https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Couch Business](https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x) | 1:44 | 2022-12-01 |  |
 | [Fogào Love](https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Fogào Love](https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi) | 1:44 | 2021-10-30 | 2022-11-27 |
 | [Fondue](https://open.spotify.com/track/7EExHTWWXsZxhugGaGGh1O) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [Untitled VIII](https://open.spotify.com/album/3IFbzO8kMa6Lmx3R8HGjFN) | 1:08 | 2019-05-26\* | 2020-03-27 |
 | [fortune cookie](https://open.spotify.com/track/5yVj39dpZ4jThGXf2mEhYI) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [fortune cookie](https://open.spotify.com/album/4zTohprqCBPHuw04qvVNEs) | 1:47 | 2019-06-14 | 2021-10-12 |
@@ -199,7 +200,7 @@
 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 | 2022-07-28 |  |
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
 | [Lanai Gardens](https://open.spotify.com/track/1El1ynnuq0aBHj6cfr83ew) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/6OwYJoEWZUhTuYsTBr9SD6) | 2:17 | 2019-06-14 | 2019-08-13 |
-| [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 | 2020-12-11 |  |
+| [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 | 2020-12-11 | 2022-12-22 |
 | [Laverne](https://open.spotify.com/track/0pYdhNukjrkpBWdq75GXSm) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Birds of a Feather, Vol\. 1](https://open.spotify.com/album/65kDeUOJ7UAXQJtdmXYtT5) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Legacy](https://open.spotify.com/track/2Ba2yo38eh6atKPDdaYZRM) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Legacy](https://open.spotify.com/album/7D0dE3E7LTaPe6WcZheWQI) | 2:01 | 2019-07-26 | 2022-04-20 |
 | [Legend \- Instrumental](https://open.spotify.com/track/4D6ODloEcphnoSF33TF9L3) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/4ChW17PKiVa3twCaWcimzA) | 3:38 | 2022-01-27 | 2022-07-29 |

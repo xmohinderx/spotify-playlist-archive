@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,036 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,003 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 7 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
 | 8 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 9 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
-| 10 | [Blue Velvet \- from CrosSing](https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- from CrosSing](https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh) | 3:54 |
+| 10 | [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 |
 | 11 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 |
 | 12 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 |
 | 13 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 |
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 18 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 |
 | 19 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 |
 | 20 | [ロマンティックマニフェスト](https://open.spotify.com/track/5zTs0vqU5ecrsvbYdRVdBB) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [ロマンティックマニフェスト](https://open.spotify.com/album/4RsEb8TXkdM9a1nqNzv0rw) | 4:06 |
-| 21 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [小倉 唯](https://open.spotify.com/artist/5GIpZl6Karw3VRdXQySpTR) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 |
-| 22 | [Make me the Hunter](https://open.spotify.com/track/3GweSrKqnIlSAzCYfdBacy) | [ロナルド\(CV:古川 慎\)](https://open.spotify.com/artist/2SGOVWUHjIn41tWMLyt5Ii) | [TVアニメ「吸血鬼すぐ死ぬ」キャラクターソング入りサウンドトラック①](https://open.spotify.com/album/68BSLycqqisHV3ZV0RjlhD) | 3:29 |
+| 21 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 |
+| 22 | [Make Me the Hunter](https://open.spotify.com/track/7d8XeC5mFXJrFyr6aRu9Zn) | [Ronald\(CV:Makoto Furukawa\)](https://open.spotify.com/artist/7AX80W3bAQAs8YTgo5zQWe) | [TV Anime "The Vampire Dies in No Time" Soundtrack with Character Songs 1](https://open.spotify.com/album/4aBw07Wr3aPxPXXBrZRLRF) | 3:29 |
 | 23 | [なにが悪い](https://open.spotify.com/track/5r8hIaf0VCNptCt8SRtxD9) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [なにが悪い](https://open.spotify.com/album/7u1WUpovfbZSSDM8edRqmb) | 3:47 |
 | 24 | [チキチキバンバン \- クリスマス・シャンシャン](https://open.spotify.com/track/1WKgUGH7nM83632LTQQwX5) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン \(クリスマス・シャンシャン\)](https://open.spotify.com/album/2UrfbDZ60t9Omo74Z9QQGS) | 3:58 |
-| 25 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 |
+| 25 | [Make Me Feel Better](https://open.spotify.com/track/5FcFqS22vBPbAA3ZwU4bKk) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [My Journey](https://open.spotify.com/album/78xcCfTKnMuCjukZaOayf0) | 4:29 |
 | 26 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/5DAtC0mgP1HUpL9th0e2U9) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/1TX5uM4HEOIZEzoAOnUagC) | 4:30 |
 | 27 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 28 | [蒼穹のファンファーレ](https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [蒼穹のファンファーレ](https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ) | 5:18 |
-| 29 | [ジャーニーズ・トランク](https://open.spotify.com/track/1sk0w6ug8F6RXKA7iCZJcY) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6QC9ZNC4o9hzMsGBVs2NAQ) | 4:21 |
+| 29 | [ジャーニーズ・トランク](https://open.spotify.com/track/5KyeSqbimlZlsy7ofZXw2T) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6OGSorkbD4Rgm6Haa0rbDe) | 4:20 |
 | 30 | [BE ME](https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [BE ME](https://open.spotify.com/album/0nJ24ELPglbislYG5leab8) | 3:31 |
 | 31 | [再会](https://open.spotify.com/track/10ACXnQKEBvb8Tgzl3DmZd) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [再会](https://open.spotify.com/album/1bJD2yH4SsmowfbYhfo9tL) | 4:12 |
 | 32 | [mirrors](https://open.spotify.com/track/5GQcnKp2nftw5o96wNa34X) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [陰/陽](https://open.spotify.com/album/3jjCpP3z1nfa8wpUd3O6j3) | 4:31 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 44 | [タイムカプセル](https://open.spotify.com/track/7AjXfY9JTWOHWbctrsOCrM) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [タイムカプセル](https://open.spotify.com/album/48PHUW6UeNNN3Z90vDxFBj) | 4:16 |
 | 45 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 |
 | 46 | [ギリギリRide it out](https://open.spotify.com/track/7Ac881VKUrTcPWDpLG6Yiv) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Choo Choo TRAIN](https://open.spotify.com/album/2qB0JLYy2Ufq65f0NkjfPG) | 3:51 |
-| 47 | [脊髄ぶっこ抜き音頭\(女性Ver.\)](https://open.spotify.com/track/72eMKuoXuFdF0MrAQARVjy) | [ポプ子\(CV:石見舞菜香\)](https://open.spotify.com/artist/23asa50gen4Pqsiq6wfCHr), [ピピ美\(CV:長谷川育美\)](https://open.spotify.com/artist/0UfcIsa4gYHICPdbhgRQ2a) | [ポプテピピック ALLTIME BEST 3](https://open.spotify.com/album/1ovsSfBYS6hTimYnSZTMpN) | 1:28 |
+| 47 | [Sekizui Bukkonuki Ondo \- Female Version](https://open.spotify.com/track/7CZVKU5NXIyHQM35hESb4y) | [POP TEAM EPIC](https://open.spotify.com/artist/3bzArx4UMahwPSU7iBhNBh), [ポプ子\(CV:石見舞菜香\)](https://open.spotify.com/artist/23asa50gen4Pqsiq6wfCHr), [ピピ美\(CV:長谷川育美\)](https://open.spotify.com/artist/0UfcIsa4gYHICPdbhgRQ2a) | [POP TEAM EPIC: ALL TIME BEST 3](https://open.spotify.com/album/0gim3klWGkNZ7mORFfteUO) | 1:28 |
 | 48 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 |
 | 49 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 |
 | 50 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 79 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 |
 | 80 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 |
 
-Snapshot ID: `MTY3MTU1MzcwNywwMDAwMDAwMDY3Y2VhNjkzMzQzYzk5N2FiYmRhYzIzM2YxYzdlY2Iz`
+Snapshot ID: `MTY3MTU1MzcwNywwMDAwMDAwMGMyYWE3ZjRjOGNiNzc4NjNkNjk2MzRiNGE5YWU2OTlh`

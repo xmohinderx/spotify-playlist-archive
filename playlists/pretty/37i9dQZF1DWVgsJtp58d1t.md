@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from FLO, SZA, Mike Dimes, Metro Boomin, PinkPantheress, UMI, and OG Ron C
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,258 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,408 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 20 | [Shut The Door](https://open.spotify.com/track/4r6eiYt8C6HmBh584gNKRW) | [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [Shut The Door](https://open.spotify.com/album/47zFR7hPucglskk6vWsCkh) | 2:43 |
 | 21 | [Ultimate Self](https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Ultimate Self](https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd) | 3:45 |
 | 22 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 |
-| 23 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/1P5YwT9JBMmRTrwTtUCIpk) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
+| 23 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
 | 24 | [You Never Visit Me](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
 | 25 | [Kick Doe Click \(ChopNotSlop Remix\)](https://open.spotify.com/track/2UyRADQ8m5pZBNGP0BLpoA) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Nonsense and Mexican Shit \(ChopNotSlop Remix\)](https://open.spotify.com/album/6BToPpZxD4rTGAERc67hzW) | 4:09 |
 | 26 | [Lucky \(ft\. Mando Hill\)](https://open.spotify.com/track/2lQCdMZiGHYqBBxhpYzck8) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Mando Hill](https://open.spotify.com/artist/3rdbqu1VIlXUShnHvjcxFS) | [Lucky \(ft\. Mando Hill\)](https://open.spotify.com/album/51hQIfNEWD3nS4lSZgD2SM) | 3:44 |

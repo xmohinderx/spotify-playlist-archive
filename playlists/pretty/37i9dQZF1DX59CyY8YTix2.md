@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: クレナズム\(Culenasm\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,116 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,145 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 45 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 |
 | 46 | [マヨイガ](https://open.spotify.com/track/0aAYM2ApVTzuNOgI0sZPmE) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [マヨイガ](https://open.spotify.com/album/2YZGywS2yeDOMmyhIU6wQM) | 5:19 |
 | 47 | [不幸アレ](https://open.spotify.com/track/0dm0mktu535ZorIOqy1v61) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [不幸アレ](https://open.spotify.com/album/0gBxUBo9uOVqrQJfCiH94g) | 4:02 |
-| 48 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 |
-| 49 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
+| 48 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
+| 49 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 |
 | 50 | [アクアリウム](https://open.spotify.com/track/0tU3Q2nmXeRthdgMSa8W0U) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [アクアリウム](https://open.spotify.com/album/7yMYTapNfaKx4qmbR7QteL) | 3:41 |
 
-Snapshot ID: `MTY3MTU0ODQwMCwwMDAwMDAwMDNhNDkzZDUzYzRkYTcyNDMxN2I4ODE1YTA3OTgxYjQy`
+Snapshot ID: `MTY3MTU0ODQwMCwwMDAwMDAwMDQ1ZWVhOTM5ZjBmZWM2YmQ5YTlkMzg5NWI3ZjAyMjUw`

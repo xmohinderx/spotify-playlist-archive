@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,410 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,448 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 65 | [Mar Y Cielo](https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 3:05 |
 | 66 | [Kumbayeo](https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo](https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q) | 3:34 |
 | 67 | [Virgencita \- Happy Colors Remix](https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Calentura: Global Bassment](https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu) | 3:16 |
-| 68 | [Cun Cun Prá](https://open.spotify.com/track/5cYUjVF8imi3J9Q6mu8ZoG) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Cun Cun Prá](https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v) | 3:25 |
-| 69 | [En Medio Del Jardín](https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [En Medio Del Jardín](https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY) | 3:41 |
+| 68 | [En Medio Del Jardín](https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [En Medio Del Jardín](https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY) | 3:41 |
+| 69 | [Cun Cun Prá](https://open.spotify.com/track/5cYUjVF8imi3J9Q6mu8ZoG) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Cun Cun Prá](https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v) | 3:25 |
 | 70 | [Mariposas Blancas](https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Mariposas](https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q) | 4:21 |
 | 71 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 |
 | 72 | [Arturo Sandoval](https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Arturo Sandoval](https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk) | 3:31 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 82 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
 | 83 | [Una Piedra en el Cielo](https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Parrilladas Vargas](https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR) | 2:11 |
 | 84 | [Una Música Brutal](https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 4:11 |
-| 85 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
-| 86 | [La Cumbia Del Infinito](https://open.spotify.com/track/4bMqrcFJszZ8HzT9rb0Tfz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:25 |
+| 85 | [La Cumbia Del Infinito](https://open.spotify.com/track/4bMqrcFJszZ8HzT9rb0Tfz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:25 |
+| 86 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
 | 87 | [Por Si las Dudas](https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [Lof](https://open.spotify.com/artist/4TrbIX2ppmaAvqO5IYcSH0) | [A MAR](https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne) | 3:49 |
 | 88 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
 | 89 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 |
 | 90 | [Lavabo Mi Amor](https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf) | [French Fuse](https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi) | [Lavabo Mi Amor](https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT) | 3:03 |
-| 91 | [Jogando Capoiera](https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Jogando Capoiera / Cookin'](https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi) | 6:50 |
-| 92 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 91 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 92 | [Jogando Capoiera](https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Jogando Capoiera / Cookin'](https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi) | 6:50 |
 | 93 | [Maria Cristina](https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [Companeros De Mi Vida](https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC) | 4:22 |
 | 94 | [El Extranjero](https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd) | 5:42 |
 | 95 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 |
 | 100 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 |
 
-Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMGIxNGE5ZDAwMzI0ZGVmODlmYTExNjAxMDIwZDBiZWU2`
+Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMDk3Nzc3NzBiODcxZjg5ZTAxYTg0OTg3MWExYjlkMDE4`

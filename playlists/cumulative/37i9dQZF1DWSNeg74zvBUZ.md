@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-128 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
+129 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,10 @@
 | [8pm Crickets](https://open.spotify.com/track/5XM3Wo4pLH9jrwUu9l4bPw) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [11pm Sudden Thunderstorm](https://open.spotify.com/album/53sR9a0cJYLkTbhRRDS9nY) | 6:22 | 2021-09-10 | 2022-07-29 |
 | [A New Day](https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [A New Day](https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M) | 2:58 | 2021-09-10 | 2022-10-18 |
 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 | 2021-09-10 |  |
-| [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 | 2022-09-30 |  |
-| [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2022-02-18 | 2022-10-01 |
+| [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 | 2022-09-30 | 2022-12-22 |
+| [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2022-02-18 |  |
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2021-09-10 |  |
+| [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2022-12-21 |  |
 | [Altar of Tammy](https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Altar of Tammy](https://open.spotify.com/album/0X4MaivNbTViISJ5anYIbc) | 7:58 | 2022-03-30 | 2022-07-28 |
 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 | 2021-09-10 |  |
 | [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-09-10 | 2022-07-29 |
@@ -110,7 +111,7 @@
 | [Ralome](https://open.spotify.com/track/1XLeX0E7yeFHrSkTgVNtMm) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Rest Proof Clockwork](https://open.spotify.com/album/4IkvCDzidC5XbElsN1SUsg) | 4:29 | 2022-04-23 |  |
 | [Rebecca's Theme \(Water\)](https://open.spotify.com/track/4wyUGZL264pvOCwDVo1PZN) | [A.R.T\. Wilson](https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp) | [Overworld](https://open.spotify.com/album/2Q1Jkchg0wDV5euoADUiXw) | 4:36 | 2021-09-10 | 2022-07-29 |
 | [Rebecca's Theme \(Water\)](https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR) | [A.R.T\. Wilson](https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp) | [Overworld](https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH) | 4:36 | 2021-09-10 |  |
-| [Regrowth](https://open.spotify.com/track/45WJgUlG8u1WjKqKN7QTez) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:03 | 2022-09-14 |  |
+| [Regrowth](https://open.spotify.com/track/45WJgUlG8u1WjKqKN7QTez) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:03 | 2022-09-14 | 2022-12-22 |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2021-09-10 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Sometimes He's In My Dreams](https://open.spotify.com/album/4pZGZPG7oUqZm2vjHZsnhl) | 3:46 | 2021-09-10 | 2022-07-29 |
 | [Sonnengeflecht](https://open.spotify.com/track/34Tsmlc1lm6hcFXtQXVdCo) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wenn der Südwind weht](https://open.spotify.com/album/00bAjAIqUpoyE1TpJPjz14) | 3:29 | 2021-09-10 | 2022-07-23 |

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Turnstile",
-  "num_followers": 442097,
+  "num_followers": 442157,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk2MjIxNywwMDAwMDAwMGIyNjcwM2MzN2IxOGNkNGU0NjdmZmVhZmQ3OWY5NzFm",
+  "snapshot_id": "MTY3MDk2MjIxNywwMDAwMDAwMGYxOThjMWZkNTczNTE5ZGFmODhiYTA0NjA1NDg4OGQw",
   "tracks": [
     {
       "added_at": "2022-12-13 20:10:17",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
       },
       "artists": [
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
         }
       ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -387,22 +403,6 @@
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Divided",
-        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Nocturnal Future",
-        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 272725,
-      "name": "Nocturnal Future",
-      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Nocturnal Future",
+        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 272725,
+      "name": "Nocturnal Future",
+      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -539,38 +539,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Do You Feel O.K?",
-        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Holding Me Down",
-      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "MONOMANIA",
-        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 215053,
-      "name": "NO WAY OUT",
-      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -587,18 +555,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+        "name": "Do You Feel O.K?",
+        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
         }
       ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
+      "duration_ms": 209720,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -615,6 +583,22 @@
       "duration_ms": 225117,
       "name": "Instability",
       "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -647,6 +631,22 @@
       "duration_ms": 225493,
       "name": "Let This Haunt You",
       "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "MONOMANIA",
+        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 215053,
+      "name": "NO WAY OUT",
+      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 190783,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 192504,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190783,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "The Truth in Your Eyes",
-        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 227622,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "The Lost Boys",
         "url": "https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 211125,
       "name": "New England Palm Trees",
       "url": "https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "The Truth in Your Eyes",
+        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 227622,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1103,6 +1103,22 @@
       "duration_ms": 212000,
       "name": "Empty Thoughts",
       "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Euthanasia",
+        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1151,22 +1167,6 @@
       "duration_ms": 217146,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Euthanasia",
-        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 228299,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
-      },
-      "artists": [
-        {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
-        }
-      ],
-      "duration_ms": 219900,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 158444,
       "name": "Drive Me Home",
       "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
+      },
+      "artists": [
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+        }
+      ],
+      "duration_ms": 219900,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Brick Wall",
-        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Brick Wall",
-      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+      "duration_ms": 190750,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Brick Wall",
+        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Brick Wall",
+      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Crown Shyness",
         "url": "https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 205133,
       "name": "Shade",
       "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK"
     },
     {
       "added_at": "2022-12-13 20:10:17",

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 34018,
+  "num_followers": 34017,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDAyODIzNmRiY2Y4OWNlNGM3NTUzMjM4YTJiN2Q3NGQ1",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDdkMGVmOTJhZWRjNDZiOGI0NjQyMzM4NmI4MjFlZWYz",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "From the Hills Below the City",
-        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "On the Road",
-      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "God's Favorite Customer",
         "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 183532,
       "name": "Mr. Tillman",
       "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "From the Hills Below the City",
+        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "On the Road",
+      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Tripper",
+        "url": "https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "You're Too Weird",
+      "url": "https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 229760,
       "name": "Younger Years",
       "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "The Black Dirt Sessions",
-        "url": "https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Twenty Miles",
-      "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
     }
   ],
   "unique_name": "Wide Awake",

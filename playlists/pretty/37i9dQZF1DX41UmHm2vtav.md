@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,363 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,487 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 65 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
 | 66 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
 | 67 | [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 |
-| 68 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
-| 69 | [País do Futebol \(No Flow\)](https://open.spotify.com/track/115EFwguc4backKEA1WVWT) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [País do Futebol \(No Flow\)](https://open.spotify.com/album/0OemWawwWXiabUo6rWUQbF) | 2:53 |
+| 68 | [País do Futebol \(No Flow\)](https://open.spotify.com/track/115EFwguc4backKEA1WVWT) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [País do Futebol \(No Flow\)](https://open.spotify.com/album/0OemWawwWXiabUo6rWUQbF) | 2:53 |
+| 69 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 70 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
 
-Snapshot ID: `MTY3MTIxNDcyNiwwMDAwMDAwMDAwYzM0MTZmNzRlZmVhMGViMDMyYzJjMTYwZDU4Mzhm`
+Snapshot ID: `MTY3MTIxNDcyNiwwMDAwMDAwMGIwM2ExMGUzZmE3YTRlYjhhOWMxMGM2YzRiNzllMDNm`

@@ -4,7 +4,7 @@
 
 > Happy vibes for an upbeat morning.
 
-183 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
+191 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Allegrini](https://open.spotify.com/track/7GYHZi5vPB3ihAInagsKu2) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegrini](https://open.spotify.com/album/0AV7kYSGd7yiNupGpSZ8UF) | 1:58 | 2022-09-13 |  |
 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-12-14 |  |
 | [Ambro](https://open.spotify.com/track/5kU2kYLFu3uNDBlmjvvNxg) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ambro](https://open.spotify.com/album/3B6FfU08qymnkrY7paVtUX) | 2:45 | 2021-12-14 | 2022-04-29 |
+| [Anyone](https://open.spotify.com/track/7uhLvrY31QKUS3JTEEuNyu) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Anyone](https://open.spotify.com/album/5xHrLZlqWVl4EWIVTpCuiu) | 3:35 | 2022-12-21 |  |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-14 |  |
 | [Apricity](https://open.spotify.com/track/0gqETOpvyX2eAbcbfjjqGz) | [Ivalu Karlsen](https://open.spotify.com/artist/4RHvOz3KD1p3LmEEnpVN8a) | [Apricity](https://open.spotify.com/album/4EV4xaMY99ldNfGanMgaoe) | 2:12 | 2021-12-14 |  |
 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 | 2021-12-14 |  |
@@ -47,7 +48,9 @@
 | [Du bist mîn, ich bin dîn](https://open.spotify.com/track/1J9Q9SKonrTjEfiktcBoJS) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Du bist mîn, ich bin dîn](https://open.spotify.com/album/3mUnkrH1LEQVNX93ES7zul) | 2:11 | 2022-05-20 |  |
 | [durabilité](https://open.spotify.com/track/7Bqz55Uc7PouyqsmTS0q7R) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Aveline Bisset](https://open.spotify.com/album/6Gls7jY8E6316yqBIwTcS4) | 2:39 | 2021-12-14 | 2022-04-29 |
 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 | 2021-12-14 |  |
+| [Entre les Lignes](https://open.spotify.com/track/0v8Qxq3gLumQvLyJE2AhXR) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Entre les Lignes](https://open.spotify.com/album/51WQ52JifiEhQ8QPjqQHJz) | 2:03 | 2022-12-21 |  |
 | [Equus](https://open.spotify.com/track/7BbUNLqsUWQAM0QUNoFZWs) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aldebaran](https://open.spotify.com/album/4O4wtNtbrhX90609vI1IzN) | 2:14 | 2021-12-14 |  |
+| [Falke](https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sonnenkind](https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj) | 2:28 | 2022-12-21 |  |
 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-03-03 |  |
 | [Felicity](https://open.spotify.com/track/42ozgVjsCxPmH6vSFTXAHW) | [Hugo Reilly](https://open.spotify.com/artist/5uVINFbw5tZH9G7fFQBEZd) | [Felicity](https://open.spotify.com/album/2lTOtqyZKZaX5kiw9JKqC4) | 2:02 | 2021-12-14 |  |
 | [Fleeting Glance](https://open.spotify.com/track/6mGpPGoeT3WnR6od1vAw0H) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Fleeting Glance](https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5) | 2:39 | 2021-12-14 |  |
@@ -89,10 +92,12 @@
 | [Learning](https://open.spotify.com/track/7ndJq3FTs0QIzag0nYw7BX) | [Gareth Riley](https://open.spotify.com/artist/4MV0ijpQhdnte0lJh2tilX) | [Learning](https://open.spotify.com/album/04uA73Nx9vnxlpZJfktKNp) | 2:02 | 2021-12-14 | 2022-04-29 |
 | [Lemons In London](https://open.spotify.com/track/4NEIlZgVYb3lwN81SgxcJV) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Lemons In London](https://open.spotify.com/album/3ssXGJlbEKzfnqNoHFOJ5S) | 1:52 | 2021-12-14 |  |
 | [Lilt](https://open.spotify.com/track/2nyu65wNXcu377f7UVDnYa) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Lilt](https://open.spotify.com/album/7hueCmRflhqn17bV20JOz1) | 2:21 | 2022-04-28 |  |
+| [Little Bird](https://open.spotify.com/track/2n1QbWSRwYIGwMybFB730q) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Signs](https://open.spotify.com/album/7FgWxjsFY2iaboS6cEd1r2) | 1:50 | 2022-12-21 |  |
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2021-12-14 |  |
 | [Lucie](https://open.spotify.com/track/5ccHob3neg5ciFjZpwSLif) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Lights, Slow Places](https://open.spotify.com/album/0Qf0Gkf8HW6LRdfmEy7jVR) | 2:17 | 2021-12-14 |  |
 | [Mandeville](https://open.spotify.com/track/7Kuj7xMyWDEqfHE4itPF98) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Mandeville](https://open.spotify.com/album/2xH1bh09wrjyn7BioGdmff) | 2:56 | 2022-10-26 |  |
 | [Marble Falls](https://open.spotify.com/track/2spz2RWKqY4W15BgrooCzY) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [Marble Falls](https://open.spotify.com/album/5mVyUJpMYGQjBHdFtL2Ky7) | 2:21 | 2021-12-14 | 2022-04-29 |
+| [Marlina](https://open.spotify.com/track/6oB8mt6NwPDmbluCWeAKuZ) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Marlina](https://open.spotify.com/album/4vEod04FmHHL5oma970zGv) | 3:00 | 2022-12-21 |  |
 | [Memoirs](https://open.spotify.com/track/0YF4Mt2ogoa0LmjVAtuWX0) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Memoirs](https://open.spotify.com/album/2EsHsEfS3J41jWl61q12yt) | 2:07 | 2022-04-28 |  |
 | [Mistral](https://open.spotify.com/track/592I7fjtb5nNIFiI6UphGw) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Mistral](https://open.spotify.com/album/2PzlydU3HyzJ7nWMXRlTTW) | 5:03 | 2022-08-30 | 2022-10-27 |
 | [Mistral](https://open.spotify.com/track/79PEP3OdHaiHlTq2Cdq2aK) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Contemplations \~ Opus I & II](https://open.spotify.com/album/2ck5A1qAUzsv5exkPPgRgS) | 5:03 | 2022-10-26 |  |
@@ -101,6 +106,7 @@
 | [Morning Dance](https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Morning Dance](https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD) | 1:55 | 2022-12-06 |  |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-03-03 |  |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-14 |  |
+| [New Dimensions](https://open.spotify.com/track/0nwGO2cdc5wvV0mBGELwRf) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Shades Of Life](https://open.spotify.com/album/4ZGXqVaijxKPNbKbnlbq2m) | 1:20 | 2022-12-21 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-14 |  |
 | [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-03 |  |
 | [Oaks Bluffs](https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Heart Open & Oak Bluffs](https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW) | 1:57 | 2022-12-06 |  |
@@ -111,6 +117,7 @@
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-14 |  |
 | [Op Reis \(Traveling\)](https://open.spotify.com/track/7s90rbo8Hwm92XghvPxU3e) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Op Reis \(Traveling\)](https://open.spotify.com/album/5x1nANAZwlk8mtOLO8IDXm) | 3:39 | 2022-05-20 |  |
 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 | 2022-12-06 |  |
+| [Page blanche](https://open.spotify.com/track/4ZPF6rVrnczObhVQbYm6bn) | [Leone Frederic](https://open.spotify.com/artist/3eC48oTeRknCk6vkC0TmQh) | [Page blanche](https://open.spotify.com/album/0Cm6KmDBuk2ntLF8Dx4iJx) | 2:30 | 2022-12-21 |  |
 | [Parallel](https://open.spotify.com/track/1e8J1ZdmX0HcWWfxcCA5Zm) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd), [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Parallel](https://open.spotify.com/album/35IJzhO4I0pJ6DCXVn9B8x) | 2:17 | 2022-05-20 |  |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-03 |  |
 | [Peace In Water](https://open.spotify.com/track/6MOyr6CW5FmSSC3yWDOynt) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Peace In Water](https://open.spotify.com/album/41O9tKGlJ6FIIJemBI5qF1) | 2:12 | 2022-05-20 |  |
@@ -169,6 +176,7 @@
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-14 |  |
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2021-12-14 |  |
 | [Theme from Lazarus](https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb) | [Federico Montoya](https://open.spotify.com/artist/1ZLMB9gdFAhzKVx1LeCIdh) | [Theme from Lazarus](https://open.spotify.com/album/5S8cxsdtUGu5AaNBaFYw6d) | 1:41 | 2021-12-14 |  |
+| [This day, a life](https://open.spotify.com/track/6rCXFCdKOrUqlt9enKauGv) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [This day, a life](https://open.spotify.com/album/6lSD6R7V14cPWVlWvPooJJ) | 2:20 | 2022-12-21 |  |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-02 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-06 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arc\u00e1ngel ",
-  "num_followers": 1513624,
+  "num_followers": 1513659,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTUyMjEzOCwwMDAwMDAwMDllMzI1YTU5NmI0N2I4Y2Y4MDAyYWFlZGRiYTI1NGQ1",
+  "snapshot_id": "MTY3MTUyMjEzOCwwMDAwMDAwMDk1NWJiOGNkMDczYjAxYzZhYmQ4NTQzZGJkZDY4ZWJj",
   "tracks": [
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Super Gremlin (El Diablo Mix)",
-        "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 239939,
-      "name": "Super Gremlin - El Diablo Mix",
-      "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
         "name": "ALBERTO NAVARRO (feat. Danny Yash)",
         "url": "https://open.spotify.com/album/3eYNNa322PLWcPtua9rOky"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 265000,
       "name": "ALBERTO NAVARRO (feat. Danny Yash)",
       "url": "https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "Super Gremlin (El Diablo Mix)",
+        "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 239939,
+      "name": "Super Gremlin - El Diablo Mix",
+      "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "ANTI JUDAS RELOADED",
-        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "SACA Y PON",
-      "url": "https://open.spotify.com/track/3MPpKms5lIjULfNzZlcD32"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "Suge Knight",
-        "url": "https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 498346,
-      "name": "Suge Knight",
-      "url": "https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
         "name": "Ya Ni Se",
         "url": "https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO"
       },
@@ -1163,6 +1131,38 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "Suge Knight",
+        "url": "https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 498346,
+      "name": "Suge Knight",
+      "url": "https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "ANTI JUDAS RELOADED",
+        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "SACA Y PON",
+      "url": "https://open.spotify.com/track/3MPpKms5lIjULfNzZlcD32"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 208788,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
         "name": "Mu\u00e9velo Lento",
         "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
+      "duration_ms": 208788,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1307,6 +1291,22 @@
       "duration_ms": 212000,
       "name": "Guarida",
       "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1383,38 +1383,6 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "El Fucking MVP",
-        "url": "https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "El Fucking MVP",
-      "url": "https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
         "name": "Hundreds (feat. Yovngchimi & Luar la L) [Remix]",
         "url": "https://open.spotify.com/album/6U0Pu3qyl0WZTrO8KYHF92"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "El Fucking MVP",
+        "url": "https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "El Fucking MVP",
+      "url": "https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Drippin",
         "url": "https://open.spotify.com/album/1EaPsewczYbCSvogGhDXlX"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 147370,
-      "name": "Nena Trampa",
-      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
+      "duration_ms": 182000,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "El de la Ca\u00f1a",
-        "url": "https://open.spotify.com/album/4tcD9vE6UcsVcQWgpYJa5G"
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
       "artists": [
         {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 314382,
-      "name": "El de la Ca\u00f1a",
-      "url": "https://open.spotify.com/track/7cn4vTsi42PPl9yJSxCG15"
+      "duration_ms": 147370,
+      "name": "Nena Trampa",
+      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1539,6 +1523,22 @@
       "duration_ms": 259410,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/2h5kMJFJeZghxhPF3TTsrj"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "El de la Ca\u00f1a",
+        "url": "https://open.spotify.com/album/4tcD9vE6UcsVcQWgpYJa5G"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "duration_ms": 314382,
+      "name": "El de la Ca\u00f1a",
+      "url": "https://open.spotify.com/track/7cn4vTsi42PPl9yJSxCG15"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "Tu Favorito",
+        "url": "https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Tu Favorito",
+      "url": "https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Bape (Remix)",
         "url": "https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 362571,
       "name": "Bape (Remix)",
       "url": "https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "Tu Favorito",
-        "url": "https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Tu Favorito",
-      "url": "https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "Cerrando Cap\u00edtulo",
+        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 187694,
+      "name": "60 Barras",
+      "url": "https://open.spotify.com/track/6NtEyIBt9KpNF1a1Om367P"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Hundreds",
         "url": "https://open.spotify.com/album/0kzlrShR9RPPRoUR84bdHg"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Cerrando Cap\u00edtulo",
-        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
+        "name": "En Fuego",
+        "url": "https://open.spotify.com/album/4eqW4KMIjbpkYstjJxaRYk"
       },
       "artists": [
         {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 187694,
-      "name": "60 Barras",
-      "url": "https://open.spotify.com/track/6NtEyIBt9KpNF1a1Om367P"
+      "duration_ms": 169500,
+      "name": "En Fuego",
+      "url": "https://open.spotify.com/track/3HqZrmnkW92TAea8E1Buj0"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1895,22 +1911,6 @@
       "duration_ms": 161073,
       "name": "2seater",
       "url": "https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "En Fuego",
-        "url": "https://open.spotify.com/album/4eqW4KMIjbpkYstjJxaRYk"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "En Fuego",
-      "url": "https://open.spotify.com/track/3HqZrmnkW92TAea8E1Buj0"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -2015,18 +2015,22 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Usala",
-        "url": "https://open.spotify.com/album/102Qg6ICYQX6S8FJFrCjDB"
+        "name": "El Congreso",
+        "url": "https://open.spotify.com/album/4ll3ufkVHwVxWp4bS6jIOA"
       },
       "artists": [
         {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 194678,
-      "name": "Usala",
-      "url": "https://open.spotify.com/track/41vPhGqAax4hQocJ4lkOAl"
+      "duration_ms": 200997,
+      "name": "El Congreso",
+      "url": "https://open.spotify.com/track/2gG7dRgCYDU8HjbINLTGxI"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -2055,22 +2059,18 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "No More Tears",
-        "url": "https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J"
+        "name": "Usala",
+        "url": "https://open.spotify.com/album/102Qg6ICYQX6S8FJFrCjDB"
       },
       "artists": [
         {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
         }
       ],
-      "duration_ms": 195959,
-      "name": "Volao",
-      "url": "https://open.spotify.com/track/2TmsUnvvMAzmrpZQbMrUcn"
+      "duration_ms": 194678,
+      "name": "Usala",
+      "url": "https://open.spotify.com/track/41vPhGqAax4hQocJ4lkOAl"
     },
     {
       "added_at": "2022-12-20 07:42:18",

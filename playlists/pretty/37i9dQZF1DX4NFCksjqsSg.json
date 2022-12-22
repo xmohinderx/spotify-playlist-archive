@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25196,
+  "num_followers": 25201,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDRjZTc4MmNjOGY2NmQxODEyN2MxM2RiNzk4MmVkM2Nl",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDFjNzcxYmU4YzQ1NzM1ZGE4YzNjMzhkYTJhMTJhN2I2",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -967,22 +967,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Les grands succ\u00e8s de Diane Dufresne",
-        "url": "https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV"
-      },
-      "artists": [
-        {
-          "name": "Diane Dufresne",
-          "url": "https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Un souvenir heureux",
-      "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Pelchat",
         "url": "https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 212360,
       "name": "Perdue L'envie D'aimer",
       "url": "https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Les grands succ\u00e8s de Diane Dufresne",
+        "url": "https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV"
+      },
+      "artists": [
+        {
+          "name": "Diane Dufresne",
+          "url": "https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Un souvenir heureux",
+      "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "La Collection",
-        "url": "https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX"
+        "name": "Sans retour",
+        "url": "https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq"
       },
       "artists": [
         {
-          "name": "Mitsou",
-          "url": "https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80"
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
         }
       ],
-      "duration_ms": 226013,
-      "name": "Bye Bye Mon Cowboy - Original Version",
-      "url": "https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J"
+      "duration_ms": 435840,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "La Collection",
+        "url": "https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX"
+      },
+      "artists": [
+        {
+          "name": "Mitsou",
+          "url": "https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Bye Bye Mon Cowboy - Original Version",
+      "url": "https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Mixmania",
         "url": "https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 206666,
       "name": "Tu t'en vas",
       "url": "https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Joe Bocan",
-        "url": "https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb"
-      },
-      "artists": [
-        {
-          "name": "Joe Bocan",
-          "url": "https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Repartir \u00e0 z\u00e9ro",
-      "url": "https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV"
     }
   ],
   "unique_name": "Fromage",

@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 12590,
+  "num_followers": 12594,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQwMCwwMDAwMDAwMGY3NjEwYjBiMmE5NDhmMWU1MzI5ZjZhNmNlMDg1ZWE5",
+  "snapshot_id": "MTY3MTU0ODQwMCwwMDAwMDAwMDc1MTEwYWJkMWQ5YjlmMjFjODc5MzM4NTFkOGU0NDYz",
   "tracks": [
     {
       "added_at": "2022-12-20 15:00:00",
@@ -556,7 +556,7 @@
       "added_at": "2022-12-20 15:00:00",
       "album": {
         "name": "SIGN",
-        "url": "https://open.spotify.com/album/6LquM3nRoIbpO7RduSYhEF"
+        "url": "https://open.spotify.com/album/3UnGVlmqObAzmtrFFBMXcF"
       },
       "artists": [
         {
@@ -566,7 +566,7 @@
       ],
       "duration_ms": 157500,
       "name": "without a word",
-      "url": "https://open.spotify.com/track/70E8D4N96XHb90QFufmzY6"
+      "url": "https://open.spotify.com/track/4zefF6Sz5tyALMS8eVetPC"
     },
     {
       "added_at": "2022-12-20 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2"
-      },
-      "artists": [
-        {
-          "name": "Vickeblanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 198062,
-      "name": "\u9b54\u6cd5\u306e\u30a2\u30c8",
-      "url": "https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n"
-    },
-    {
-      "added_at": "2022-12-20 15:00:00",
-      "album": {
         "name": "20 (Complete Mixtape)",
         "url": "https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2"
+      },
+      "artists": [
+        {
+          "name": "Vickeblanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 198062,
+      "name": "\u9b54\u6cd5\u306e\u30a2\u30c8",
+      "url": "https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n"
+    },
+    {
+      "added_at": "2022-12-20 15:00:00",
+      "album": {
         "name": "S.S.S.",
         "url": "https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X"
       },
@@ -803,6 +803,38 @@
       "duration_ms": 201683,
       "name": "S.S.S.",
       "url": "https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN"
+    },
+    {
+      "added_at": "2022-12-20 15:00:00",
+      "album": {
+        "name": "wish",
+        "url": "https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "duration_ms": 264375,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt"
+    },
+    {
+      "added_at": "2022-12-20 15:00:00",
+      "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2022-12-20 15:00:00",
@@ -827,22 +859,6 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
-        "name": "wish",
-        "url": "https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO"
-      },
-      "artists": [
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        }
-      ],
-      "duration_ms": 264375,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt"
-    },
-    {
-      "added_at": "2022-12-20 15:00:00",
-      "album": {
         "name": "\u30b5\u30a4\u30c0\u30fc",
         "url": "https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu"
       },
@@ -855,26 +871,6 @@
       "duration_ms": 219211,
       "name": "\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7"
-    },
-    {
-      "added_at": "2022-12-20 15:00:00",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "Tomggg",
-          "url": "https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE"
-        }
-      ],
-      "duration_ms": 195852,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

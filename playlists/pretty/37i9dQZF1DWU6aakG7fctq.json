@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Cuco",
-  "num_followers": 504892,
+  "num_followers": 504958,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDcxYjBkZDM1YWU2YzAzNDI4ZTBhNzUyZmNlYzJhYjlm",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDAzMzMyYzg5ZTA3MTE0NDYzMzM4NmFiNWE3MGU3MmVh",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Todo est\u00e1 bien",
+        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 376123,
+      "name": "Todo est\u00e1 bien",
+      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Zoriontasuna (La vida es de verdad)",
         "url": "https://open.spotify.com/album/4lyrZqAyG9yd8FiSYDPvwa"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 166189,
       "name": "Broken",
       "url": "https://open.spotify.com/track/3YLIRe9P2UreZ3XKv8DJKm"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Todo est\u00e1 bien",
-        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 376123,
-      "name": "Todo est\u00e1 bien",
-      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Mi Tesoro",
+        "url": "https://open.spotify.com/album/1507DkjEBQqhE2xXHrOTOT"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/1V6Tp4pBAHByhlZrMTOYxd"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Talk Too Much",
         "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 166653,
       "name": "Despejao",
       "url": "https://open.spotify.com/track/647jFWacZ3OiV3OmKhbu4q"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Con Mi Coqueta",
-        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Con Mi Coqueta",
-      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
     }
   ],
   "unique_name": "el nuevo indie",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,382 songs - 3 day 23 hr 43 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,383 songs - 3 day 23 hr 47 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,7 +739,7 @@
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-03-17 | 2022-04-20 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2020-03-20 | 2022-04-21 |
 | [Lowkey](https://open.spotify.com/track/5hp4te9BVHl3m1ZFSj62eX) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Lowkey](https://open.spotify.com/album/4PYmijWayYaKZizK3aGfNI) | 3:13 | 2021-09-10 | 2022-10-14 |
-| [Lowkey](https://open.spotify.com/track/5rMwxbfCjVHn7nEKHJP6JQ) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [The Lofi Sessions](https://open.spotify.com/album/6NeItVGlH8Q4LGDuGrLTGu) | 3:13 | 2022-09-09 |  |
+| [Lowkey](https://open.spotify.com/track/5rMwxbfCjVHn7nEKHJP6JQ) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [The Lofi Sessions](https://open.spotify.com/album/6NeItVGlH8Q4LGDuGrLTGu) | 3:13 | 2022-09-09 | 2022-12-22 |
 | [Lullaby](https://open.spotify.com/track/7CsxkeYjAwSrHhNUOywZ2m) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Lullaby / And The Sky Opened](https://open.spotify.com/album/3nwqphfZZbGT7QnjEafm1X) | 3:50 | 2022-06-03 | 2022-07-22 |
 | [Lullaby \- Chocolate Puma Balearic House Mix](https://open.spotify.com/track/56SKV0Wh2XJcbjKF4hxDXg) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Bishop](https://open.spotify.com/artist/0tCqZY8ifzb9GGAIfdGxGT) | [Lullaby \(The Remixes\)](https://open.spotify.com/album/2NA3pWnX8MDqif9GWolKRA) | 3:10 | 2020-05-22 | 2020-07-03 |
 | [Luma](https://open.spotify.com/track/3aV2Kz9XHD9rjAaFZ6lfYf) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Luma](https://open.spotify.com/album/5mZBsIi2CJWIenY2B8ArRy) | 3:24 | 2021-07-16 | 2022-07-28 |
@@ -1114,6 +1114,7 @@
 | [Something About You \- ODESZA Remix](https://open.spotify.com/track/6vjWim6xU6tPjA42GxSp1U) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Something About You \(The Remixes\)](https://open.spotify.com/album/0WJIPz25jMYUpLMTM37eA6) | 5:43 | 2020-05-18 | 2020-06-12 |
 | [Something Familiar](https://open.spotify.com/track/0Af3QIr4DnHqBsfEpU223O) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Something Familiar](https://open.spotify.com/album/2OSBCWNUW1LI5NnKkHVkt4) | 3:53 | 2021-11-12 | 2022-11-13 |
 | [Something Good \- Radio Edit](https://open.spotify.com/track/68hrtOiA7J06Bp42M6KZdc) | [MOUNT](https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Something Good \(Radio Edit\)](https://open.spotify.com/album/2PSI6xjkprGEfykOQ1XCnZ) | 2:58 | 2020-05-22 | 2020-07-03 |
+| [Something To Say](https://open.spotify.com/track/1r7Qru1A5tduUNf7qxDogp) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Something To Say](https://open.spotify.com/album/2JvCQOoWxhbDiq6L6XyQHC) | 4:18 | 2022-12-02 |  |
 | [Something to Say](https://open.spotify.com/track/62M5gj2bau54bPysumOjXp) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09) | [Something to Say](https://open.spotify.com/album/2ew6OwY8suQguh3vblcPjj) | 3:36 | 2020-07-18 | 2020-10-10 |
 | [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2020-08-06 |  |
 | [Something, Everything](https://open.spotify.com/track/1QBCsA9ilCqLm7BcWRxqT5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Something, Everything](https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3) | 5:17 | 2021-03-14 | 2022-08-27 |

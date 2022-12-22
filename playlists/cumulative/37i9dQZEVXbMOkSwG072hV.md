@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-901 songs - 1 day 22 hr 20 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+902 songs - 1 day 22 hr 23 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mil Coisas Invisíveis](https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y) | 2:46 | 2022-06-16 | 2022-06-18 |
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/5iNreMqjehoEgXBnzU2Y5k) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mil Coisas Invisíveis](https://open.spotify.com/album/0icYpEwVxogZ6mCERLIVpa) | 2:46 | 2022-06-17 | 2022-09-09 |
 | [Beat Lázaro Talarico 2](https://open.spotify.com/track/4Mayay1L2tyZcvlM4YK8oC) | [DJ MP7 013](https://open.spotify.com/artist/4k4hOe3dkX2xqcuKyBndWU) | [Beat Lázaro Talarico 2](https://open.spotify.com/album/0Y1B6MM3sLJ02Eof8b7l4Z) | 1:58 | 2022-11-22 |  |
+| [Beat Mbappe, Paquetá & Ronaldinho](https://open.spotify.com/track/2jmWXIfKJZwpV3BLIoLgkx) | [PES MIL GRAU](https://open.spotify.com/artist/7BfxByM6dlzethdjmNKoXQ), [SR Nescau](https://open.spotify.com/artist/2iXdY9Jj95AaOn92RkiO4s) | [Beat Mbappe, Paquetá & Ronaldinho](https://open.spotify.com/album/12xog6HVcbcrC2cQ7SHcVE) | 3:08 | 2022-12-21 |  |
 | [Beat Sn4p \(Viral Tiktok\)](https://open.spotify.com/track/4QgE77vDJDVsipfOnHetFx) | [Sr\. Nescau](https://open.spotify.com/artist/6Tgacqoj19pdr24530Fqjd) | [Beat Sn4p \(Viral Tiktok\)](https://open.spotify.com/album/0Js1guJKjxvCoZ3KDOAamu) | 2:21 | 2022-09-27 | 2022-10-07 |
 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 | 2022-04-24 | 2022-05-06 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-03-22 | 2022-03-26 |
@@ -722,7 +723,7 @@
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-09-10 | 2022-09-28 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-11-19 | 2022-12-08 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-11-22 | 2022-11-29 |
-| [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-11 |  |
+| [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-11 | 2022-12-22 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-10-11 | 2022-10-19 |
 | [Shut Up and Listen](https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc) | 4:03 | 2022-07-05 | 2022-08-14 |
 | [Shut Up and Listen](https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/6ESObhLkBvTh4CXm9wMdwQ) | 4:03 | 2022-08-13 | 2022-08-15 |

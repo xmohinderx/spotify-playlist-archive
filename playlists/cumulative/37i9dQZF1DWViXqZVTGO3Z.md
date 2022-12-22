@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-295 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+297 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 | 2021-12-11 |  |
 | [Don't Forget The Star](https://open.spotify.com/track/7FXLfasvHRnGpnOyq7ThFo) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Merry Christmas To You \(Great Big Family Edition\)](https://open.spotify.com/album/1oQisAUbNQh9hNsNLzF9Pv) | 4:32 | 2021-12-11 |  |
 | [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 | 2021-12-24 | 2022-07-19 |
+| [Emmanuel](https://open.spotify.com/track/3rpBkWpINIPd8F4m3u1BCx) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf) | [Emmanuel](https://open.spotify.com/album/57nrrOMHONlS0FgtFEi44P) | 3:59 | 2022-12-11 |  |
 | [Emmanuel](https://open.spotify.com/track/0PAQS2e3g3LMH5P0hTjWRh) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Songs](https://open.spotify.com/album/4TafV1ps3rMjGg80WWrMls) | 3:21 | 2021-12-24 | 2022-07-27 |
 | [Emmanuel \(God With Us Forever\)](https://open.spotify.com/track/3xdfuy4Jfy4IiIYNVp7Rsx) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Christmas](https://open.spotify.com/album/6LmDzGBei86ImM49AMFm4G) | 5:24 | 2021-12-11 | 2022-12-17 |
 | [Emmanuel \(Rejoice!\) \- Studio Version](https://open.spotify.com/track/2QMQnktrgnR3maA3jpBfQg) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Kyndal Kearns](https://open.spotify.com/artist/7BShpH5w6WX31hPlUJVqES) | [Emmanuel \(Rejoice!\) \[Studio Version\]](https://open.spotify.com/album/0Kx1kWhX24kBUUCcspFTkV) | 4:14 | 2021-12-11 | 2022-11-27 |
@@ -228,7 +229,7 @@
 | [O What A King](https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [O What A King](https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu) | 3:14 | 2022-11-26 |  |
 | [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 |  |
 | [Old Fashioned Christmas](https://open.spotify.com/track/4b5jMKaV2uu4XtcPrRxdXM) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Old Fashioned Christmas](https://open.spotify.com/album/54zoj8Yivcp8lNJhLUUFk0) | 2:39 | 2021-12-11 | 2022-12-03 |
-| [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2021-12-11 |  |
+| [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2021-12-11 | 2022-12-22 |
 | [Our King Has Come \(Live\)](https://open.spotify.com/track/2fNd8uZp9GvyxJKHa6bOo0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [For The Honor](https://open.spotify.com/album/7AF8bOSZOINrMfLOhZVydc) | 3:40 | 2021-12-24 | 2022-11-01 |
 | [Peace On Earth](https://open.spotify.com/track/5B2JNOIvKJgVAZleSsPO7q) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Peace On Earth](https://open.spotify.com/album/6ngtu2qz98gPt8FlJKYKQa) | 3:20 | 2021-12-24 |  |
 | [Peace On Earth](https://open.spotify.com/track/5FmegwNKKLzoqYGVg7Utop) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Peace on Earth](https://open.spotify.com/album/2e9z3BubbfAcc1OkIlvuEQ) | 3:20 | 2021-12-11 | 2022-07-29 |
@@ -276,7 +277,8 @@
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 |  |
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2022-07-29 |
 | [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
-| [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 |  |
+| [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 |  |
+| [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 | 2022-12-22 |
 | [This Is My Son](https://open.spotify.com/track/6SJfeaZlFuWGbpQXCHBJMQ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [This Is My Son](https://open.spotify.com/album/4BPYMu3NFi2Fh9M1Kw1czK) | 3:52 | 2021-12-24 | 2022-12-09 |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
 | [Virgin Mary Had One Son](https://open.spotify.com/track/718r6aSGVq5NXy2lP7JS6l) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Virgin Mary Had One Son](https://open.spotify.com/album/3dt28d9gqa65F8letCwdBF) | 2:44 | 2021-12-24 | 2022-06-21 |

@@ -2,13 +2,14 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Cover: Iggy Pop
+> New music and timeless tracks from legends only\. Remembering Terry Hall\. Cover: The Specials
 
-234 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+235 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 and 7 Is](https://open.spotify.com/track/5lodWqWRbnrWxKIRfzGMVO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [7 and 7 Is](https://open.spotify.com/album/1L6Hd2oWsT5wJwFfNPBfJY) | 2:28 | 2022-06-06 | 2022-06-08 |
+| [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 | 2022-12-21 |  |
 | [A New England](https://open.spotify.com/track/5dUyyHEujfRHbmhx57Tpxv) | [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [The Stiff Years](https://open.spotify.com/album/6l1MVVl2MktecfPNNt829J) | 3:52 | 2022-04-08 | 2022-07-29 |
 | [A Tip from You to Me](https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Entering Heaven Alive](https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5) | 2:42 | 2022-07-28 | 2022-09-05 |
 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 | 2022-04-08 | 2022-07-29 |
@@ -225,7 +226,7 @@
 | [Trash](https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/7M4M2D5vnodz6lmP8iO15S) | 4:05 | 2022-04-08 | 2022-07-29 |
 | [Tryin' To Get To Heaven](https://open.spotify.com/track/6zklUM1HK1F0YebIT4K1zo) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Tryin' To Get To Heaven / Mother](https://open.spotify.com/album/1HNxjzjasKM1aVpwCoEXEa) | 6:06 | 2022-04-08 | 2022-07-24 |
 | [Tuesday Morning](https://open.spotify.com/track/0A5rw6qfy6wfwVL0QIKdfb) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Waiting for Herb \(Expanded\)](https://open.spotify.com/album/69vD0HK1U0jJ5ytmYFgO76) | 3:30 | 2022-04-08 | 2022-07-29 |
-| [Turn Back the Hands of Time](https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:07 | 2022-11-14 |  |
+| [Turn Back the Hands of Time](https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:07 | 2022-11-14 | 2022-12-22 |
 | [Under Pressure](https://open.spotify.com/track/5oidljiMjeJTWUGZ4TfFea) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best of Bowie](https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV) | 3:57 | 2022-04-08 | 2022-07-28 |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 | 2022-07-28 |  |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:08 | 2022-04-08 | 2022-07-29 |

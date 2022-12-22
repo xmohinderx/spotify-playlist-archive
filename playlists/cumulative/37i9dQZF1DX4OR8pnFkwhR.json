@@ -5005,7 +5005,7 @@
     {
       "album": {
         "name": "Something's Wrong -EP-",
-        "url": "https://open.spotify.com/album/66ygCCt3KocnFaSjaEkrau"
+        "url": "https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ"
       },
       "artists": [
         {
@@ -5016,6 +5016,24 @@
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208857,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ"
+    },
+    {
+      "album": {
+        "name": "Something's Wrong -EP-",
+        "url": "https://open.spotify.com/album/66ygCCt3KocnFaSjaEkrau"
+      },
+      "artists": [
+        {
+          "name": "TOSH",
+          "url": "https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
       "duration_ms": 208857,
       "name": "Something's Wrong",
       "url": "https://open.spotify.com/track/6AXsqlJW6QxA4rt4zmx5LH"

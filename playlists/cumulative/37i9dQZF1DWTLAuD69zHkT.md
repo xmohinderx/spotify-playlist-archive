@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-87 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+88 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 | 2022-07-13 |  |
 | [I Loved Another Woman](https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:56 | 2022-07-13 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 | 2022-07-13 |  |
+| [I'd Rather Go Blind](https://open.spotify.com/track/3OCvQiHzIuVf7KXgKb0rVA) | [Louise Phelan](https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc), [Octavio Herrero](https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB) | [Azules](https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf) | 4:38 | 2022-12-21 |  |
 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 | 2022-07-13 |  |
 | [I'm Too Far Gone \(To Turn Around\) \- Single Version](https://open.spotify.com/track/1Mg1MdaOkkR5QQz2Ue6T2v) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:19 | 2022-09-30 |  |
 | [If Heartaches Were Nickels](https://open.spotify.com/track/5ka8BG03xRY5FHYOQChRwz) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:27 | 2022-07-13 |  |

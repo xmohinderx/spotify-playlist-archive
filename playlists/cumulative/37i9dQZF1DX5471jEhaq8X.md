@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: LEGADO 7 & Juan De Ron
 
-346 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+347 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [El Mago De La Sierra](https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Mago De La Sierra](https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp) | 4:15 | 2022-08-26 | 2022-11-01 |
 | [El Mal Camino](https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Mal Camino](https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38) | 3:58 | 2022-05-13 |  |
 | [El Mando](https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mando](https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ) | 3:37 | 2022-06-10 |  |
-| [El Mayor](https://open.spotify.com/track/69Va9TvP33ArLmaS5EmO1n) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [El Mayor](https://open.spotify.com/album/1zeinR43f370FNKzDZtAtF) | 2:22 | 2022-12-02 |  |
+| [El Mayor](https://open.spotify.com/track/69Va9TvP33ArLmaS5EmO1n) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [El Mayor](https://open.spotify.com/album/1zeinR43f370FNKzDZtAtF) | 2:22 | 2022-12-02 | 2022-12-22 |
 | [El Mediano](https://open.spotify.com/track/5FCinSrYAOVPYS4Q9q87rb) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea) | [El Mediano](https://open.spotify.com/album/4bFy6VPzY7WVovKbE4ssDI) | 2:24 | 2022-08-26 | 2022-12-03 |
 | [El Muchacho Criticado](https://open.spotify.com/track/1Sy1tRL4ZahrECTitUFPXJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Los de La Lira](https://open.spotify.com/artist/3LfNPEkj2YjpkmAbY5CKhW) | [El Muchacho Criticado](https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b) | 3:16 | 2022-06-17 |  |
 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 | 2022-05-13 | 2022-07-29 |
@@ -222,6 +222,7 @@
 | [La Pluma Del Diablo \- En Vivo](https://open.spotify.com/track/3ovMqmRlaiIqDuo3n4D0OG) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6), [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [La Pluma Del Diablo \(En Vivo\)](https://open.spotify.com/album/3v3ra4Y61KCCidILEfKHdI) | 2:38 | 2022-05-13 | 2022-09-24 |
 | [La Profecía](https://open.spotify.com/track/45gSXNnSfMz6kVGVN9X41A) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Profecía](https://open.spotify.com/album/5scSfMdGxbxaG01lHiZqPi) | 2:38 | 2022-05-13 |  |
 | [La Ruleta de La Vida](https://open.spotify.com/track/6p4Ta9TKEndqO6ZarnY3zl) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Ruleta de La Vida](https://open.spotify.com/album/3W7MMzYaMYq5LyF1h5CoHc) | 2:39 | 2022-05-13 | 2022-12-11 |
+| [La Ruleta de la Vida](https://open.spotify.com/track/7LqZaeQLxCddAw8k0FA9T7) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Ruleta de la Vida](https://open.spotify.com/album/4onNGEWvJ7CFdwxOfRNP8O) | 2:39 | 2022-12-02 |  |
 | [La Siembra](https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Para Valientes, Vol.1](https://open.spotify.com/album/7mGVKM49bCCwGshz1kEOLl) | 3:54 | 2022-09-23 |  |
 | [La Suelita Roja](https://open.spotify.com/track/57fHwXh5FA1733cIbENvsR) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [La Suelita Roja](https://open.spotify.com/album/7EW7vpRc0nc3PJIKcT6dl5) | 3:04 | 2022-05-27 |  |
 | [La Tiriwixiada](https://open.spotify.com/track/4mexeasKTWMOjNFQeYazHZ) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [La Tiriwixiada](https://open.spotify.com/album/638vgbZ00GPAkfJDmT8JAC) | 3:27 | 2022-05-13 | 2022-08-20 |

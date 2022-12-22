@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-363 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+364 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Deck The Halls](https://open.spotify.com/track/1G9qYNrtiZjKXfjMGjMeJJ) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Deck The Halls](https://open.spotify.com/album/0grfLiNmcGd9QPyhkg8ojD) | 2:00 | 2022-12-02 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Do You Hear What I Hear?](https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4) | 3:05 | 2022-12-09 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 | 2021-12-24 | 2022-09-28 |
+| [Don't Let the Light Go Out](https://open.spotify.com/track/39TF6ArINM2kpvc8aMG31C) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL), [Small Boss](https://open.spotify.com/artist/6DVybSuWlpWdMA0ROmlddf) | [Don't Let the Light Go Out](https://open.spotify.com/album/653dA3SfNrYraUUIYa6BwI) | 3:49 | 2022-12-21 |  |
 | [Driving Home for Christmas](https://open.spotify.com/track/5IVrfmg1eeDdHCD4TJZwvK) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Driving Home for Christmas](https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr) | 3:48 | 2021-12-24 | 2022-09-28 |
 | [Driving Home for Christmas](https://open.spotify.com/track/70j4eEbliNTlcjMc3ZUPIR) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Driving Home for Christmas](https://open.spotify.com/album/3lkwhwqbhPzmraMH7uDJ72) | 3:48 | 2021-12-24 | 2022-07-29 |
 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Driving Home for Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a) | 3:41 | 2022-11-18 |  |
@@ -120,7 +121,7 @@
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-11-11 |  |
 | [Green Christmas \- Live From The Christmas Special / 2020](https://open.spotify.com/track/10mHaiscbrJhpsTVtJo4e9) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Barenaked For The Holidays \(Deluxe Edition\)](https://open.spotify.com/album/7g6V1Ue3CIrJ6ehtNz8v9b) | 2:43 | 2022-11-11 |  |
 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 | 2022-11-18 |  |
-| [Hallelujah](https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 3:20 | 2022-12-16 |  |
+| [Hallelujah](https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 3:20 | 2022-12-16 |  |
 | [Hallelujah](https://open.spotify.com/track/5XJDLmBGgralQiFdxkBhVN) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a), [Trans Chorus of Los Angeles](https://open.spotify.com/artist/4TtD6XNkJlufh7J0quit2c) | [Hallelujah](https://open.spotify.com/album/2nxxZBXTbqXCZActyVloGW) | 3:33 | 2022-11-25 |  |
 | [Hallelujah \- Live](https://open.spotify.com/track/4GZtpNptZnzGlC8LrfpQsK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 3:18 | 2021-12-24 | 2022-09-28 |
 | [Hangover For Christmas](https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Hangover For Christmas](https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC) | 3:00 | 2021-12-24 | 2022-09-28 |

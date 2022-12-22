@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Cult Shφtta
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,236 likes - 93 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,248 likes - 93 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 11 | [Summer Jam](https://open.spotify.com/track/1xHePnG9oTTYWTkqd5dnN9) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc) | [Summer Jam](https://open.spotify.com/album/5IGDqI2xqiTkVq9RBwYyFw) | 2:49 |
 | 12 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 |
 | 13 | [FUSH AND CHIPS](https://open.spotify.com/track/39insgdUU1RB5CJZUdg8kE) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [FUSH AND CHIPS](https://open.spotify.com/album/5U438YMyYMa55plD5tdsM8) | 1:53 |
-| 14 | [NOKIA 6OY](https://open.spotify.com/track/3x4GBlCBALBmOU3oOdejFR) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/79SUwO4Kw6JCXMItpqxI27) | 3:30 |
+| 14 | [NOKIA 6OY](https://open.spotify.com/track/2SsjTx5AWaQ2c3sA2ycVjW) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/2XKXlr11eM3EaRnQtIOGjQ) | 3:30 |
 | 15 | [CALL ME](https://open.spotify.com/track/0drn9Co5YWDkEf56WFqr4v) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP), [YXAN](https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9) | [CALL ME](https://open.spotify.com/album/4yksBGzn1xdbq1yGYqZLNS) | 2:44 |
 | 16 | [MY TURN](https://open.spotify.com/track/67ymPK8GDCy5G0gtkNr7Tl) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [MY TURN](https://open.spotify.com/album/1NhU3nH2zA2sLFUlUMlBoh) | 2:45 |
 | 17 | [Foreign Currency](https://open.spotify.com/track/43O8FGGnUBZshQPX6aGiHu) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5), [Stallyon](https://open.spotify.com/artist/2JXnb8ofTQZKOBsqqv8elj) | [Foreign Currency](https://open.spotify.com/album/52hNNTZJpG7luWeLbRSlA6) | 2:45 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 92 | [Slide](https://open.spotify.com/track/0kwUsrcjtn8l8oNjTSZgJW) | [RENZI](https://open.spotify.com/artist/6vmhMeXBCSMtkCEcDD8Wmk), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Paintin' Pictures](https://open.spotify.com/album/1PCalYSpG12Lv7UznrJEQl) | 2:58 |
 | 93 | [Bad Boy](https://open.spotify.com/track/0w2INg5RVukivGRp9QYnGC) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb) | [Bad Boy](https://open.spotify.com/album/3Hj6q9U1TnpeRZCOvF8C0u) | 3:37 |
 
-Snapshot ID: `MTY3MTExMDgwNywwMDAwMDAwMDZlZjk2MzQwODRmNzUxMWYwZmIyMTdjNDgyY2NiM2Iy`
+Snapshot ID: `MTY3MTExMDgwNywwMDAwMDAwMDgzNmJlZDc5NGYzYTE4N2YxNTc1YTJiMjY5ODQxNWVl`

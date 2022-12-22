@@ -6214,6 +6214,24 @@
     },
     {
       "album": {
+        "name": "Cold Night",
+        "url": "https://open.spotify.com/album/6qvtXwev2YzZJg1OtrmOkN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Coy",
+          "url": "https://open.spotify.com/artist/3UxqYtZanTu5eWI9Jjs9Vt"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193131,
+      "name": "Cold Night",
+      "url": "https://open.spotify.com/track/6cRgIzBjxvgpKfN98ymj1H"
+    },
+    {
+      "album": {
         "name": "All We Can Do Is Nothing",
         "url": "https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU"
       },

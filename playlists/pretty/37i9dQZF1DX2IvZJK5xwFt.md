@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,471 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,589 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 10 | [Busted](https://open.spotify.com/track/1Kx10134Xi9QGqrCoLZ6wM) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Busted](https://open.spotify.com/album/33P1z1j2GkaLEKLgTFzwpN) | 3:05 |
 | 11 | [Alien](https://open.spotify.com/track/5hJPRHP2VJxJ24Zg1Tlbn3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead \(Deluxe\)](https://open.spotify.com/album/4o4YBwtC9qWnEUssNaPzuW) | 2:47 |
 | 12 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 |
-| 13 | [Was It All Worth It](https://open.spotify.com/track/0Yjv0kWNGUgfyRTjcmou6w) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 5:02 |
+| 13 | [Was It All Worth It \- Original Take](https://open.spotify.com/track/0Yjv0kWNGUgfyRTjcmou6w) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 5:02 |
 | 14 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
 | 15 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 |
 | 16 | [Nice Guys Finish Last \- Live at the Electric Factory, Philadelphia 11/14/97](https://open.spotify.com/track/5lpnKms51XfMY4XZVNfZkp) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nice Guys Finish Last \(Live at the Electric Factory, Philadelphia 11/14/97\)](https://open.spotify.com/album/4jeeRrN9SDSJ9kNqjxC52R) | 2:57 |

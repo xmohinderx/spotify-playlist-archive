@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-694 songs - 1 day 17 hr 25 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+695 songs - 1 day 17 hr 28 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Miracle](https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:08 | 2022-05-11 |  |
 | [Miracle](https://open.spotify.com/track/2tBepKim58vAVEKlQhLJNP) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/7EchhykwUf4ACDDABEDa7o) | 3:08 | 2022-05-11 | 2022-09-15 |
 | [Miracle](https://open.spotify.com/track/6vgqv2UHRvXopkV9RbG7Wq) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Miracle](https://open.spotify.com/album/7JE7QEhrbXVV8VjR4P7fk9) | 3:08 | 2021-08-10 | 2022-10-03 |
+| [Mirrors](https://open.spotify.com/track/6aGwF9D2BqmcSzF0JpfzJu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:38 | 2022-12-21 |  |
 | [Misery](https://open.spotify.com/track/2A8wkEq13oYUyGLvolbaes) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/5K4QKGKXZWNhjQiGOzkKLb) | 3:26 | 2022-05-11 | 2022-11-13 |
 | [Misery](https://open.spotify.com/track/6NJwUozBz3XVoDVzOlvFbn) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:26 | 2022-05-11 |  |
 | [Misery](https://open.spotify.com/track/7AjveaJTT8WQn5UTEgvH1E) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:26 | 2021-08-10 | 2022-07-29 |

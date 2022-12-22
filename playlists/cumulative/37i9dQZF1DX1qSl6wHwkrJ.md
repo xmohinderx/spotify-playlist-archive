@@ -4,7 +4,7 @@
 
 > Christmas classics from your favourite Blues artists.
 
-122 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
+125 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Baby, It's Cold Outside](https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Baby, It's Cold Outside](https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4) | 4:31 | 2022-12-06 |  |
 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 | 2022-12-14 |  |
 | [Blues For Christmas](https://open.spotify.com/track/3bldbpvqL5jC4BqxgMOTrD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Complete '50s Chess Recordings](https://open.spotify.com/album/6ZytgjeBLBmOmxt8OyhMk0) | 3:19 | 2021-12-14 |  |
+| [Bo Diddley Santa Claus](https://open.spotify.com/track/5b36XrEjIUeXE40biZ7cKF) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Big Night](https://open.spotify.com/album/0tmajlJTpuxh2HRXfZmbat) | 5:39 | 2022-12-21 |  |
 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 | 2021-12-14 |  |
 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/1pvxx14nQfRglOJfQxJcDV) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 3:12 | 2021-12-14 | 2022-07-28 |
 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/1ralRyNhB09WyWlGyGJOrl) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 3:12 | 2021-12-14 |  |
@@ -44,8 +45,9 @@
 | [Christmas Comes But Once A Year](https://open.spotify.com/track/1dW0NVuJJ1iIvJFUoWSDJ6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 4:14 | 2021-12-14 |  |
 | [Christmas Date Blues](https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:34 | 2022-12-14 |  |
 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam in Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 | 2022-12-14 |  |
-| [Christmas Fais Do Do](https://open.spotify.com/track/16SCezdG30uProf3A5Wqja) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:15 | 2021-12-14 |  |
+| [Christmas Fais Do Do](https://open.spotify.com/track/16SCezdG30uProf3A5Wqja) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:15 | 2021-12-14 | 2022-12-22 |
 | [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 | 2022-11-14 |  |
+| [Christmas Is Coming](https://open.spotify.com/track/0l1hyjtcvBSc8VtlqSiFQQ) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Leadbelly Vol\. 5 1939\-1947](https://open.spotify.com/album/79igIOFkyUvIRdpdz3qXwe) | 1:08 | 2022-12-21 |  |
 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 | 2022-11-09 |  |
 | [Christmas Morning Blues](https://open.spotify.com/track/1O8t2pHd3gurIbOhPkWk8h) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/17AJmShSJtRTsPnt0lAfsA) | 3:25 | 2022-11-09 |  |
 | [Christmas Morning Blues](https://open.spotify.com/track/4WamHw3fBlpAo4Y1AdOkM5) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:25 | 2021-12-14 | 2022-07-29 |
@@ -69,6 +71,7 @@
 | [Fattening Up The Turkey](https://open.spotify.com/track/1yHfGGKXmg1CrY2zcljhrJ) | [Dave Hole](https://open.spotify.com/artist/6qGv85JlIu536BngDpbI5X) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2) | 3:42 | 2021-12-14 | 2022-07-28 |
 | [Fattening Up the Turkey](https://open.spotify.com/track/3SyDs1botzuDspsq5plpYf) | [Dave Hole](https://open.spotify.com/artist/6qGv85JlIu536BngDpbI5X) | [Hits of Slide Guitar Blues](https://open.spotify.com/album/4mT2XxIa0w9jStmHnQaFwI) | 3:42 | 2022-11-09 | 2022-11-14 |
 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 | 2021-12-14 |  |
+| [Good Morning Blues](https://open.spotify.com/track/0AqIhsraOrAQn2KhlRidrW) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:15 | 2022-12-21 |  |
 | [Happy New Year](https://open.spotify.com/track/6XsoEbKIVrLnR8tR9G42YR) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of Lightnin' Hopkins](https://open.spotify.com/album/7vAiJW4xi4VNmRjcZsLO33) | 3:15 | 2022-11-09 | 2022-11-14 |
 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 | 2021-12-14 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1dTbaytzmCoyFrWMvyV1BR) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 3:29 | 2021-12-14 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 583400,
+  "num_followers": 583518,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAzMzU4MCwwMDAwMDAwMGU5NTJjZDM5YTRhYzk3YTU0MGEwYTAyMDJlY2ZmZDAw",
+  "snapshot_id": "MTY3MTYyNTY3OCwwMDAwMDAwMGYzNGJkZGQ4MWM0ODY0MjcyYTFhYWYwZWFiY2EzN2Ez",
   "tracks": [
     {
       "added_at": "2022-11-21 12:26:20",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
+        "name": "Casia Deluxe",
+        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
+      },
+      "artists": [
+        {
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
-        "name": "Casia Deluxe",
-        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
-      },
-      "artists": [
-        {
-          "name": "Miami Yacine",
-          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "Kokaina",
-      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
     },
     {
       "added_at": "2022-11-21 12:26:20",

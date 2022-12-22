@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > That real hip\-hop\. Cover: 38 Spesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BUCKET](https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 3:05 |
 | 2 | [Foot Prints](https://open.spotify.com/track/05bBn97ouEWSy4rcToF67T) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Cuns](https://open.spotify.com/artist/440Df17wTGxtbFirxmW5l3) | [Be That as It May](https://open.spotify.com/album/7dSRveh6MB42PvHphZfgPY) | 2:38 |
-| 3 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
+| 3 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
 | 4 | [Band of Brothers](https://open.spotify.com/track/4UY8uzghtixlMhFR4JFqzF) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Band of Brothers](https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v) | 2:51 |
 | 5 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 |
 | 6 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |

@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 324586,
+  "num_followers": 324735,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDI5OWUyMmQ1ZTcwNTMxNjliZWVkODdiZTZjZmY5ZGYy",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDE2MDM1ZDhkZmU0ZjlmMDU4MWQ1YTcyMmI5MGRiY2I2",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -231,6 +231,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Piedras Vivas",
         "url": "https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 315653,
       "name": "Gracia Sublime Es feat. Omar Rodr\u00edguez Music",
       "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 299600,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Comenzar de Cero",
+        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 230791,
+      "name": "Comenzar de Cero",
+      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Incontenible Es Tu Amor",
         "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 333217,
       "name": "El Gran Yo Soy feat. Omar Rodr\u00edguez Music",
       "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Comenzar de Cero",
-        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "Comenzar de Cero",
-      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "El Dios de Lo Extraordinario",
         "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 260000,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/24FnAqLXfjdlUMv2gB4Xxs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Ha Vencido, Ha Triunfado",
+        "url": "https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 361253,
+      "name": "Digno Es El Se\u00f1or",
+      "url": "https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 238710,
       "name": "Yo Soy As\u00ed",
       "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Ha Vencido, Ha Triunfado",
-        "url": "https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 361253,
-      "name": "Digno Es El Se\u00f1or",
-      "url": "https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
       "artists": [
         {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 212523,
-      "name": "Cerca Est\u00e1s",
-      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
         }
       ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
+      "duration_ms": 212523,
+      "name": "Cerca Est\u00e1s",
+      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "A Partir De Hoy",
+        "url": "https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "En El Mar De Tu Gracia",
+      "url": "https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 308253,
       "name": "Abre hoy los cielos (feat. Evan Craft)",
       "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "A Partir De Hoy",
-        "url": "https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "En El Mar De Tu Gracia",
-      "url": "https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L"
     },
     {
       "added_at": "2021-05-21 19:19:27",

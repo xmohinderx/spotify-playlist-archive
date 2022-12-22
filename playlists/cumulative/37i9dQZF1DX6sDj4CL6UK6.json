@@ -412,6 +412,28 @@
     },
     {
       "album": {
+        "name": "Christmas Without You",
+        "url": "https://open.spotify.com/album/5ufq3FV3Uxrl800LPG3ba8"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Merchant",
+          "url": "https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/688W2i53mwx90PvfsCxW29"
+    },
+    {
+      "album": {
         "name": "Cold Cold Night",
         "url": "https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X"
       },

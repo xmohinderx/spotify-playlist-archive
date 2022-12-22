@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 41538,
+  "num_followers": 41576,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMDcwYjZlYWI0ZGRjZTA2OTJhMzhkNGI3N2ViOGM4ZjBj",
+  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMGE5OGFkMmI4ZDg0YjY5YmI1MmRiNzlhZTViOGNiYjBk",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Moroccan Spring (Live)",
-        "url": "https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
-          "name": "Chalaban",
-          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
         }
       ],
-      "duration_ms": 343840,
-      "name": "Chalaban - Live",
-      "url": "https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f"
+      "duration_ms": 193693,
+      "name": "Boulila",
+      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Amida Boussou",
-          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Boulila",
-      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Jah Gnawi",
         "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 353811,
       "name": "Gnawi Baba Mimoun - Jan Rase Remix",
       "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Moroccan Spring (Live)",
+        "url": "https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl"
+      },
+      "artists": [
+        {
+          "name": "Chalaban",
+          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
+        }
+      ],
+      "duration_ms": 343840,
+      "name": "Chalaban - Live",
+      "url": "https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Makenba",
-        "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
-      },
-      "artists": [
-        {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
-        }
-      ],
-      "duration_ms": 474186,
-      "name": "Ali ya ali",
-      "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Jah Gnawi",
         "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 245097,
       "name": "Lalla Mira - Jan Rase Remix",
       "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Makenba",
+        "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
+      },
+      "artists": [
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        }
+      ],
+      "duration_ms": 474186,
+      "name": "Ali ya ali",
+      "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -751,38 +751,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Djaza\u00efr Johara",
-        "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
-      },
-      "artists": [
-        {
-          "name": "Hasna el Becharia",
-          "url": "https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f"
-        }
-      ],
-      "duration_ms": 318333,
-      "name": "Bouri Bouri Manandabo",
-      "url": "https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 323615,
-      "name": "Bangara",
-      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Oulad Lghaba",
         "url": "https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN"
       },
@@ -803,18 +771,34 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
       },
       "artists": [
         {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 292520,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
+      "duration_ms": 323615,
+      "name": "Bangara",
+      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Djaza\u00efr Johara",
+        "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
+      },
+      "artists": [
+        {
+          "name": "Hasna el Becharia",
+          "url": "https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f"
+        }
+      ],
+      "duration_ms": 318333,
+      "name": "Bouri Bouri Manandabo",
+      "url": "https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -851,6 +835,22 @@
       "duration_ms": 550106,
       "name": "Marhba / Gnawa Sidi Mimoun",
       "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+        }
+      ],
+      "duration_ms": 292520,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
     },
     {
       "added_at": "2022-03-10 07:10:03",

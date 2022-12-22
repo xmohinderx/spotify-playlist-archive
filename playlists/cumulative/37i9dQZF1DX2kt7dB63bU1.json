@@ -8756,6 +8756,36 @@
     },
     {
       "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/73zTO1ukuSgq4ucOgqArVK"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Lounge",
+          "url": "https://open.spotify.com/artist/7kXhE91qzHxcmDP4UxM7oz"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "BAUN",
+          "url": "https://open.spotify.com/artist/1BF7y5gtjf0hGnTajOTR2v"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286559,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/1inkgJ6fVHgpc6Goz2R7hA"
+    },
+    {
+      "album": {
         "name": "The Shadow of Your Smile",
         "url": "https://open.spotify.com/album/2roTc7QXNI67bUrhSOfC6f"
       },
@@ -10111,7 +10141,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 283377,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"

@@ -1,12 +1,12 @@
 {
   "description": "Mientras la gente no deje de aplaudir, Chente no deja de cantar. Por siempre, Vicente Fern\u00e1ndez.",
-  "num_followers": 817736,
+  "num_followers": 817944,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgyNTI0NSwwMDAwMDAwMGRhMjA5NzliZmFiZjVlYjcyN2VmMGFkYjA0YWZiZDcz",
+  "snapshot_id": "MTY3MDgyNTI0NSwwMDAwMDAwMDg5MWE3YmFiNDZhZWI0MGRmZTcxOWI5ODYwYjNlYTlh",
   "tracks": [
     {
       "added_at": "2022-12-09 16:26:52",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-09 16:26:52",
       "album": {
-        "name": "De Que Manera Te Olvido",
-        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs"
-    },
-    {
-      "added_at": "2022-12-09 16:26:52",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 172560,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
+    },
+    {
+      "added_at": "2022-12-09 16:26:52",
+      "album": {
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs"
     },
     {
       "added_at": "2022-12-09 16:26:52",

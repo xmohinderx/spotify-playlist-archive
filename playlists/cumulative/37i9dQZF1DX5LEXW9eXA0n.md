@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: 4FIRE\(WSG Wannabe\)\) \(당신의 감성에 발라드, 려요\)
 
-625 songs - 1 day 16 hr 37 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+627 songs - 1 day 16 hr 44 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Lonely night](https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:35 | 2021-12-23 | 2022-06-30 |
 | [Lonely Night](https://open.spotify.com/track/35q0DyRH5bIXDoFGWJBjmC) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6KH2bpNterP9Xfe65uDdLT) | 4:02 | 2021-12-20 | 2022-07-08 |
 | [Lonely Sailing](https://open.spotify.com/track/1L10uVWyG4ZuAMksnXJDk3) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [The World of the Married, Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3UMljJKEPzNPDB5y1uioo5) | 4:41 | 2022-03-29 | 2022-04-07 |
+| [Lonely way back home](https://open.spotify.com/track/3edsDNPzvnS7Pr3DyJRLSo) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Lonely way back home](https://open.spotify.com/album/4NDH33cswMmKgVoW7Q4Ou0) | 3:54 | 2022-12-21 |  |
 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-12 |  |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-05-25 |
 | [Love Alone](https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Love Alone \(CURTAIN CALL OST Part.6\)](https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4) | 3:27 | 2022-11-22 |  |
@@ -586,6 +587,7 @@
 | [Will I be able to love again?](https://open.spotify.com/track/6plPoVDY8WZqG0HHc7lXfq) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Will I be able to love again?](https://open.spotify.com/album/08Yq9DdLCdxymYMKhqqvGN) | 4:04 | 2022-07-07 | 2022-07-27 |
 | [Willow Tree](https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B) | 4:39 | 2022-09-05 |  |
 | [Winter Poem](https://open.spotify.com/track/1WIoLsx3aZ83yAJn76vwLD) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6) | [W](https://open.spotify.com/album/2xTWhqmw4ulmDTMgQC97Jc) | 2:39 | 2021-12-23 | 2022-01-21 |
+| [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2022-12-21 |  |
 | [Wish I could tell you](https://open.spotify.com/track/38kJ3LV1n9dIBfs1hFksAI) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Wish I could tell you](https://open.spotify.com/album/1O02PUbV0l0kfpzcodoCNe) | 3:54 | 2022-11-28 |  |
 | [With and Without You](https://open.spotify.com/track/5E8LKTFF9UpIiuyq1O1vJn) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [With and Without You](https://open.spotify.com/album/1Ixz7I4AEGQ1zJhrGbJr7x) | 3:51 | 2022-03-24 | 2022-04-19 |
 | [With My Tears](https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0pYCXVuGMKDRCrN05doHXA) | 4:13 | 2021-12-20 | 2022-07-08 |

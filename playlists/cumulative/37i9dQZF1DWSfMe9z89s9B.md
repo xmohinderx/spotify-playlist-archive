@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Masego
 
-699 songs - 1 day 13 hr 44 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+700 songs - 1 day 13 hr 48 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Call the Bluff](https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [Call the Bluff](https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv) | 2:59 | 2022-12-02 |  |
 | [call waiting](https://open.spotify.com/track/7qUsTlk0PuRtkA3daJTMWf) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [On A Virgo Mind](https://open.spotify.com/album/09Uyj0lcbXUL2FzIiA3NSE) | 2:50 | 2021-08-13 | 2022-07-29 |
 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 | 2022-04-01 | 2022-04-15 |
+| [can't fight the devil](https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 3:29 | 2022-12-16 |  |
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2022-04-01 | 2022-04-12 |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2022-06-10 | 2022-07-30 |
 | [Candy Drip](https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candy Drip](https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV) | 4:39 | 2021-12-10 | 2022-07-23 |
@@ -673,7 +674,7 @@
 | [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-11 | 2022-11-19 |
 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 | 2021-03-19 | 2022-07-01 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-01 | 2022-08-09 |
-| [whelmed](https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [allthefeels](https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2) | 4:08 | 2022-07-15 |  |
+| [whelmed](https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [allthefeels](https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2) | 4:08 | 2022-07-15 | 2022-12-22 |
 | [Whiteclaw](https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:47 | 2022-08-19 | 2022-11-05 |
 | [Who I Gotta Be](https://open.spotify.com/track/5pw8GzT56mdgDbQL25PqL6) | [oddCouple](https://open.spotify.com/artist/4SNPCk41ou9AgQeMBIEZqi), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Who I Gotta Be](https://open.spotify.com/album/0ew1GBGpp9n8rfliV3g6Pn) | 4:00 | 2021-06-04 | 2022-01-27 |
 | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/track/2IM8UcsHElXjQkkhlOuODo) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/album/0zHwMqEuRB7AbVFoZ57RW3) | 3:30 | 2022-07-15 | 2022-12-03 |

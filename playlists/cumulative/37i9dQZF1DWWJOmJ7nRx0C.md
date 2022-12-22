@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: †††
 
-592 songs - 1 day 11 hr 35 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+593 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-04-08 | 2022-05-07 |
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2021-09-10 | 2022-02-26 |
 | [Kingdom](https://open.spotify.com/track/3lecNIKPdDJoJngGhemome) | [Charlie Scene](https://open.spotify.com/artist/1NYRkiWuB3Hx3lT9O6D2JN) | [Kingdom](https://open.spotify.com/album/5JRSgrS54yE6ZMBHskYULB) | 2:57 | 2021-09-24 | 2022-06-11 |
+| [Kryptonite \(Reloaded\)](https://open.spotify.com/track/2VMs3LPD0pKKD3z55ZmnVH) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Kryptonite \(Reloaded\)](https://open.spotify.com/album/0G2SRdxswmTnAehBCW0zqU) | 2:37 | 2022-12-21 |  |
 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 | 2022-02-25 | 2022-09-24 |
 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 | 2021-10-22 | 2022-05-14 |
 | [Last Man Standing](https://open.spotify.com/track/2wf0dt4xapeHtfUyizyQqQ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:27 | 2022-06-10 | 2022-08-13 |

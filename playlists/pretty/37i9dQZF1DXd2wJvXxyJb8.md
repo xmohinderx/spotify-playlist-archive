@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > só os que venceram na batalha de dança TUBARÃO TE AMO FALCÃO TE AMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,633 likes - 66 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,784 likes - 66 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 6 | [Na Rebolada](https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Thamirys](https://open.spotify.com/artist/3P1msOpSX2q616eW8UewYU) | [Na Rebolada](https://open.spotify.com/album/5BFgoR7RFXpcH5pHQBPu7x) | 1:51 |
 | 7 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
 | 8 | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/track/0E0OENqh3jaZ4VpDFTOLGj) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw), [CLUB DA DZ7](https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql) | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/album/3lPLg51Y7BDPRB4n8pLnNC) | 2:38 |
-| 9 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 |
+| 9 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 |
 | 10 | [Meca Cereja](https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meca Cereja](https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC) | 3:54 |
 | 11 | [A Coleção](https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi) | [OUHBOY JUA](https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ) | [A Coleção](https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e) | 1:51 |
 | 12 | [Agudo Mágico 3](https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Dj TG Beats](https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh), [Dj Aurélio](https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Agudo Mágico 3](https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD) | 2:56 |

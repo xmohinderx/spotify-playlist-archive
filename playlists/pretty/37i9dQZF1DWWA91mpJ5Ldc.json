@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 106376,
+  "num_followers": 106442,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MzIwNiwwMDAwMDAwMGE3NzdmNmRmNjFlNWQ5OWQ0YTcwYjFlNTJmZjQ0YzBj",
+  "snapshot_id": "MTY3MDU2MzIwNiwwMDAwMDAwMGYzNzRkNzM0ODhlYmVlYjdiYzBkMDIzMDM5NWFhMWRh",
   "tracks": [
     {
       "added_at": "2022-12-06 13:51:14",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Cansar De Dan\u00e7ar",
-        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "Cansar De Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
-    },
-    {
-      "added_at": "2022-12-06 13:51:14",
-      "album": {
         "name": "Cinco",
         "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 244386,
       "name": "Te amar \u00e9 massa demais",
       "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
+    },
+    {
+      "added_at": "2022-12-06 13:51:14",
+      "album": {
+        "name": "Cansar De Dan\u00e7ar",
+        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "Cansar De Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Fiz Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        }
-      ],
-      "duration_ms": 192222,
-      "name": "Fiz Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
-    },
-    {
-      "added_at": "2022-12-06 13:51:14",
-      "album": {
         "name": "Servi\u00e7o",
         "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 183013,
       "name": "C\u00e9u da Boca",
       "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
+    },
+    {
+      "added_at": "2022-12-06 13:51:14",
+      "album": {
+        "name": "Fiz Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
+        }
+      ],
+      "duration_ms": 192222,
+      "name": "Fiz Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
+      "added_at": "2022-12-22 00:15:59",
+      "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
+    },
+    {
       "added_at": "2022-12-06 13:51:14",
       "album": {
         "name": "Me Toca",
@@ -595,22 +611,6 @@
       "duration_ms": 186042,
       "name": "Me Toca",
       "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
-    },
-    {
-      "added_at": "2022-12-21 00:04:04",
-      "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -647,22 +647,18 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Areia Fina",
-        "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
       },
       "artists": [
         {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Areia Fina",
-      "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -683,18 +679,22 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
+        "name": "Areia Fina",
+        "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
       "artists": [
         {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
+      "duration_ms": 211200,
+      "name": "Areia Fina",
+      "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
-    },
-    {
-      "added_at": "2022-12-06 13:51:14",
-      "album": {
         "name": "C\u00e9u Lil\u00e1s - Na Estrada",
         "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
       },
       "artists": [
         {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 269061,
-      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -839,6 +823,22 @@
       "duration_ms": 244363,
       "name": "Moqueca",
       "url": "https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU"
+    },
+    {
+      "added_at": "2022-12-06 13:51:14",
+      "album": {
+        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 269061,
+      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 265557,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     }
   ],
   "unique_name": "Cozinhando em Casa",

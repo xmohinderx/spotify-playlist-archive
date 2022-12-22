@@ -4,12 +4,13 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Matheus & Kauan
 
-109 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+110 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 | 2022-08-05 |  |
 | [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 | 2022-05-14 |
+| [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 | 2022-12-21 |  |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 | 2021-12-31 | 2022-08-23 |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-02-11 |  |
 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 | 2022-05-20 |  |
@@ -80,7 +81,7 @@
 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2021-12-31 | 2022-03-18 |
 | [Motel Afrodite](https://open.spotify.com/track/2Rlde4R776iKtqODzVhMEM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Motel Afrodite](https://open.spotify.com/album/5NbuHCJlpaeH6g0h1ahYDj) | 2:50 | 2021-12-31 | 2022-05-28 |
 | [Média Boa \- Ao Vivo](https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Média Boa \(Ao Vivo\)](https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj) | 2:28 | 2022-11-10 |  |
-| [Namorando Com Saudade](https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:54 | 2021-12-31 |  |
+| [Namorando Com Saudade](https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:54 | 2021-12-31 | 2022-12-22 |
 | [Nem Namorado e Nem Ficante \- Ao Vivo \| Faixa Bônus](https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Brasília \(Deluxe\)](https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc) | 2:46 | 2022-06-03 |  |
 | [Nota de Repúdio \- Ao Vivo](https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Nota de Repúdio \(Ao Vivo\)](https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0) | 2:44 | 2021-12-31 | 2022-06-04 |
 | [Não Me Arranha \- Ao Vivo](https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs) | 2:39 | 2021-12-31 | 2022-07-16 |

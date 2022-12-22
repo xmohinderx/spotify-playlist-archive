@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273162,
+  "num_followers": 273153,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMGFjMmY1YzYyZDAzYjUxZjRmNTQwYmEzM2M4OGQxYTJj",
+  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMDNiNWI1YTljYzkyMWUwZTU2NjJmYTk1ZWM3YmVjNmRi",
   "tracks": [
     {
       "added_at": "2022-09-30 14:01:12",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "All That Really Matters (Stripped Version)",
         "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 198568,
       "name": "All That Really Matters - Stripped Version",
       "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "More Than You Know (Acoustic)",
-        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "More Than You Know - Acoustic",
-      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Where Are \u00dc Now Live (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 216339,
       "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "I Wish (feat. Mabel) [Acoustic]",
-        "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
+        "name": "Moon Faces (Acoustic Journey)",
+        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 184000,
-      "name": "I Wish (feat. Mabel) - Acoustic",
-      "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1591,22 +1591,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Moon Faces (Acoustic Journey)",
-        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
+        "name": "I Wish (feat. Mabel) [Acoustic]",
+        "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
       },
       "artists": [
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
+      "duration_ms": 184000,
+      "name": "I Wish (feat. Mabel) - Acoustic",
+      "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Melody (Acoustic)",
-        "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "Melody - Acoustic",
-      "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Crazy (Remixes - Pt. 1)",
         "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 171743,
       "name": "Crazy - Acoustic Version",
       "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Melody (Acoustic)",
+        "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "Melody - Acoustic",
+      "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
     },
     {
       "added_at": "2022-09-30 14:01:12",

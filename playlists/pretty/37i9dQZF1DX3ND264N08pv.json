@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 28982,
+  "num_followers": 29056,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMGFhYjgyYzBiZGVhYjE2OWUwZjNiNzA2MTdmNTBiNzQx",
+  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMDUwODUwNmU1YjVhNmM3MzJmNzQ3ZjdlYTAzZjVmMzQ2",
   "tracks": [
     {
       "added_at": "2022-12-15 23:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "duration_ms": 144035,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Cannibal (Radical Redemption Remix)",
         "url": "https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 187336,
       "name": "Cannibal - Radical Redemption Remix",
       "url": "https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Hypnosis",
-        "url": "https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX"
-      },
-      "artists": [
-        {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
-        }
-      ],
-      "duration_ms": 144035,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Imma Boss (Fraw Remix)",
-        "url": "https://open.spotify.com/album/3gdqhH9e1BGLvtsjhJp4fl"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "Fraw",
-          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
-        }
-      ],
-      "duration_ms": 161048,
-      "name": "Imma Boss - Fraw Remix",
-      "url": "https://open.spotify.com/track/0pKujVFb0bAPeCorHRkEjG"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Cryexgenic",
         "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 223215,
       "name": "Cryexgenic",
       "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Imma Boss (Fraw Remix)",
+        "url": "https://open.spotify.com/album/3gdqhH9e1BGLvtsjhJp4fl"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        }
+      ],
+      "duration_ms": 161048,
+      "name": "Imma Boss - Fraw Remix",
+      "url": "https://open.spotify.com/track/0pKujVFb0bAPeCorHRkEjG"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "NO MONEY",
         "url": "https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 201014,
       "name": "NO MONEY",
       "url": "https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "DEQUINOX 100",
+        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "DEQUINOX 100",
+      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Double D",
         "url": "https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 174857,
       "name": "Crazy, Like Me!",
       "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "DEQUINOX 100",
-        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "DEQUINOX 100",
-      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 168101,
       "name": "LOSE STRESS",
       "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1567,6 +1567,46 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "The Sound Flow",
+        "url": "https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        },
+        {
+          "name": "Promo",
+          "url": "https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq"
+        }
+      ],
+      "duration_ms": 265945,
+      "name": "The Sound Flow",
+      "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Omega (Live Edit)",
+        "url": "https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo"
+      },
+      "artists": [
+        {
+          "name": "Ncrypta",
+          "url": "https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6"
+        },
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        }
+      ],
+      "duration_ms": 211503,
+      "name": "Omega - Live Edit",
+      "url": "https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Demonic Rage",
         "url": "https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w"
       },
@@ -1591,26 +1631,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "The Sound Flow",
-        "url": "https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        },
-        {
-          "name": "Promo",
-          "url": "https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq"
-        }
-      ],
-      "duration_ms": 265945,
-      "name": "The Sound Flow",
-      "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Locked Up",
         "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Omega (Live Edit)",
-        "url": "https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo"
-      },
-      "artists": [
-        {
-          "name": "Ncrypta",
-          "url": "https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6"
-        },
-        {
-          "name": "Fraw",
-          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
-        }
-      ],
-      "duration_ms": 211503,
-      "name": "Omega - Live Edit",
-      "url": "https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1683,26 +1683,6 @@
       "duration_ms": 177166,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Sick And Tired",
-        "url": "https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
-        }
-      ],
-      "duration_ms": 192315,
-      "name": "Sick And Tired",
-      "url": "https://open.spotify.com/track/1K13dIVI2xSsqZQlPuKvq2"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1791,6 +1771,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Sick And Tired",
+        "url": "https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "duration_ms": 192315,
+      "name": "Sick And Tired",
+      "url": "https://open.spotify.com/track/1K13dIVI2xSsqZQlPuKvq2"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
       },
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/3HRodgTtyTaMaXqMFIKWsh"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 227294,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "You Ain't Telling Me Shit",
         "url": "https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 174000,
       "name": "You Ain't Telling Me Shit",
       "url": "https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "The Hood",
-        "url": "https://open.spotify.com/album/35NlVrFFOodmyJ9EWrCL94"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "The Hood",
-      "url": "https://open.spotify.com/track/2fHSUYkVn1dBWeqE2fY3rQ"
     }
   ],
   "unique_name": "Hardcore Rage",

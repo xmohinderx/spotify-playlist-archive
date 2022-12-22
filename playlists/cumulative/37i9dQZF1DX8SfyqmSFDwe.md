@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-237 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
+238 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Gata Gangster](https://open.spotify.com/track/0vpEg6cBXfG0PZXRSKZ4bE) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Los Homerun\-es](https://open.spotify.com/album/0TmvUiHKnPR8tOyU6giI3V) | 3:39 | 2022-04-05 | 2022-04-20 |
 | [Ginza \- Remix](https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Alejandro "Mosty" Patiño](https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258) | [Ginza \(Remix\)](https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ) | 6:13 | 2022-01-24 |  |
 | [Girl](https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:06 | 2021-12-09 | 2022-09-16 |
-| [Guasa, Guasa](https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:00 | 2022-04-05 |  |
+| [Guasa, Guasa](https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:00 | 2022-04-05 | 2022-12-22 |
 | [Guayale el Mahon](https://open.spotify.com/track/4D1daFGv2qHOTQvfrVlgbp) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mi Vida…My Life](https://open.spotify.com/album/0y7oxuXXNYU62jnrvutSSm) | 2:26 | 2022-04-05 | 2022-04-20 |
 | [Hasta el Amanecer](https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:18 | 2021-12-09 |  |
 | [Hasta Que Se Seque el Malecon](https://open.spotify.com/track/1YZcVj2DS28xK00k5U7YqT) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [El Inmortal](https://open.spotify.com/album/2yXJ2OshmSbAXp2L9ebgtz) | 3:09 | 2022-04-05 | 2022-04-18 |
@@ -244,6 +244,7 @@
 | [Yo no Soy Tu Marido](https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Kilates 2](https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL) | 3:21 | 2022-07-01 | 2022-11-13 |
 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 | 2021-12-09 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2021-12-09 |  |
+| [¿por Que Te Demoras?](https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-12-07 |  |
 | [¿Por Que Te Demoras?](https://open.spotify.com/track/6nAlJuLlRlpAcq30xIqKJs) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-09-15 | 2022-12-01 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199948,
+  "num_followers": 199953,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDQxZjQ2MTNlYzI4MzMzNzE4YWVmNjNiZWJmNGE0NzVk",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMGIzOGE2MDM2OThiMGM1M2I5ZTU2OWNiNDA1MjFiOTU1",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW"
+        "name": "Gol de Caszely",
+        "url": "https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj"
       },
       "artists": [
         {
-          "name": "Frank's White Canvas",
-          "url": "https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i"
+          "name": "Daniel Guerrero",
+          "url": "https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma"
         }
       ],
-      "duration_ms": 255484,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s"
+      "duration_ms": 228741,
+      "name": "Gol de Caszely",
+      "url": "https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Gol de Caszely",
-        "url": "https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW"
       },
       "artists": [
         {
-          "name": "Daniel Guerrero",
-          "url": "https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma"
+          "name": "Frank's White Canvas",
+          "url": "https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i"
         }
       ],
-      "duration_ms": 228741,
-      "name": "Gol de Caszely",
-      "url": "https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj"
+      "duration_ms": 255484,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Carne (En vivo)",
-        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Claudio Valenzuela",
-          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
-        }
-      ],
-      "duration_ms": 359233,
-      "name": "Carne - En Vivo",
-      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Madre Coraz\u00f3n de \u00c1tomo",
         "url": "https://open.spotify.com/album/5NIxNiU2TPC2bgjbJSyddE"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 232500,
       "name": "Madre Coraz\u00f3n de \u00c1tomo",
       "url": "https://open.spotify.com/track/3PSJCQuRCeowzPFRCVePsO"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Carne (En vivo)",
+        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Claudio Valenzuela",
+          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Carne - En Vivo",
+      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 277849,
-      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Libido",
         "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 175114,
       "name": "Libido",
       "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 277849,
+      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Autoda\u00f1o",
-        "url": "https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1al Natural",
-          "url": "https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5"
-        }
-      ],
-      "duration_ms": 189448,
-      "name": "Autoda\u00f1o",
-      "url": "https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/0UmnKHtvruemxAzyiGpiuj"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Autoda\u00f1o",
+        "url": "https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1al Natural",
+          "url": "https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5"
+        }
+      ],
+      "duration_ms": 189448,
+      "name": "Autoda\u00f1o",
+      "url": "https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Las Balas",
         "url": "https://open.spotify.com/album/6RQrXELYuwBV5kLVqzoez8"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 229829,
       "name": "Las Balas",
       "url": "https://open.spotify.com/track/3XTUDJ6KL5UMBLyKVDoL0Q"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Loumania",
-        "url": "https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8"
-      },
-      "artists": [
-        {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Bichos / Vicious",
-      "url": "https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Loumania",
+        "url": "https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8"
+      },
+      "artists": [
+        {
+          "name": "Perrosky",
+          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Bichos / Vicious",
+      "url": "https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Como te amo (Radio Edit)",
         "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 176471,
       "name": "Como te amo - Radio Edit",
       "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Voy Saliendo",
+        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 196336,
+      "name": "Voy Saliendo",
+      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 231403,
       "name": "Fuerzas Que Retroceden",
       "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Voy Saliendo",
-        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 196336,
-      "name": "Voy Saliendo",
-      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 266642,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "El \u00daltimo Hombre",
         "url": "https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Mar\u00eda Luc\u00eda (Live)",
-        "url": "https://open.spotify.com/album/5em6cQH7GLLUhOtSLkIN8T"
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
       },
       "artists": [
         {
-          "name": "Ignacio Arocena",
-          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 315475,
-      "name": "Mar\u00eda Luc\u00eda - Live",
-      "url": "https://open.spotify.com/track/1PRs9Gh428DviHvAiH70Ma"
+      "duration_ms": 266642,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Una Vez Mas",
-        "url": "https://open.spotify.com/album/18JA74xCkntmJ6NSs6jRAF"
+        "name": "Mar\u00eda Luc\u00eda (Live)",
+        "url": "https://open.spotify.com/album/5em6cQH7GLLUhOtSLkIN8T"
       },
       "artists": [
         {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+          "name": "Ignacio Arocena",
+          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
         }
       ],
-      "duration_ms": 221723,
-      "name": "Una Vez Mas",
-      "url": "https://open.spotify.com/track/5OQ8yGmz8V3McEoInZPmBC"
+      "duration_ms": 315475,
+      "name": "Mar\u00eda Luc\u00eda - Live",
+      "url": "https://open.spotify.com/track/1PRs9Gh428DviHvAiH70Ma"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 219286,
       "name": "Camino Hacia el Sol",
       "url": "https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Una Vez Mas",
+        "url": "https://open.spotify.com/album/18JA74xCkntmJ6NSs6jRAF"
+      },
+      "artists": [
+        {
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+        }
+      ],
+      "duration_ms": 221723,
+      "name": "Una Vez Mas",
+      "url": "https://open.spotify.com/track/5OQ8yGmz8V3McEoInZPmBC"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Y Es Verdad",
-        "url": "https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z"
-      },
-      "artists": [
-        {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
-        }
-      ],
-      "duration_ms": 220236,
-      "name": "Y Es Verdad",
-      "url": "https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Sofrito",
         "url": "https://open.spotify.com/album/5TH4Gp9Zne4iSgbhPu4Lgh"
       },
@@ -1635,22 +1619,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "El Inquieto Alarido del Pinganilla Subversivo",
-        "url": "https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL"
-      },
-      "artists": [
-        {
-          "name": "Chicanota",
-          "url": "https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Shina Blues",
-      "url": "https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Le\u00f3n",
         "url": "https://open.spotify.com/album/0g5yUK56Za7kEZBQ9HcEYs"
       },
@@ -1663,6 +1631,38 @@
       "duration_ms": 181968,
       "name": "Le\u00f3n",
       "url": "https://open.spotify.com/track/0zwGBLvZJejp7C1wZbI1je"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Y Es Verdad",
+        "url": "https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z"
+      },
+      "artists": [
+        {
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+        }
+      ],
+      "duration_ms": 220236,
+      "name": "Y Es Verdad",
+      "url": "https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "El Inquieto Alarido del Pinganilla Subversivo",
+        "url": "https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL"
+      },
+      "artists": [
+        {
+          "name": "Chicanota",
+          "url": "https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Shina Blues",
+      "url": "https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi"
     },
     {
       "added_at": "2022-12-16 03:00:00",

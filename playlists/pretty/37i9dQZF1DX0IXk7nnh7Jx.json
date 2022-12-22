@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43395,
+  "num_followers": 43398,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDg3MjA4MjcyZmQ3OGI5ZTMyNzg4NDcwMzVjNTAxMWE1",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGQzZjUyMjY5Y2NiNDc0OGY0YmQ5YmZkYmIxNzZhZDQ2",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -283,26 +283,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "L E P E R S",
-        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        },
-        {
-          "name": "Atmos One",
-          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
-        }
-      ],
-      "duration_ms": 250555,
-      "name": "L E P E R S",
-      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "L E P E R S",
+        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        },
+        {
+          "name": "Atmos One",
+          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
+        }
+      ],
+      "duration_ms": 250555,
+      "name": "L E P E R S",
+      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -375,22 +375,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
-      },
-      "artists": [
-        {
-          "name": "Jared Marc",
-          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Avalanche - Piano Version",
-      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Find My Home",
         "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 260173,
       "name": "Find My Home",
       "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Light of Your Grace",
-        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "Light of Your Grace",
-      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Worth It All",
         "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 217675,
       "name": "Worth It All",
       "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Light of Your Grace",
+        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 189307,
+      "name": "Light of Your Grace",
+      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL"
-      },
-      "artists": [
-        {
-          "name": "RELIC",
-          "url": "https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 274293,
       "name": "Island",
       "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL"
+      },
+      "artists": [
+        {
+          "name": "RELIC",
+          "url": "https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "The Wait",
         "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Wendigo",
         "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 269560,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "A New Heart",
+        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
+      },
+      "artists": [
+        {
+          "name": "Cory Emery",
+          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
+        }
+      ],
+      "duration_ms": 197462,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -915,22 +931,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
-      },
-      "artists": [
-        {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Take All of Me",
         "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 232506,
       "name": "Take All of Me",
       "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+      },
+      "artists": [
+        {
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -975,22 +991,6 @@
       "duration_ms": 320003,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "A New Heart",
-        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
-      },
-      "artists": [
-        {
-          "name": "Cory Emery",
-          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
-        }
-      ],
-      "duration_ms": 197462,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
     },
     {
       "added_at": "2020-12-18 06:02:14",

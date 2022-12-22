@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 73127,
+  "num_followers": 73136,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDlmMWI4ODJmOGEzODBjNzRlM2U5M2I3MDBjMDFjNzM1",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGVlYzQwMDhmODE2MTc3YjNhOWM1M2JiMmZhMjMzODU2",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1355,30 +1355,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Siw Ta Wem Grog",
-        "url": "https://open.spotify.com/album/1hjgREdbJAR3KeLVHk2N93"
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
       "artists": [
         {
-          "name": "VAC For Real",
-          "url": "https://open.spotify.com/artist/4HIg6IBada7lUE84JDPRxK"
-        },
-        {
-          "name": "TEAM MADADA",
-          "url": "https://open.spotify.com/artist/0ZP8QaePOnmADPNa6Cu89N"
-        },
-        {
-          "name": "Mr Deng",
-          "url": "https://open.spotify.com/artist/6cD9o4yKIjRqAI6Q4U6k5E"
-        },
-        {
-          "name": "Colmix",
-          "url": "https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF"
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
         }
       ],
-      "duration_ms": 235389,
-      "name": "Siw Ta Wem Grog",
-      "url": "https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7"
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1403,18 +1391,30 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+        "name": "Siw Ta Wem Grog",
+        "url": "https://open.spotify.com/album/1hjgREdbJAR3KeLVHk2N93"
       },
       "artists": [
         {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+          "name": "VAC For Real",
+          "url": "https://open.spotify.com/artist/4HIg6IBada7lUE84JDPRxK"
+        },
+        {
+          "name": "TEAM MADADA",
+          "url": "https://open.spotify.com/artist/0ZP8QaePOnmADPNa6Cu89N"
+        },
+        {
+          "name": "Mr Deng",
+          "url": "https://open.spotify.com/artist/6cD9o4yKIjRqAI6Q4U6k5E"
+        },
+        {
+          "name": "Colmix",
+          "url": "https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+      "duration_ms": 235389,
+      "name": "Siw Ta Wem Grog",
+      "url": "https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "K\u00c8M",
-        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "K\u00c8M",
-      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Sil Pa Nou Li Pa Bon",
         "url": "https://open.spotify.com/album/0AZTNwOGb4dKzz5ztcIxPq"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 230374,
       "name": "Sil Pa Nou Li Pa Bon",
       "url": "https://open.spotify.com/track/2cS5AMXcUxR508fCt47jYP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "K\u00c8M",
+        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 165624,
+      "name": "K\u00c8M",
+      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
-      },
-      "artists": [
-        {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 153473,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
-      },
-      "artists": [
-        {
-          "name": "Jamhaitian",
-          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
-        }
-      ],
-      "duration_ms": 192897,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 211000,
       "name": "Destine",
       "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
+      },
+      "artists": [
+        {
+          "name": "Jamhaitian",
+          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
+        }
+      ],
+      "duration_ms": 192897,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
     },
     {
       "added_at": "2022-11-18 05:00:00",

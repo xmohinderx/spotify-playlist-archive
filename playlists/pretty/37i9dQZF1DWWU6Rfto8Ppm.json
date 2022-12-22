@@ -1,15 +1,15 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 1913834,
+  "num_followers": 1917520,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDkzOSwwMDAwMDAwMDc1NDBiMWZhN2MwM2I3ZTY5ZjkzYTFkMThjZGJlNjc5",
+  "snapshot_id": "MTY3MTIxMDkzOSwwMDAwMDAwMGE5M2IwNDI4YzkwM2ZmY2U2OTY4MjM4YjkwYzYyMGZi",
   "tracks": [
     {
-      "added_at": "2022-12-21 00:12:44",
+      "added_at": "2022-12-22 00:11:46",
       "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
         "name": "La Reuni\u00f3n",
         "url": "https://open.spotify.com/album/4S4ueZuml3FELqmy1M9krz"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 303640,
       "name": "Aparentemente",
       "url": "https://open.spotify.com/track/1wYFvhxzKJ8W3B8TM0Ag2k"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
+        "name": "El Talento del Bloque",
+        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 208274,
+      "name": "Nena Fichu",
+      "url": "https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
         "name": "The SexyTrip",
         "url": "https://open.spotify.com/album/524SmS20h9onvTnzLz3TA0"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 257880,
       "name": "Mala Conducta (feat. Franco El Gorila)",
       "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
-        "name": "El Talento del Bloque",
-        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
         }
       ],
-      "duration_ms": 208274,
-      "name": "Nena Fichu",
-      "url": "https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S"
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -1507,6 +1507,26 @@
       "duration_ms": 188733,
       "name": "Siente El Boom",
       "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
+      "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -1563,26 +1583,6 @@
       "duration_ms": 254320,
       "name": "Carita Bonita",
       "url": "https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        },
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
-      "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Sol, Playa Y Arena",
-      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
         "name": "En Honor A La Verdad",
         "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 218130,
       "name": "Solitaria",
       "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Sol, Playa Y Arena",
+      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
         "name": "Fatal Fantassy 3",
         "url": "https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 167026,
       "name": "Te la Tiro Pa Que Bailes",
       "url": "https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 235311,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
-        "name": "El Pat\u00e1n",
-        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Daga Adicta",
-      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 269558,
       "name": "los Disicipulos",
       "url": "https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
+        "name": "El Pat\u00e1n",
+        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Daga Adicta",
+      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -2563,6 +2563,22 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
+      },
+      "artists": [
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -2631,18 +2647,18 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
+        "name": "The Royalty",
+        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
       },
       "artists": [
         {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
+      "duration_ms": 189506,
+      "name": "Tuve un Sueno",
+      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -2659,22 +2675,6 @@
       "duration_ms": 155413,
       "name": "Me Quiere Besar",
       "url": "https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
-        "name": "The Royalty",
-        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Tuve un Sueno",
-      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -2787,22 +2787,6 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Te Suelto el Pelo",
-      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
         "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
         "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
       },
@@ -2819,6 +2803,22 @@
       "duration_ms": 221413,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
-        "name": "El Que los Puso a Entonar",
-        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
-      },
-      "artists": [
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Te Imagino",
-      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
         "name": "El Fenomeno",
         "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 233840,
       "name": "Enamorado De Ti",
       "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
+        "name": "El Que los Puso a Entonar",
+        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
+      },
+      "artists": [
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -3011,6 +3011,22 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
+        "name": "El Talento del Bloque",
+        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 183196,
+      "name": "Te Ir\u00e9 a Buscar",
+      "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -3039,22 +3055,6 @@
       "duration_ms": 206249,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/3hkvdWmg96e8wEemc9Cm3p"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
-        "name": "El Talento del Bloque",
-        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 183196,
-      "name": "Te Ir\u00e9 a Buscar",
-      "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -3259,6 +3259,22 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 208999,
+      "name": "No S\u00e9 Como Se Llama",
+      "url": "https://open.spotify.com/track/4oFFNRZDaOfNIihHn6aIfN"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -3275,22 +3291,6 @@
       "duration_ms": 223013,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
-        "name": "M\u00e1s Lun\u00e1ticos",
-        "url": "https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 208999,
-      "name": "No S\u00e9 Como Se Llama",
-      "url": "https://open.spotify.com/track/4oFFNRZDaOfNIihHn6aIfN"
     },
     {
       "added_at": "2022-12-07 16:15:15",
@@ -3423,6 +3423,22 @@
     {
       "added_at": "2022-12-07 16:15:15",
       "album": {
+        "name": "Quiero Una Chica",
+        "url": "https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT"
+      },
+      "artists": [
+        {
+          "name": "Latin Dreams",
+          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Quiero una Chica",
+      "url": "https://open.spotify.com/track/3afj5hDroznm9rXBsqY2cg"
+    },
+    {
+      "added_at": "2022-12-07 16:15:15",
+      "album": {
         "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
         "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
       },
@@ -3439,22 +3455,6 @@
       "duration_ms": 186618,
       "name": "Te Hago el Amor",
       "url": "https://open.spotify.com/track/2yhumMKS2cwLdroqgVnZ5P"
-    },
-    {
-      "added_at": "2022-12-07 16:15:15",
-      "album": {
-        "name": "Quiero Una Chica",
-        "url": "https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT"
-      },
-      "artists": [
-        {
-          "name": "Latin Dreams",
-          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Quiero una Chica",
-      "url": "https://open.spotify.com/track/3afj5hDroznm9rXBsqY2cg"
     },
     {
       "added_at": "2022-12-07 16:15:15",

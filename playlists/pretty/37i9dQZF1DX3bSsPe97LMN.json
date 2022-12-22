@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Esteban Gabriel en portada.",
-  "num_followers": 47068,
+  "num_followers": 47104,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDdkYTUyMDAzZDk2NWE2MTliYzYyZTg4YTY5NzQyYWVi",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDhkZjI1MzdjZTA4OTM3YmM2OGU0MWYwZjU1ZmQ3Mzdi",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -357,6 +357,22 @@
       "url": "https://open.spotify.com/track/6XtrbXtnk5GdxPENChXqYH"
     },
     {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Una Copa Por Cada Reina",
+        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+    },
+    {
       "added_at": "2022-11-18 06:00:00",
       "album": {
         "name": "Por Ti - Spotify Singles",
@@ -393,20 +409,20 @@
       "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-11-18 06:00:00",
       "album": {
-        "name": "Una Copa Por Cada Reina",
-        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Lo Siento Mi Amor",
-      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -427,22 +443,6 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
-    },
-    {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
-      "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
-    },
-    {
       "added_at": "2022-11-18 06:00:00",
       "album": {
         "name": "No Me Ense\u00f1aste",
@@ -561,6 +545,22 @@
       "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
+      "added_at": "2022-12-05 23:10:14",
+      "album": {
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Soy Infante",
@@ -575,38 +575,6 @@
       "duration_ms": 154750,
       "name": "Soy Infante",
       "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Gordo Pesado",
-        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Gordo Pesado",
-      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "El Beso De Judas",
-        "url": "https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 186186,
-      "name": "El Beso De Judas",
-      "url": "https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -627,6 +595,38 @@
       "duration_ms": 183501,
       "name": "Manzana en el Mapa",
       "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "El Beso De Judas",
+        "url": "https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 186186,
+      "name": "El Beso De Judas",
+      "url": "https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP"
+    },
+    {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Gordo Pesado",
+        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Gordo Pesado",
+      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/4D501jFb5aOvcXal9CWQ5J"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Me Encantas",
-        "url": "https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 200882,
-      "name": "Me Encantas",
-      "url": "https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Modo Avi\u00f3n",
@@ -823,6 +807,22 @@
       "duration_ms": 211106,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Me Encantas",
+        "url": "https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 200882,
+      "name": "Me Encantas",
+      "url": "https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/0TOsDKRNmnAsyVihPwHwiy"
     },
     {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Tiempos de Guerra 2",
-        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Tiempos de Guerra 2",
-      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Hoodboys",
@@ -971,6 +955,22 @@
       "duration_ms": 190750,
       "name": "Hoodboys",
       "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Tiempos de Guerra 2",
+        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Tiempos de Guerra 2",
+      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1009,24 +1009,20 @@
       "url": "https://open.spotify.com/track/6NQOzi65xjcVERfKrMec9k"
     },
     {
-      "added_at": "2022-11-11 06:00:00",
+      "added_at": "2022-12-05 23:10:14",
       "album": {
-        "name": "Otra Ronda",
-        "url": "https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu"
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
       },
       "artists": [
         {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 225462,
-      "name": "Otra Ronda",
-      "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1045,20 +1041,24 @@
       "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
+      "added_at": "2022-11-11 06:00:00",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+        "name": "Otra Ronda",
+        "url": "https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+      "duration_ms": 225462,
+      "name": "Otra Ronda",
+      "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -1125,6 +1125,26 @@
       "url": "https://open.spotify.com/track/57nfgIlZNskOJezJBPKAEw"
     },
     {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Bajo la Lluv\u00eda",
+        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        },
+        {
+          "name": "Cuadra FL",
+          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
+        }
+      ],
+      "duration_ms": 154017,
+      "name": "Bajo la Lluv\u00eda",
+      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
+    },
+    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "En Cada Trago",
@@ -1171,26 +1191,6 @@
       "duration_ms": 134065,
       "name": "Sue\u00f1o Americano",
       "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Bajo la Lluv\u00eda",
-        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
-      },
-      "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        },
-        {
-          "name": "Cuadra FL",
-          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
-        }
-      ],
-      "duration_ms": 154017,
-      "name": "Bajo la Lluv\u00eda",
-      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
     },
     {
       "added_at": "2022-10-14 05:00:00",

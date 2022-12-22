@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭 / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,653 likes - 59 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,668 likes - 59 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 16 | [tokyo insomnia.](https://open.spotify.com/track/1aFgCBNmrURg7r4QdfUc1l) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER II: TOKYO INSOMNIA](https://open.spotify.com/album/0HKChpTLtiYactwS5T7PAb) | 3:39 |
 | 17 | [17](https://open.spotify.com/track/4y5UUkODpbevMCHrWtLsXw) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [17](https://open.spotify.com/album/4l3yoe3ghzhvn56iH4lT2Q) | 3:22 |
 | 18 | [Radio Star](https://open.spotify.com/track/6sBKJKgBllikmmtVIVWOyN) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/1YwAZ2D2cjHApWSZcAeXON) | 3:02 |
-| 19 | [Something's Wrong](https://open.spotify.com/track/6AXsqlJW6QxA4rt4zmx5LH) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/66ygCCt3KocnFaSjaEkrau) | 3:28 |
+| 19 | [Something's Wrong](https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ) | 3:28 |
 | 20 | [Celebrity Posters](https://open.spotify.com/track/6LC26RwOPputpRH54LeVaM) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Celebrity Posters](https://open.spotify.com/album/6c4o2twxsgWlovXfF6uBUW) | 2:29 |
 | 21 | [Thank you for the Music](https://open.spotify.com/track/12nyWSOSrl7AGTfAshr72k) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [SHIKI](https://open.spotify.com/album/3hG301XBzgG9WMXB9xaC8d) | 5:24 |
 | 22 | [どぎまぎ](https://open.spotify.com/track/27wRgdpVu61YL1LJq5H6dZ) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Branch](https://open.spotify.com/album/6Slv8BDdb7322gk9MghxHb) | 3:35 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 58 | [Mirage](https://open.spotify.com/track/2Vn7TBV3VRhqzwkhb11jiN) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [Mirage](https://open.spotify.com/album/0PIJQrF5wvkoEtqW8ixnyf) | 3:43 |
 | 59 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 |
 
-Snapshot ID: `MTY3MTU0ODQwMCwwMDAwMDAwMDlkMzBiZmZjYWE1ZjEzMmNlNWRhNjE0NzU2ODI0ZTI4`
+Snapshot ID: `MTY3MTU0ODQwMCwwMDAwMDAwMGQ2NWNhODEwODMwYjFiN2IxMTRmYjE5ODdhYjJlY2Uw`

@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 7823,
+  "num_followers": 7923,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGQ0MDM4OTU1NTZlZDA1NWJjNGRmNjA5NmViNWI0YjRk",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDRlOTkzNTRiZTQ1MjA5NDE0MzZmZWExNGJlMTg2Yjky",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "The Restoration Of Chaos & Order",
-        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
-      },
-      "artists": [
-        {
-          "name": "Against All Authority",
-          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "War Machine Breakdown",
-      "url": "https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "The Great Depression",
         "url": "https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 190253,
       "name": "The Wounded World",
       "url": "https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+      },
+      "artists": [
+        {
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "War Machine Breakdown",
+      "url": "https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP"
     },
     {
       "added_at": "2021-01-16 16:36:48",

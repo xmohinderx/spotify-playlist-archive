@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-247 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/2kZ1zZmes8GAXikynt0gqK)
+249 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/2kZ1zZmes8GAXikynt0gqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Himitsu Sentai Gorenger](https://open.spotify.com/track/4zZqHjj23yA06uTyggFPJT) | [Isao Sasaki](https://open.spotify.com/artist/2ATRuUpNh9cQAKBCLoXub8), [Korogi '73](https://open.spotify.com/artist/1vDb8atHic1NmI2Bzbvl63) | [Super Sentai Series: Theme Songs Collection, Vol\. 1](https://open.spotify.com/album/71AwN054jWh3J7SnaTXlSG) | 3:04 | 2022-07-19 |  |
 | [Howling](https://open.spotify.com/track/4VAC43TEP0QUT3bdwdlNAz) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/7BSWQP5UyC3Jb79lHeagpQ) | 4:08 | 2022-06-07 | 2022-06-23 |
 | [IDOLY PRIDE](https://open.spotify.com/track/3uwlaMMgaOSchr5Gzipl0S) | [星見プロダクション](https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7) | [IDOLY PRIDE](https://open.spotify.com/album/4Lj5yWUNByFyBmcd2GlbE8) | 3:38 | 2022-06-07 | 2022-06-23 |
-| [Inner Light \- TV edition](https://open.spotify.com/track/71zqOfJlkGzIBjtHLMNseQ) | [Shocking Lemon](https://open.spotify.com/artist/0xZTwWYmwR47nvglvPM7QT) | [FINAL ROUND 「はじめの一歩」 オリジナル・サウンドトラック](https://open.spotify.com/album/3taWL3ok4f4v1uxX1AvSvM) | 1:23 | 2022-09-27 |  |
+| [Inner Light \(TV Size\)](https://open.spotify.com/track/2wKLGND2EmPJAiEfoccGiL) | [Shocking Lemon](https://open.spotify.com/artist/0xZTwWYmwR47nvglvPM7QT) | [FINAL ROUND“HAJIME NO IPPO: THE FIGHTING!” Original Soundtrack](https://open.spotify.com/album/0Cz55AmlfDAlOCPxVGbJ8j) | 1:23 | 2022-12-21 |  |
+| [Inner Light \- TV edition](https://open.spotify.com/track/71zqOfJlkGzIBjtHLMNseQ) | [Shocking Lemon](https://open.spotify.com/artist/0xZTwWYmwR47nvglvPM7QT) | [FINAL ROUND 「はじめの一歩」 オリジナル・サウンドトラック](https://open.spotify.com/album/3taWL3ok4f4v1uxX1AvSvM) | 1:23 | 2022-09-27 | 2022-12-22 |
 | [irony](https://open.spotify.com/track/4t8qhaNh0L55NBQ7j2pBf7) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [irony](https://open.spotify.com/album/4KVzqHCeNZVdSV8j4PM3np) | 4:19 | 2022-09-14 |  |
 | [kaika](https://open.spotify.com/track/1mHuDqFVDEi5DLFJ0Pyz3d) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [Kaika](https://open.spotify.com/album/1wIsTaFpUqn6QnTf1f1i3G) | 3:34 | 2022-07-19 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-08 |  |
@@ -178,6 +179,7 @@
 | [プライド革命](https://open.spotify.com/track/2UfQ8bejhARFxIOUCScLsD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:55 | 2022-06-07 | 2022-06-23 |
 | [ヘミソフィア](https://open.spotify.com/track/0Zo3N0mkrux2vHfwCRVeOJ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ヘミソフィア](https://open.spotify.com/album/4Rf67sDCf4sh6ptdMliuls) | 4:09 | 2022-12-07 |  |
 | [ペタルズ](https://open.spotify.com/track/5haga6r620YjsPrSvGEpxA) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ペタルズ](https://open.spotify.com/album/2SkT0uHQuGEGjwweAt6JMk) | 4:24 | 2022-06-07 | 2022-06-23 |
+| [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 | 2022-12-21 |  |
 | [ミスター・ダーリン](https://open.spotify.com/track/6FZJ2QrFr1yY1NtcGbQexA) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [ミスター・ダーリン / ギミギミコール \(Complete Edition\)](https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL) | 4:07 | 2022-06-07 | 2022-06-23 |
 | [ミラクルっと♥Link Ring!](https://open.spotify.com/track/7oTZJP8WeEdfrDDeR7bJWU) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [ヒーリングっど♥プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/59ZcL0K687oiqDcORJ2LO2) | 4:07 | 2022-06-07 | 2022-06-23 |
 | [ミラー](https://open.spotify.com/track/5WRjo26QC6RJNaP5PtAVV9) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD) | 2:59 | 2022-08-30 |  |

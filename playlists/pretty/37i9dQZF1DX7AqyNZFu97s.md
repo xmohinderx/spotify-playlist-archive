@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > Introducing the Class of 2022\. Cover: Jaish
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,176 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,177 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 72 | [Dau Fyd](https://open.spotify.com/track/56iNeWBIKXEZZjuRpKBUQO) | [Yws Gwynedd](https://open.spotify.com/artist/14UpMsA1ZvDMZmFknlTOdO) | [Dau Fyd](https://open.spotify.com/album/1rOVUie4TiFTwTBS6Jljis) | 3:02 |
 | 73 | [Go Back in Time](https://open.spotify.com/track/6eVtq3fPJNUY9tlXkNbd5a) | [Kirk Spencer](https://open.spotify.com/artist/3ej0mRP8GFP0h3MXdWKjKh), [Louis Scott](https://open.spotify.com/artist/11Kul5U27fFSKN9vVQnpCk) | [Go Back in Time](https://open.spotify.com/album/4l0MmUrxv1r6bOYQPHXFFv) | 3:26 |
 | 74 | [Back Home](https://open.spotify.com/track/5544ggNo3XcgrOxTvEq7Mq) | [Josh Davies](https://open.spotify.com/artist/4RlAVPfGogv54foLSeFCHN), [Sasha Little](https://open.spotify.com/artist/48Yh9WT0bqRrkpvRwmEx4s) | [Back Home](https://open.spotify.com/album/30IpJxXW4zjXPCaBaYU8Yw) | 4:06 |
-| 75 | [Cruising All Night](https://open.spotify.com/track/1gV6DIbNlj99PH8nPFqv2S) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB), [Luca Santamaria](https://open.spotify.com/artist/32iQsMir6PTunfavutNHBx) | [Cruising All Night](https://open.spotify.com/album/6AOSxOGcBSNR3W3zrA0OcO) | 2:38 |
+| 75 | [Cruising All Night](https://open.spotify.com/track/1gV6DIbNlj99PH8nPFqv2S) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Cruising All Night](https://open.spotify.com/album/6AOSxOGcBSNR3W3zrA0OcO) | 2:38 |
 | 76 | [Second Single Bed](https://open.spotify.com/track/3BehfRcWSWPFZNIZfwMu7I) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Second Single Bed](https://open.spotify.com/album/0z2Aga9gZaBVt2eLqIXD29) | 3:40 |
 | 77 | [Help Me](https://open.spotify.com/track/2VOhM65FMp6Exa49eWbv6f) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Help Me](https://open.spotify.com/album/7BRttwjnjHqjcZ4ww6H17d) | 3:23 |
 | 78 | [No Men](https://open.spotify.com/track/0yWW88YA371XqbNa3inZqp) | [PIE](https://open.spotify.com/artist/66jQGw4oO3q0A8E3FcCZhE) | [No Men](https://open.spotify.com/album/0VvSnaTS67nh74xHGUT8oy) | 3:28 |

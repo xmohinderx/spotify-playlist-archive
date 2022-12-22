@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. WHOKILLEDXIX
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,761 likes - 87 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,768 likes - 87 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hey Big Man](https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:42 |
-| 2 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 |
-| 3 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 |
-| 4 | [ATTENTION!](https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 2:41 |
-| 5 | [DEATHWISH](https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DEATHWISH](https://open.spotify.com/album/3UYh3uBNQeQ5nagIafCnZy) | 2:47 |
-| 6 | [KILL ALL PREDATORS](https://open.spotify.com/track/116m1FqbddR1KEFTw7ZItH) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [KILL ALL PREDATORS](https://open.spotify.com/album/33OtJjrHXYS7cHY7O6NDXn) | 2:05 |
-| 7 | [MISS ME?](https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [MISS ME?](https://open.spotify.com/album/3XhDFR2bBq3EU9A0tGKuH3) | 2:13 |
-| 8 | [arsonists](https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [arsonists](https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw) | 2:30 |
-| 9 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
-| 10 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
-| 11 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 |
-| 12 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
-| 13 | [Happy Kid](https://open.spotify.com/track/0wtKHFtA9WC8if4CMZMqT4) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Happy Kid](https://open.spotify.com/album/16qOzv35W20lADEUlUd2Zl) | 2:22 |
-| 14 | [You've Created a Monster](https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/7ftqRI6pFDYwFZYGARS9wP) | 2:38 |
-| 15 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 |
-| 16 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 |
-| 17 | [welcome to my life](https://open.spotify.com/track/19WPwFCDUPdie3IJhv615s) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [welcome to my life](https://open.spotify.com/album/1KMdePaDf6qQcMiWVSQ62E) | 2:15 |
-| 18 | [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 |
+| 2 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 |
+| 3 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 |
+| 4 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 |
+| 5 | [ATTENTION!](https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 2:41 |
+| 6 | [DEATHWISH](https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DEATHWISH](https://open.spotify.com/album/3UYh3uBNQeQ5nagIafCnZy) | 2:47 |
+| 7 | [KILL ALL PREDATORS](https://open.spotify.com/track/116m1FqbddR1KEFTw7ZItH) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [KILL ALL PREDATORS](https://open.spotify.com/album/33OtJjrHXYS7cHY7O6NDXn) | 2:05 |
+| 8 | [MISS ME?](https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [MISS ME?](https://open.spotify.com/album/3XhDFR2bBq3EU9A0tGKuH3) | 2:13 |
+| 9 | [arsonists](https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [arsonists](https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw) | 2:30 |
+| 10 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
+| 11 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
+| 12 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 |
+| 13 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 14 | [Happy Kid](https://open.spotify.com/track/0wtKHFtA9WC8if4CMZMqT4) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Happy Kid](https://open.spotify.com/album/16qOzv35W20lADEUlUd2Zl) | 2:22 |
+| 15 | [welcome to my life](https://open.spotify.com/track/19WPwFCDUPdie3IJhv615s) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [welcome to my life](https://open.spotify.com/album/1KMdePaDf6qQcMiWVSQ62E) | 2:15 |
+| 16 | [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 |
+| 17 | [You've Created a Monster](https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/7ftqRI6pFDYwFZYGARS9wP) | 2:38 |
+| 18 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 |
 | 19 | [flesh](https://open.spotify.com/track/1BAIlAqftLfHlpvhfgVwrm) | [babychaos](https://open.spotify.com/artist/5sW5suu6saLZkj0anZtZyg) | [flesh](https://open.spotify.com/album/11RxEPz4jDAJZGaHkJ9z6K) | 2:53 |
 | 20 | [SADIST](https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 3:19 |
 | 21 | [WARNING LABEL](https://open.spotify.com/track/57HGmkFTWz7U0iNvKpgxMJ) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [WARNING LABEL](https://open.spotify.com/album/7fCCrAOGRpTjMAmWVkP4JC) | 2:55 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 86 | [SHAME ON ME](https://open.spotify.com/track/79KWjMj9Q3qDylVbCXmSzk) | [Happyalone.](https://open.spotify.com/artist/07cGsRL23DtuPJnawMKACY) | [SHAME ON ME](https://open.spotify.com/album/3GCv5tv7c8ZF23SO8l4ZE5) | 1:44 |
 | 87 | [GBS, XOXO](https://open.spotify.com/track/3nn5LMCjVIxGC1KwSsgCoC) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [MONSTAR](https://open.spotify.com/album/2F8FdkVzAfetGVuBRn8zyJ) | 2:11 |
 
-Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMDAxNzM3ZTFjOTE3ZTEyNDM2MThhZWYwYzA0OGY2ODQ3`
+Snapshot ID: `MTY3MTY2NzIwMCwwMDAwMDAwMGNlYzE0OGRiOWFhNTk2YTg0YWFjZjk1MzE0Y2MwY2Jk`

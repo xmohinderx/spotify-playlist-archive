@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 289203,
+  "num_followers": 289275,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGEyYjE2YmVmZWE3MGIwNTY5MTM4N2VmMDVmNGQxNmI0",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGM0MjFkMzEzODg1NTljNWFhOGU2YmUwNDY5NTU5ZTk2",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264710,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Passion Controller",
         "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 172219,
       "name": "Passion Controller",
       "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264710,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2022-06-20 14:19:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u590f\u5ddd\u690e\u83dc",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u795e\u8c37\u6d69\u53f2 \u24b8Kiramune Project",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "published_playlist_ids": [
     "5RQGiwmI9wGlhuVRQit3UC"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 234000,
       "name": "Adolescence",
       "url": "https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 267880,
       "name": "Deneb and Spica",
       "url": "https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3"
@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Issen Mankai Hug Nanda",
+        "url": "https://open.spotify.com/album/1trzpISQxHdfKvwzTx5zU3"
+      },
+      "artists": [
+        {
+          "name": "DIALOGUE+",
+          "url": "https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264626,
+      "name": "Issen Mankai Hug Nanda",
+      "url": "https://open.spotify.com/track/470YNERPfTa62WU5Kc2KKm"
+    },
+    {
+      "album": {
         "name": "Kikoeru?",
         "url": "https://open.spotify.com/album/2KGp1amvwo7jNaozKVL4bj"
       },
@@ -974,6 +992,24 @@
     },
     {
       "album": {
+        "name": "Love\u221eVision",
+        "url": "https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX"
+      },
+      "artists": [
+        {
+          "name": "Yui Ogura",
+          "url": "https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228680,
+      "name": "Love\u221eVision",
+      "url": "https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH"
+    },
+    {
+      "album": {
         "name": "Mayonakano Love",
         "url": "https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65"
       },
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 235933,
       "name": "Pokerface",
       "url": "https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P"
@@ -1291,7 +1327,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 241426,
       "name": "Starry-eyed Chronicle",
       "url": "https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7"
@@ -1363,7 +1399,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 206173,
       "name": "THE ENTERTAINMENT",
       "url": "https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz"
@@ -2404,6 +2440,24 @@
     },
     {
       "album": {
+        "name": "appside",
+        "url": "https://open.spotify.com/album/4Z4kkAn5NioiF0xl7aCroa"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u8c37\u6d69\u53f2",
+          "url": "https://open.spotify.com/artist/7iYyPaQU75oIHPrsf9EUbu"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219408,
+      "name": "\u5e0c\u671b\u306e\u6e26",
+      "url": "https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg"
+    },
+    {
+      "album": {
         "name": "\u5341bilation (Incomplete Edition)",
         "url": "https://open.spotify.com/album/2aBEfTkvwSg0UclrfEoCsD"
       },
@@ -2458,6 +2512,24 @@
     },
     {
       "album": {
+        "name": "\u9670/\u967d",
+        "url": "https://open.spotify.com/album/3jjCpP3z1nfa8wpUd3O6j3"
+      },
+      "artists": [
+        {
+          "name": "Soma Saito",
+          "url": "https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321666,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/0YRch7aOaE6Q3lE9mQozZZ"
+    },
+    {
+      "album": {
         "name": "\u6c34\u93e1\u306e\u4e16\u754c",
         "url": "https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4"
       },
@@ -2469,7 +2541,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 275680,
       "name": "\u6c34\u93e1\u306e\u4e16\u754c",
       "url": "https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM"
@@ -2602,6 +2674,24 @@
     },
     {
       "album": {
+        "name": "THE ENTERTAINMENT",
+        "url": "https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257545,
+      "name": "\u884c\u3053\u3046!",
+      "url": "https://open.spotify.com/track/7sd91SE4lECAqoDNg4eKKU"
+    },
+    {
+      "album": {
         "name": "\u8f2a\u5efb\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
         "url": "https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq"
       },
@@ -2635,6 +2725,24 @@
       "duration_ms": 250133,
       "name": "\u9063\u3089\u305a\u306e\u96e8",
       "url": "https://open.spotify.com/track/6vQ8WVHugsqwRYxU68mdu8"
+    },
+    {
+      "album": {
+        "name": "\u96c6\u7d50\u306e\u679c\u3066\u306b",
+        "url": "https://open.spotify.com/album/7f3CzXWceuQ4UEoEmXE1Xa"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238762,
+      "name": "\u96c6\u7d50\u306e\u679c\u3066\u306b",
+      "url": "https://open.spotify.com/track/41ChAWF2xtTY27QzeLVpns"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: ROA, Omar Courtz, Bryant Myers, Dei V.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,133 likes - 54 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,165 likes - 54 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

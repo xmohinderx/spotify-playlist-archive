@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  Aaron Cole",
-  "num_followers": 107790,
+  "num_followers": 107804,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDQxM2QxN2VhZWZiZjM5YjU0NzlmYWJiNDVmZDA1NzQw",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGM3MmZhZGVmMmZiYWQ0YjBlZDNjMDIxZDk4Yjk1MmQ2",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/5bbHDe1IwX9SzY2a2vIOZz"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 153064,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/2HDe8vIeHgeAxGfQ9oexrW"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/5bbHDe1IwX9SzY2a2vIOZz"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 153064,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/2HDe8vIeHgeAxGfQ9oexrW"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Chokehold",
-        "url": "https://open.spotify.com/album/7FUSpmEDLyQlhvtDT2v5sE"
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 134123,
-      "name": "Chokehold",
-      "url": "https://open.spotify.com/track/4zSSSXwurah8BSvbKlH5vc"
+      "duration_ms": 100587,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "JUDAS",
-        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/7FUSpmEDLyQlhvtDT2v5sE"
       },
       "artists": [
         {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
         }
       ],
-      "duration_ms": 100587,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+      "duration_ms": 134123,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/4zSSSXwurah8BSvbKlH5vc"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "H O L O G R A P H I C",
-        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "NK4",
-          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
-        }
-      ],
-      "duration_ms": 164886,
-      "name": "Slidin'",
-      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "shadows",
         "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
       },
@@ -1203,62 +1183,6 @@
       "duration_ms": 149200,
       "name": "shadows",
       "url": "https://open.spotify.com/track/0gRbSSByq75AHyZKfyldZc"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "GOD IS THE BEST",
-        "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 179033,
-      "name": "GOD IS THE BEST",
-      "url": "https://open.spotify.com/track/4RUxJBJ786qMifZHVJBaoa"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "HELLO KIZZY & COMPANY",
-        "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
-      },
-      "artists": [
-        {
-          "name": "Not Klyde",
-          "url": "https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "REST",
-      "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        }
-      ],
-      "duration_ms": 172313,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1291,6 +1215,82 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "H O L O G R A P H I C",
+        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "NK4",
+          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
+        }
+      ],
+      "duration_ms": 164886,
+      "name": "Slidin'",
+      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "GOD IS THE BEST",
+        "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 179033,
+      "name": "GOD IS THE BEST",
+      "url": "https://open.spotify.com/track/4RUxJBJ786qMifZHVJBaoa"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "HELLO KIZZY & COMPANY",
+        "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
+      },
+      "artists": [
+        {
+          "name": "Not Klyde",
+          "url": "https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "REST",
+      "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "josiah.",
         "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
       },
@@ -1319,26 +1319,6 @@
       "duration_ms": 162423,
       "name": "Outta Your Way",
       "url": "https://open.spotify.com/track/1YaCdYraH4jOOPlTAbusCG"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "SHINING",
-        "url": "https://open.spotify.com/album/4xXHhKvDWcxLJop14TEv53"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "SHINING",
-      "url": "https://open.spotify.com/track/3Ng0ZXSlo5E1CAgE6AhDhJ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1387,6 +1367,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Grind (feat. Kaleb Mitchell)",
         "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
       },
@@ -1411,18 +1407,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+        "name": "SHINING",
+        "url": "https://open.spotify.com/album/4xXHhKvDWcxLJop14TEv53"
       },
       "artists": [
         {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
         }
       ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+      "duration_ms": 200727,
+      "name": "SHINING",
+      "url": "https://open.spotify.com/track/3Ng0ZXSlo5E1CAgE6AhDhJ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "If I'm honest",
-        "url": "https://open.spotify.com/album/1RIpcD9zLx0NWCdMEq0X79"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "If I'm Honest",
-      "url": "https://open.spotify.com/track/6bMBAXji91RdFWpjihPLUH"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 204119,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+      },
+      "artists": [
+        {
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
-      },
-      "artists": [
-        {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -1551,6 +1535,38 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "If I'm honest",
+        "url": "https://open.spotify.com/album/1RIpcD9zLx0NWCdMEq0X79"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/6bMBAXji91RdFWpjihPLUH"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 216229,
       "name": "LOTTO",
       "url": "https://open.spotify.com/track/0lnc5TZWZTnX97ic9tGhJN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "butterfly vibes 2",
-      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "CEMENT",
-        "url": "https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153495,
-      "name": "CEMENT",
-      "url": "https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "PEACE OF MIND",
         "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "M.I.A",
-        "url": "https://open.spotify.com/album/6TNEfEoTnAGI5z3PNCglnP"
+        "name": "CEMENT",
+        "url": "https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
         }
       ],
-      "duration_ms": 222040,
-      "name": "M.I.A",
-      "url": "https://open.spotify.com/track/0K8B3du7m7vKt7HOVSd6jo"
+      "duration_ms": 153495,
+      "name": "CEMENT",
+      "url": "https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "M.I.A",
+        "url": "https://open.spotify.com/album/6TNEfEoTnAGI5z3PNCglnP"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/0K8B3du7m7vKt7HOVSd6jo"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1763,6 +1763,22 @@
       "duration_ms": 150875,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "duration_ms": 172695,
+      "name": "SET IT OFF",
+      "url": "https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1815,38 +1831,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "PROTECTION",
-        "url": "https://open.spotify.com/album/7Mucz0I1hguprVLvCEKyL4"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 135680,
-      "name": "PROTECTION",
-      "url": "https://open.spotify.com/track/2M6EwbiKTPDHLtgQQR1hBR"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 172695,
-      "name": "SET IT OFF",
-      "url": "https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "THESE DAYS",
         "url": "https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 215725,
       "name": "THESE DAYS",
       "url": "https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "PROTECTION",
+        "url": "https://open.spotify.com/album/7Mucz0I1hguprVLvCEKyL4"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 135680,
+      "name": "PROTECTION",
+      "url": "https://open.spotify.com/track/2M6EwbiKTPDHLtgQQR1hBR"
     },
     {
       "added_at": "2022-11-25 05:00:00",

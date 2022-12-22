@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,318 likes - 67 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,314 likes - 67 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/3S7mzKIQTEsWDPwdrCzrWu), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 |
+| 1 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 |
 | 2 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 |
 | 3 | [I Think I'm Going to Like Today](https://open.spotify.com/track/5rJ5iLWPhWmAO4sjCsLXiY) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such a Good Feeling: The Best of Mister Rogers](https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL) | 1:09 |
 | 4 | [Good Morning](https://open.spotify.com/track/0xHzSnfmVCvc6rOfS2MIxV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:58 |

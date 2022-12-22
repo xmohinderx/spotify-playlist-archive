@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 72406,
+  "num_followers": 72432,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDU0ZWE5YjlhMWJiN2FiYmNlM2JiNWNjMTI4NjYwMzNj",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDRhMzdlYTljYzBiN2Y4MmFiZWRhZDI0ZjgzYmI3MDZh",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "inhibitions (feat. P-Lo)",
         "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Chatter",
-        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
-      },
-      "artists": [
-        {
-          "name": "Jess Connelly",
-          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
-        }
-      ],
-      "duration_ms": 173686,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "I'm a Moth!!",
-        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+        "name": "Chatter",
+        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
       },
       "artists": [
         {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
         }
       ],
-      "duration_ms": 126545,
-      "name": "I'm a Moth!!",
-      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+      "duration_ms": 173686,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
     },
     {
       "added_at": "2022-09-02 04:01:00",

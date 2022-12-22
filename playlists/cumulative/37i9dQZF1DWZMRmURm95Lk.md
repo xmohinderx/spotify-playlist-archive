@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. In cover, Mezzosangue.
 
-245 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
+246 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [L'Anima Giusta](https://open.spotify.com/track/66LvacHJCJWy11UemxShz7) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Riproduzione Vietata](https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0) | 4:13 | 2022-05-05 |  |
 | [L'ELICOTTERO SUL BOSCO](https://open.spotify.com/track/1OLOiaFk7AdHIlLoCUM74D) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [L'ELICOTTERO SUL BOSCO](https://open.spotify.com/album/0q0OFv4Gboexr3bzfJkSxK) | 3:21 | 2022-07-21 | 2022-07-25 |
 | [L'uomo dei sogni](https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [CHIODI](https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9) | 4:08 | 2022-06-14 |  |
-| [La Ballotta](https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:20 | 2022-05-05 |  |
+| [La Ballotta](https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:20 | 2022-05-05 | 2022-12-22 |
 | [La Certa](https://open.spotify.com/track/4VWFj5qabn8QrXdCqDjXMF) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Exuvia](https://open.spotify.com/album/3IUDXM1LSMIryQTo9qKBDX) | 3:40 | 2022-06-14 | 2022-06-17 |
 | [La Fenice \(Remix\)](https://open.spotify.com/track/5iLh8ierAnT0KbtLuan1KZ) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u), [Kaos One](https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh), [DJ Argento](https://open.spotify.com/artist/0OEc9ieH76E5YKyWs3rS4w) | [La Fenice \(Remix\)](https://open.spotify.com/album/7GmuyBEOyVErKTmT3VFlSk) | 4:53 | 2022-05-05 | 2022-07-29 |
 | [La maggior parte](https://open.spotify.com/track/2hFGej35hhWApmQQFasOjV) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Faith](https://open.spotify.com/artist/04eXfz9LChWHvudbMf9OOm) | [La maggior parte](https://open.spotify.com/album/5tTsZMtusfHxPdBlGT57nP) | 3:27 | 2022-05-12 | 2022-09-11 |
@@ -116,6 +116,7 @@
 | [Le Ultime Lacrime](https://open.spotify.com/track/4oX4byHbImE4WAM85RGUWN) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv), [Ape](https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM) | [Le Ultime Lacrime](https://open.spotify.com/album/02cHJg3HsKxWID0dAXpy8m) | 3:30 | 2022-05-19 | 2022-07-25 |
 | [Liberi e schiavi](https://open.spotify.com/track/3LDkh7mW3sGkWY8hn2mdNZ) | [Cali](https://open.spotify.com/artist/3FH0DBflIZm5CdZhTXhhB2), [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1), [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Paura e liberazione](https://open.spotify.com/album/7lbtRIJAvg89LaQwlegJdS) | 4:22 | 2022-08-12 | 2022-08-27 |
 | [Lo straniero](https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 4:11 | 2022-05-05 |  |
+| [Locals only](https://open.spotify.com/track/5QuaYNyzZZiMsysFmmPPY2) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Locals only](https://open.spotify.com/album/2mX8HVs8TDxwa1gTw5k19U) | 2:22 | 2022-12-22 |  |
 | [Lontano 2036](https://open.spotify.com/track/2F6AMOzm4q0OjBRSfepV30) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/3FfcXJaX81r93MXbmHZUvy) | 3:03 | 2022-05-12 | 2022-07-29 |
 | [Lontano 2036](https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:03 | 2022-07-28 |  |
 | [Lost Souls](https://open.spotify.com/track/0ETjyeG6M2MDUVv5CQK92A) | [Sarso](https://open.spotify.com/artist/0bzhZaGE1Lm6ScsjAS5GoT), [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7) | [Lost Souls](https://open.spotify.com/album/6xjWYRQQGwIZdB0rYVErX7) | 3:23 | 2022-06-23 | 2022-07-20 |

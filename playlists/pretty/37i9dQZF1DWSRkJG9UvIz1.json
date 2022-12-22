@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 120696,
+  "num_followers": 120693,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDgxZGZjYmMwZjk4YTNjYjFhMWYxNTdhN2Y0YjA4ODBh",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDQ0YjNiODA2N2E3ZDRhZDYyY2U2NTk3OTdhNGM1Yzgy",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -59,26 +59,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Jean Carter",
-          "url": "https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Bossa No S\u00e9 (feat. Jean Carter)",
-      "url": "https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Milky Way",
         "url": "https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 238053,
       "name": "Tribe (with J. Cole)",
       "url": "https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Jean Carter",
+          "url": "https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Bossa No S\u00e9 (feat. Jean Carter)",
+      "url": "https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "C\u00e9U",
+        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "C\u00e9U",
-        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Concrete Jungle",
-      "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "SELFIE",
-        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 123596,
-      "name": "Noite Quente de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "SELFIE",
+        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 123596,
+      "name": "Noite Quente de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
     },
     {
       "added_at": "2022-11-25 03:00:00",

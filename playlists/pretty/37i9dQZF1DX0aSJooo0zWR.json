@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 167806,
+  "num_followers": 167865,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGRmYTczZWMyOGI3NjZiNTBjMmMxZmQ4YWVmNWQzYmFj",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGI2NWU0ZDU0NjA0NDBmMWI2N2U2NDdmMDI2ZTNiNTI3",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
+    },
+    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -767,22 +783,6 @@
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -919,6 +919,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Jackets XL",
         "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 503213,
       "name": "Even Song",
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 288909,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
-    },
-    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -1099,6 +1083,22 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 288909,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Gimme 5",
-        "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Santiago",
-          "url": "https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Gimme 5",
-      "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Maiden Voyage",
@@ -1219,6 +1203,22 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Gimme 5",
+        "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Santiago",
+          "url": "https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Gimme 5",
+      "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1359,6 +1343,22 @@
       "duration_ms": 378489,
       "name": "Prophecy Extended",
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
+      },
+      "artists": [
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Eastern Kaleidoscope",
@@ -1479,6 +1463,22 @@
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        }
+      ],
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     }
   ],
   "unique_name": "Fusion Fest",

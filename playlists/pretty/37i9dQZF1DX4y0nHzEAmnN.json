@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDM4MDU4YzY1MjhiMGNiZWMwNDZmNzExYzg2ZjNiNTZm",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDhiYmQ5ZTg4ZGE3N2JiY2MyYWY1NWZlY2IxNjg1YzNm",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -359,22 +359,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Juguemos a cantar con Barney",
-        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
-      },
-      "artists": [
-        {
-          "name": "Barney",
-          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
-        }
-      ],
-      "duration_ms": 113034,
-      "name": "Me cepillo los dientes",
-      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 92170,
       "name": "Brush Brush Brush",
       "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Juguemos a cantar con Barney",
+        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "duration_ms": 113034,
+      "name": "Me cepillo los dientes",
+      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
     },
     {
       "added_at": "2020-04-22 19:35:42",

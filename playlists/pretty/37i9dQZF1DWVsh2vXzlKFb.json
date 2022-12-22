@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 263004,
+  "num_followers": 262989,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDc2NzlhZTUzNjkyMDM3ZWJmNzFjZDRhZmEwZmZiM2Q4",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGNjZjkyZTcyMTA3YmM4MDEzYmRlMjRlMzQwNmI3NmMw",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "The Shave Experiment (Director's Cut)",
         "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Take a Walk",
-      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Sending Me Ur Loving",
+        "url": "https://open.spotify.com/album/4JUcT1r5eSr0B8jhuibVJ1"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 253940,
+      "name": "Sending Me Ur Loving",
+      "url": "https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Loverini (feat. L'Imp\u00e9ratrice)",
         "url": "https://open.spotify.com/album/2MvJBLxIIPuOMXzxI0bjXB"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 202546,
       "name": "Loverini (feat. L'Imp\u00e9ratrice)",
       "url": "https://open.spotify.com/track/6bBN2bbxAnCXWTwXaOkF0X"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Sending Me Ur Loving",
-        "url": "https://open.spotify.com/album/4JUcT1r5eSr0B8jhuibVJ1"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 253940,
-      "name": "Sending Me Ur Loving",
-      "url": "https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp"
     },
     {
       "added_at": "2022-08-25 23:00:00",

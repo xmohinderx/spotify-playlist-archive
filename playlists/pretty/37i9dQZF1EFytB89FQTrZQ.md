@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,128 likes - 258 songs - 14 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,133 likes - 258 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 187 | [Rush](https://open.spotify.com/track/0ujXF7s3C0XliL3ygwvVfE) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 3:59 |
 | 188 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
 | 189 | [KUSTOM MADE \- EDIT](https://open.spotify.com/track/3AxZWZr6cnNrXvQ9A54qoO) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Bee's Knees](https://open.spotify.com/artist/0HUVKb4z6JicOGlIpibvF0) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:40 |
-| 190 | [Everything](https://open.spotify.com/track/7urCyCOzhOLrzgMzgfhluA) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Everybody's Talking About Jamie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UqKCHOpXqyypagS12l4ns) | 3:48 |
-| 191 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
+| 190 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
+| 191 | [Everything](https://open.spotify.com/track/7urCyCOzhOLrzgMzgfhluA) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Everybody's Talking About Jamie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UqKCHOpXqyypagS12l4ns) | 3:48 |
 | 192 | [Suddenly](https://open.spotify.com/track/7kqrWavqHpsVWNy2iR6yDO) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 3:28 |
 | 193 | [Shy](https://open.spotify.com/track/0FEV2UdmSXQVHSDI8VJDg8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:17 |
 | 194 | [Silver Linings](https://open.spotify.com/track/3HH0rLObJZRRe1SK00Og6H) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Silver Linings](https://open.spotify.com/album/72T0alpDO0p68JS48Zswgu) | 3:53 |
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 221 | [BLK MADONNA](https://open.spotify.com/track/4uF3wim4tyomeIiHQ8sGyU) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 1:48 |
 | 222 | [FOREVER ANYWAY](https://open.spotify.com/track/6t8IevRP0WqkrnvjVZM9FJ) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [INNOCENT](https://open.spotify.com/album/1a5UWR2OuViy3GPj71nSDX) | 3:47 |
 | 223 | [Two Left Feet](https://open.spotify.com/track/0Oif9SHADEdayP65nWF8cv) | [LHITNEY](https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog) | [Two Left Feet](https://open.spotify.com/album/3u34odtg7lYbibzolcUiGL) | 3:39 |
-| 224 | [the edge](https://open.spotify.com/track/4fY9E3t149Gxz7NI3LDyx5) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 3:38 |
-| 225 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
+| 224 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
+| 225 | [the edge](https://open.spotify.com/track/4fY9E3t149Gxz7NI3LDyx5) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 3:38 |
 | 226 | [Runaway](https://open.spotify.com/track/4y4DwppW6dvTPtIt7a1y8v) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Tiffi](https://open.spotify.com/artist/6YJLGRyg8mzvDkwSUgl8nW) | [HTTP404](https://open.spotify.com/album/2mHLX4cwIZxtrISqQLo729) | 3:29 |
 | 227 | [Love Sweet Love \- The Nextmen's Bigfoot Dub](https://open.spotify.com/track/62JyCjS4Cm5xBKQ8oZhTtl) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [The Nextmen \- Selected Mixes \(That's What Friends Are For\)](https://open.spotify.com/album/2qf01c0NoFzKkXFMV2Tbb8) | 4:51 |
 | 228 | [Glue](https://open.spotify.com/track/0t9nkTYyIygvxxRO1VRhlU) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Bartoven](https://open.spotify.com/artist/1d9KyYyyYN9LhOGhJIwWPx) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:21 |
@@ -246,8 +246,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 236 | [qandeel baloch](https://open.spotify.com/track/2XgqX1xMB5tFqWlLTvFQJi) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 2:54 |
 | 237 | [Muscle](https://open.spotify.com/track/7AhlVNoD2zOA6nzUsHYExb) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:00 |
 | 238 | [My Work Is Done](https://open.spotify.com/track/5gymlK2U1SmNwTp4dpwAmt) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:26 |
-| 239 | [Bridges](https://open.spotify.com/track/0Q4g6gvhXIA0bYrglXXyuU) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:33 |
-| 240 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
+| 239 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
+| 240 | [Bridges](https://open.spotify.com/track/0Q4g6gvhXIA0bYrglXXyuU) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:33 |
 | 241 | [Sex Symbol](https://open.spotify.com/track/1U2Cfc7ZXR6Y2fp2mXXR14) | [Aerolineas Federales](https://open.spotify.com/artist/006cVD18msU9HBrB4aNS5Z) | [Tomando Tierra](https://open.spotify.com/album/5KZ3cbWHSm5W8eh8Vk7szF) | 2:02 |
 | 242 | [Whatever](https://open.spotify.com/track/5ewpMzqrq5uxeiGqw9tElj) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:44 |
 | 243 | [Rope](https://open.spotify.com/track/4PCNyUNFulAzqTjBpzI6qC) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:20 |
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 257 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 258 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `Mjc4NTk3NDUsMDAwMDAwMDAyMTI2NWE3YTk5NmQ3Zjc5NjNiYzgzNWViOGY0YmVjNg==`
+Snapshot ID: `Mjc4NjExODQsMDAwMDAwMDA0ZjM3YjZkNjE1MDlmYTdiZTYwOWJjYTk0M2Q1NWJjMQ==`

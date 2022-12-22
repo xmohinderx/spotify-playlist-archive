@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
-  "num_followers": 392988,
+  "num_followers": 393092,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGIxMjM4ZTAwMjU1ZGI1YzhiMjk0ODRkMmU4YTAxNDcx",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGNjZjNlZmU3MjIwMjU2ZTgzZjVhM2E4ZGY3NDZhYThh",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "All It Cost Me Was Everything",
+        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 242517,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "All It Cost Me Was Everything",
-        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "South of Forever",
-        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 247211,
-      "name": "South of Forever",
-      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Once in a Blue Moon",
-        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
-      },
-      "artists": [
-        {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 187216,
-      "name": "Once in a Blue Moon",
-      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Who Am I to Judge",
         "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 232267,
       "name": "Who Am I to Judge",
       "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Once in a Blue Moon",
+        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 187216,
+      "name": "Once in a Blue Moon",
+      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Bad Days Better",
         "url": "https://open.spotify.com/album/0cI9YhCkHa1JcxbhyY8mBX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 272880,
       "name": "Harder Stuff",
       "url": "https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     }
   ],
   "unique_name": "Texas Country Now",

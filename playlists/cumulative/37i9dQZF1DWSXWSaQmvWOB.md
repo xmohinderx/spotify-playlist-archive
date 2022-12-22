@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-603 songs - 1 day 13 hr 3 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+604 songs - 1 day 13 hr 8 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Same Page, Different Book](https://open.spotify.com/track/6u3JDsQmDAo6ecxqIOMBK2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Welcome 2 America](https://open.spotify.com/album/6Idpgkp0xxbQA3Ej1QdsZh) | 4:41 | 2021-07-30 | 2022-02-11 |
 | [Sativa](https://open.spotify.com/track/6IRc3bTL3NZB3dFqlbCNAb) | [Gallowstreet](https://open.spotify.com/artist/5PBhzgMrQywioo7dPuXzvm), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Sativa](https://open.spotify.com/album/1B5acncxKivvxZGeoKYevc) | 2:54 | 2020-03-25\* | 2021-02-28 |
 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 | 2021-09-04 | 2021-09-24 |
+| [Say Something](https://open.spotify.com/track/78UQpNYlLxiOKzfP9UNrlA) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [We Never Stop](https://open.spotify.com/album/5ZXGZfvx2JzjeHYXyweXwV) | 4:59 | 2022-12-21 |  |
 | [Scratch](https://open.spotify.com/track/29ozhS4Wg4hXSZLwVOC8q4) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [Peach](https://open.spotify.com/album/2uKCZcrvtLsh13CGcjpvOR) | 2:28 | 2021-02-06 | 2022-01-14 |
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2020-11-20 | 2022-02-18 |
 | [Shine On](https://open.spotify.com/track/2QhNFaJB5OWywH55GG1hNQ) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Shine On](https://open.spotify.com/album/3vswdqqfQvV3XG4fUAQtqx) | 4:03 | 2020-08-25 | 2020-11-13 |
@@ -508,7 +509,7 @@
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |
 | [Teenage Love](https://open.spotify.com/track/1qcsKjpHJGoaaD9sUqpxKJ) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Teenage Love](https://open.spotify.com/album/5D0H5G4gCjZgslzLOE6MQv) | 3:18 | 2020-11-13 | 2021-02-28 |
 | [Tell Me](https://open.spotify.com/track/6HS2FQ2iVT12umo2L0mlgH) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Tell Me](https://open.spotify.com/album/6cMt0oDOEOmr5Th6atET25) | 4:16 | 2021-04-17 | 2021-12-01 |
-| [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-06-30 |  |
+| [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-06-30 | 2022-12-22 |
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-07-28 | 2022-09-23 |
 | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/track/7v3F2unkzBsPQVgTcChkM1) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/album/2zKqFkItWJB90sn1EKhNgu) | 3:08 | 2021-05-07 | 2022-07-29 |
 | [Testify](https://open.spotify.com/track/3uzf4CQ26jvTFDZpZtcKe5) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Testify](https://open.spotify.com/album/6i6e3wzE4eStKKY5tta3DE) | 3:06 | 2020-07-03 | 2021-04-17 |

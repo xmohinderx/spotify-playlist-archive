@@ -1,35 +1,31 @@
 {
-  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Camin",
-  "num_followers": 20315,
+  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
+  "num_followers": 20312,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMGFkNTBlYmM3M2YxYzJmMDRjMWY1NTc1MjcxNTlhZjIy",
+  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMDFlOTg1MmY4Yzc4NGVlMDM2OTkyYTg1ZmVjZmE0NGIy",
   "tracks": [
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "Leyla",
-        "url": "https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J"
+        "name": "T\u00c1NGER Y ZAHARA",
+        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "Pedro Calderon",
-          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 151156,
-      "name": "Leyla",
-      "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
+      "duration_ms": 160666,
+      "name": "ZAHARA",
+      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa"
@@ -45,7 +41,7 @@
       "url": "https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Reventar la Ciudad",
         "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
@@ -65,7 +61,7 @@
       "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Un Amor De Locos",
         "url": "https://open.spotify.com/album/3GUmhfkz5WZo0LN9daXoGp"
@@ -85,7 +81,27 @@
       "url": "https://open.spotify.com/track/0KngGwsqYzLisleU46WuLH"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "Leyla",
+        "url": "https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "Pedro Calderon",
+          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
+        }
+      ],
+      "duration_ms": 151156,
+      "name": "Leyla",
+      "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/0idabbOWN94aQoL7uwI7Gg"
@@ -101,7 +117,27 @@
       "url": "https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-22 01:07:47",
+      "album": {
+        "name": "Desastre de persona",
+        "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 173721,
+      "name": "Desastre de persona",
+      "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Entre Tejados",
         "url": "https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
@@ -137,39 +173,7 @@
       "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Veo tan Dentro",
-        "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
-      },
-      "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Veo tan Dentro",
-      "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Por Encima Del Dinero",
         "url": "https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf"
@@ -189,23 +193,23 @@
       "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "Mi Manera de Vivir",
-        "url": "https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie"
+        "name": "Veo tan Dentro",
+        "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
         }
       ],
-      "duration_ms": 134954,
-      "name": "Mi Manera de Vivir",
-      "url": "https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF"
+      "duration_ms": 239933,
+      "name": "Veo tan Dentro",
+      "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
@@ -221,23 +225,39 @@
       "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "cuando anochece",
-        "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
         }
       ],
-      "duration_ms": 185553,
-      "name": "cuando anochece",
-      "url": "https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ"
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "por qu\u00e9 vuelvo a quererte?",
         "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "EN EL CIELO",
         "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "No Llores (feat. Alice Wonder)",
         "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
@@ -289,23 +309,7 @@
       "url": "https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Duro",
         "url": "https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9"
@@ -321,7 +325,23 @@
       "url": "https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "Mi Manera de Vivir",
+        "url": "https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "Mi Manera de Vivir",
+      "url": "https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Alex Turner",
         "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
@@ -337,7 +357,39 @@
       "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "La Broma De Mis Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "La Broma De Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "la pesta\u00f1a que sopl\u00e9",
         "url": "https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r"
@@ -353,7 +405,7 @@
       "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "La Culpable",
         "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
@@ -373,39 +425,7 @@
       "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "La Broma De Mis Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "La Broma De Mis Sue\u00f1os",
-      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "me gustas mas que un bigmac",
-        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "me gustas mas que un bigmac",
-      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Indie esperanzador",
         "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
@@ -421,39 +441,23 @@
       "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "100tas / Nunca",
-        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
+        "name": "me gustas mas que un bigmac",
+        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
       },
       "artists": [
         {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 192136,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
+      "duration_ms": 199537,
+      "name": "me gustas mas que un bigmac",
+      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Lo Que No Te Cuentan",
-        "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "C\u00f3mo Me Voy A Olvidar",
-      "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Cosas Que Dijimos De Hacer",
         "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
@@ -469,23 +473,39 @@
       "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "Prom\u00e9teme",
-        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
+        "name": "100tas / Nunca",
+        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 159307,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
+      "duration_ms": 192136,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "Lo Que No Te Cuentan",
+        "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 141800,
+      "name": "C\u00f3mo Me Voy A Olvidar",
+      "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "a partes",
         "url": "https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "CHINO CADA MARTES",
         "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
@@ -557,23 +577,23 @@
       "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "A W",
-        "url": "https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9"
+        "name": "Prom\u00e9teme",
+        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
       },
       "artists": [
         {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
         }
       ],
-      "duration_ms": 135445,
-      "name": "A W",
-      "url": "https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4"
+      "duration_ms": 159307,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Mientras Ando",
         "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
@@ -629,7 +649,23 @@
       "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "A W",
+        "url": "https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9"
+      },
+      "artists": [
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 135445,
+      "name": "A W",
+      "url": "https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Disneyland Paris",
         "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
@@ -645,7 +681,7 @@
       "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Nada Mal",
         "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
@@ -665,7 +701,7 @@
       "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Roma No Es Amor",
         "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
@@ -681,7 +717,7 @@
       "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "friki",
         "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
@@ -701,23 +737,7 @@
       "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "canci\u00f3n de amor",
-      "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "un poco s\u00ed...",
         "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
@@ -733,23 +753,7 @@
       "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Moncler",
-        "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
-      },
-      "artists": [
-        {
-          "name": "Ters",
-          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
-        }
-      ],
-      "duration_ms": 186156,
-      "name": "Moncler",
-      "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "scenario!",
         "url": "https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/3thdka0EjolLblroJXiE3U"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Marisol",
         "url": "https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Lombard\u00eda 22",
         "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Quiero Bailar",
         "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
@@ -825,7 +829,7 @@
       "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Soy Un Desastre",
         "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
@@ -841,7 +845,7 @@
       "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
@@ -861,7 +865,7 @@
       "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
     },
     {
-      "added_at": "2022-11-11 11:01:19",
+      "added_at": "2022-12-21 13:50:37",
       "album": {
         "name": "Dime Algo (bonito) (True Fans Edition)",
         "url": "https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g"

@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-192 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
+193 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Five Hours](https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za) | 5:26 | 2022-01-04 | 2022-07-23 |
 | [For Our People](https://open.spotify.com/track/7ebktX3jgXa926ybZM1l4h) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [For Our People](https://open.spotify.com/album/7k4Rrc83tb513m6CxAJBGE) | 2:50 | 2022-01-04 | 2022-07-29 |
 | [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS](https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM) | 3:22 | 2022-01-04 |  |
+| [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-22 |  |
 | [Get Down In The Car](https://open.spotify.com/track/5gkPspofRPYZzhcxKvIX9i) | [HOBIN ROOD](https://open.spotify.com/artist/3fXOalppivovgebzJRNv3w) | [Get Down In The Car](https://open.spotify.com/album/3jPPWXqekXEB62uimZKqp0) | 2:40 | 2022-01-04 | 2022-07-29 |
 | [Get It](https://open.spotify.com/track/7HkM8b2FsT4ca2iPC2EzuQ) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [Get It](https://open.spotify.com/album/1y8sj1QuBBS4MKfQNbv2Xs) | 3:58 | 2022-01-04 | 2022-07-29 |
 | [Get Wild](https://open.spotify.com/track/7wNB9Z6lcNYEs014xaqoiH) | [Momis Alanis](https://open.spotify.com/artist/1E852J1n4KSJCsBrY07Dbg) | [Get Wild](https://open.spotify.com/album/2JiWEq7s6mseR3leGNBWAQ) | 3:26 | 2022-01-04 | 2022-07-29 |
@@ -99,7 +100,7 @@
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-27 | 2022-07-29 |
 | [I'm Not Alright \- Zack Martino Remix](https://open.spotify.com/track/3WOlnWcFTW5kDWFvmnATXX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu) | [I'm Not Alright \(Zack Martino Remix\)](https://open.spotify.com/album/14puptj1QDgkzXygF2Cmr7) | 3:05 | 2022-03-29 | 2022-04-21 |
 | [IM GONE](https://open.spotify.com/track/1SYNgyiVRZEBhV0P4YFBk8) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [IM GONE](https://open.spotify.com/album/6jB6Ja81mc68nDB5zypsOm) | 4:45 | 2022-08-16 | 2022-08-24 |
-| [IM GONE](https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 4:45 | 2022-03-29 |  |
+| [IM GONE](https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 4:45 | 2022-03-29 | 2022-12-22 |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-01-04 |  |
 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 | 2022-07-26 |  |
 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 | 2022-03-02 | 2022-07-29 |

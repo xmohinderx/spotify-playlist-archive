@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-186 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
+187 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 | 2021-12-17 | 2022-11-21 |
 | [Pomni](https://open.spotify.com/track/5Zg2oGPqM8F5C4KEj4ZbBM) | [Boogrov](https://open.spotify.com/artist/1eyg9AJYXvQaXtHyi77WCK) | [Pomni](https://open.spotify.com/album/4n4YVXaUkjIcMDo7A5ZK1K) | 5:28 | 2022-01-07 | 2022-10-15 |
 | [Pool House](https://open.spotify.com/track/2ySiEAs8xbSw9arjRiteTB) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Pacific Coliseum](https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB) | [Pool House](https://open.spotify.com/album/7E1hswPT23ea7OQRckSSxd) | 4:55 | 2021-12-17 | 2022-07-29 |
+| [porco rosso](https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS) | 3:39 | 2022-10-21 |  |
 | [porco rosso](https://open.spotify.com/track/5lwjdvgblpKI77ferBvdNl) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/1Fp9w0o4EBXaWTuV6UJ3VL) | 3:39 | 2022-03-31 | 2022-11-20 |
 | [porco rosso](https://open.spotify.com/track/5zPFiALwRF6FwkECorlrUB) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/5AlxMStxbXQCBrrZ3WJoql) | 3:39 | 2022-10-21 | 2022-12-14 |
 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 | 2021-12-17 |  |
@@ -192,7 +193,7 @@
 | [Wear Me Down](https://open.spotify.com/track/1SA3sXFX3V8WgzmZdlO223) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:19 | 2022-03-31 | 2022-04-20 |
 | [WhereYouGonnaGo?](https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [TJD006](https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP) | 5:08 | 2022-07-01 |  |
 | [WhereYouGonnaGo?](https://open.spotify.com/track/43ttSUWX6oHVLGboWVq1Kl) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [WhereYouGonnaGo?](https://open.spotify.com/album/6PbHFMJ0iwcRAYclGi02wE) | 5:08 | 2022-03-25 | 2022-04-12 |
-| [YOU CAN DO IT](https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq) | 2:56 | 2022-10-21 |  |
+| [YOU CAN DO IT](https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq) | 2:56 | 2022-10-21 | 2022-12-22 |
 | [YOU CAN DO IT](https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh) | 2:56 | 2021-12-17 | 2022-11-20 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

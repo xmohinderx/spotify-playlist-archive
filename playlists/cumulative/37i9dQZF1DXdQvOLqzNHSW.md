@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-424 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+425 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cold War](https://open.spotify.com/track/3l1QX9fhldeI23AlON5iY3) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/0I55n0pRuelv0nfZHKhA8f) | 3:23 | 2020-12-21 | 2022-07-29 |
 | [Columbia River](https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [4E](https://open.spotify.com/album/2UDkmwKTN9KsyF3204XjhL) | 4:42 | 2020-12-21 |  |
 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 | 2021-10-08 | 2022-07-21 |
-| [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-28 |  |
+| [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-28 | 2022-12-22 |
 | [Cool Air](https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac), [Allie Donelly](https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC) | [Cool Air](https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq) | 4:30 | 2021-05-01 | 2022-05-14 |
 | [Country](https://open.spotify.com/track/5n06Jroq3ruFU5WJYnN8JO) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [The House](https://open.spotify.com/album/3NUX6Gg2sWAX4yjEvi6EkL) | 1:52 | 2020-12-21 | 2022-04-21 |
 | [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2020-12-21 | 2022-07-21 |
@@ -414,6 +414,7 @@
 | [Wasted Acres](https://open.spotify.com/track/0IvQCuL8N4158edtz98LCL) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Painted Ruins](https://open.spotify.com/album/3QOXA8bqsml8CslUdgHXrW) | 2:52 | 2020-12-21 | 2022-04-19 |
 | [We Will Run](https://open.spotify.com/track/4oWOP5K36jNUkvMxm8q5Bl) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/4mloQGRqd4HvJw1KyRXI8F) | 3:43 | 2020-12-21 | 2022-04-18 |
 | [We're All Gonna Die](https://open.spotify.com/track/4ZfPkAW0O7h1sj7Akt18DU) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die \- Single](https://open.spotify.com/album/5rUTt2ROxXzfgmMsEs8GOF) | 5:04 | 2020-12-21 | 2022-04-15 |
+| [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-17 |  |
 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 | 2022-07-22 | 2022-08-27 |
 | [Whatever Comes to Mind](https://open.spotify.com/track/0ntyYV99MFp7f7MGZlwYj4) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Whatever Comes to Mind](https://open.spotify.com/album/7i0hz2V6eKGFBqrvJANFsN) | 4:09 | 2020-12-21 | 2022-04-20 |
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2020-12-21 | 2022-07-20 |

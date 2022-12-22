@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,000 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,021 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/1P5YwT9JBMmRTrwTtUCIpk) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
+| 1 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
 | 2 | [Shut The Door](https://open.spotify.com/track/4r6eiYt8C6HmBh584gNKRW) | [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [Shut The Door](https://open.spotify.com/album/47zFR7hPucglskk6vWsCkh) | 2:43 |
 | 3 | [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 |
 | 4 | [My Heart](https://open.spotify.com/track/0eQjeOTNSzUudwy7dyTExY) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [My Heart](https://open.spotify.com/album/2Pw6yUJVTGSqYiDHriSGX2) | 1:44 |

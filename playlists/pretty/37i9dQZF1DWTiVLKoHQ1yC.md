@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,267 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,428 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 45 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 |
 | 46 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
 | 47 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 |
-| 48 | [Calling](https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Calling EP](https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi) | 4:07 |
-| 49 | [Столица закатов](https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Столица закатов](https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS) | 4:43 |
+| 48 | [Столица закатов](https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Столица закатов](https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS) | 4:43 |
+| 49 | [Calling](https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Calling EP](https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi) | 4:07 |
 | 50 | [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 |
 | 51 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 |
 | 52 | [Lungs](https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Lungs](https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap) | 6:43 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 56 | [Sapphire](https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62) | [Dee Montero](https://open.spotify.com/artist/46RoK8NBTMTyu23GiHqbCr), [Shahin Badar](https://open.spotify.com/artist/5wV3VcHY2HltBOIMQEhRzc) | [Sapphire](https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto) | 7:46 |
 | 57 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
 | 58 | [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 |
-| 59 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 |
-| 60 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
+| 59 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
+| 60 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 |
 
-Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMGM2ZmJmMGZmOWM1ZjAxY2IwMmNjNjBhZWM1OGY2ZjE5`
+Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMDM3ZDVjNjJlNjYzNzkwYmVmZTc5MDA3MDMxNWUyN2Fi`

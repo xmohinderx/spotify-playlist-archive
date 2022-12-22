@@ -4,7 +4,7 @@
 
 > Check out The Quiett's interview as Clips! And check out the top 10 Korean hip\-hop songs selected by The Quiett at the top of the playlist\. \(Cover: The Quiett\) \(더 콰이엇의 인터뷰를 Clips로 확인하세요! 그리고 더 콰이엇이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
 
-721 songs - 1 day 16 hr 1 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+722 songs - 1 day 16 hr 3 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Full of scars \(Feat.Lil Gimchi\)](https://open.spotify.com/track/1JVNIgNcoYqmdCxxpe2lQK) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Full of scars](https://open.spotify.com/album/0adY4FBTAKkaY7iLl1nmlp) | 2:52 | 2021-12-29 | 2022-07-02 |
 | [FURY \(feat\. Nucksal, RHYME\-A\- & Basick\)](https://open.spotify.com/track/7d5xtJWSRwuClKVWRYbFrd) | [Cream Villa](https://open.spotify.com/artist/6sl8GvCAVaYrRuLX7ajhk8), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [RHYME\-A\-](https://open.spotify.com/artist/73JOTrZLsGpGLhSqtJrdG8) | [FURY](https://open.spotify.com/album/2MhcBRn0UaIgleT8RqrtOm) | 5:43 | 2022-11-22 |  |
 | [FUXX THAT SHXX!](https://open.spotify.com/track/64ry0rj8bKfAy187cuhTeP) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TakeOne](https://open.spotify.com/artist/7MOQ2DWJNk69Hc0gqy6K7F) | [TOYSTORY2](https://open.spotify.com/album/5m6DfEcqccjMxUfBykhNaO) | 3:33 | 2022-02-03 | 2022-06-08 |
+| [G.O.N.Z.O](https://open.spotify.com/track/4V7s0LFIWhdguWFSjyut3o) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [G.O.N.Z.O](https://open.spotify.com/album/0Nn3aam1ECOiNpDdoQvrRI) | 2:16 | 2022-12-21 |  |
 | [GAL RAE? \(feat\. MELOH, JONG UP\) \[Prod\. Neal\]](https://open.spotify.com/track/0gwk2kDsRTXA9Dl0ftPI94) | [Bola](https://open.spotify.com/artist/4SsrN0oeCF8Zf8EWG8smgW), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [JONG UP](https://open.spotify.com/artist/7w41kx5X6UxvloN1SQBsxU) | [BOLA TAPE 2](https://open.spotify.com/album/38UIFwLGaoc1JviWo6u5VP) | 3:06 | 2022-03-29 | 2022-04-19 |
 | [Ganggangsullae \(Gyeongju & Andong\) \(Feat\. sogumm\) \(Prod\. GRAY\)](https://open.spotify.com/track/2yoZW9Uvkl5cNsF7GATYUv) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Feel The Rhythm Of Korea, Pt\. 2](https://open.spotify.com/album/4WPiut74OmhbKBhfj1piZ9) | 2:57 | 2021-12-18 | 2022-07-07 |
 | [Gangnam](https://open.spotify.com/track/4CCryLO92ELw3Fq0kTn8GV) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Gangnam](https://open.spotify.com/album/7F3GrKWxvLG3ZJr7iPzR04) | 2:33 | 2022-08-03 | 2022-10-30 |

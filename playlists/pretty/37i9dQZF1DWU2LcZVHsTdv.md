@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Mickey Guyton
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,473 likes - 133 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,499 likes - 133 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 236025,
+  "num_followers": 236086,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDBlNzZkZDRkYjllYTc3NjEyOTQzOTU4N2E0MGU4ZWVk",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDJkMTk0Y2E5MGU1NzJmMTVlZWZiMGY5ZmMwZTlhMGIw",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Fill This Place (Studio Version)",
         "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 266620,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "This Is Our Story",
-        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 341849,
-      "name": "This Is Our Story",
-      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
     },
     {
       "added_at": "2020-06-26 04:02:00",

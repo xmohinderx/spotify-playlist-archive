@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-971 songs - 2 day 15 hr 51 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+972 songs - 2 day 15 hr 55 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Ivy Ivy Ivy](https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ivy Ivy Ivy](https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI) | 4:52 | 2022-11-15 | 2022-12-07 |
 | [I’ll be there](https://open.spotify.com/track/78fssmI5gxg6rNSs50WVHH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [I’ll be there / スピン](https://open.spotify.com/album/41DbSnh6MJp7cbQaHUwNnG) | 5:03 | 2022-05-29 | 2022-07-29 |
 | [I’m Calling You](https://open.spotify.com/track/3QTPkJsom8XAg3dx8mqphk) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [I’m Calling You](https://open.spotify.com/album/1CUxI6Evew86aQyvJWA7dL) | 3:43 | 2022-09-27 | 2022-09-29 |
-| [Join Us!](https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Join Us!](https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA) | 3:27 | 2022-12-13 | 2022-12-21 |
+| [Join Us!](https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Join Us!](https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA) | 3:27 | 2022-12-13 |  |
 | [JUMP](https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [JUMP](https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje) | 3:47 | 2022-11-22 |  |
 | [June](https://open.spotify.com/track/0Q1TLhnHvNs5xTsasBhaOg) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [Sincere](https://open.spotify.com/album/4g4QLW0E1SfBipYZuE5Hym) | 4:15 | 2022-12-20 |  |
 | [JUST IN TIME](https://open.spotify.com/track/35eL6PNOufwSJ8Ndrmm2Nf) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [JUST IN TIME](https://open.spotify.com/album/0z6y8m2fTVbZ35GmIjOBLm) | 3:21 | 2022-06-07 | 2022-06-15 |
@@ -377,7 +377,8 @@
 | [Ride your way](https://open.spotify.com/track/1NLnOEx6B0AG4eiUjDLVED) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Ride your way](https://open.spotify.com/album/0IZKukB93dgMppcVbtjeDr) | 3:58 | 2022-05-31 | 2022-06-18 |
 | [Ripe Aster](https://open.spotify.com/track/2yLTeLzLuKBONQYrLevc24) | [八木海莉](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [Ripe Aster](https://open.spotify.com/album/1XOox7JDI5QrOjpi6SI4tm) | 3:36 | 2022-06-02 | 2022-07-10 |
 | [ripple](https://open.spotify.com/track/3kQMsWayIAqbgRou15Y9Wy) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [ripple](https://open.spotify.com/album/5yN3BNFVlWJLD6x7xYFUYM) | 2:44 | 2022-08-02 | 2022-08-04 |
-| [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 |  |
+| [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 | 2022-12-22 |
+| [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 |  |
 | [Rooftop Rhapsody](https://open.spotify.com/track/7fkcgIVRFJHYJeir9e8e7p) | [TWEEDEES](https://open.spotify.com/artist/1LlXc0olPO5z5GbX61yK3C) | [Rooftop Rhapsody](https://open.spotify.com/album/0SEeaTLdugL0UPr46I7RXl) | 3:27 | 2022-09-13 | 2022-09-21 |
 | [Room Tour](https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/2FHpkkHWUQAPMl9Vqwpmi0) | 4:25 | 2022-06-21 | 2022-07-20 |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-02 | 2022-10-26 |
@@ -728,7 +729,7 @@
 | [一番星](https://open.spotify.com/track/00awIpROD8dFzId37oXrIn) | [魚高ミチル](https://open.spotify.com/artist/2ZBj0iM00o3cm3RWh1Y2sN) | [一番星](https://open.spotify.com/album/0zql1MPaW3DrCHatOxbzKf) | 5:10 | 2022-09-13 | 2022-09-21 |
 | [一目惚れ](https://open.spotify.com/track/553VSo0X2YB5gUOAzreVNU) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [一目惚れ](https://open.spotify.com/album/32ze7OlZZ4pdSSArFklEfa) | 3:18 | 2022-05-31 | 2022-06-29 |
 | [世界のつづき](https://open.spotify.com/track/17zp5n2rbiRJzQtCaZpXDD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:47 | 2022-08-09 | 2022-09-29 |
-| [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 | 2022-10-04 |  |
+| [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 | 2022-10-04 | 2022-12-22 |
 | [中央線の車窓から団地の貯水塔が見える](https://open.spotify.com/track/7rgQeTW3er0coRhGCEa6Sh) | [魚住英里奈](https://open.spotify.com/artist/7EiNSkVF6UXOKbjfLpXhi5) | [中央線の車窓から団地の貯水塔が見える](https://open.spotify.com/album/3y4PmOsvOS5lrof0XnE2TJ) | 4:41 | 2022-09-06 | 2022-09-15 |
 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 | 2022-11-15 |  |
 | [予測不能の一秒先も濁流みたいに愛してる](https://open.spotify.com/track/657As4T0b2jCoQdFemM0rs) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [予測不能の1秒先も濁流みたいに愛してる](https://open.spotify.com/album/4O6a6o4144MXUXETY2Rp08) | 3:28 | 2022-07-05 | 2022-07-28 |

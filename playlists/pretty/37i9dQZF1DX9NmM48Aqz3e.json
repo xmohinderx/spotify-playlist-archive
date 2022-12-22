@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 50215,
+  "num_followers": 50226,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDFiMDFmODgyNDRmOTBkNTc2MjY1MGY0ODljZjk1NWQ4",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDA5MmFjN2MxNzU2ZWYyZDc3ZmU5N2M4ZjlmMmU1NjY3",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Piece Of Paradise",
-        "url": "https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu"
-      },
-      "artists": [
-        {
-          "name": "Sky",
-          "url": "https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Make a Pest a Pet",
         "url": "https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 219391,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Piece Of Paradise",
+        "url": "https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu"
+      },
+      "artists": [
+        {
+          "name": "Sky",
+          "url": "https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Public",
-        "url": "https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj"
-      },
-      "artists": [
-        {
-          "name": "Emm Gryner",
-          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Summerlong",
-      "url": "https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Black History Month: Funk + Hip-Hop",
         "url": "https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 218626,
       "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
       "url": "https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Public",
+        "url": "https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj"
+      },
+      "artists": [
+        {
+          "name": "Emm Gryner",
+          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Summerlong",
+      "url": "https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "This Child",
-        "url": "https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU"
+        "name": "Hot Show",
+        "url": "https://open.spotify.com/album/0FxSVyJ7d9BTddJfekVzpz"
       },
       "artists": [
         {
-          "name": "Susan Aglukark",
-          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+          "name": "Prozzak",
+          "url": "https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q"
         }
       ],
-      "duration_ms": 267000,
-      "name": "O Siem",
-      "url": "https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ"
+      "duration_ms": 201573,
+      "name": "Sucks To Be You",
+      "url": "https://open.spotify.com/track/2vc1zvxODjpoUrxGdLPLIv"
     }
   ],
   "unique_name": "Canadian '90s",

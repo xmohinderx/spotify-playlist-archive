@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-104 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
+105 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [تعبت أشتاق](https://open.spotify.com/track/4wQuMb5pAAfhBuY1VdM0rs) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [تعبت أشتاق](https://open.spotify.com/album/2IKZvIu9Y9nlSuUd90qI7a) | 3:34 | 2022-03-30 | 2022-06-14 |
 | [حي بسماتك](https://open.spotify.com/track/28jNmt1G200EdfkK2Utn27) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [حي بسماتك](https://open.spotify.com/album/7bUt6Wh4zVL1aKbRox63Pp) | 3:55 | 2022-08-31 |  |
 | [حي بسماتك](https://open.spotify.com/track/6UzF0izmDqyfQd7CWGIJIw) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [حي بسماتك](https://open.spotify.com/album/2Ofnplh581Skhr6Xv9wFq5) | 3:55 | 2022-03-30 | 2022-11-02 |
-| [حياة وروح](https://open.spotify.com/track/35k78NeGmBsfvnVRBri4H9) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [حياة وروح](https://open.spotify.com/album/0PwVtQ4mTqkXQj00Bz1S6w) | 3:15 | 2022-03-30 |  |
+| [حياة وروح](https://open.spotify.com/track/35k78NeGmBsfvnVRBri4H9) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [حياة وروح](https://open.spotify.com/album/0PwVtQ4mTqkXQj00Bz1S6w) | 3:15 | 2022-03-30 | 2022-12-22 |
+| [حياة وروح](https://open.spotify.com/track/4zEEvdJ6LEm2qMxeLg1kMI) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [حياة وروح](https://open.spotify.com/album/0TJIwfyGTMec9Bs9pcs2f1) | 3:15 | 2022-12-13 |  |
 | [ذكريات](https://open.spotify.com/track/5F00O9CiGm2ypY18sRafTF) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/4oISxuxitXee2lekdanshZ) | 4:05 | 2022-03-30 | 2022-06-14 |
 | [ركبوني فوق طياره](https://open.spotify.com/track/4DLRpoNORbVCoJDyHAAkQN) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/4z82K4NZ8c5UcZQ2Y3Izyv) | 5:14 | 2022-08-31 |  |
 | [ركبوني فوق طياره](https://open.spotify.com/track/5Cz2OytkhByFhPubZVDXv5) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/04q2QDocqTA4o8vOvp9leU) | 5:14 | 2022-03-30 | 2022-11-03 |

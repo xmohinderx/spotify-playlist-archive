@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 231501,
+  "num_followers": 231772,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGU4YzcwZThmZWVkYTQzNjE0MjU4YmZlYjQ4MWQwMGU2",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDIyYjk1ZTFlYjcxNjQ0ZGZhNDNkYjc0Yzc4NzMxMzQ1",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -73,20 +73,24 @@
       "url": "https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
+        "name": "THE FUNK WILL PREVAIL",
+        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        },
+        {
+          "name": "Tony Rosenberg",
+          "url": "https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh"
         }
       ],
-      "duration_ms": 388960,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
+      "duration_ms": 91733,
+      "name": "CATS GROOVE",
+      "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -165,24 +169,20 @@
       "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "THE FUNK WILL PREVAIL",
-        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
+        "name": "Head Hunters",
+        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
       "artists": [
         {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        },
-        {
-          "name": "Tony Rosenberg",
-          "url": "https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 91733,
-      "name": "CATS GROOVE",
-      "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
+      "duration_ms": 388960,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Satin Doll",
@@ -503,6 +487,22 @@
       "duration_ms": 413893,
       "name": "New York Times - Remastered 2002",
       "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Harlem Bush Music - Uhuru",
-        "url": "https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D"
-      },
-      "artists": [
-        {
-          "name": "Gary Bartz Ntu Troop",
-          "url": "https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN"
-        }
-      ],
-      "duration_ms": 456114,
-      "name": "Celestial Blues",
-      "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Tutto Passa",
@@ -573,22 +557,6 @@
       "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "SOURCE",
-        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 404773,
-      "name": "The Message Continues",
-      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Comedown",
@@ -603,6 +571,38 @@
       "duration_ms": 159228,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Harlem Bush Music - Uhuru",
+        "url": "https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D"
+      },
+      "artists": [
+        {
+          "name": "Gary Bartz Ntu Troop",
+          "url": "https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN"
+        }
+      ],
+      "duration_ms": 456114,
+      "name": "Celestial Blues",
+      "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "SOURCE",
+        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 404773,
+      "name": "The Message Continues",
+      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Funky Snakefoot",
+        "url": "https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Mouzon",
+          "url": "https://open.spotify.com/artist/0UXy6wqMmVQ7PIWFNSXqdk"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Funky Snakefoot",
+      "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Center Stage",
@@ -699,22 +715,6 @@
       "duration_ms": 341960,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Funky Snakefoot",
-        "url": "https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i"
-      },
-      "artists": [
-        {
-          "name": "Alphonse Mouzon",
-          "url": "https://open.spotify.com/artist/0UXy6wqMmVQ7PIWFNSXqdk"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Funky Snakefoot",
-      "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "The Best of the Light of the World",
-        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
-      },
-      "artists": [
-        {
-          "name": "Light Of The World",
-          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "London Town",
-      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "So Cold",
@@ -803,6 +787,22 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "The Best of the Light of the World",
+        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
+      },
+      "artists": [
+        {
+          "name": "Light Of The World",
+          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -917,30 +917,6 @@
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "All Kooked out!",
-        "url": "https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7"
-      },
-      "artists": [
-        {
-          "name": "Stanton Moore",
-          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "Skerik",
-          "url": "https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Blues for Ben",
-      "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
-    },
-    {
       "added_at": "2022-01-07 05:02:00",
       "album": {
         "name": "The Chicago Experiment",
@@ -977,6 +953,30 @@
       "url": "https://open.spotify.com/track/1Fs2kqyfm1wnFE83eIAqF7"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "All Kooked out!",
+        "url": "https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7"
+      },
+      "artists": [
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Skerik",
+          "url": "https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Blues for Ben",
+      "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
+    },
+    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "The Positive and the Negative",
@@ -991,6 +991,38 @@
       "duration_ms": 287349,
       "name": "The Positive and the Negative",
       "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Mutual Attraction Vol. 2",
+        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        }
+      ],
+      "duration_ms": 193598,
+      "name": "Presente Grego",
+      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
+    },
+    {
+      "added_at": "2021-06-04 04:01:00",
+      "album": {
+        "name": "Be on the Lookout",
+        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 193516,
+      "name": "Be on the Lookout",
+      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1017,20 +1049,36 @@
       "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"
     },
     {
-      "added_at": "2021-06-04 04:01:00",
+      "added_at": "2021-12-17 05:02:00",
       "album": {
-        "name": "Be on the Lookout",
-        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
       },
       "artists": [
         {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 193516,
-      "name": "Be on the Lookout",
-      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+      "duration_ms": 290080,
+      "name": "Pull Your Pants Up",
+      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 636733,
+      "name": "Palm Grease",
+      "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -1049,52 +1097,20 @@
       "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
     },
     {
-      "added_at": "2021-12-17 05:02:00",
+      "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+        "name": "Music Ruined My Life",
+        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
       },
       "artists": [
         {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
         }
       ],
-      "duration_ms": 290080,
-      "name": "Pull Your Pants Up",
-      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Mutual Attraction Vol. 2",
-        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
-      },
-      "artists": [
-        {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        }
-      ],
-      "duration_ms": 193598,
-      "name": "Presente Grego",
-      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 636733,
-      "name": "Palm Grease",
-      "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
+      "duration_ms": 205829,
+      "name": "The Necessary Change",
+      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Music Ruined My Life",
-        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 205829,
-      "name": "The Necessary Change",
-      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Dig My Feeling",
@@ -1175,6 +1175,22 @@
       "duration_ms": 194226,
       "name": "Where's the Music",
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Hammond\" Smith",
+          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
+        }
+      ],
+      "duration_ms": 317957,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1209,22 +1225,6 @@
       "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Hammond\" Smith",
-          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
-        }
-      ],
-      "duration_ms": 317957,
-      "name": "Tell Me What To Do",
-      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "May The Funk Be With You",
@@ -1255,38 +1255,6 @@
       "duration_ms": 152400,
       "name": "Humpty Dumpty - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Spoon (Mike Casey Remix)",
-        "url": "https://open.spotify.com/album/2LmcUC52wK3UTfySCDKN33"
-      },
-      "artists": [
-        {
-          "name": "Mike Casey",
-          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
-        }
-      ],
-      "duration_ms": 113785,
-      "name": "Spoon (Mike Casey Remix) [No Sax]",
-      "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "The Swedish Songbook",
-        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Kronkvist",
-          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Limu, Limu, Lima",
-      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -1321,6 +1289,38 @@
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Spoon (Mike Casey Remix)",
+        "url": "https://open.spotify.com/album/2LmcUC52wK3UTfySCDKN33"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "duration_ms": 113785,
+      "name": "Spoon (Mike Casey Remix) [No Sax]",
+      "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "The Swedish Songbook",
+        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Kronkvist",
+          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Limu, Limu, Lima",
+      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Pressure Sensitive",
@@ -1335,30 +1335,6 @@
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Third Wave Mischief",
-        "url": "https://open.spotify.com/album/06AEoRXo7wFnISC0wytqJj"
-      },
-      "artists": [
-        {
-          "name": "Amir Bresler",
-          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
-        },
-        {
-          "name": "Nomok",
-          "url": "https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3"
-        },
-        {
-          "name": "Nitai Hershkovits",
-          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
-        }
-      ],
-      "duration_ms": 300513,
-      "name": "Third Wave Mischief",
-      "url": "https://open.spotify.com/track/5VX9c8VyCxUsSHILhUQSe5"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1397,6 +1373,54 @@
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Third Wave Mischief",
+        "url": "https://open.spotify.com/album/06AEoRXo7wFnISC0wytqJj"
+      },
+      "artists": [
+        {
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        },
+        {
+          "name": "Nomok",
+          "url": "https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        }
+      ],
+      "duration_ms": 300513,
+      "name": "Third Wave Mischief",
+      "url": "https://open.spotify.com/track/5VX9c8VyCxUsSHILhUQSe5"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Touchy (Tiny Room Sessions)",
+        "url": "https://open.spotify.com/album/4MZZzMJJNzsSm1Vmb1jRRS"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Ronald Bruner, Jr.",
+          "url": "https://open.spotify.com/artist/5uiYVTlSFQqK08L1MKuBnW"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/71DLOjjNflV6J67OQrR54B"
+        }
+      ],
+      "duration_ms": 250451,
+      "name": "Touchy - Tiny Room Sessions",
+      "url": "https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Declassified",
@@ -1429,50 +1453,6 @@
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Touchy (Tiny Room Sessions)",
-        "url": "https://open.spotify.com/album/4MZZzMJJNzsSm1Vmb1jRRS"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Ronald Bruner, Jr.",
-          "url": "https://open.spotify.com/artist/5uiYVTlSFQqK08L1MKuBnW"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/71DLOjjNflV6J67OQrR54B"
-        }
-      ],
-      "duration_ms": 250451,
-      "name": "Touchy - Tiny Room Sessions",
-      "url": "https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Misfit",
-        "url": "https://open.spotify.com/album/1SnBz7YabIvC7Ho1rmkdQg"
-      },
-      "artists": [
-        {
-          "name": "Joe Jam Sumrell",
-          "url": "https://open.spotify.com/artist/3d6KL8ojlbObgyImmZTpEm"
-        },
-        {
-          "name": "Day 7",
-          "url": "https://open.spotify.com/artist/5bSQh428JevlpqlqHInzy6"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Award Tour (We Gettin' Down) / Bonita Applebum (Daylight)",
@@ -1487,6 +1467,22 @@
       "duration_ms": 244369,
       "name": "Bonita Applebum (Daylight)",
       "url": "https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     }
   ],
   "unique_name": "Jazz-Funk",

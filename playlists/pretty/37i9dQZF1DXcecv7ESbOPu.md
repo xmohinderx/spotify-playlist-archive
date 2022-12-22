@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,010 likes - 98 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,032 likes - 98 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 63 | [Blue Light](https://open.spotify.com/track/6ZCmA6579h7urbIMiWwVkB) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Blue Light](https://open.spotify.com/album/2iZgDZXtuAcx2O0MKoF3Pa) | 3:56 |
 | 64 | [Catch Your Eye](https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Catch Your Eye](https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00) | 2:42 |
 | 65 | [Sapphire](https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Sapphire / My Love](https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs) | 2:40 |
-| 66 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
+| 66 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
 | 67 | [Nummer](https://open.spotify.com/track/0Y5EYCS8FSDbdj76Uab3hl) | [ABDIFATAH](https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0) | [Nummer](https://open.spotify.com/album/46RueclWxkg4hN7tNVvjvx) | 2:07 |
 | 68 | [CROSS COUNTRY](https://open.spotify.com/track/4i440HyveNWpscGLrYJXsh) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu), [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC), [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c) | [CROSS COUNTRY](https://open.spotify.com/album/3c2fTSyVQ4TprFiQ3ZmuqX) | 3:06 |
 | 69 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |

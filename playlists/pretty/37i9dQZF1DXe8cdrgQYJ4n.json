@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 9380,
+  "num_followers": 9406,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMGMwMjFhM2EwN2UyN2M1YmMxYzZkZThiYmIyMGQ5YzFi",
+  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDJiNzg4OWYxNjY4ZTBmZjM3MzJlODllYTQ1NDUyMTk5",
   "tracks": [
     {
       "added_at": "2022-08-18 14:26:15",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/5QQQPF4hsHCa8LCczzSapo"
+        }
+      ],
+      "duration_ms": 232480,
+      "name": "Solo (Feat. Alex)",
+      "url": "https://open.spotify.com/track/3kVPDzRJKBVeqepc439JtZ"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "#LOVEMEORHATEME",
         "url": "https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 195312,
       "name": "Tattoo (feat. Jayci yucca, YongYong)",
       "url": "https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "Last Days",
-        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/5QQQPF4hsHCa8LCczzSapo"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "Solo (Feat. Alex)",
-      "url": "https://open.spotify.com/track/3kVPDzRJKBVeqepc439JtZ"
     },
     {
       "added_at": "2022-08-18 14:26:15",

@@ -4,7 +4,7 @@
 
 > Ženy v plné síle\. Poslouchej to nejlepší, co se v roce 2022 urodilo\. Cover: Emma Drobna
 
-179 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
+180 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Město](https://open.spotify.com/track/3tIPzCiSlIgaEpBB2fpyw4) | [Bára Zmeková](https://open.spotify.com/artist/25kg48KQR5IPL7CHQO5QhC) | [Město](https://open.spotify.com/album/1FIPMrGVTEMZY0UPN81oPN) | 4:48 | 2021-12-07 | 2022-02-02 |
 | [Město](https://open.spotify.com/track/3OYekbaUpuUoBWSEqJpsru) | [Monika Bagarova](https://open.spotify.com/artist/0S3fK826BwWKNWHsomoocy), [Jan Bendig](https://open.spotify.com/artist/7zge4PpeM0XDZbmYF0ZQtl) | [Město](https://open.spotify.com/album/1HcKec0NPufgNkrqGSP6Qd) | 3:36 | 2022-08-02 |  |
 | [Můj stín](https://open.spotify.com/track/1K9RFPgMTTfCCmJvqvk6ZE) | [Zuzana Mikulcova](https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd), [Jakub König](https://open.spotify.com/artist/6QgW0iZlIXD3J3xPn6ceCl) | [Můj stín](https://open.spotify.com/album/1oMVpIRkbAXhEVDJ4Au3JX) | 3:54 | 2021-12-07 | 2022-01-05 |
-| [Na skróty](https://open.spotify.com/track/1eD30CVBMjfXnhFTPcNyOn) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Na skróty](https://open.spotify.com/album/0RHBRDZZinBgu9n3J28op5) | 2:27 | 2022-11-30 |  |
+| [Na skróty](https://open.spotify.com/track/1eD30CVBMjfXnhFTPcNyOn) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Na skróty](https://open.spotify.com/album/0RHBRDZZinBgu9n3J28op5) | 2:27 | 2022-11-30 | 2022-12-22 |
 | [naše generace](https://open.spotify.com/track/0amHpj8g65iQhVguWl8iO0) | [Barbora Balášová](https://open.spotify.com/artist/0XRi1SdCMfE0vwVQTfqHek) | [oldschool](https://open.spotify.com/album/6hrWQvWiuuldRUyz6ySuEG) | 2:27 | 2022-09-06 |  |
 | [Nemaj strach](https://open.spotify.com/track/1uSr5MtSEJ9i3Ico6xAeTj) | [LIIA](https://open.spotify.com/artist/6DwhdII89PAealSoWKSXU4) | [Nemaj strach](https://open.spotify.com/album/2EhB6GPXcvy2cRIw1cFctL) | 3:16 | 2022-10-04 |  |
 | [Nevermind](https://open.spotify.com/track/2fk8NdxPgwXTmvPCJWvxhq) | [Meowlau](https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8), [Val](https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa) | [Nevermind](https://open.spotify.com/album/6MzVdDYLRTb6NuX6az3NB2) | 3:22 | 2022-11-30 |  |
@@ -177,6 +177,7 @@
 | [Z dverí do dverí](https://open.spotify.com/track/0B3dHQwqwIroUXaUbAICsW) | [JANA A JA](https://open.spotify.com/artist/5FecktDzLZJ73dHCG5MNWc) | [Z dverí do dverí](https://open.spotify.com/album/3YQQVE5fSKrCvhr5B5cd4y) | 3:56 | 2022-05-31 | 2022-10-05 |
 | [Zajtra bude fajn \- Radio Edit](https://open.spotify.com/track/52rVGCynC298uuPqFLL56q) | [Tya](https://open.spotify.com/artist/6VsqfAfnPDIxCEHccvDDMK) | [Zajtra bude fajn \(Radio Edit\)](https://open.spotify.com/album/1oc1OcdqofqCR6vPiRQQsH) | 3:48 | 2021-12-07 | 2022-01-05 |
 | [Zapomněl, Zahrabal, Zakopal](https://open.spotify.com/track/2BDvk1LXJkRnxf1hh6Ljvp) | [Jasmin](https://open.spotify.com/artist/5m53CoCQ0bkn6L4vHvtn80) | [Zapomněl, Zahrabal, Zakopal](https://open.spotify.com/album/64uNm9CNWGAwe72OISGaDQ) | 2:51 | 2022-05-03 | 2022-09-07 |
+| [Zkraceno v překladu](https://open.spotify.com/track/2YsRZ7KDrgacSbOXMxty4O) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Umami](https://open.spotify.com/album/1dXLykCkxmJxSHFDHPLtES) | 2:27 | 2022-12-21 |  |
 | [Zkraceno v překladu](https://open.spotify.com/track/3RiYzSJtBvepIaG2kPp7w7) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Umami](https://open.spotify.com/album/2jbsQzyMviDICk8oxzMMWy) | 2:27 | 2022-02-01 | 2022-07-01 |
 | [Zlatý kolovrat](https://open.spotify.com/track/6ialcFeuXk5ScRIH83RPLV) | [Radůza](https://open.spotify.com/artist/4iwfTVBJGGtaCAgy2K0PAd) | [Nebe je odemčené](https://open.spotify.com/album/1a8dD01amRMssvxbeNx64U) | 3:38 | 2022-04-05 | 2022-08-03 |
 | [Ztracený případ](https://open.spotify.com/track/4HKiAhlmqOYBTk9Si5oN9G) | [Veronika Morávková](https://open.spotify.com/artist/0z2LuH0T0WnWdawzne0DR4) | [Ztracený případ](https://open.spotify.com/album/63mD3mVlybWpSahrH9amKn) | 2:34 | 2021-12-07 | 2022-02-02 |

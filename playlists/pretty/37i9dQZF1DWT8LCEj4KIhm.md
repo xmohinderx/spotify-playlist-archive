@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,010 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,009 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 15 | [Sweet Dreams](https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Sweet Dreams](https://open.spotify.com/album/3w6gpFZnwljc37HpVlr3WB) | 2:31 |
 | 16 | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/album/7KJTuTXYSnBGNgAxte3CSg) | 3:27 |
 | 17 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
-| 18 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
-| 19 | [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 |
+| 18 | [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 |
+| 19 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
 | 20 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
 | 21 | [Tinted Eyes \(feat\. blackbear & 24kGoldn\)](https://open.spotify.com/track/68UW3plyDDNg1dkNIZRezJ) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tinted Eyes \(feat\. blackbear & 24kGoldn\)](https://open.spotify.com/album/63qrRZqzJKieNXIbN2Uvkx) | 2:55 |
 | 22 | [Lose You](https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 75 | [Sous les rivières](https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Le tournant \(Deluxe\)](https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW) | 3:38 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDU2ZGU4ZGEyMTZmNjdhYWE5OTA0NTZhMzQyYjE4OTIx`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGE3NzViNjljZDBhNGE5M2I0ZGFlMzdjOTI4NTMzZWJl`

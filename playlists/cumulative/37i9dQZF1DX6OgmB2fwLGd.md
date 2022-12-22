@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Riovaz
 
-497 songs - 20 hr 37 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+499 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-02 | 2022-07-02 |
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 | 2022-09-02 |  |
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-09-02 | 2022-12-01 |
-| [Dancing In The Rain](https://open.spotify.com/track/4tLaORnfkafV07U8O8dEeL) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Marvelous](https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka) | 2:05 | 2022-10-28 |  |
+| [Dancing In The Rain](https://open.spotify.com/track/4tLaORnfkafV07U8O8dEeL) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Marvelous](https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka) | 2:05 | 2022-10-28 | 2022-12-22 |
 | [Dat Way](https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol), [Jay Browne](https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ) | [Daytona](https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa) | 3:08 | 2022-03-11 | 2022-07-16 |
 | [Deadguy](https://open.spotify.com/track/1lITtbljRbadZO0eXgSoIX) | [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Vlamily](https://open.spotify.com/album/04UXzrSTCTv7AN32oxVpKF) | 1:55 | 2022-04-06 | 2022-05-25 |
 | [Dean Kissick](https://open.spotify.com/track/09AILqJtBjyMGJah1zYyQB) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/4GrqSrbnSOZZmCEvezSQYy) | 1:48 | 2022-07-29 | 2022-08-30 |
@@ -223,7 +223,8 @@
 | [How Much Cash](https://open.spotify.com/track/7MqhkWnXD53EK4XreeK2F1) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [How Much Cash](https://open.spotify.com/album/3h1vVs84r2jOB5BgEnCQh0) | 2:08 | 2022-02-11 | 2022-02-19 |
 | [Humans Being Humans](https://open.spotify.com/track/4UEKSWhyeuqaeDM1BXeypE) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Humans Being Humans](https://open.spotify.com/album/2st8Kbp56wmwC5Z2MLo5R3) | 2:11 | 2022-11-11 |  |
 | [HUNNED%](https://open.spotify.com/track/55FiPmCZvjWHzwIPiRUfMm) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [HUNNED%](https://open.spotify.com/album/68NIwBGOt3h86RyPQx6kLs) | 2:40 | 2022-09-23 | 2022-12-17 |
-| [I Can't](https://open.spotify.com/track/5jnyHKyzmQ5BvJjmPFfJ25) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't](https://open.spotify.com/album/4FYkhVaVxaarWtbpPX9Ske) | 2:29 | 2022-12-16 |  |
+| [I Can't](https://open.spotify.com/track/0Zo8a2oMdEKCBPFszXtxqN) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't](https://open.spotify.com/album/4DZWXg7CmxlSFgIt83wTYr) | 2:29 | 2022-12-16 |  |
+| [I Can't](https://open.spotify.com/track/5jnyHKyzmQ5BvJjmPFfJ25) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't](https://open.spotify.com/album/4FYkhVaVxaarWtbpPX9Ske) | 2:29 | 2022-12-16 | 2022-12-22 |
 | [I Chose Violence](https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [I Chose Violence](https://open.spotify.com/album/0VGDZJXfVVi3vEgbJTRXQ8) | 2:19 | 2021-10-28 | 2022-04-29 |
 | [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 | 2022-09-02 |  |
 | [I Dream of Chrome](https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:25 | 2022-12-16 |  |
@@ -448,6 +449,7 @@
 | [Tears](https://open.spotify.com/track/5PUxWxXQEJJidGkIVIF7Tq) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [Tears](https://open.spotify.com/album/51JeumHc5NAoZTZaaLw9v0) | 1:50 | 2022-05-13 | 2022-10-15 |
 | [Tears of a Tiger](https://open.spotify.com/track/2pRU7Hr7vmSWT90NNOQiTd) | [Big Body Bes](https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP) | [Tears of a Tiger](https://open.spotify.com/album/2qLFnJ5LOvJpQURsaVdsdK) | 2:20 | 2021-12-10 | 2021-12-27 |
 | [Tempt](https://open.spotify.com/track/2DTE6afvhrNnhsWJYcr4Aq) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM), [Marlon DuBois](https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm) | [Just Tired](https://open.spotify.com/album/1UxqMmmqdwl0cvGh7Chxfi) | 2:46 | 2022-08-20 | 2022-10-05 |
+| [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 | 2022-12-21 |  |
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-10-06 | 2022-02-05 |
 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-07 | 2022-07-23 |
 | [The Grinch](https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 1:31 | 2022-08-23 |  |

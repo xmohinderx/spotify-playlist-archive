@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: AViVA
 
-224 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+225 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/1lETAGGc4PX6cKfv9sjB2U) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/7kEgA5suCapUXnxaS1me8T) | 3:04 | 2021-09-03 | 2022-04-02 |
 | [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 | 2021-05-21 | 2022-03-16 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-07-26 |
-| [Have Fun](https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Have Fun](https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C) | 3:56 | 2022-04-08 |  |
+| [Have Fun](https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Have Fun](https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C) | 3:56 | 2022-04-08 | 2022-12-22 |
 | [Have My Back](https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Have My Back](https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u) | 3:47 | 2022-06-17 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-07-09 |  |
 | [Heaven Angel](https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Heaven Angel](https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh) | 3:39 | 2021-07-09 |  |
@@ -171,6 +171,7 @@
 | [PUMP THE BREAK](https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:12 | 2022-10-14 | 2022-11-13 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-04-01 | 2022-10-15 |
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2021-06-25 |  |
+| [Regret \- Remix](https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD) | 3:29 | 2022-11-25 |  |
 | [Regret \- Remix](https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:29 | 2022-10-14 | 2022-12-01 |
 | [Regret \- Remix](https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Regret \(Remix\)](https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A) | 3:29 | 2022-02-11 | 2022-07-29 |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2021-11-12 | 2022-02-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,148 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,171 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 3 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 |
 | 4 | [Angikaze](https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9) | [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL) | [Angikaze](https://open.spotify.com/album/24jSGmLZMp4TVNnD8GSDtE) | 6:43 |
 | 5 | [Do 4 Love](https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j) | [Back 2 Basics](https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9) | 7:19 |
-| 6 | [Sweet Nothings \- Original Mix](https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [Sweet Nothings](https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e) | 4:33 |
-| 7 | [Wena](https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Disciples of House](https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr) | [Ghost](https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU) | 4:10 |
+| 6 | [Wena](https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Disciples of House](https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr) | [Ghost](https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU) | 4:10 |
+| 7 | [Sweet Nothings \- Original Mix](https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [Sweet Nothings](https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e) | 4:33 |
 | 8 | [S'khanyisele](https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Sir Bless](https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m) | [Thief In The Night](https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b) | 6:15 |
 | 9 | [This Must Be Deep \- Original Mix](https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [This Must Be Deep](https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE) | 6:33 |
 | 10 | [False Facade](https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [False Facade](https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs) | 6:56 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 43 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
 | 44 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 |
 | 45 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
-| 46 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 |
-| 47 | [Safari \- Original Mix](https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Safari](https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj) | 6:08 |
+| 46 | [Safari \- Original Mix](https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Safari](https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj) | 6:08 |
+| 47 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 |
 | 48 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 |
-| 49 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
-| 50 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
+| 49 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
+| 50 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
 
-Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMGY1MThiYWRmNTdiNDJhMDIwMTE3YjI0NTRmZDY3ZTFj`
+Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDBmZTc2YTFmOTBjNzFlNDc3MmZlZDFiYTNjODAyYmVi`

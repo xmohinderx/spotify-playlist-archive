@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-200 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+201 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bluewave Bossanova](https://open.spotify.com/track/2QOqnhCrTIqTLzByQD7YQJ) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [True North](https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm) | 4:24 | 2021-12-27 |  |
 | [Brazz Street](https://open.spotify.com/track/5zicMKlbOqwkKr3iCuVJnS) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/3NUmzmDKiJpN2I0Jznj6zS) | 4:42 | 2021-12-27 | 2022-07-29 |
 | [Brazz Street](https://open.spotify.com/track/6ldCioYjj4oYp0hrvD3zFh) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/311JJvbG6VDhP5NDPutK1B) | 4:42 | 2022-07-18 |  |
+| [Business As Usual](https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Business As Usual](https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5) | 3:36 | 2022-12-20 |  |
 | [Can You Feel It](https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Double Vision](https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL) | 4:11 | 2022-01-10 |  |
 | [Can You Hear Me](https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF) | [Patrick Bradley](https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Can You Hear Me](https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5) | 5:04 | 2021-12-27 |  |
 | [Can't Stop](https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Escape](https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T) | 4:40 | 2021-12-27 | 2022-06-15 |
@@ -48,7 +49,7 @@
 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 | 2021-12-27 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 | 2022-08-01 |  |
 | [Cruising](https://open.spotify.com/track/7C90grbsFHtsmGac0clKhm) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/5m0YhT07QfRVhcnjGmrBZS) | 5:38 | 2021-12-27 | 2022-07-12 |
-| [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 | 2022-05-23 |  |
+| [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 | 2022-05-23 | 2022-12-22 |
 | [Down Here On The Ground](https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Let's Get Away](https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD) | 3:25 | 2022-07-11 | 2022-07-25 |
 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 | 2022-04-11 | 2022-04-21 |
 | [Echoes of the Heart](https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 3:58 | 2022-05-23 |  |

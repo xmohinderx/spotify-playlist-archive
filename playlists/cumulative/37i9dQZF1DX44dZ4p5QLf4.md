@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-285 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+286 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-10-07 |  |
 | [Till Then](https://open.spotify.com/track/6cCdW3KSYyXf5RUMpYLRLI) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Daphne](https://open.spotify.com/album/6Cfk8r536eOg7neP6W3Pfl) | 3:16 | 2022-12-02 |  |
 | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/track/2zkZLLgRH6nrJYNlYhK47N) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/album/6W3vlNqiYjKE5BEAKTmlpP) | 3:33 | 2021-12-16 | 2022-06-17 |
+| [Told you so](https://open.spotify.com/track/21X3h6KM8BfxqcrrHD7ybj) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Told you so](https://open.spotify.com/album/0NtlI4QSCeyq9S3LLLZVp1) | 4:49 | 2022-12-21 |  |
 | [Too Good](https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/5HVN2gkgSGbY91XQ1sNKab) | 3:42 | 2021-12-16 | 2022-07-07 |
 | [Try](https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Try](https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7) | 4:22 | 2022-03-10 |  |
 | [Turn Me On \(Live From London\)](https://open.spotify.com/track/1MBeQV0la3466Kr2tFQfTY) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [LIVE From London: Old Vinyl Factory](https://open.spotify.com/album/1WSiEKxyHeQh9gwJgzdRdJ) | 3:28 | 2021-12-16 | 2022-01-26 |

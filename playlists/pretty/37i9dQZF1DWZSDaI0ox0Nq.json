@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14464,
+  "num_followers": 14469,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGZkMTk1ZTM5MjllNWE3NTk4ODBlMmQ0MzhiYmEwMTU5",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDhlMzM0MjE2MDE4ODIyNDE0YzMzMTVmMDhjYzBkNTYx",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -63,26 +63,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Viajera",
+        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
         }
       ],
-      "duration_ms": 337753,
-      "name": "Balada para un Loco",
-      "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
+      "duration_ms": 323066,
+      "name": "Pasos",
+      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -103,18 +95,26 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Viajera",
-        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
-      "duration_ms": 323066,
-      "name": "Pasos",
-      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
+      "duration_ms": 337753,
+      "name": "Balada para un Loco",
+      "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
+      },
+      "artists": [
+        {
+          "name": "Ada Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Ofrenda Gaucha: Valsecito Amigo",
         "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 165637,
       "name": "Rosas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
-      },
-      "artists": [
-        {
-          "name": "Ada Falc\u00f3n",
-          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
     },
     {
       "added_at": "2022-07-08 03:00:00",

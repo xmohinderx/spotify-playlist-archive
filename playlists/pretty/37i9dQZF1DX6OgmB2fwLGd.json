@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Riovaz",
-  "num_followers": 1272769,
+  "num_followers": 1273105,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ2MjU3MywwMDAwMDAwMDE5ZjA4MDc0OWVkNTdlNzlkNjI0MmI1ZGQ5NjA5MDYz",
+  "snapshot_id": "MTY3MTY0NDI3OSwwMDAwMDAwMDkxMmUzOTQ3YTkyNjUzZmMyMjRkMzYzZWRhN2I4ZTY0",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
@@ -137,20 +153,20 @@
       "url": "https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-12-21 17:37:58",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ"
       },
       "artists": [
         {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+      "duration_ms": 146133,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
     },
     {
       "added_at": "2022-12-19 15:09:33",
@@ -188,7 +204,7 @@
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "I Can't",
-        "url": "https://open.spotify.com/album/4FYkhVaVxaarWtbpPX9Ske"
+        "url": "https://open.spotify.com/album/4DZWXg7CmxlSFgIt83wTYr"
       },
       "artists": [
         {
@@ -198,7 +214,7 @@
       ],
       "duration_ms": 149563,
       "name": "I Can't",
-      "url": "https://open.spotify.com/track/5jnyHKyzmQ5BvJjmPFfJ25"
+      "url": "https://open.spotify.com/track/0Zo8a2oMdEKCBPFszXtxqN"
     },
     {
       "added_at": "2022-10-14 05:22:00",
@@ -499,22 +515,6 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 125911,
-      "name": "Dancing In The Rain",
-      "url": "https://open.spotify.com/track/4tLaORnfkafV07U8O8dEeL"
     },
     {
       "added_at": "2022-12-02 22:50:56",

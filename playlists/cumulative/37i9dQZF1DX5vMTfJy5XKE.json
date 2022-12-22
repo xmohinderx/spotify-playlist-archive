@@ -1700,6 +1700,28 @@
     },
     {
       "album": {
+        "name": "Don't Let the Light Go Out",
+        "url": "https://open.spotify.com/album/653dA3SfNrYraUUIYa6BwI"
+      },
+      "artists": [
+        {
+          "name": "David Broza",
+          "url": "https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL"
+        },
+        {
+          "name": "Small Boss",
+          "url": "https://open.spotify.com/artist/6DVybSuWlpWdMA0ROmlddf"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Don't Let the Light Go Out",
+      "url": "https://open.spotify.com/track/39TF6ArINM2kpvc8aMG31C"
+    },
+    {
+      "album": {
         "name": "Driving Home for Christmas",
         "url": "https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr"
       },
@@ -2140,7 +2162,7 @@
     },
     {
       "album": {
-        "name": "I'll Be Waiting",
+        "name": "I'll Be Waiting (Sad At Christmas)",
         "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
       },
       "artists": [

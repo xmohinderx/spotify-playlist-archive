@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,119 likes - 371 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,305 likes - 371 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 46 | [Arrorró mi niño](https://open.spotify.com/track/2evLEM6b40sSXZ5dILCsQb) | [Joaquin Moreno Silva](https://open.spotify.com/artist/5vSCkD7iPcBU0GgEASL4ss) | [Arrorró mi niño](https://open.spotify.com/album/732cnh2czygqCKQtOrBnzI) | 1:48 |
 | 47 | [Good Night](https://open.spotify.com/track/3tid5OWnyCTKcTJfpTypvp) | [Nash Hershey](https://open.spotify.com/artist/7Jb6ocugSaKblkdgODXbUN) | [Good Night](https://open.spotify.com/album/002aizJ09iALMXmjTneAjv) | 1:10 |
 | 48 | [Takk for i dag](https://open.spotify.com/track/3HER5Z79EqP5jrbAhnpFRm) | [Love Haugen](https://open.spotify.com/artist/4NsGWqS4NvkK8fWRW3d6GL) | [Takk for i dag](https://open.spotify.com/album/2gg0y9rLtLg3JHAHMA2Q1v) | 1:23 |
-| 49 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/7zhLkll5sC1tJRTDGCau2P) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 |
+| 49 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 |
 | 50 | [Byssan Lull](https://open.spotify.com/track/6WmVu5QBY4uO0wvUTGfYjw) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Byssan Lull](https://open.spotify.com/album/2Q9FYlKgK2eNIPqfbuq9pI) | 2:34 |
 | 51 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 |
 | 52 | [Rain On The Roof](https://open.spotify.com/track/4B8RHheYV6ZglY4JN4BBO0) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:17 |

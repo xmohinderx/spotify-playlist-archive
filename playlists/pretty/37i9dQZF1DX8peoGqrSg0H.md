@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Billkin
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,738 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,939 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 9 | [งอนละ \- Boo](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 |
 | 10 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
 | 11 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 |
-| 12 | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/track/0y2YB7eptCx1NyV52Uu1i1) | [WIN METAWIN](https://open.spotify.com/artist/0TY5nD1s5F21SFcT8ZzU8G) | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/album/3dUIovhnjUOUA7CCqwvkMd) | 3:58 |
+| 12 | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/track/0y2YB7eptCx1NyV52Uu1i1) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/album/3dUIovhnjUOUA7CCqwvkMd) | 3:58 |
 | 13 | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/album/7IGF03KO1vRanMOaROicVI) | 3:44 |
 | 14 | [เจ็บนะ \(Hurt me\)](https://open.spotify.com/track/0K5jkka7iP8dlFi0as6Jh8) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [เจ็บนะ \(Hurt me\)](https://open.spotify.com/album/2a5dt0twdrfVYEdJAff5Ay) | 4:00 |
 | 15 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |

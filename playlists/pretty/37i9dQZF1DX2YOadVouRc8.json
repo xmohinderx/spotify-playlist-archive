@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 9498,
+  "num_followers": 9521,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMGIyNGI4NjE4OWRhNWRiODMwNjJlMWYwMWJlNWExZDIx",
+  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMGIzMmFkNWExMGY0N2Y3ZDM5YTViYTUxNmEwN2EzNzli",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
-    },
-    {
       "added_at": "2022-12-13 13:01:05",
       "album": {
         "name": "People",
@@ -459,6 +443,22 @@
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -493,26 +493,6 @@
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
@@ -539,6 +519,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2022-12-02 08:11:31",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
-      },
-      "artists": [
-        {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Vanity",
         "url": "https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 224837,
       "name": "Can You See Her",
       "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Trobul",
+        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Trobul",
+      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Your Love (Mogbe)",
         "url": "https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Trobul",
-        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Trobul",
-      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Dutty Love",
         "url": "https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 171428,
       "name": "Dutty Love",
       "url": "https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT"
-    },
-    {
-      "added_at": "2022-08-12 05:44:57",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 163200,
       "name": "Maria",
       "url": "https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM"
+    },
+    {
+      "added_at": "2022-08-12 05:44:57",
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1337,6 +1337,26 @@
       "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
     },
     {
+      "added_at": "2022-10-28 12:50:44",
+      "album": {
+        "name": "R-/LBT",
+        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
+        },
+        {
+          "name": "Riunga",
+          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
+        }
+      ],
+      "duration_ms": 230808,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "My WorlD With U",
@@ -1367,26 +1387,6 @@
       "duration_ms": 173333,
       "name": "alright, ok",
       "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
-    },
-    {
-      "added_at": "2022-10-28 12:50:44",
-      "album": {
-        "name": "R-/LBT",
-        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
-      },
-      "artists": [
-        {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
-        },
-        {
-          "name": "Riunga",
-          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
-        }
-      ],
-      "duration_ms": 230808,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
       "added_at": "2022-06-09 23:00:00",

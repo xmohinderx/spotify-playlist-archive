@@ -4,7 +4,7 @@
 
 > Estas son las indomables del Regional Mexicano\. Marisol Terrazas en portada.
 
-245 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/0i8T7w20lOXAWefxMbsjZ0)
+246 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/0i8T7w20lOXAWefxMbsjZ0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Porque Me Sabes Querer](https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Porque Me Sabes Querer](https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem) | 3:13 | 2022-09-23 |  |
 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 | 2021-12-17 | 2022-05-07 |
 | [Que Poca](https://open.spotify.com/track/0JQO9eCZDOTcUkXz7FfRQO) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/0XQF6UKQVn168OYRJfNoL5) | 3:08 | 2021-12-17 | 2022-07-29 |
-| [Que Poca](https://open.spotify.com/track/489an9gNuEO1fyf0ZIQ2nc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/54Q3EKL4bm3MBqFjyqhIH7) | 3:09 | 2022-06-08 |  |
+| [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 | 2022-09-23 |  |
+| [Que Poca](https://open.spotify.com/track/489an9gNuEO1fyf0ZIQ2nc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/54Q3EKL4bm3MBqFjyqhIH7) | 3:09 | 2022-06-08 | 2022-12-22 |
 | [Que Poquito Me Conoces](https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:30 | 2021-12-17 |  |
 | [Que Razón Tenía Mi Apá](https://open.spotify.com/track/1JDZPztDQcdFHrPcN1GGNl) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Que Razón Tenía Mi Apá](https://open.spotify.com/album/5vA7q0O1i0fGn19lBuoTe4) | 3:14 | 2021-12-17 | 2022-02-23 |
 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 | 2021-12-17 | 2022-01-29 |

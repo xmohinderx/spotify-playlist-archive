@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from SILK.",
-  "num_followers": 413997,
+  "num_followers": 414132,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDYwMmNkNmMyYTE0ZGE2NzlhNmZlYTVjNjIyYWU3OTNl",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGNjZDJjYzRkNjBhNGVkMTI0ZmJkYzBiN2QxYWIwYTAx",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "MV//MNT",
-        "url": "https://open.spotify.com/album/7MRzIoxez1tDxHDnRILJW1"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "Shyloom",
-          "url": "https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "DIMENSIONAL",
-      "url": "https://open.spotify.com/track/4trP47xiWSelndRjtYcGDF"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/78TnopwNnqynxZV3A7UJeB"
       },
@@ -679,18 +659,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "\u2020 (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6moXrbUfTHYc0aJcuGwIgR"
+        "name": "MV//MNT",
+        "url": "https://open.spotify.com/album/7MRzIoxez1tDxHDnRILJW1"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Shyloom",
+          "url": "https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG"
         }
       ],
-      "duration_ms": 182564,
-      "name": "Donna - Outtake",
-      "url": "https://open.spotify.com/track/29wCKit7yf8ipSCViR7cGd"
+      "duration_ms": 214736,
+      "name": "DIMENSIONAL",
+      "url": "https://open.spotify.com/track/4trP47xiWSelndRjtYcGDF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -719,42 +703,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "ANTIFRACTALS",
-        "url": "https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S"
+        "name": "\u2020 (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6moXrbUfTHYc0aJcuGwIgR"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "A Hundred Drums",
-          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         }
       ],
-      "duration_ms": 253263,
-      "name": "Flute Dub - A Hundred Drums Remix",
-      "url": "https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Take A Little Bit",
-        "url": "https://open.spotify.com/album/1n7mMtR72Nip7Dg3uhh9gu"
-      },
-      "artists": [
-        {
-          "name": "DJ Hanzel",
-          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 230812,
-      "name": "Take A Little Bit",
-      "url": "https://open.spotify.com/track/01itaRTFolhF6aHLzPhLYL"
+      "duration_ms": 182564,
+      "name": "Donna - Outtake",
+      "url": "https://open.spotify.com/track/29wCKit7yf8ipSCViR7cGd"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -779,26 +739,58 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Don\u2019t Look Down (Grafix Remix)",
-        "url": "https://open.spotify.com/album/4q1guVNUd3DN0gCVAFt817"
+        "name": "Take A Little Bit",
+        "url": "https://open.spotify.com/album/1n7mMtR72Nip7Dg3uhh9gu"
       },
       "artists": [
         {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+          "name": "DJ Hanzel",
+          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
         },
         {
-          "name": "Natalie Shay",
-          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
-        },
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         }
       ],
-      "duration_ms": 204137,
-      "name": "Don't Look Down (feat. Natalie Shay) - Grafix Remix",
-      "url": "https://open.spotify.com/track/1xGkCLBisHTlHKe9YW5yp4"
+      "duration_ms": 230812,
+      "name": "Take A Little Bit",
+      "url": "https://open.spotify.com/track/01itaRTFolhF6aHLzPhLYL"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "ANTIFRACTALS",
+        "url": "https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "A Hundred Drums",
+          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+        }
+      ],
+      "duration_ms": 253263,
+      "name": "Flute Dub - A Hundred Drums Remix",
+      "url": "https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/1a8j1xt8u7J9ozOgZVm9AI"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 171048,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -827,22 +819,6 @@
       "duration_ms": 200333,
       "name": "Dance Lullaby (Radio Night MIX)",
       "url": "https://open.spotify.com/track/0KRBzhDVHk6ueeINrLushR"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/1a8j1xt8u7J9ozOgZVm9AI"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 171048,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -879,6 +855,30 @@
       "duration_ms": 235719,
       "name": "Oyna",
       "url": "https://open.spotify.com/track/2wskP9tkzqColihnztb1os"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Don\u2019t Look Down (Grafix Remix)",
+        "url": "https://open.spotify.com/album/4q1guVNUd3DN0gCVAFt817"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        },
+        {
+          "name": "Natalie Shay",
+          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
+        },
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Don't Look Down (feat. Natalie Shay) - Grafix Remix",
+      "url": "https://open.spotify.com/track/1xGkCLBisHTlHKe9YW5yp4"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Crucible",
-        "url": "https://open.spotify.com/album/5P2Wqvd5Xaxm91tGZJ6rxI"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 286947,
-      "name": "Crucible",
-      "url": "https://open.spotify.com/track/7BrbDaxiewXA38HI7aVwHN"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "I Don't Wanna Know",
         "url": "https://open.spotify.com/album/5gUDqhWjIzsG7lI1nWTqhN"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 181352,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/0xeeAmrwhDnV8ctqQWEpW3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Crucible",
+        "url": "https://open.spotify.com/album/5P2Wqvd5Xaxm91tGZJ6rxI"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "duration_ms": 286947,
+      "name": "Crucible",
+      "url": "https://open.spotify.com/track/7BrbDaxiewXA38HI7aVwHN"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "pass on over",
-        "url": "https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 157176,
-      "name": "pass on over",
-      "url": "https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Zissou Edits Best Vol. 2",
         "url": "https://open.spotify.com/album/6Olob9MLS6LCSgan8hc8wp"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "SMACK",
-        "url": "https://open.spotify.com/album/5VQ1hPBUB5jk9hIkz7vVZd"
+        "name": "pass on over",
+        "url": "https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 158181,
-      "name": "SMACK",
-      "url": "https://open.spotify.com/track/1StGIo6eaMq7AanJFHs3vm"
+      "duration_ms": 157176,
+      "name": "pass on over",
+      "url": "https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "SMACK",
+        "url": "https://open.spotify.com/album/5VQ1hPBUB5jk9hIkz7vVZd"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "SMACK",
+      "url": "https://open.spotify.com/track/1StGIo6eaMq7AanJFHs3vm"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Up To No Good",
         "url": "https://open.spotify.com/album/4g4jrbnodImR4dcwN4yv9s"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 152640,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/6Dxvw735HPuIEHkmhc6r9M"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Sapphire / My Love",
+        "url": "https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sapphire / My Love",
-        "url": "https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs"
-      },
-      "artists": [
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Reto V",
         "url": "https://open.spotify.com/album/5X0BBgXFTb6K1jRUPW9oaG"
       },
@@ -1359,26 +1359,6 @@
       "duration_ms": 216687,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/6sFEubIG6L1RYPAVyZ6U2m"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Dilemma (Avision Remix)",
-        "url": "https://open.spotify.com/album/0MumwyMhnlui3dZiJ9RGev"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        },
-        {
-          "name": "Avision",
-          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Dilemma - Avision Remix",
-      "url": "https://open.spotify.com/track/6yPH9jTMMDN5BSr4LRFrC9"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1403,6 +1383,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "To the Soul",
+        "url": "https://open.spotify.com/album/5ozX77l1jnaM9dWDUGv78H"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "duration_ms": 396004,
+      "name": "To the Soul",
+      "url": "https://open.spotify.com/track/2YrXmlAEz519MRKZdpcR3F"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Isola",
         "url": "https://open.spotify.com/album/63JhaTCj0elggFnPojTWWh"
       },
@@ -1423,6 +1419,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Dilemma (Avision Remix)",
+        "url": "https://open.spotify.com/album/0MumwyMhnlui3dZiJ9RGev"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "Avision",
+          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Dilemma - Avision Remix",
+      "url": "https://open.spotify.com/track/6yPH9jTMMDN5BSr4LRFrC9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Drip Drop",
         "url": "https://open.spotify.com/album/7vr2wN6tmohuaGTQ2mOBtX"
       },
@@ -1435,58 +1451,6 @@
       "duration_ms": 191124,
       "name": "Drip Drop",
       "url": "https://open.spotify.com/track/4VsimJYHOXf0jd9TGPgzJK"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/2qJgRjmfiRzg75yl04Kms8"
-      },
-      "artists": [
-        {
-          "name": "TC",
-          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
-        },
-        {
-          "name": "Jakes",
-          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
-        }
-      ],
-      "duration_ms": 209445,
-      "name": "Shade",
-      "url": "https://open.spotify.com/track/0rwnBxMt2ZF1TCh4qfI3v9"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "To the Soul",
-        "url": "https://open.spotify.com/album/5ozX77l1jnaM9dWDUGv78H"
-      },
-      "artists": [
-        {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
-        }
-      ],
-      "duration_ms": 396004,
-      "name": "To the Soul",
-      "url": "https://open.spotify.com/track/2YrXmlAEz519MRKZdpcR3F"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Give Me Your Heart",
-        "url": "https://open.spotify.com/album/0NWnmc7lfGrZOr4mUmmVus"
-      },
-      "artists": [
-        {
-          "name": "Mikey B",
-          "url": "https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy"
-        }
-      ],
-      "duration_ms": 238181,
-      "name": "Give Me Your Heart",
-      "url": "https://open.spotify.com/track/26U22Oyiz9MC3y1CzxJq3a"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1519,6 +1483,42 @@
       "duration_ms": 254285,
       "name": "Oh Please",
       "url": "https://open.spotify.com/track/7l22c5ZACFSzIV5Lwomq9c"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/2qJgRjmfiRzg75yl04Kms8"
+      },
+      "artists": [
+        {
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
+        },
+        {
+          "name": "Jakes",
+          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+        }
+      ],
+      "duration_ms": 209445,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/0rwnBxMt2ZF1TCh4qfI3v9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Give Me Your Heart",
+        "url": "https://open.spotify.com/album/0NWnmc7lfGrZOr4mUmmVus"
+      },
+      "artists": [
+        {
+          "name": "Mikey B",
+          "url": "https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy"
+        }
+      ],
+      "duration_ms": 238181,
+      "name": "Give Me Your Heart",
+      "url": "https://open.spotify.com/track/26U22Oyiz9MC3y1CzxJq3a"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1563,18 +1563,34 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Compensate",
-        "url": "https://open.spotify.com/album/4DspHyHb0EyJcQRrVUa56Q"
+        "name": "Circular Motions EP",
+        "url": "https://open.spotify.com/album/5VjCr8Wo4yIlRjkFXNaT2h"
       },
       "artists": [
         {
-          "name": "Lunice",
-          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+          "name": "Ben Sims",
+          "url": "https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt"
         }
       ],
-      "duration_ms": 147500,
-      "name": "Compensate",
-      "url": "https://open.spotify.com/track/3KWToGJGbyyd7RjvPOskqO"
+      "duration_ms": 363670,
+      "name": "Snapshot '99",
+      "url": "https://open.spotify.com/track/11gGOwStTHjiOlWbQgJCeB"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Sexy Dance",
+        "url": "https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN"
+      },
+      "artists": [
+        {
+          "name": "KOKO.IT",
+          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
+        }
+      ],
+      "duration_ms": 250848,
+      "name": "Sexy Dance",
+      "url": "https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1591,6 +1607,38 @@
       "duration_ms": 189677,
       "name": "Dancing Heat - Edit",
       "url": "https://open.spotify.com/track/6p4lkrfMu33W7p6dHrcMXT"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Compensate",
+        "url": "https://open.spotify.com/album/4DspHyHb0EyJcQRrVUa56Q"
+      },
+      "artists": [
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Compensate",
+      "url": "https://open.spotify.com/track/3KWToGJGbyyd7RjvPOskqO"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Between The Loops",
+        "url": "https://open.spotify.com/album/5XAL2RJK5w5zokr5atpkUq"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 339943,
+      "name": "Less Dreams",
+      "url": "https://open.spotify.com/track/725n2tquItS8i3oa8DykDV"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1615,50 +1663,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Between The Loops",
-        "url": "https://open.spotify.com/album/5XAL2RJK5w5zokr5atpkUq"
+        "name": "Unfold Voices Remixes",
+        "url": "https://open.spotify.com/album/5nLteuz9han8SVe4foGVCS"
       },
       "artists": [
         {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 339943,
-      "name": "Less Dreams",
-      "url": "https://open.spotify.com/track/725n2tquItS8i3oa8DykDV"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Sexy Dance",
-        "url": "https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN"
-      },
-      "artists": [
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        },
         {
-          "name": "KOKO.IT",
-          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
+          "name": "Malandra Jr.",
+          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
         }
       ],
-      "duration_ms": 250848,
-      "name": "Sexy Dance",
-      "url": "https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Circular Motions EP",
-        "url": "https://open.spotify.com/album/5VjCr8Wo4yIlRjkFXNaT2h"
-      },
-      "artists": [
-        {
-          "name": "Ben Sims",
-          "url": "https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt"
-        }
-      ],
-      "duration_ms": 363670,
-      "name": "Snapshot '99",
-      "url": "https://open.spotify.com/track/11gGOwStTHjiOlWbQgJCeB"
+      "duration_ms": 425348,
+      "name": "Voices - Malandra Jr. Remix",
+      "url": "https://open.spotify.com/track/2z52FxRUYc13V25jBtI9PL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1683,26 +1703,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Unfold Voices Remixes",
-        "url": "https://open.spotify.com/album/5nLteuz9han8SVe4foGVCS"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        },
-        {
-          "name": "Malandra Jr.",
-          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
-        }
-      ],
-      "duration_ms": 425348,
-      "name": "Voices - Malandra Jr. Remix",
-      "url": "https://open.spotify.com/track/2z52FxRUYc13V25jBtI9PL"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "DEITY",
         "url": "https://open.spotify.com/album/1E35nL1CA4emfHsz3FWzpA"
       },
@@ -1715,6 +1715,22 @@
       "duration_ms": 172800,
       "name": "DEITY",
       "url": "https://open.spotify.com/track/0gCO5pktyMWcAMRqmm1G38"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "on my own",
+        "url": "https://open.spotify.com/album/2scz1PYUXmFVP0xs8JR2O6"
+      },
+      "artists": [
+        {
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+        }
+      ],
+      "duration_ms": 361583,
+      "name": "on my own",
+      "url": "https://open.spotify.com/track/0T9529Sq8SrzayMRQpkvOH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1735,22 +1751,6 @@
       "duration_ms": 363779,
       "name": "Disco Mike",
       "url": "https://open.spotify.com/track/1WJT52wDo3rrPQ39RazYUm"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "on my own",
-        "url": "https://open.spotify.com/album/2scz1PYUXmFVP0xs8JR2O6"
-      },
-      "artists": [
-        {
-          "name": "t e s t p r e s s",
-          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
-        }
-      ],
-      "duration_ms": 361583,
-      "name": "on my own",
-      "url": "https://open.spotify.com/track/0T9529Sq8SrzayMRQpkvOH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/6V6hDPGcqrAH0D1sQeb7oO"
-      },
-      "artists": [
-        {
-          "name": "ODYSSAY",
-          "url": "https://open.spotify.com/artist/1oP9GamuyWaSSh4w2NsAtR"
-        }
-      ],
-      "duration_ms": 249677,
-      "name": "Unbroken",
-      "url": "https://open.spotify.com/track/3LoxkyzxRVBl4gDi2LQ5ME"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Spaceship",
         "url": "https://open.spotify.com/album/3YV50C8unIF38vKAyMDeSI"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 140689,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1GZaUXs4yZ45S5qiAObPTn"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/6V6hDPGcqrAH0D1sQeb7oO"
+      },
+      "artists": [
+        {
+          "name": "ODYSSAY",
+          "url": "https://open.spotify.com/artist/1oP9GamuyWaSSh4w2NsAtR"
+        }
+      ],
+      "duration_ms": 249677,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/3LoxkyzxRVBl4gDi2LQ5ME"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1967,26 +1967,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sinner (Baby Weight Remix)",
-        "url": "https://open.spotify.com/album/3IcizMtRTV2KqUgD2OcHfT"
+        "name": "Shifty",
+        "url": "https://open.spotify.com/album/1KZqEx6JmLJccWwXRZqH0a"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        },
-        {
-          "name": "Baby Weight",
-          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+          "name": "Ashee",
+          "url": "https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz"
         }
       ],
-      "duration_ms": 264648,
-      "name": "Sinner - Baby Weight Remix",
-      "url": "https://open.spotify.com/track/24xflVlCZPhQeuyJUyHuiZ"
+      "duration_ms": 413460,
+      "name": "Mediator - full length version",
+      "url": "https://open.spotify.com/track/280kHoJ2XRFjL6K3S0kaa8"
     }
   ],
   "unique_name": "New Music Friday Dance",

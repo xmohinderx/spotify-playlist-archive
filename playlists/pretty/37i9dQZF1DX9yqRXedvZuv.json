@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1070,
+  "num_followers": 1071,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMDcxNjZlOTgwZThmNjU3YzU5OWNlMDNhMDhhYjQxNWM1",
+  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMDdjYjlmYjYyYjlmM2Q5NjUyNWE0Y2Y1M2VmYmRhMzU0",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "LIVE.LOVE.A$AP",
-        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 255773,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
     },
     {
       "added_at": "2022-10-01 17:37:57",

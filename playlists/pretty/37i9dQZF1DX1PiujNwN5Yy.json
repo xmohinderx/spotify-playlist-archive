@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 101453,
+  "num_followers": 101492,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTAzOTk4MiwwMDAwMDAwMGZhNDJmYjgzNTNhODZjYjNmNzFlMTFkMWU3OTE1NmMy",
+  "snapshot_id": "MTY3MTAzOTk4MiwwMDAwMDAwMDNmNTQ4YTM1MjM2Y2RjNTdmNWNkY2RlYTgwYjE2ZjQ3",
   "tracks": [
     {
       "added_at": "2022-12-05 15:32:52",
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
     },
     {
-      "added_at": "2022-12-21 00:57:45",
+      "added_at": "2022-12-22 01:10:36",
       "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 190762,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "Otras Alas",
         "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 187016,
       "name": "nana triste",
       "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 190762,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "Ya mi mama me dec\u00eda",
-      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "Nunca Estoy",
         "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 162222,
       "name": "Nunca Estoy",
       "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+      "duration_ms": 191846,
+      "name": "Ya mi mama me dec\u00eda",
+      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "De Mi Para Ti",
-      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "Vete Si Quieres",
         "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 228575,
       "name": "Vete Si Quieres",
       "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
+      },
+      "artists": [
+        {
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "De Mi Para Ti",
+      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "duration_ms": 207248,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
         "name": "Amor Insustancial",
         "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 251640,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
-      },
-      "artists": [
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
-        }
-      ],
-      "duration_ms": 207248,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl"
     },
     {
       "added_at": "2022-12-05 15:32:52",

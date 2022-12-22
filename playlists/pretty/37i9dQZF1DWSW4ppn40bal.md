@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,568 likes - 454 songs - 23 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,642 likes - 454 songs - 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,7 +384,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 374 | [Brown Noise 743Hz](https://open.spotify.com/track/4hbUmOmvkhmmGahzjEBdGT) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Brown Noise in Space](https://open.spotify.com/album/7o2G37Oepd4GWHnRT58QgR) | 3:36 |
 | 375 | [Rolling Deep](https://open.spotify.com/track/74z73AMsEbOWSffQB4IIHl) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:05 |
 | 376 | [Soothing Brown Noise](https://open.spotify.com/track/2FW8YAb6QaMbyLFDpnoFr5) | [Julia Sono](https://open.spotify.com/artist/7Bbr5r0eIb5k773rp7En9q) | [Soothing Brown Noise](https://open.spotify.com/album/7oU0nNxdUDwEaa4Ddft0l0) | 3:03 |
-| 377 | [Brown Noise in a Cave](https://open.spotify.com/track/7J4fKu2rJSP5zS2jyUgZuk) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Brown Noise near the Baby Crib](https://open.spotify.com/album/0BGay7OcIt7wkDdIktSYa4) | 3:36 |
+| 377 | [Brown Noise in a Cave](https://open.spotify.com/track/7J4fKu2rJSP5zS2jyUgZuk) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise near the Baby Crib](https://open.spotify.com/album/0BGay7OcIt7wkDdIktSYa4) | 3:36 |
 | 378 | [126 hz LPF Brown Noise](https://open.spotify.com/track/0CR2sYL6dGeIpgpZigcR0t) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:29 |
 | 379 | [Brown Waves 420 Hz Soft Q](https://open.spotify.com/track/5eBwezSk823pUYaN40U1jQ) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [The Brown Collection Part 2](https://open.spotify.com/album/55nB417o23ycw0v5jh46Zv) | 3:09 |
 | 380 | [Ocean Dark](https://open.spotify.com/track/0PpxQLCq0ZWzhrz1YxVUXD) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 3:01 |
@@ -394,7 +394,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 384 | [Brown Noise LP 850](https://open.spotify.com/track/6VAu4qYnQ5rrsR5WzepHpk) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Mind Calming Noise](https://open.spotify.com/album/6yh8nBs9vgJLjIykDpDJkh) | 2:23 |
 | 385 | [Brown Comfort](https://open.spotify.com/track/1JKDKAkLK2lqKJC68TbOxT) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Brown Comfort](https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t) | 3:38 |
 | 386 | [Brown Heavenly Noise](https://open.spotify.com/track/0SSchGW5zpdFghrt6pcVff) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Brown Heavenly Noise](https://open.spotify.com/album/0iBBk21u80JLwr4TO0tRGk) | 3:08 |
-| 387 | [Brown Noise near the Baby Crib](https://open.spotify.com/track/2UvMW1EY2UOxgpxiWUaOyo) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Brown Noise near the Baby Crib](https://open.spotify.com/album/0BGay7OcIt7wkDdIktSYa4) | 3:35 |
+| 387 | [Brown Noise near the Baby Crib](https://open.spotify.com/track/2UvMW1EY2UOxgpxiWUaOyo) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise near the Baby Crib](https://open.spotify.com/album/0BGay7OcIt7wkDdIktSYa4) | 3:35 |
 | 388 | [Brown Cozy Noise \- Seamless](https://open.spotify.com/track/00N4DgM8so0Pn1Pdb0m9Kc) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Brown Cozy Noise](https://open.spotify.com/album/3w4ELmY4aGFZKyNGO1BfZ9) | 2:55 |
 | 389 | [Brown LP 1.15k](https://open.spotify.com/track/2JEjPe52XzyvyMPwfjY9Mh) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Brown Noise for Relaxation](https://open.spotify.com/album/66p1BePG9KAQsa6cim5Amd) | 2:30 |
 | 390 | [Brown Noise Tranquil Mind](https://open.spotify.com/track/4w3MPe2mBxO6cVSINTBW5B) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Brown Noise Sleep Escape](https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE) | 3:02 |
@@ -458,7 +458,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 448 | [Brown Bliss 250 Hz Q 1 \- Seamless](https://open.spotify.com/track/1i92x6LMGFvTvtqGWLBqw4) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [Brown Bliss](https://open.spotify.com/album/6eXlffD6lBYQwW2nvWL5xq) | 2:57 |
 | 449 | [Brown Noise 250 Hz Smooth Q \- Seamless](https://open.spotify.com/track/1RauFf2NZTjZgPzsjl9W8q) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Tranquil Brown](https://open.spotify.com/album/2p2VzgpoN035uU2XzvVzEZ) | 2:56 |
 | 450 | [Crux Brown Noise](https://open.spotify.com/track/4gUI9mfQupthMokSX28qWJ) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 3:04 |
-| 451 | [Dream State](https://open.spotify.com/track/2jx3wHzqX8FbikDXOeV49w) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Deep Sleep](https://open.spotify.com/album/4FCYAXNyQncLd5g44aaPlg) | 3:39 |
+| 451 | [Dream State](https://open.spotify.com/track/2jx3wHzqX8FbikDXOeV49w) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Deep Sleep](https://open.spotify.com/album/4FCYAXNyQncLd5g44aaPlg) | 3:39 |
 | 452 | [Sextans Brown Noise](https://open.spotify.com/track/35rA249YlOrWC7DhN0JtNs) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 2:51 |
 | 453 | [Street Noise \- Brown Noise](https://open.spotify.com/track/7iS8aC9Qmet8TyVUqyR4jY) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Street Noise](https://open.spotify.com/album/2YHzdONjtX9H2J0svfX1yp) | 3:00 |
 | 454 | [Taurus Brown Noise](https://open.spotify.com/track/4hjyardB6ieDivEFMi9xJe) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 3:00 |

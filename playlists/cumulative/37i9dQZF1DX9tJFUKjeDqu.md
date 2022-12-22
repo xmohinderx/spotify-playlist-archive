@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-100 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+101 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [It's a Rough Ride We're On](https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi) | [Berdon Kirksaether](https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o), [The Twang Bar Kings](https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo) | [Blues](https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-04-15 |  |
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 |  |
+| [Lazy Morning](https://open.spotify.com/track/6o45k8RC2nsW0VaoN9laPh) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Lazy Morning](https://open.spotify.com/album/7DZvKKwzAQ1Hrip0KXq4Kx) | 2:12 | 2022-12-21 |  |
 | [Le blues de berthe](https://open.spotify.com/track/2WB7N4gk7MO4d6vjpxIruc) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/5xgnea0UTuxQnXctk4yARm) | 2:00 | 2022-07-29 |  |
 | [Le blues de berthe](https://open.spotify.com/track/4MAqsOKC5dngNQKjQe7RdZ) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/4veWCAN2OijQqL3kA1FZcP) | 2:00 | 2022-07-08 | 2022-09-23 |
 | [Le Blues de Berthe](https://open.spotify.com/track/4zZ6FWlCPoKFsbC1147cPZ) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/0GFbJOOm84hvz0svAuxyuu) | 2:00 | 2022-04-15 | 2022-09-30 |

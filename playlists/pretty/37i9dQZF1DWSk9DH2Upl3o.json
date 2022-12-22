@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 11268,
+  "num_followers": 11313,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDJkZThmMzAxMTlkNWQ1M2Q3ZjgwMzVkYzYyYTU2NGRm",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDRlMGU3YjdiMTJhZjdkYTZjNDQxNTEyZmY3MDRkZjk1",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 451253,
-      "name": "How Long...",
-      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "The Arcade",
@@ -381,20 +365,20 @@
       "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
+      "duration_ms": 451253,
+      "name": "How Long...",
+      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -411,6 +395,22 @@
       "duration_ms": 357053,
       "name": "Babyman",
       "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Native Sons",
-        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 513070,
-      "name": "The World Is A Ghetto",
-      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
+      "duration_ms": 379640,
+      "name": "Ghost In The Machine",
+      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -721,20 +721,20 @@
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+        "name": "Native Sons",
+        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
         }
       ],
-      "duration_ms": 379640,
-      "name": "Ghost In The Machine",
-      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
+      "duration_ms": 513070,
+      "name": "The World Is A Ghetto",
+      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
     },
     {
       "added_at": "2022-09-16 04:01:00",

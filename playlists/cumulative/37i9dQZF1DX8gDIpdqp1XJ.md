@@ -4,11 +4,11 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-651 songs - 1 day 19 hr 25 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+652 songs - 1 day 19 hr 29 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 |  |
+| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 | 2022-12-22 |
 | [4\-U](https://open.spotify.com/track/3rOzx4VaqWIUmeod4k6Nc9) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Talk to Me When I'm Sober](https://open.spotify.com/album/4yKXpjNgwKMszBOUXYEFiv) | 3:45 | 2021-04-02 | 2022-04-21 |
 | [49 Years](https://open.spotify.com/track/0D0qXcu6qTrrVls156VipG) | [Club Kuru](https://open.spotify.com/artist/1AdQnmF6taa106PwtUBK6O) | [49 Years](https://open.spotify.com/album/2iuyzz6hPfbEBJEgikgoi6) | 3:56 | 2021-04-02 | 2022-04-21 |
 | [A Heavy Drug](https://open.spotify.com/track/0ZrT7h8W04PDhxTSBgsdrU) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Whatever & Ever](https://open.spotify.com/album/4EX14bfjBceEPyq5a3LAKI) | 5:26 | 2021-06-04 | 2022-04-18 |
@@ -133,6 +133,7 @@
 | [Dionysian State](https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Going Going Gone](https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl) | 3:04 | 2021-09-10 |  |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-17 | 2022-11-11 |
 | [Disco](https://open.spotify.com/track/4b8CVawtKXsHizyqEZfs8C) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:47 | 2022-04-21 | 2022-07-29 |
+| [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 | 2022-10-24 |  |
 | [Distraction](https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | ["Hello, Hi"](https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9) | 5:10 | 2022-07-22 | 2022-09-05 |
 | [DLMD](https://open.spotify.com/track/3cApZsOjkPnDRZzJGGCZNI) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [DLMD](https://open.spotify.com/album/35aXvaT5HEb0vBihxTZOsS) | 2:40 | 2021-04-02 | 2022-04-19 |
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2022-04-20 |  |

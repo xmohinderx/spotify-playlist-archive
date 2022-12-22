@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 18938,
+  "num_followers": 18955,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMGQ5ZjlmZWQzODY4ZGFhMjA3NTJmNWMyMmNhMGNmMTY3",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDRkYjk1NmZlZTdiOTBlMDY3N2E5YzU4MDcwY2U0Njhj",
   "tracks": [
     {
       "added_at": "2022-09-23 15:32:00",
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k"
     },
     {
-      "added_at": "2022-12-21 01:09:45",
+      "added_at": "2022-12-22 00:14:17",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Sometime In The H",
+        "url": "https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        },
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Badabing",
         "url": "https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 158007,
       "name": "SLIDIN",
       "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Sometime In The H",
-        "url": "https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        },
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "100 bars",
-        "url": "https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz"
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
       },
       "artists": [
         {
-          "name": "Doeboi909",
-          "url": "https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
         }
       ],
-      "duration_ms": 321360,
-      "name": "100 bars",
-      "url": "https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB"
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Raggare, ja de är alltid bäst!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,724 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,873 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 24 | [NÄR RADION DÅNAR](https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [NÄR RADION DÅNAR](https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO) | 2:10 |
 | 25 | [SATISFYER](https://open.spotify.com/track/5Hz79qfFkTjXI4GNATCnDW) | [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Russebassisten](https://open.spotify.com/artist/3KMDuL3T8s1cMvN2PntlLZ) | [SATISFYER](https://open.spotify.com/album/03ZjquvHVqs5LhfAet3QtU) | 2:14 |
 | 26 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 |
-| 27 | [POLERS](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [POLERS](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 |
+| 27 | [Polers](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [Polers](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 |
 | 28 | [JAG VET VAD DU VILL](https://open.spotify.com/track/02cLLtCNwPg5r6QqL94eHd) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VET VAD DU VILL](https://open.spotify.com/album/7LqQPMZtS6sEOyk2Jh69xq) | 2:04 |
 | 29 | [NU KOMMER RYSSARNA](https://open.spotify.com/track/1IHBwFLDN4XDFhNKDPCIn5) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [NU KOMMER RYSSARNA](https://open.spotify.com/album/5CPqkz8G22B6U0zLcNhdLX) | 3:04 |
 | 30 | [KASSANOVA](https://open.spotify.com/track/7d9BbXQi6mWb4xAiJUGb7T) | [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf), [Markoolio](https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam) | [KASSANOVA](https://open.spotify.com/album/1pLLCRuOFDujv3BXWR7jEa) | 2:02 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 66 | [Samurai](https://open.spotify.com/track/3iKyG1U1x9fXu4KVZRs4Uh) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Samurai](https://open.spotify.com/album/0bEk1oSbj6LL6N6Gy9YCaA) | 2:57 |
 | 67 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
 | 68 | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL) | 2:20 |
-| 69 | [Hedda & Mie \(Jagger\)](https://open.spotify.com/track/6mfNhGLRGXHZwvI7XetbTX) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH) | [Hedda & Mie \(Jagger\)](https://open.spotify.com/album/4qJY6lAtJzBPImRxRlHZYt) | 2:22 |
+| 69 | [Hedda & Mie](https://open.spotify.com/track/6mfNhGLRGXHZwvI7XetbTX) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH) | [Hedda & Mie](https://open.spotify.com/album/4qJY6lAtJzBPImRxRlHZYt) | 2:22 |
 | 70 | [HUDSON](https://open.spotify.com/track/35ER1SrPaCQt1ejiTTCgDy) | [Jungelknugen](https://open.spotify.com/artist/1r7b4UxqpoMHD0mNPo0esK) | [HUDSON](https://open.spotify.com/album/6WrevSGfPh0vGkSu6vALbA) | 2:29 |
 | 71 | [Varje gång jag ser dig \- Ullared \- EPA Remix \- Dansbandsrave](https://open.spotify.com/track/1c4ux2SjsIZ2Z2mH8SFaCQ) | [Fernandoz](https://open.spotify.com/artist/3HMZ4Ui5A6SEFgTkWzaMhv), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Nu tar vi nya tag \(Deluxe Version\)](https://open.spotify.com/album/2g973QdyTS21AKuObwBRX2) | 2:29 |
 | 72 | [SÄNK DIESELPRISET](https://open.spotify.com/track/1NF8op28TqKOUPAb5NEpLC) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Femedia](https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [SÄNK DIESELPRISET](https://open.spotify.com/album/7KcTYUN4oW03vIxq9OZbDj) | 2:21 |

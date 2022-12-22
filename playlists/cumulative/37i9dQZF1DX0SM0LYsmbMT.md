@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,267 songs - 5 day 6 hr 12 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,268 songs - 5 day 6 hr 13 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1949,7 +1949,7 @@
 | [Night Clbs](https://open.spotify.com/track/2Y0ULwGcRks4FGYWChlOmi) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [In A Dream There Is No Frame](https://open.spotify.com/album/4ofQYajuoLEt09baUzU7t0) | 2:27 | 2022-11-17 |  |
 | [Night Drive](https://open.spotify.com/track/0NsKGhJRgvk6aqewZl5L07) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Sea Slugs Vol\. 3](https://open.spotify.com/album/3SL8GAsbV9n12HCwHJWU34) | 2:10 | 2020-06-29 | 2021-03-26 |
 | [Night Island](https://open.spotify.com/track/0hVQ40kBXkxokQoG7OWYOD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Fireflies](https://open.spotify.com/album/4qiywgD3lFpQx7fcRxcJ3Q) | 2:00 | 2019-05-26\* | 2019-06-15 |
-| [Night Jam](https://open.spotify.com/track/21iOXhZjIM9V95zoUV1vaN) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Night Jam](https://open.spotify.com/album/3FNgkUnZzxckCS1Q9HbXmt) | 2:02 | 2022-12-15 |  |
+| [Night Jam](https://open.spotify.com/track/21iOXhZjIM9V95zoUV1vaN) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Night Jam](https://open.spotify.com/album/3FNgkUnZzxckCS1Q9HbXmt) | 2:02 | 2022-12-15 | 2022-12-22 |
 | [Night Jam](https://open.spotify.com/track/2pqksiiEz7QDEVMPm6AxH7) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Night Jam](https://open.spotify.com/album/4ytCfPUDPFw4YKV5Fg3Ksh) | 2:02 | 2022-01-13 | 2022-11-20 |
 | [Night Lines](https://open.spotify.com/track/5sKRiGFTD8St4fTxR7wEVk) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Night Lines](https://open.spotify.com/album/3Y8Bb2L3sotVpYXXjzfUDQ) | 2:23 | 2021-07-17 | 2022-03-25 |
 | [Night Owl](https://open.spotify.com/track/4nN49TOVGteXcwhLXJ0BS7) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Night Owl](https://open.spotify.com/album/1dCIt0LjcNXcWz2MVFSnbn) | 2:26 | 2021-04-02 | 2021-08-13 |
@@ -2118,6 +2118,7 @@
 | [papaya](https://open.spotify.com/track/68PTwG29nRche3xj2gMDlL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [papaya](https://open.spotify.com/album/0zrqz82mfGhh3SH35CkR0l) | 2:58 | 2021-08-27 | 2021-10-08 |
 | [Papaya Creek](https://open.spotify.com/track/70fervkMWWH6rQ89nNauM2) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Papaya Creek](https://open.spotify.com/album/3a9g4YpDhxkpn0D9sXc1I5) | 2:32 | 2022-06-16 | 2022-09-02 |
 | [Paper](https://open.spotify.com/track/7MmlDhyroURJOtnEjYnPeQ) | [Amuseity](https://open.spotify.com/artist/6eNL8EiCnr1E8xQI3WECDf) | [Beat Chow Vol\. 1](https://open.spotify.com/album/2LNj69VHihIkvsI5NU9TJx) | 2:03 | 2019-06-08 | 2019-11-29 |
+| [Paper Plane](https://open.spotify.com/track/2omgCcDetlo5bsOx6Dcdrp) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Paper Plane](https://open.spotify.com/album/4e3WhKcPxiuAImwcH6j6SV) | 1:27 | 2022-12-15 |  |
 | [Paperplanes](https://open.spotify.com/track/7Ah5dqNBn8OpGpg2YZGzuX) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Paperplanes](https://open.spotify.com/album/5jPiicwHJYFQgr35FIOfJK) | 2:16 | 2019-07-15 | 2020-01-09 |
 | [Papillon](https://open.spotify.com/track/6IMZAo0bGLLqvrHZaYRN86) | [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Kalimero](https://open.spotify.com/artist/7CJZaRDEx100eXP2ozD9Wd) | [Papillon](https://open.spotify.com/album/0EnYduOJqAyjBO77uWWcIB) | 3:31 | 2020-09-18 | 2021-05-07 |
 | [Papillon](https://open.spotify.com/track/2vKAuPYzHXcPpDLu3nOS6u) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Papillon](https://open.spotify.com/album/5T7PQTopw2QwJNXzAfddqJ) | 2:20 | 2020-05-22 | 2020-08-07 |

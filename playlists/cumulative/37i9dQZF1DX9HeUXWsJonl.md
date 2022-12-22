@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-113 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+114 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Tunisie](https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Tunisie](https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G) | 3:36 | 2022-11-09 | 2022-11-25 |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 | 2021-12-10 |  |
+| [Watani](https://open.spotify.com/track/6CSz8qjGxCVq2Effqj70n0) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Watani](https://open.spotify.com/album/1AnLeUdRBSPUey9nVMsJYU) | 1:56 | 2022-12-21 |  |
 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/25AY4L2c6L9B9Eq9GY5d5b) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 | 2022-02-28 | 2022-05-31 |
 | [Wliya](https://open.spotify.com/track/6sdYbJwPST9x0XZwQo76VU) | [Maya](https://open.spotify.com/artist/6O72cUuzCnRB78cBCAHmBa) | [Wliya](https://open.spotify.com/album/5d67N7Fi1C0G4SrsZBY8P8) | 3:20 | 2021-12-10 | 2022-01-25 |
 | [Ya Denya](https://open.spotify.com/track/2Xq7VC7SXBgmuLRYz6mqWG) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Ya Denya](https://open.spotify.com/album/4leYNHAanTHSMQWoK8TRtr) | 3:26 | 2021-12-10 | 2022-07-12 |
@@ -118,7 +119,7 @@
 | [عشقك](https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [عشقك](https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF) | 2:53 | 2022-07-11 | 2022-11-27 |
 | [مش بروحي](https://open.spotify.com/track/4d3dXSolGmXPrnTUyICqWO) | [Abn Salah](https://open.spotify.com/artist/0R4MMq6qbsLaTXh63wOMvD), [Vibe Entertainment Ly](https://open.spotify.com/artist/3Qt921zWIOKAGgML2n2Ljl) | [مش بروحي](https://open.spotify.com/album/45UyUIAgWzg5DxjiLblVwj) | 3:29 | 2022-09-14 | 2022-09-22 |
 | [هكا نعيش](https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7) | [Walid Salhi](https://open.spotify.com/artist/3eWsdDqacW8AmlYfonweYL) | [هكا نعيش](https://open.spotify.com/album/6VKkxrt6xSlztxBbkWeZtE) | 4:49 | 2022-09-07 | 2022-10-24 |
-| [هلا هلا .\. نسر نسر](https://open.spotify.com/track/2HnhLt8zYijfoesiZNxbMl) | [Zaza Show](https://open.spotify.com/artist/2WVRwvUiLP3mGs5H69QEGZ), [Hedi Donia](https://open.spotify.com/artist/60V7LXotDd5kcyvdpKydKc) | [هلا هلا .\. نسر نسر](https://open.spotify.com/album/53mAxsyvO4656igMc5xsnM) | 2:19 | 2022-11-23 |  |
+| [هلا هلا .\. نسر نسر](https://open.spotify.com/track/2HnhLt8zYijfoesiZNxbMl) | [Zaza Show](https://open.spotify.com/artist/2WVRwvUiLP3mGs5H69QEGZ), [Hedi Donia](https://open.spotify.com/artist/60V7LXotDd5kcyvdpKydKc) | [هلا هلا .\. نسر نسر](https://open.spotify.com/album/53mAxsyvO4656igMc5xsnM) | 2:19 | 2022-11-23 | 2022-12-22 |
 | [يا مالي البيت](https://open.spotify.com/track/28hkUg6xp4S4VIWw5jdqiq) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [يا مالي البيت](https://open.spotify.com/album/35K9946pjbcu35cfcBMEUk) | 3:19 | 2022-05-13 | 2022-08-30 |
 | [يامالي عليا](https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [يامالي عليا](https://open.spotify.com/album/4K6RK8yyrTiwFglvCHFt1p) | 3:44 | 2021-12-10 |  |
 

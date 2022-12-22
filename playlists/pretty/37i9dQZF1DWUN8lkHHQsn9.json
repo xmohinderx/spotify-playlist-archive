@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMGMzZmIxYTk2ODFkYjIyNDA4YzI0MmQyNTlhODBkZjY1",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDI3ZWQ4NjU2ZjU4MDg1YTQyMTk3NzkxNWQ3MmFkYWRh",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "M\u0142odzi",
-        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
-      },
-      "artists": [
-        {
-          "name": "Agata Radziszewska",
-          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Cicho",
-      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Bolt",
-        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+        "name": "M\u0142odzi",
+        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
       },
       "artists": [
         {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
         }
       ],
-      "duration_ms": 216860,
-      "name": "Bolt",
-      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
+      "duration_ms": 247880,
+      "name": "Cicho",
+      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -279,6 +263,22 @@
       "duration_ms": 174637,
       "name": "Kimkolwiek chc\u0119",
       "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 179986,
       "name": "BSoD (Bluescreen)",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 207732,
-      "name": "Jako\u015b To Przetrwamy",
-      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "M\u0142odzi",
         "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 205306,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 207732,
+      "name": "Jako\u015b To Przetrwamy",
+      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Dziewczynka Tatusia",
         "url": "https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/2L2qDPcoGTL7AKC38BTr0l"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Parlez Vous Francais",
         "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 202666,
       "name": "Parlez Vous Francais",
       "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2022-07-22 08:13:30",

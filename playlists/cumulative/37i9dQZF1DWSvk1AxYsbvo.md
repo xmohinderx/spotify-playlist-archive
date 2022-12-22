@@ -4,12 +4,12 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-139 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+140 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Love Song](https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:25 | 2022-05-03 | 2022-07-27 |
-| [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 | 2022-07-08 |  |
+| [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 | 2022-07-08 | 2022-12-22 |
 | [Air Con 에어컨](https://open.spotify.com/track/2MgcZfdQun0WQvp1BIofHL) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Air Con 에어컨](https://open.spotify.com/album/5Qq7LWvoUnJYjuy3Zyg0C8) | 3:05 | 2022-05-03 | 2022-07-18 |
 | [All at Sea](https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5) | [Ha Yang Su](https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA) | [All at Sea](https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe) | 3:28 | 2022-08-18 | 2022-10-12 |
 | [all day](https://open.spotify.com/track/4Y8J7oYuDjYfj1dKaiIhBq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/2oosC0NuRLprOFIN87SpYE) | 3:32 | 2022-07-08 | 2022-12-08 |
@@ -135,6 +135,7 @@
 | [With All My Heart \(with Hyunseo Park\)](https://open.spotify.com/track/7w5kC3H1jdmKzna5YCSchk) | [Jung ji Young](https://open.spotify.com/artist/37YW35KcjIuo9e3NhcRn5K), [Park Hyun Seo](https://open.spotify.com/artist/4MqbpF1gPfGwUsQb1R35ba) | [With All My Heart \(with Hyunseo Park\)](https://open.spotify.com/album/6MlBCRZmAcwrXQuHZLEiqj) | 2:46 | 2022-05-03 | 2022-07-28 |
 | [Yeondong](https://open.spotify.com/track/62HHQruDsLOXiaOJI4Pnqa) | [Park Jong Beom](https://open.spotify.com/artist/11q9GPRmZjEusLy5MnvgCR) | [Jejusi](https://open.spotify.com/album/5AYLY8oxG3Z0dA67YqaIS8) | 3:56 | 2022-06-09 | 2022-07-14 |
 | [you](https://open.spotify.com/track/3g6lml297b6ai3Azf6Ytw5) | [Park Ji Yoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [you](https://open.spotify.com/album/72rz8JJb4Wt9p3o2oWALkV) | 3:46 | 2022-06-09 | 2022-08-26 |
+| [you](https://open.spotify.com/track/2Lv4ICVjaLlBkSV63oktFV) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [you](https://open.spotify.com/album/4BJAHipUlFcQ1YXvYoWf0x) | 3:46 | 2022-11-09 |  |
 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 | 2022-07-08 |  |
 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 | 2022-10-13 |  |
 | [가을과 겨울 사이 \- New Version](https://open.spotify.com/track/55TblT0IIaJYUenOCqOzRM) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [겨울밤](https://open.spotify.com/album/5QOgLJm5qWxhjBlywukFg4) | 3:34 | 2022-05-03 | 2022-07-28 |

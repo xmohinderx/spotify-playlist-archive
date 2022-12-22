@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,251 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,243 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 44 | [Undone](https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:25 |
 | 45 | [Automatic](https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Automatic](https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo) | 3:37 |
 | 46 | [Making it Right](https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6) | [Harrison Finks](https://open.spotify.com/artist/0eARUhJrHJ8EljWe3WG2fv), [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Making it Right](https://open.spotify.com/album/2LRTQrA17SE7V0SbupU00f) | 2:17 |
-| 47 | [Floating Like](https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Twice \(Extended\)](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:04 |
-| 48 | [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 |
+| 47 | [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 |
+| 48 | [Floating Like](https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Twice \(Extended\)](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:04 |
 | 49 | [Motion \(with Yot Club\)](https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Motion \(with Yot Club\)](https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR) | 2:59 |
 | 50 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 |
 | 51 | [These Days](https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g) | [Neo Arc](https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5), [Eliana Veinberga](https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO) | [These Days](https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3) | 3:37 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 75 | [Bluffin](https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Bluffin](https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5) | 2:39 |
 | 76 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
 | 77 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 |
-| 78 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 |
-| 79 | [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 |
+| 78 | [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 |
+| 79 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 |
 | 80 | [Honesty \- Cool Company Remix](https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Honesty \(Cool Company Remixes\)](https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN) | 2:55 |
 
-Snapshot ID: `MTY3MTE5NjAxMCwwMDAwMDAwMDY5MGNlYjBhYTdlNGVlZDE4NDY0ZWEzNGQ4ZGVjOTUw`
+Snapshot ID: `MTY3MTE5NjAxMCwwMDAwMDAwMDE2ZDE3YjRkMDNiMjM1NWE2N2UxOTU5NzhjODI4MTIy`

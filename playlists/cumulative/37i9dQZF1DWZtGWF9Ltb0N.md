@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-417 songs - 1 day 7 hr 45 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+418 songs - 1 day 7 hr 50 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Crystals](https://open.spotify.com/track/7mmElHLJIXL42Z3FE511xs) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj), [Dank Frank](https://open.spotify.com/artist/3aHIls4WqKcj1qxEjThqd2) | [Crystals / Quiet Violence](https://open.spotify.com/album/5jYkfkbg55RuaKrP9Jzfij) | 3:01 | 2022-07-15 |  |
 | [Cup of Peace](https://open.spotify.com/track/6LVqceIyxq92QRPTEi0Jvr) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [EP 2](https://open.spotify.com/album/42mEguV4uPSTAPj2ayvvrJ) | 3:39 | 2022-02-17 |  |
 | [Curve](https://open.spotify.com/track/0p3N23LsSinbVbrq5T772Y) | [Binary & Dillard](https://open.spotify.com/artist/6fyE1I0pJZZ6g40OqqQ7d7) | [Deprivation](https://open.spotify.com/album/3mPK1WN02SwwSgBNDM7Cnn) | 5:42 | 2022-02-17 | 2022-07-28 |
-| [Curve](https://open.spotify.com/track/3x8JW1Jn8Epzsd5cG3GCIg) | [Binary & Dillard](https://open.spotify.com/artist/6fyE1I0pJZZ6g40OqqQ7d7) | [Deprivation](https://open.spotify.com/album/7KVw1cFMfu8IKswhtSBjLH) | 5:42 | 2022-07-08 |  |
+| [Curve](https://open.spotify.com/track/3x8JW1Jn8Epzsd5cG3GCIg) | [Binary & Dillard](https://open.spotify.com/artist/6fyE1I0pJZZ6g40OqqQ7d7) | [Deprivation](https://open.spotify.com/album/7KVw1cFMfu8IKswhtSBjLH) | 5:42 | 2022-07-08 | 2022-12-22 |
 | [Dancehall Saga](https://open.spotify.com/track/6UuwkLkMrN0j9ZEGUUzJlZ) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Blackout JA](https://open.spotify.com/artist/6qedJsffelXBfM43VGYuIb) | [Dancehall Saga](https://open.spotify.com/album/6Q20YX0AdE14uL4Ds3n8CN) | 4:41 | 2022-02-17 | 2022-05-15 |
 | [Dark & Light](https://open.spotify.com/track/2z7LlYhVl7wRQOpofN4Vyl) | [Nomine](https://open.spotify.com/artist/7uQ1qwQMMz3quYPqFsDgGS), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Dark & Light](https://open.spotify.com/album/3SmK51kseMMCOUAynejQ2I) | 4:42 | 2022-02-17 | 2022-05-20 |
 | [Dark Arts](https://open.spotify.com/track/1aRx7H81gB0ttPEL0S5F2l) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Dark Arts](https://open.spotify.com/album/2AgncJ8A2KUv9DPQIsR4xc) | 3:39 | 2022-02-17 | 2022-07-30 |
@@ -133,6 +133,7 @@
 | [Fuck 'em](https://open.spotify.com/track/46y1L481OwLpWAg222Dzvi) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wrath of God](https://open.spotify.com/album/2SYwkpBdH7qfUde6PCA0EU) | 4:21 | 2022-02-17 | 2022-07-30 |
 | [G Shit](https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/44zt80xY9vVrpdBIS4cc9I) | 4:15 | 2022-07-08 |  |
 | [G Shit](https://open.spotify.com/track/2S4MJ7mQM725upW6egRBwo) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/74E6fh2JCcfzCq0B7i1i07) | 4:15 | 2022-02-17 | 2022-07-29 |
+| [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 | 2022-12-16 |  |
 | [Get Loose](https://open.spotify.com/track/6fFnLNiQpvoihWr9EyujET) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Mount Weed LP](https://open.spotify.com/album/2hbpxyM2kIstkLqEPXFYpI) | 3:40 | 2022-02-17 | 2022-07-29 |
 | [Ghettotech](https://open.spotify.com/track/62LoTbvmEMzJ8DowiHyb94) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Ghettotech/ Trouble Pending](https://open.spotify.com/album/4PSDk9zEbNh3Uak89RHgJE) | 5:11 | 2022-07-08 | 2022-07-30 |
 | [Ghettotech](https://open.spotify.com/track/748N1AaB3nuN42bC9bHWQT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Ghettotech/ Trouble Pending](https://open.spotify.com/album/5LRHbiimE2G34z0rd2qvIn) | 5:11 | 2022-02-17 | 2022-07-29 |

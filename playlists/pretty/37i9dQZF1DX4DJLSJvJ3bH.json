@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 100295,
+  "num_followers": 101494,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTUyNDg0MSwwMDAwMDAwMDJiNzE3MWE1YzI0YzY2MmMxOTVjNWVmZGI0NDY2YmIw",
+  "snapshot_id": "MTY3MTUyNDg0MSwwMDAwMDAwMDEzMzUyYTk2OWVhYzBkNjUwZTI1MTMyZGU1NzA4N2Vm",
   "tracks": [
     {
       "added_at": "2022-12-20 08:27:21",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 139466,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
+      "duration_ms": 103746,
+      "name": "The Happiest Christmas Tree",
+      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 103746,
-      "name": "The Happiest Christmas Tree",
-      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
+      "duration_ms": 139466,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
-        "name": "I Saw Three Ships",
-        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 168846,
-      "name": "I Saw Three Ships",
-      "url": "https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2"
-    },
-    {
-      "added_at": "2022-12-20 08:27:21",
-      "album": {
         "name": "Tis the season",
         "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 214596,
       "name": "Tis the season",
       "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+    },
+    {
+      "added_at": "2022-12-20 08:27:21",
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 168846,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
       "artists": [
         {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+      "duration_ms": 169506,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
         }
       ],
-      "duration_ms": 169506,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "Christmas Island",
+      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+    },
+    {
+      "added_at": "2022-12-20 08:27:21",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 175001,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH"
-    },
-    {
-      "added_at": "2022-12-20 08:27:21",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "Christmas Island",
-      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
+        "name": "I Dream Of Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5"
+    },
+    {
+      "added_at": "2022-12-20 08:27:21",
+      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 150550,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
-    },
-    {
-      "added_at": "2022-12-20 08:27:21",
-      "album": {
-        "name": "I Dream Of Christmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "The Twelve Days of Christmas",
-      "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
-    },
-    {
-      "added_at": "2022-12-20 08:27:21",
-      "album": {
         "name": "The Singles Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 155560,
       "name": "I'd Like You For Christmas",
       "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
+    },
+    {
+      "added_at": "2022-12-20 08:27:21",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "The Twelve Days of Christmas",
+      "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
-        "name": "When My Heart Finds Christmas",
-        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H"
-    },
-    {
-      "added_at": "2022-12-20 08:27:21",
-      "album": {
         "name": "When You Wish Upon a Star",
         "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 167725,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
+    },
+    {
+      "added_at": "2022-12-20 08:27:21",
+      "album": {
+        "name": "When My Heart Finds Christmas",
+        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H"
     },
     {
       "added_at": "2022-12-20 08:27:21",
@@ -1635,18 +1635,26 @@
     {
       "added_at": "2022-12-20 08:27:21",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
+        "name": "The Pianoman at Christmas (The Complete Edition)",
+        "url": "https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV"
       },
       "artists": [
         {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        },
+        {
+          "name": "Kansas Smitty's",
+          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
         }
       ],
-      "duration_ms": 266586,
-      "name": "Baby It's Cold Outside",
-      "url": "https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7"
+      "duration_ms": 173585,
+      "name": "This Winter",
+      "url": "https://open.spotify.com/track/62q9lMyhMzNH8LdEOImmeD"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

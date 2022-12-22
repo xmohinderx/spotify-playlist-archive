@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: Level Up Doctor Choi Kiseok\(레벨업 닥터 최기석\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-98 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+99 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [I feel you \(My life is in your hands X Yeo Eun\)](https://open.spotify.com/track/1DJY4YIgrOqvV6dgDG7pZK) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [이번 생도 잘 부탁해 \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/1N6PHZyXcosA53JZgqfkZC) | 3:46 | 2022-05-09 |  |
 | [I Like You, But Got Tired of Liking You](https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ) | [Oisobagi](https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5) | [Naver webtoon 'Love Revolution' \(Original Soundtrack\)](https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh) | 4:16 | 2022-05-09 |  |
 | [I still miss you](https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO) | 3:57 | 2022-10-18 |  |
+| [I wait for you without knowing](https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.10](https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM) | 3:43 | 2022-12-21 |  |
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 |  |
 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 | 2022-05-09 |  |
 | [In this world](https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [In this world \(Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG\) \(Original Soundtrack\)](https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA) | 3:57 | 2022-08-02 |  |

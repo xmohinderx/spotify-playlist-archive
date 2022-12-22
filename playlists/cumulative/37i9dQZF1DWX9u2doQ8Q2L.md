@@ -4,13 +4,13 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-462 songs - 1 day 5 hr 3 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+463 songs - 1 day 5 hr 6 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10000回のL.O.V.E\. <3](https://open.spotify.com/track/4NenrnLwNcpnvZqxpj4ivi) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [10000回のL.O.V.E\. <3](https://open.spotify.com/album/3Na0PrQ0J4tMJzRLrLcnaS) | 4:16 | 2022-06-29 | 2022-07-29 |
 | [1989's](https://open.spotify.com/track/1maEK0VKEFEGpP1QXmZb1R) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [1989's](https://open.spotify.com/album/14984DgT52EAK32llFN3w6) | 4:37 | 2022-05-26 | 2022-07-20 |
-| [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-08-09 | 2022-12-16 |
+| [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-08-09 |  |
 | [2 Good 2 Be True](https://open.spotify.com/track/4dYycLM4EDbr251mdAuBQa) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [2 Good 2 Be True](https://open.spotify.com/album/5cLFm0dJpxMqFoGE5U1paO) | 4:00 | 2022-07-19 | 2022-07-29 |
 | [2 Good 2 Be True](https://open.spotify.com/track/6cl31YpesxpPUaFDy8lLfr) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [2 Good 2 Be True](https://open.spotify.com/album/1nwqwZ3B2a3wj2TMfqAM80) | 4:00 | 2022-07-28 | 2022-09-07 |
 | [37.5°C](https://open.spotify.com/track/2xBq6S5pDvVsIxxlCxlC1z) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [37.5°C](https://open.spotify.com/album/6wNizIxKsGdvJEfVCP9oF4) | 2:47 | 2022-08-16 | 2022-09-24 |
@@ -85,7 +85,7 @@
 | [Drippin' Desert](https://open.spotify.com/track/5LwhU17yOVvsBKw1SBW9aj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [telegraph](https://open.spotify.com/album/0iA4MRC2v2WBEfgw8FSesc) | 4:19 | 2022-07-26 | 2022-07-29 |
 | [Drivin'](https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Drivin'](https://open.spotify.com/album/7hFgHs48yLBm8Q5WOLBSCJ) | 2:51 | 2022-07-19 | 2022-10-05 |
 | [Drowning \(feat\. J.O.Y\)](https://open.spotify.com/track/1cRUDjkjbNzIgmWvr7I7Ku) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Drowning \(feat\. J.O.Y\)](https://open.spotify.com/album/04dAftkDJfXYsM9GF3tnXN) | 4:39 | 2022-12-13 |  |
-| [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 |  |
+| [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 | 2022-12-22 |
 | [Extraordinary Storyteller](https://open.spotify.com/track/0oTMSQmvZRNLKyKhXgLtaC) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Extraordinary Storyteller](https://open.spotify.com/album/5Fi5dtGglWOZZMLVNkhkUq) | 2:51 | 2022-07-19 | 2022-07-29 |
 | [Extraordinary Storyteller](https://open.spotify.com/track/3P93crmFk4Ry6CwXUfFavO) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Extraordinary Storyteller](https://open.spotify.com/album/7j7MDmKrqEXpOpaBRzhRNC) | 2:51 | 2022-07-28 | 2022-08-17 |
 | [Eyes on Me](https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Eyes on Me](https://open.spotify.com/album/0GICag7B018NZ3qZdEKsso) | 3:34 | 2022-11-08 | 2022-11-16 |
@@ -249,7 +249,8 @@
 | [ripple](https://open.spotify.com/track/3kQMsWayIAqbgRou15Y9Wy) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [ripple](https://open.spotify.com/album/5yN3BNFVlWJLD6x7xYFUYM) | 2:44 | 2022-07-28 | 2022-08-03 |
 | [Ritual](https://open.spotify.com/track/5pMQGKuEEmSg7VwFsELYAa) | [Baku Furukawa](https://open.spotify.com/artist/2em1oRhLgRPKX9yBh9HjR9) | [Ritual](https://open.spotify.com/album/1RU7uZlku0Sc2PjiwL4atQ) | 4:39 | 2022-05-26 | 2022-06-08 |
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 |  |
-| [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 |  |
+| [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 | 2022-12-22 |
+| [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 |  |
 | [rollin'](https://open.spotify.com/track/07K14kPnyJW9Gxj1F4Wzbn) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [rollin'](https://open.spotify.com/album/39CklsCqIBVvnsy7KU9wos) | 3:21 | 2022-05-26 | 2022-06-22 |
 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 | 2022-09-06 | 2022-11-09 |
 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 | 2022-10-25 |  |

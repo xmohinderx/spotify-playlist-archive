@@ -4,7 +4,7 @@
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-323 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
+324 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 | 2022-01-27 |  |
 | [Bittersweet](https://open.spotify.com/track/2QpnSClOM7rfaUMOUOE5vP) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/6lx2RftWLDUAJnU0LTdapo) | 3:28 | 2022-03-24 | 2022-07-25 |
 | [Body Language](https://open.spotify.com/track/15VB0uLh5VP3bs3hLJM1I7) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Body Language](https://open.spotify.com/album/3ZNvrzPJ5AQZscVD2kWGVN) | 3:35 | 2022-01-27 | 2022-07-29 |
+| [Bop!](https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt) | 2:36 | 2022-11-11 |  |
 | [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2022-01-27 | 2022-10-13 |
 | [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 | 2022-04-16 | 2022-11-24 |
 | [Bossy \- Main Version Clean](https://open.spotify.com/track/0EuXDZQb87zooG5IPNpl18) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Bossy](https://open.spotify.com/album/4QhNssZYg1k1LIViNe98SK) | 4:10 | 2022-01-27 | 2022-07-28 |
@@ -223,7 +224,7 @@
 | [Now That I Found You](https://open.spotify.com/track/3dtp75StyEK5XeKraS5KiI) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 | 2022-01-27 |  |
 | [Number One Fan](https://open.spotify.com/track/01fQmcA7x6PbSmXtdaAoJ4) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Number One Fan](https://open.spotify.com/album/6f4K6Rqma6jGEU56FwYNgT) | 3:26 | 2022-01-27 | 2022-07-29 |
 | [Obsessed](https://open.spotify.com/track/7jv8bzjdmBZtxTk6Ut97ga) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Night in the Park, Kiss in the Dark](https://open.spotify.com/album/2MAkOacwf7ipO9ywdL1IM7) | 3:20 | 2022-01-27 | 2022-07-29 |
-| [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 | 2022-01-27 |  |
+| [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 | 2022-01-27 | 2022-12-22 |
 | [On A Roll](https://open.spotify.com/track/56JyMaElW79S7TDWh1Zw1m) | [Ashley O](https://open.spotify.com/artist/14scxEoUN7Dcx1m4EQ7oHe) | [On A Roll](https://open.spotify.com/album/6eV8O8De1mibErM1XM1tEc) | 2:34 | 2022-01-27 |  |
 | [On A Roll \- Basic Tape Remix](https://open.spotify.com/track/5YtM5WjclCystH2Xzct19Y) | [Ashley O](https://open.spotify.com/artist/14scxEoUN7Dcx1m4EQ7oHe), [Basic Tape](https://open.spotify.com/artist/6EzGm3fYBR8QcdIZ0xvHsl) | [On A Roll \(Remixes\)](https://open.spotify.com/album/6ITgaGfZgcdZZjnY91o76g) | 3:00 | 2022-01-27 |  |
 | [On and On](https://open.spotify.com/track/3Og0lFXOP4Uugc9rfbMfhl) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Dance Love Pop \(The Love Love Love Edition\)](https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA) | 3:51 | 2022-03-24 | 2022-11-13 |

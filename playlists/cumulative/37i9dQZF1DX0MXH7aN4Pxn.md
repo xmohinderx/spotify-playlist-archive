@@ -4,7 +4,7 @@
 
 > Turn the energy levels up and join the party wherever you are!
 
-305 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/1PuNlNfn3dc6Go7OukEidr)
+306 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/1PuNlNfn3dc6Go7OukEidr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Hiding Your Love](https://open.spotify.com/track/15Mxjf39aRavjEVoP09AVF) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Hiding Your Love](https://open.spotify.com/album/6SPAiBzi2Xi2pOgSbf5HI4) | 2:36 | 2022-04-15 | 2022-05-24 |
 | [High \(feat\. S\. MICHAUD\)](https://open.spotify.com/track/63FsjVcPq3chbqv2Eih374) | [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [S\. MICHAUD](https://open.spotify.com/artist/46XRr1o7wT8PkNo4zlpjjO) | [High \(feat\. S\. MICHAUD\)](https://open.spotify.com/album/7Fbto4qZVJBoOwEw4KNi59) | 2:54 | 2022-04-15 | 2022-07-23 |
 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 | 2022-04-15 |  |
+| [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 | 2022-08-22 |  |
 | [Hold This](https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0) | [HStikkytokky](https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Hold This](https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA) | 2:25 | 2022-08-22 |  |
 | [Hotstepper](https://open.spotify.com/track/7DC0O3pMpDFefdk51dr7pU) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo) | [Hotstepper](https://open.spotify.com/album/0fCWjsxczZ1k3LBAzuGnVe) | 2:35 | 2022-06-20 | 2022-07-24 |
 | [House Arrest](https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [House Arrest](https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx) | 3:36 | 2022-06-20 |  |
@@ -144,7 +145,7 @@
 | [Just You and I \- Paul Woolford Remix](https://open.spotify.com/track/2NBgfdrHa281oTjYQtublb) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Just You and I \(Paul Woolford Remix\)](https://open.spotify.com/album/4Ltp67VkSWbKeUyFUtqel8) | 3:43 | 2022-04-15 | 2022-07-22 |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-20 |  |
 | [Know You Best \(feat\. Alex Hosking\)](https://open.spotify.com/track/5TLkeAR5ZgSnW0yplmtnnH) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Know You Best \(feat\. Alex Hosking\)](https://open.spotify.com/album/2z1nH11H5uSe4WTsNOstQh) | 2:38 | 2022-04-15 | 2022-07-17 |
-| [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 | 2022-04-15 |  |
+| [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 | 2022-04-15 | 2022-12-22 |
 | [Let Me Take You There \(feat\. Laura White\)](https://open.spotify.com/track/5tuOGRYPjh5lV6M5zbNRNH) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Let Me Take You There \(feat\. Laura White\)](https://open.spotify.com/album/32DjFgVCtLPRz3HNJCEH9S) | 3:37 | 2022-04-15 | 2022-05-27 |
 | [Let Your Love](https://open.spotify.com/track/0H9bGUSoZbBQwyKtz9KlsC) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Let Your Love](https://open.spotify.com/album/2ytvJYBsrZ88YuAafnfjVB) | 2:41 | 2022-06-20 | 2022-07-28 |
 | [Let’s Just](https://open.spotify.com/track/1WcNMJDbf4LkWa5bFNNOUw) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Let's Just / Can't Explain](https://open.spotify.com/album/18DGzL6akFFZw13Ey5M6oc) | 2:58 | 2022-04-15 | 2022-05-27 |

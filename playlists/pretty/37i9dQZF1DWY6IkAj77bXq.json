@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 43805,
+  "num_followers": 43852,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0NjUyMywwMDAwMDAwMGFkZDdjOWM2M2NlNDFiM2E0MzU3MDU1OTg4YjAwYjQ0",
+  "snapshot_id": "MTY3MTU0NjUyMywwMDAwMDAwMDI4NDE0N2NhMjk2YzlmNDA2YzI4Y2RlNDUwZjE2MGU4",
   "tracks": [
     {
       "added_at": "2022-12-02 13:53:26",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
-      },
-      "artists": [
-        {
-          "name": "Lugar",
-          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Quiet Melodies",
         "url": "https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 163800,
       "name": "Quiet Melodies",
       "url": "https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
-      },
-      "artists": [
-        {
-          "name": "James Nepali",
-          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
-        }
-      ],
-      "duration_ms": 137349,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Blissful",
         "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 164210,
       "name": "Blissful",
       "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
+      },
+      "artists": [
+        {
+          "name": "James Nepali",
+          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
+        }
+      ],
+      "duration_ms": 137349,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "A Space Within a Space",
-        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
-      },
-      "artists": [
-        {
-          "name": "Escape Gravity",
-          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
-        }
-      ],
-      "duration_ms": 191111,
-      "name": "A Space Within a Space",
-      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Capella",
         "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 157402,
       "name": "Capella",
       "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "A Space Within a Space",
+        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
+      },
+      "artists": [
+        {
+          "name": "Escape Gravity",
+          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
+        }
+      ],
+      "duration_ms": 191111,
+      "name": "A Space Within a Space",
+      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
         "name": "Semblance",
         "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
       },
@@ -1031,38 +1047,6 @@
       "duration_ms": 183529,
       "name": "Semblance",
       "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "Parallels",
-      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1083,34 +1067,50 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Sleep Drifting",
-        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
       },
       "artists": [
         {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Sleep Drifting",
-      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
+      "duration_ms": 191976,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
     },
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
       "artists": [
         {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1131,34 +1131,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
+        "name": "Sleep Drifting",
+        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
-        "name": "Soothe",
-        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
-      },
-      "artists": [
-        {
-          "name": "Ever So Calm",
-          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Soothe",
-      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
+      "duration_ms": 171666,
+      "name": "Sleep Drifting",
+      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+      },
+      "artists": [
+        {
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+        }
+      ],
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
         "name": "Sapphire Dunes",
         "url": "https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
       },
       "artists": [
         {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+          "name": "Ever So Calm",
+          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
         }
       ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+      "duration_ms": 171000,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Evening Calm",
-        "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
       },
       "artists": [
         {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
         }
       ],
-      "duration_ms": 158961,
-      "name": "Evening Calm",
-      "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
+      "duration_ms": 170958,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

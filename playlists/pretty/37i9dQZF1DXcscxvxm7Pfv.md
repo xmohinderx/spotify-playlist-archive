@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from disturbing sounds with white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,100 likes - 203 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,153 likes - 203 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 116 | [Mid\-Side White Noise](https://open.spotify.com/track/0rf0CVZqFGwOxte6Si5eGw) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Mid\-Side](https://open.spotify.com/album/6i2LFCKG2lJVFRk569ecxl) | 1:56 |
 | 117 | [Gentle White Noise Generator](https://open.spotify.com/track/7xirU92R68BcxUGYy4MeF1) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Gentle White Noise Generator](https://open.spotify.com/album/2h6CzSLW1o2XzNZB3B8hAx) | 4:06 |
 | 118 | [waterfall noise](https://open.spotify.com/track/4fYskLkVHdV2rHHV9IQ0cQ) | [noisenoisenoise](https://open.spotify.com/artist/520IgJZ2NunNadFVU1JCDq) | [waterfall noise](https://open.spotify.com/album/4iZSwPLWwbpK5RaD64KyaB) | 2:02 |
-| 119 | [White Noise Rauschen](https://open.spotify.com/track/4HbdRcLLnUHgBVBDVRD14M) | [Night Time Sounds](https://open.spotify.com/artist/4E0nLURorl4LwKpPFeCxx0) | [White Noise On My Mind](https://open.spotify.com/album/2gGwtQwg3DRXQwvW9Kh3ca) | 2:53 |
+| 119 | [White Noise Rauschen](https://open.spotify.com/track/4HbdRcLLnUHgBVBDVRD14M) | [Night Time Sounds](https://open.spotify.com/artist/029NCna9Sf2isa6oeBAhyP) | [White Noise On My Mind](https://open.spotify.com/album/2gGwtQwg3DRXQwvW9Kh3ca) | 2:53 |
 | 120 | [White Noise Waterfall](https://open.spotify.com/track/1UWWEf1JhXhHXskH23AQyQ) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Noise Dreaming](https://open.spotify.com/album/458IKMJHWsTS7DQLnWNawH) | 2:52 |
 | 121 | [Resting with White Noise](https://open.spotify.com/track/146Y0ZLNuP29oSaR6wWeNd) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Resting with White Noise](https://open.spotify.com/album/0tgBgtBWPbU2km6b9wdiyO) | 4:00 |
 | 122 | [White Noise At Night](https://open.spotify.com/track/2h9V5sbpqHvhbX3PnnRY5m) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [White Noise At Night](https://open.spotify.com/album/2DUmvJCxuqkBOEtqvyvDM7) | 2:52 |
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 124 | [Out Cold with White Noise](https://open.spotify.com/track/2qcROjiCc0JSGVUiNsWrtw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:02 |
 | 125 | [Luscious White](https://open.spotify.com/track/4QaBH3v6voepmoqRexzSLH) | [Arcticos](https://open.spotify.com/artist/3cMJyeklWJOqZ46VjZYFJT) | [Luscious White](https://open.spotify.com/album/28wK2xz6pk7iAzSRe6Robs) | 2:53 |
 | 126 | [White Noise \- 2.000 Hz \- Cutoff](https://open.spotify.com/track/5vGutBmUY7svWsPGh2SS7G) | [Low White Noise Mode](https://open.spotify.com/artist/31fNSvoD2B7BhKMvdgd1Pn) | [Dulled Focus Mode](https://open.spotify.com/album/0d1wauU81HwxvV9GtEOKNo) | 1:49 |
-| 127 | [White Noise for Baby Sleep](https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp) | [Sleep Alphabet](https://open.spotify.com/artist/4n4tvv03WuCOhKCxemtMq0) | [White Noise](https://open.spotify.com/album/5kgvsV5ETpdVf3PTQcTZmm) | 2:44 |
+| 127 | [White Noise for Baby Sleep](https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp) | [Sleep Alphabet](https://open.spotify.com/artist/07zWNtOjC3QzF79jiFKYjm) | [White Noise](https://open.spotify.com/album/5kgvsV5ETpdVf3PTQcTZmm) | 2:44 |
 | 128 | [Spaceful White](https://open.spotify.com/track/1n4kT38WJy4bLKajINLIbi) | [Dark Momentum](https://open.spotify.com/artist/6Nscg2zwVwV3RmM1C0iZnC) | [Spaceful White](https://open.spotify.com/album/515zYmtJFsXmp6TGYQUTE2) | 2:55 |
 | 129 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 |
 | 130 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 |

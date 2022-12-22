@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-345 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
+346 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2021-06-02 | 2022-11-30 |
 | [Miles To Go](https://open.spotify.com/track/0d2F9wcykuZ1QzDMcI0Mf0) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Miles To Go](https://open.spotify.com/album/5yxiQyMmKQmC4x9U8rfR7A) | 3:18 | 2021-06-02 | 2022-05-19 |
 | [Miss You](https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Miss You](https://open.spotify.com/album/6yNMqtPxykHsGzMJe9m5Fg) | 3:20 | 2021-10-26 | 2022-12-16 |
-| [Mission Control](https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Mission Control](https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo) | 2:16 | 2022-11-18 |  |
+| [Mission Control](https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Mission Control](https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo) | 2:16 | 2022-11-18 | 2022-12-22 |
 | [Moonlight Shadow](https://open.spotify.com/track/0R2KmlsyojxoYG8wxcd5XX) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Groove Coverage](https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW) | [Moonlight Shadow](https://open.spotify.com/album/406r7NFPJnTnR6O57zBV73) | 2:59 | 2022-03-18 | 2022-04-18 |
 | [More Than I Want To](https://open.spotify.com/track/4dkQMweppOlQjOvxv5fQTy) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [More Than I Want To](https://open.spotify.com/album/6JBU6wA7ziYnoFPcULQBYy) | 2:47 | 2022-01-07 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-03-18 | 2022-08-06 |
@@ -316,6 +316,7 @@
 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:38 | 2022-03-18 |  |
 | [Told You So \- Digital Farm Animals Remix](https://open.spotify.com/track/1kXEG2odF4cL4H8bFwyGrs) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Told You So](https://open.spotify.com/album/2oQPW2BiiKLmH1PH4T88iu) | 2:19 | 2022-03-18 | 2022-04-15 |
 | [Tonight We Dance](https://open.spotify.com/track/0WCEclDlYBnZXxpqaCbPIv) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Tonight We Dance](https://open.spotify.com/album/5KrvBuhVGtCbXLZOTgvZti) | 3:09 | 2022-04-29 | 2022-09-10 |
+| [Too Late For Love](https://open.spotify.com/track/5AnFltV45uUTHmRIzHvzUh) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Too Late For Love](https://open.spotify.com/album/69MFUAZ9z6yxkUqmPahJIN) | 2:42 | 2022-11-29 |  |
 | [Trust Fall](https://open.spotify.com/track/4jQZkLxVApMh4NPRWVSuP9) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Trust Fall](https://open.spotify.com/album/5rXnIb1ogWzXaVnfzkxht2) | 3:38 | 2022-04-22 | 2022-07-27 |
 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 | 2021-06-02 |  |
 | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/album/6yD8EL3S9KrIysOAHv08LE) | 3:03 | 2021-09-10 | 2022-04-23 |

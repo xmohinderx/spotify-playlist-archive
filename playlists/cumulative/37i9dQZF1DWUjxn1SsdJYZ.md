@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Cult Shφtta
 
-339 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+340 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [NO TELLIN \(REMIX\)](https://open.spotify.com/track/3shSoJJfpQfRIdsxw3PmGs) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Brandon Jonak](https://open.spotify.com/artist/7CcZ6Z4w04MsQZp4bow5m4) | [NO TELLIN \(REMIX\)](https://open.spotify.com/album/5SyRplhQ5evQd3C41G2LSA) | 3:01 | 2022-09-15 | 2022-11-11 |
 | [Nobody Gotta Know](https://open.spotify.com/track/5VJH36W5nsZL9AFfmPQy1L) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Nobody Gotta Know](https://open.spotify.com/album/2FQMjWTSevddEV2DxefJRK) | 2:51 | 2022-03-21 | 2022-07-01 |
 | [NOBODY KNOWS \- Spotify Singles](https://open.spotify.com/track/09CaMPTzbkUkqpi4963qi6) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Spotify Singles](https://open.spotify.com/album/5rEszQ8iijlsu5caNiHQNY) | 2:09 | 2022-12-08 |  |
-| [NOKIA 6OY](https://open.spotify.com/track/3x4GBlCBALBmOU3oOdejFR) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/79SUwO4Kw6JCXMItpqxI27) | 3:30 | 2022-12-04 |  |
+| [NOKIA 6OY](https://open.spotify.com/track/2SsjTx5AWaQ2c3sA2ycVjW) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/2XKXlr11eM3EaRnQtIOGjQ) | 3:30 | 2022-12-15 |  |
+| [NOKIA 6OY](https://open.spotify.com/track/3x4GBlCBALBmOU3oOdejFR) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/79SUwO4Kw6JCXMItpqxI27) | 3:30 | 2022-12-04 | 2022-12-22 |
 | [Northside Stepper](https://open.spotify.com/track/2ONo43uD9sG5Bhth17nTA7) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Northside Stepper](https://open.spotify.com/album/6gPlt7EUFhnEQ16DRn4AUU) | 2:23 | 2022-06-23 | 2022-12-09 |
 | [O.T](https://open.spotify.com/track/6W3wz3J5LLRmum0v35uSec) | [SKIVZ](https://open.spotify.com/artist/2NdB9CTILAHKLk0a0SgNHb) | [O.T](https://open.spotify.com/album/2FhzbED5me6JRyW6XhcLoz) | 3:08 | 2022-03-21 | 2022-03-25 |
 | [OFF TAP \(Prod\. Dimes\)](https://open.spotify.com/track/4XNz5kcwALw49W73Ph4EIt) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [OFF TAP \(Prod\. Dimes\)](https://open.spotify.com/album/6yGDL8ZLIIyg7EyfoNRiCA) | 4:03 | 2022-03-21 | 2022-08-26 |

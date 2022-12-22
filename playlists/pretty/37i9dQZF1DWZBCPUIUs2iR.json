@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: George Strait",
-  "num_followers": 377114,
+  "num_followers": 377879,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMGY0YjFkMjhjNmExOTdjYzdkODMzYmJjYjY5ZTAzNWU5",
+  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMDU1MGQ1MjQ3YWI1ZDdiOGIyZjI1YjY0ZmY0NDllZDFh",
   "tracks": [
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
         "name": "Ultimate Dolly Parton",
         "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 249293,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2022-09-15 04:00:00",

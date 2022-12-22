@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-193 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
+194 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Der Luftbusen des kleinen Fritz](https://open.spotify.com/track/4nUFTEaSnWyyIr3GYbtbAB) | [Ditterich von Euler\-Donnersperg](https://open.spotify.com/artist/0OgIuiKHzwJK7tSZN3TcP7) | [Weisheit aus des Kindes Mund tut uns stets die Wahrheit kund](https://open.spotify.com/album/28dWBubs4Bm3Xp2yKFQVi8) | 5:01 | 2021-10-27 | 2022-07-29 |
 | [Dero](https://open.spotify.com/track/25HisYhsb9dXkcFQJC7FgL) | [Heith](https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy) | [Dero](https://open.spotify.com/album/1acIsjkwiQqk74P1HImtjo) | 4:37 | 2022-09-11 |  |
 | [Die Dosis macht das Gift](https://open.spotify.com/track/0xq0GbMjRnrKfTV9fw02fR) | [ToiToiToi](https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De) | [Intermission](https://open.spotify.com/album/0rm9V0EQIpQyHi0X7zRswR) | 4:13 | 2021-10-27 | 2022-07-29 |
+| [Duelo \(Cumbia del Fantasma\)](https://open.spotify.com/track/6heNYymv8CZYCKz90RpY6S) | [Ezmeralda](https://open.spotify.com/artist/1evlZb4RMrNoQ26G6EyGZA) | [En Átomos Volando](https://open.spotify.com/album/00LWccHAjSAVMgs6HFiV3o) | 4:45 | 2022-12-22 |  |
 | [Echo Lake](https://open.spotify.com/track/4huXXKJvjyEpsAYd2IrhfY) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [All The Mirrors In The House \[Home Recordings 1979 \- 1986 Volume 1\]](https://open.spotify.com/album/1p3jAwtkoUsHXaW4jcanVV) | 3:43 | 2021-10-27 | 2022-07-28 |
 | [Enviada](https://open.spotify.com/track/48uTgKxNsCGG4LZc2gk1Iz) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Enviada](https://open.spotify.com/album/6fTRT9hUtP1tmLpDKdfcA6) | 4:03 | 2022-09-29 | 2022-10-21 |
 | [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 | 2022-09-29 |  |
@@ -137,7 +138,7 @@
 | [Sleep](https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv), [Social State](https://open.spotify.com/artist/4GBHW2hqb9GQEPNGKhFZo3) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:56 | 2021-10-27 |  |
 | [Solomon's Rising](https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J) | [Lucifer](https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m) | [Black Mass](https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8) | 3:25 | 2021-10-27 |  |
 | [Song For Francoise](https://open.spotify.com/track/59Bgzhll0tIQECwB1A4phI) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [Le Rose De Fer/Intiaani Kesa¨](https://open.spotify.com/album/28H0NZ6hoIdp77EfY2KlWs) | 1:46 | 2021-10-27 | 2022-07-29 |
-| [Sonus Ruinae part 1](https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sonus Ruinae](https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu) | 9:43 | 2022-09-26 |  |
+| [Sonus Ruinae part 1](https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sonus Ruinae](https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu) | 9:43 | 2022-09-26 | 2022-12-22 |
 | [Sopa De Salsa](https://open.spotify.com/track/2FR1LR3aD2CNF2w2HZoYyI) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/5KqUemb8SlcZsA3SZQrE6e) | 3:12 | 2021-10-27 |  |
 | [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/track/6pXPxr0ZgW6mp3Oz2K5bZG) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/album/6NWEGsCYZxiyyc4ULdLntX) | 2:10 | 2021-10-27 | 2022-11-29 |
 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 | 2022-04-06 |  |

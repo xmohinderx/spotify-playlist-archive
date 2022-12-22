@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14914,
+  "num_followers": 14928,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDM0N2Q4YWYwNzcwZDMwYTk3ZDcyNzNmNzQ5YWU2OTZi",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDM3NjIyMzNiNzZhMzY5NThjMThlMDFiM2MxYjUzZmY2",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -495,6 +495,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Arcade (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Arcade - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
         "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Arcade (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Arcade - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Burning (Snakehips Remix)",
-        "url": "https://open.spotify.com/album/45vKAFdlF1uNhaaBrYwcK2"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Burning - Snakehips Remix",
-      "url": "https://open.spotify.com/track/1XRQW5C4WEr0mNc5ygZgAN"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Scare Me (feat. KSHMR & Karra) [Chico Rose Remix]",
         "url": "https://open.spotify.com/album/0mCZ56iVnJ33wPxfRBPGcO"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 142593,
       "name": "Scare Me (feat. KSHMR & Karra) - Chico Rose Remix",
       "url": "https://open.spotify.com/track/2bynw6Zc1Er7Zf9qm0ayDP"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Burning (Snakehips Remix)",
+        "url": "https://open.spotify.com/album/45vKAFdlF1uNhaaBrYwcK2"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Burning - Snakehips Remix",
+      "url": "https://open.spotify.com/track/1XRQW5C4WEr0mNc5ygZgAN"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
-        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Jarvis Cocker",
-          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
-      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Nightlight (The Remixes, Vol. 2)",
         "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
       },
@@ -1607,6 +1583,30 @@
       "duration_ms": 188571,
       "name": "Nightlight - MOTi Remix",
       "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
+        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Jarvis Cocker",
+          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
+      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1711,38 +1711,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hearts on Fire (The Remixes)",
-        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        },
-        {
-          "name": "Willim",
-          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "Hearts on Fire - CORSAK & Willim Remix",
-      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Where The Lights Are Low (TCTS Remix)",
         "url": "https://open.spotify.com/album/0nygPueuIT8Z6s12xrBDnW"
       },
@@ -1811,6 +1779,38 @@
       "duration_ms": 161500,
       "name": "Underwater - Dombresky Remix",
       "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Hearts on Fire (The Remixes)",
+        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "Hearts on Fire - CORSAK & Willim Remix",
+      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Pomegranate (Jay Robinson Remix)",
         "url": "https://open.spotify.com/album/4IyaI98lEWwR2RJTveVmHW"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 134892,
       "name": "1 Day 2 Nights - Billen Ted Remix",
       "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2259,30 +2259,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Moving Blind (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Moving Blind - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Thing Called Love (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
       },
@@ -2303,6 +2279,30 @@
       "duration_ms": 338442,
       "name": "Thing Called Love - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Moving Blind (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Moving Blind - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
     },
     {
       "added_at": "2021-07-30 04:00:00",

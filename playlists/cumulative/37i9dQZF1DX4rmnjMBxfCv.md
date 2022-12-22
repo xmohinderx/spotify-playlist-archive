@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-87 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+88 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 | 2022-06-30 | 2022-11-26 |
 | [Route 55](https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp) | [Mr Oasis](https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex) | [Route 55](https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR) | 4:38 | 2022-03-30 | 2022-11-26 |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 |  |
+| [Seret El Hob Remix](https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a) | [Aly Fathallah](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Seret El Hob Remix](https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ) | 4:06 | 2022-12-21 |  |
 | [Shoft Alhala \- Radio Edit](https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Shoft Alhala](https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8) | 3:46 | 2022-11-22 |  |
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2022-03-30 | 2022-11-26 |
 | [Tearaf Bahebak Leh](https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tearaf Bahebak Leh](https://open.spotify.com/album/1ioz7toy8ZetQuqIH8cT1j) | 2:45 | 2022-03-30 | 2022-11-26 |
