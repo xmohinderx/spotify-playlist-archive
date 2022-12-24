@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,519 likes - 110 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,541 likes - 110 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 18 | [I Heard You](https://open.spotify.com/track/5WqScUHIGmu58YSI4Zw9h9) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [He Says, She Says](https://open.spotify.com/album/4J10tX4X1ygODR1tZraVeS) | 4:05 |
 | 19 | [I.f.i.l](https://open.spotify.com/track/1Btjf68tn9I4vWvBlcy9Tr) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [IKARUS](https://open.spotify.com/album/5uxcK6vD7C7VhA94J3jnmT) | 3:36 |
 | 20 | [我想陪你](https://open.spotify.com/track/4ht7eHqkvXiT7cFh6CLQSd) | [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY) | [我想陪你](https://open.spotify.com/album/1k5fSpZKtRec7jMbI0ADXe) | 3:27 |
-| 21 | [Hit The Wall](https://open.spotify.com/track/21mOAEChaaPLdvEFHsQkDF) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF), [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [Hit the Wall](https://open.spotify.com/album/5TFeCd5Y78CtyiPoiMv7aA) | 3:07 |
+| 21 | [Hit The Wall](https://open.spotify.com/track/3I1VHUnCsxLDqzo9uQ6XYU) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF), [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [Get My Way Up](https://open.spotify.com/album/1DPew0YabfWxWx7yZbYVY7) | 3:08 |
 | 22 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 |
 | 23 | [你教會我的事](https://open.spotify.com/track/5qOii2BZ1rxAuWJi4L5jxk) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [你教會我的事](https://open.spotify.com/album/4d6j6BEkdIC8uLB83XPpZY) | 4:15 |
 | 24 | [我不該 \(戲劇《我的牙想你》插曲\)](https://open.spotify.com/track/0AH6YWpyogGUQ6ezuUXsCv) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [我不該](https://open.spotify.com/album/3sCJCeHXad3hFkMNqhQsbO) | 2:48 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 |
 | 110 | [平分慚愧](https://open.spotify.com/track/7A8oik3md31IzkgyDur4md) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [平分慚愧](https://open.spotify.com/album/1UfbxRaKju8W3BoATMcdyj) | 4:43 |
 
-Snapshot ID: `MTY3MTQyNzU2NSwwMDAwMDAwMDVkNDVhNzUyOGRkMDVhNjg4MWY1NzFkMGI0NzdjMjc4`
+Snapshot ID: `MTY3MTQyNzU2NSwwMDAwMDAwMGI2MTcyMmNhMjk3YzFjNDE3NTI5ZTQ2NzY5NjE2N2Uw`

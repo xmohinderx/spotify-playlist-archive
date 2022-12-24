@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Lionel Loueke",
+  "description": "New jazz for open minds. Cover: Grace Kelly",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -794,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Anthem for the Earnest",
+        "url": "https://open.spotify.com/album/3TnB1kGjaABg1M4ov90IwS"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422703,
+      "name": "Anthem for the Earnest",
+      "url": "https://open.spotify.com/track/2HRqfB4IgXhMjW5zp3F82W"
+    },
+    {
+      "album": {
         "name": "Appalachian Wanderer",
         "url": "https://open.spotify.com/album/7kPN1czCTPYv1Kn2EFsShT"
       },
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 234737,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/19JudMh7z6HFLiXKAUK5K7"
@@ -6325,7 +6343,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 471867,
       "name": "Kuti",
       "url": "https://open.spotify.com/track/57i1ED22zmDO9IuOxDlbir"
@@ -8282,6 +8300,28 @@
     },
     {
       "album": {
+        "name": "No Words (Laroye Remixes)",
+        "url": "https://open.spotify.com/album/6gDyP0uKG3dAnYn4077vVF"
+      },
+      "artists": [
+        {
+          "name": "Frank Mccomb",
+          "url": "https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt"
+        },
+        {
+          "name": "Laroye",
+          "url": "https://open.spotify.com/artist/24LSTJ4KOtLJt1Z23VZ6GI"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356923,
+      "name": "No Words - Laroye Future Jazz Mix",
+      "url": "https://open.spotify.com/track/0UDKBckPzMbnfrsuHbWagI"
+    },
+    {
+      "album": {
         "name": "Noam",
         "url": "https://open.spotify.com/album/7vHi4PfaQLjzhgs66R73eN"
       },
@@ -10009,7 +10049,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 425850,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/24Ojhb1QZqe5OlxwPXb56q"
@@ -12671,6 +12711,24 @@
       "duration_ms": 470324,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/1nh00HwoFCLCuaIzB5kEpG"
+    },
+    {
+      "album": {
+        "name": "Today Is Another Day",
+        "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321253,
+      "name": "Today Is Another Day",
+      "url": "https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,528 likes - 21 songs - 1 hr 9 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,530 likes - 21 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 7 | [Invisible Kid](https://open.spotify.com/track/2f2KurID7SV2q8wCmPncpZ) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Invisible Kid](https://open.spotify.com/album/6LnpdDTwsF7YDK0RDsvSov) | 3:09 |
 | 8 | [Let You Go](https://open.spotify.com/track/1AzvxnWyk4aGNZpgmECpny) | [ROOSTERJAXX](https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l) | [Let You Go](https://open.spotify.com/album/08wZSrKAldeJ4FeXz9ys70) | 2:39 |
 | 9 | [Work For Me](https://open.spotify.com/track/4pAnnvNUCJnVxXlnTXtlcj) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Work For Me](https://open.spotify.com/album/0gwHQhbt31Kks94mvDJSSn) | 3:22 |
-| 10 | [Don't Be Fake \- Radio Edit](https://open.spotify.com/track/6kRGbAUcNh5F5Xm0IBVZik) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Don't Be Fake](https://open.spotify.com/album/4x81uTurmck6zDA9Er2SMw) | 2:56 |
+| 10 | [Don't Be Fake](https://open.spotify.com/track/6kRGbAUcNh5F5Xm0IBVZik) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Don't Be Fake](https://open.spotify.com/album/4x81uTurmck6zDA9Er2SMw) | 2:56 |
 | 11 | [La Vida](https://open.spotify.com/track/6DKnfTDqRV6UXfbtIXMYZn) | [Gibson Parker](https://open.spotify.com/artist/7pmS98qub9BnSfqTHvogQD), [Jon Milk](https://open.spotify.com/artist/532lWG2ChILJOu6O9qTbGF) | [La Vida](https://open.spotify.com/album/4Ib0JU8qN332l7Rg3pnhCq) | 3:12 |
 | 12 | [Ballroom \- Edit](https://open.spotify.com/track/4RS24bQyuHJtqP9BrQNX0T) | [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Ballroom Remixes](https://open.spotify.com/album/4rY0cyzXNqQJuFy5PC6KGz) | 3:06 |
 | 13 | [Hold Up](https://open.spotify.com/track/1TXxy5fiycEyA7d7EdAbIW) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Hold Up](https://open.spotify.com/album/3hmuaQHrZbsuXd6cEhlCks) | 2:46 |

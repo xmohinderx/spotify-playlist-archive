@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-107 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
+108 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 | 2022-08-20 |
 | [Preacher](https://open.spotify.com/track/7LX79SGY8tO1iJz2S0xUMJ) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Preacher](https://open.spotify.com/album/4SyVePkSezv4jAwvV4HBxQ) | 3:43 | 2022-02-04 | 2022-04-20 |
 | [Promenade](https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 2:31 | 2020-01-08 |  |
-| [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 | 2020-01-08 |  |
+| [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 | 2020-01-08 | 2022-12-24 |
 | [Renegades Of Funk](https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 4:34 | 2020-01-08 |  |
+| [Set It Free \(Elemental Redux\)](https://open.spotify.com/track/52n8k5BoSwpUjDgONNiP2g) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Tym Brown](https://open.spotify.com/artist/71IHpS532ibi6yHUWXSQjO), [Nataly Michelle Wright](https://open.spotify.com/artist/4mUEBynRJ4zK9hQrH1cLWP), [Felicia Walker](https://open.spotify.com/artist/3arGmiOACj527kRl3XiKUX) | [Set It Free \(Elemental Redux\)](https://open.spotify.com/album/5zGfsqhSPDMkS4OobZBDP2) | 4:37 | 2022-12-23 |  |
 | [Set Me Free](https://open.spotify.com/track/5WUfeLKM62vFVd0SxBCtxj) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Set Me Free](https://open.spotify.com/album/2aGGCoiMtFv8pJI5AQvVRN) | 4:40 | 2022-09-23 |  |
 | [Sever](https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Soundsystem](https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ) | 4:43 | 2020-01-08 |  |
 | [Sexy Tonight](https://open.spotify.com/track/2nuAMryuRuixKZbk4Jmfes) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Like It on Top](https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8) | 3:35 | 2022-02-04 | 2022-04-21 |

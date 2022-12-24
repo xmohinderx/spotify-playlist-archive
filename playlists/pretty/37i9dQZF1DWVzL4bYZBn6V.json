@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 66413,
+  "num_followers": 66568,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMDAwOGNmNzg2YjJiYmVhNjliOWIzNzg0NGE2MDUyMmUy",
+  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMGUzZTlkMjg5NWJlODk3YjlkOGMxZDUyOGQ2YzI5OWU3",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -143,6 +143,26 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
+        "name": "Nave Espacial",
+        "url": "https://open.spotify.com/album/0BfPu5BTYxU4b81nh5TFLL"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "Nave Espacial - Radio Edit",
+      "url": "https://open.spotify.com/track/709F4UQ2uKplKvcD88xffa"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
         "name": "Dreams (feat. Lanie Gardner)",
         "url": "https://open.spotify.com/album/4gj29oc0vz1qPuosvrkt8B"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 204102,
       "name": "Dreams (feat. Lanie Gardner)",
       "url": "https://open.spotify.com/track/5ovAmYzYLeEmOX6P3bmlzV"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
-        "name": "Nave Espacial",
-        "url": "https://open.spotify.com/album/0BfPu5BTYxU4b81nh5TFLL"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        },
-        {
-          "name": "Samantha Machado",
-          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "Nave Espacial - Radio Edit",
-      "url": "https://open.spotify.com/track/709F4UQ2uKplKvcD88xffa"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -419,26 +419,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/7Lot6c8rqaZdDeeAIL6KM5"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Daniel Blume",
-          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/0CNxWAkG4ysu9Z3eCfknWK"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 238124,
       "name": "Children",
       "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/7Lot6c8rqaZdDeeAIL6KM5"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Daniel Blume",
+          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/0CNxWAkG4ysu9Z3eCfknWK"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -851,22 +851,18 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR"
       },
       "artists": [
         {
-          "name": "Luis JR",
-          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
-        },
-        {
-          "name": "D'ALEX",
-          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
         }
       ],
-      "duration_ms": 216586,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
+      "duration_ms": 160586,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -891,38 +887,22 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
-        "url": "https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
       },
       "artists": [
         {
-          "name": "Oscar Troya",
-          "url": "https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq"
+          "name": "Luis JR",
+          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
         },
         {
-          "name": "Norka",
-          "url": "https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1"
+          "name": "D'ALEX",
+          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
-      "url": "https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6"
+      "duration_ms": 216586,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -947,6 +927,26 @@
       "duration_ms": 191610,
       "name": "Fooling Me",
       "url": "https://open.spotify.com/track/1WoH0L7MJQphYNo0gyi4WD"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
+        "url": "https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Troya",
+          "url": "https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq"
+        },
+        {
+          "name": "Norka",
+          "url": "https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
+      "url": "https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP"
     },
     {
       "added_at": "2021-04-23 23:14:33",

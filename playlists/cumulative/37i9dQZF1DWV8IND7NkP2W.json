@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 221727,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/4wsC53BG8Fb5zeEH0cIvoT"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 147878,
       "name": "Afternoon coffee",
       "url": "https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 127595,
       "name": "afternoon shower",
       "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 96333,
       "name": "Breakin' up",
       "url": "https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 130421,
       "name": "CHOP SUMMER",
       "url": "https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds"
@@ -2448,6 +2448,28 @@
     },
     {
       "album": {
+        "name": "earlier tea",
+        "url": "https://open.spotify.com/album/7wHvV6zvZQo1TlVcoGbAQx"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "Jr.TEA",
+          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "earlier tea",
+      "url": "https://open.spotify.com/track/3fhMezBACtE94vd1sy0J50"
+    },
+    {
+      "album": {
         "name": "Intermission 2",
         "url": "https://open.spotify.com/album/6nusBfW3l0m1fTNP94LPyT"
       },
@@ -2727,7 +2749,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 208000,
       "name": "eyes talk",
       "url": "https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS"
@@ -3093,7 +3115,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 113846,
       "name": "Game Master",
       "url": "https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0"
@@ -3953,7 +3975,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "ingenuity",
       "url": "https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs"
@@ -4229,6 +4251,24 @@
       "duration_ms": 215917,
       "name": "kageokuri",
       "url": "https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9"
+    },
+    {
+      "album": {
+        "name": "kageokuri",
+        "url": "https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL"
+      },
+      "artists": [
+        {
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215917,
+      "name": "kageokuri",
+      "url": "https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV"
     },
     {
       "album": {
@@ -4515,7 +4555,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 163333,
       "name": "Kurumi",
       "url": "https://open.spotify.com/track/5pniszt2JxZLIIbrhTPrf6"
@@ -4893,7 +4933,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 200425,
       "name": "Lokki",
       "url": "https://open.spotify.com/track/02b5JTZ07M2kYQpS3xQKCd"
@@ -4929,7 +4969,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 211268,
       "name": "Long Live the King - Instrumental",
       "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
@@ -5465,7 +5505,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 99440,
       "name": "mist",
       "url": "https://open.spotify.com/track/1CWrAdwuNGPXvDh8mgKARi"
@@ -5725,7 +5765,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 197059,
       "name": "Morning Bird - Instrumental",
       "url": "https://open.spotify.com/track/3AAkAL6VTVBJ4ZNSeRr0ai"
@@ -6197,7 +6237,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 245625,
       "name": "Nomadic tribe - DJ Mitsu The Beats Remix",
       "url": "https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr"
@@ -6375,7 +6415,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 168000,
       "name": "on the way home",
       "url": "https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx"
@@ -7751,7 +7791,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 185380,
       "name": "Shurayuki hime",
       "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
@@ -7929,7 +7969,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 198000,
       "name": "snow in the park",
       "url": "https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU"
@@ -8246,6 +8286,24 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/28f2iwEkztfDPYtperPi1a"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140093,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/3IDcH2PSdCnmjhi0ycCobL"
+    },
+    {
+      "album": {
         "name": "Stay Around",
         "url": "https://open.spotify.com/album/6QYCTUgRSDhqOYqYVRKoA5"
       },
@@ -8431,7 +8489,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 125130,
       "name": "stricta",
       "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
@@ -9525,7 +9583,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 85125,
       "name": "Void",
       "url": "https://open.spotify.com/track/5d3vsDFDDEBdZSpmKcaO7f"
@@ -9807,7 +9865,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 186000,
       "name": "Win the Lottery",
       "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
@@ -10011,7 +10069,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"

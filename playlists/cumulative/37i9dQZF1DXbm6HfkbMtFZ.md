@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-462 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+463 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Antananarivo](https://open.spotify.com/track/2sKLBbd1TNUeR8rFOtHONd) | [Vera](https://open.spotify.com/artist/0Nj6EN5mur7EJHl0aZuGP7) | [Good Job No Conversation](https://open.spotify.com/album/4jk6Mr4i5itP55KJkTBVyw) | 3:06 | 2021-12-16 | 2022-07-28 |
 | [Anthony Kiedis](https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 2:51 | 2021-12-16 |  |
 | [Aphrodite](https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Nostalgia](https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS) | 3:54 | 2021-12-16 |  |
-| [Asc\. Scorpio](https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk) | 2:46 | 2021-12-16 |  |
+| [Asc\. Scorpio](https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk) | 2:46 | 2021-12-16 | 2022-12-24 |
 | [Atomic Suzie](https://open.spotify.com/track/7KqV9IuvQDZQmQTcUGMjZn) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Atomic Suzie](https://open.spotify.com/album/0pT5vm5rl6XCXmKvKnwZpp) | 3:07 | 2021-12-16 | 2022-07-29 |
 | [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2022-12-05 |  |
 | [Ayonha](https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Tape 19.11 / Ayonha](https://open.spotify.com/album/2ndCkboIEM4g6Z2n2IjLd1) | 3:41 | 2022-03-30 | 2022-04-12 |
@@ -229,6 +229,7 @@
 | [Let 'Em In \- 2014 Remaster](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 | 2022-03-30 |  |
 | [Let Go](https://open.spotify.com/track/6hchk7cCDULpk2ag8JFjXQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Let Go](https://open.spotify.com/album/6EkfVAo6uWwoWa7nwevWPM) | 3:00 | 2022-03-30 | 2022-04-21 |
 | [Life On Fire](https://open.spotify.com/track/3tKp46E93JyBCvnAkrgmcy) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/4ynhHENlk6XiUvUggynWdW) | 3:22 | 2021-12-16 | 2022-07-29 |
+| [Life On Fire](https://open.spotify.com/track/6lIQouzC25f72F9BnkkOcz) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/0UD4OW2oRjqbMtyVjqle1O) | 3:22 | 2022-12-05 |  |
 | [Like the Sun](https://open.spotify.com/track/6NyopkWmeaHRCAJzx8Hdf9) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [The Heart](https://open.spotify.com/album/7f0CLdhK81bomBOBtBGiDT) | 3:42 | 2022-03-30 | 2022-04-20 |
 | [Live On](https://open.spotify.com/track/69AKIOHQKkvr70BxFS6FA2) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm) | [My God Has a Telephone](https://open.spotify.com/album/1mUZg3cuUcwifewwTCewbM) | 4:09 | 2021-12-16 | 2022-07-15 |
 | [Long Distance Love](https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [The Last Record Album](https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn) | 2:43 | 2021-12-16 |  |

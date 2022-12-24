@@ -5138,6 +5138,28 @@
     },
     {
       "album": {
+        "name": "Floden",
+        "url": "https://open.spotify.com/album/1cf4WYmYaJP4vxvPwJphVv"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212962,
+      "name": "Floden",
+      "url": "https://open.spotify.com/track/6TYFXyFTDZ6qwFPuBJfWpK"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
@@ -8830,6 +8852,28 @@
     },
     {
       "album": {
+        "name": "Juletragedien",
+        "url": "https://open.spotify.com/album/067B65snvZBeZu9KXOsLsk"
+      },
+      "artists": [
+        {
+          "name": "Erik Follestad",
+          "url": "https://open.spotify.com/artist/0bpQng10brqSAJkmTE4M7s"
+        },
+        {
+          "name": "Linni Meister",
+          "url": "https://open.spotify.com/artist/4YaUbZmPC6MY6Rl1rBTDuR"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188165,
+      "name": "Juletragedien",
+      "url": "https://open.spotify.com/track/4hS14RwcNzMrO9QZ76mVII"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -11915,7 +11959,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
@@ -16817,7 +16861,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"

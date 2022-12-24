@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 41293,
       "name": "A New View of Politics",
       "url": "https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK"
@@ -437,6 +437,24 @@
     {
       "album": {
         "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46466,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b"
       },
       "artists": [
@@ -447,7 +465,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 46466,
       "name": "Doctor Who Opening Title Theme",
       "url": "https://open.spotify.com/track/6YB4kP8ZMACLbOU1edQFan"
@@ -487,10 +505,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 91480,
       "name": "Dr. Who",
       "url": "https://open.spotify.com/track/7bhcpGwtx7XToXJUcVIdLD"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Dr. Who",
+      "url": "https://open.spotify.com/track/7j4Bw7om5owxBdZE54XGOq"
     },
     {
       "album": {
@@ -1189,6 +1225,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
       },
       "artists": [
@@ -1199,7 +1253,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC"

@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Winter Story",
+        "url": "https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219707,
+      "name": "Winter Story",
+      "url": "https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB"
+    },
+    {
+      "album": {
         "name": "#5",
         "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
       },
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 238906,
       "name": "\u30e2\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/1PpedV5nWpHk2R23ARixX9"

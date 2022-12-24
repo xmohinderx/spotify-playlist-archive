@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-325 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+326 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 | 2021-03-06 |  |
 | [Belong](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN), [Kleeve](https://open.spotify.com/artist/32mv27fny0uC6yUtkbdFFd) | [Belong](https://open.spotify.com/album/3k7wGCMnRMolp7TcySTXEN) | 3:01 | 2021-09-11 |  |
 | [Benediction \- GRADES Remix](https://open.spotify.com/track/77uknqvkG2K7oYaBQt3u0h) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [Benediction EP](https://open.spotify.com/album/3HQuC0C4XeBSI88LUbc4Jx) | 6:40 | 2020-09-13\* | 2021-03-06 |
+| [Better Days](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm) | [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr) | [Better Days](https://open.spotify.com/album/5aE3PTdZrFwfrDdg01GIjg) | 2:28 | 2022-12-23 |  |
 | [Billie \(Loving Arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(Loving Arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 | 2021-09-25 | 2021-10-02 |
 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 | 2020-09-13\* | 2021-03-06 |
 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 48021,
+  "num_followers": 48066,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY3Mzk5MiwwMDAwMDAwMGEwZDExYTFhOGQxZjNmMzYwMzgwZDE5OGJiMWMxMTkw",
+  "snapshot_id": "MTY2ODY3Mzk5MiwwMDAwMDAwMDJmMzI0NjhjZjZkMjZkMGZhZTM1MmMyM2U0NDU3MjYz",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -739,6 +739,30 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+        }
+      ],
+      "duration_ms": 208418,
+      "name": "Things We Do for Love",
+      "url": "https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 354093,
       "name": "Stop By",
       "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        },
-        {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
-        }
-      ],
-      "duration_ms": 208418,
-      "name": "Things We Do for Love",
-      "url": "https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 221866,
-      "name": "Just Another Man",
-      "url": "https://open.spotify.com/track/5pDX9LdKPUu8S56NEpxywo"
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1301,20 +1301,24 @@
       "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
     },
     {
-      "added_at": "2022-01-05 09:24:56",
+      "added_at": "2022-11-17 08:32:10",
       "album": {
-        "name": "Medicine 4 My Pain",
-        "url": "https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK"
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
       "artists": [
         {
-          "name": "Lynden David Hall",
-          "url": "https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ"
+          "name": "Nathan Johnston",
+          "url": "https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
         }
       ],
-      "duration_ms": 316093,
-      "name": "There Goes My Sanity",
-      "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"
+      "duration_ms": 214517,
+      "name": "All Your Love - Single Edit",
+      "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1328,9 +1332,9 @@
           "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+      "duration_ms": 221866,
+      "name": "Just Another Man",
+      "url": "https://open.spotify.com/track/5pDX9LdKPUu8S56NEpxywo"
     }
   ],
   "unique_name": "Soulful Day",

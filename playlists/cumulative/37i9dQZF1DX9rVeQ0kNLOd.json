@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 248400,
       "name": "1DK",
       "url": "https://open.spotify.com/track/7gFEJepDJQozYYVJDHaLjw"
@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "friday",
+        "url": "https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169185,
+      "name": "friday",
+      "url": "https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u"
+    },
+    {
+      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -641,6 +659,10 @@
         {
           "name": "Sincere",
           "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        },
+        {
+          "name": "Chocoholic",
+          "url": "https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1"
         }
       ],
       "date_added": "2022-12-06",
@@ -719,7 +741,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 205668,
       "name": "made my day feat. Takuya Kuroda / Marcus D",
       "url": "https://open.spotify.com/track/6ogEQHLfCtEozEqTDI0PmD"
@@ -1068,6 +1090,28 @@
     },
     {
       "album": {
+        "name": "Suisei \u00d7 Konyawa Boogie Back nice vocal meets Yuri on ICE",
+        "url": "https://open.spotify.com/album/2rQT69zCV0SKyFZ0YoMkpR"
+      },
+      "artists": [
+        {
+          "name": "Minami",
+          "url": "https://open.spotify.com/artist/5vzP98uJshmJE7tpNwYIgX"
+        },
+        {
+          "name": "Chippoke Ohashi",
+          "url": "https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "Suisei \u00d7 Konyawa Boogie Back nice vocal meets Yuri on ICE",
+      "url": "https://open.spotify.com/track/7oXFJ9YPy0KXKA4IhrCDXG"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -1348,6 +1392,28 @@
     },
     {
       "album": {
+        "name": "\u304d\u3082\u3061",
+        "url": "https://open.spotify.com/album/6uwVI771DDgLyb7EUiICjU"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30eb\u30ed\u30b9\u307e\u30fc\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/2E9kXGdygdyQYPY9b24uRc"
+        },
+        {
+          "name": "FANCY",
+          "url": "https://open.spotify.com/artist/0HYoTiqAl3O6EZLQ98qFht"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225423,
+      "name": "\u304d\u3082\u3061",
+      "url": "https://open.spotify.com/track/5qTJ5H5Lzyr3x0ZYtnl1dr"
+    },
+    {
+      "album": {
         "name": "\u5207\u611b",
         "url": "https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf"
       },
@@ -1561,7 +1627,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 219211,
       "name": "\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7"

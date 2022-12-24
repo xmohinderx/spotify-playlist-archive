@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-154 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
+155 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [let her go](https://open.spotify.com/track/0UyJsekOmf7bePNLCU1LE1) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [let her go](https://open.spotify.com/album/7AArqzaszHfzpvJCDjr7eg) | 2:06 | 2022-12-02 |  |
 | [Let Somebody Go \- Lofi Piano](https://open.spotify.com/track/1tX675Hvb2epDvicGiwP1N) | [Chilled Teddy](https://open.spotify.com/artist/5pxrX6T3917cmZHYGqyAHy) | [Let Somebody Go \(Lofi Piano\)](https://open.spotify.com/album/2sAe4Frsp2o6rlOLB4nVuM) | 2:35 | 2022-09-02 |  |
 | [Levitating](https://open.spotify.com/track/2VRKuZ26DfWIrzFObvJcMU) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Levitating](https://open.spotify.com/album/3JjbiMHjQPwkE8XfpzhFPU) | 3:29 | 2022-11-25 |  |
+| [Location](https://open.spotify.com/track/5PCMHyeDn6cGSO2Tukf0Dr) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Location](https://open.spotify.com/album/24GISvJXpqwFbUjifnZBOW) | 2:03 | 2022-12-23 |  |
 | [Lost](https://open.spotify.com/track/2rsG3qVHOsXAIW1Qj7sdWt) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [Lost](https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY) | 3:02 | 2022-09-02 |  |
 | [love me like you do \- lofi](https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq) | [love me like you do \- lofi](https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD) | 1:39 | 2022-12-02 |  |
 | [Love Yourself](https://open.spotify.com/track/3ZTOe4igHH1Di0taZWXJh7) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Love Yourself](https://open.spotify.com/album/5w0HSHiP2Dzfq9W4kOTO10) | 1:50 | 2022-09-16 |  |

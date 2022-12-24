@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,405 likes - 182 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,890 likes - 182 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 31 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 |
 | 32 | [Fate Alone](https://open.spotify.com/track/3ZEAYAgvudTytKaiH524XJ) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [Fate Alone](https://open.spotify.com/album/2CnPdW7DQz44K9eLwW1tB5) | 2:17 |
 | 33 | [Drift Away](https://open.spotify.com/track/6IeNMc25PkxqRLq08lWUxr) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Drift Away](https://open.spotify.com/album/2saZqKHoUCUXPveojE0lPP) | 2:52 |
-| 34 | [I Can Sail Without Wind](https://open.spotify.com/track/4t5vrwOH5r0aF9LxIXYC1y) | [Joakim Holgersson](https://open.spotify.com/artist/41ljvODEmelX8uWXuvPHnQ) | [I Can Sail Without Wind](https://open.spotify.com/album/0TmcxX4WRWJDcRfgt3HJyn) | 2:26 |
+| 34 | [I Can Sail Without Wind](https://open.spotify.com/track/4t5vrwOH5r0aF9LxIXYC1y) | [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [I Can Sail Without Wind](https://open.spotify.com/album/0TmcxX4WRWJDcRfgt3HJyn) | 2:26 |
 | 35 | [Just Like You](https://open.spotify.com/track/1NMLWuUMYy2OqxhGY5tUYD) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Just Like You](https://open.spotify.com/album/4vTgD41WBmNIg2k93KlLsZ) | 2:09 |
 | 36 | [Tranquillo](https://open.spotify.com/track/72kzlLev3gbe93hKa4oHnh) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Tranquillo](https://open.spotify.com/album/2Ef8kD6MMZg9FkvMZZ8kyk) | 2:08 |
 | 37 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 |

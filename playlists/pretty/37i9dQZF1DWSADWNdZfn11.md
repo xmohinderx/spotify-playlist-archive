@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,333 likes - 195 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,661 likes - 195 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 156 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2PJPNp8iKywuI1Pq1Vs9EW) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [\(They Long To Be\) Close To You](https://open.spotify.com/album/4siaxr50PMSkm8BlBvUP3b) | 2:41 |
 | 157 | [Heaven \- Piano Version](https://open.spotify.com/track/1iKyA97IkuVGM5ncc5cvM0) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:03 |
 | 158 | [Woke Up in Love](https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53) | [Pia Plonner](https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO) | [Woke Up in Love](https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU) | 2:56 |
-| 159 | [No One \- Piano Version](https://open.spotify.com/track/58l2B5WJj36xsc0yLYrRTm) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:07 |
+| 159 | [No One \- Piano Version](https://open.spotify.com/track/4Io6bISowwt8uFvnlBk1qC) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:07 |
 | 160 | [Where Are You Now](https://open.spotify.com/track/4DU5U0BXdvuMdbDi5GagvO) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Where Are You Now](https://open.spotify.com/album/4RyFALsrJ4dKyH7Q1Elwzr) | 2:58 |
 | 161 | [Cover Me In Sunshine](https://open.spotify.com/track/2mHrHpt27sgpNUsU99PvyJ) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Cover Me In Sunshine](https://open.spotify.com/album/425Ukjw4bvzkamUWmuck8t) | 2:40 |
 | 162 | [I Love You So](https://open.spotify.com/track/6Pa9HUOaEaIIHMputOMIUw) | [Moelizi](https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ) | [I Love You So](https://open.spotify.com/album/4tgrB9xx23ZTp0piP2LUXz) | 3:05 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 194 | [Despacito](https://open.spotify.com/track/3UMuJHDp6PkATj3In37sNk) | [Raphaela Esquelas](https://open.spotify.com/artist/7pd3yh8h1rD9x8POMkzkgg) | [Despacito](https://open.spotify.com/album/4Dyo8tr52plK5qVrSlijHE) | 3:22 |
 | 195 | [Shape of You \(Cover\)](https://open.spotify.com/track/4D6hQqPWhVfiVsOyUbhVbg) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Relaxing Piano Covers, Vol\. 1 \(Best of 2017\)](https://open.spotify.com/album/1IRBLlv9NLMaF7ibUlrWvf) | 3:33 |
 
-Snapshot ID: `MTY3MTE1MjQwMCwwMDAwMDAwMGRlMTAwZWE5OTFmYjM0YjA4YzRmZTA0MzUwY2NiOGE1`
+Snapshot ID: `MTY3MTE1MjQwMCwwMDAwMDAwMDQ0M2E0NzRjZDNlYjgzMzA4ZGY2MjVmN2FiNjcyMWMz`

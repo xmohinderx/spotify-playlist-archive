@@ -4,7 +4,7 @@
 
 > Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.
 
-103 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6uhnpN8l70O9yI67E5CkB2)
+104 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/6uhnpN8l70O9yI67E5CkB2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Ella Quiere Hmm..\. Haa..\. Hmm..\. \- Yayo Remix](https://open.spotify.com/track/0QN1rkBy3D6j9Yw3Czlcsc) | [Leka el Poeta](https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV), [Mishelle Master Boys](https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG), [DJ Yayo](https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh) | [Ella Quiere Hmm..\. Haa..\. Hmm...](https://open.spotify.com/album/0D6DGiSFytv1dzqjAvy05D) | 3:32 | 2022-01-04 |  |
 | [Extrañas Criaturas](https://open.spotify.com/track/5Jje7hHdmWhn6eIaNqrnvv) | [HOLI RARE](https://open.spotify.com/artist/1ISWaTxLhrZpB35ew0rW8q), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Extrañas Criaturas](https://open.spotify.com/album/6ol5i7ZUUo0exaFmlQNvmj) | 3:30 | 2022-11-29 |  |
 | [Flow Soltera](https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4), [El Betta](https://open.spotify.com/artist/3FhhcDWeH2qAaHg8Xx4h34), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Flow Soltera](https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy) | 2:53 | 2022-02-23 |  |
-| [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-16 |  |
+| [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-16 | 2022-12-24 |
+| [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-22 |  |
 | [Goldi Buena](https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE) | [B.OG](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Goldi Buena](https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq) | 3:14 | 2022-01-17 |  |
 | [Inocente](https://open.spotify.com/track/0IlwSd3IcgnHXPmRv89DSm) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Inocente](https://open.spotify.com/album/2RLtOqXbqX6uqaNJ5eb3yC) | 3:22 | 2022-01-04 | 2022-07-29 |
 | [Kikiriki \(Remix\)](https://open.spotify.com/track/4UW8WLhpOaoueGpiBgeqDT) | [Xavi Devine](https://open.spotify.com/artist/5iJmISAR5cLDLOuQYwirYu), [Diego Vela](https://open.spotify.com/artist/3T7Q7B1ozi2NOI1ClulTnI), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Kikiriki \(Remix\)](https://open.spotify.com/album/6IXMB4nKGjF6ZgyKX39v47) | 2:57 | 2022-01-04 | 2022-07-28 |

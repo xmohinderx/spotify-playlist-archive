@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbn7xTVabEKT.md) - [plain]
 
 > Your favorite arias, performed by legendary opera divas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbn7xTVabEKT.md) - [plain]
 | 49 | [Giulio Cesare in Egitto, HWV 17, Act II, Scene 8: Se pietà di me non senti](https://open.spotify.com/track/1liaKYQKIsy53U8ejRSorc) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Sonya Yoncheva](https://open.spotify.com/artist/1zjyJqtr2NOxgztq78bnDw), [Alessandro De Marchi](https://open.spotify.com/artist/3j7YF1zH6VwkwdtiMdDc3n) | [Handel](https://open.spotify.com/album/1b5bXNH6U0KZfc8lNaIhTB) | 7:50 |
 | 50 | [Orfeo ed Euridice \(Orphée et Eurydice\), Wq\. 30: "Che fiero momento"](https://open.spotify.com/track/32Mani5ydtEWVcTnplZRpe) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Pumeza Matshikiza](https://open.spotify.com/artist/2ocJVD1FLWgNmyAFR8beTO), [Aarhus Symfoniorkester](https://open.spotify.com/artist/7jHwH3PMC3VZIUxEUaXPFt), [Tobias Ringborg](https://open.spotify.com/artist/3oLALFpBASJctPerbzWz2L) | [Arias](https://open.spotify.com/album/54lNbesx2bw7HraNASuHBK) | 3:05 |
 
-Snapshot ID: `MTY3MTAzMjI5NCwwMDAwMDAwMDQ3ZjJmZTcxMzE5YzViMTg4NjEyN2JlYWI1NTAwYjM3`
+Snapshot ID: `MTY3MTczMjIzMywwMDAwMDAwMGI4MmY4ZWJkMjQzNTIwOGZiNzMxMmQyMWUyMWU4NTQ0`

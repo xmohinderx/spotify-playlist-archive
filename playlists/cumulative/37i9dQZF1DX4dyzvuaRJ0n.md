@@ -2,7 +2,7 @@
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance hits\. Cover: Chris Lake
+> The world's biggest dance hits\. Cover: Tiësto & Tate McRae
 
 456 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/2lDweGgvQhwyQi5R55ct4Y)
 

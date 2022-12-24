@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25201,
+  "num_followers": 25216,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDFjNzcxYmU4YzQ1NzM1ZGE4YzNjMzhkYTJhMTJhN2I2",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDAyNzFjM2E4NmVmMGM1ZTgyZjJjMmI5ZWNhOWEyZDkz",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Une femme avec toi - Single",
-        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Une femme avec toi",
-      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Fruit de ma r\u00e9cente nuit blanche",
         "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 225426,
       "name": "Faire la paix avec l'amour",
       "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Une femme avec toi - Single",
+        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Une femme avec toi",
+      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Julie Masse",
         "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 169546,
       "name": "A toi",
       "url": "https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -723,18 +723,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Francine Raymond",
-        "url": "https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL"
+        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
+        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
       },
       "artists": [
         {
-          "name": "Francine Raymond",
-          "url": "https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas"
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
         }
       ],
-      "duration_ms": 223360,
-      "name": "Vivre Avec Celui Qu'on Aime",
-      "url": "https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g"
+      "duration_ms": 298986,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -755,34 +755,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
-        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
+        "name": "Francine Raymond",
+        "url": "https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL"
       },
       "artists": [
         {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+          "name": "Francine Raymond",
+          "url": "https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas"
         }
       ],
-      "duration_ms": 298986,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "D\u00e9cha\u00een\u00e9e",
-        "url": "https://open.spotify.com/album/15fDQmVVpW1ojKEmH7MrnB"
-      },
-      "artists": [
-        {
-          "name": "France D'Amour",
-          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Mon fr\u00e8re",
-      "url": "https://open.spotify.com/track/4rd83jWw2g5aP1K7rGnAmE"
+      "duration_ms": 223360,
+      "name": "Vivre Avec Celui Qu'on Aime",
+      "url": "https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -799,6 +783,22 @@
       "duration_ms": 277439,
       "name": "Shame on U",
       "url": "https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "D\u00e9cha\u00een\u00e9e",
+        "url": "https://open.spotify.com/album/15fDQmVVpW1ojKEmH7MrnB"
+      },
+      "artists": [
+        {
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Mon fr\u00e8re",
+      "url": "https://open.spotify.com/track/4rd83jWw2g5aP1K7rGnAmE"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Best of Herbert L\u00e9onard",
-        "url": "https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX"
-      },
-      "artists": [
-        {
-          "name": "Herbert L\u00e9onard",
-          "url": "https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB"
-        }
-      ],
-      "duration_ms": 272746,
-      "name": "Flagrant d\u00e9lit",
-      "url": "https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Marie-Chantal Toupin",
         "url": "https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 287253,
       "name": "Si j'\u00e9tais un homme",
       "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Best of Herbert L\u00e9onard",
+        "url": "https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX"
+      },
+      "artists": [
+        {
+          "name": "Herbert L\u00e9onard",
+          "url": "https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB"
+        }
+      ],
+      "duration_ms": 272746,
+      "name": "Flagrant d\u00e9lit",
+      "url": "https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -967,6 +967,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Volume un",
+        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Je reviendrai \u00e0 montr\u00e9al",
+      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Pelchat",
         "url": "https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 173080,
       "name": "Un souvenir heureux",
       "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Volume un",
-        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Je reviendrai \u00e0 montr\u00e9al",
-      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Premi\u00e8res nuits",
+        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
+      },
+      "artists": [
+        {
+          "name": "Nelson Minville",
+          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Les bras de satan",
+      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Caribou",
         "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Premi\u00e8res nuits",
-        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
+        "name": "Sans retour",
+        "url": "https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq"
       },
       "artists": [
         {
-          "name": "Nelson Minville",
-          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
         }
       ],
-      "duration_ms": 255666,
-      "name": "Les bras de satan",
-      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
+      "duration_ms": 435840,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1155,22 +1171,6 @@
       "duration_ms": 269493,
       "name": "Entre l'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Sans retour",
-        "url": "https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 435840,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW"
     },
     {
       "added_at": "2020-04-07 15:18:18",

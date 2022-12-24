@@ -2,9 +2,9 @@
 
 ### [Outliers](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> Proudly marching to the beat of their own drum\. Cover: Little Simz
+> Proudly marching to the beat of their own drum\. Cover: Lous and The Yakuza
 
-615 songs - 1 day 10 hr 6 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+617 songs - 1 day 10 hr 14 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-25 |  |
 | [EST](https://open.spotify.com/track/4FPmUbBlJoUcxyzbIov91v) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Jimmy Yitty](https://open.spotify.com/artist/2oOPVizPrUkoNmnqo7wdBx) | [EST](https://open.spotify.com/album/1XE8PpuoEwqy8E7vjzBDu9) | 2:40 | 2022-03-11 | 2022-05-14 |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-02-18 | 2022-05-14 |
+| [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 | 2022-12-23 |  |
 | [Even is the Lie](https://open.spotify.com/track/06ROgKWslcLeQaHUUnxMsE) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 4:06 | 2022-02-18 | 2022-03-12 |
 | [EVERYBODY ELSE](https://open.spotify.com/track/7aJABYHsynSazwJF0gbMmc) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [PREY//IV](https://open.spotify.com/album/0MA1g3G6pOmh1cc4FALDrZ) | 3:49 | 2022-02-18 | 2022-03-18 |
 | [Everything](https://open.spotify.com/track/7zkUj9idxLrvXOjJwEP7MV) | [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Ashleigh Eymann](https://open.spotify.com/artist/0UmgNp7YpF7kMs4qyziHsr) | [Everything](https://open.spotify.com/album/2kyFCmsasAE7wSajHk0mFU) | 3:46 | 2022-06-03 | 2022-07-23 |
@@ -315,7 +316,7 @@
 | [Khadijah](https://open.spotify.com/track/7jJxgu18erACbfYWUoW2Zu) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/3LlVpPh5ZtzSQdFuPBweJ4) | [Khadijah](https://open.spotify.com/album/2aFks1QemOlIRA8EI0k1BI) | 3:14 | 2022-11-18 |  |
 | [KILLA \- From The "Falcon Lake" Soundtrack](https://open.spotify.com/track/0e3l1WD8ir3uHDnvgD8nwu) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [KILLA \(From The "Falcon Lake" Soundtrack\)](https://open.spotify.com/album/2JjZCqrpGOE07sajCd9OWV) | 3:14 | 2022-11-11 |  |
 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 | 2022-09-03 |
-| [Kleine Warme Kamer](https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [SABINA](https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5) | 3:50 | 2022-11-18 |  |
+| [Kleine Warme Kamer](https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [SABINA](https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5) | 3:50 | 2022-11-18 | 2022-12-24 |
 | [La nuit](https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [La nuit](https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP) | 3:41 | 2022-06-03 | 2022-08-06 |
 | [Last Night](https://open.spotify.com/track/4dFQjuEsCVlA59LB3diItC) | [Miss McLeod](https://open.spotify.com/artist/0JeXxvHfbLkoMHmS8WJymy) | [Last Night](https://open.spotify.com/album/0rV022QmTwdl476CVM68TS) | 2:36 | 2022-04-29 | 2022-06-11 |
 | [Latency](https://open.spotify.com/track/24bcu7IGNipuid5nU7oqgU) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Latency](https://open.spotify.com/album/4cOomZu7ZP0IZdcuSy15sh) | 2:52 | 2022-06-03 | 2022-07-09 |
@@ -526,7 +527,7 @@
 | [SummerTime](https://open.spotify.com/track/3cOOvxceUJO9Z1mfCSBwv9) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [SummerTime](https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4) | 2:58 | 2022-10-28 | 2022-11-19 |
 | [Sundowners \- Original](https://open.spotify.com/track/6j0hSPmXjrTSS0AoOA0TsC) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Sundowners](https://open.spotify.com/album/0gEZHBSNu2dasnOkj5ldQz) | 6:37 | 2022-08-12 | 2022-11-12 |
 | [Sunrise Blue](https://open.spotify.com/track/70dtWf6DYY53vWH7migEiJ) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Sunrise Blue](https://open.spotify.com/album/2kjMX7cPz4kESG6LSXJpWi) | 6:39 | 2022-05-06 | 2022-07-09 |
-| [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-11-18 |  |
+| [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-11-18 | 2022-12-24 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-15 | 2022-09-10 |
 | [supernova](https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [supernova](https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq) | 1:30 | 2022-10-28 | 2022-11-19 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 | 2022-09-17 |
@@ -591,6 +592,7 @@
 | [Wayside](https://open.spotify.com/track/2u48Xga5k54VLjpvU11Nun) | [Jonns](https://open.spotify.com/artist/4FPXH7U4K55nQv2YGA6GbU) | [Wayside](https://open.spotify.com/album/7k8vuhWVR8g1gHJaMwNZLj) | 2:56 | 2022-06-10 | 2022-08-13 |
 | [we](https://open.spotify.com/track/2FgcBcHlIx5IREA4Iro6jt) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [we](https://open.spotify.com/album/2mgBmbhjzXnh2YnWAfxJkz) | 3:03 | 2022-04-22 | 2022-06-04 |
 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-11 |  |
+| [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:53 | 2022-12-23 |  |
 | [what it is](https://open.spotify.com/track/6F1ZOewAbgJDOZRRmzzoSE) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [glow](https://open.spotify.com/album/27Ny94vUIE5akt8OTKktv4) | 4:13 | 2022-10-21 | 2022-11-12 |
 | [What You're Thinking](https://open.spotify.com/track/51q8KeszKpVOWghI37pdWK) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:28 | 2022-03-04 | 2022-05-07 |
 | [What's Next](https://open.spotify.com/track/7dSQHfnJSK0SzmPpiuNrlC) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [What's Next](https://open.spotify.com/album/5BgDSrPBRrUmr0C77N3T5P) | 2:39 | 2022-05-06 | 2022-07-09 |

@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-397 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
+398 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [In Horizons](https://open.spotify.com/track/2ApQP3K4qgCfJNnZGwD8Bt) | [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Liisi Koikson](https://open.spotify.com/artist/2prpQnGDh8mkIY4c1nMW4n), [Nordic Pulse Ensemble](https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l) | [In Horizons](https://open.spotify.com/album/0UbwOXRNCrQAUQGoOLlonJ) | 3:36 | 2020-10-20\* | 2022-04-21 |
 | [In the Androgynous Dark](https://open.spotify.com/track/1tohi5NQEpXI81oMHc2Yve) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Charcoal](https://open.spotify.com/album/0iIAQ8pHehl0PNRyXMt0rZ) | 4:43 | 2021-02-06 | 2021-02-12 |
 | [In The Sea \(Drowned\)](https://open.spotify.com/track/4ogi00gtqhx3THnzt205jj) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Lost and Found](https://open.spotify.com/album/4iduGBflFC8GTtX9fpfX7t) | 11:14 | 2020-12-10 | 2020-12-11 |
+| [Interlude](https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Interlude](https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN) | 3:38 | 2022-12-02 |  |
 | [Into the Fire](https://open.spotify.com/track/0TeV9D5NtoAjITBs80oMVg) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Into the Fire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1J4q69vEusnKYtTOrmTpZ6) | 4:04 | 2020-10-20\* | 2022-04-19 |
 | [Intrinsic](https://open.spotify.com/track/38mLpbSRinX6ZSuFrZuJJE) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [Intrinsic](https://open.spotify.com/album/1xYNgIksfbp0tlxCwkmSNP) | 3:14 | 2020-10-20\* | 2022-04-20 |
 | [Itasca](https://open.spotify.com/track/1LAfLQLoApcUphZFXPN1Px) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 2:46 | 2022-07-22 |  |
@@ -266,7 +267,7 @@
 | [Parallel \(feat\. Manu Delago\)](https://open.spotify.com/track/1TYyoP8sdXQ039kghXQZuf) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Parallel \(feat\. Manu Delago\)](https://open.spotify.com/album/2qUXri0kSEFVaMaz4OHbXH) | 3:51 | 2020-11-27 | 2022-07-29 |
 | [Parkbench](https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Parkbench](https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT) | 3:41 | 2021-12-10 | 2022-04-15 |
 | [Parliament Of Owls](https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Parliament Of Owls](https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A) | 2:29 | 2020-10-20\* |  |
-| [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 | 2021-10-16 |  |
+| [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 | 2021-10-16 | 2022-12-24 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2020-11-06 |  |
 | [Pause](https://open.spotify.com/track/6rUSYRNKQG15LBs24DxH5p) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Pause](https://open.spotify.com/album/0QMLNub1Rwwa6LPRcLqne8) | 4:18 | 2021-12-10 | 2022-07-22 |
 | [pause \(almost equal to\) play](https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Pause \(almost equal to\) Play](https://open.spotify.com/album/634uEr8wlpH7CVq52UQTgW) | 4:45 | 2022-06-24 | 2022-07-29 |

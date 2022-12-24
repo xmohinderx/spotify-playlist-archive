@@ -2,7 +2,7 @@
 
 ### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> SZA is on top of the Hottest 50!
+> Metro Boomin & The Weeknd are on top of the Hottest 50!
 
 846 songs - 1 day 21 hr 15 min - [published](https://open.spotify.com/playlist/47EyYjdbbASCmJLAzJxhXP)
 

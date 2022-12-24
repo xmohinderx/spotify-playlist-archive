@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,333 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,197 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 38 | [FDT](https://open.spotify.com/track/4nxSEcO1rK0wtYswNpMH2U) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/5xYelOucTX5yIB93L6CVo4) | 3:46 |
 | 39 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
 | 40 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 |
-| 41 | [Get Up, Stand Up](https://open.spotify.com/track/5MVW8uIuNuL7CQ0RyyogHI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:41 |
-| 42 | [Baltimore](https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Baltimore](https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z) | 5:03 |
+| 41 | [Baltimore](https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Baltimore](https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z) | 5:03 |
+| 42 | [Get Up, Stand Up](https://open.spotify.com/track/5MVW8uIuNuL7CQ0RyyogHI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:41 |
 | 43 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 |
 | 44 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 |
 | 45 | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/track/1tXCF7TwDnuHRgwQ63FeM5) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/album/6xBCjXyKJPnuCXt7xb7MpL) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 60 | [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDU3NzA2NDUwNzU3MjI0ZThhM2RkOTViN2U3YWQzZGMw`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMGFmNzRiMThjNTMwMmFiNzhiZGFiYjJjYTE4MDE2NDEx`

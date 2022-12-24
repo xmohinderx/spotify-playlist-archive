@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-265 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+266 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Fire Inside](https://open.spotify.com/track/6mS822S9l2BKN0RzmTyLfP) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [Fire Inside](https://open.spotify.com/album/2MIh3AN4UDKhmevXoEovwy) | 2:28 | 2022-10-28 |  |
 | [First Blossoms](https://open.spotify.com/track/2ydYzoDJ6zJO8CAx5XVTPB) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [First Blossoms](https://open.spotify.com/album/6fy2dixEx1GmxhN0i2Zhj1) | 2:05 | 2022-08-05 | 2022-09-03 |
 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 | 2022-10-07 |  |
+| [Flor De Verão](https://open.spotify.com/track/52cxCWNiYdhGMGSgszz5Ow) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Flor De Verão](https://open.spotify.com/album/2zadQicG07qREhNK7BlLEM) | 2:07 | 2022-12-23 |  |
 | [Florida Groove](https://open.spotify.com/track/3gYj3e09w9jinTujZojpxt) | [Erik Jackson](https://open.spotify.com/artist/6D9uBqsbDJXQffbjdNL5MW), [The Pad Pushers](https://open.spotify.com/artist/3OOa3quWVt193l1Xyk34Xa) | [Florida Groove](https://open.spotify.com/album/63mNtNaxyIbO8NXaruC5y4) | 2:41 | 2022-06-24 | 2022-07-08 |
 | [Flow State](https://open.spotify.com/track/2RwHUXhUQOOjXc3pXYK7c6) | [Lemonah](https://open.spotify.com/artist/3pgiEPgtQzrkyAesekong6), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Flow State](https://open.spotify.com/album/5p3eIyHnMd3YJJu1Z3Xr5M) | 2:10 | 2022-08-19 |  |
 | [Flute Man](https://open.spotify.com/track/1Xp6kxpRH7RIKGitrc5cyc) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Flute Man](https://open.spotify.com/album/0sKQSlLQ6wh3HX3LpZV2xH) | 2:02 | 2022-11-11 |  |

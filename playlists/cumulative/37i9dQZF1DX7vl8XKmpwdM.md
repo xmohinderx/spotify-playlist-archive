@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-83 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+84 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,5 +91,6 @@
 | [Who Am I ?](https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Prince \(Tamil\)](https://open.spotify.com/album/768hQJ2fKFv4Lq4TE0J1Hj) | 4:03 | 2022-10-14 |  |
 | [Yaathi Yaathi](https://open.spotify.com/track/36d0fy3TbyWFR4mth7hpVd) | [Abhishek C S](https://open.spotify.com/artist/1GofTjmdzOjxQojvoMxgfi), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Yaathi Yaathi](https://open.spotify.com/album/1MtVc2FnYzeClvBrICMnRw) | 3:59 | 2021-12-01 |  |
 | [Yelo Pullelo](https://open.spotify.com/track/44tt44Coydbx27QJlWiKXb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 3:25 | 2021-12-01 |  |
+| [Zoom Boom Doom Pathaan](https://open.spotify.com/track/3ktsYOpVAmAqoj4FhL64TU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Pathaan \- Tamil](https://open.spotify.com/album/6F4MQdnwoPa8VlEG1J2G9f) | 3:28 | 2022-12-22 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

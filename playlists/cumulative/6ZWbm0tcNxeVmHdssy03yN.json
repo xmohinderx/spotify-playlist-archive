@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Alaken",
+        "url": "https://open.spotify.com/album/5vlLJ34ATfZRw8m53ah70N"
+      },
+      "artists": [
+        {
+          "name": "Raimundo el Canastero",
+          "url": "https://open.spotify.com/artist/4bM1IGndmSYZmmTELpIdLh"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107056,
+      "name": "Alaken",
+      "url": "https://open.spotify.com/track/4uNNmLpHqXc0gtUdWAY9tn"
+    },
+    {
+      "album": {
         "name": "Alay",
         "url": "https://open.spotify.com/album/7wbPQf6j8xFroq95NQILZd"
       },
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 122482,
       "name": "Amen",
       "url": "https://open.spotify.com/track/61IBl2GDK1HsvzQx069VG6"
@@ -1917,6 +1935,28 @@
       "duration_ms": 154289,
       "name": "April",
       "url": "https://open.spotify.com/track/3izibnOkKCvSjKWYXAS2BO"
+    },
+    {
+      "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/7Bvq3gAH93S5QVK8kSUuF5"
+      },
+      "artists": [
+        {
+          "name": "Fhat.R",
+          "url": "https://open.spotify.com/artist/02lf99piG6MUaDVc0pqDRC"
+        },
+        {
+          "name": "Hagakure",
+          "url": "https://open.spotify.com/artist/1NJM8pfprbh3sdNxYaJW8B"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Apr\u00e8s le F, un H",
+      "url": "https://open.spotify.com/track/122Cji0d19XPDBE5H0QZBR"
     },
     {
       "album": {
@@ -2629,7 +2669,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 190555,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/40Jeipo7VJZUTupKmWrgRZ"
@@ -3017,7 +3057,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 169262,
       "name": "BE HONEST",
       "url": "https://open.spotify.com/track/46AJmDywJ2wewG6q9jx4yT"
@@ -4173,7 +4213,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 155399,
       "name": "Blood & Sweat",
       "url": "https://open.spotify.com/track/5WZZYtYn8LFsq4AOkK5ME0"
@@ -5367,7 +5407,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 162000,
       "name": "Cain & Abel",
       "url": "https://open.spotify.com/track/6pnhuvGyz4zfg9OtKJcXj9"
@@ -7095,7 +7135,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 207932,
       "name": "COME OUTSIDE",
       "url": "https://open.spotify.com/track/1QniXlbTBov33SAobGAQSM"
@@ -7117,7 +7157,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 166666,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/6gbIqtJCCkG6xeYjEtcClw"
@@ -8699,7 +8739,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 153750,
       "name": "DEATH AND WAR",
       "url": "https://open.spotify.com/track/6tAQQ3HKVffGgW35c2coTU"
@@ -11303,7 +11343,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 177500,
       "name": "Est\u00e1s Ac\u00e1",
       "url": "https://open.spotify.com/track/3Ku9pJwSdsJPS31DEpItnS"
@@ -11529,6 +11569,32 @@
       "duration_ms": 202906,
       "name": "Everything You've Seen",
       "url": "https://open.spotify.com/track/4YWpg1WW12GyfE19Mb83fu"
+    },
+    {
+      "album": {
+        "name": "Everywhere (feat. Torii Wolf & Tre' Amani)",
+        "url": "https://open.spotify.com/album/08CsDdgFQ8S5DGO7BsA1R0"
+      },
+      "artists": [
+        {
+          "name": "Young Saab",
+          "url": "https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5"
+        },
+        {
+          "name": "Torii Wolf",
+          "url": "https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz"
+        },
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148563,
+      "name": "Everywhere (feat. Torii Wolf & Tre' Amani)",
+      "url": "https://open.spotify.com/track/0wNRluEvtINBBG3orMNvgA"
     },
     {
       "album": {
@@ -15376,6 +15442,24 @@
     },
     {
       "album": {
+        "name": "Hear No Evil (For the Money)",
+        "url": "https://open.spotify.com/album/5IOtbRVQvHq5de6RQJXeZW"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185496,
+      "name": "Hear No Evil (For the Money)",
+      "url": "https://open.spotify.com/track/4hXlgbQbzG0gsruzqfLar5"
+    },
+    {
+      "album": {
         "name": "COLOR",
         "url": "https://open.spotify.com/album/6orUTuao3d0g5kRnrbWd5b"
       },
@@ -15532,6 +15616,24 @@
     },
     {
       "album": {
+        "name": "Hechizao",
+        "url": "https://open.spotify.com/album/1d4fRjGLEYnhmqhqiMVHBo"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143744,
+      "name": "Hechizao",
+      "url": "https://open.spotify.com/track/3GN2CxLdV7NO5K6Nnt79Fn"
+    },
+    {
+      "album": {
         "name": "Heist",
         "url": "https://open.spotify.com/album/3bGSFsl256V64GFl5FyTAt"
       },
@@ -15583,7 +15685,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 150378,
       "name": "Hell's Kitchen",
       "url": "https://open.spotify.com/track/6qId4IJp56QIy46uXFOS4s"
@@ -15763,7 +15865,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 201000,
       "name": "Here and Now - STATEOFLIVING Remix",
       "url": "https://open.spotify.com/track/0Xr70j7UXY2PY6I4XZcG6n"
@@ -16649,7 +16751,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 164501,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/2HBC29nr9uvUcEZH15EzLi"
@@ -17919,7 +18021,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 131539,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/1JzqmbwauONl6mFos47psz"
@@ -18002,6 +18104,28 @@
     },
     {
       "album": {
+        "name": "INESTABLES",
+        "url": "https://open.spotify.com/album/1krMUQfZ8FgbPV1DKzxeKY"
+      },
+      "artists": [
+        {
+          "name": "Jader Mantilla",
+          "url": "https://open.spotify.com/artist/3ok6Is9hlTaZszhCaPEQv6"
+        },
+        {
+          "name": "Bdp Music",
+          "url": "https://open.spotify.com/artist/4b7i6N8x84rGKrdzlPbNyt"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166649,
+      "name": "INESTABLES",
+      "url": "https://open.spotify.com/track/0WcApHwFDXDRaQQ9PmB7em"
+    },
+    {
+      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/0H4I0LOC913VNHhVX3ali7"
       },
@@ -18021,6 +18145,24 @@
       "duration_ms": 163027,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/3rJZJjKKCXitTK3DCkcpAH"
+    },
+    {
+      "album": {
+        "name": "INFINITE",
+        "url": "https://open.spotify.com/album/1AJ3YB7lJ9Z5SrIavCtXUb"
+      },
+      "artists": [
+        {
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "INFINITE",
+      "url": "https://open.spotify.com/track/1yg9AHUzXGYyxJRHQ7Mn5u"
     },
     {
       "album": {
@@ -18941,6 +19083,24 @@
       "duration_ms": 172500,
       "name": "K Y",
       "url": "https://open.spotify.com/track/3Kmjbkk8engGkEiyBjvoU1"
+    },
+    {
+      "album": {
+        "name": "Kahit Ilang Pasko (Piano Version)",
+        "url": "https://open.spotify.com/album/0GoDPeJznUSA1HFUho7E5n"
+      },
+      "artists": [
+        {
+          "name": "Jana Garcia",
+          "url": "https://open.spotify.com/artist/2M4mQMnLHQQXsFsRmTTqsR"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255131,
+      "name": "Kahit Ilang Pasko - Piano Version",
+      "url": "https://open.spotify.com/track/7cwvEWooBdlIIRQWrYOtve"
     },
     {
       "album": {
@@ -20255,7 +20415,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 121473,
       "name": "LET YOU TELL IT (MOJVKI REMIX)",
       "url": "https://open.spotify.com/track/0RpoJysws7u0ke4LQaoy0y"
@@ -21452,6 +21612,32 @@
     },
     {
       "album": {
+        "name": "Lost at Sea",
+        "url": "https://open.spotify.com/album/1g4TMDmYTmTbKEVSTK7bCz"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lima",
+          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
+        },
+        {
+          "name": "loyalties",
+          "url": "https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG"
+        },
+        {
+          "name": "Hoober",
+          "url": "https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181290,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/7J8Jpr01C0vsNkdd0ywjJv"
+    },
+    {
+      "album": {
         "name": "Lost in You",
         "url": "https://open.spotify.com/album/2fG2U6qomqqdnetD7jb8V2"
       },
@@ -22397,7 +22583,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 147691,
       "name": "Mamazala",
       "url": "https://open.spotify.com/track/1lMCiqYEH0Kyp6Z41NtF2p"
@@ -22585,7 +22771,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 135528,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/0WAPMxv1RoZ1pqswJ7E9oa"
@@ -24691,7 +24877,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 207428,
       "name": "Necessary Measures",
       "url": "https://open.spotify.com/track/3aGajst3icJRi81egBs7p7"
@@ -28025,7 +28211,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 153600,
       "name": "Petty",
       "url": "https://open.spotify.com/track/5N3plGLU680DanTUQ0VLVd"
@@ -30373,7 +30559,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 157808,
       "name": "Ruining It",
       "url": "https://open.spotify.com/track/17LCwrvRDLak4BxLA1T9nH"
@@ -32094,6 +32280,28 @@
     },
     {
       "album": {
+        "name": "Ski Trip",
+        "url": "https://open.spotify.com/album/5kgvLzREOpVSYSG86kauFk"
+      },
+      "artists": [
+        {
+          "name": "Skeez",
+          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
+        },
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166846,
+      "name": "Ski Trip",
+      "url": "https://open.spotify.com/track/66uplMFfrTOXEg7yIaclTk"
+    },
+    {
+      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -32403,7 +32611,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 180500,
       "name": "Snowmobile",
       "url": "https://open.spotify.com/track/0gPpIqFQSYiTgjvE5qWHHu"
@@ -34751,7 +34959,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 174638,
       "name": "TEASE",
       "url": "https://open.spotify.com/track/5M69Wypp38Ea2WPKzIXQzZ"
@@ -37383,7 +37591,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 208002,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/0KZp7OwgeNIU0iUZAmzHTt"
@@ -37729,7 +37937,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 176280,
       "name": "Vampiro Elegante",
       "url": "https://open.spotify.com/track/3heo0Mfpzd1pqGX38hEGYz"
@@ -39689,7 +39897,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 220437,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/3EOOVdDkQ2FzkCwNcMyoqw"
@@ -40211,7 +40419,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 237515,
       "name": "You Bring The Psych",
       "url": "https://open.spotify.com/track/58lR1X1X3V52VNkDoemKJo"
@@ -40605,7 +40813,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 210850,
       "name": "Zero to 100",
       "url": "https://open.spotify.com/track/5XnksoEaQ4r5NsOhuGKeDK"

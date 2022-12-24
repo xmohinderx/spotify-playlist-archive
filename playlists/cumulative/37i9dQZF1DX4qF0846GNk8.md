@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-117 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+118 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [البارتي ديرتي](https://open.spotify.com/track/0NAM1l5YnUEJvKqC8pZDF4) | [Abdo Sytra](https://open.spotify.com/artist/5MeN7kXMYIcFgmP1yZdKIz) | [البارتي ديرتي](https://open.spotify.com/album/3BOUO7WfdhslWwmxX8wZ8A) | 2:38 | 2021-12-16 | 2022-06-07 |
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-03-30 |  |
 | [الجولة صعبة](https://open.spotify.com/track/3wCpogh1B1WrzCJqpHzSMs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [محمد شاهين](https://open.spotify.com/artist/0JcQqEk7QYNydnOsxtO1Ui) | [الجولة صعبة](https://open.spotify.com/album/1v1o4ejiTj1VBcjABjx38B) | 3:42 | 2022-10-24 | 2022-10-26 |
+| [الحب جريمة بجد](https://open.spotify.com/track/6WIC9ZhkfP1Gg24BXvRwwQ) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [الحب جريمة بجد](https://open.spotify.com/album/3I6ZeLZUwXD0zX0mFuNY0Y) | 3:13 | 2022-12-23 |  |
 | [الفلوس \- احنا جامدين اوي اوي اوي](https://open.spotify.com/track/5doKqxjbNAqwtSs0vRx7D5) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Eslam El Malah](https://open.spotify.com/artist/4OPOlr1iwqlWI09q8IsCKv) | [الفلوس \(احنا جامدين اوي اوي اوي\)](https://open.spotify.com/album/3CeCK1MJ361CXE83m7s41E) | 3:14 | 2022-07-30 |  |
 | [اللي باعو بالسلامة \- Back Catalog](https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [شارع 3 \- ST3](https://open.spotify.com/artist/6ho7BWPqO3FmLyfJw3rnbo) | [اللي باعو بالسلامة](https://open.spotify.com/album/5CSZhvBiT1PXnbp0xxV4V8) | 3:15 | 2021-12-16 | 2022-11-18 |
 | [النسور ع الدبابات](https://open.spotify.com/track/6n1P8XVuCBEJHkyKgtNOWz) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [النسور ع الدبابات](https://open.spotify.com/album/0vvrJe3Ip4wSP9UHaPGJYc) | 3:07 | 2022-10-16 |  |
@@ -110,7 +111,7 @@
 | [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/track/2bQNy3nPQScyHMoHD4BiLa) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/album/4dQP9XYz589KvRXP7hbFSu) | 4:00 | 2022-10-27 | 2022-11-13 |
 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 | 2021-12-16 |  |
 | [موديل باريس](https://open.spotify.com/track/1ezuOtgC76D3bRaDhrqu3S) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [موديل باريس](https://open.spotify.com/album/28rAKLhpEsCkz1A5nK02NG) | 3:17 | 2021-12-16 | 2022-11-24 |
-| [ميت انا مش عارفني](https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ميت انا مش عارفني](https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT) | 2:43 | 2022-10-16 |  |
+| [ميت انا مش عارفني](https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ميت انا مش عارفني](https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT) | 2:43 | 2022-10-16 | 2022-12-24 |
 | [ندمان يا باشا عارف انى غلطان](https://open.spotify.com/track/65m44BVw6gFWS9ep5hkjg9) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ندمان عارف يا باشا اني انا غلطان](https://open.spotify.com/album/2sazOwQENSqmf0TWo5oww7) | 4:15 | 2022-10-07 |  |
 | [نفسي ثم نفسي](https://open.spotify.com/track/361NL1PciW2K8iDsR0YRJj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx) | [نفسي ثم نفسي](https://open.spotify.com/album/044urXR20UqWyDbYmQ7moP) | 4:04 | 2021-12-16 | 2022-02-25 |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-16 |  |

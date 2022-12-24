@@ -300,6 +300,24 @@
     },
     {
       "album": {
+        "name": "Amber Rhythm",
+        "url": "https://open.spotify.com/album/6lvGDz8Fr23NQyVccVo84A"
+      },
+      "artists": [
+        {
+          "name": "Teddy Rose",
+          "url": "https://open.spotify.com/artist/5sBRa2tGNtY4YzYGQ30p99"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130906,
+      "name": "Amber Rhythm",
+      "url": "https://open.spotify.com/track/6uclwbIDxtwjnEOeLsIV7v"
+    },
+    {
+      "album": {
         "name": "Amor na Praia",
         "url": "https://open.spotify.com/album/0Bke9cR7fyutIivRHIbQZB"
       },
@@ -6415,6 +6433,24 @@
       "duration_ms": 193000,
       "name": "Shaken Stir",
       "url": "https://open.spotify.com/track/20bxpthQ6s3G9OMJTVJZVA"
+    },
+    {
+      "album": {
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW"
+      },
+      "artists": [
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Siesta",
+      "url": "https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r"
     },
     {
       "album": {

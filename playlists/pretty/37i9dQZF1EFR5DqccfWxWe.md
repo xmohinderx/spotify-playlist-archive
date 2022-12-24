@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 141 | [Gypsysoul](https://open.spotify.com/track/3aY8pQdQ0x5637cKL0STwk) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 2:56 |
 | 142 | [Natural](https://open.spotify.com/track/5de3MFvTGRMVaZWyGXIim1) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:25 |
 | 143 | [Together Through Whatever](https://open.spotify.com/track/04IPBLnwaIfv7cEypH04x0) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:23 |
-| 144 | [Insurrection \- Original Mix](https://open.spotify.com/track/47ISEXL75IDwq66o5rJp9i) | [Gavyn Mytchel](https://open.spotify.com/artist/2nlNYg3U58ou69PDD3QFmH), [Mnemonic](https://open.spotify.com/artist/61zFhsgCBSLEcgZiyZyyW2) | [Insurrection](https://open.spotify.com/album/1QSbSzZdkM7ecZvYSYi80W) | 7:36 |
-| 145 | [So Alike](https://open.spotify.com/track/0v7REH3YeQmRrWRJ04HdwZ) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:11 |
+| 144 | [So Alike](https://open.spotify.com/track/0v7REH3YeQmRrWRJ04HdwZ) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:11 |
+| 145 | [Insurrection \- Original Mix](https://open.spotify.com/track/47ISEXL75IDwq66o5rJp9i) | [Gavyn Mytchel](https://open.spotify.com/artist/2nlNYg3U58ou69PDD3QFmH), [Mnemonic](https://open.spotify.com/artist/61zFhsgCBSLEcgZiyZyyW2) | [Insurrection](https://open.spotify.com/album/1QSbSzZdkM7ecZvYSYi80W) | 7:36 |
 | 146 | [Eternal Love](https://open.spotify.com/track/4GUQAABjI1c4XbRXo8wFL5) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 5:03 |
 | 147 | [Make a Choice](https://open.spotify.com/track/5Be0V4OFPWDE4ea8FFx8tB) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:45 |
 | 148 | [Beings of Light](https://open.spotify.com/track/7sKwEMiicg8E2GFjWdAFxh) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 4:49 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc4NjExODMsMDAwMDAwMDAwYThlMWNlYjAwYzY3MTUxMDM0ZjBmYmM0YmQ0ZDA2Yw==`
+Snapshot ID: `Mjc4NjQwNjMsMDAwMDAwMDAxOTNjMmIzMTEzNTE2MTgzZTZiOGVkNmE5Y2ZmZWMwMg==`

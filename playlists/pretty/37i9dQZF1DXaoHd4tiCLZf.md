@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,098 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,288 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 47 | [Mon Soleil \- Les Gordon Remix](https://open.spotify.com/track/0CsYWyD9HX7HSZF0OqYZIc) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:16 |
 | 48 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 |
 | 49 | [Shallow](https://open.spotify.com/track/50Pxb2ZpDkGuiEnWdWTdKo) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Kevin Dias](https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:29 |
-| 50 | [Toujours des mensonges](https://open.spotify.com/track/7LqTeSI33Tizgz6bOjMw3F) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8), [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Toujours des mensonges](https://open.spotify.com/album/1oXKK5Tqew2GZqhqqFUUWN) | 3:42 |
+| 50 | [Toujours des mensonges \(feat\. Vendredi sur Mer\)](https://open.spotify.com/track/7LqTeSI33Tizgz6bOjMw3F) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8), [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Toujours des mensonges \(feat\. Vendredi sur Mer\)](https://open.spotify.com/album/1oXKK5Tqew2GZqhqqFUUWN) | 3:42 |
 | 51 | [Érotique](https://open.spotify.com/track/55ZWPgW0ntZLuBO1XaFL8T) | [The Rebels Of Tijuana](https://open.spotify.com/artist/3vo7UR9rFpGPtnUcamnZNP) | [Asile](https://open.spotify.com/album/0vpCGzBoUUYAjKepNsDaxs) | 2:36 |
 | 52 | [Miss Emily \- Charles Trenet: Swing Troubadour](https://open.spotify.com/track/4fNGSsa3jEV5NcAguSd0MN) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Swing Troubadour](https://open.spotify.com/album/2K0WGAvi3CWRcck5U2FcSg) | 2:29 |
 | 53 | [C'est tout](https://open.spotify.com/track/5VrQJYbPWcKuqqdD5ZvlTR) | [Suzy Delair](https://open.spotify.com/artist/29xD9hXSdautBqaIHqal4d) | [C'est un air populaire](https://open.spotify.com/album/2g9xcS2MUFyOH4IiQpY02M) | 3:13 |

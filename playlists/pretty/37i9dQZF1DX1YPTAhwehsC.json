@@ -1,69 +1,13 @@
 {
   "description": "Up and down I-95. Cover: DD Osama",
-  "num_followers": 428680,
+  "num_followers": 428983,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDJlZjNlMjMwN2YxNTExNWM0MWYxZDU1NTE0NWFkYjI0",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDU4NzZlMWU1NmQwY2M5ZDZlMTViNzFmYWNhNGRlNDFm",
   "tracks": [
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Don't Play With It (feat. Billy B)",
-        "url": "https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Billy B",
-          "url": "https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Don't Play With It (feat. Billy B)",
-      "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Me vs. Myself (Deluxe)",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 206294,
-      "name": "Needed That",
-      "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "JUST FRIENDS ?",
-        "url": "https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax"
-      },
-      "artists": [
-        {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
-        }
-      ],
-      "duration_ms": 163892,
-      "name": "JUST FRIENDS ?",
-      "url": "https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk"
-    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
@@ -113,6 +57,78 @@
       "url": "https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Don't Play With It (feat. Billy B)",
+        "url": "https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Billy B",
+          "url": "https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Don't Play With It (feat. Billy B)",
+      "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Me vs. Myself (Deluxe)",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 206294,
+      "name": "Needed That",
+      "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "JUST FRIENDS ?",
+        "url": "https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 163892,
+      "name": "JUST FRIENDS ?",
+      "url": "https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Blessing",
@@ -129,24 +145,20 @@
       "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
     },
     {
-      "added_at": "2022-12-09 05:07:45",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/3RbYFBgKVIg8m2TNxEL9sq"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
-      "url": "https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp"
+      "duration_ms": 122718,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -167,6 +179,22 @@
       "duration_ms": 197593,
       "name": "COUNTING SHEEP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Same Ole Bizzy",
+        "url": "https://open.spotify.com/album/0mhAJL1Zjj4kctvZm1TnYs"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 162283,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -227,54 +255,38 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Same Ole Bizzy",
-        "url": "https://open.spotify.com/album/0mhAJL1Zjj4kctvZm1TnYs"
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/4qySraSpgdcfXi2myE1iqn"
       },
       "artists": [
         {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
         }
       ],
-      "duration_ms": 162283,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn"
+      "duration_ms": 151088,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/2PPJUlUBAL8idHI0V79U2B"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-12-09 05:07:45",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/3RbYFBgKVIg8m2TNxEL9sq"
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
       "artists": [
         {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 122718,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Sweet Yamz (Remix) [feat. Wiz Khalifa]",
-        "url": "https://open.spotify.com/album/6tbFMHmL0SeO4dNv4W9u58"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 167534,
-      "name": "Sweet Yamz (Remix) [feat. Wiz Khalifa]",
-      "url": "https://open.spotify.com/track/2BTNGDcaknATNg43qRsYKG"
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -481,20 +493,44 @@
       "url": "https://open.spotify.com/track/3fYEFtPjmYhktsC2WCIRS5"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/4qySraSpgdcfXi2myE1iqn"
+        "name": "THROW",
+        "url": "https://open.spotify.com/album/0rCfNI2MmlJPUySxVOCmYs"
       },
       "artists": [
         {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
         }
       ],
-      "duration_ms": 151088,
-      "name": "Black Roses",
-      "url": "https://open.spotify.com/track/2PPJUlUBAL8idHI0V79U2B"
+      "duration_ms": 138308,
+      "name": "THROW",
+      "url": "https://open.spotify.com/track/1cz9jUbkmRSX6jZmQrrSA9"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Heart On Display",
+        "url": "https://open.spotify.com/album/3HqfVpmue1Xpf0AoUSfwZZ"
+      },
+      "artists": [
+        {
+          "name": "3Breezy",
+          "url": "https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 199708,
+      "name": "Gangsta Wit It (Pt. 2)(feat. Toosii)",
+      "url": "https://open.spotify.com/track/2PQ1fLQkNhjpUroRow1zEt"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -549,6 +585,26 @@
       "url": "https://open.spotify.com/track/3NNPdTY3gy65ziwmLoaq1u"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "3 Major",
+        "url": "https://open.spotify.com/album/5Q805D1sKXRiOOq3wbps8i"
+      },
+      "artists": [
+        {
+          "name": "Prophet the Artist",
+          "url": "https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 170766,
+      "name": "On My Shit",
+      "url": "https://open.spotify.com/track/7E2QFSp8pimZA93AV8zUdL"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "18",
@@ -579,6 +635,26 @@
       "duration_ms": 113770,
       "name": "41 Ways",
       "url": "https://open.spotify.com/track/2CK4ghZI4xyk9bSX9ru6r8"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Sweet Yamz (Remix) [feat. Wiz Khalifa]",
+        "url": "https://open.spotify.com/album/6tbFMHmL0SeO4dNv4W9u58"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "Sweet Yamz (Remix) [feat. Wiz Khalifa]",
+      "url": "https://open.spotify.com/track/2BTNGDcaknATNg43qRsYKG"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -923,26 +999,6 @@
       "duration_ms": 143027,
       "name": "Speshal (feat. Stove God Cooks)",
       "url": "https://open.spotify.com/track/2PhzrOqMV0j6oNbvSNJXKo"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "3 Major",
-        "url": "https://open.spotify.com/album/5Q805D1sKXRiOOq3wbps8i"
-      },
-      "artists": [
-        {
-          "name": "Prophet the Artist",
-          "url": "https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU"
-        },
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        }
-      ],
-      "duration_ms": 170766,
-      "name": "On My Shit",
-      "url": "https://open.spotify.com/track/7E2QFSp8pimZA93AV8zUdL"
     },
     {
       "added_at": "2022-11-18 05:00:00",

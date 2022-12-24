@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 243692,
       "name": "All the Weight",
       "url": "https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 101550,
       "name": "Braces",
       "url": "https://open.spotify.com/track/3oYAMcCA1J8QGzz1q0CPHF"
@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "F.E.A.R",
+        "url": "https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128800,
+      "name": "F.E.A.R",
+      "url": "https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1"
+    },
+    {
+      "album": {
         "name": "Fakin' Tha Funk (You Get Did)",
         "url": "https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW"
       },
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 194426,
       "name": "Ingsoc",
       "url": "https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf"
@@ -1646,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "Flex Fiesta",
+        "url": "https://open.spotify.com/album/7JsB718EyNSdTNg6onGTLb"
+      },
+      "artists": [
+        {
+          "name": "No Face No Case",
+          "url": "https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188012,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/69396kL1HvsUm6PWiv7ftJ"
+    },
+    {
+      "album": {
         "name": "Soul Burn",
         "url": "https://open.spotify.com/album/7rtcZw6pUN8wv227KWwlNe"
       },
@@ -1733,6 +1769,24 @@
       "duration_ms": 208760,
       "name": "Super Fiend",
       "url": "https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf"
+    },
+    {
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171486,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x"
     },
     {
       "album": {

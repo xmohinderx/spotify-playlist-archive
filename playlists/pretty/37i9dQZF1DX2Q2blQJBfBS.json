@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 24248,
+  "num_followers": 24834,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGIwN2NlMzBiOTM3YmY0NzdlYTQ1MzM2YTliOGExZDg3",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDMwNWRjMDllYWM4MmE1MTkzNzA3OTQ4ZjBhODUzY2Y5",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
     },
     {
-      "added_at": "2022-12-22 01:04:25",
+      "added_at": "2022-12-24 00:20:27",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "The Plugs I Met",
-        "url": "https://open.spotify.com/album/5So31JibrTO74WvuCozsAb"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        }
-      ],
-      "duration_ms": 268339,
-      "name": "Crowns for Kings (Feat. Black Thought)",
-      "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "This Thing Of Ours",
         "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Plugs I Met",
+        "url": "https://open.spotify.com/album/5So31JibrTO74WvuCozsAb"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "duration_ms": 268339,
+      "name": "Crowns for Kings (Feat. Black Thought)",
+      "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -953,20 +953,24 @@
       "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-12-24 00:20:27",
       "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+        "name": "I Turned Myself into Myself",
+        "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
       },
       "artists": [
         {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+          "name": "Shirt",
+          "url": "https://open.spotify.com/artist/4e3dkPcyps1LVGvdRcqw6Z"
+        },
+        {
+          "name": "Jack Splash",
+          "url": "https://open.spotify.com/artist/0FWhHIfPV3MjJbmdMws8Tn"
         }
       ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+      "duration_ms": 212979,
+      "name": "No Magic No Music",
+      "url": "https://open.spotify.com/track/5jpw0BnkTdib2YS0KfCSdz"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -997,6 +1001,22 @@
       "url": "https://open.spotify.com/track/6NTceGKsDLTYehlyRbYp6O"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+    },
+    {
       "added_at": "2022-09-30 04:10:30",
       "album": {
         "name": "KISS THE RING",
@@ -1011,66 +1031,6 @@
       "duration_ms": 205316,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
-    },
-    {
-      "added_at": "2022-12-22 01:04:25",
-      "album": {
-        "name": "Narcan",
-        "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
-      },
-      "artists": [
-        {
-          "name": "Rasheed Chappell",
-          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
-        },
-        {
-          "name": "Little Vic",
-          "url": "https://open.spotify.com/artist/6SXvUYTC88Qb6JqQY1Cc2c"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Narcan",
-      "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
-    },
-    {
-      "added_at": "2022-08-19 19:38:15",
-      "album": {
-        "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
-        "url": "https://open.spotify.com/album/7ktNqKZ0BJUWtz7824OEM4"
-      },
-      "artists": [
-        {
-          "name": "Sonnyjim",
-          "url": "https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4"
-        },
-        {
-          "name": "The Purist",
-          "url": "https://open.spotify.com/artist/00cTKZh4nRgtQ7TmWEmDD5"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
-      "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
-    },
-    {
-      "added_at": "2022-12-22 01:04:25",
-      "album": {
-        "name": "I Turned Myself into Myself",
-        "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
-      },
-      "artists": [
-        {
-          "name": "Shirt",
-          "url": "https://open.spotify.com/artist/4e3dkPcyps1LVGvdRcqw6Z"
-        },
-        {
-          "name": "Jack Splash",
-          "url": "https://open.spotify.com/artist/0FWhHIfPV3MjJbmdMws8Tn"
-        }
-      ],
-      "duration_ms": 212979,
-      "name": "No Magic No Music",
-      "url": "https://open.spotify.com/track/5jpw0BnkTdib2YS0KfCSdz"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1103,6 +1063,46 @@
       "duration_ms": 225303,
       "name": "Kool",
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
+    },
+    {
+      "added_at": "2022-08-19 19:38:15",
+      "album": {
+        "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
+        "url": "https://open.spotify.com/album/7ktNqKZ0BJUWtz7824OEM4"
+      },
+      "artists": [
+        {
+          "name": "Sonnyjim",
+          "url": "https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4"
+        },
+        {
+          "name": "The Purist",
+          "url": "https://open.spotify.com/artist/00cTKZh4nRgtQ7TmWEmDD5"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
+      "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
+    },
+    {
+      "added_at": "2022-12-24 00:20:27",
+      "album": {
+        "name": "Narcan",
+        "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
+      },
+      "artists": [
+        {
+          "name": "Rasheed Chappell",
+          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
+        },
+        {
+          "name": "Little Vic",
+          "url": "https://open.spotify.com/artist/6SXvUYTC88Qb6JqQY1Cc2c"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Narcan",
+      "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
     },
     {
       "added_at": "2022-06-10 12:00:00",
@@ -1281,44 +1281,28 @@
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+        "name": "Aethiopes",
+        "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
       },
       "artists": [
         {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Breeze Brewin",
+          "url": "https://open.spotify.com/artist/37P8o5UzvXLuw3lQsjgdHq"
         }
       ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+      "duration_ms": 143781,
+      "name": "Heavy Water",
+      "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1357,6 +1341,46 @@
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
+      },
+      "artists": [
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        },
+        {
+          "name": "Jaywop",
+          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "When Rappers Attack",
@@ -1371,30 +1395,6 @@
       "duration_ms": 100933,
       "name": "Slick Talkin'",
       "url": "https://open.spotify.com/track/61asDMua0oGUCDXOhIsN0u"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Aethiopes",
-        "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "Breeze Brewin",
-          "url": "https://open.spotify.com/artist/37P8o5UzvXLuw3lQsjgdHq"
-        }
-      ],
-      "duration_ms": 143781,
-      "name": "Heavy Water",
-      "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
     },
     {
       "added_at": "2022-07-08 12:00:00",
@@ -1449,20 +1449,20 @@
       "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-12-24 00:20:27",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
       },
       "artists": [
         {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+      "duration_ms": 153886,
+      "name": "Here's Johnny",
+      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+    },
+    {
       "added_at": "2022-08-05 12:00:00",
       "album": {
         "name": "Intros, Outros & Interludes",
@@ -1505,22 +1521,6 @@
       "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
     },
     {
-      "added_at": "2022-12-22 01:04:25",
-      "album": {
-        "name": "YOD Presents: The Shining",
-        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Here's Johnny",
-      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Catch Me If You Can",
@@ -1539,6 +1539,46 @@
       "duration_ms": 107379,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Ironman",
+        "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "260 (feat. Raekwon)",
+      "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6YEge8s9WLgdiigQFxNLIe"
+      },
+      "artists": [
+        {
+          "name": "Bush Babees",
+          "url": "https://open.spotify.com/artist/35uD3ZeLUoniBBQhiWQGCu"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 280220,
+      "name": "The Love Song",
+      "url": "https://open.spotify.com/track/7eGKbOhLhUGPGOtyEgnRhc"
     },
     {
       "added_at": "2022-06-10 12:00:00",
@@ -1563,62 +1603,6 @@
       "duration_ms": 218297,
       "name": "Cruisin USA",
       "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Ironman",
-        "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "260 (feat. Raekwon)",
-      "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
-    },
-    {
-      "added_at": "2022-12-22 01:04:25",
-      "album": {
-        "name": "One Man Army",
-        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
-      },
-      "artists": [
-        {
-          "name": "Apathy",
-          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "One Man Army",
-      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6YEge8s9WLgdiigQFxNLIe"
-      },
-      "artists": [
-        {
-          "name": "Bush Babees",
-          "url": "https://open.spotify.com/artist/35uD3ZeLUoniBBQhiWQGCu"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 280220,
-      "name": "The Love Song",
-      "url": "https://open.spotify.com/track/7eGKbOhLhUGPGOtyEgnRhc"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1669,6 +1653,22 @@
       "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
+      "added_at": "2022-12-24 00:20:27",
+      "album": {
+        "name": "One Man Army",
+        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
+      },
+      "artists": [
+        {
+          "name": "Apathy",
+          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "One Man Army",
+      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "To Kill A Sunrise",
@@ -1709,6 +1709,22 @@
       "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Navy's Reprise",
+        "url": "https://open.spotify.com/album/3wkNVoQDFznu6kIR8d1BQb"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "duration_ms": 152281,
+      "name": "Not a Lot to Fear",
+      "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
+    },
+    {
       "added_at": "2022-10-29 04:00:00",
       "album": {
         "name": "Soon You'll Understand",
@@ -1727,22 +1743,6 @@
       "duration_ms": 240501,
       "name": "Randy Moss / Twenty-Six",
       "url": "https://open.spotify.com/track/1fIsoghaCZ5i61AB9Lv5Is"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Navy's Reprise",
-        "url": "https://open.spotify.com/album/3wkNVoQDFznu6kIR8d1BQb"
-      },
-      "artists": [
-        {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
-        }
-      ],
-      "duration_ms": 152281,
-      "name": "Not a Lot to Fear",
-      "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2022-05-20 12:00:00",
       "album": {
+        "name": "Deathfame",
+        "url": "https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW"
+      },
+      "artists": [
+        {
+          "name": "Quelle Chris",
+          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
+        }
+      ],
+      "duration_ms": 205428,
+      "name": "DEATHFAME",
+      "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
+    },
+    {
+      "added_at": "2022-05-20 12:00:00",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
       },
@@ -1781,20 +1797,36 @@
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
-      "added_at": "2022-05-20 12:00:00",
+      "added_at": "2022-10-29 04:00:00",
       "album": {
-        "name": "Deathfame",
-        "url": "https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW"
+        "name": "The Yodfather",
+        "url": "https://open.spotify.com/album/4E3NYgEdGGqHXcV1z4ZUjo"
       },
       "artists": [
         {
-          "name": "Quelle Chris",
-          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 205428,
-      "name": "DEATHFAME",
-      "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
+      "duration_ms": 170872,
+      "name": "90 From The Line, Pt. 3",
+      "url": "https://open.spotify.com/track/3Ngt4ShOQ02FC0MvsfDfFK"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Baltimore Housing Project",
+        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
+      },
+      "artists": [
+        {
+          "name": "Jay Royale",
+          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "Reefer Clouds",
+      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1849,22 +1881,6 @@
       "url": "https://open.spotify.com/track/1cpZ8qDrMA4qWqCOPw5xcU"
     },
     {
-      "added_at": "2022-10-29 04:00:00",
-      "album": {
-        "name": "The Yodfather",
-        "url": "https://open.spotify.com/album/4E3NYgEdGGqHXcV1z4ZUjo"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 170872,
-      "name": "90 From The Line, Pt. 3",
-      "url": "https://open.spotify.com/track/3Ngt4ShOQ02FC0MvsfDfFK"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Cherry Blossom",
@@ -1889,7 +1905,7 @@
       "url": "https://open.spotify.com/track/2HfwP1SaxQTGPwobr06lXP"
     },
     {
-      "added_at": "2022-12-22 01:04:25",
+      "added_at": "2022-12-24 00:20:27",
       "album": {
         "name": "Deutsche Marks 3",
         "url": "https://open.spotify.com/album/7k9IS4gC6f5ERorZ8eScJu"
@@ -1909,6 +1925,30 @@
       "url": "https://open.spotify.com/track/6z6yb0LVcMSuHXS0oCpUvx"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Dump YOD: Krutoy Edition",
+        "url": "https://open.spotify.com/album/5w84qVnNHvWnplOXOki2ch"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
+    },
+    {
       "added_at": "2022-10-29 04:00:00",
       "album": {
         "name": "The Last Remnants",
@@ -1923,38 +1963,6 @@
       "duration_ms": 152655,
       "name": "Therapy Session",
       "url": "https://open.spotify.com/track/3Km9evmYEbOWSoAviuhJNA"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "The Baltimore Housing Project",
-        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
-      },
-      "artists": [
-        {
-          "name": "Jay Royale",
-          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
-        }
-      ],
-      "duration_ms": 227661,
-      "name": "Reefer Clouds",
-      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
-    },
-    {
-      "added_at": "2022-12-22 01:04:25",
-      "album": {
-        "name": "MONTARA",
-        "url": "https://open.spotify.com/album/2Nl3fjllNCG3uPZrMBW4yU"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        }
-      ],
-      "duration_ms": 135870,
-      "name": "MONTARA",
-      "url": "https://open.spotify.com/track/43qEaP04zQe12Ch7PkXvUR"
     }
   ],
   "unique_name": "The Skate Shop",

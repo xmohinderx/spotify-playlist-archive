@@ -324,6 +324,36 @@
     },
     {
       "album": {
+        "name": "Cellina",
+        "url": "https://open.spotify.com/album/5IyMTRwkAPVPDNf6joX25R"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "Cellina",
+      "url": "https://open.spotify.com/track/1UsZbnYnEU3DgyFiM4n7RU"
+    },
+    {
+      "album": {
         "name": "Certo pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
       },

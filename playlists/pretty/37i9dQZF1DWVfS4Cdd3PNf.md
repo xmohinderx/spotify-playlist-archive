@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > Masterpieces from the world of opera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,460 likes - 61 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,129 likes - 61 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 | 60 | [Wagner: Der fliegende Holländer, WWV 63, Act 2: "Johohoe! Traft ihr das Schiff im Meere an" \(Senta, Chorus\) \- Live](https://open.spotify.com/track/1e4TxTGrRwuZqiquUkcxq9) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Anja Kampe](https://open.spotify.com/artist/0UKLFKhxyicHinwgTW2KWd), [Andris Nelsons](https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI) | [Wagner: Der fliegende Holländer \(Live\)](https://open.spotify.com/album/0zfpXA2Qm9aGnhTBfuYsrz) | 6:59 |
 | 61 | [Betrothal in a Monastery, Op\. 86, Act I Tableau 1 Scene 8: "Druzya, ukhodite"](https://open.spotify.com/track/1GhIGedE1Jf8IkmmBHoYH7) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Anatoly Mishchevsky](https://open.spotify.com/artist/4JBFuBl7EpzvXZrcF70QFd), [Kemal Abdullayev](https://open.spotify.com/artist/0N0tTsKVeftHfUtfB8G5Ep), [Stanislavsky and Nemirovich\-Danchenko Moscow Music Theatre Orchestra](https://open.spotify.com/artist/07T4KuhCZwUsHrtHjKIsAS) | [Prokofiev: Betrothal in a Monastery, Op\. 86](https://open.spotify.com/album/68u2i5065IWlAQSDB68tYt) | 3:19 |
 
-Snapshot ID: `MTY3MTAzMjI5NCwwMDAwMDAwMDIzN2YwNTRhNjc1ZDA2ODZkNTU1YjBjNmU5NTlmYWY1`
+Snapshot ID: `MTY3MTczMjIzMywwMDAwMDAwMGY3YWE2OGY5M2Y1MDk4ZjIxMjY1OGYzMGYyYWViOTBj`

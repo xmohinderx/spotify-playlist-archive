@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 11313,
+  "num_followers": 11382,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDRlMGU3YjdiMTJhZjdkYTZjNDQxNTEyZmY3MDRkZjk1",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGQ5NDNhZjVkNzE2YzNmOGJhMTJkM2Y3MmY0YWZmMWU2",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 250335,
-      "name": "Playing With My Emotions",
-      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Phone.Keys.Wallet",
@@ -267,6 +251,22 @@
       "duration_ms": 139773,
       "name": "Stacy's on the Lake",
       "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "I Am The Moon: II. Ascension",
+        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 250335,
+      "name": "Playing With My Emotions",
+      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -333,20 +333,20 @@
       "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm"
+        "name": "Circles Around the Sun",
+        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
       },
       "artists": [
         {
-          "name": "SunSquabi",
-          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
         }
       ],
-      "duration_ms": 369476,
-      "name": "Water Level",
-      "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
+      "duration_ms": 357053,
+      "name": "Babyman",
+      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -381,20 +381,20 @@
       "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Circles Around the Sun",
-        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm"
       },
       "artists": [
         {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+          "name": "SunSquabi",
+          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
         }
       ],
-      "duration_ms": 357053,
-      "name": "Babyman",
-      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+      "duration_ms": 369476,
+      "name": "Water Level",
+      "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1"
-      },
-      "artists": [
-        {
-          "name": "Aqueous",
-          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
-        }
-      ],
-      "duration_ms": 579373,
-      "name": "Kitty Chaser (Explosions)",
-      "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 456631,
       "name": "Duck Farm",
       "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1"
+      },
+      "artists": [
+        {
+          "name": "Aqueous",
+          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
+        }
+      ],
+      "duration_ms": 579373,
+      "name": "Kitty Chaser (Explosions)",
+      "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Trouble Overnight",
-        "url": "https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle"
-      },
-      "artists": [
-        {
-          "name": "Zach Nugent",
-          "url": "https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn"
-        }
-      ],
-      "duration_ms": 408773,
-      "name": "Trouble Overnight",
-      "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Off Leash",
@@ -769,20 +753,20 @@
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
+        "name": "Trouble Overnight",
+        "url": "https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle"
       },
       "artists": [
         {
-          "name": "Cytrus",
-          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
+          "name": "Zach Nugent",
+          "url": "https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn"
         }
       ],
-      "duration_ms": 247206,
-      "name": "When Ya Hustle",
-      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
+      "duration_ms": 408773,
+      "name": "Trouble Overnight",
+      "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -799,6 +783,22 @@
       "duration_ms": 321688,
       "name": "Time Dilates",
       "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
+      },
+      "artists": [
+        {
+          "name": "Cytrus",
+          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
+        }
+      ],
+      "duration_ms": 247206,
+      "name": "When Ya Hustle",
+      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
     },
     {
       "added_at": "2022-06-23 13:45:43",

@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving folk & roots scene\. Cover: Ocie Elliott
+> Explore the ever\-evolving folk & roots scene\. Cover: Richy Mitch & The Coal Miners
 
 327 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 

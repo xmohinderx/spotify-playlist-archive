@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 193169,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/7677F33TDOahKknQbw4446"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 209210,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/0puJO7cB2H8uPn1n4kXzdA"
@@ -422,6 +422,32 @@
     },
     {
       "album": {
+        "name": "Drama & Dinero",
+        "url": "https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Drama & Dinero",
+      "url": "https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce"
+    },
+    {
+      "album": {
         "name": "Verg\u00fcenza Propia",
         "url": "https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD"
       },
@@ -491,7 +517,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 203615,
       "name": "El Mismo de Siempre",
       "url": "https://open.spotify.com/track/10AjYRkbsAdhnLXrGjGoAg"
@@ -699,6 +725,24 @@
       "duration_ms": 165925,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/10dxL8HY1IgB1rEFNMAtJY"
+    },
+    {
+      "album": {
+        "name": "Hasta Luego",
+        "url": "https://open.spotify.com/album/6EfqxfjvB5RbNfHCiOc5jh"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147626,
+      "name": "Hasta Luego",
+      "url": "https://open.spotify.com/track/0sO1CZLWa4hvNSlOaXReao"
     },
     {
       "album": {
@@ -997,6 +1041,24 @@
       "duration_ms": 184493,
       "name": "La Vida Es Solo Una",
       "url": "https://open.spotify.com/track/5CwIPEZLQWwYB8tKruccJm"
+    },
+    {
+      "album": {
+        "name": "L\u00edo",
+        "url": "https://open.spotify.com/album/5uKw3P9gFKtpiZx1WgKIxo"
+      },
+      "artists": [
+        {
+          "name": "Nicolai Fella",
+          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284270,
+      "name": "L\u00edo",
+      "url": "https://open.spotify.com/track/2ZoHRsTZ5olVYztp1ti9ta"
     },
     {
       "album": {

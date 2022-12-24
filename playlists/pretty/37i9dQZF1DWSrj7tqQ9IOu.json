@@ -1,31 +1,79 @@
 {
-  "description": "The best French indie tracks right now. Cover: Miel De Montagne",
-  "num_followers": 369164,
+  "description": "The best French indie tracks right now. Cover: Charlotte Fever",
+  "num_followers": 369371,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0NTIwMCwwMDAwMDAwMDFjNGRiYjU1Yzc1ODFmNGRkNTBiMmUyMDNmZWQzYmU4",
+  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMDZiZWJmNWE2YTYyODNhOWViNjE0ZGNhZGM0N2EyZGM3",
   "tracks": [
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Calvin",
-        "url": "https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn"
+        "name": "Septembre",
+        "url": "https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6"
       },
       "artists": [
         {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+          "name": "Charlotte Fever",
+          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
         }
       ],
-      "duration_ms": 183470,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc"
+      "duration_ms": 204495,
+      "name": "Septembre",
+      "url": "https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "JTM",
+        "url": "https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Z\u00e9ro",
+      "url": "https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Corporate Sunset",
+        "url": "https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM"
+      },
+      "artists": [
+        {
+          "name": "JB Dunckel",
+          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
+        }
+      ],
+      "duration_ms": 303093,
+      "name": "Corporate Sunset",
+      "url": "https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "duration_ms": 185913,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Le coup d'soleil (feat. Emma Peters)",
         "url": "https://open.spotify.com/album/0O9qHe6RGZ2mc6tRfZfI33"
@@ -45,87 +93,7 @@
       "url": "https://open.spotify.com/track/1J8BB10crN7uZc42kZiALR"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Septembre",
-        "url": "https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Fever",
-          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
-        }
-      ],
-      "duration_ms": 204495,
-      "name": "Septembre",
-      "url": "https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        }
-      ],
-      "duration_ms": 185913,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Corporate Sunset",
-        "url": "https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM"
-      },
-      "artists": [
-        {
-          "name": "JB Dunckel",
-          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "Corporate Sunset",
-      "url": "https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "11 mai 2020",
-        "url": "https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 170097,
-      "name": "Rengaine",
-      "url": "https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "JTM",
-        "url": "https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Z\u00e9ro",
-      "url": "https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": ":):",
         "url": "https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m"
@@ -141,7 +109,39 @@
       "url": "https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "11 mai 2020",
+        "url": "https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 170097,
+      "name": "Rengaine",
+      "url": "https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Pour la vie enti\u00e8re",
+        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Pour la vie enti\u00e8re",
+      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Y tu te vas",
         "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "chanson triste",
         "url": "https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm"
@@ -173,39 +173,23 @@
       "url": "https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Paris en Ao\u00fbt",
-        "url": "https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg"
+        "name": "Calvin",
+        "url": "https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Paris en Ao\u00fbt",
-      "url": "https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd"
+      "duration_ms": 183470,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "call it a night",
-        "url": "https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 176408,
-      "name": "call it a night",
-      "url": "https://open.spotify.com/track/2vgfNCFLKRfCsOuLzA1AaD"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Toupies",
         "url": "https://open.spotify.com/album/6VNFDjMAcI947JJhzeEFEg"
@@ -229,7 +213,27 @@
       "url": "https://open.spotify.com/track/2OjATTlZrAxGtQVQjec1Kj"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "postcard from London",
+        "url": "https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "duration_ms": 241948,
+      "name": "the song i always forget about",
+      "url": "https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "The Circle",
         "url": "https://open.spotify.com/album/133flpfpzLu7VJ6xGQLvR7"
@@ -245,7 +249,23 @@
       "url": "https://open.spotify.com/track/5c7FvMWuOdaa2ZLvj67rsk"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Everynight",
+        "url": "https://open.spotify.com/album/79rUCbCs5fikaZhd1wry5a"
+      },
+      "artists": [
+        {
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+        }
+      ],
+      "duration_ms": 187346,
+      "name": "Everynight",
+      "url": "https://open.spotify.com/track/2RZf85DlySSEutouUtotn6"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/2AhOvs6A2RVg3IoVtCeMI1"
@@ -269,59 +289,7 @@
       "url": "https://open.spotify.com/track/4b0fiEZg92FBFYze5uEx0l"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Brain empty/heart fucked",
-        "url": "https://open.spotify.com/album/72P9MbmIOjmHql5eHn0djV"
-      },
-      "artists": [
-        {
-          "name": "BLOWSOM",
-          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
-        },
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 159864,
-      "name": "Brain empty/heart fucked",
-      "url": "https://open.spotify.com/track/5ZKsOqztR15ukpcFGSH8VW"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Aux larmes",
-        "url": "https://open.spotify.com/album/0aBMvGMa1RpW4CuSI0lD9E"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Froissart",
-          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
-        }
-      ],
-      "duration_ms": 276740,
-      "name": "Aux larmes",
-      "url": "https://open.spotify.com/track/3zOw6BCIkalIfA8pS9bYTX"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Club de c\u0153ur",
-        "url": "https://open.spotify.com/album/4iuZaYn8392UjS5rTcPZIY"
-      },
-      "artists": [
-        {
-          "name": "Spider ZED",
-          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
-        }
-      ],
-      "duration_ms": 158026,
-      "name": "Club de c\u0153ur",
-      "url": "https://open.spotify.com/track/4dr17HvQ770Mt1evg83oQd"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Septembre",
         "url": "https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K"
@@ -337,107 +305,27 @@
       "url": "https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "novembre",
-        "url": "https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S"
-      },
-      "artists": [
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "novembre",
-      "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Vid\u00e9odrome",
-        "url": "https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe"
-      },
-      "artists": [
-        {
-          "name": "P.R2B",
-          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
-        }
-      ],
-      "duration_ms": 187655,
-      "name": "Vid\u00e9odrome",
-      "url": "https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K"
-      },
-      "artists": [
-        {
-          "name": "Hyphen Hyphen",
-          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
-        }
-      ],
-      "duration_ms": 220821,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Laisse moi te dire",
-        "url": "https://open.spotify.com/album/0nrLdwuDs1lnsa7ocVdoYY"
-      },
-      "artists": [
-        {
-          "name": "Adam\u00e9",
-          "url": "https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Laisse moi te dire",
-      "url": "https://open.spotify.com/track/4LhmxDjGI3yY03k7J9qJbP"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "BB toi & moi",
-        "url": "https://open.spotify.com/album/3kV1bmXtcOSdv8nEyZpuBv"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/0hzxwjmrSYnUIhaQElBQMj"
       },
       "artists": [
         {
           "name": "Petit Nuage",
           "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
-        }
-      ],
-      "duration_ms": 172509,
-      "name": "BB toi & moi",
-      "url": "https://open.spotify.com/track/1CyELRjfViP1ihdN8i0GKI"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Honey Pot",
-        "url": "https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z"
-      },
-      "artists": [
-        {
-          "name": "BLOWSOM",
-          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
         },
         {
-          "name": "KESMAR",
-          "url": "https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW"
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
         }
       ],
-      "duration_ms": 201641,
-      "name": "Honey Pot",
-      "url": "https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz"
+      "duration_ms": 164525,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/1NqHsocjKaEmyjKhXJbIk8"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS"
@@ -457,55 +345,91 @@
       "url": "https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Anxi\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/0vfhsdTScYIuFwpDEoe87L"
+        "name": "Paris en Ao\u00fbt",
+        "url": "https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg"
       },
       "artists": [
         {
-          "name": "Adam Berry",
-          "url": "https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
         }
       ],
-      "duration_ms": 179739,
-      "name": "Anxi\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/57TlKdK0nSo1kB5bzi8qAh"
+      "duration_ms": 191693,
+      "name": "Paris en Ao\u00fbt",
+      "url": "https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/196KcyXjX9vkmXOhGw5YBu"
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
       "artists": [
         {
-          "name": "Blossom Club",
-          "url": "https://open.spotify.com/artist/2roaH82erx4P9jgPb7mklu"
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
         }
       ],
-      "duration_ms": 265945,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/51uQCk3qeta0zegvbnpgTQ"
+      "duration_ms": 206826,
+      "name": "Folle",
+      "url": "https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Keep Running",
-        "url": "https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a"
+        "name": "Partir Loin",
+        "url": "https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq"
       },
       "artists": [
         {
-          "name": "Yodelice",
-          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+          "name": "Antis",
+          "url": "https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Keep Running",
-      "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
+      "duration_ms": 158769,
+      "name": "Partir Loin",
+      "url": "https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Honey Pot",
+        "url": "https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        },
+        {
+          "name": "KESMAR",
+          "url": "https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW"
+        }
+      ],
+      "duration_ms": 201641,
+      "name": "Honey Pot",
+      "url": "https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Vid\u00e9odrome",
+        "url": "https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "duration_ms": 187655,
+      "name": "Vid\u00e9odrome",
+      "url": "https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Crush (feat. Ana\u00efs Demoustier)",
         "url": "https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv"
@@ -525,123 +449,7 @@
       "url": "https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4bohO6l0T6xz7mksz4Ix7A"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 119925,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/4U6rMXd8plvspnNy7Iihwe"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Pour la vie enti\u00e8re",
-        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
-      },
-      "artists": [
-        {
-          "name": "blond",
-          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Pour la vie enti\u00e8re",
-      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "PHANTASIA",
-        "url": "https://open.spotify.com/album/2EVQB27DWqa2tnMhM16zPg"
-      },
-      "artists": [
-        {
-          "name": "Nova\u00e9 Lita",
-          "url": "https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6"
-        }
-      ],
-      "duration_ms": 167124,
-      "name": "Morphine",
-      "url": "https://open.spotify.com/track/0g8woFgSUJHgJ3tuKxMezr"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
-      },
-      "artists": [
-        {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        },
-        {
-          "name": "Basile Petite",
-          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "La vitesse",
-        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
-      },
-      "artists": [
-        {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "Folle",
-      "url": "https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Aidono",
-        "url": "https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T"
-      },
-      "artists": [
-        {
-          "name": "Evergreen",
-          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
-        }
-      ],
-      "duration_ms": 230356,
-      "name": "Aidono",
-      "url": "https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Everynight",
-        "url": "https://open.spotify.com/album/79rUCbCs5fikaZhd1wry5a"
-      },
-      "artists": [
-        {
-          "name": "Camp Claude",
-          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
-        }
-      ],
-      "duration_ms": 187346,
-      "name": "Everynight",
-      "url": "https://open.spotify.com/track/2RZf85DlySSEutouUtotn6"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Chifoumi",
         "url": "https://open.spotify.com/album/3Wfi96jmFxSxBdv510bSar"
@@ -657,50 +465,42 @@
       "url": "https://open.spotify.com/track/6lKs1pXjZvGQHNky3qD6qz"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "j'attends",
-        "url": "https://open.spotify.com/album/0lernxYMPwdcFGvEDv3att"
+        "name": "BB toi & moi",
+        "url": "https://open.spotify.com/album/3kV1bmXtcOSdv8nEyZpuBv"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        },
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+          "name": "Petit Nuage",
+          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
         }
       ],
-      "duration_ms": 206608,
-      "name": "j'attends",
-      "url": "https://open.spotify.com/track/23I9xqbbq8ii3SK59VoeuQ"
+      "duration_ms": 172509,
+      "name": "BB toi & moi",
+      "url": "https://open.spotify.com/track/1CyELRjfViP1ihdN8i0GKI"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Reality",
-        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
+        "name": "Aidono",
+        "url": "https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T"
       },
       "artists": [
         {
-          "name": "Em Glasser",
-          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
-        },
-        {
-          "name": "Maatz",
-          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
+          "name": "Evergreen",
+          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
         }
       ],
-      "duration_ms": 219205,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
+      "duration_ms": 230356,
+      "name": "Aidono",
+      "url": "https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "En ce moment",
-        "url": "https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D"
+        "name": "Club de c\u0153ur",
+        "url": "https://open.spotify.com/album/4iuZaYn8392UjS5rTcPZIY"
       },
       "artists": [
         {
@@ -708,12 +508,28 @@
           "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
         }
       ],
-      "duration_ms": 136094,
-      "name": "En ce moment",
-      "url": "https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb"
+      "duration_ms": 158026,
+      "name": "Club de c\u0153ur",
+      "url": "https://open.spotify.com/track/4dr17HvQ770Mt1evg83oQd"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/196KcyXjX9vkmXOhGw5YBu"
+      },
+      "artists": [
+        {
+          "name": "Blossom Club",
+          "url": "https://open.spotify.com/artist/2roaH82erx4P9jgPb7mklu"
+        }
+      ],
+      "duration_ms": 265945,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/51uQCk3qeta0zegvbnpgTQ"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR"
@@ -733,39 +549,55 @@
       "url": "https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Voyage I",
-        "url": "https://open.spotify.com/album/2lKQPMov6YiNbdI5xmpbiP"
+        "name": "PHANTASIA",
+        "url": "https://open.spotify.com/album/2EVQB27DWqa2tnMhM16zPg"
       },
       "artists": [
         {
-          "name": "Montmartre",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+          "name": "Nova\u00e9 Lita",
+          "url": "https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6"
         }
       ],
-      "duration_ms": 187187,
-      "name": "\u00d4 ma belle",
-      "url": "https://open.spotify.com/track/3gqGa4qbSoYVHDfaTUdkEA"
+      "duration_ms": 167124,
+      "name": "Morphine",
+      "url": "https://open.spotify.com/track/0g8woFgSUJHgJ3tuKxMezr"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+        "name": "Aux larmes",
+        "url": "https://open.spotify.com/album/0aBMvGMa1RpW4CuSI0lD9E"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
         }
       ],
-      "duration_ms": 191733,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+      "duration_ms": 276740,
+      "name": "Aux larmes",
+      "url": "https://open.spotify.com/track/3zOw6BCIkalIfA8pS9bYTX"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "novembre",
+        "url": "https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "novembre",
+      "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/6DizoLGqfn6IXI4xk3yDwU"
@@ -789,23 +621,59 @@
       "url": "https://open.spotify.com/track/7jkJWgGqpS8QrkibLlfMhz"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "D\u00e9samour",
-        "url": "https://open.spotify.com/album/4dIh0BBJ9ODCLY2Sy3pK7x"
+        "name": "En ce moment",
+        "url": "https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D"
       },
       "artists": [
         {
-          "name": "R\u00eave Blanc",
-          "url": "https://open.spotify.com/artist/6bQE7tlwfDdiBAAdo4EKyL"
+          "name": "Spider ZED",
+          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
         }
       ],
-      "duration_ms": 224000,
-      "name": "D\u00e9samour",
-      "url": "https://open.spotify.com/track/0O3R6dT3geP0UutTeo0KTy"
+      "duration_ms": 136094,
+      "name": "En ce moment",
+      "url": "https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Keep Running",
+        "url": "https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
+      },
+      "artists": [
+        {
+          "name": "Em Glasser",
+          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
+        },
+        {
+          "name": "Maatz",
+          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/1A8aK9FTyjeX0bJU1uOgaG"
@@ -821,23 +689,27 @@
       "url": "https://open.spotify.com/track/381x7xMIdqXgCnkpoMX2X7"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "La vieille maison",
-        "url": "https://open.spotify.com/album/7zROrFoCzMu9OVTEEFVAia"
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
       },
       "artists": [
         {
-          "name": "Or\u00e9",
-          "url": "https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4"
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        },
+        {
+          "name": "Basile Petite",
+          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
         }
       ],
-      "duration_ms": 187291,
-      "name": "La vieille maison",
-      "url": "https://open.spotify.com/track/2VeWiX4VpEh5FlSqAI8ZxH"
+      "duration_ms": 241560,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Empathie",
         "url": "https://open.spotify.com/album/6ih5L57o7ap7pEamgPKwI3"
@@ -853,7 +725,7 @@
       "url": "https://open.spotify.com/track/738mF4MLie3fFqTrWIP4RC"
     },
     {
-      "added_at": "2022-12-15 23:00:00",
+      "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Voices In Your Head",
         "url": "https://open.spotify.com/album/06JI1wmYUr0aXc4mI74EnP"
@@ -867,6 +739,142 @@
       "duration_ms": 255302,
       "name": "Voices In Your Head",
       "url": "https://open.spotify.com/track/4HBWcKtybdLFvFQpE2kQuy"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K"
+      },
+      "artists": [
+        {
+          "name": "Hyphen Hyphen",
+          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
+        }
+      ],
+      "duration_ms": 220821,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "La vieille maison",
+        "url": "https://open.spotify.com/album/7zROrFoCzMu9OVTEEFVAia"
+      },
+      "artists": [
+        {
+          "name": "Or\u00e9",
+          "url": "https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4"
+        }
+      ],
+      "duration_ms": 187291,
+      "name": "La vieille maison",
+      "url": "https://open.spotify.com/track/2VeWiX4VpEh5FlSqAI8ZxH"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4bohO6l0T6xz7mksz4Ix7A"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 119925,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/4U6rMXd8plvspnNy7Iihwe"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "j'attends",
+        "url": "https://open.spotify.com/album/0lernxYMPwdcFGvEDv3att"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        },
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "duration_ms": 206608,
+      "name": "j'attends",
+      "url": "https://open.spotify.com/track/23I9xqbbq8ii3SK59VoeuQ"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Anxi\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/0vfhsdTScYIuFwpDEoe87L"
+      },
+      "artists": [
+        {
+          "name": "Adam Berry",
+          "url": "https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh"
+        }
+      ],
+      "duration_ms": 179739,
+      "name": "Anxi\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/57TlKdK0nSo1kB5bzi8qAh"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Brain empty/heart fucked",
+        "url": "https://open.spotify.com/album/72P9MbmIOjmHql5eHn0djV"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        },
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 159864,
+      "name": "Brain empty/heart fucked",
+      "url": "https://open.spotify.com/track/5ZKsOqztR15ukpcFGSH8VW"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Laisse moi te dire",
+        "url": "https://open.spotify.com/album/0nrLdwuDs1lnsa7ocVdoYY"
+      },
+      "artists": [
+        {
+          "name": "Adam\u00e9",
+          "url": "https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Laisse moi te dire",
+      "url": "https://open.spotify.com/track/4LhmxDjGI3yY03k7J9qJbP"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "call it a night",
+        "url": "https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 176408,
+      "name": "call it a night",
+      "url": "https://open.spotify.com/track/2vgfNCFLKRfCsOuLzA1AaD"
     }
   ],
   "unique_name": "Made in France",

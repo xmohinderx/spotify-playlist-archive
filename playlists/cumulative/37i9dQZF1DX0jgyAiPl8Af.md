@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-508 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+511 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Dunfanaghy Beach](https://open.spotify.com/track/4dPDiKpvkhXrCZ7dd9nM3K) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Dunfanaghy Beach](https://open.spotify.com/album/4LlIknto9ZksRNDIZXfPL8) | 2:10 | 2021-12-08 | 2022-06-17 |
 | [Dunmore](https://open.spotify.com/track/1108gLMZC5vp5HQxN7yKrD) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Dunmore](https://open.spotify.com/album/0DdHHAsuXIPX7T9Y5BdEQA) | 2:34 | 2022-09-02 |  |
 | [Echo Park](https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Echo Park](https://open.spotify.com/album/2RztZ6yJ4Da3Y2JV9xFm5n) | 2:48 | 2022-04-22 |  |
+| [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 | 2022-12-23 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2021-12-08 |  |
 | [El Sendero Luminoso](https://open.spotify.com/track/1f3itL6t8wRlLiVYkbjm0L) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Nebula](https://open.spotify.com/album/32tovcC1vMst3V7oTACGHU) | 3:17 | 2022-08-19 |  |
 | [El Viaje](https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [El Viaje](https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv) | 2:48 | 2021-12-08 |  |
@@ -156,6 +157,7 @@
 | [Eyrie](https://open.spotify.com/track/7xsrSjvPQdbAjnjLbE123V) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Eyrie](https://open.spotify.com/album/0SijLea2cdL6yNX9d7R2i2) | 1:56 | 2022-10-28 |  |
 | [Fairfield in my Heart](https://open.spotify.com/track/3HSSHkPfbgA6F7t5zVlYk3) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Fairfield in my Heart](https://open.spotify.com/album/2rxYviWjxKjrosSq8ezUBV) | 2:12 | 2022-11-18 |  |
 | [Faith Struggle](https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Faith Struggle](https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8) | 2:56 | 2021-12-08 | 2022-05-11 |
+| [Falling For You](https://open.spotify.com/track/3Boy1B77i7P895663Fdl19) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Falling For You](https://open.spotify.com/album/4hYaErKM9hpfXWyCUf7INO) | 2:27 | 2022-12-23 |  |
 | [Fear Is Far Away](https://open.spotify.com/track/2ASAODBAx7puIDxnhFjaCH) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Fear Is Far Away](https://open.spotify.com/album/0Rryrmddnm4IcqODTTMHxk) | 3:51 | 2022-10-07 |  |
 | [Feathertop](https://open.spotify.com/track/6pBAubm4vZEQI6tcsn07qi) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Bimberi](https://open.spotify.com/album/5pijgJRyA29DpwtB8BUfhA) | 3:02 | 2021-12-08 |  |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-01-19 |  |
@@ -434,6 +436,7 @@
 | [Spirited Away](https://open.spotify.com/track/4lE04Ccceo6nUADycSJZ4y) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Spirited Away](https://open.spotify.com/album/0IeQHK1faB5zkb1NbmCa3c) | 2:03 | 2021-12-08 | 2022-05-11 |
 | [Spring Awakening](https://open.spotify.com/track/0bYa0O1LHWVaPRKfdyO2yQ) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:43 | 2021-12-08 | 2022-07-08 |
 | [Spring sun](https://open.spotify.com/track/5MHaEZ4fKUkGRfqAWrLcyi) | [Alessandro Minci](https://open.spotify.com/artist/3sjBbv6BttORQh4rrqmsrl) | [Spring Sun](https://open.spotify.com/album/5hyIXz4iIe2ljbGiXcSte1) | 4:58 | 2022-05-27 | 2022-07-22 |
+| [Stairs](https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Stairs](https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5) | 2:40 | 2022-12-23 |  |
 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 | 2022-06-24 |  |
 | [Starting Over](https://open.spotify.com/track/5Nd54oYpiYxUh3bQcT9PtE) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Starting Over](https://open.spotify.com/album/6h8H91TDC4VG1G10ci3zlq) | 1:52 | 2021-12-08 | 2022-04-22 |
 | [Stilla skymning](https://open.spotify.com/track/36WuY4qGl7hAxof1KlLpFf) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Stilla skymning](https://open.spotify.com/album/4uy9JXHwv8Hmnn21LorsMm) | 1:50 | 2022-10-07 |  |

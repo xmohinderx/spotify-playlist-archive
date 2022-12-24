@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-584 songs - 1 day 8 hr 46 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+585 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [אנג'ל](https://open.spotify.com/track/2KpvlQWTbTvTuj4hfsrUSy) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אנג'ל](https://open.spotify.com/album/4glxHUC6bjjNA67FgwwVto) | 3:18 | 2021-07-11 | 2021-07-25 |
 | [אנג'ל](https://open.spotify.com/track/6NgunNXmJPSH9OeP86mcpL) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אנג'ל](https://open.spotify.com/album/1ofvDkXUooknjtAu9vIY2N) | 3:18 | 2021-07-25 | 2021-10-23 |
 | [אנג'ל](https://open.spotify.com/track/6hGTOtfKYnhSGWNfyCNPw0) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR) | 3:18 | 2021-10-23 | 2021-11-16 |
+| [אני](https://open.spotify.com/track/4hTFq8sHEVSDXIxTVe4qHJ) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [אני](https://open.spotify.com/album/6RyqKTz4KZVU82Y1NHzkuu) | 2:35 | 2022-12-23 |  |
 | [אני אוהב אותך \(prod by Navi\)](https://open.spotify.com/track/54Eg8MXmNLr9b4q8Qb3kYL) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אני אוהב אותך \(prod by Navi\)](https://open.spotify.com/album/3pdBEM3eeR9EeUMlZ7eazU) | 3:31 | 2021-04-06 | 2021-06-27 |
 | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA) | [Adir Getz](https://open.spotify.com/artist/2MOEM2cDGyOzUf7LrBFuIG) | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/album/6V3xJpO7DvJmgCzdSX1vzB) | 3:00 | 2022-07-18 |  |
 | [אני כבר לא בך](https://open.spotify.com/track/6J8hw9Lcrp3zxk9J7s5RmH) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אני כבר לא בך](https://open.spotify.com/album/36lM0F38dXFsNgGKwQ3Cde) | 2:57 | 2021-12-24 | 2022-01-23 |
@@ -422,7 +423,7 @@
 | [יודעת לסובב](https://open.spotify.com/track/2KsVKLUuoPbRnpEQJ7vygp) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 3:22 | 2021-12-18 | 2021-12-30 |
 | [יום חדש](https://open.spotify.com/track/3z2xDkd4Bz0y3Teh4RZOWz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/1egE5NfiejbJB9tUclCEdN) | 3:28 | 2021-05-15 | 2021-05-21 |
 | [יותר חזק מה?](https://open.spotify.com/track/4C7X3ja0DeTxMaTQJXtQ8W) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [יותר חזק מה?](https://open.spotify.com/album/0r3z6vvJSpUWhMHLWgbJj1) | 2:19 | 2022-09-06 | 2022-10-02 |
-| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 |  |
+| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 | 2022-12-24 |
 | [כאב של לוחמים](https://open.spotify.com/track/2X8mBXrZ6HJPCgKAzC87k5) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/38ULaBgGevy5UhbI9yXAvg) | 3:18 | 2022-05-04 | 2022-05-07 |
 | [כאב של לוחמים](https://open.spotify.com/track/3DjIsttgjXGZMO31KiYrGO) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/5iRY7IjF3Cw9LBt6ESsPR4) | 3:18 | 2021-04-15 | 2021-04-17 |
 | [כאלו מילים](https://open.spotify.com/track/0n2BeC9E0M7fC2jbKBYetu) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [השחר 35](https://open.spotify.com/album/3XjD1ikl0kagVRjTy7ooAK) | 2:45 | 2022-09-24 | 2022-10-08 |

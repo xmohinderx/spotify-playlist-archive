@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,135 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,163 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 15 | [The Funicator](https://open.spotify.com/track/2WeaEw3cnDV9Db7qMQqG9t) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 2:19 |
 | 16 | [Shibilika](https://open.spotify.com/track/4A5IfHoaxNgtzv3J2CWlHP) | [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60) | [Shibilika](https://open.spotify.com/album/5xK1QReI8qvuuA4lwLQxAp) | 3:16 |
 | 17 | [Electric](https://open.spotify.com/track/1oGD1YPvrnwBIWHNQaqgv4) | [Carlos Bryant](https://open.spotify.com/artist/3yND6YH8X1GVlidbW7hcAn) | [Like Never B4](https://open.spotify.com/album/3gblvC91ZmyZzN9X4oDSdo) | 2:34 |
-| 18 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
+| 18 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 19 | [Big Man Cruise](https://open.spotify.com/track/2UkyY0pu9N5n5bSNyotv3h) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 3:07 |
 | 20 | [Vibration](https://open.spotify.com/track/1eZsTF2yXmicQFxF2tkDko) | [Stephen Of Kent](https://open.spotify.com/artist/3OFzdPbXQGXv20A5opuEk9) | [Future Kwaito Volume 3](https://open.spotify.com/album/3DMoK9ESG5PjcEi59z3Xqh) | 3:50 |
 | 21 | [Surviva](https://open.spotify.com/track/66136dLlJa5kY68quXMYsG) | [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [Surviva](https://open.spotify.com/album/6VSQVB5MtiInxFsAtW9raF) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Malcolm VL, Jotapê
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,007 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,123 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 45 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
 | 46 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
 | 47 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
-| 48 | [Mvp](https://open.spotify.com/track/4H9cPnHTghjVPmjuBucCMN) | [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Rimura](https://open.spotify.com/artist/1jiDZPnZHiAZUgg911r419) | [Mvp](https://open.spotify.com/album/7KqZQMy8Yfxw3MJk6525Yr) | 1:49 |
+| 48 | [Joga e Descontrai](https://open.spotify.com/track/2shKQJp8LXNDlD7N79MLRC) | [M4ridão 70](https://open.spotify.com/artist/38ITayRnrKrR0A7RpqILI4), [Bragadok](https://open.spotify.com/artist/4rVt7hTJTBUspoIHMoGpHu) | [Joga e Descontrai](https://open.spotify.com/album/1GkAILVDeTqdESnKt6kKr9) | 2:52 |
 | 49 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
 | 50 | [Revolver](https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Revolver](https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb) | 3:40 |
 
-Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMGI1NjI1MTNhNWJiZjU0M2ZhMWRlZTRhMzA5ZmY4NWNl`
+Snapshot ID: `MTY3MTc2NDQ2MCwwMDAwMDAwMGQ3OGUzYWFkY2UzZjZjMjU2YWZkMjQyMmVlZmFmMjNj`

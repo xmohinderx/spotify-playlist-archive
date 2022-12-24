@@ -83,7 +83,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 294600,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
@@ -167,6 +167,24 @@
       "duration_ms": 228983,
       "name": "Beyond Imagination - Element Remix",
       "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
+    },
+    {
+      "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "album": {
@@ -764,6 +782,32 @@
     },
     {
       "album": {
+        "name": "Get a Little Stupid (Crypsis & T-Junction Remix)",
+        "url": "https://open.spotify.com/album/0LSBY0DuFErhEuRdPOEhKJ"
+      },
+      "artists": [
+        {
+          "name": "the Vinyl Junk",
+          "url": "https://open.spotify.com/artist/3yZonU4DKsaM0DdSWXPZMc"
+        },
+        {
+          "name": "Crypsis",
+          "url": "https://open.spotify.com/artist/4Kr8tEhZ6ecAQnqxd7WkTb"
+        },
+        {
+          "name": "T-Junction",
+          "url": "https://open.spotify.com/artist/5MeNCyt5G7I8SRIEoH3tCD"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196338,
+      "name": "Get a Little Stupid (Crypsis & T-Junction Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/4YtQwEglNJsL2A8BcEFWvT"
+    },
+    {
+      "album": {
         "name": "Get Yo Handz Up",
         "url": "https://open.spotify.com/album/7zzCuMBoBUveoOBnfoJejW"
       },
@@ -831,7 +875,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
@@ -1156,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/6CbjGw3CBsjUu7s9tvswXF"
+      },
+      "artists": [
+        {
+          "name": "Mzperx",
+          "url": "https://open.spotify.com/artist/3HjkRObWfRu6OtnIH2CGg8"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293698,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/6z8GZkL7C6So1NcWzXYI19"
+    },
+    {
+      "album": {
         "name": "Locked Up",
         "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
       },
@@ -1381,7 +1443,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 227294,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ"
@@ -1712,6 +1774,42 @@
     },
     {
       "album": {
+        "name": "Ruthless For Life",
+        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
+      },
+      "artists": [
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "Ruthless For Life",
+      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
+    },
+    {
+      "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "album": {
         "name": "Sick And Tired",
         "url": "https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d"
       },
@@ -1903,7 +2001,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 222317,
       "name": "Syndicate Of Rave - Official Syndicate 2021 Anthem",
       "url": "https://open.spotify.com/track/2O4jRluPaWopM90WioFwHK"
@@ -2199,7 +2297,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 174000,
       "name": "You Ain't Telling Me Shit",
       "url": "https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC"

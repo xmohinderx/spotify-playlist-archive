@@ -2,7 +2,7 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: AB6IX, Reiley
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: F.HERO, Tiger JK, Yoon Mirae, Billkin
 
 106 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
 

@@ -858,6 +858,32 @@
     },
     {
       "album": {
+        "name": "California Sun",
+        "url": "https://open.spotify.com/album/6x5M0VCiOlD7pt0gy1Uhgp"
+      },
+      "artists": [
+        {
+          "name": "Goslow",
+          "url": "https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn"
+        },
+        {
+          "name": "VOLKHIN",
+          "url": "https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "California Sun",
+      "url": "https://open.spotify.com/track/6dKese2lywLaaZkSgF5RV8"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/3NvSQrWzAMxGp8DABLyOy3"
       },
@@ -6579,6 +6605,32 @@
       "duration_ms": 133026,
       "name": "Times, Times",
       "url": "https://open.spotify.com/track/1CEeMld7h9WlsJBTobGPyu"
+    },
+    {
+      "album": {
+        "name": "Tokio",
+        "url": "https://open.spotify.com/album/1lEhLGzKDwcKrTHufuHkca"
+      },
+      "artists": [
+        {
+          "name": "Ed Mate",
+          "url": "https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV"
+        },
+        {
+          "name": "Joo",
+          "url": "https://open.spotify.com/artist/5SPZlBS37bxtXZH3mWcW1i"
+        },
+        {
+          "name": "Boke",
+          "url": "https://open.spotify.com/artist/2hGFRC2gfQ5SR9FH6kDwzG"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73500,
+      "name": "Tokio",
+      "url": "https://open.spotify.com/track/4JfGX1IKhN1sUP9IvagzjH"
     },
     {
       "album": {

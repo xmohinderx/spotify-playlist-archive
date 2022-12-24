@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Cassiane, Midian Lima",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eliane Fernandes",
   "name": "Louvores Pentecostais",
   "published_playlist_ids": [
     "2TO2MpzJje9bKw3Lpv5pLG"
@@ -284,6 +284,24 @@
     },
     {
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298143,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
+    },
+    {
+      "album": {
         "name": "Casa Cheia",
         "url": "https://open.spotify.com/album/00EWWHeeej4SKqcPx0pgLJ"
       },
@@ -361,6 +379,28 @@
       "duration_ms": 246866,
       "name": "De Repente",
       "url": "https://open.spotify.com/track/1bltH7HeykQVo3moYUzPbb"
+    },
+    {
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
     },
     {
       "album": {
@@ -589,7 +629,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 285152,
       "name": "Esconderijo do Alt\u00edssimo",
       "url": "https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO"
@@ -1205,7 +1245,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 280634,
       "name": "O Rei e o Jumentinho",
       "url": "https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv"

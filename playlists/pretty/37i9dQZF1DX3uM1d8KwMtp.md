@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,389 likes - 56 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,504 likes - 56 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 26 | [Jinga](https://open.spotify.com/track/7FgtP833uZzS6s1FNTpy30) | [Tomy Wahl](https://open.spotify.com/artist/3Q92036hpjn7sxc79pUXvz), [Alain Fanegas](https://open.spotify.com/artist/4ej1s96CjHWyiRMtYa1kbJ) | [Jinga](https://open.spotify.com/album/0ouAjexRNLoTp8Cbv9ZiKX) | 7:05 |
 | 27 | [Kouame](https://open.spotify.com/track/55LJoGb0Rkv5tAiOQWcLYk) | [Unknown Motive](https://open.spotify.com/artist/1MBZ1p2ynRLuZnGk8ZIdJ5) | [Kouame](https://open.spotify.com/album/7MiD4AoP6AQuI8mAVpROCh) | 7:01 |
 | 28 | [Eternal Roots \- PAAX \(Tulum\) remix](https://open.spotify.com/track/77JvaKaFCOvROjm2qfrfDR) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:35 |
-| 29 | [The Sound of Silence \- Extended Version](https://open.spotify.com/track/2pdFwbvjbixL0aprQ5bnX1) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [MHE](https://open.spotify.com/artist/5nEWKkUf6IA0Ry5wBOG1J0) | [The Sound Of Silence](https://open.spotify.com/album/5tG7zEHtCiDVDUDv5sgO7B) | 6:31 |
+| 29 | [The Sound of Silence \- Extended Mix](https://open.spotify.com/track/2pdFwbvjbixL0aprQ5bnX1) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [MHE](https://open.spotify.com/artist/5nEWKkUf6IA0Ry5wBOG1J0) | [The Sound Of Silence](https://open.spotify.com/album/5tG7zEHtCiDVDUDv5sgO7B) | 6:31 |
 | 30 | [Libre](https://open.spotify.com/track/3XeVB8YM20IlBCjEmYc4o9) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Libre](https://open.spotify.com/album/3xLfD35pFQYV5lwIURCogm) | 7:03 |
 | 31 | [Asiye](https://open.spotify.com/track/3Y5OkzfSejM3jq7Cxz6OIO) | [Dj Sergee](https://open.spotify.com/artist/2N8naij4UgcpTIBNmA9zOl), [Gamze Yilmaz Ates](https://open.spotify.com/artist/5jkFnIWcwWNtK1oW8zw2nY), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Asiye](https://open.spotify.com/album/56KA60J5UwXFlGZBYGlpEG) | 7:22 |
 | 32 | [Marimbora \- Original](https://open.spotify.com/track/2qpb6nlep47oTvt9J9Ql7f) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Matanza](https://open.spotify.com/artist/1uwIzl6et4DJg5lbmyMW0g) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 7:28 |

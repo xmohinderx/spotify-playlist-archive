@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-131 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/4EVIotVnoAM9t9wn6xhCfE)
+141 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/4EVIotVnoAM9t9wn6xhCfE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,12 @@
 | [Be Shapeless](https://open.spotify.com/track/5NpuT8PiqduDr4PK3UTUjz) | [Cassius Fry](https://open.spotify.com/artist/05FJXZSLImVmaIIIcFG7EQ) | [Be Shapeless](https://open.spotify.com/album/1iJfRrGhAiarUGmwVfQoso) | 3:46 | 2022-10-25 |  |
 | [Beatful Akasha](https://open.spotify.com/track/1JvHBofBIxiF05bjiG4cVl) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Beatful Akasha](https://open.spotify.com/album/7bKoWBR8MXpoUFWo3aALtk) | 4:04 | 2022-09-02 |  |
 | [Behind The Next Turn](https://open.spotify.com/track/2PWHMH2y91zYgl7v8kLIhC) | [Karnataka Dawn](https://open.spotify.com/artist/5CkV7GGzUTOTqzjbdybFE9) | [Behind The Next turn](https://open.spotify.com/album/6b5AN8IWuNUE3qrFeoMsOh) | 3:05 | 2022-11-25 |  |
+| [Beneath The Waves](https://open.spotify.com/track/6DryQS95o3eNK9iq2vrtBT) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 2:57 | 2022-12-22 |  |
 | [Bless The Rains In India](https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:12 | 2022-09-02 |  |
+| [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 | 2022-12-22 |  |
 | [Brittle](https://open.spotify.com/track/3VTgychGZYTT0uO1sdSjwb) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Brittle](https://open.spotify.com/album/7iNZEy0A7iqOhgM4CGayfK) | 1:54 | 2022-09-02 |  |
 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-09-02 |  |
+| [Calm Night](https://open.spotify.com/track/72JSniZSFFQry3AQVYa8tB) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Calm Night](https://open.spotify.com/album/3lx9UDC30ijqxQpYWtBF2I) | 2:48 | 2022-12-22 |  |
 | [Calma En El Espacio](https://open.spotify.com/track/6YUVHsAqX6pku0lgWRur48) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 3:00 | 2022-09-02 |  |
 | [Calming Waves](https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Calming Waves](https://open.spotify.com/album/0pxJDyihqbjbxEvzk75Yee) | 2:45 | 2022-09-02 |  |
 | [Castaway Island](https://open.spotify.com/track/5XtpIHoZM4EMlM1IAwa426) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Castaway Island](https://open.spotify.com/album/2Lhvnaxd2FxeExmEUavioW) | 3:55 | 2022-09-02 | 2022-10-26 |
@@ -67,6 +70,8 @@
 | [Into the Wild](https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-09-02 |  |
 | [Jewel of Sangha](https://open.spotify.com/track/6dyJdwInk8DnebR9UXLY9H) | [Bringer of Zen](https://open.spotify.com/artist/17BokPLT01EqyONZ59QdqM) | [Jewel of Sangha](https://open.spotify.com/album/7DcadO0a8aVIPCCCGfa31X) | 2:34 | 2022-09-22 |  |
 | [Karuna](https://open.spotify.com/track/1sDSsPD0PtRcjL1kJkg0AE) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Karuna](https://open.spotify.com/album/486AMjARTqS2RGKpyGf8pZ) | 2:59 | 2022-09-02 |  |
+| [Kramina](https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:59 | 2022-12-22 |  |
+| [Life Is A Gift](https://open.spotify.com/track/6FDQviX4rM4mZJIqM9Gqih) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [The Rising](https://open.spotify.com/album/3mrcdI2YVDyjCZNtNeoOkf) | 2:59 | 2022-12-22 |  |
 | [Lines of Mauve](https://open.spotify.com/track/0frLn0SaBgSQbRMbL2fpxG) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Lines of Mauve](https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V) | 3:20 | 2022-10-25 |  |
 | [Loden Purple](https://open.spotify.com/track/36vXzVFL3oT6Xyh1KzjtzY) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Baagh](https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN) | 3:30 | 2022-09-02 |  |
 | [Long And Winding River](https://open.spotify.com/track/2jhAbvJJUuPDCn6kd8G4IR) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Long And Winding River](https://open.spotify.com/album/5lwqYNdt2EEWLgk2O4u0wh) | 2:59 | 2022-11-25 |  |
@@ -76,6 +81,7 @@
 | [Lunar Rhythms](https://open.spotify.com/track/7sWDnV9xAwJOYvF6aPowAV) | [Dreamasia](https://open.spotify.com/artist/0EiFTjlTH6OzXifh641yAv) | [Lunar Rhythms](https://open.spotify.com/album/19qWecQ8sCa5BXbYXgpH6C) | 2:25 | 2022-09-02 |  |
 | [Lustre and Mist](https://open.spotify.com/track/2tCQYWs43KyIximDIklg7z) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 4:26 | 2022-09-02 |  |
 | [Magic Moment](https://open.spotify.com/track/5cPMT9j9tE4ZK6C7mlSK5n) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [Magic Moment](https://open.spotify.com/album/5ENXsOri8k4cdCnKDGfRoM) | 2:42 | 2022-10-25 |  |
+| [Mountains](https://open.spotify.com/track/0H6JIWGyILocIhKM8ItOHC) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:52 | 2022-12-22 |  |
 | [Muladhara Root Chakra](https://open.spotify.com/track/71yQPLmjT8pnhTOTXX3i1L) | [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c), [Instrumental Zone](https://open.spotify.com/artist/2n5ur2MSvLE1XOfGs1cYKX) | [Chakra Meditation](https://open.spotify.com/album/70i2hi6CzACmxg9LSdcLfh) | 3:08 | 2022-09-02 |  |
 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 | 2022-09-02 |  |
 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 | 2022-09-02 |  |
@@ -84,6 +90,7 @@
 | [Oceans Anahata](https://open.spotify.com/track/7D3XzDFwR1BYnzcQ5Yl6P2) | [Surya](https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD) | [Oceans Anahata](https://open.spotify.com/album/6geVgdN6Ik1nG3YF4Vex51) | 3:22 | 2022-10-25 |  |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2022-09-02 |  |
 | [Perfect Pace](https://open.spotify.com/track/5zlVHMRwqJ4L7Z4b5W0oD3) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [Perfect Pace](https://open.spotify.com/album/4j3SzFdQMJ0zuDhrzpxdAV) | 2:44 | 2022-09-02 |  |
+| [Planets Rise](https://open.spotify.com/track/0Qx2fTCn7wSxeHt3jyI1Jj) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Planets Rise](https://open.spotify.com/album/65izdFSoEJds0oVAHgzzVZ) | 3:24 | 2022-12-22 |  |
 | [Pristine](https://open.spotify.com/track/6Nyf9PLKOI0IipkxXPnwdY) | [Óneiro agápis](https://open.spotify.com/artist/7txteNFusnMTkAZhJMqZj3) | [Ergo](https://open.spotify.com/album/6lso3LVOMoZjyInhTdXQzq) | 2:20 | 2022-09-02 |  |
 | [Prkahm Mindbeats](https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Prkahm Mindbeats](https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci) | 3:15 | 2022-10-25 |  |
 | [Pulse Of Peace](https://open.spotify.com/track/519vhV6AQMbb2FU6IaXcbe) | [Mt Kailash](https://open.spotify.com/artist/5G5FGND8Z8H1gKvdI1yDA4) | [Pulse Of Peace](https://open.spotify.com/album/5wPlcCI06LB2YzRGav0XI8) | 3:00 | 2022-09-02 |  |
@@ -92,6 +99,8 @@
 | [Rhythm Of My Soul](https://open.spotify.com/track/0azwXTgSFkWTFSRnt6di9r) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Rhythm Of My Soul](https://open.spotify.com/album/6silPFIfr3SUpF5cQNn9tD) | 3:04 | 2022-09-02 |  |
 | [Rhythm River](https://open.spotify.com/track/3Br4ekPWHt39VULZjDvlgt) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 2:54 | 2022-10-25 |  |
 | [Rhythms](https://open.spotify.com/track/7k4rCHsAkGFenZXf0oyyo2) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Rhythms](https://open.spotify.com/album/49WX9FGlbYJlDultUGVEmh) | 4:01 | 2022-09-02 |  |
+| [Rise Above](https://open.spotify.com/track/613tP1bD9ND4kivnxj6git) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Rise Above](https://open.spotify.com/album/3jpuCYyyIDM4jysW5L6j6a) | 2:54 | 2022-12-22 |  |
+| [Rise and Shine](https://open.spotify.com/track/1wsYllfN4QacmrmX9vLPv8) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Rise and Shine](https://open.spotify.com/album/3rpPv6h5BZfRvyzw4ilxh3) | 3:34 | 2022-12-22 |  |
 | [Rising Ochre](https://open.spotify.com/track/4saKM7jBELMIlLqMfIwPDN) | [The Light Sail](https://open.spotify.com/artist/5M7skfxJFZQ2FL2q1ZDXF3) | [Sona](https://open.spotify.com/album/6L1Ky0jzreyEh7IO6kXLTr) | 3:17 | 2022-09-02 |  |
 | [Ritorna per sempre](https://open.spotify.com/track/0SzIrNbNDpUN8jpHdlnSaz) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ritorna per sempre](https://open.spotify.com/album/0CW1IR61oyXhAUANq16ayY) | 2:48 | 2022-09-02 |  |
 | [Sacred Experience](https://open.spotify.com/track/3MrasYrJku7i1nteS1tJaD) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Shades of Percussion and Drums: Ethnic Instrumental Fantasies](https://open.spotify.com/album/6mYSCjqocuBK0qz28UoxGt) | 3:23 | 2022-09-02 | 2022-10-26 |
@@ -122,6 +131,7 @@
 | [Sígueme](https://open.spotify.com/track/1PsJNnqXyaufkAJi0a7b4g) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Sígueme](https://open.spotify.com/album/5ng3WKav3ROU6p0tdQJOyx) | 3:53 | 2022-09-02 |  |
 | [Tangerine Sky](https://open.spotify.com/track/5VG8600Qbb6vcPPO33IvTd) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [Tangerine Sky](https://open.spotify.com/album/4VZgKvPE7z12njOZhDsrUS) | 3:07 | 2022-11-25 |  |
 | [The Path Ahead](https://open.spotify.com/track/1bjE5oU39xjagrPVU7Dg5U) | [Hank Drum](https://open.spotify.com/artist/7kpwgkybkjrBOQybEwDpWI) | [The Path Ahead](https://open.spotify.com/album/5ONkvuEnO9gJdi266Zzz38) | 3:12 | 2022-11-25 |  |
+| [The Rising](https://open.spotify.com/track/0a8yGgIIXWDzCL0pc5WYiY) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [The Rising](https://open.spotify.com/album/3mrcdI2YVDyjCZNtNeoOkf) | 3:08 | 2022-12-22 |  |
 | [The Soul Of The River](https://open.spotify.com/track/6uQUHdOi2oVCXK1COOrfnA) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [The Soul Of The River](https://open.spotify.com/album/7cmnDVld1JljGcOcQpVA5d) | 3:12 | 2022-09-02 |  |
 | [The Sound Of Your Heart](https://open.spotify.com/track/3HxlrLorLqBF2sX45P5b5L) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [The Sound Of Your Heart](https://open.spotify.com/album/127LMbRYsAmeVN495X58YE) | 2:58 | 2022-10-25 |  |
 | [Thunderbrand](https://open.spotify.com/track/33qhC5OfZdelrQgvARr2eB) | [Leafgolden](https://open.spotify.com/artist/0jiudEshVEEN5Uo6gmtrLP) | [Thunderbrand](https://open.spotify.com/album/3kBafXQoV4nipuxyBmYiYe) | 2:18 | 2022-09-02 |  |

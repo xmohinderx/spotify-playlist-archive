@@ -1,15 +1,15 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: Pardyalone",
-  "num_followers": 1390512,
+  "num_followers": 1392420,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDAwMCwwMDAwMDAwMDhiMTcxOTVmY2M4MjNkODVhNjdhMmEwM2I2YWUzNDQy",
+  "snapshot_id": "MTY3MTIxMDAwMCwwMDAwMDAwMDJmNDFlMWY4ZTA3ZWQzZjQ2ODMwMGYxMDdlOTQ3NWNl",
   "tracks": [
     {
-      "added_at": "2022-12-22 01:20:39",
+      "added_at": "2022-12-24 00:56:46",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
     },
     {
-      "added_at": "2022-12-22 01:20:39",
+      "added_at": "2022-12-24 00:56:46",
       "album": {
         "name": "whts rght",
         "url": "https://open.spotify.com/album/32T7pErbR0Oj2lkOcgitah"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
-      "added_at": "2022-12-22 01:20:39",
+      "added_at": "2022-12-24 00:56:46",
       "album": {
         "name": "Devil In The Flesh",
         "url": "https://open.spotify.com/album/6iauzkIdWagMTjJjdbVBfk"
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "NUMB",
-        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "i walk this earth all by myself",
         "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "F*CK LOVE (SAVAGE)",
-        "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "right here",
         "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176906,
       "name": "right here",
       "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "F*CK LOVE (SAVAGE)",
+        "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "You Broke My Heart Again",
+        "url": "https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn"
+      },
+      "artists": [
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 103400,
+      "name": "You Broke My Heart Again",
+      "url": "https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "I'm Gone",
         "url": "https://open.spotify.com/album/4Wb5bU9FkmZ84WkkL37rKA"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 144000,
       "name": "Sick and Tired (ft. Machine Gun Kelly and Travis Barker)",
       "url": "https://open.spotify.com/track/0DILU9jjSTnCv1dcbUH3ib"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "You Broke My Heart Again",
-        "url": "https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn"
-      },
-      "artists": [
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        },
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
-        }
-      ],
-      "duration_ms": 103400,
-      "name": "You Broke My Heart Again",
-      "url": "https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "NEGATIVE",
         "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn"
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
       },
       "artists": [
         {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
     },
     {
-      "added_at": "2022-12-02 18:50:29",
-      "album": {
-        "name": "LIVE FOREVER",
-        "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 111506,
-      "name": "angeldust",
-      "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "would you be my baby",
@@ -1115,6 +1099,22 @@
       "duration_ms": 73421,
       "name": "would you be my baby",
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
+    },
+    {
+      "added_at": "2022-12-02 18:50:29",
+      "album": {
+        "name": "LIVE FOREVER",
+        "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 111506,
+      "name": "angeldust",
+      "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 122880,
-      "name": "Life Is but a Stream~",
-      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Not a Home",
         "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 169010,
       "name": "Not a Home",
       "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "Life Is but a Stream~",
+      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "EAT YOUR HEART OUT",
+        "url": "https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 249475,
+      "name": "KILL CUPID",
+      "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "when we were 16",
         "url": "https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 195745,
       "name": "when we were 16",
       "url": "https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "EAT YOUR HEART OUT",
-        "url": "https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 249475,
-      "name": "KILL CUPID",
-      "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Hiding in the Dark",
+        "url": "https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 184141,
+      "name": "Hiding in the Dark",
+      "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
+    },
+    {
       "added_at": "2022-10-28 16:05:00",
       "album": {
         "name": "Remember That You Will Die",
@@ -1415,22 +1431,6 @@
       "duration_ms": 151318,
       "name": "Fuck Around and Find Out (feat. $NOT)",
       "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Hiding in the Dark",
-        "url": "https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 184141,
-      "name": "Hiding in the Dark",
-      "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
     },
     {
-      "added_at": "2022-12-09 05:05:00",
-      "album": {
-        "name": "i'm sorry",
-        "url": "https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "i'm sorry",
-      "url": "https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Anarchy",
@@ -1515,6 +1499,22 @@
       "duration_ms": 185886,
       "name": "Beautiful Nightmare",
       "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
+    },
+    {
+      "added_at": "2022-12-09 05:05:00",
+      "album": {
+        "name": "i'm sorry",
+        "url": "https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "i'm sorry",
+      "url": "https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1571,6 +1571,22 @@
       "duration_ms": 125753,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "duration_ms": 136776,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1637,20 +1653,20 @@
       "url": "https://open.spotify.com/track/7jjnn6K7p5MgOFuqLypAcM"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2022-12-14 15:14:02",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
+        "name": "DIE BOUT IT",
+        "url": "https://open.spotify.com/album/5Cm5MGbhKTQQzXKmKuzWbN"
       },
       "artists": [
         {
-          "name": "Thekidszn",
-          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
         }
       ],
-      "duration_ms": 136776,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+      "duration_ms": 124734,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/103xWcm9VB6V2tbfPvh8qq"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -1683,22 +1699,6 @@
       "duration_ms": 142588,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
-    },
-    {
-      "added_at": "2022-12-14 15:14:02",
-      "album": {
-        "name": "DIE BOUT IT",
-        "url": "https://open.spotify.com/album/5Cm5MGbhKTQQzXKmKuzWbN"
-      },
-      "artists": [
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 124734,
-      "name": "Moshpit",
-      "url": "https://open.spotify.com/track/103xWcm9VB6V2tbfPvh8qq"
     },
     {
       "added_at": "2022-10-07 04:18:00",

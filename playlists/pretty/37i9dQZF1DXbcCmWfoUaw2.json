@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 2000s to boost your running session.",
-  "num_followers": 935032,
+  "num_followers": 935706,
   "original_name": "00s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODM4NiwwMDAwMDAwMDQ2MzFkMThmYTI0ZmJhMDlkZDI1ZjU2NzA2ZWE0OTQw",
+  "snapshot_id": "MTY2NTA0ODM4NiwwMDAwMDAwMDE0ZWYyZjVhNjRmZDU4ZGQ5OGQyMjE0ZDNlYTVkYzYy",
   "tracks": [
     {
       "added_at": "2022-10-06 09:26:26",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-10-06 09:26:26",
       "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
+    },
+    {
+      "added_at": "2022-10-06 09:26:26",
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 189693,
       "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
       "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
-    },
-    {
-      "added_at": "2022-10-06 09:26:26",
-      "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
     },
     {
       "added_at": "2022-10-06 09:26:26",

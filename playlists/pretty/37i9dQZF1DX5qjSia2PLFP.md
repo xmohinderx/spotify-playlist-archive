@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,021 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,046 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 38 | [1722](https://open.spotify.com/track/3LZ4y6jNGLW5PiSxxqmWSI) | [OTR CHAZ](https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx) | [Longwood Legends](https://open.spotify.com/album/7yB6Yw9gzbtYsCOMpMfvQv) | 2:36 |
 | 39 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 |
 | 40 | [WEIGHT](https://open.spotify.com/track/4HBxL7AzSpmObNgIUR8CO9) | [Dre Wave$](https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt) | [WEIGHT](https://open.spotify.com/album/0YqnECe3ON7UVZUA8Lg2RX) | 2:10 |
-| 41 | [How To Kill A Narcissist](https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X) | [DSM](https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol) | 3:05 |
+| 41 | [How To Kill A Narcissist](https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X) | [DSM](https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol) | 3:05 |
 | 42 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 43 | [Playin 2](https://open.spotify.com/track/57RYV5tcbV016vtv5rFgpQ) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Danielle Carr](https://open.spotify.com/artist/0PeyaNO5OnLdSdDEeuBCrZ), [Simmie](https://open.spotify.com/artist/3730JhzlwPpfNdE6a5qAv9) | [Pote Day 2](https://open.spotify.com/album/27jOOsA5RVyicVVRSzYO5d) | 2:43 |
 | 44 | [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 |

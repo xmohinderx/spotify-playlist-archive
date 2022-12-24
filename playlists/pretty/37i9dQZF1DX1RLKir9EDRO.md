@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Yılın favori keşifleri\. Kapak: Beliz
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,466 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,477 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 31 | [Evi Kapattım Güneye Kaçtım](https://open.spotify.com/track/5MnWp6UkwZK8aYYcA4j4Hh) | [Rıza Sarıtaş](https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw) | [Evi Kapattım Güneye Kaçtım](https://open.spotify.com/album/795pAo5lPPzIbbCX2rKH4L) | 3:43 |
 | 32 | [Sonsuz Rüya](https://open.spotify.com/track/7uLX2bWFHZ0fVNZsjDVHS0) | [Ecem Çelik](https://open.spotify.com/artist/68r0aYfdloC1g0epYmZgyb) | [Sonsuz Rüya](https://open.spotify.com/album/744tdBpHMRLL9FWi3asErL) | 2:32 |
 | 33 | [Bil istedim](https://open.spotify.com/track/7dTCoHArBZYO6QcpsQYmhc) | [Emre Uludogan](https://open.spotify.com/artist/4X1Ww8BMKKB2M4u4D4PjnH) | [Bil istedim](https://open.spotify.com/album/5VgDWtB2NVRsebRlmypsOm) | 3:27 |
-| 34 | [Gibi](https://open.spotify.com/track/0AuIs9cgT7uq7LvsPPFkIy) | [Nilay Özkara](https://open.spotify.com/artist/2fFg8fFM1FmytOAfosG8cZ) | [Gibi](https://open.spotify.com/album/6pPSTX56kGIeeWSBLDFNEF) | 4:15 |
+| 34 | [Gibi](https://open.spotify.com/track/4ViuYoB5Gm8NMCKXpz6uXB) | [Nilay Özkara](https://open.spotify.com/artist/2fFg8fFM1FmytOAfosG8cZ) | [Gibi](https://open.spotify.com/album/6RMREvFW2a67l3HGiozgfv) | 4:15 |
 | 35 | [Afacan](https://open.spotify.com/track/3ckKe34uPaaFwuVC99I11S) | [Kubaba](https://open.spotify.com/artist/27gFvritPEp4MoweDAUX5u) | [Afacan](https://open.spotify.com/album/13g6gK1EicyratwK2hP980) | 3:12 |
 | 36 | [Sahi Neydi Adın?](https://open.spotify.com/track/1HlkES4MBJRd9JAtnqiLxw) | [Çağatay Kıray](https://open.spotify.com/artist/2uX6z6MxWMJKrlxicW2bHk) | [Sahi Neydi Adın?](https://open.spotify.com/album/3LJKCbyYKqGIsrUkRmslBq) | 3:53 |
 | 37 | [unut](https://open.spotify.com/track/7yULCqs6U58u0bStynsaAr) | [Canb](https://open.spotify.com/artist/2j6Njk4Gb8Txqu7UVz1Qsk) | [unut](https://open.spotify.com/album/4wTUoeLM920JQ9S6Eq1caj) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Gitgide Küçülüyorum](https://open.spotify.com/track/6eH32L0EqVhgUtv7dUXfxQ) | [Mesra](https://open.spotify.com/artist/3PUodAqBgw4qOl7Ln91J1B) | [Gitgide Küçülüyorum](https://open.spotify.com/album/6tM6ecnqDcCrCKOhYKsZv1) | 2:44 |
 | 75 | [Kız Güzel \- Acoustic Version](https://open.spotify.com/track/173Baezc2qopQ9IA75fQb5) | [Poşetimde Bir Somon](https://open.spotify.com/artist/0xoItt17FzjFLC3SyNFibQ) | [Kız Güzel \(Acoustic Version\)](https://open.spotify.com/album/4b8yWfe8Pd4qtcTU3I4VhE) | 3:04 |
 
-Snapshot ID: `MTY2OTgyMzU5OSwwMDAwMDAwMDhhZjk5MDkyNWI4OTJiYzU2ZmZmZjQ3YmJlZjkwODM5`
+Snapshot ID: `MTY2OTgyMzU5OSwwMDAwMDAwMDgzNjQ1MmU1NjIzODhlNjQzMmUxMDQ1ODg4MzYwZjNi`

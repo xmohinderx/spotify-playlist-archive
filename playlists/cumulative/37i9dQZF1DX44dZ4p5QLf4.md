@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-286 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+287 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 |  |
 | [Moonlight](https://open.spotify.com/track/4rdQivUpY3faWSm98gMplo) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Anthology](https://open.spotify.com/album/7caIHqOdEIG5iaxjdRHoD9) | 3:46 | 2021-12-16 | 2022-02-11 |
 | [More Than Ever](https://open.spotify.com/track/3llTnIKQXVYxnLD4K7jXXv) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Blossom Carefully](https://open.spotify.com/album/0jvOSPYrrocMcLui4thzZ5) | 2:59 | 2021-12-16 | 2022-01-14 |
-| [More Than Love](https://open.spotify.com/track/71iTdpLIixnRQOgxA4KXlP) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [What's After 'I Love You?'](https://open.spotify.com/album/1zMntRNN2McM6cuN4RQM48) | 3:32 | 2022-03-10 |  |
+| [More Than Love](https://open.spotify.com/track/1aYmfMuZgrRwOynXOlAO2g) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [What's After 'I Love You?'](https://open.spotify.com/album/5G0ZU2YGP1aMm4Yi9vxo7n) | 3:32 | 2022-12-21 |  |
+| [More Than Love](https://open.spotify.com/track/71iTdpLIixnRQOgxA4KXlP) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [What's After 'I Love You?'](https://open.spotify.com/album/1zMntRNN2McM6cuN4RQM48) | 3:32 | 2022-03-10 | 2022-12-24 |
 | [Morning Blue](https://open.spotify.com/track/08wigkZrr1UjIXoTA1TQSc) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue](https://open.spotify.com/album/2gsW55Onj8vkcyXSPlu8bf) | 3:54 | 2021-12-16 | 2022-02-25 |
 | [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2021-12-16 | 2022-10-01 |
 | [Move](https://open.spotify.com/track/6AjQWeiO9fjbdst7QZeYDG) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Move](https://open.spotify.com/album/1d5iWv8O3gUHAuUf51OaED) | 3:32 | 2021-12-16 | 2022-10-15 |

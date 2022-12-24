@@ -1584,6 +1584,32 @@
     },
     {
       "album": {
+        "name": "Flor De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/2zadQicG07qREhNK7BlLEM"
+      },
+      "artists": [
+        {
+          "name": "So.Lo",
+          "url": "https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj"
+        },
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Flor De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/52cxCWNiYdhGMGSgszz5Ow"
+    },
+    {
+      "album": {
         "name": "Florida Groove",
         "url": "https://open.spotify.com/album/63mNtNaxyIbO8NXaruC5y4"
       },

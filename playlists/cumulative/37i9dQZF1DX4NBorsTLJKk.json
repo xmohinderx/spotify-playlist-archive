@@ -2146,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "\u96e8\u5929",
+        "url": "https://open.spotify.com/album/2RmppTD74HT6VSB0GM0Zso"
+      },
+      "artists": [
+        {
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        }
+      ],
+      "date_added": "2021-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274881,
+      "name": "\u96e8\u5929",
+      "url": "https://open.spotify.com/track/6LSTVdxrfSOCCeO07WKTHx"
+    },
+    {
+      "album": {
         "name": "My Story 2006 \u65b0\u6b4c+\u7cbe\u9078",
         "url": "https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g"
       },
@@ -2179,24 +2197,6 @@
       "duration_ms": 270110,
       "name": "\u96e8\u5929",
       "url": "https://open.spotify.com/track/1h96VTvVSeoauuCXNSVxSk"
-    },
-    {
-      "album": {
-        "name": "\u96e8\u5929",
-        "url": "https://open.spotify.com/album/2RmppTD74HT6VSB0GM0Zso"
-      },
-      "artists": [
-        {
-          "name": "Silence Wang",
-          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
-        }
-      ],
-      "date_added": "2021-11-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274881,
-      "name": "\u96e8\u5929 - \u96fb\u8996\u5287\u300a\u7e41\u661f\u56db\u6708\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/6LSTVdxrfSOCCeO07WKTHx"
     },
     {
       "album": {

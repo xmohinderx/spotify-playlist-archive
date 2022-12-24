@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Boris Brejcha
 
-273 songs - 20 hr 50 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+274 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-08-19 | 2022-09-23 |
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-09-22 | 2022-12-02 |
 | [Ingern](https://open.spotify.com/track/23WSd4TMp2ar1GRxa0WZQG) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 3:49 | 2022-12-08 |  |
-| [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 | 2022-11-24 |  |
+| [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 | 2022-11-24 | 2022-12-24 |
 | [Invincible \- David Morales Remix](https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Remix EP](https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55) | 3:06 | 2022-10-07 | 2022-11-08 |
 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 | 2022-08-18 | 2022-08-20 |
 | [JOY \(Don't It Make You Feel\)](https://open.spotify.com/track/1PUSsDVdfoSD8TBeSUJRBx) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Don’t It Make You Feel\)](https://open.spotify.com/album/0dY0wbc3n8SS4WWfHdxo0L) | 3:22 | 2022-08-18 | 2022-09-15 |
@@ -204,6 +204,7 @@
 | [Rush](https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx) | 3:36 | 2022-08-18 | 2022-09-10 |
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-11-24 |  |
 | [Sahara](https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [Sahara](https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT) | 6:18 | 2022-08-25 | 2022-11-11 |
+| [Same Old Road \- Booka Shade Remix](https://open.spotify.com/track/7ihoFcYU86WNE6lSxxwe32) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Same Old Road \(Booka Shade Remix\)](https://open.spotify.com/album/3hRICUjIzBu4s3Cx7MJ1IO) | 3:56 | 2022-12-22 |  |
 | [Saviours](https://open.spotify.com/track/5tAlsl4G3LoIU5Dzo44JV0) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Saviours](https://open.spotify.com/album/1plr1caOwmIHriazUNB9S4) | 3:36 | 2022-09-22 | 2022-11-17 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-08-18 | 2022-09-24 |
 | [See Em' Dancing](https://open.spotify.com/track/1mBzumW8DcPEqqJkClUXMN) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [See Em' Dancing](https://open.spotify.com/album/6UHPW3timr7sHxY8e3tCWR) | 4:04 | 2022-08-18 | 2022-10-13 |

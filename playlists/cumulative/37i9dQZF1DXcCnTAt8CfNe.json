@@ -1586,6 +1586,24 @@
     },
     {
       "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR"
+      },
+      "artists": [
+        {
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "Inside The Wave",
+      "url": "https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd"
+    },
+    {
+      "album": {
         "name": "Into the light",
         "url": "https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id"
       },
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 146364,
       "name": "Into the light",
       "url": "https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 108770,
       "name": "October",
       "url": "https://open.spotify.com/track/7x8ILiGyZAFW3F0rPUPYxm"
@@ -3937,7 +3955,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 164617,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3"

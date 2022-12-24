@@ -2,9 +2,9 @@
 
 ### [Coffee Club](https://open.spotify.com/playlist/37i9dQZF1DX79UF7ALECl7)
 
-> Have some chill house with your coffee.
+> Have some chill house with your coffee
 
-115 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+116 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2022-09-15 |  |
 | [Good Life](https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Good Life](https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ) | 3:43 | 2022-09-15 |  |
 | [Got to Fall Out](https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [After Midnyte](https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny) | 3:11 | 2022-09-15 |  |
+| [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2022-12-22 |  |
 | [Groove 32](https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Finds You Well](https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p) | 3:50 | 2022-09-15 |  |
 | [Hachi](https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0) | [Stym](https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio), [Terizo](https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Hachi](https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI) | 2:45 | 2022-09-15 |  |
 | [Harmonic Dreams](https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz) | [Malik Faquir](https://open.spotify.com/artist/1DFahMH74byTBAyyn1vn2z), [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Profound EP](https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt) | 6:32 | 2022-09-15 |  |

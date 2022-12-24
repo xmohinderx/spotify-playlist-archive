@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Funny Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,536 likes - 92 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,746 likes - 92 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

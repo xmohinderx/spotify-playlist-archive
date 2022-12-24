@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=\_1tjXUnTS2CRapuxEexbmA">Msaki</a> and <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=FlqIEG2USBCH2hQnLNMxew">Tubatsi Mpho Moloi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,701 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,885 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 8 | [Sobonana](https://open.spotify.com/track/2rkUVpUm885ZdY06e3Ub0v) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J) | [Words of Hope](https://open.spotify.com/album/78D6xzkUvdpGiVSMvckSOM) | 5:14 |
 | 9 | [Emakhaya](https://open.spotify.com/track/3M8QUN5XraDwiIM2YlpqVN) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Indlela](https://open.spotify.com/album/69bzQJaAvMR92psMY098UI) | 3:32 |
 | 10 | [Voicemail](https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5) | [Voicemail](https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS) | 4:38 |
-| 11 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
+| 11 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 12 | [Bazokhuluma](https://open.spotify.com/track/4x529fxVYN5qn2CrhiObz7) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [Bazokhuluma](https://open.spotify.com/album/28nUXz2p6gs1vLlgnVD6Ka) | 5:43 |
 | 13 | [MaGear](https://open.spotify.com/track/2ZrY5oRNMOLbmOKNGS9Ypo) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [MaGear](https://open.spotify.com/album/2vN1f32aIIHTRtJ44dQ4Ll) | 4:50 |
 | 14 | [Qoma](https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Qoma](https://open.spotify.com/album/7bL1zIGv1QtVCBU2kEwIr6) | 4:30 |

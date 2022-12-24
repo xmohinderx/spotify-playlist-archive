@@ -3248,6 +3248,24 @@
     },
     {
       "album": {
+        "name": "Mon Fr\u00e9re",
+        "url": "https://open.spotify.com/album/5kMYre1Xm6waTfWFPIOW3N"
+      },
+      "artists": [
+        {
+          "name": "1930",
+          "url": "https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115171,
+      "name": "Mon Fr\u00e9re",
+      "url": "https://open.spotify.com/track/6v1M5ZiUaLjYyaJaonKUKM"
+    },
+    {
+      "album": {
         "name": "Monday Holidays",
         "url": "https://open.spotify.com/album/3ui5xtOQYUoHxBNyFo65DP"
       },
@@ -3325,6 +3343,24 @@
       "duration_ms": 128571,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/0OKlzcuA2lZFCve9fJdZCB"
+    },
+    {
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/1ntYogE5ung04usLCWvZQ9"
+      },
+      "artists": [
+        {
+          "name": "Asha Eyes",
+          "url": "https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/0vpd3BZoa4XlofMz9F7p9v"
     },
     {
       "album": {
@@ -3715,6 +3751,28 @@
       "duration_ms": 208462,
       "name": "Pace",
       "url": "https://open.spotify.com/track/2NFJkVPaeds3F8stzxqFLl"
+    },
+    {
+      "album": {
+        "name": "Paths",
+        "url": "https://open.spotify.com/album/7BQbTtklMQsjMzoGpyptNn"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116617,
+      "name": "Paths",
+      "url": "https://open.spotify.com/track/7rPPNSk0KKMltIX9Tjv8Uk"
     },
     {
       "album": {

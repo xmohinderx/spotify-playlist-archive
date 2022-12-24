@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-217 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6TQH1ddWIcxWjiiu5iMjvS)
+218 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/6TQH1ddWIcxWjiiu5iMjvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [My Girl](https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5) | [My Girl](https://open.spotify.com/album/17VtHnIsNBJYn9Ym8hOzyG) | 3:23 | 2022-09-30 |  |
 | [My Romance](https://open.spotify.com/track/2rWqBm1Hs2rbw8rzJpDD71) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [My Romance](https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7) | 2:43 | 2022-12-16 |  |
 | [My Universe](https://open.spotify.com/track/0gUFsysQrkPRZPLnL7NiV4) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [BTS Piano Covers, Vol\. 2](https://open.spotify.com/album/0xFZWU9ElqmrExGQ9zcDLg) | 2:14 | 2022-08-01 |  |
-| [No One \- Piano Version](https://open.spotify.com/track/58l2B5WJj36xsc0yLYrRTm) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:07 | 2022-08-01 |  |
+| [No One \- Piano Version](https://open.spotify.com/track/4Io6bISowwt8uFvnlBk1qC) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:07 | 2022-12-16 |  |
+| [No One \- Piano Version](https://open.spotify.com/track/58l2B5WJj36xsc0yLYrRTm) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:07 | 2022-08-01 | 2022-12-24 |
 | [Numb \- Piano](https://open.spotify.com/track/0K7yOelIWqEZhn3YUZU70M) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:10 | 2022-10-14 |  |
 | [Ocean \(piano version\)](https://open.spotify.com/track/41eazwc8ETHZWXEyZuYWU4) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Ocean \(piano version\)](https://open.spotify.com/album/72bbEXTqg75eBCue0rBhUv) | 2:29 | 2022-08-01 |  |
 | [Ocean Eyes](https://open.spotify.com/track/3szVnSFGkFuiivja0JF7gN) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Ludvig Hall](https://open.spotify.com/artist/3q45GtzDb65xPi6gFO3mMX) | [Ocean Eyes](https://open.spotify.com/album/2cfgNAWC7fuNLYLFTlmaiu) | 2:01 | 2022-08-01 |  |

@@ -1,13 +1,97 @@
 {
-  "description": "New music from popular Hindi artists. Cover- Vishal Mishra",
-  "num_followers": 14481,
+  "description": "New music from popular Hindi artists. Cover- Rito Riba",
+  "num_followers": 14669,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2ODI1MiwwMDAwMDAwMDZkZjFmMmU5MjU0YmNlNWNlMzA4YjBmMDQxY2E1OTkw",
+  "snapshot_id": "MTY3MTc1NzIwMCwwMDAwMDAwMDUwNWE0ODU0MWVlNDZjZDY5NTY3OTIxOTY1OWJlOGUz",
   "tracks": [
+    {
+      "added_at": "2022-12-23 01:00:00",
+      "album": {
+        "name": "Heer Ranjha - Reprise",
+        "url": "https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Heer Ranjha - Reprise",
+      "url": "https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh"
+    },
+    {
+      "added_at": "2022-12-23 01:00:00",
+      "album": {
+        "name": "usko sab pata hai",
+        "url": "https://open.spotify.com/album/3IQPy3WlyofK9LjmvUEigT"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "usko sab pata hai",
+      "url": "https://open.spotify.com/track/2e02cHciVAiubNVpNYiLCO"
+    },
+    {
+      "added_at": "2022-12-23 01:00:00",
+      "album": {
+        "name": "Barsan Lagi",
+        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "duration_ms": 219456,
+      "name": "Barsan Lagi",
+      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
+    },
+    {
+      "added_at": "2022-12-23 01:00:00",
+      "album": {
+        "name": "Ek Baar Keh Do",
+        "url": "https://open.spotify.com/album/15gs9OaQ0JXOrkDEgbHOVC"
+      },
+      "artists": [
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        }
+      ],
+      "duration_ms": 224016,
+      "name": "Ek Baar Keh Do",
+      "url": "https://open.spotify.com/track/6P4W1WnJmspwcoj9g49mHL"
+    },
+    {
+      "added_at": "2022-12-23 01:00:00",
+      "album": {
+        "name": "Bewajah Befikar",
+        "url": "https://open.spotify.com/album/7uHpJCGpRNNBI7lFNYCxwe"
+      },
+      "artists": [
+        {
+          "name": "Noel Toms",
+          "url": "https://open.spotify.com/artist/3k4ieeq8zZ9g68p2Uj7qwD"
+        }
+      ],
+      "duration_ms": 228846,
+      "name": "Bewajah Befikar",
+      "url": "https://open.spotify.com/track/0gC7WMWu5PWc7JMEj1jH5l"
+    },
     {
       "added_at": "2022-12-16 01:02:00",
       "album": {
@@ -843,94 +927,6 @@
       "duration_ms": 212039,
       "name": "Bas Tujhse Pyaar Ho",
       "url": "https://open.spotify.com/track/00zGcHmBkcOfKVYQgwcZW1"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Ek Ghar",
-        "url": "https://open.spotify.com/album/3C82gtWeUpQT95intCWx5j"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        }
-      ],
-      "duration_ms": 196915,
-      "name": "Ek Ghar",
-      "url": "https://open.spotify.com/track/1hkJ4tJwgFw8BpfT9C2alz"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "My Heeriye - Single",
-        "url": "https://open.spotify.com/album/5NY6M10b4xfDSeqtnNuG6I"
-      },
-      "artists": [
-        {
-          "name": "Raj Barman",
-          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "My Heeriye",
-      "url": "https://open.spotify.com/track/0ui3bXDUEDSFoLmd69Pa8r"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Akela",
-        "url": "https://open.spotify.com/album/1PqapJIkqEoL6CudXe6Rzd"
-      },
-      "artists": [
-        {
-          "name": "DIVINE",
-          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
-        },
-        {
-          "name": "Phenom",
-          "url": "https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7"
-        }
-      ],
-      "duration_ms": 243448,
-      "name": "Akela",
-      "url": "https://open.spotify.com/track/7kgNsbE5PjQq1eqinaZvEN"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Jadu Salona",
-        "url": "https://open.spotify.com/album/53wnbGpczje778Zz4wBpV0"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        }
-      ],
-      "duration_ms": 209785,
-      "name": "Jadu Salona",
-      "url": "https://open.spotify.com/track/6Eq3E0eekWhb56ZPGCmE0L"
-    },
-    {
-      "added_at": "2022-12-09 05:16:26",
-      "album": {
-        "name": "Baawra Mann",
-        "url": "https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR"
-      },
-      "artists": [
-        {
-          "name": "Ravator",
-          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
-        },
-        {
-          "name": "Shambhavi Thakur",
-          "url": "https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Baawra Mann",
-      "url": "https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz"
     }
   ],
   "unique_name": "New Music Friday Hindi ",

@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : Samara Joy
 
-185 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+186 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [To Feel My Love](https://open.spotify.com/track/1wHg9gkUj3sjT9juoZSdNR) | [Kellylee Evans](https://open.spotify.com/artist/2ujofFVAz72xGjjpohH5Cn) | [Greenlight](https://open.spotify.com/album/2rW2O1EPebcqpvrazswliY) | 3:37 | 2022-04-14 | 2022-06-10 |
 | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ) | 7:44 | 2022-04-14 | 2022-04-22 |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
+| [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 |  |
 | [Turning Around](https://open.spotify.com/track/5avRKp2Z3kagrmSQwIll9p) | [Gauthier Toux](https://open.spotify.com/artist/7IDfdcPGVTXSWIG5ZtQmVW), [Maxence Sibille](https://open.spotify.com/artist/2qniG8aGnYc6CQJ59CsKlP), [Simon Tailleu](https://open.spotify.com/artist/1NYeTK44a3YpVx5MGHv78d) | [Turning Around](https://open.spotify.com/album/1eQB09l2HbQH6fraSQIDxL) | 4:06 | 2022-04-14 | 2022-04-22 |
 | [Une Seule Etoile](https://open.spotify.com/track/7HnbvhyOEmmIOX8CPUOVko) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Une Seule Etoile](https://open.spotify.com/album/30zOeBi8oIWyMvoMMuffVz) | 3:43 | 2022-09-16 | 2022-12-09 |
 | [Until](https://open.spotify.com/track/2nh63pxeJEX6zXbxNYshCj) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Until](https://open.spotify.com/album/2XA39yUkkqgUHVu4pdblOx) | 6:31 | 2022-04-14 | 2022-04-22 |
@@ -192,6 +193,6 @@
 | [You Are the Sunshine of My Life](https://open.spotify.com/track/5pHiptnSwesdvZJY4YFo5z) | [Sandro Roy](https://open.spotify.com/artist/2Nl3CpSqACmL37I5fJniPi), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [You Are the Sunshine of My Life](https://open.spotify.com/album/0x1649nNuN5Dk4Fc5i9FSb) | 6:09 | 2022-08-18 | 2022-10-28 |
 | [You Never Ask \- from 'Madame Sean Connery'](https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [You Never Ask \(from 'Madame Sean Connery'\)](https://open.spotify.com/album/3L0HHKhSW7fAN0jjqOsOVi) | 4:05 | 2022-10-20 |  |
 | [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 | 2022-12-01 |  |
-| [Yéné](https://open.spotify.com/track/3w1A8Rd2PYlG8EKm6M4Wbk) | [Julia Sarr](https://open.spotify.com/artist/63bcYokTSsAHALwg2Q63gh) | [Yéné](https://open.spotify.com/album/4OXhyeHzfweng5kALtgrNW) | 3:02 | 2022-10-13 |  |
+| [Yéné](https://open.spotify.com/track/3w1A8Rd2PYlG8EKm6M4Wbk) | [Julia Sarr](https://open.spotify.com/artist/63bcYokTSsAHALwg2Q63gh) | [Yéné](https://open.spotify.com/album/4OXhyeHzfweng5kALtgrNW) | 3:02 | 2022-10-13 | 2022-12-24 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

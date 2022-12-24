@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia\. Cover: Tedua
+> La playlist urban più grande d'Italia\. Cover: Marracash
 
-198 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+199 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:28 | 2022-11-10 |  |
 | [Perdonami \(feat\. Neima Ezza\)](https://open.spotify.com/track/5FDcvMV87UABSO1cgwT3e7) | [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [ToTheMoon](https://open.spotify.com/artist/20ZUOewlSW8L3sAvhZEd9m) | [Perdonami \(feat\. Neima Ezza\)](https://open.spotify.com/album/5B7jCb6zxCfUco2RlSOqTq) | 2:28 | 2022-11-24 |  |
 | [Pioggia](https://open.spotify.com/track/4Gatggg43ESx92VTeiFNjZ) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos), [Duffy](https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL) | [Pioggia](https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz) | 2:38 | 2022-05-25 | 2022-06-10 |
-| [PIOVE \(Concertos\)](https://open.spotify.com/track/4rqFWEYlbjNs7QNHSPbdcr) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO \(Concertos\)](https://open.spotify.com/album/5q8ZljcjeDcEhCZ7pe0WaA) | 2:51 | 2022-12-15 |  |
+| [PIOVE \(Concertos\)](https://open.spotify.com/track/1qvdspvSwXch9dKKV4lT3A) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k) | 2:51 | 2022-12-22 |  |
+| [PIOVE \(Concertos\)](https://open.spotify.com/track/4rqFWEYlbjNs7QNHSPbdcr) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO \(Concertos\)](https://open.spotify.com/album/5q8ZljcjeDcEhCZ7pe0WaA) | 2:51 | 2022-12-15 | 2022-12-24 |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-09 | 2022-12-09 |
 | [Più Forte \(feat\. Salmo\)](https://open.spotify.com/track/0xJrRtWFSGuo3oGOzsB2xa) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 2:05 | 2022-11-07 | 2022-11-18 |
 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 | 2022-09-05 |  |

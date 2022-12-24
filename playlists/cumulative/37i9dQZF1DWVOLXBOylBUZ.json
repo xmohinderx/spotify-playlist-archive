@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Quevedo y Myke Towers tienen el ritmo que mueve Latinoam\u00e9rica.",
+  "description": "DEKKO tiene el ritmo que mueve Latinoam\u00e9rica.",
   "name": "El Ritmo",
   "published_playlist_ids": [
     "3K8lWo1A5PGXtJdAZf1WiQ"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 210989,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
@@ -1798,7 +1798,7 @@
         },
         {
           "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
       "date_added": "2022-11-11",
@@ -6031,6 +6031,24 @@
       "duration_ms": 223377,
       "name": "Noche Loca (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/2gOLGbF7BttwYpG7vADdGV"
+    },
+    {
+      "album": {
+        "name": "Nojoda",
+        "url": "https://open.spotify.com/album/4uMo3BJ9nCC7Fo5rza2vi4"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163081,
+      "name": "Nojoda",
+      "url": "https://open.spotify.com/track/77HE2OvXZm4Xa78oN8Qi62"
     },
     {
       "album": {

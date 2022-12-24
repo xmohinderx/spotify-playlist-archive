@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-87 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+88 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cabulosa](https://open.spotify.com/track/5QBiAcDEqOEYRmE7A2CbDr) | [Jonathan Couto](https://open.spotify.com/artist/58E9fUoMdCjVB0B4MwMsp1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Cabulosa](https://open.spotify.com/album/5qk2dEtHizbt6x4rxZJR4J) | 2:47 | 2022-06-24 |  |
 | [Calibrando](https://open.spotify.com/track/6qlN6kBasaAjLcHqhBviFB) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Calibrando](https://open.spotify.com/album/0x1V3ncM6qUV3c8DHCG4yV) | 3:35 | 2022-12-16 |  |
 | [Cartas \(feat\. Luccas Carlos\) \(feat\. Paiva Prod\)](https://open.spotify.com/track/1q0PCH6sQOaeXGmeJfGWXb) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Cartas \(feat\. Luccas Carlos\) \(feat\. Paiva Prod\)](https://open.spotify.com/album/1NOfFitxHCDTeTZMsU1yGR) | 3:22 | 2021-11-12 |  |
+| [Cellina](https://open.spotify.com/track/1UsZbnYnEU3DgyFiM4n7RU) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Cellina](https://open.spotify.com/album/5IyMTRwkAPVPDNf6joX25R) | 3:00 | 2022-12-23 |  |
 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 | 2021-11-12 |  |
 | [Céu Lilás](https://open.spotify.com/track/685d82SkQXCZWTeiHwDMpA) | [LK 3030](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Céu Lilás](https://open.spotify.com/album/7h7c9b9bq8Ir59JmPzafN2) | 2:54 | 2022-05-06 | 2022-06-18 |
 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 | 2021-11-12 |  |

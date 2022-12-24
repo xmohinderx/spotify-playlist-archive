@@ -1,15 +1,15 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 886,
+  "num_followers": 889,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4NjA1NDAsMDAwMDAwMDAyNWU2YWI5ZjBmN2I4MzRlNjQ0NWI5MmI1YTkwYTZkYg==",
+  "snapshot_id": "Mjc4NjM0NTAsMDAwMDAwMDBjNTc1MWRiMzE1MTdmNzlmMGRiODVjNWZhZWJlZGI3Mw==",
   "tracks": [
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Sanguine Cherry",
         "url": "https://open.spotify.com/album/7J8yyaLuRs9BsAHF4A5U9H"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5DRTBcoHrx4YM5uO5M1lFi"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6cQsVzglHpnfzQ5fuHeUEw"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band",
         "url": "https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0aGvcIUEdMq9PelZIGJOBU"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Terry Riley: Shri Camel",
         "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/27XR6UTQv54sA2F29vqm3a"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Blyzole",
+        "url": "https://open.spotify.com/album/4y3UyR0KbhPv0lVtJQEKkl"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 61714,
+      "name": "Blyzole",
+      "url": "https://open.spotify.com/track/6BrdVvQypYv7sw3YheghN2"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
@@ -105,23 +121,7 @@
       "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Persian Surgery Dervishes",
-        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1249000,
-      "name": "Performance One - Part 1",
-      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Terry Riley: Shri Camel",
         "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/2lxuwG64sM20cqzNxKVGXJ"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Persian Surgery Dervishes",
+        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1249000,
+      "name": "Performance One - Part 1",
+      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "For the Birds: The Birdsong Project, Vol. I",
         "url": "https://open.spotify.com/album/6c8aHa89kWTsrcz0iw7fgS"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/2w12QnKw0mWjxxwRuyGef2"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -173,23 +189,7 @@
       "url": "https://open.spotify.com/track/0GaT82s6CpgvesuSpV8nZg"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Blyzole",
-        "url": "https://open.spotify.com/album/4y3UyR0KbhPv0lVtJQEKkl"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 61714,
-      "name": "Blyzole",
-      "url": "https://open.spotify.com/track/6BrdVvQypYv7sw3YheghN2"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Terry Riley: Shri Camel",
         "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
@@ -205,23 +205,7 @@
       "url": "https://open.spotify.com/track/0qoFbRRIO9V8Pz99TkFk0H"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band",
-        "url": "https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1298000,
-      "name": "Poppy Nogood and the Phantom Band - Instrumental",
-      "url": "https://open.spotify.com/track/7yX6clhxwVHuKMNcCXAyB9"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -241,7 +225,39 @@
       "url": "https://open.spotify.com/track/2u3qI1WiuzNfu7pgbCvo6L"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band",
+        "url": "https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1298000,
+      "name": "Poppy Nogood and the Phantom Band - Instrumental",
+      "url": "https://open.spotify.com/track/7yX6clhxwVHuKMNcCXAyB9"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "The Oldtimer",
+      "url": "https://open.spotify.com/track/3S7ue5i5UAW6kJmqogeort"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -261,39 +277,7 @@
       "url": "https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "The Oldtimer",
-      "url": "https://open.spotify.com/track/3S7ue5i5UAW6kJmqogeort"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Cologne 1974 (Live 1974)",
-        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 409091,
-      "name": "Part I - Live 1974",
-      "url": "https://open.spotify.com/track/7msH0Iwj6RHhWMQJcw1dem"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Terry Riley: Shri Camel",
         "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
@@ -309,7 +293,23 @@
       "url": "https://open.spotify.com/track/2N1cxjxCFGJ7BQu6S5k7Cq"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Cologne 1974 (Live 1974)",
+        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 409091,
+      "name": "Part I - Live 1974",
+      "url": "https://open.spotify.com/track/7msH0Iwj6RHhWMQJcw1dem"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Late Night Tales: Four Tet",
         "url": "https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -345,23 +345,7 @@
       "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "Tango Ladeado",
-      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -381,10 +365,10 @@
       "url": "https://open.spotify.com/track/2Z3e1jZPF25lEIYIEdL1Yp"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
       "artists": [
         {
@@ -392,12 +376,28 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 400306,
-      "name": "In The Summer",
-      "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
+      "duration_ms": 207746,
+      "name": "Tango Ladeado",
+      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Cologne 1974 (Live 1974)",
+        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 458436,
+      "name": "Part III - Live 1974",
+      "url": "https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -417,7 +417,23 @@
       "url": "https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 400306,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Cologne 1974 (Live 1974)",
         "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
@@ -449,23 +465,7 @@
       "url": "https://open.spotify.com/track/48RZKN0TQ6qtc7tihgDyy9"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Slow Melody In Bhairavi",
-      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -485,39 +485,7 @@
       "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Riley: In C",
-        "url": "https://open.spotify.com/album/1IqXMVlNM4NBTA4otUziOr"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 2516986,
-      "name": "In C - 2009 Remastered",
-      "url": "https://open.spotify.com/track/4IIt36M11AQ5bHdzFQLEny"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Cologne 1974 (Live 1974)",
-        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 574081,
-      "name": "Part II - Live 1974",
-      "url": "https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
@@ -528,12 +496,12 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1108053,
-      "name": "Journey From The Death Of A Friend",
-      "url": "https://open.spotify.com/track/1riIi7QHl0ALuLGGItsExf"
+      "duration_ms": 196066,
+      "name": "Slow Melody In Bhairavi",
+      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
         "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
@@ -549,10 +517,10 @@
       "url": "https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+        "name": "Cologne 1974 (Live 1974)",
+        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
       },
       "artists": [
         {
@@ -560,12 +528,64 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 389453,
-      "name": "Cancion Desierto",
-      "url": "https://open.spotify.com/track/1QJHdpZI0opRyXaXsNZCYk"
+      "duration_ms": 574081,
+      "name": "Part II - Live 1974",
+      "url": "https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Gha Ten In Darbari",
+      "url": "https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1108053,
+      "name": "Journey From The Death Of A Friend",
+      "url": "https://open.spotify.com/track/1riIi7QHl0ALuLGGItsExf"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Autodreamographical Tales",
+        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        }
+      ],
+      "duration_ms": 171589,
+      "name": "See Them Out There",
+      "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Cologne 1974 (Live 1974)",
         "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
@@ -581,7 +601,55 @@
       "url": "https://open.spotify.com/track/5DKZNBg516xpG4Q4tcoFmc"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Riley: In C",
+        "url": "https://open.spotify.com/album/1IqXMVlNM4NBTA4otUziOr"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 2516986,
+      "name": "In C - 2009 Remastered",
+      "url": "https://open.spotify.com/track/4IIt36M11AQ5bHdzFQLEny"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 389453,
+      "name": "Cancion Desierto",
+      "url": "https://open.spotify.com/track/1QJHdpZI0opRyXaXsNZCYk"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Kris Gardner",
+        "url": "https://open.spotify.com/album/4HeJsFpeuILR9p1skyCB4j"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 55813,
+      "name": "Kris Gardner",
+      "url": "https://open.spotify.com/track/7eJjgRrJPe6wJb8pKdrlze"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Steve Reich: Six Pianos & Terry Riley: Keyboard Study #1",
         "url": "https://open.spotify.com/album/4tZdDTJcXvF7mDH9MTlC01"
@@ -605,91 +673,7 @@
       "url": "https://open.spotify.com/track/1w9GGVy7WJAUvxVQAv47o2"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Kris Gardner",
-        "url": "https://open.spotify.com/album/4HeJsFpeuILR9p1skyCB4j"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 55813,
-      "name": "Kris Gardner",
-      "url": "https://open.spotify.com/track/7eJjgRrJPe6wJb8pKdrlze"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Autodreamographical Tales",
-        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Bang On A Can All-Stars",
-          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
-        }
-      ],
-      "duration_ms": 171589,
-      "name": "See Them Out There",
-      "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Cologne 1974 (Live 1974)",
-        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 458436,
-      "name": "Part III - Live 1974",
-      "url": "https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 592026,
-      "name": "Zamorra",
-      "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Gha Ten In Darbari",
-      "url": "https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -709,23 +693,7 @@
       "url": "https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Cologne 1974 (Live 1974)",
-        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 554672,
-      "name": "Part VII - Live 1974",
-      "url": "https://open.spotify.com/track/0uq9fIUxNfEUxM5qa1zX8C"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
@@ -736,12 +704,28 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Quijote",
-      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
+      "duration_ms": 592026,
+      "name": "Zamorra",
+      "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "An Introduction To Amiata's New Music Series Vol1",
+        "url": "https://open.spotify.com/album/7xYZP2kzAXxUGEWueXBSw3"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Land's End",
+      "url": "https://open.spotify.com/track/1yYwD8sKQy9ZKz3lgZ0pDk"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Marley Bell",
         "url": "https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30"
@@ -757,7 +741,7 @@
       "url": "https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -777,27 +761,55 @@
       "url": "https://open.spotify.com/track/41BeACjgrGUeIPR0jLLqD9"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
-        "name": "Lazy Afternoon Among the Crocodiles",
-        "url": "https://open.spotify.com/album/44v2lLaQf819TbPzYRpPgs"
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Stefano Scodanibbio",
-          "url": "https://open.spotify.com/artist/6UDoms7Gb8Ej8prwwGBAl3"
         }
       ],
-      "duration_ms": 352973,
-      "name": "Lazy Afternoon Among the Crocodiles",
-      "url": "https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3"
+      "duration_ms": 273746,
+      "name": "Quijote",
+      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 347906,
+      "name": "Crucifixion Voices",
+      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
+      "album": {
+        "name": "Skylar Saunders",
+        "url": "https://open.spotify.com/album/51UnJiGrQ7V8GaUeZ3ik6h"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 41891,
+      "name": "Skylar Saunders",
+      "url": "https://open.spotify.com/track/13KF8bVEeQdZ0QRJOPoIZx"
+    },
+    {
+      "added_at": "2022-12-23 14:50:36",
       "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
@@ -817,10 +829,10 @@
       "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+        "name": "Cologne 1974 (Live 1974)",
+        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
       },
       "artists": [
         {
@@ -828,15 +840,15 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 347906,
-      "name": "Crucifixion Voices",
-      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
+      "duration_ms": 554672,
+      "name": "Part VII - Live 1974",
+      "url": "https://open.spotify.com/track/0uq9fIUxNfEUxM5qa1zX8C"
     },
     {
-      "added_at": "2022-12-21 14:20:43",
+      "added_at": "2022-12-23 14:50:36",
       "album": {
-        "name": "Autodreamographical Tales",
-        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
+        "name": "Lazy Afternoon Among the Crocodiles",
+        "url": "https://open.spotify.com/album/44v2lLaQf819TbPzYRpPgs"
       },
       "artists": [
         {
@@ -844,33 +856,13 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         },
         {
-          "name": "Bang On A Can All-Stars",
-          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+          "name": "Stefano Scodanibbio",
+          "url": "https://open.spotify.com/artist/6UDoms7Gb8Ej8prwwGBAl3"
         }
       ],
-      "duration_ms": 447063,
-      "name": "The Faquir",
-      "url": "https://open.spotify.com/track/4Tm5zrS91ImUe2y8HoF09d"
-    },
-    {
-      "added_at": "2022-12-21 14:20:43",
-      "album": {
-        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
-        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
-      },
-      "artists": [
-        {
-          "name": "Florian Fricke",
-          "url": "https://open.spotify.com/artist/21ciJ5ssX76NZ21k3GUxFK"
-        },
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Spirit of Peace: Part I.",
-      "url": "https://open.spotify.com/track/0hh4neHwvdZK7jB4yobBoX"
+      "duration_ms": 352973,
+      "name": "Lazy Afternoon Among the Crocodiles",
+      "url": "https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3"
     }
   ],
   "unique_name": "This Is Terry Riley",

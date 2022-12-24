@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul
 
-322 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
+323 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-16 |  |
 | [bayridge](https://open.spotify.com/track/6GijrCnVsghoXzLOt2elDw) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [allthefeels](https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2) | 3:26 | 2021-12-23 | 2022-07-21 |
 | [Beautiful Escape](https://open.spotify.com/track/5MChi9fdCbTIWDJPPUuuW6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 4:36 | 2022-03-24 | 2022-12-01 |
+| [Beautiful Escape](https://open.spotify.com/track/6m0lkuDCha77hh7tB5J7IO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN) | 4:36 | 2022-12-22 |  |
 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 | 2022-12-01 |  |
 | [Black Gold](https://open.spotify.com/track/0usVZ1hVbeBjmcGT7f6G8d) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:35 | 2022-03-24 | 2022-04-21 |
 | [Black Rain \- Jayda G Remix](https://open.spotify.com/track/2xvaAfj3UwqdVBUT7Y4scx) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Black Rain \(Jayda G Remix\)](https://open.spotify.com/album/3vxagOTOtePoyP0zYZl0Fs) | 4:11 | 2021-12-23 | 2022-07-12 |
@@ -269,7 +270,7 @@
 | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/track/3oNpguc2W0QcVRJ4hGzdZa) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ICE CREAM CLONES](https://open.spotify.com/album/1GIyXOAK33QpaVCMwRQbPC) | 2:52 | 2021-12-23 | 2022-07-29 |
 | [The Thrill](https://open.spotify.com/track/5n4Y77CWqkzoncUhSPBAlW) | [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [The Thrill](https://open.spotify.com/album/6SJmXd3ngOQPslmT68g2PW) | 3:12 | 2021-12-23 | 2022-07-23 |
 | [The Wheel](https://open.spotify.com/track/6Mm7nCTVVduH0uehfNfITB) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [The Wheel](https://open.spotify.com/album/3YnQLqCzYIh8wJJtxYQit6) | 3:20 | 2022-02-10 | 2022-06-27 |
-| [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-09-30 |  |
+| [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-09-30 | 2022-12-24 |
 | [Them Changes](https://open.spotify.com/track/6NbLghSV5wmjGINBeSo1xA) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Red Focus](https://open.spotify.com/album/4V4qdKRONWcZxKfRAMv4IS) | 3:54 | 2022-01-20 | 2022-07-27 |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-13 |  |
 | [THINKING](https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [THINKING](https://open.spotify.com/album/3qZHlcmOavLTKddnup8qdf) | 2:00 | 2021-12-23 | 2022-07-28 |

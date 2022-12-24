@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "100 GIORNI",
+        "url": "https://open.spotify.com/album/6vQHAIf4uxsWItu8Gp9nNH"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76875,
+      "name": "100 GIORNI",
+      "url": "https://open.spotify.com/track/1XutSOW3HIb0oBiNwDINxL"
+    },
+    {
+      "album": {
         "name": "108",
         "url": "https://open.spotify.com/album/1nbjxqaWcmBOWV2xO5Xwf7"
       },
@@ -741,10 +759,28 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 129149,
       "name": "BAMBINA IN DISCOTECA",
       "url": "https://open.spotify.com/track/5xgYbfxberTCnMlMrnmGHh"
+    },
+    {
+      "album": {
+        "name": "BAMBINI VECCHI (Fantasy)",
+        "url": "https://open.spotify.com/album/7phGRMfDC0Q6huQWwJ7nMn"
+      },
+      "artists": [
+        {
+          "name": "MilesToy",
+          "url": "https://open.spotify.com/artist/70Aar9GzCVdqrppzzQ0vU6"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "BAMBINI VECCHI (Fantasy)",
+      "url": "https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q"
     },
     {
       "album": {
@@ -1135,7 +1171,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 157442,
       "name": "Che pace // Che palle",
       "url": "https://open.spotify.com/track/6hjyCxuLCpBtCITorSDUTY"
@@ -1193,7 +1229,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 126274,
       "name": "Coccinelle nere",
       "url": "https://open.spotify.com/track/0wmcchV8IeTT5YmRcrgyDW"
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 184905,
       "name": "curious/furious",
       "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
@@ -2025,7 +2061,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 154666,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/2lSrqHxp8kxEtlI7eSLUnx"
@@ -2157,7 +2193,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 166642,
       "name": "Fuck U",
       "url": "https://open.spotify.com/track/3DMg5Yd3UKAHSt8YGqeewE"
@@ -2451,6 +2487,24 @@
       "duration_ms": 189473,
       "name": "Gotham City",
       "url": "https://open.spotify.com/track/6DLsle6lTv5zbtZIglRFGU"
+    },
+    {
+      "album": {
+        "name": "SHOEFITI",
+        "url": "https://open.spotify.com/album/73NIgIPuF8VnZk719sgVaF"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178575,
+      "name": "Grandi",
+      "url": "https://open.spotify.com/track/5bF188CDCytSLpTz0sCFNe"
     },
     {
       "album": {
@@ -3389,7 +3443,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 199024,
       "name": "Lui e Lei",
       "url": "https://open.spotify.com/track/1TtfCntQ31YxNNvgFqSFq8"
@@ -3861,7 +3915,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 145789,
       "name": "NMV + ADL",
       "url": "https://open.spotify.com/track/41njQv4YvZBqlEYnsCk2vq"
@@ -3905,7 +3959,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 141071,
       "name": "Non ci credo che ti penso ancora",
       "url": "https://open.spotify.com/track/2Kig57HRtfKRcBvCm8So4B"
@@ -4445,7 +4499,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 158600,
       "name": "Per te",
       "url": "https://open.spotify.com/track/0QRls3tUqyFiJ91HYeNDzK"
@@ -4837,7 +4891,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 180342,
       "name": "Quanto ti vorrei",
       "url": "https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu"
@@ -5387,7 +5441,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 164705,
       "name": "Skategirl",
       "url": "https://open.spotify.com/track/2fIRWwwbtW21031Bv1tCKT"
@@ -5842,6 +5896,24 @@
     },
     {
       "album": {
+        "name": "STORIA DI UN PAZZO",
+        "url": "https://open.spotify.com/album/0qqj21HB5XBRqGsSaITDIP"
+      },
+      "artists": [
+        {
+          "name": "Jayred",
+          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "STORIA DI UN PAZZO",
+      "url": "https://open.spotify.com/track/4kaPilgbxFuV4yzoG07kpw"
+    },
+    {
+      "album": {
         "name": "strappami la pelle a morsi",
         "url": "https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB"
       },
@@ -6005,6 +6077,24 @@
       "duration_ms": 171563,
       "name": "SUMMERSAD 3",
       "url": "https://open.spotify.com/track/3ya2HVjnFFV9y52uhj3qch"
+    },
+    {
+      "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14"
     },
     {
       "album": {
@@ -6343,6 +6433,24 @@
       "duration_ms": 196124,
       "name": "Toxic love",
       "url": "https://open.spotify.com/track/7MlJXGhw8Jag5sCtfVVSxc"
+    },
+    {
+      "album": {
+        "name": "TRACCIA 0",
+        "url": "https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128879,
+      "name": "TRACCIA 0",
+      "url": "https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA"
     },
     {
       "album": {
@@ -6867,6 +6975,28 @@
       "duration_ms": 166948,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/0YebZlqzFMxwdVoBdpWefj"
+      },
+      "artists": [
+        {
+          "name": "IN6N",
+          "url": "https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158555,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/46cP2WBFgoi05vLZNKKfUp"
     },
     {
       "album": {

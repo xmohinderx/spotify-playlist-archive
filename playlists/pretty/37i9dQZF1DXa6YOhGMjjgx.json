@@ -1,12 +1,12 @@
 {
   "description": "This is the best of today's true alternative rock scene.",
-  "num_followers": 469185,
+  "num_followers": 469176,
   "original_name": "New Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDlmNzNiYWJjZDJkNmY0NTFlODU3ODEyMWZlNTI0OWNl",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMGEzMzljOTllYjViYWE5NjIzZTk2MzJhNzJlYmU5N2Qy",
   "tracks": [
     {
       "added_at": "2022-04-29 04:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "My Honest Face",
-      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Misery",
         "url": "https://open.spotify.com/album/7nqQxq17r4eUTqsDAdrL6v"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 180772,
       "name": "Misery",
       "url": "https://open.spotify.com/track/6Zz846CtUmQGP5z4F7sccA"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "My Honest Face",
+      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Vulture Culture",
-        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 199076,
-      "name": "Vulture Culture",
-      "url": "https://open.spotify.com/track/1e58Lv9zzEcX5t9PYFWhZO"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "This is Our Life",
         "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Vulture Culture",
+        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 199076,
+      "name": "Vulture Culture",
+      "url": "https://open.spotify.com/track/1e58Lv9zzEcX5t9PYFWhZO"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Don't Hate Me",
-        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 251010,
-      "name": "Don't Hate Me",
-      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": ".burymewhole.",
         "url": "https://open.spotify.com/album/5yHbHpMIX8nHFASdst372R"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 188166,
       "name": ".burymewhole. - Single Version",
       "url": "https://open.spotify.com/track/0XBEpnERQaXtEmHHTbPx9k"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Don't Hate Me",
+        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 251010,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "bad for you",
-        "url": "https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb"
-      },
-      "artists": [
-        {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
-        }
-      ],
-      "duration_ms": 114095,
-      "name": "bad for you",
-      "url": "https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Room's On Fire",
         "url": "https://open.spotify.com/album/09cAjP3r3Pb0nma7l0wVXM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 188267,
       "name": "[Insert Girls Name Here]",
       "url": "https://open.spotify.com/track/3TXyUyEa1BtBvxuxxh0bW8"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "bad for you",
+        "url": "https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 114095,
+      "name": "bad for you",
+      "url": "https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 201229,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
         }
       ],
-      "duration_ms": 173314,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+      "duration_ms": 189000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 257398,
-      "name": "Father Of Lies",
-      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "The Present Is a Foreign Land",
         "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
       },
@@ -999,6 +983,38 @@
       "duration_ms": 201177,
       "name": "Going Clear",
       "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/11VAtsmWxECwQCYzdnpyYz"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4Rk5WkMZySCyu3LinjKIMU"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 257398,
+      "name": "Father Of Lies",
+      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 239252,
       "name": "Nowhere Generation [with Meg Myers]",
       "url": "https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/11VAtsmWxECwQCYzdnpyYz"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4Rk5WkMZySCyu3LinjKIMU"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Seven White Horses",
-        "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
-      },
-      "artists": [
-        {
-          "name": "Starbenders",
-          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
-        }
-      ],
-      "duration_ms": 220816,
-      "name": "Seven White Horses",
-      "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Welcome to Silvertown",
         "url": "https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 195986,
       "name": "Welcome to Silvertown",
       "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Seven White Horses",
+        "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "duration_ms": 220816,
+      "name": "Seven White Horses",
+      "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Distant Populations",
-        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Missile Command",
-      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "See Through You",
         "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 224285,
       "name": "See Through You",
       "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Missile Command",
+      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 224073,
+      "name": "Torpedo",
+      "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 175577,
       "name": "Earth Is A Black Hole",
       "url": "https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Torpedo",
-        "url": "https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 224073,
-      "name": "Torpedo",
-      "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "duration_ms": 197777,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Stop Beating on My Heart (Like a Bass Drum)",
         "url": "https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
+        "name": "Just For Love",
+        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
       },
       "artists": [
         {
-          "name": "Mouth Culture",
-          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
         }
       ],
-      "duration_ms": 197777,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
+      "duration_ms": 197739,
+      "name": "Just For Love",
+      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Just For Love",
-        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
       },
       "artists": [
         {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+          "name": "Low Lying Sun",
+          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Just For Love",
-      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
+      "duration_ms": 232584,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1523,22 +1539,6 @@
       "duration_ms": 360333,
       "name": "Great Mass of Color",
       "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Car Crash",
-        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
-      },
-      "artists": [
-        {
-          "name": "Low Lying Sun",
-          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
-        }
-      ],
-      "duration_ms": 232584,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "New Comedown",
-        "url": "https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3"
-      },
-      "artists": [
-        {
-          "name": "Plague Vendor",
-          "url": "https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "New Comedown",
-      "url": "https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Broken Equipment",
         "url": "https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 197853,
       "name": "Pillar on the Bridge of You",
       "url": "https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "New Comedown",
+        "url": "https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3"
+      },
+      "artists": [
+        {
+          "name": "Plague Vendor",
+          "url": "https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "New Comedown",
+      "url": "https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS"
     }
   ],
   "unique_name": "New Alt-Rock Mixtape",

@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 228800,
       "name": "Brothers by Blade",
       "url": "https://open.spotify.com/track/5tNPQ5KQPdE5ZJFOKK3ojR"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 235200,
       "name": "Dare To Dream",
       "url": "https://open.spotify.com/track/2TG37Sp71ddpZ13L3eooi3"
@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Death Or Glory",
+        "url": "https://open.spotify.com/album/4hWYpsuKXpJ0YYRJAaAPFB"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221781,
+      "name": "Death Or Glory",
+      "url": "https://open.spotify.com/track/4PQ0ckfbPTkcxzFiIXAzG3"
+    },
+    {
+      "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/4Uzg555qgiltdiFp9hr3Fv"
       },
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 176516,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/6AWeDqvevggPd0FITDYshW"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 285008,
       "name": "Dragon's Roar",
       "url": "https://open.spotify.com/track/0uL3Brwa7YJYsUWyncd2dc"
@@ -459,6 +477,24 @@
       "duration_ms": 189011,
       "name": "ECHOES",
       "url": "https://open.spotify.com/track/0XcpGTkuGzXdp3CXb85uRt"
+    },
+    {
+      "album": {
+        "name": "Ecuador (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130016,
+      "name": "Ecuador (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t"
     },
     {
       "album": {
@@ -529,7 +565,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 220645,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/3phSHfzvq5SnwwBoJ6DbpI"
@@ -576,6 +612,24 @@
     },
     {
       "album": {
+        "name": "Focus On Myself",
+        "url": "https://open.spotify.com/album/3NbOL6EI5MHMR7sOztj47t"
+      },
+      "artists": [
+        {
+          "name": "Bass Prototype",
+          "url": "https://open.spotify.com/artist/7yip7koKz1Y1oZ8EY7oX54"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224605,
+      "name": "Focus On Myself",
+      "url": "https://open.spotify.com/track/5ah4TWsZlTJDqCJvnyqLry"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/0ZeNTX3RGhoLpCGxKJXI8s"
       },
@@ -613,6 +667,28 @@
       "duration_ms": 201230,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv"
+    },
+    {
+      "album": {
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195729,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA"
     },
     {
       "album": {
@@ -719,7 +795,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 171692,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/69fl0kuVe8DgY1cmEizlOQ"
@@ -741,6 +817,46 @@
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
+    },
+    {
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/0lT36lbnp1EEip1ecOF5e3"
+      },
+      "artists": [
+        {
+          "name": "Menino",
+          "url": "https://open.spotify.com/artist/0oodBYjQm1Vw4IYlLz3mwa"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190687,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/6FUqHyTmwUQKse5209eMq9"
+    },
+    {
+      "album": {
+        "name": "High Power (Radical Redemption Remix)",
+        "url": "https://open.spotify.com/album/3ueLngpFKZcWMkTrfc7gGX"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235623,
+      "name": "High Power - Radical Redemption Remix",
+      "url": "https://open.spotify.com/track/3bgqDq1t9HbDsI5OaNKpEg"
     },
     {
       "album": {
@@ -767,6 +883,42 @@
       "duration_ms": 144074,
       "name": "Hokus Pokus",
       "url": "https://open.spotify.com/track/6woDN8I4V0YwARk1lzm9G5"
+    },
+    {
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/2etvn8vl09zowXj5pzSfu7"
+      },
+      "artists": [
+        {
+          "name": "Physika",
+          "url": "https://open.spotify.com/artist/52NpY0nQvHw021b9j9Ke3y"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158713,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/4yjYEW0FRkMbQxSUd5BVSw"
+    },
+    {
+      "album": {
+        "name": "How You Feel It",
+        "url": "https://open.spotify.com/album/61WSPXGdZSgd5bKUlh0UAp"
+      },
+      "artists": [
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193875,
+      "name": "How You Feel It",
+      "url": "https://open.spotify.com/track/5GaZpGFgZtlgAiocjgrlZV"
     },
     {
       "album": {
@@ -1219,7 +1371,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 217548,
       "name": "LWYD",
       "url": "https://open.spotify.com/track/4OW5d9wxZE8w1wCw1hEqRa"
@@ -1602,6 +1754,42 @@
     },
     {
       "album": {
+        "name": "Relic",
+        "url": "https://open.spotify.com/album/6FThQBCVq856PbQv5Yl838"
+      },
+      "artists": [
+        {
+          "name": "MVTATE",
+          "url": "https://open.spotify.com/artist/16KgfaVMW0Br4MhQ4dGx2R"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233502,
+      "name": "Relic",
+      "url": "https://open.spotify.com/track/0cUG1cqFxRpIF82pf9YCig"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/3iuLIVtYN72KM3NWnVsWvT"
+      },
+      "artists": [
+        {
+          "name": "Blasco",
+          "url": "https://open.spotify.com/artist/0v2IfstPtayguzHzbNJbAS"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193935,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/4JtZZirJC8opB7spHe213P"
+    },
+    {
+      "album": {
         "name": "Reversed Reality",
         "url": "https://open.spotify.com/album/6TKUj9CHj8XJpBwncU0NgL"
       },
@@ -1635,10 +1823,32 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 171428,
       "name": "Rock Tha Party",
       "url": "https://open.spotify.com/track/2y4MGW3z5eMAZTXm7Q0T7V"
+    },
+    {
+      "album": {
+        "name": "Roll The Dice",
+        "url": "https://open.spotify.com/album/5Kz7m9hUnPcOE5qjfXv6c6"
+      },
+      "artists": [
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        },
+        {
+          "name": "Jesse Jax",
+          "url": "https://open.spotify.com/artist/1PYQj2h0huAOD01p2Bhn1O"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223258,
+      "name": "Roll The Dice",
+      "url": "https://open.spotify.com/track/4jTrgcQaRSDKTF5iBaq4yU"
     },
     {
       "album": {
@@ -1876,6 +2086,24 @@
     },
     {
       "album": {
+        "name": "The Chop Game",
+        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "The Chop Game",
+      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
+    },
+    {
+      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/4KBaTGxcxGryOh05wtF61G"
       },
@@ -2089,7 +2317,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 206709,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/70y974H4TEVIuyImLTsAHV"
@@ -2177,7 +2405,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 177287,
       "name": "Transform - Short Mix",
       "url": "https://open.spotify.com/track/2nktlsFn6Gbj3kR7f1snM1"
@@ -2283,7 +2511,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 201185,
       "name": "Unite",
       "url": "https://open.spotify.com/track/0EBURzaaZP0wHABAK0KajO"
@@ -2379,6 +2607,32 @@
       "duration_ms": 206903,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/1PQI8kFnJDtth36Jb1Osf5"
+    },
+    {
+      "album": {
+        "name": "We Love The Fire",
+        "url": "https://open.spotify.com/album/4orMq6O1J43aRmLjs6rgeN"
+      },
+      "artists": [
+        {
+          "name": "Goof",
+          "url": "https://open.spotify.com/artist/5TnlNpEc3Pgui1ijnzUTwJ"
+        },
+        {
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
+        },
+        {
+          "name": "Andor van Reeven",
+          "url": "https://open.spotify.com/artist/626ypG16zNr9L23IF8jmfW"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194575,
+      "name": "We Love The Fire",
+      "url": "https://open.spotify.com/track/2xTMYOkLCmAczuirRX1Gcx"
     },
     {
       "album": {

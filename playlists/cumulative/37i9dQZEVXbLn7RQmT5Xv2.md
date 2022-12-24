@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-548 songs - 1 day 7 hr 5 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+549 songs - 1 day 7 hr 8 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-06-23 |
 | [Johnny Cash](https://open.spotify.com/track/1JBv0j7SZPNHhV96XaDF9X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 2:46 | 2022-09-24 | 2022-10-18 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-01 |
-| [Kan Fi Sora](https://open.spotify.com/track/0cctX7m6jB5Wjp5Ioj1Mli) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Kan Fi Sora](https://open.spotify.com/album/3yqauvFawT2RXHJT5B5dL6) | 2:34 | 2022-12-21 |  |
+| [Kan Fi Sora](https://open.spotify.com/track/0cctX7m6jB5Wjp5Ioj1Mli) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Kan Fi Sora](https://open.spotify.com/album/3yqauvFawT2RXHJT5B5dL6) | 2:34 | 2022-12-21 | 2022-12-24 |
 | [Kan Lak Ma'aya \(Feat\. Umm Kulthum\)](https://open.spotify.com/track/6EVt050wg9TQv9HpSn0Ke3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Ugly Ducklings](https://open.spotify.com/album/64DY9gqA0dWDjP7v6NSlVL) | 3:45 | 2021-12-06 | 2021-12-25 |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2021-10-23 | 2022-09-25 |
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-04-03 | 2022-04-07 |
@@ -466,6 +466,7 @@
 | [إتنين بليل](https://open.spotify.com/track/4TMAPif5tmTMoqGHtwDsFt) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [إتنين بليل](https://open.spotify.com/album/0tNsbCtm0uNEabHnXjCzIb) | 3:21 | 2021-11-24 | 2022-02-26 |
 | [إتنين بليل](https://open.spotify.com/track/6kG0pgi6lc00GzIB7OKX2j) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [إتنين بليل](https://open.spotify.com/album/0gGUtdHa4pi5L6ieJJ1VEd) | 3:21 | 2021-09-22 | 2021-11-23 |
 | [إيديكوا فوق](https://open.spotify.com/track/7F6FcUvgtu8xJnmr7mmJMr) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8) | [إيديكوا فوق](https://open.spotify.com/album/4monZo4ZELSoz3BtNLMDqK) | 2:52 | 2022-02-10 | 2022-02-19 |
+| [ابيوسف \- كان ف صوره Abyusif](https://open.spotify.com/track/4NczU8gkpsFofsxD5yNIRj) | [torwada](https://open.spotify.com/artist/0jNcgSHVa94YUnrEDleh93) | [ابيوسف \- كان ف صوره Abyusif](https://open.spotify.com/album/2GkSbe5ieRAQfkFqJhQ80o) | 2:40 | 2022-12-23 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-10 | 2022-09-25 |
 | [اغنية اقوي ميكس من وي \| مكي وويجز](https://open.spotify.com/track/69IfkCa5H3J1xRCQjKIaqt) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوي ميكس من وي \| مكي وويجز](https://open.spotify.com/album/5tV4NltIJVQSKVNXZeF3Hg) | 3:08 | 2022-02-03 | 2022-02-05 |
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-05-03 | 2022-05-05 |

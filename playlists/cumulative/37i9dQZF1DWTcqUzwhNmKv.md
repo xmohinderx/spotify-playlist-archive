@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Gojira on top of the biggest Metal playlist!
+> Of Mice & Men on top of the biggest Metal playlist!
 
 345 songs - 22 hr 54 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 

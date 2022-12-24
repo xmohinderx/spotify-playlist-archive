@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
-  "num_followers": 44201,
+  "num_followers": 44289,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0MzUyNCwwMDAwMDAwMDVjOWRjZDMxNDE2Mjc3MTYyNzY5MjFkMjFjMjY2NDYw",
+  "snapshot_id": "MTY3MTc3NDgwMiwwMDAwMDAwMGE2ODllZDYxNmU1NjVjYjdlNDg4NmVmMWFmM2YwMmIx",
   "tracks": [
     {
       "added_at": "2022-12-11 14:28:49",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/2XQsAnwCfG3k0zMhP5C4L5"
     },
     {
+      "added_at": "2022-12-23 05:53:22",
+      "album": {
+        "name": "Praja Rajya",
+        "url": "https://open.spotify.com/album/0qTCxXdhmhFTpHYxQPhPNg"
+      },
+      "artists": [
+        {
+          "name": "Upendra",
+          "url": "https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH"
+        }
+      ],
+      "duration_ms": 229365,
+      "name": "Jai Election Dhan Dhana Dhan",
+      "url": "https://open.spotify.com/track/2KMbDxBUmNclFEnBbSHodQ"
+    },
+    {
       "added_at": "2022-12-20 13:38:44",
       "album": {
         "name": "Baaro Picturegogona (From \"Padavi Poorva\")",
@@ -139,6 +155,22 @@
       "duration_ms": 281364,
       "name": "Singara Siriye",
       "url": "https://open.spotify.com/track/6J7whJ91XKvDnLWpa1Cqn2"
+    },
+    {
+      "added_at": "2022-12-22 05:39:38",
+      "album": {
+        "name": "Bond Ravi",
+        "url": "https://open.spotify.com/album/43yzTu38Whh2rm8JxVJsH6"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 241587,
+      "name": "Kanasugala",
+      "url": "https://open.spotify.com/track/3VP2K1Rg32r9Ns0KjuAuCf"
     },
     {
       "added_at": "2022-12-19 09:02:26",
@@ -293,6 +325,50 @@
       "url": "https://open.spotify.com/track/1JUzlq3QoxA2jGe25YYuVy"
     },
     {
+      "added_at": "2022-12-22 05:39:38",
+      "album": {
+        "name": "Bond Ravi",
+        "url": "https://open.spotify.com/album/43yzTu38Whh2rm8JxVJsH6"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "duration_ms": 249901,
+      "name": "Male Suridu",
+      "url": "https://open.spotify.com/track/2PoHwH7V2dxvUovkDJxw7t"
+    },
+    {
+      "added_at": "2022-12-23 05:53:22",
+      "album": {
+        "name": "Kaniti Gatha (From \"Lokam Yerugani Katha\") - Single",
+        "url": "https://open.spotify.com/album/6Go9ZQO1OmIQqpSXb3KsAt"
+      },
+      "artists": [
+        {
+          "name": "Srinivas Bharadwaj",
+          "url": "https://open.spotify.com/artist/2giSDY5DrZ0iuIkbl1D9UJ"
+        },
+        {
+          "name": "Tejaswini Nandibhatla",
+          "url": "https://open.spotify.com/artist/5MnOoI04ZDh7kAXQjE9FOB"
+        },
+        {
+          "name": "Srikanth Koppula",
+          "url": "https://open.spotify.com/artist/5YZm8lFYzglM4r9oXJoRTw"
+        },
+        {
+          "name": "Satya",
+          "url": "https://open.spotify.com/artist/5WUMpw3qYuJuohmuyHYepB"
+        }
+      ],
+      "duration_ms": 285250,
+      "name": "Kaniti Gatha (From \"Lokam Yerugani Katha\")",
+      "url": "https://open.spotify.com/track/6iWEuydBAWKNqBVJSLax7s"
+    },
+    {
       "added_at": "2022-12-17 06:40:07",
       "album": {
         "name": "Vips Last Bench (Original Motion Picture Soundtrack)",
@@ -311,6 +387,26 @@
       "duration_ms": 213870,
       "name": "Friendship Song",
       "url": "https://open.spotify.com/track/6rvMdM5oOMynXEwfOpqI7e"
+    },
+    {
+      "added_at": "2022-12-22 05:39:38",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/1BRXVzRSv3jRPHtOpmbQpy"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        }
+      ],
+      "duration_ms": 260196,
+      "name": "Onde Ondu Saari Nee",
+      "url": "https://open.spotify.com/track/2iFmV0D6ttNleeGwbEgYUn"
     },
     {
       "added_at": "2022-12-05 10:53:29",

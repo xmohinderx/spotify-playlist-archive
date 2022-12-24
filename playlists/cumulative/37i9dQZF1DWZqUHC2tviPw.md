@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-173 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+179 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,22 +61,27 @@
 | [First Half](https://open.spotify.com/track/4EVDMXXJs143jposTpJjxu) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Somewhere](https://open.spotify.com/album/0WaZ8LL66jyGceZHhjeGJC) | 2:47 | 2021-11-11 |  |
 | [First Place](https://open.spotify.com/track/0oJpKkNS2xAok3jwhWfSPe) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [LAX2DUBAI](https://open.spotify.com/album/2ISpqgsjma0X7KXDM7Jxo3) | 2:27 | 2021-11-11 |  |
 | [Flowersong](https://open.spotify.com/track/7c43qz8M78sEZ7MFSUKYSg) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Flowersong](https://open.spotify.com/album/2m6M5yr2JesrlRW0EVv5IZ) | 2:40 | 2021-11-11 |  |
+| [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2022-12-23 |  |
 | [GAMETIME](https://open.spotify.com/track/13YCzEIXsoBWLEXSyaTeAe) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [GAMETIME](https://open.spotify.com/album/5WMNiz7h7MoUSYHK1R2s6t) | 1:55 | 2022-05-27 | 2022-06-03 |
 | [Geeker](https://open.spotify.com/track/0XOagxiFUHOYHlz6AthrNB) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Raging in the Pit with My Bros](https://open.spotify.com/album/66uwS7rr9YJdhF5gOIJDMj) | 2:11 | 2022-11-25 |  |
 | [Ghost](https://open.spotify.com/track/0Xb7YTUlcB32tOYazFZ0c7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Ghost](https://open.spotify.com/album/4X2204B0fGbDQyvrNvIjJD) | 2:36 | 2021-11-11 |  |
+| [Giggin](https://open.spotify.com/track/0hbHnKGSmY4wKAGqXHNQ6f) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:07 | 2022-12-23 |  |
 | [Gold Stacks](https://open.spotify.com/track/38qTxMCGROJeJlo6E274p4) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/4pYrbFvIep8pumAx11IAQN) | 2:54 | 2022-05-20 |  |
 | [Golden Barb Wire](https://open.spotify.com/track/7JZFY4O9OpRJfAHuzw9b5B) | [OWN A JET](https://open.spotify.com/artist/1JwkWoUMCVaZ7f9SmXtAYA) | [Golden Barb Wire](https://open.spotify.com/album/5o6OEpVYpToc03ZjEjC1UX) | 2:15 | 2022-12-09 |  |
 | [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 | 2022-04-22 |  |
 | [Haute](https://open.spotify.com/track/3lvxTsa881E4gc6GHEOKGL) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Haute](https://open.spotify.com/album/0Y5EmDx0BdNzVkZxyGGy5i) | 2:05 | 2022-07-15 |  |
+| [High\-Rise](https://open.spotify.com/track/4lKMHHKOJ9Fvvuaqrf8SvA) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [High\-Rise](https://open.spotify.com/album/75FfMyLsBr70S5m9IEtRjp) | 2:31 | 2022-12-23 |  |
 | [Homemade Punch](https://open.spotify.com/track/6m9L4Fu2D80SuKUfZXkE13) | [Confetti Grenade](https://open.spotify.com/artist/74c5pQ1acFkasOeOsTSt7M) | [Homemade Punch](https://open.spotify.com/album/2LjxFbBzurlXQH8kQzVr0i) | 2:12 | 2022-12-09 |  |
 | [Hometown](https://open.spotify.com/track/7nX4292m7E2yXft3H1aDp5) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Hometown](https://open.spotify.com/album/5YDHV478MEMicxIVbePEdy) | 2:05 | 2021-11-11 |  |
 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 | 2021-11-11 | 2022-10-14 |
 | [I Wanna Say Something](https://open.spotify.com/track/5fWRBWN2TkGGnYXvZrPjgK) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:07 | 2022-05-13 | 2022-07-15 |
 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 | 2022-04-08 |  |
+| [I'm Not Playing](https://open.spotify.com/track/4oa60HzymQDK5T67GLwuRc) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:17 | 2022-12-23 |  |
 | [illest](https://open.spotify.com/track/0WeWBCsBEnOSpFed1c6jEB) | [AbRaw](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Absolutely Raw, Vol\. 3](https://open.spotify.com/album/6kXplzzREhFsN4m8HHAO8t) | 2:46 | 2021-11-11 |  |
 | [Incredulous](https://open.spotify.com/track/3tsHNJMRKVMIGe4hxCiVLN) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Incredulous](https://open.spotify.com/album/7yWfqhExEhTHRnpNWNy7bY) | 2:11 | 2021-11-11 |  |
 | [JOYFUL VS HAPPINESS](https://open.spotify.com/track/5guZOtwuwy2eIJoKOKwK0D) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [JOYFUL VS HAPPINESS](https://open.spotify.com/album/6XSdGUawSNRkrOmkKh4Tzy) | 3:16 | 2022-03-29 |  |
 | [Kylie](https://open.spotify.com/track/735lPgzrp5IrVURzjINTs6) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Kylie](https://open.spotify.com/album/516RC3OSfnSRoK2LQwmSfN) | 2:52 | 2021-11-11 |  |
+| [Lasereyes](https://open.spotify.com/track/0Ka5znv6bMwTEucP5VR4oS) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Stone\-Cold](https://open.spotify.com/album/4JOTmJS6ThVk5Vo4ZE0KU9) | 2:50 | 2022-12-23 |  |
 | [Last to Leave](https://open.spotify.com/track/2775fOrLACHgsbdfJWHhYX) | [Humblebee](https://open.spotify.com/artist/43DaGVXzvghYrfrHK4eP3m) | [Occasus](https://open.spotify.com/album/1ddz02kStcLhxFiizCK1lP) | 2:38 | 2021-11-11 |  |
 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2021-11-11 |  |
 | [Life I Live](https://open.spotify.com/track/6HsVc3Q5pBMWEgAVI4vBia) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Sprinter](https://open.spotify.com/album/2d9dXXSS9PSMWOcMja9xgG) | 2:32 | 2022-04-22 |  |
@@ -139,6 +144,7 @@
 | [SNATCHIN CROWNS 王位](https://open.spotify.com/track/5qgNqe7iXFZGprAWuvP1d3) | [Yungmaple](https://open.spotify.com/artist/1QBaZ9xbIrmYmOwBQY3rVQ), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [夢の中 / In My Dreams](https://open.spotify.com/album/20UlD10mkx7O1fobgqQgoO) | 3:19 | 2022-11-25 |  |
 | [Sodas](https://open.spotify.com/track/1OhqSZBciNoTwXjOXMwD6h) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Sodas](https://open.spotify.com/album/4LsFnQM1zJszKESjxEkLEN) | 1:53 | 2022-08-05 |  |
 | [Sorrow](https://open.spotify.com/track/7GJQGSD9r681721nvXGAAx) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Sorrow](https://open.spotify.com/album/3u9L5MdB8Q16LWDyABClMO) | 2:34 | 2021-11-11 |  |
+| [Stack It](https://open.spotify.com/track/6Fpl9m5ihNUuNWXNkNif6i) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:36 | 2022-12-23 |  |
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2021-11-11 |  |
 | [Step Back](https://open.spotify.com/track/5KimoSVW5m1tFROfAFlQHr) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Pressure Cooker](https://open.spotify.com/album/6rvGcpNWu5wZi3BkCt5Byq) | 2:30 | 2021-11-11 |  |
 | [Step Up](https://open.spotify.com/track/6lfBScufvQpMszD2FCHHb1) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Step Up](https://open.spotify.com/album/1gwHWOeTU43i1xkVS97HJE) | 2:48 | 2022-04-22 | 2022-07-15 |

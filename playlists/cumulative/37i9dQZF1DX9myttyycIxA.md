@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-756 songs - 1 day 19 hr 12 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+759 songs - 1 day 19 hr 26 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Angelina](https://open.spotify.com/track/5ZSSP4DA2iRTmKUQr7qicB) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Angelina](https://open.spotify.com/album/3gJQkqLEaJshEGIm3VK3Ea) | 3:24 | 2021-12-01 | 2022-04-29 |
 | [Anna Calls From The Arctic](https://open.spotify.com/track/6WNfKDsa7egDmGn1xAGD4M) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 4:57 | 2022-07-29 |  |
 | [Another](https://open.spotify.com/track/1qQuSrLguRFQV7NdNAQtxJ) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Far Out](https://open.spotify.com/album/5wowSQREBjWgpFPVRpsA65) | 4:02 | 2021-06-02 | 2022-04-25 |
-| [Antibiotics](https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Antibiotics](https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji) | 3:06 | 2022-09-16 |  |
+| [Antibiotics](https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Antibiotics](https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji) | 3:06 | 2022-09-16 | 2022-12-24 |
 | [anxious butterball](https://open.spotify.com/track/6ZvDUOnzju0hEVfhj4cTdS) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Garden Spider](https://open.spotify.com/album/7KAMvwcWGwvQfOlzAf4G5z) | 3:38 | 2021-03-05 | 2022-03-22 |
 | [Anymore](https://open.spotify.com/track/2MRPzUotcGDw5FN8MpTLTM) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Rhymes & Rhythms](https://open.spotify.com/album/5f5QEuCZYoDLIZTL03qk4m) | 4:07 | 2021-08-27 | 2022-03-23 |
 | [anything](https://open.spotify.com/track/4DtEcOoqORcOaiYl4HQGsS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [anything](https://open.spotify.com/album/2e3TrMSoC2IdX6tksQwpls) | 3:22 | 2021-03-05 | 2022-03-27 |
@@ -79,6 +79,7 @@
 | [Ben Zaidi's Blues.](https://open.spotify.com/track/0XNkyRJljDqKrNnj13k8Sm) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Ben Zaidi's Blues.](https://open.spotify.com/album/2DnDKPt9XSd4w2z3AqnRCW) | 4:52 | 2021-08-13 | 2022-04-29 |
 | [Best Years](https://open.spotify.com/track/11y5uf7mmoN8UQbihHDpH0) | [Woz](https://open.spotify.com/artist/1UVFvU6lo3ciTTyil9yHJp) | [At the Gulf](https://open.spotify.com/album/4lVaI68Xbzh5CPZA3EX5Rb) | 2:54 | 2022-11-11 | 2022-12-15 |
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-02 | 2022-03-22 |
+| [Better](https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt) | [Bunk Buddy](https://open.spotify.com/artist/2v1a1xAEi5PEzzW1fJerGg) | [Better](https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf) | 5:34 | 2022-12-24 |  |
 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 | 2021-03-05 | 2022-04-29 |
 | [Better Luck](https://open.spotify.com/track/04utFXqgGdGYpBqzl7q3oG) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Better Luck](https://open.spotify.com/album/053LYPTGDusO20Cj2H6lYu) | 3:19 | 2022-12-02 | 2022-12-15 |
 | [Big Deal](https://open.spotify.com/track/6VoTmWBrfQmxhiLa7mOn46) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Big Deal](https://open.spotify.com/album/65i206bnePOdrNTfc2kw1g) | 4:18 | 2021-05-14 | 2022-04-19 |
@@ -263,7 +264,7 @@
 | [Florida](https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Florida](https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7) | 2:27 | 2022-12-16 |  |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-03-05 | 2022-06-19 |
 | [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 | 2022-09-16 |  |
-| [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2) | 4:20 | 2022-05-27 |  |
+| [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2) | 4:20 | 2022-05-27 | 2022-12-24 |
 | [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [lil rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 | 2022-07-15 | 2022-10-08 |
 | [Freeway](https://open.spotify.com/track/3WT2eFkXiP6chQOaIhSik0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freeway](https://open.spotify.com/album/5aD4x75wLsri0QKKBKHrKe) | 4:11 | 2021-03-05 | 2022-04-28 |
 | [Freight Yard](https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Freight Yard](https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP) | 2:27 | 2022-05-27 | 2022-10-15 |
@@ -368,6 +369,7 @@
 | [I Want to Go](https://open.spotify.com/track/34DwxE4orT17X00jybByld) | [Part Time](https://open.spotify.com/artist/5M0HAqHXyOh3q7WQnvce8o) | [P.D.A.](https://open.spotify.com/album/2kHtxPgLQ74sawO29bacYE) | 3:26 | 2022-04-29 | 2022-04-30 |
 | [I Wanted the Real Thing](https://open.spotify.com/track/59sCcKFTV5pShKkjSrfMH2) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [I Wanted the Real Thing](https://open.spotify.com/album/3wZPE5iISiwQGzt7HFsKEN) | 2:57 | 2022-08-05 | 2022-12-15 |
 | [I'm Not In Love](https://open.spotify.com/track/0ODp4fhCOXpxdUMD6ghM3V) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/0I0OwIhuKkI10Whl0ByfRf) | 1:37 | 2021-08-27 | 2022-04-19 |
+| [I'm Not Ok](https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [I'm Not Ok](https://open.spotify.com/album/00vDBfnMWFibWlxn8tnaBy) | 4:52 | 2022-12-22 |  |
 | [I'm Your Guy](https://open.spotify.com/track/6yyAzOnYFGhNP36GmMBhar) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [I'm Your Guy](https://open.spotify.com/album/0uFbiaBaOp69O5MgAa66PI) | 2:17 | 2022-07-22 | 2022-09-29 |
 | [I've Wasted So Much Time](https://open.spotify.com/track/2FNL28i0Q3RkwSYKK1aC42) | [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Deep Cuts \(2011\-2014\)](https://open.spotify.com/album/7BYdha593w1BAdWGBhmtVA) | 2:44 | 2022-05-13 | 2022-10-01 |
 | [Idaho](https://open.spotify.com/track/5BKUgBEpybXolrVOezijIb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Idaho](https://open.spotify.com/album/0XiDbkIWIq8e7K6Ro02QSd) | 4:05 | 2021-03-05 | 2022-06-19 |
@@ -502,7 +504,7 @@
 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 | 2022-10-21 |  |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-10 | 2022-11-11 |
 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 | 2022-07-08 | 2022-09-24 |
-| [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 | 2022-05-24 |  |
+| [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 | 2022-05-24 | 2022-12-24 |
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-07-22 |  |
 | [Opaque](https://open.spotify.com/track/0dNm9rS8VMlP1ZhnGPAEuh) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [Opaque](https://open.spotify.com/album/54QKs6GR3fhmcabY3i4oHW) | 3:36 | 2021-11-12 | 2022-04-20 |
 | [Orange](https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Orange](https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI) | 4:29 | 2021-09-03 | 2022-03-27 |
@@ -647,6 +649,7 @@
 | [Sweet Delila](https://open.spotify.com/track/75RVE1N6t9Lyku02EpOGKd) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Sweet Delila](https://open.spotify.com/album/4oZfvdDPjf20MludjEHUpS) | 2:47 | 2022-12-02 | 2022-12-15 |
 | [Sweetgreen](https://open.spotify.com/track/1vE7VkxO8nIvtidcZTf1yy) | [Gabbo](https://open.spotify.com/artist/1RSDS6LlCTScYAfJivL0Cw) | [Sweetgreen](https://open.spotify.com/album/5vheKIiwAA69WtWQT67DWs) | 4:16 | 2021-07-16 | 2022-04-12 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-04-30 | 2022-04-20 |
+| [Tear It Apart](https://open.spotify.com/track/564EdN2zwo3VzYiMwfnedc) | [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Tear It Apart](https://open.spotify.com/album/7gSRTvnzdzujSgkhJMUjuY) | 3:39 | 2022-12-22 |  |
 | [Tears of Change](https://open.spotify.com/track/0T1CmhCAJb8biFVLOSu4iS) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Myself in the Way](https://open.spotify.com/album/3hnuFFEOHQ4X1KGNx1HlLh) | 4:09 | 2022-11-11 |  |
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-09-23 |  |
 | [Tesla](https://open.spotify.com/track/0N5AyKOTiKUDMNKidsGK5w) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Tesla](https://open.spotify.com/album/3XfJy3aZxGNDFyiaDUGWPe) | 3:56 | 2022-01-28 | 2022-04-20 |

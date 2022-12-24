@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-295 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
+298 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,10 +174,12 @@
 | [Mist](https://open.spotify.com/track/0v3YwvruUzRAzFDig3GFKl) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo) | [Mist](https://open.spotify.com/album/0QJb6zS2hhYATx6Ae2yJ0L) | 1:56 | 2022-09-09 | 2022-12-09 |
 | [Mistakes](https://open.spotify.com/track/53YDxoUrkEZmXHIc2qQPid) | [Café](https://open.spotify.com/artist/013rEqbv3a8POPZgcNq6K2), [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Mistakes](https://open.spotify.com/album/0dR6H4HIDo7PDn9oJ2h7jx) | 1:55 | 2022-09-09 |  |
 | [Misunderstanding](https://open.spotify.com/track/61pctYFvw8aR69aAXvikcl) | [Darsena](https://open.spotify.com/artist/1BeDagLSzc3lMXJm0NSKNV), [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Misunderstanding](https://open.spotify.com/album/1WgYuK73Ht4aMb8p06rWcj) | 2:32 | 2022-10-07 |  |
+| [Mon Frére](https://open.spotify.com/track/6v1M5ZiUaLjYyaJaonKUKM) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Mon Frére](https://open.spotify.com/album/5kMYre1Xm6waTfWFPIOW3N) | 1:55 | 2022-12-23 |  |
 | [Monday Holidays](https://open.spotify.com/track/267zdUG17CHaVy97wN8hz4) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Monday Holidays](https://open.spotify.com/album/3ui5xtOQYUoHxBNyFo65DP) | 2:23 | 2022-09-30 |  |
 | [Monsoon Lullaby](https://open.spotify.com/track/4B2MGJ8zI8tmEbfYxp8nlj) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Monsoon Lullaby](https://open.spotify.com/album/4ayz8NqAUyVwQiEASdok2f) | 2:33 | 2022-11-11 | 2022-11-19 |
 | [More Than Ever](https://open.spotify.com/track/20xBuY19xf6sdctIwYM7se) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [More Than Ever](https://open.spotify.com/album/1yFR5GXRlrgBlVOaXtHv7x) | 2:46 | 2022-10-14 |  |
 | [Moving On](https://open.spotify.com/track/0OKlzcuA2lZFCve9fJdZCB) | [Ayzic](https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC) | [Moving On](https://open.spotify.com/album/3dvbkdGKNIIl8maPEI6TwD) | 2:08 | 2022-09-09 |  |
+| [Muse](https://open.spotify.com/track/0vpd3BZoa4XlofMz9F7p9v) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Muse](https://open.spotify.com/album/1ntYogE5ung04usLCWvZQ9) | 2:32 | 2022-12-23 |  |
 | [my home with you](https://open.spotify.com/track/1QUZXZ7yVsCZlO26nCMmfP) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4), [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [my home with you](https://open.spotify.com/album/65599gdYZgw7xP6CoxfZW8) | 1:51 | 2022-10-14 |  |
 | [My Secret Glade](https://open.spotify.com/track/32tT51UcINiBPpJ7qqR20p) | [Slow Fidelity](https://open.spotify.com/artist/30g2s6KY7QIvSy004P2ZbX) | [My Secret Glade](https://open.spotify.com/album/7ko9nDoYvNvzKivkk0cyvp) | 2:06 | 2022-09-09 |  |
 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 | 2022-09-09 |  |
@@ -199,6 +201,7 @@
 | [Overflowing](https://open.spotify.com/track/6ArvQ8SOgYdRjAwGWmnuUN) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Quiet Thoughts](https://open.spotify.com/album/33TE42Ct64dIGmRY0hV7ZI) | 2:34 | 2022-12-09 |  |
 | [Oxygen](https://open.spotify.com/track/3bDCUHr8qaergwjn3jGKfu) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Oxygen](https://open.spotify.com/album/5laVyV6X8ZCnOC5jRmM6rh) | 2:54 | 2022-09-30 |  |
 | [Pace](https://open.spotify.com/track/2NFJkVPaeds3F8stzxqFLl) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Pace](https://open.spotify.com/album/4JETn8UFdOcrYzGs4glpGx) | 3:28 | 2022-09-09 |  |
+| [Paths](https://open.spotify.com/track/7rPPNSk0KKMltIX9Tjv8Uk) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Paths](https://open.spotify.com/album/7BQbTtklMQsjMzoGpyptNn) | 1:56 | 2022-12-23 |  |
 | [Pathways](https://open.spotify.com/track/7Bha2btgoPHzSwWwyzcTI8) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Pathways](https://open.spotify.com/album/7rmvsiZrRELGCaCIyestXt) | 1:58 | 2022-09-09 |  |
 | [patterns](https://open.spotify.com/track/7l6PWAfC06SZhcciNN5cvg) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [patterns](https://open.spotify.com/album/2W5UofZrZ2klLNh78FRtKe) | 2:09 | 2022-09-09 | 2022-10-29 |
 | [Peace of Mind](https://open.spotify.com/track/3aEf8uDRQ7bKpjbx4t0aBr) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Peace of Mind](https://open.spotify.com/album/37cGCToxYN6XZj5tBjdagN) | 2:22 | 2022-11-11 | 2022-11-19 |

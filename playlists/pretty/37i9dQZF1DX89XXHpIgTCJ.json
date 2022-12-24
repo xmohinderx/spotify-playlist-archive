@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  Cypress Hill",
-  "num_followers": 154066,
+  "num_followers": 154337,
   "original_name": "I Love Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgwODgwMSwwMDAwMDAwMDA1ZDNlYmZkZTU4OGM4MmRiMTQwZDc5MDY3Mzg5Y2Fk",
+  "snapshot_id": "MTY2NzgwODgwMSwwMDAwMDAwMDE2NzUxMjkzMWM4N2NkZDE5MzIxNmU5NjFmNDhhMTQ1",
   "tracks": [
     {
       "added_at": "2022-11-04 09:09:27",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+        "name": "The Great Milenko",
+        "url": "https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc"
       },
       "artists": [
         {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "Insane Clown Posse",
+          "url": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
         }
       ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
+      "duration_ms": 261173,
+      "name": "Hokus Pokus",
+      "url": "https://open.spotify.com/track/3ij7wTT8OOy8MhkT6AS5aS"
     },
     {
       "added_at": "2022-11-04 09:09:27",
@@ -483,18 +479,22 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
-        "name": "The Great Milenko",
-        "url": "https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc"
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
       },
       "artists": [
         {
-          "name": "Insane Clown Posse",
-          "url": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 261173,
-      "name": "Hokus Pokus",
-      "url": "https://open.spotify.com/track/3ij7wTT8OOy8MhkT6AS5aS"
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
       "added_at": "2022-11-04 09:09:27",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
-        "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
-        "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        },
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Bring Tha Noize",
-      "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
-    },
-    {
-      "added_at": "2022-11-04 09:09:27",
-      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 212466,
       "name": "The Mighty Fall",
       "url": "https://open.spotify.com/track/4rNOFJdwQq0ulVDKOF447L"
+    },
+    {
+      "added_at": "2022-11-04 09:09:27",
+      "album": {
+        "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
+        "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        },
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Bring Tha Noize",
+      "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
     },
     {
       "added_at": "2022-11-04 09:09:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
-        "name": "Up Style Down",
-        "url": "https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M"
-      },
-      "artists": [
-        {
-          "name": "28 Days",
-          "url": "https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
-    },
-    {
-      "added_at": "2022-11-04 09:09:27",
-      "album": {
         "name": "Body Count",
         "url": "https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 204200,
       "name": "Body Count's in the House",
       "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
+    },
+    {
+      "added_at": "2022-11-04 09:09:27",
+      "album": {
+        "name": "Up Style Down",
+        "url": "https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M"
+      },
+      "artists": [
+        {
+          "name": "28 Days",
+          "url": "https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
     },
     {
       "added_at": "2022-11-04 09:09:27",
@@ -999,6 +999,26 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
+        "name": "We Made It (feat. Linkin Park)",
+        "url": "https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "We Made It (feat. Linkin Park)",
+      "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
+    },
+    {
+      "added_at": "2022-11-04 09:09:27",
+      "album": {
         "name": "Methods Of Mayhem",
         "url": "https://open.spotify.com/album/3xwu0sGFVTgeiExI6XIf1E"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 201666,
       "name": "Get Naked",
       "url": "https://open.spotify.com/track/0CqQvJTH40jIehyC3ND6Er"
-    },
-    {
-      "added_at": "2022-11-04 09:09:27",
-      "album": {
-        "name": "We Made It (feat. Linkin Park)",
-        "url": "https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "We Made It (feat. Linkin Park)",
-      "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
     },
     {
       "added_at": "2022-11-04 09:09:27",

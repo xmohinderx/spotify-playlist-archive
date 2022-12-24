@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Bougainvillea",
+        "url": "https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123662,
+      "name": "Bougainvillea",
+      "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2NECkSglWdzCrBHJdLXXT2"
       },
@@ -635,6 +653,24 @@
       "duration_ms": 224269,
       "name": "Cerbillona",
       "url": "https://open.spotify.com/track/0tnvceMi3hjvm78mKOzBzm"
+    },
+    {
+      "album": {
+        "name": "Chambers of the Cedars",
+        "url": "https://open.spotify.com/album/4GTIokkhX0O4rCEuUI9D8Q"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132508,
+      "name": "Chambers of the Cedars",
+      "url": "https://open.spotify.com/track/3UrvaqWxYS6NBrJz3o73SL"
     },
     {
       "album": {

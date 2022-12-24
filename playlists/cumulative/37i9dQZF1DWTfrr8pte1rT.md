@@ -4,7 +4,7 @@
 
 > Rock with a Drop  Cover: Of Mice & Men \\m/
 
-261 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/5zoHrqDNjf3cQeuQpkDbfT)
+262 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/5zoHrqDNjf3cQeuQpkDbfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-06-24 | 2022-12-06 |
 | [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 | 2021-12-10 | 2022-10-14 |
 | [Falling](https://open.spotify.com/track/1660w15xd64WxBUirN9e4E) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Beyond the Senses](https://open.spotify.com/album/3pYfGgnd7jxga8VzEMOniD) | 3:29 | 2022-06-24 |  |
-| [Falling Asleep at the Wheel](https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Falling Asleep at the Wheel / Julie](https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2) | 2:37 | 2022-08-12 |  |
+| [Falling Asleep at the Wheel](https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Falling Asleep at the Wheel / Julie](https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2) | 2:37 | 2022-08-12 | 2022-12-24 |
 | [Fallout](https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq) | [Fallout](https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW) | 4:52 | 2021-12-10 |  |
 | [Feel Something \(With I Prevail\)](https://open.spotify.com/track/5dAtKXyrQoQW054LZqJ5dP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Feel Something \(With I Prevail\)](https://open.spotify.com/album/0oNatPfTF5GM7KnSQ2hRPG) | 3:41 | 2021-12-10 |  |
 | [Fighter](https://open.spotify.com/track/0wuGHHsJVLVkULt8hUgTFa) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Fighter](https://open.spotify.com/album/0xq3KVLWzl2BYEVjYfqwbr) | 2:25 | 2021-12-10 | 2022-06-24 |
@@ -166,6 +166,7 @@
 | [No Control](https://open.spotify.com/track/5yFhOx23Dnz3h7hplodAgf) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [No Control](https://open.spotify.com/album/4kfYq4PhFlLxL86Qv86jFK) | 2:43 | 2021-12-17 | 2022-08-10 |
 | [No Fear](https://open.spotify.com/track/5TjFxHpoDtVtLxIRezZhbR) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [No Fear](https://open.spotify.com/album/0OvPUr9aUdc763AqVcrPug) | 3:37 | 2021-12-10 | 2022-06-25 |
 | [Not Letting Go](https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Not Letting Go](https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV) | 3:03 | 2022-06-03 |  |
+| [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 | 2022-12-23 |  |
 | [Nothing For Free](https://open.spotify.com/track/7eJqLdEQ96D5Xzc406xkeZ) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Nothing For Free](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA) | 3:03 | 2021-12-10 |  |
 | [Nothing's Perfect](https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Nothing's Perfect](https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B) | 3:06 | 2022-09-09 |  |
 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 | 2022-12-12 |  |

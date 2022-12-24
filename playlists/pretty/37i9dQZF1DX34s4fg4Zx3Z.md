@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,612 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,633 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 67 | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/track/4N99EuIjwSSFFFMDfTeOLU) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/album/5jDIXIxWf5W0uqPUuoKxZU) | 4:29 |
 | 68 | [the clouds](https://open.spotify.com/track/6rzcgZB4BVuNOnYjYHcCDW) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r) | [the clouds](https://open.spotify.com/album/76yrivhtdpfUUoCyrjWQMs) | 3:16 |
 | 69 | [Em Nghĩ Sao](https://open.spotify.com/track/1naUzsMBOHs4hm15sTut0Q) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Em Nghĩ Sao](https://open.spotify.com/album/5tWk3GIfQ6MDwggtEWPkYO) | 3:48 |
-| 70 | [Siêu Phẩm Tình Ew](https://open.spotify.com/track/2MitxDAD3HuCXMcrhLQAFc) | [MAI](https://open.spotify.com/artist/4cuCzi4VvHHwwowu56Ejm5) | [Siêu Phẩm Tình Ew](https://open.spotify.com/album/0JFhVwISfP5KCVIbnY9qJ8) | 3:37 |
+| 70 | [Siêu Phẩm Tình Ew](https://open.spotify.com/track/2MitxDAD3HuCXMcrhLQAFc) | [Mai Âm Nhạc](https://open.spotify.com/artist/4cuCzi4VvHHwwowu56Ejm5) | [Siêu Phẩm Tình Ew](https://open.spotify.com/album/0JFhVwISfP5KCVIbnY9qJ8) | 3:37 |
 | 71 | [MÙA THU ĐI QUA](https://open.spotify.com/track/1NpcHGWVmb7Yh2UqE61w4a) | [Phạm Trương Bình](https://open.spotify.com/artist/4MUgLIEVzqgGrPepPRQ2yh) | [MÙA THU ĐI QUA](https://open.spotify.com/album/66USdlCzT6NS9aWoDjgK3g) | 4:26 |
 | 72 | [Thương Thầm](https://open.spotify.com/track/0uRgZhn1nkFg3Ee2LWrNeL) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Ngcyenn](https://open.spotify.com/artist/6j8zQ4XLvwPWZSXlhpDViP) | [Thương Thầm](https://open.spotify.com/album/5GLpR4W2Harmx27lpvutCp) | 3:32 |
 | 73 | [Bae, Đừng Khóc](https://open.spotify.com/track/4xfcvjbyHx7U7aH7EYOf6O) | [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [Cà Nâu](https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW) | [Bae, Đừng Khóc](https://open.spotify.com/album/5vJP1xUaGpKIlGMRMAHI2n) | 3:21 |

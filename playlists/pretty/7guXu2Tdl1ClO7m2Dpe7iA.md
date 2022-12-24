@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7guXu2Tdl1ClO7m2Dpe7iA.md) - [plain]
 
 > Fresh house bangers with a sprinkle of dnb, bass and chill tunes in the end, all hand picked by San Pacho\. Updated regularly \(I hope lol\)!
 
-[San Pacho](https://open.spotify.com/user/tt8cs1rcaxzr3ge0jikfmurfk) - 2,390 likes - 20 songs - 1 hr 9 min
+[San Pacho](https://open.spotify.com/user/tt8cs1rcaxzr3ge0jikfmurfk) - 2,434 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/7guXu2Tdl1ClO7m2Dpe7iA.md) - [plain]
 | 11 | [Right Here](https://open.spotify.com/track/0FZnUKsmGA6kPwi0NShlBy) | [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Right Here](https://open.spotify.com/album/3mupnDkyb9I7DUiMkAVngr) | 3:34 |
 | 12 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 |
 | 13 | [Gimme Some Keys \- David Herrlich Remix](https://open.spotify.com/track/5tyneUCC3Xr4cmoghrn1L8) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Gimme Some Keys \(Remixes\)](https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6) | 2:38 |
-| 14 | [Roller Coaster \- Radio Edit](https://open.spotify.com/track/2j9Cp1haqQMOtpxwaoUn2e) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Roller Coaster](https://open.spotify.com/album/4h4X4w53GY3nDdTiKIYP5F) | 2:49 |
+| 14 | [Roller Coaster](https://open.spotify.com/track/2j9Cp1haqQMOtpxwaoUn2e) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Roller Coaster](https://open.spotify.com/album/4h4X4w53GY3nDdTiKIYP5F) | 2:49 |
 | 15 | [Daka \- Original Mix](https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Daka](https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V) | 6:30 |
 | 16 | [Stan](https://open.spotify.com/track/5Ey1Cb2qBo6GJVBDX6UpPU) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Stan](https://open.spotify.com/album/748U4s8i2RVSmGwi6mZS78) | 2:12 |
 | 17 | [Le Bon Vieux Temps \- Mosimann Remix](https://open.spotify.com/track/3ipPAyBROoMCeBYxCZ61U1) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Introspection \(Remixes\)](https://open.spotify.com/album/2u680EuTLOLYxNnEUet4lu) | 3:09 |

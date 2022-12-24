@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-176 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+178 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blue Bossa](https://open.spotify.com/track/2l9Qw5fzdAjUTlq3jGhuPt) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Jazz Standards for Acoustic Guitar vol 1](https://open.spotify.com/album/3re1thxefHKaK6gQPn9SIC) | 1:44 | 2022-10-07 |  |
 | [Bonding](https://open.spotify.com/track/3i8NiwSigTjsWm8ppEIski) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Bonding](https://open.spotify.com/album/2B63zD64Wyonm1HBmsIaTh) | 3:33 | 2022-07-15 |  |
 | [Borealis](https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Borealis](https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd) | 4:30 | 2022-10-07 |  |
+| [Bougainvillea](https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Bougainvillea](https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW) | 2:03 | 2022-12-23 |  |
 | [Bourbon Amarelo](https://open.spotify.com/track/1bUYu4L7LnOuCVM2PBWt3b) | [Jesse Edwards](https://open.spotify.com/artist/709zLNADbgTrKat7mNELgy) | [Blessings](https://open.spotify.com/album/2NECkSglWdzCrBHJdLXXT2) | 3:16 | 2022-07-15 |  |
 | [Breakwater](https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Breakwater](https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr) | 2:31 | 2022-11-18 |  |
 | [Bridget](https://open.spotify.com/track/1CzlEQSK6Pd2MHmt2YjH4u) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Salt Cliffs](https://open.spotify.com/album/0byOZ3iz1KSGHzfXFIgSjO) | 3:00 | 2022-07-15 |  |
@@ -43,6 +44,7 @@
 | [Cartas da Infância](https://open.spotify.com/track/6oWxIZMs643Wtw2cuDh2b3) | [Willian Rosa](https://open.spotify.com/artist/7prsw90i6r3zf2WUsSajns) | [Cartas da Infância](https://open.spotify.com/album/0BhYFKgYBJydcaDQG6emhd) | 4:23 | 2022-07-15 |  |
 | [Catch a Moment in Time](https://open.spotify.com/track/5rBdcn0BUdKTMxkYdiAfts) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Catch a Moment in Time](https://open.spotify.com/album/4goQWEdTf595E0WISbjKyT) | 3:50 | 2022-07-15 |  |
 | [Cerbillona](https://open.spotify.com/track/0tnvceMi3hjvm78mKOzBzm) | [Kai Slater](https://open.spotify.com/artist/2HePN1Tz794mTNRbrEBqIh) | [Cerbillona](https://open.spotify.com/album/4woFgn63q2BtrrbcyrRU5K) | 3:44 | 2022-07-15 | 2022-09-17 |
+| [Chambers of the Cedars](https://open.spotify.com/track/3UrvaqWxYS6NBrJz3o73SL) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Chambers of the Cedars](https://open.spotify.com/album/4GTIokkhX0O4rCEuUI9D8Q) | 2:12 | 2022-12-23 |  |
 | [Chapada Dos Veadeiros](https://open.spotify.com/track/7c8pKCt8CzPbCRli2og1bL) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Chapada Dos Veadeiros](https://open.spotify.com/album/58ZAeVMJOTjxvuVay3JmBK) | 2:34 | 2022-07-15 |  |
 | [Chiapas](https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Chiapas](https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl) | 3:05 | 2022-07-15 |  |
 | [Choro pra Acalmar](https://open.spotify.com/track/50e5GkpVaPnZw4JtLvBzyL) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Iguazu Falls](https://open.spotify.com/album/22IAlT7WhxkkMaNOxuM6V1) | 3:07 | 2022-07-15 |  |

@@ -916,6 +916,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5DBiGgXmH0sgiQE6juD6Yo"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260239,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3nigc80wmSKOm3VpBl8R2T"
+    },
+    {
+      "album": {
         "name": "Monster Ballads X-Mas",
         "url": "https://open.spotify.com/album/0wA8kXmYc5DRmcJXYQ49G8"
       },
@@ -1825,6 +1843,24 @@
       "duration_ms": 190900,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/1qsPbldREgR4wRvmK1FMBl"
+    },
+    {
+      "album": {
+        "name": "Scary Christmas Time",
+        "url": "https://open.spotify.com/album/1Fg3WSRCsYfR0GXvjuqFZh"
+      },
+      "artists": [
+        {
+          "name": "DESTROYERS OF REALITY",
+          "url": "https://open.spotify.com/artist/76QV1bA95uxTwkqiDr3aXG"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357294,
+      "name": "Scary Christmas Time",
+      "url": "https://open.spotify.com/track/0mg4hpatPSpWEUnoIqAX49"
     },
     {
       "album": {

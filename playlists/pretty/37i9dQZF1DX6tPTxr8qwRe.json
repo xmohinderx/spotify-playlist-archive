@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Cloudy June",
-  "num_followers": 313400,
+  "num_followers": 313767,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGI3YTljMmZlYzE5NmMyYmUyZTJhMzYxNTI2YmY3ODUz",
+  "snapshot_id": "MTY3MTc3MTc3MSwwMDAwMDAwMGJhMTAxMTI5NTVlZDYyOTg0MWQ2YWI4ODY5ZTU2MGZj",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 149456,
       "name": "Girl Like Me",
       "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
+    },
+    {
+      "added_at": "2022-12-23 05:02:51",
+      "album": {
+        "name": "ever fallen?",
+        "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
+      },
+      "artists": [
+        {
+          "name": "Kate Peytavin",
+          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "ever fallen?",
+      "url": "https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -97,6 +113,22 @@
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
     },
     {
+      "added_at": "2022-12-23 05:02:51",
+      "album": {
+        "name": "See You In My Dreams",
+        "url": "https://open.spotify.com/album/1pKVuSFvPP17CaqkSekcLQ"
+      },
+      "artists": [
+        {
+          "name": "Kat Leon",
+          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
+        }
+      ],
+      "duration_ms": 214411,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "P.O.S.",
@@ -143,6 +175,38 @@
       "duration_ms": 189473,
       "name": "BIG GUNS",
       "url": "https://open.spotify.com/track/3NVrdvbonOD0DUETFnDFJL"
+    },
+    {
+      "added_at": "2022-12-23 05:02:51",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4WmlhCNjjitpHUycV4NWec"
+      },
+      "artists": [
+        {
+          "name": "Chloe Jane",
+          "url": "https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv"
+        }
+      ],
+      "duration_ms": 137459,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5ZfkwMYwNKZFlMwxhD9Oyv"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 145386,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -551,22 +615,6 @@
       "duration_ms": 178453,
       "name": "Nxde",
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 145386,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1005,22 +1053,6 @@
       "url": "https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC"
     },
     {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "When You Say My Name",
-        "url": "https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5"
-      },
-      "artists": [
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 148275,
-      "name": "When You Say My Name",
-      "url": "https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Melancholia",
@@ -1051,22 +1083,6 @@
       "duration_ms": 182771,
       "name": "BAD B!TCH",
       "url": "https://open.spotify.com/track/1hQytzOArHdHZuFDRLLurh"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "EVERYBODY'S GONNA DIE!",
-        "url": "https://open.spotify.com/album/23ZAsoQQ5Bjnxihm4sAsBm"
-      },
-      "artists": [
-        {
-          "name": "Zia Victoria",
-          "url": "https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE"
-        }
-      ],
-      "duration_ms": 145025,
-      "name": "EVERYBODY'S GONNA DIE!",
-      "url": "https://open.spotify.com/track/3YG44aJtUMUtT1OB85s4LK"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 139058,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Light Switch",
-        "url": "https://open.spotify.com/album/2867dAr71CyRHt6MMco7yk"
-      },
-      "artists": [
-        {
-          "name": "Rain Paris",
-          "url": "https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB"
-        }
-      ],
-      "duration_ms": 184529,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/5Lh7DFcEwboYBefjnDVGz5"
     },
     {
       "added_at": "2022-05-20 05:04:53",

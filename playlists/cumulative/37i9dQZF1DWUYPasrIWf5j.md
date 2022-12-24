@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-99 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/1s1TQtiEzAtYVOJeSrtlYU)
+105 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/1s1TQtiEzAtYVOJeSrtlYU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Knowing Me, Knowing You](https://open.spotify.com/track/0i540Oa6722htaipZglBZm) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Knowing Me, Knowing You](https://open.spotify.com/album/2hG3WDbIHtUvXPWYyKRftN) | 3:51 | 2022-07-26 |  |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/4o8hBDNI3ZFfLay1HM5931) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Knowing Me, Knowing You](https://open.spotify.com/album/4pLawZ6HgMm79iceCSxt1c) | 3:51 | 2022-05-20 | 2022-07-29 |
 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 | 2022-05-20 |  |
+| [Learn to Fly](https://open.spotify.com/track/0lVszdihtq1tt9MFMesZ4a) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Ooh La La](https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc) | 3:56 | 2022-12-22 |  |
 | [Left and Right](https://open.spotify.com/track/0O8CRUwEpnevlsKdEGKdFD) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Sunroof](https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65) | 2:34 | 2022-12-01 |  |
 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 | 2022-05-20 |  |
 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-05-20 |  |
@@ -60,11 +61,13 @@
 | [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 | 2022-09-08 |  |
 | [Lucky](https://open.spotify.com/track/0bWRj1HS4Z0f08LSAZYGsh) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:06 | 2022-05-20 |  |
 | [Mad World](https://open.spotify.com/track/5v1MIPWH2VDgi59IFkebqg) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [Somebody That I Used to Know](https://open.spotify.com/album/12uMPptt5VtqkGBGszzkL4) | 2:47 | 2022-05-20 |  |
+| [New Light](https://open.spotify.com/track/5IZEYBZ30Ep0b11Csex8h7) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [New Light](https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu) | 3:26 | 2022-12-22 |  |
 | [No Scrubs](https://open.spotify.com/track/1uUYqoYiP5S9l6lggYtqx2) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [No Scrubs](https://open.spotify.com/album/6XUnXZJGv1ePL0v63MdLWn) | 2:32 | 2022-07-26 |  |
 | [No Scrubs](https://open.spotify.com/track/5hpi4f9OgqHhFEs0kabVjl) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [No Scrubs](https://open.spotify.com/album/6g3ZskouYIWEw5LSj2V4fX) | 2:32 | 2022-05-20 | 2022-07-29 |
 | [No Woman, No Cry](https://open.spotify.com/track/1xdO0jqSvpPcHpop5lKYzy) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Yellow](https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse) | 3:46 | 2022-07-01 |  |
 | [Norwegian Wood](https://open.spotify.com/track/3BE3TKiC6SSfwOFtL9bcav) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 2:40 | 2022-05-20 |  |
 | [Only Love Can Break Your Heart](https://open.spotify.com/track/2PK8tIp5lpoWjSls9eEXEK) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [Wild World](https://open.spotify.com/album/4rEIHof7KCIYtsapQ2MMbe) | 3:45 | 2022-05-20 |  |
+| [Ooh La La](https://open.spotify.com/track/4CRqwQTOPFG5D8FAc42Q4g) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Ooh La La](https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc) | 2:41 | 2022-12-22 |  |
 | [Perfect](https://open.spotify.com/track/5KD1XpRTsNmaxLtT3M5oiD) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:18 | 2022-05-20 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/58b0omCJozdH06nY5riZfI) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pumped Up Kicks](https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu) | 3:22 | 2022-08-03 |  |
 | [Put Your Records On](https://open.spotify.com/track/6lOjXZgnwPzXXjZCPGXann) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Uke Songs to Fall in Love](https://open.spotify.com/album/0uU1jAQCgqDhJdLVYSzJVD) | 3:39 | 2022-05-20 |  |
@@ -73,6 +76,7 @@
 | [Señorita](https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:41 | 2022-12-01 |  |
 | [Shivers](https://open.spotify.com/track/0aWhxq7Ivc637X7xmjofaA) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Shivers](https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf) | 3:44 | 2022-12-01 |  |
 | [Snap](https://open.spotify.com/track/6pLMBG5fMo3rAUkjjW7CyR) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Until I Found You](https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03) | 3:17 | 2022-12-01 |  |
+| [So Good](https://open.spotify.com/track/2zdjbWBFZxKjzBywvWFcnR) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [So Good](https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X) | 3:23 | 2022-12-22 |  |
 | [Soak Up The Sun](https://open.spotify.com/track/2l2vKPlI3MCAHcEBeSg5gJ) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Modern Uke Hits](https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC) | 3:46 | 2022-05-20 |  |
 | [Soak Up the Sun](https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:16 | 2022-07-26 |  |
 | [Soak up the Sun](https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK) | [The Smooth Day Sessions](https://open.spotify.com/artist/7nlyKpx26nRLVda7O4NEA5) | [Ukulele Surf Style \(Acoustic Style Covers\)](https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd) | 3:16 | 2022-05-20 | 2022-07-29 |
@@ -86,6 +90,7 @@
 | [Sugar sugar](https://open.spotify.com/track/4O8SoEr3OfBGAPDOpbb9Ci) | [Livia Lund](https://open.spotify.com/artist/61eLIARqPNspkv2XKnsc7z) | [Sugar sugar](https://open.spotify.com/album/2oW30T170km9R38AM78d8N) | 2:16 | 2022-05-20 |  |
 | [Sunroof](https://open.spotify.com/track/25qansdY69RpqRXFJVVtN9) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Sunroof](https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65) | 2:28 | 2022-12-01 |  |
 | [Sunshine Superman](https://open.spotify.com/track/1EnLRToE3ecicHWleYow1d) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:47 | 2022-05-20 |  |
+| [Sweater Weather](https://open.spotify.com/track/2hOTGNkCUL9zpotqqPJNbX) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [So Good](https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X) | 3:43 | 2022-12-22 |  |
 | [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 | 2022-05-20 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 | 2022-05-20 |  |
 | [The A Team](https://open.spotify.com/track/0Y9lGmQeaMR3veXCgMqHH3) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:29 | 2022-05-20 |  |
@@ -106,6 +111,7 @@
 | [Wonderwall](https://open.spotify.com/track/3xPnYmzD1hTbkOu9omY1mk) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 3:28 | 2022-07-01 |  |
 | [Wouldn't It Be Nice \- Ukulele Style](https://open.spotify.com/track/3gc4FHv3yl9EJS5QfwS416) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits Vol.2](https://open.spotify.com/album/1GSNJSMlFGGsymzFbppwsB) | 2:14 | 2022-05-20 | 2022-12-02 |
 | [Yellow](https://open.spotify.com/track/5kaYZfHdgfMLAcy7lu8Myi) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Yellow](https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse) | 4:24 | 2022-07-01 |  |
+| [You Proof](https://open.spotify.com/track/275wR3R7C99obZy129fe8B) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [New Light](https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu) | 2:36 | 2022-12-22 |  |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/4sdU8epdytunCp5CcofJ9z) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:13 | 2022-05-20 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

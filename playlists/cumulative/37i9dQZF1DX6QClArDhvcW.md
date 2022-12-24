@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-268 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+269 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Veil](https://open.spotify.com/track/28D9EaiySXKtyg37WFQqpT) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Veil](https://open.spotify.com/album/2ekQFQS4i8Jps7mEqN8Kjh) | 2:17 | 2022-05-20 | 2022-07-15 |
 | [Vestido Preto](https://open.spotify.com/track/3UZelzM1oKw3qI1mg8Qb3R) | [NeBULA Inc](https://open.spotify.com/artist/2W5CBe1LVHarKciHGBH01E) | [Vestido Preto](https://open.spotify.com/album/1PvAKedOsxn9MUjgCkJonV) | 1:10 | 2022-07-15 |  |
 | [Vitamin D](https://open.spotify.com/track/4IetzyFLPE3q1K2YbARbOq) | [myk](https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H) | [Vitamin D](https://open.spotify.com/album/53FJ1B34MNLwRBpktBhfCi) | 2:25 | 2022-08-19 |  |
+| [Wake up early](https://open.spotify.com/track/70ILhZLYGwOdy89qcgukNt) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Wake up early](https://open.spotify.com/album/6cuwMMluBEGhHasOPbWl7k) | 2:20 | 2022-12-23 |  |
 | [Walking On Water](https://open.spotify.com/track/5HuUJZsSfLzXepMKk2rii5) | [Cammie](https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [The Journey Home](https://open.spotify.com/album/3g8GVtSM95YRtY50ZG7qYC) | 2:17 | 2022-05-20 |  |
 | [Wandering Spirits](https://open.spotify.com/track/76m67K7hbJPgW4rtsPKO6j) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Wandering Spirits](https://open.spotify.com/album/612IheuxPoqhGTVq3POXUM) | 2:45 | 2022-05-20 | 2022-08-19 |
 | [wanna do nothing.](https://open.spotify.com/track/1rRXlVZUHhwigRtQn1w3Fm) | [bluemoon.music](https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1) | [wanna do nothing.](https://open.spotify.com/album/2OqUSC9wGmXsmBvmubRwFN) | 1:36 | 2022-05-20 |  |

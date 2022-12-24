@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-326 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+328 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Level 16](https://open.spotify.com/track/5Zcn0i0f8d33pCeau5DRTn) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Level 16](https://open.spotify.com/album/086jkRvfbNnyyqD3OtVPQx) | 3:30 | 2022-05-27 |  |
 | [Levwa](https://open.spotify.com/track/6K7w6GG3GzNTe5wiVKRIAS) | [Heater Fanz](https://open.spotify.com/artist/4Uytcl5jKXgZcHVIiOzqQH) | [Good Lighting](https://open.spotify.com/album/16QNgf0OjniGQYSUAsUVTO) | 3:37 | 2022-05-13 |  |
 | [LIFE](https://open.spotify.com/track/4OKOlIu7FBVBiNTZvY7iUw) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [LIFE](https://open.spotify.com/album/1ztZGfIIWVdbNkNRI9ao4O) | 1:44 | 2021-04-26\* | 2022-07-15 |
-| [Life on Hold](https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [Life on Hold](https://open.spotify.com/album/49uY4hBP3tRDggvjz8RiYp) | 2:20 | 2022-07-29 |  |
+| [Life on Hold](https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [Life on Hold](https://open.spotify.com/album/49uY4hBP3tRDggvjz8RiYp) | 2:20 | 2022-07-29 | 2022-12-24 |
 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 | 2021-04-26\* | 2022-07-29 |
 | [Light Colors](https://open.spotify.com/track/57icLTnAu0LHPOsdmfOhjF) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Light Colors](https://open.spotify.com/album/5myEgExIXQPG6fKTGbd0On) | 2:48 | 2021-11-10 | 2022-10-29 |
 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 | 2021-11-10 |  |
@@ -236,8 +236,9 @@
 | [red reflections](https://open.spotify.com/track/2HXbCeN1K3jxvvPSYZPOUp) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [kaleidoscopes](https://open.spotify.com/album/4GSUMxsOfySGzYumuJ9i8P) | 2:53 | 2021-11-10 | 2022-07-22 |
 | [Regardless](https://open.spotify.com/track/47ycT8Rnhz6nQ54eJND3II) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [Regardless](https://open.spotify.com/album/5msAk3rbAcG0NjJf8LDoBQ) | 2:39 | 2022-04-22 | 2022-08-19 |
 | [Right Timing](https://open.spotify.com/track/4ZF3hIQwWDrboDPwmxsECc) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Bare](https://open.spotify.com/album/1TsskLJu3cR1g9WgcVgkte) | 2:27 | 2021-06-04 |  |
-| [Riverside](https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB) | [Riverside](https://open.spotify.com/album/5VYV8Z7uRQnBiVAZfU6GNF) | 2:25 | 2021-04-26\* |  |
+| [Riverside](https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB) | [Riverside](https://open.spotify.com/album/5VYV8Z7uRQnBiVAZfU6GNF) | 2:25 | 2021-04-26\* | 2022-12-24 |
 | [Rivulet](https://open.spotify.com/track/1oR9gfWMz6KqwWRGnyEuyc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Lazily](https://open.spotify.com/album/1F5fZmVZ7Id86HWpjZJNj1) | 2:23 | 2021-04-26\* | 2021-08-26 |
+| [Rocio](https://open.spotify.com/track/4XSfKPQjnyDIysE98WfDEB) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Rocio](https://open.spotify.com/album/1aLbXKsbNs3ZIlN0ekPV92) | 3:06 | 2022-12-23 |  |
 | [Rocking](https://open.spotify.com/track/1urrDjvI97mHfIYmmksQVr) | [Platinum Beats](https://open.spotify.com/artist/1Pui7ZJReSJjN9VbuBtiqj) | [Heavens](https://open.spotify.com/album/6JNkrXH2tS3V4SSAjpypUu) | 2:29 | 2021-04-26\* | 2021-06-04 |
 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 | 2021-05-07 |  |
 | [Rogam por Mim](https://open.spotify.com/track/0jXRaToO4DgRESna2AEFhB) | [Stay Lo.](https://open.spotify.com/artist/36Oa64ELbqH6fllVWvFnuy), [Carthi](https://open.spotify.com/artist/5JMKgmah66gXWj94PgCoj9) | [Rogam por Mim](https://open.spotify.com/album/5LzjVqOXtLijsZHhWtdqrD) | 2:26 | 2022-05-20 |  |
@@ -307,6 +308,7 @@
 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 | 2022-07-29 |  |
 | [Tratoria](https://open.spotify.com/track/3IX30GXLumSoisqM3qUHAZ) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 1:49 | 2022-05-20 |  |
 | [Trippier](https://open.spotify.com/track/4bT3N5SidnYnydelbL3FVL) | [Stanz Vanz](https://open.spotify.com/artist/01swNkzCEWNS1bFpINjuAN) | [Trippier](https://open.spotify.com/album/6JO4wwfTK87vMPGkub8XWf) | 3:35 | 2021-08-26 |  |
+| [Under Blue](https://open.spotify.com/track/7CEycuhaJ8aR9fJlRIlt2u) | [Mooshy](https://open.spotify.com/artist/25CodL66ToRkp4p6b86S5I) | [Under Blue](https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61) | 2:27 | 2022-12-23 |  |
 | [Unfaithful](https://open.spotify.com/track/0PhO372l28G96GYTAIguhO) | [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Unfaithful](https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz) | 2:36 | 2022-06-17 | 2022-07-29 |
 | [Unfeeling](https://open.spotify.com/track/4T0BMGKEt5MeIdrhfD8TWm) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Nothing Lasts](https://open.spotify.com/album/23OWJHbhF5o0NRe7GWUS6O) | 2:53 | 2022-10-28 |  |
 | [Vaporize](https://open.spotify.com/track/6N7Hgy6ZpFxdK8rxXZh9TB) | [Squiid](https://open.spotify.com/artist/7g0KymGegEPhis87m1lWWm) | [Pandoras Box / Vaporize](https://open.spotify.com/album/1ocggLB9OdafNBm5OLXDai) | 3:24 | 2021-04-26\* | 2022-05-20 |

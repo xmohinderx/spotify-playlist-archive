@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,010 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,131 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 |
 | 27 | [BEIFAHRERSITZ](https://open.spotify.com/track/1YZU0P3SdMWIjNWdUixYzd) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [BEIFAHRERSITZ](https://open.spotify.com/album/1ydhVNe1Gut5PMC5hXr92D) | 3:04 |
 | 28 | [Wasser](https://open.spotify.com/track/6JL3BHxeR7jiGY6SOIxq2m) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Wasser](https://open.spotify.com/album/1mL6Awa2c23Y8TAZEU3kHb) | 2:31 |
-| 29 | [Mona Lisa, a girl's best friend](https://open.spotify.com/track/5vHUwpWDPKGkTsA7Th7bCf) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 3:20 |
-| 30 | [Mirror](https://open.spotify.com/track/5YNQEdw7Oh7ALLQ4Jltzg2) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Mirror](https://open.spotify.com/album/6sN1NexZcInVG5scqfgaw0) | 2:20 |
+| 29 | [Mirror](https://open.spotify.com/track/5YNQEdw7Oh7ALLQ4Jltzg2) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Mirror](https://open.spotify.com/album/6sN1NexZcInVG5scqfgaw0) | 2:20 |
+| 30 | [Mona Lisa, a girl's best friend](https://open.spotify.com/track/5vHUwpWDPKGkTsA7Th7bCf) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 3:20 |
 | 31 | [SO WIE ICH](https://open.spotify.com/track/5yN903LkiXLmyEuGzwMJUh) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [WORAN HÄLTST DU DICH FEST, WENN ALLES ZERBRICHT?](https://open.spotify.com/album/4xmhtPurl9t7IFDxUnyCrt) | 3:39 |
 | 32 | [Flowers](https://open.spotify.com/track/6p2DKSuKLPvIBIHkoqBTtX) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Flowers](https://open.spotify.com/album/3FtYC7MmFKnjJoCE1aElBx) | 3:36 |
 | 33 | [House of the Lost](https://open.spotify.com/track/58HTIOhO6njnB6EttbH8RO) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [House of the Lost](https://open.spotify.com/album/0VJxrvIS07zcIbKHKYBSrp) | 2:46 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 |
 | 38 | [Pose](https://open.spotify.com/track/6gjTBagyl527aB9iMUa0W6) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Pose](https://open.spotify.com/album/0TFg2kMG4asTEDP334NmJr) | 1:52 |
 | 39 | [Signal](https://open.spotify.com/track/2Y6dYM6KjTEPhfvM8a7zTI) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Signal](https://open.spotify.com/album/1b5h1zGp7FDEgnJjFxFQzZ) | 3:23 |
-| 40 | [Filmriss](https://open.spotify.com/track/2hCiXG7TpQ43uYzeCRF8Gb) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Filmriss](https://open.spotify.com/album/7oCwaTiAhFIYZGHJc8nVVm) | 2:10 |
-| 41 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
+| 40 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
+| 41 | [Filmriss](https://open.spotify.com/track/2hCiXG7TpQ43uYzeCRF8Gb) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Filmriss](https://open.spotify.com/album/7oCwaTiAhFIYZGHJc8nVVm) | 2:10 |
 | 42 | [Lose Yourself](https://open.spotify.com/track/5wJkHw2lQZ1sNUumIEf2Ab) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/2db0jBeEkExuy5uv7G1Qei) | 3:41 |
 | 43 | [Ophelia](https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 3:13 |
 | 44 | [Good Trouble](https://open.spotify.com/track/1qpRgTwyZYwwAKLZIfRDuL) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Brave New Woman](https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6dQzvpLz9qwutLYx6GUYCM) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Mirrors](https://open.spotify.com/album/0KnR5gUhV3Hb6mL13zU05z) | 4:21 |
 | 50 | [Shitlife](https://open.spotify.com/track/2LL9g7WEYzeVM2q7wtORWW) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Softness, Pt\. 2](https://open.spotify.com/album/1kFBJy9PoFDTiVlfAPuqDF) | 3:45 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGJhMTdmZmY0YmYxNWIxMzdkMmVmOTAxNmM0MTExNTcx`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDExYjJlNmY3MzVmNzJjMTQ2ODkwMjE3ZGI2YzljMjRj`

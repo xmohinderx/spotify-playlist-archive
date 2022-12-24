@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-99 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+100 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/track/5TCmpwdXWcTvUvX52tHuOa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/album/5wGTuwwxCEhotwZpDTs6nL) | 3:01 | 2021-12-22 |  |
 | [Azhagula Rasathi \- From "Pistha"](https://open.spotify.com/track/2fmRdVTuJV8pvxEP972DHI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Vaishali Jaishankar](https://open.spotify.com/artist/2X0hRi1b1JJboBlbgHYtak), [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF) | [Pistha](https://open.spotify.com/album/2m9Ps55nhonZ3Lggc4IHJT) | 4:13 | 2022-10-03 | 2022-11-06 |
 | [Azhaikiradhae](https://open.spotify.com/track/1hsGje3u3fxklQlKXF39xY) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:02 | 2022-05-19 | 2022-06-29 |
+| [Azhaiyaa Mazhai](https://open.spotify.com/track/1G58YeBzb8AcneUaDArhBv) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Pathaan \- Tamil](https://open.spotify.com/album/6F4MQdnwoPa8VlEG1J2G9f) | 4:18 | 2022-12-22 |  |
 | [Baby](https://open.spotify.com/track/4t14FoGOyLUyadT7RkzZNO) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Baby \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/1lbLfuJjIfjOMA21icZGzw) | 4:27 | 2022-06-20 | 2022-10-19 |
 | [Baby Gurl \- From "Coffee With Kadhal"](https://open.spotify.com/track/4QMMw7v3KYc7lXFWqPXd8L) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Baby Gurl \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/7yiREHekAr0JxfJRyjTRmL) | 3:40 | 2022-07-15 | 2022-11-06 |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-03 |  |

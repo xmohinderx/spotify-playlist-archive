@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0?si=sXcpNkErTdOSPCEsSZPOdw">Montell2099 </a>\. Watch his amazing live mix from Lake Atla, New Zealand <a href="https://youtu.be/FTbwJoYvA3I">HERE </a>
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,581 likes - 26 songs - 1 hr 33 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,615 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

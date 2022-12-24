@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Durk, Juice WRLD and A Boogie Wit da Hoodie.
+> Music by Drake, 21 Savage, Metro Boomin and Polo G.
 
 1,466 songs - 3 day 3 hr 30 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 

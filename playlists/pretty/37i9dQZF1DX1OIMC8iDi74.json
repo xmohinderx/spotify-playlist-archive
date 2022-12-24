@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 871727,
+  "num_followers": 871966,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDI4ZjA3YmRhMDRhY2JhMzk3YmIyYjZhZDgxODdhMDQ5",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDA3Y2U4ZjI4Mzg0ZWY0ZTY5NjM4NmFjNGJjYWU5M2Rk",
   "tracks": [
     {
       "added_at": "2022-12-02 15:49:35",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Westcoast G-House Compilation",
+        "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Baby Eazy E",
+          "url": "https://open.spotify.com/artist/4NyEOTt3m81ufeECwdoTn7"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
+      "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Westcoast G-House Compilation",
-        "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Baby Eazy E",
-          "url": "https://open.spotify.com/artist/4NyEOTt3m81ufeECwdoTn7"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
-      "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -615,26 +615,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Limelight (NGHTMRE Remix)",
-        "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        }
-      ],
-      "duration_ms": 254896,
-      "name": "Limelight (NGHTMRE Remix)",
-      "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "The One (The Remixes)",
         "url": "https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 160000,
       "name": "The One - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Limelight (NGHTMRE Remix)",
+        "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "duration_ms": 254896,
+      "name": "Limelight (NGHTMRE Remix)",
+      "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -683,22 +683,18 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
       },
       "artists": [
         {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 220839,
-      "name": "DAMN - Bonus Track",
-      "url": "https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn"
+      "duration_ms": 176761,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -715,26 +711,6 @@
       "duration_ms": 210017,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
-      },
-      "artists": [
-        {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
-        },
-        {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "WARDOGZ",
-      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -759,18 +735,42 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 176761,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+      "duration_ms": 220839,
+      "name": "DAMN - Bonus Track",
+      "url": "https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
+      },
+      "artists": [
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "WARDOGZ",
+      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Jungle Juice",
-        "url": "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        }
-      ],
-      "duration_ms": 274966,
-      "name": "Jungle Juice",
-      "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Cartel II",
         "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 270000,
       "name": "Fatal Attraction (feat. Reese LAFLARE)",
       "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Jungle Juice",
+        "url": "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        }
+      ],
+      "duration_ms": 274966,
+      "name": "Jungle Juice",
+      "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Redo",
+        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 197260,
+      "name": "Redo",
+      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Came Up",
         "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Redo",
-        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "Redo",
-      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 127900,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1079,22 +1095,6 @@
       "duration_ms": 173950,
       "name": "I Admit It (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Wobble",
+        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Wobble",
+      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Animal Vegetable Mineral Pt. 1",
         "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 192000,
       "name": "Braincase",
       "url": "https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Atom + Eve",
-        "url": "https://open.spotify.com/album/2VbJQEfwTnFLzFL3WQ8coK"
-      },
-      "artists": [
-        {
-          "name": "Space Jesus",
-          "url": "https://open.spotify.com/artist/5AoXSiM511L4To0AN5oZVB"
-        },
-        {
-          "name": "Clay Parnell",
-          "url": "https://open.spotify.com/artist/3QCySVIxDrxxBRITtPf4ZV"
-        },
-        {
-          "name": "Rory \"Sweet Boy\" Dolan",
-          "url": "https://open.spotify.com/artist/4SNudQnjJBnBUZhJk606HC"
-        }
-      ],
-      "duration_ms": 246967,
-      "name": "Hmu (feat. Clay Parnell & Rory \"Sweet Boy\" Dolan)",
-      "url": "https://open.spotify.com/track/5F3t5WgLyBX2W7un8IXiLD"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Apocalyptic",
         "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 260087,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MFahU9vl5TWlei936k7n6"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Atom + Eve",
+        "url": "https://open.spotify.com/album/2VbJQEfwTnFLzFL3WQ8coK"
+      },
+      "artists": [
+        {
+          "name": "Space Jesus",
+          "url": "https://open.spotify.com/artist/5AoXSiM511L4To0AN5oZVB"
+        },
+        {
+          "name": "Clay Parnell",
+          "url": "https://open.spotify.com/artist/3QCySVIxDrxxBRITtPf4ZV"
+        },
+        {
+          "name": "Rory \"Sweet Boy\" Dolan",
+          "url": "https://open.spotify.com/artist/4SNudQnjJBnBUZhJk606HC"
+        }
+      ],
+      "duration_ms": 246967,
+      "name": "Hmu (feat. Clay Parnell & Rory \"Sweet Boy\" Dolan)",
+      "url": "https://open.spotify.com/track/5F3t5WgLyBX2W7un8IXiLD"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "PHASE III",
-        "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "OG Maco",
-          "url": "https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Mumbai Mode",
-      "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Tums",
         "url": "https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 217000,
       "name": "Tums",
       "url": "https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "PHASE III",
+        "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "OG Maco",
+          "url": "https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Mumbai Mode",
+      "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Out of Order",
+        "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 171884,
+      "name": "Out of Order",
+      "url": "https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "It's Our Destiny",
         "url": "https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF"
       },
@@ -1911,38 +1927,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "futura",
-        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
-      },
-      "artists": [
-        {
-          "name": "Knapsack",
-          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Out of Order",
-        "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 171884,
-      "name": "Out of Order",
-      "url": "https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Sable Valley Summer Vol. 2",
         "url": "https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 178285,
       "name": "No Chill",
       "url": "https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "futura",
+        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
+      },
+      "artists": [
+        {
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
+        }
+      ],
+      "duration_ms": 206086,
+      "name": "Nothing Less",
+      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
     }
   ],
   "unique_name": "Trap Mojito",

@@ -2,9 +2,9 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> Home to all the latest indie jams\. Cover: Black Country, New Road
+> Home to all the latest indie jams\. Cover: July Talk
 
-844 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+847 songs - 2 day 2 hr 6 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2022-12-09 |  |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-29 | 2022-07-16 |
 | [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 | 2022-10-27 |
-| [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 | 2022-10-24 |  |
+| [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 | 2022-10-24 | 2022-12-24 |
 | [Fables](https://open.spotify.com/track/7qaJfp7zJoJoLxdkVnwgC2) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Fables](https://open.spotify.com/album/2Z3UKI5vh7I4zLsEOWjqEE) | 4:34 | 2022-05-20 | 2022-07-09 |
 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 | 2022-09-09 |  |
 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 | 2022-08-27 | 2022-10-01 |
@@ -263,6 +263,7 @@
 | [Follow](https://open.spotify.com/track/7xiNTG6qqNyFDEpBaPRLdF) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Follow](https://open.spotify.com/album/2UeabQ6mor0dtDrgtreT9S) | 3:53 | 2021-12-31 | 2022-01-22 |
 | [Follow](https://open.spotify.com/track/7KxeibFn8Nammh6i9cDD7j) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [CIEL](https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6) | 4:22 | 2021-12-31 | 2022-01-29 |
 | [Follow Me Around](https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Follow Me Around](https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5) | 5:19 | 2021-12-31 | 2022-01-15 |
+| [Fool's Gold](https://open.spotify.com/track/5zH7OORpJSL6rM9JNlFhn5) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Songs That Don't Belong](https://open.spotify.com/album/78G4G2UaOnJm2PZxWUqIna) | 3:03 | 2022-12-23 |  |
 | [Forever](https://open.spotify.com/track/5IePz2lBFBi1W6UhGxKWTX) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Forever](https://open.spotify.com/album/4ILVXpzzZL4OUYvhos4c77) | 4:24 | 2022-01-28 | 2022-03-05 |
 | [Forever Is A Charm](https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Forever Is A Charm](https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl) | 3:11 | 2022-09-09 | 2022-09-24 |
 | [Forget You](https://open.spotify.com/track/54xA4D0ZXwHUNwqxNUa5MW) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Forget You](https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs) | 2:55 | 2022-02-25 | 2022-04-02 |
@@ -602,7 +603,7 @@
 | [Puzzled Thought](https://open.spotify.com/track/3oH3wjuNC6VCS9rj50vO81) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [You're The Boss](https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e) | 4:16 | 2022-07-29 | 2022-10-29 |
 | [Q4](https://open.spotify.com/track/6GN8fc9sxaltugkHyRYUTN) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Q4](https://open.spotify.com/album/6TGNYqqV0CgruCKn7JC9Z4) | 4:57 | 2022-02-11 | 2022-03-19 |
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-07 | 2022-10-13 |
-| [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-07 |  |
+| [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-07 | 2022-12-24 |
 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-07-01 | 2022-09-17 |
 | [Read Mine](https://open.spotify.com/track/0rsVGAZYDgvvMBnAgqAamg) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Read Mine](https://open.spotify.com/album/4kBgigjvgHi8ZVDNUuk7a2) | 3:12 | 2022-09-09 | 2022-10-01 |
 | [REAL LOVE](https://open.spotify.com/track/1Ke3l9Xg0oZJANurjySmBN) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [REAL LOVE](https://open.spotify.com/album/7i4NU1t0CZEoTrW4BgbXF4) | 2:56 | 2022-06-17 | 2022-08-20 |
@@ -610,6 +611,7 @@
 | [Relentless](https://open.spotify.com/track/0DSGx4kH1WwwtLMVzsiQMS) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/7lRqCEA3dm00WmZ5cIKBKF) | 4:34 | 2022-04-01 | 2022-04-16 |
 | [Remedies](https://open.spotify.com/track/3GBPGuyKR8kRTMcBfaW1qy) | [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [My Sunshine](https://open.spotify.com/album/0FnIEELJGko1sBeq9uBhLV) | 4:01 | 2021-12-31 | 2022-01-15 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-31 | 2022-01-22 |
+| [Repeat](https://open.spotify.com/track/5w9lG6PJ2OpMzojpsvbwAz) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Repeat / After This / Certain Father / Hold](https://open.spotify.com/album/4s0wI4QnRMp8L2CV3jfeEW) | 4:30 | 2022-12-23 |  |
 | [Reproductive](https://open.spotify.com/track/2MQHDjRyo9ZPuUzabkI8Gq) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Reproductive](https://open.spotify.com/album/6RTD7pcx7Q4CKoiHyegtPU) | 4:35 | 2022-01-14 | 2022-02-12 |
 | [Resale](https://open.spotify.com/track/0bOtCEAC896V7Zq1usRIKu) | [The Aubreys](https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2) | [Resale](https://open.spotify.com/album/6prjDU0P65HlZT3pAkPfJU) | 3:11 | 2021-12-31 | 2022-01-15 |
 | [Respirate](https://open.spotify.com/track/0ikJr5Qxy1tWc84FaJzPdm) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Respirate](https://open.spotify.com/album/4fNPtCemGUhTbVgK9C1kXh) | 2:50 | 2022-01-07 | 2022-02-19 |
@@ -821,7 +823,7 @@
 | [What Remains](https://open.spotify.com/track/718WbSuYzjlBxu4MshY3e0) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/2YIO4ZeMpjH5g5ZSQSvchV) | 4:16 | 2022-08-12 | 2022-11-05 |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-11 | 2022-06-25 |
 | [When I Die](https://open.spotify.com/track/6lhhLvkwJniNGJmZ01MCtI) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong \(Deluxe Edition\)](https://open.spotify.com/album/55k2y2CMY7Xkw7T3t26MTS) | 4:45 | 2022-11-11 |  |
-| [Where Have All The Cowboys Gone?](https://open.spotify.com/track/108OIS5jep6kMSLJ6yf4cc) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Where Have All the Cowboys Gone?](https://open.spotify.com/album/4ZuBJsJFKXabAqCOpLYhBY) | 4:20 | 2022-11-18 |  |
+| [Where Have All The Cowboys Gone?](https://open.spotify.com/track/108OIS5jep6kMSLJ6yf4cc) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Where Have All the Cowboys Gone?](https://open.spotify.com/album/4ZuBJsJFKXabAqCOpLYhBY) | 4:20 | 2022-11-18 | 2022-12-24 |
 | [White T Shirt Nights](https://open.spotify.com/track/4YsaW4CwJahPFA9BrzRbv8) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [You're Not A Bad Person, it's Just A Bad World](https://open.spotify.com/album/2oEIqV2KfZEAtdVjyKs6HH) | 2:16 | 2022-08-19 | 2022-10-29 |
 | [Why Not?](https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Why Not?](https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF) | 2:29 | 2022-09-23 |  |
 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-14 | 2022-11-12 |
@@ -847,6 +849,7 @@
 | [You Don't Own Me](https://open.spotify.com/track/5eaIe7XJ5JKtwKWv8c4PoG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [You Don't Own Me](https://open.spotify.com/album/1YrfFAtUYvapMLU8620TTj) | 4:20 | 2022-09-02 | 2022-09-17 |
 | [You Feel Good](https://open.spotify.com/track/6W4jMAHT5F5K2KIO8aT1F5) | [Mise En Scene](https://open.spotify.com/artist/4r7GGIhQom0s0FVrXcWtrK) | [You Feel Good](https://open.spotify.com/album/3sROnunjnW84iy0o7xBelf) | 3:10 | 2022-07-08 | 2022-08-27 |
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-20 | 2022-09-17 |
+| [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 | 2022-12-23 |  |
 | [You're Not The Worst](https://open.spotify.com/track/4ac1ae4rv8Bzywe3NwUgAf) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [You're Not The Worst](https://open.spotify.com/album/4mpesj27KzszEA7rZ1n6SX) | 3:05 | 2022-09-16 | 2022-10-08 |
 | [You've Got a Woman](https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [You've Got a Woman](https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S) | 3:25 | 2021-12-31 | 2022-01-10 |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-07-30 |

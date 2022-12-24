@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-191 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+194 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,14 @@
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 |  |
 | [Antoni](https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Antoni](https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO) | 2:46 | 2022-06-17 |  |
 | [Armónico](https://open.spotify.com/track/4fMkra3CJ5mTAc6DWbFLqT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Armónico](https://open.spotify.com/album/7gM87esW35sDdevEejH70f) | 1:48 | 2022-10-14 |  |
+| [Attitude Altitude](https://open.spotify.com/track/70yVg36l68Kn2a7SjOBrqu) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Attitude Altitude](https://open.spotify.com/album/2yH5oDBYImXDIXVI6Tus2O) | 2:38 | 2022-12-23 |  |
 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-06-17 |  |
 | [Beijinho](https://open.spotify.com/track/73oqmFRZ5F6PtvkuMZ8cUY) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Beijinho](https://open.spotify.com/album/6P7TrlucBZQoQTV19iGBFt) | 1:55 | 2022-06-17 | 2022-07-08 |
 | [Bella Flamenco](https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco](https://open.spotify.com/album/26ez5kDERfAsobaXUgxXly) | 1:59 | 2022-07-01 | 2022-10-20 |
 | [Bella Flamenco \- Instrumental](https://open.spotify.com/track/4PQCBSFIPnSnugh7QBGBtZ) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco \(Instrumental\)](https://open.spotify.com/album/4NWRl0FQFHXCLL0JqkzZto) | 1:59 | 2022-10-14 |  |
 | [Bella Noche](https://open.spotify.com/track/00lkxxDKU6VQAeG1Szxm42) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Bella Noche](https://open.spotify.com/album/062sHAqcQvuNhGscr48xfK) | 2:20 | 2022-10-28 |  |
 | [Boteco](https://open.spotify.com/track/1c7ixtAouUt0wGfjcn4tvz) | [Thayner Kesley](https://open.spotify.com/artist/4nLj0swHQxSnN0mc4YX8sW) | [Boteco](https://open.spotify.com/album/36eqv5D3YczlTchETJD8zQ) | 2:32 | 2022-06-17 | 2022-07-08 |
+| [Bougainvillea](https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Bougainvillea](https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW) | 2:03 | 2022-12-23 |  |
 | [Bungalows](https://open.spotify.com/track/1mBPJN2NO56flat9UoRAnq) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Bungalows](https://open.spotify.com/album/5JvGMHNP9ZoxrL25nhcG4O) | 3:04 | 2022-08-12 |  |
 | [Bye bye](https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Bye bye](https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV) | 2:41 | 2022-07-29 | 2022-10-14 |
 | [Bye bye](https://open.spotify.com/track/4YLHzgKQHzES6XLBDYJK18) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Bye bye](https://open.spotify.com/album/1bSdmu2BNpN3V0lJEyMl69) | 2:41 | 2022-10-14 |  |
@@ -35,6 +37,7 @@
 | [Calisto](https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Calisto](https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI) | 2:26 | 2022-09-23 |  |
 | [Cambio de Corazòn](https://open.spotify.com/track/3wRiBKnaGISsvRwHKeossu) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Cambio de Corazòn](https://open.spotify.com/album/0VVUv5a4PJngb9Hb8qe648) | 1:44 | 2022-06-17 |  |
 | [Camino Lento](https://open.spotify.com/track/1k4g1HXcfL5ZJNwcxVFzab) | [Rosa Gonzales](https://open.spotify.com/artist/6E8WeGatw7QpqYZzLeqZyi) | [Camino Lento](https://open.spotify.com/album/5jkFkh6JfE6QG9LE8Z2k0J) | 1:59 | 2022-10-28 |  |
+| [Chambers of the Cedars](https://open.spotify.com/track/3UrvaqWxYS6NBrJz3o73SL) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Chambers of the Cedars](https://open.spotify.com/album/4GTIokkhX0O4rCEuUI9D8Q) | 2:12 | 2022-12-23 |  |
 | [Chartres](https://open.spotify.com/track/7qrmODD2bTNoMzqn31vSjE) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Tachibana Bay](https://open.spotify.com/album/6o1qA16sjgZwcFrp819vHx) | 3:41 | 2022-06-17 |  |
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-06-17 |  |
 | [Closer](https://open.spotify.com/track/4qUIaxxEtetvqZ9CdnUDwj) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Closer](https://open.spotify.com/album/4qrSM02InSMtRouW2fHfVP) | 1:59 | 2022-08-12 |  |
@@ -63,10 +66,10 @@
 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 | 2022-06-17 |  |
 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 | 2022-06-17 |  |
 | [El Sabio](https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [El Sabio](https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n) | 2:06 | 2022-12-09 |  |
-| [Elena](https://open.spotify.com/track/7L8szhG2EyNBPDVN8u7NfV) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Elena](https://open.spotify.com/album/1qlDQQh4Syo913ywPxNmQW) | 2:05 | 2022-06-17 |  |
+| [Elena](https://open.spotify.com/track/7L8szhG2EyNBPDVN8u7NfV) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Elena](https://open.spotify.com/album/1qlDQQh4Syo913ywPxNmQW) | 2:05 | 2022-06-17 | 2022-12-24 |
 | [Elf](https://open.spotify.com/track/651BGDJru3qXduKTv6ouhD) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Elf](https://open.spotify.com/album/0Z3SmXze4TCJpJSF3f43ot) | 1:48 | 2022-07-08 | 2022-10-14 |
 | [Elf](https://open.spotify.com/track/2z5Prq6ZP7gX5yMmPsMaPk) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Elf](https://open.spotify.com/album/58d8SRTrTcfiDkPdOxFwHQ) | 1:48 | 2022-10-14 |  |
-| [Entrelaços](https://open.spotify.com/track/2RZhlnOejBw66rNeIsuAmY) | [Jean Charnaux](https://open.spotify.com/artist/5Ll9VJiJWBtGoGohsL75bO) | [Inquieto](https://open.spotify.com/album/687D43pNYnrpfxWQs17Zdu) | 2:39 | 2022-07-29 |  |
+| [Entrelaços](https://open.spotify.com/track/2RZhlnOejBw66rNeIsuAmY) | [Jean Charnaux](https://open.spotify.com/artist/5Ll9VJiJWBtGoGohsL75bO) | [Inquieto](https://open.spotify.com/album/687D43pNYnrpfxWQs17Zdu) | 2:39 | 2022-07-29 | 2022-12-24 |
 | [Entrelaços](https://open.spotify.com/track/2ZgHfHwQst1rkVjK8yNUQk) | [Jean Charnaux](https://open.spotify.com/artist/5Ll9VJiJWBtGoGohsL75bO) | [Inquieto](https://open.spotify.com/album/40GwWMCO64VMxnYoqKPZtD) | 2:39 | 2022-06-17 | 2022-07-29 |
 | [Eres Divina](https://open.spotify.com/track/2yv8w2ANzHumAGdN3fwLoK) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Eres Divina](https://open.spotify.com/album/6MrqCkkoPr5ko3Mw8UTOrr) | 2:47 | 2022-06-17 | 2022-12-17 |
 | [Escondites](https://open.spotify.com/track/0tt1Ckj1W4HSPpjSgo91gk) | [Abelin Celice](https://open.spotify.com/artist/6deyYCzmn7ptDnohDbTWti) | [Escondites](https://open.spotify.com/album/7H5e20s2UvYoMPlFn5pjC1) | 2:36 | 2022-11-18 |  |
@@ -191,7 +194,7 @@
 | [Velera](https://open.spotify.com/track/0Gop2HD8wfCLD43lAbbbug) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Velera](https://open.spotify.com/album/4Vf0PmYMeaZXSS4QvdAMBP) | 2:27 | 2022-11-18 |  |
 | [Venecia](https://open.spotify.com/track/03tFups6fAAso68zTzwtpc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Venecia](https://open.spotify.com/album/3eo8sHVLrCyjaTLvS76qUh) | 3:18 | 2022-06-17 |  |
 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 | 2022-06-17 |  |
-| [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 3:31 | 2022-06-17 |  |
+| [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 3:31 | 2022-06-17 | 2022-12-24 |
 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 | 2022-06-24 |  |
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-06-17 |  |
 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 | 2022-06-17 |  |

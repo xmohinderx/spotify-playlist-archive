@@ -2289,6 +2289,24 @@
     {
       "album": {
         "name": "00s Piano Covers",
+        "url": "https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC"
+      },
+      "artists": [
+        {
+          "name": "Henry Smith",
+          "url": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187375,
+      "name": "No One - Piano Version",
+      "url": "https://open.spotify.com/track/4Io6bISowwt8uFvnlBk1qC"
+    },
+    {
+      "album": {
+        "name": "00s Piano Covers",
         "url": "https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B"
       },
       "artists": [
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 187375,
       "name": "No One - Piano Version",
       "url": "https://open.spotify.com/track/58l2B5WJj36xsc0yLYrRTm"

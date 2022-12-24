@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 148000,
       "name": "Dari Kejauhan",
       "url": "https://open.spotify.com/track/4K78IXVq7EvW98OrJ54sy1"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 124868,
       "name": "Fading",
       "url": "https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw"
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 150600,
       "name": "Given",
       "url": "https://open.spotify.com/track/5iM1qRfdkKgzs0HaShhno5"
@@ -1423,6 +1423,24 @@
       "duration_ms": 149750,
       "name": "Glide",
       "url": "https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa"
+    },
+    {
+      "album": {
+        "name": "Gone to seed",
+        "url": "https://open.spotify.com/album/7MvoXy4KLNxXMCBI6F3I8K"
+      },
+      "artists": [
+        {
+          "name": "Freda Barton",
+          "url": "https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144054,
+      "name": "Gone to seed",
+      "url": "https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN"
     },
     {
       "album": {
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 122000,
       "name": "Into the Quiet",
       "url": "https://open.spotify.com/track/6oAi4cX60wuvkZnCwIiQo2"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 183436,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/767vDO0LnaX7lzkK7i0qOG"
@@ -2726,6 +2744,24 @@
     },
     {
       "album": {
+        "name": "Ouarzazate",
+        "url": "https://open.spotify.com/album/1RJxkHUhvj6k3a7WGoIaX3"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137486,
+      "name": "Ouarzazate",
+      "url": "https://open.spotify.com/track/4KLHM8BsHxjA74q1H1wvnx"
+    },
+    {
+      "album": {
         "name": "Pescadores",
         "url": "https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj"
       },
@@ -2813,7 +2849,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 156444,
       "name": "Path",
       "url": "https://open.spotify.com/track/1Wz9by58bwMopMC2QPN8Z8"
@@ -3177,7 +3213,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 193564,
       "name": "Roots",
       "url": "https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo"
@@ -3213,7 +3249,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 145750,
       "name": "Rosarium",
       "url": "https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9"
@@ -3591,7 +3627,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 165746,
       "name": "Sweet Freedom",
       "url": "https://open.spotify.com/track/5qYDw7w2kta0cIAHWLk9Qm"

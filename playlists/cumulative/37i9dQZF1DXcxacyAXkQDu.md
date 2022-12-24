@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-820 songs - 2 day 0 hr 44 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+821 songs - 2 day 0 hr 48 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [I'll Never Love](https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 2:45 | 2022-07-08 |  |
 | [I'll Never Love](https://open.spotify.com/track/6ydqp7i7L6rYbw1TbvzKcH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/71kreixSBb0aUsk2gx0lcA) | 2:45 | 2022-03-24 | 2022-04-21 |
 | [I'm In Love with You](https://open.spotify.com/track/6CAJfBlMsYUtkI7fBAXE6Y) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [I'm In Love with You](https://open.spotify.com/album/0gx5amjwn5sJXZNOZJ0Agm) | 3:47 | 2021-12-21 | 2022-01-28 |
-| [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-12-10 |  |
+| [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-12-09 |  |
 | [I'm so in Love with You \(feat\. Seth Avett\)](https://open.spotify.com/track/4aVE92z0drZzYHKTk4ToVD) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [The War Inside](https://open.spotify.com/album/6gkVU0EDZmUJkGww1487z7) | 3:46 | 2022-01-07 |  |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-06-17 | 2022-06-19 |
 | [If I Go, I'm Goin](https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:27 | 2022-03-24 |  |
@@ -528,6 +528,7 @@
 | [Outside The Lines](https://open.spotify.com/track/6vrMIapvSDox4HSeQlvnsg) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Outside The Lines](https://open.spotify.com/album/1ZCtkvf9ED5IeVUUr5cE5y) | 3:19 | 2022-04-08 | 2022-04-21 |
 | [Paint](https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Young North \- EP](https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS) | 3:11 | 2022-03-24 | 2022-04-18 |
 | [Paint](https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Young North](https://open.spotify.com/album/5ERrBoi8CAlmG0pNLjLtsn) | 3:11 | 2022-07-08 |  |
+| [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2022-12-24 |  |
 | [Paper Planes](https://open.spotify.com/track/5GzgEC6pWf1USZsCtkG8yC) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Paper Planes](https://open.spotify.com/album/1k4PWPO9n9mMQyh1WGXog0) | 3:19 | 2021-12-21 |  |
 | [Paralyze](https://open.spotify.com/track/0qO99ZguateexWVK8FldWx) | [Bjørnskov](https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8) | [Paralyze](https://open.spotify.com/album/7pm91o5JePnTYkMnBLNydN) | 3:41 | 2021-12-21 | 2022-02-16 |
 | [Paris](https://open.spotify.com/track/2ozaVXDiuyTq4mesytqk6i) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/1FLOo1YhOnUHHyEezqyNEP) | 2:59 | 2021-12-21 | 2022-02-15 |
@@ -580,7 +581,7 @@
 | [Scared of Love](https://open.spotify.com/track/3sN0PsHUCr7C2W1G0vOMOY) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Scared of Love](https://open.spotify.com/album/6zxX2rDdkJxtILAlMxHtiM) | 2:49 | 2022-11-25 |  |
 | [Seasick Dream](https://open.spotify.com/track/1vL5bZNsFWVYED96IgWEIM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Seasick Dream](https://open.spotify.com/album/2HLWqyHfpx1npfiFSMosuZ) | 3:20 | 2022-12-02 |  |
 | [Seaside](https://open.spotify.com/track/0puUf8o9DMPD3ew6cX7UZt) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 3:26 | 2022-03-24 | 2022-11-14 |
-| [Secret](https://open.spotify.com/track/6QU5K23dgQ6kOca5INWOVB) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:55 | 2022-11-19 |  |
+| [Secret](https://open.spotify.com/track/6QU5K23dgQ6kOca5INWOVB) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:55 | 2022-11-19 | 2022-12-24 |
 | [Self Help](https://open.spotify.com/track/63h0JnHUva9HUbBIJTNtzX) | [Perrin Xthona](https://open.spotify.com/artist/1bNx6UhsCYSNuoIeL9LcnD), [Maria Landi](https://open.spotify.com/artist/66okkLiay2Lh07uDjZ8Hcs) | [Self Help](https://open.spotify.com/album/4TZ8HlWTrX9EbVbbPEyRM6) | 2:04 | 2022-04-08 | 2022-04-12 |
 | [selfish](https://open.spotify.com/track/5UldDT6jv6i7AwMZ4IZrZ5) | [Lua.](https://open.spotify.com/artist/6mmawxELp9o7kFYDPL5NeK) | [selfish](https://open.spotify.com/album/1ukWs5qkKzIcYUiOUDNgmN) | 2:46 | 2022-03-24 | 2022-03-30 |
 | [Sense of Home](https://open.spotify.com/track/68wibJU4yMiqNX79IaLAsN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/4uJY9pRMcABooRV50bf9Wu) | 4:25 | 2022-03-24 | 2022-04-19 |

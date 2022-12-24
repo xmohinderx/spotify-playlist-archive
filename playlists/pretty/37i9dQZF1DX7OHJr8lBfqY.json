@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 24217,
+  "num_followers": 24248,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDM4NzBmNmZhMzk1MmViNzcxM2UyNDYxYTAzZGMxNDk0",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDE5MTc1MzE3ZDIyNDY3NjI0YmMxODM5ODQ1MDU5N2Q5",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+      "duration_ms": 177255,
+      "name": "KESI",
+      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 177255,
-      "name": "KESI",
-      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Dividimos",
-        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 280916,
-      "name": "Dividimos (Bachata Version)",
-      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/6lPRVKGP5WnFGI46c4LVik"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 147493,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0gcOnIUKIG6JF56iFUfE0p"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Dividimos",
+        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 280916,
+      "name": "Dividimos (Bachata Version)",
+      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "No Drama (Cumbia Version)",
-        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "No Drama - Cumbia Version",
-      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Brindemos por Ellas",
         "url": "https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 219000,
       "name": "Brindemos por Ellas",
       "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "No Drama (Cumbia Version)",
+        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "No Drama - Cumbia Version",
+      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2123,26 +2123,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Goza Pelota",
-        "url": "https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Adonis MC",
-          "url": "https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Goza Pelota",
-      "url": "https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Suelta",
         "url": "https://open.spotify.com/album/0a75xzDuN6WBePejRqxLTZ"
       },
@@ -2159,6 +2139,26 @@
       "duration_ms": 204419,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5Pdw0kGwWndeTsbOfVrv3r"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Goza Pelota",
+        "url": "https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Adonis MC",
+          "url": "https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Goza Pelota",
+      "url": "https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR"
     },
     {
       "added_at": "2022-08-31 07:37:37",

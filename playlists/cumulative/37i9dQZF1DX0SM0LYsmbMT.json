@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 167770,
       "name": "Air",
       "url": "https://open.spotify.com/track/2WPlQnqZ3VMkv09nme29W3"
@@ -5485,7 +5485,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 106987,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/6jDf8XD3fMm3P1vMLvHZ6w"
@@ -7257,7 +7257,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 120176,
       "name": "Breath In",
       "url": "https://open.spotify.com/track/0TXCUXU1JfZ8JdVvaklwFG"
@@ -11201,7 +11201,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 160000,
       "name": "Coffeemaker",
       "url": "https://open.spotify.com/track/3Lz53wcrXWj1jnjHkWYEL7"
@@ -17199,7 +17199,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 122581,
       "name": "Everest",
       "url": "https://open.spotify.com/track/3vYouZujMonwhGjVFESJHe"
@@ -19607,7 +19607,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 156000,
       "name": "Forms",
       "url": "https://open.spotify.com/track/2pqYWyIGhCfZwGhhuVNeGN"
@@ -19673,7 +19673,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 102723,
       "name": "Fortune",
       "url": "https://open.spotify.com/track/2namVvGAaBKjeIm4spCMBT"
@@ -28149,7 +28149,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 175500,
       "name": "Joyful Tears",
       "url": "https://open.spotify.com/track/6eFHssRnf7lUs1HcZ0x5v2"
@@ -29301,7 +29301,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 152761,
       "name": "Kranam",
       "url": "https://open.spotify.com/track/30nT3prZFX5dITIbZGSbVA"
@@ -29367,7 +29367,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 139440,
       "name": "Krispl Alone",
       "url": "https://open.spotify.com/track/64VtmW9P5rbYb0y6btPCNg"
@@ -30731,7 +30731,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 130909,
       "name": "Leapfrog",
       "url": "https://open.spotify.com/track/31mjE9ld8Cbiy4KDDYBdVy"
@@ -36831,6 +36831,24 @@
     {
       "album": {
         "name": "Morning Glow",
+        "url": "https://open.spotify.com/album/6Z3F47a2bEhuZ2egTXUyRO"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97824,
+      "name": "Morning Glow",
+      "url": "https://open.spotify.com/track/3xN13sfbVEdS3rGRXcbuAp"
+    },
+    {
+      "album": {
+        "name": "Morning Glow",
         "url": "https://open.spotify.com/album/68aKOZGK0WeZkb5bDnscJE"
       },
       "artists": [
@@ -37315,7 +37333,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 178838,
       "name": "Mulberry",
       "url": "https://open.spotify.com/track/1Ty54xPt5arHKn6ecAF9M8"
@@ -38515,7 +38533,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 140250,
       "name": "Never Forget Where You Came From",
       "url": "https://open.spotify.com/track/6aaDGpzsEJCke8qwMVgao0"
@@ -38997,7 +39015,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 122926,
       "name": "Night Jam",
       "url": "https://open.spotify.com/track/21iOXhZjIM9V95zoUV1vaN"
@@ -39161,7 +39179,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "Night Watch",
       "url": "https://open.spotify.com/track/79Yw7tly4ekHIo0jQhXcIm"
@@ -41827,7 +41845,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 222000,
       "name": "Out for a Stroll",
       "url": "https://open.spotify.com/track/36Foss260ItalU4rLJhYks"
@@ -42329,7 +42347,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 127541,
       "name": "Palm Tree Of Life",
       "url": "https://open.spotify.com/track/2cScdl0XkjjMwxOaOUUDoj"
@@ -45710,6 +45728,24 @@
     },
     {
       "album": {
+        "name": "Red Wine",
+        "url": "https://open.spotify.com/album/7yUylVEJNkMmbycmOyP8yh"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/4SoO50cOu3MFFE1kgdKro9"
+    },
+    {
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/6LGzB9e27J02kAnuGFKTQX"
       },
@@ -46701,7 +46737,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 177937,
       "name": "Rising Moon",
       "url": "https://open.spotify.com/track/5IbwF6bzr5wlNFyK3UJpdT"
@@ -59211,7 +59247,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 196500,
       "name": "Trilemma",
       "url": "https://open.spotify.com/track/2LHy2bVew9xYEBda3CUHsw"
@@ -61679,7 +61715,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 156279,
       "name": "Voc\u00ea E Eu",
       "url": "https://open.spotify.com/track/5q6CnQ4SdMEp9eaTxsV4n5"
@@ -61775,7 +61811,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 133846,
       "name": "Volpaia",
       "url": "https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4"
@@ -62487,7 +62523,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 111724,
       "name": "warm quilt",
       "url": "https://open.spotify.com/track/3cHSIFhQreEfxLYY0weEq9"

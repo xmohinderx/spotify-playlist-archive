@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,820 likes - 69 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,145 likes - 69 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

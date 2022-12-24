@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-157 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
+162 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [At the end of the rainbow](https://open.spotify.com/track/2NbeFx2EkyKSBO6FgplMtu) | [Marla Palmer](https://open.spotify.com/artist/0Lb5pc59B3IA8uJj6eDcc1) | [At the end of the rainbow](https://open.spotify.com/album/0xoqZY93uOgFAoj5cgR5D0) | 1:07 | 2021-11-11 |  |
 | [Ave Maria](https://open.spotify.com/track/24ibSZ5jmqphjFRNZNS9QK) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Ave Maria](https://open.spotify.com/album/2wJ3eAgiajdmxhJOasus5a) | 2:12 | 2021-11-11 | 2022-01-22 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/4sivZLx2TJPQJOdSi4JJ9A) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 1](https://open.spotify.com/album/3wZWJPLXoP5Yi1tp0F2q4q) | 1:07 | 2022-04-22 |  |
+| [Baa Baa Black Sheep](https://open.spotify.com/track/2CRxToNRHKr24TS8e0Jcyl) | [Pia Rojas](https://open.spotify.com/artist/0dhlr2Kk6oiepKe5G3QLG9) | [Good Night Baby](https://open.spotify.com/album/1ld9IJ5EDnQbGnPyo1kNQy) | 1:48 | 2022-12-22 |  |
 | [Baby Schlaf](https://open.spotify.com/track/6lPOEtDEp60TrJgsNdsIw5) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby beruhigen mit Babymusik Vol.2](https://open.spotify.com/album/1KQBEv0ESMYIpktbDp6PXI) | 2:55 | 2021-11-11 | 2022-11-26 |
 | [Baby Sleep](https://open.spotify.com/track/5WyqPzL5Zq1gNQWyRJYen2) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 |  |
 | [Bä, bä, vita lamm](https://open.spotify.com/track/6htveJwcC07JoPa71x8ljE) | [Anna\-Lisa Hemming](https://open.spotify.com/artist/5YYU0jVhnwE2PyM0zBiaTw) | [Bä, bä, vita lamm](https://open.spotify.com/album/2vdvrIlyOOvzVoXRWj5jxg) | 1:56 | 2021-11-11 |  |
@@ -65,8 +66,10 @@
 | [Gymnopédie](https://open.spotify.com/track/0v7kquV0jG7radH78bvBgi) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Gymnopédie](https://open.spotify.com/album/3OWu5CyQaClgpCW8HktVkO) | 3:05 | 2021-11-11 | 2022-10-27 |
 | [Head Shoulders Knees And Toes](https://open.spotify.com/track/2CFgvvFJtqQo4E2ZzA8NdC) | [Zachary Landon](https://open.spotify.com/artist/6OBnS3jI2F9gSlemw9qalk) | [Head Shoulders Knees And Toes](https://open.spotify.com/album/1B71f2slh93Y2nebgTXpAJ) | 1:51 | 2021-11-11 |  |
 | [Hold My Hand](https://open.spotify.com/track/4VHOulCmJNhrmBj4hn49lz) | [Jonty Kitchen](https://open.spotify.com/artist/6iHkOcJyOSWq4YC0LpBO2L) | [Hold My Hand](https://open.spotify.com/album/4jBmAyPpxu69QyGrF66LV8) | 1:26 | 2022-06-10 |  |
+| [Hold my hand\-MusicBox](https://open.spotify.com/track/2bYwuhqFLx9lqhrtlFxykx) | [Eja Bergelin](https://open.spotify.com/artist/4wZnTEHFsSwqUmu8dLzD2X) | [Hold my hand](https://open.spotify.com/album/0crlgdoGLx3wu3zYSgebBz) | 1:50 | 2022-12-22 |  |
 | [I Dreamed a Dream](https://open.spotify.com/track/3hPskllCMXK9tpILi91N2A) | [Grete Viland](https://open.spotify.com/artist/2OSYysRadj7TcYllGf01Pr) | [I Dreamed a Dream](https://open.spotify.com/album/3nBAfREZvjGYEYQVD55p9U) | 2:35 | 2021-11-11 | 2022-06-11 |
 | [I Long For The Bed](https://open.spotify.com/track/0yTeB9CtqvLEjr2dI5RQI1) | [Rusty Everett](https://open.spotify.com/artist/6XzRNYTnp1uab8LvuYBaTg) | [I Long For The Bed](https://open.spotify.com/album/0O3TTJr25gQ4Dx6Iykal9k) | 1:31 | 2022-06-10 |  |
+| [I Love My PJ's](https://open.spotify.com/track/79gZS38DVrqoQFbhLow9qX) | [Kirsten Cagle](https://open.spotify.com/artist/5PccRblfC6x56aEc9QFFa6) | [I Love My PJ's](https://open.spotify.com/album/24RtwpeutabfT7z9Cvcxu5) | 1:20 | 2022-12-22 |  |
 | [I Love You](https://open.spotify.com/track/2ANrXzrdthrTcW7M7eN9Ow) | [Niles Hodges](https://open.spotify.com/artist/56QqQPFEpl4yfIYc5EHIc5) | [I Love You](https://open.spotify.com/album/2b8qJ3ImYhPzJzIeIMaMvw) | 1:34 | 2021-11-11 |  |
 | [I Want More S'mores!](https://open.spotify.com/track/2Z3GPJnVtRufB4ofJd8hJR) | [Laurene Woss](https://open.spotify.com/artist/49F4r3o5c5UQgy1AASNfEb) | [I Want More S'mores!](https://open.spotify.com/album/2Ppj1in5kz23W1TsvVybt4) | 1:08 | 2021-11-11 |  |
 | [If you could fly](https://open.spotify.com/track/4aDqhVtxy605zGBXp3XsxJ) | [Jervis Tollemache](https://open.spotify.com/artist/2RtsCV1nqcCjQ82JpCbtho) | [If you could fly](https://open.spotify.com/album/54k1esexpddjve7sUPnU4q) | 1:52 | 2021-11-11 |  |
@@ -100,6 +103,7 @@
 | [My Favorite Pyjamas](https://open.spotify.com/track/21aemMaPbPGfEGoiuIbJ2o) | [Grady Spears](https://open.spotify.com/artist/2GXt9sALXllpAl8Ywqc90Q) | [My Favorite Pyjamas](https://open.spotify.com/album/5JyQBOoHoDMqQ6hCOOd5RP) | 1:30 | 2022-06-30 |  |
 | [My Favorite Teddy](https://open.spotify.com/track/1KcZU1k4ZqGJA5P1pxf0LX) | [Kim Low](https://open.spotify.com/artist/1TpRygqPUvLFJOOMaQtmMX) | [My Favorite Teddy](https://open.spotify.com/album/2gLzKQI3XmcIBTsLilOspq) | 1:21 | 2022-06-10 |  |
 | [My Island](https://open.spotify.com/track/0utNwwCUb1Tfq1RnlNqss4) | [Jervis Tollemache](https://open.spotify.com/artist/2RtsCV1nqcCjQ82JpCbtho) | [My Island](https://open.spotify.com/album/4OvdeNw3yt0Q8P1Q4EvBBh) | 1:25 | 2021-11-11 |  |
+| [My Little Star](https://open.spotify.com/track/23aypbHAksxUr7JU8UjqcW) | [Lune and her Stars](https://open.spotify.com/artist/2ApLsZogwFmzn973ABA0sa) | [My Little Star](https://open.spotify.com/album/3nZdeP7vH15je3AUdoPnEf) | 1:43 | 2022-12-22 |  |
 | [My Lucky Star](https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [My Lucky Star](https://open.spotify.com/album/2E2SyWnuCwyejUGqVTYygu) | 1:42 | 2021-11-11 |  |
 | [My Night Story](https://open.spotify.com/track/68Q6EE8l8Wr76XCqjhGwzR) | [Codie Banner](https://open.spotify.com/artist/2zvjZSjUq7B9ECMj1aIuI6) | [My Night Story](https://open.spotify.com/album/7rP6wZZ1wYLtqLvKIRt4FA) | 1:48 | 2022-06-30 |  |
 | [My Own](https://open.spotify.com/track/58WENxytKUwwWfU9MhlRRf) | [Niles Hodges](https://open.spotify.com/artist/56QqQPFEpl4yfIYc5EHIc5) | [My Own](https://open.spotify.com/album/2w7uJhkF93qSjnoAAtoXmD) | 1:13 | 2022-06-10 |  |
@@ -131,6 +135,7 @@
 | [Sunbeam](https://open.spotify.com/track/5sN2ztotXMAalZaQmmfMeZ) | [Chiara Almanza](https://open.spotify.com/artist/1moO688fElQ5uMSbixmBya) | [Peace and Quiet](https://open.spotify.com/album/077PeucgkWd6GbZauVg4kL) | 2:11 | 2021-11-11 |  |
 | [Sunday Best](https://open.spotify.com/track/13JaY16Co0IQ86s2Zd9gXK) | [Liebe Glocken](https://open.spotify.com/artist/3p3unInQrETgfYGBCPatYA) | [Liebe Glocken](https://open.spotify.com/album/4N7Hefy1YjBOp9iQIPknLQ) | 3:01 | 2021-11-11 |  |
 | [Surrender](https://open.spotify.com/track/2Ad9LUxxFANeu2XZhwZOeA) | [Liebe Glocken](https://open.spotify.com/artist/3p3unInQrETgfYGBCPatYA) | [Liebe Glocken](https://open.spotify.com/album/4N7Hefy1YjBOp9iQIPknLQ) | 2:31 | 2021-11-11 |  |
+| [Sweet Sleep \(Music Box Version\)](https://open.spotify.com/track/56MgQbk9BpmwzgYn1JBwBO) | [Corall](https://open.spotify.com/artist/7qumeE7j7pkZXqSJRlnOAh) | [Sweet Sleep](https://open.spotify.com/album/1m9pxjmjJTdIrZb2ihH8wt) | 1:51 | 2022-12-22 |  |
 | [Swimming In The Sky](https://open.spotify.com/track/6vD6chblxLdWNorys9bg3X) | [Eugene Mayes](https://open.spotify.com/artist/1t9KJ8FeFMxdTMG4Bl6g6I) | [Swimming In The Sky](https://open.spotify.com/album/4oFkbqFZGBkNgQXHYLZEVY) | 1:28 | 2022-09-02 |  |
 | [The Blue Danub](https://open.spotify.com/track/0eOT0Fyd7TDeKAGWTnbfrO) | [Nappy Naps](https://open.spotify.com/artist/3kksb9EVU9RfPYMPTAl9Ju) | [Hush Little Baby](https://open.spotify.com/album/69BYBIDwAdbaI1DM5TL36s) | 1:16 | 2021-11-11 | 2022-02-11 |
 | [The Button Song](https://open.spotify.com/track/53asbytXgNUysTYzx36QKL) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [The Button Song](https://open.spotify.com/album/2GczQclNVTVpionfA4751C) | 1:05 | 2021-11-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Vishal Mishra",
+  "description": "New music from popular Hindi artists. Cover- Rito Riba",
   "name": "New Music Friday Hindi ",
   "published_playlist_ids": [
     "0VW1oqwEBCO9XMfaGKderP"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 243448,
       "name": "Akela",
       "url": "https://open.spotify.com/track/7kgNsbE5PjQq1eqinaZvEN"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 187428,
       "name": "Baawra Mann",
       "url": "https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz"
@@ -948,6 +948,24 @@
     },
     {
       "album": {
+        "name": "Barsan Lagi",
+        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219456,
+      "name": "Barsan Lagi",
+      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
+    },
+    {
+      "album": {
         "name": "Bas Tujhse Pyaar Ho",
         "url": "https://open.spotify.com/album/7f7sUKr0VLjEjwETcNjVYF"
       },
@@ -1069,6 +1087,24 @@
       "duration_ms": 196718,
       "name": "Benaqaab",
       "url": "https://open.spotify.com/track/3KDutI0zWNCsVDqxcymKNU"
+    },
+    {
+      "album": {
+        "name": "Bewajah Befikar",
+        "url": "https://open.spotify.com/album/7uHpJCGpRNNBI7lFNYCxwe"
+      },
+      "artists": [
+        {
+          "name": "Noel Toms",
+          "url": "https://open.spotify.com/artist/3k4ieeq8zZ9g68p2Uj7qwD"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228846,
+      "name": "Bewajah Befikar",
+      "url": "https://open.spotify.com/track/0gC7WMWu5PWc7JMEj1jH5l"
     },
     {
       "album": {
@@ -2090,6 +2126,24 @@
     },
     {
       "album": {
+        "name": "Ek Baar Keh Do",
+        "url": "https://open.spotify.com/album/15gs9OaQ0JXOrkDEgbHOVC"
+      },
+      "artists": [
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224016,
+      "name": "Ek Baar Keh Do",
+      "url": "https://open.spotify.com/track/6P4W1WnJmspwcoj9g49mHL"
+    },
+    {
+      "album": {
         "name": "Ek Din",
         "url": "https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1"
       },
@@ -2119,7 +2173,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 196915,
       "name": "Ek Ghar",
       "url": "https://open.spotify.com/track/1hkJ4tJwgFw8BpfT9C2alz"
@@ -2497,6 +2551,28 @@
       "duration_ms": 235058,
       "name": "Heer Meri",
       "url": "https://open.spotify.com/track/1iQDhmcdGpFjGbW0oWM3wn"
+    },
+    {
+      "album": {
+        "name": "Heer Ranjha - Reprise",
+        "url": "https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Heer Ranjha - Reprise",
+      "url": "https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh"
     },
     {
       "album": {
@@ -2999,7 +3075,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 209785,
       "name": "Jadu Salona",
       "url": "https://open.spotify.com/track/6Eq3E0eekWhb56ZPGCmE0L"
@@ -4623,7 +4699,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 191294,
       "name": "My Heeriye",
       "url": "https://open.spotify.com/track/0ui3bXDUEDSFoLmd69Pa8r"
@@ -7071,6 +7147,24 @@
       "duration_ms": 216000,
       "name": "Ultay Hor Zamane",
       "url": "https://open.spotify.com/track/0veyQHMx6swK9tlZhdo0vz"
+    },
+    {
+      "album": {
+        "name": "usko sab pata hai",
+        "url": "https://open.spotify.com/album/3IQPy3WlyofK9LjmvUEigT"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "usko sab pata hai",
+      "url": "https://open.spotify.com/track/2e02cHciVAiubNVpNYiLCO"
     },
     {
       "album": {

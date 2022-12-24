@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-322 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+323 songs - 21 hr 22 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Home](https://open.spotify.com/track/4xBzlpnMJryekTEICKsRiK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 2:36 | 2020-12-22 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 | 2020-12-22 | 2022-11-23 |
 | [Horizon \- Poolside Remix](https://open.spotify.com/track/1pZLRkzmhVCNMtvsSNq4Bp) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Horizon \(Poolside Remix\)](https://open.spotify.com/album/2Wm1dPwEOiM0uOHpj8oy3D) | 5:51 | 2020-12-22 | 2022-04-18 |
-| [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2021-03-19 |  |
+| [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2021-03-19 | 2022-12-24 |
 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 | 2020-12-22 |  |
 | [hyperspeed](https://open.spotify.com/track/3km6muXi6ToiRirTJLkgzr) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [hyperspeed](https://open.spotify.com/album/55fj2jwBrgsuw4JmT5jusG) | 3:18 | 2022-07-08 | 2022-07-29 |
 | [Hémisphère](https://open.spotify.com/track/2xIUT6emYrLwuQLhLBf7PH) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/500EIkxZ1MFSKHESVxWR0k) | 7:13 | 2020-12-22 | 2022-04-18 |
@@ -241,6 +241,7 @@
 | [Santé](https://open.spotify.com/track/6jow31AYUbHoTW6OlX0mP1) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Santé](https://open.spotify.com/album/0BmPe2VtJIG1Zv7p5IQSAN) | 1:38 | 2020-12-22 | 2022-04-18 |
 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2021-03-19 |  |
 | [See You Again](https://open.spotify.com/track/26gAJmT5PipdLamyFMy7c8) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/6oRdKgJrTM7mNHNhCZZYs6) | 4:22 | 2021-03-19 | 2022-07-29 |
+| [Shine a Light \- Flight Facilities Remix](https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh) | [The C90s](https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Shine a Light](https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG) | 5:49 | 2020-12-22 |  |
 | [Shine A Light \- Flight Facilities Remix](https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd) | [The C90s](https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Shine A Light](https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9) | 5:49 | 2020-12-22 | 2022-11-20 |
 | [Simple](https://open.spotify.com/track/05LiQlMRX2PlThoHWPjGae) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Simple](https://open.spotify.com/album/4w3xE0xHZhglqAd8hXofGw) | 3:48 | 2020-12-22 | 2022-04-19 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2020-12-22 |  |

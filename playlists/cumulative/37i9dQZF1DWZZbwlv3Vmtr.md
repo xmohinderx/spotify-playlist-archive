@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-670 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+672 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2022-12-09 |  |
 | [Touch It](https://open.spotify.com/track/2293GzJHceVDK6bJCISEmQ) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Touch It](https://open.spotify.com/album/4SN65gYWILrk3439N1zvdg) | 1:53 | 2022-06-10 | 2022-11-21 |
 | [Touch It](https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Avola](https://open.spotify.com/album/5n1LCUeJv4IOkJwZVxCIEL) | 1:53 | 2022-11-11 |  |
+| [touring](https://open.spotify.com/track/5oMoDylmKjg2dEv00OmP6V) | [ted traver](https://open.spotify.com/artist/08j9BSeKARV01FHZ9FwbpZ) | [touring](https://open.spotify.com/album/684fYtehLjITRbiCEk2E1I) | 2:53 | 2022-12-23 |  |
 | [Toys](https://open.spotify.com/track/0uA5haTZ3KkIWXReBo9PX1) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [XYZ](https://open.spotify.com/album/4EBEcFilrfd78jF1pIUe2M) | 2:22 | 2022-04-15 |  |
 | [Trading Bikes](https://open.spotify.com/track/58eukN93h5b7rBlbcR6owz) | [Ewert](https://open.spotify.com/artist/1ZUxK62OchtduzQOHN86Di) | [Trading Bikes](https://open.spotify.com/album/1ElL26L8Fo4svRK6FrBrEh) | 2:57 | 2022-04-15 | 2022-04-22 |
 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 | 2022-04-15 | 2022-07-29 |
@@ -644,6 +645,7 @@
 | [volaplano](https://open.spotify.com/track/3BUng8CnQavbNL9uDbUe4M) | [Atiø](https://open.spotify.com/artist/5KNCtLgN5682p529MZ2N3n) | [volaplano](https://open.spotify.com/album/1glAViCRZ1n24UHHQ7Lk6t) | 1:47 | 2022-07-08 | 2022-12-10 |
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Flash Dry](https://open.spotify.com/artist/1zmoasbVWHtHxY22AoyBCs) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-15 |  |
 | [Vueltas](https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV) | [Vueltas](https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK) | 1:55 | 2022-09-23 |  |
+| [Wake up early](https://open.spotify.com/track/70ILhZLYGwOdy89qcgukNt) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Wake up early](https://open.spotify.com/album/6cuwMMluBEGhHasOPbWl7k) | 2:20 | 2022-12-23 |  |
 | [wandsworth park](https://open.spotify.com/track/4fWFGd70ErhNWIr3B1caod) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [wandsworth park](https://open.spotify.com/album/3uTFiBnVfCwU8mOaPtpqOb) | 1:47 | 2022-04-15 |  |
 | [want ya](https://open.spotify.com/track/6HV10yCjxRNOM0prvTdfhj) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX) | [want ya](https://open.spotify.com/album/4d75yP2t7jB1gBRsPNt7S9) | 2:18 | 2022-04-15 | 2022-07-29 |
 | [Warm Breeze](https://open.spotify.com/track/5728OBye3peeIkv9qlps0H) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warm Breeze](https://open.spotify.com/album/0Bm5guq2GPsGYGhfGo5PJu) | 2:24 | 2022-04-15 | 2022-07-08 |

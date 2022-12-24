@@ -4304,6 +4304,24 @@
     },
     {
       "album": {
+        "name": "outdoors",
+        "url": "https://open.spotify.com/album/6B0e6J5jSyFryQ9TiPAlYI"
+      },
+      "artists": [
+        {
+          "name": "GM Nanashi",
+          "url": "https://open.spotify.com/artist/3UGhltIiwrExCxs5CjJQFh"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139057,
+      "name": "outdoors",
+      "url": "https://open.spotify.com/track/5fEU8VYP1yto7mugwoPqvi"
+    },
+    {
+      "album": {
         "name": "overcast",
         "url": "https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF"
       },
@@ -4445,6 +4463,28 @@
       "duration_ms": 150955,
       "name": "picnic blanket",
       "url": "https://open.spotify.com/track/3gcHdJFeWqf8xXjlwxbatl"
+    },
+    {
+      "album": {
+        "name": "Piece Of Mind",
+        "url": "https://open.spotify.com/album/5v7xOzrMsvse3qcKqDr4Iy"
+      },
+      "artists": [
+        {
+          "name": "Botram",
+          "url": "https://open.spotify.com/artist/0k2TLULCjH6fGrGHa83yTu"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143442,
+      "name": "Piece Of Mind",
+      "url": "https://open.spotify.com/track/5OSf4uYa3fNUghwbZoGg7W"
     },
     {
       "album": {
@@ -4915,7 +4955,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 129141,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd"
@@ -5457,7 +5497,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 134400,
       "name": "Springy",
       "url": "https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB"

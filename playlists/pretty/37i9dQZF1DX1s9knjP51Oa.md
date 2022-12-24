@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Slow down with some calming keys and relaxing piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,935 likes - 283 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,148 likes - 283 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 94 | [Serenade](https://open.spotify.com/track/4eOuwMCVbEnUx6O7rjsoKw) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Serenade](https://open.spotify.com/album/2Y8wMNppPqzJcntikfChbK) | 2:41 |
 | 95 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 |
 | 96 | [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 |
-| 97 | [Daydreamer](https://open.spotify.com/track/0QVOz1Ciduo7miwdCMAeRD) | [Ronan Spoor](https://open.spotify.com/artist/1MeRseIlQhsx4BksnKLHZ0) | [Daydreamer](https://open.spotify.com/album/3seGUQqyvqEZoCKJPidgeJ) | 2:37 |
+| 97 | [Daydreamer](https://open.spotify.com/track/0QVOz1Ciduo7miwdCMAeRD) | [Ronan Spoor](https://open.spotify.com/artist/1MeRseIlQhsx4BksnKLHZ0) | [Daydreamer](https://open.spotify.com/album/3seGUQqyvqEZoCKJPidgeJ) | 2:36 |
 | 98 | [Lendama](https://open.spotify.com/track/6VS88EyMGTbNowgV5TBeal) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Lendama](https://open.spotify.com/album/3MAaAKb7KhZx0lW9IiVwLb) | 2:45 |
 | 99 | [Dancing the twelve](https://open.spotify.com/track/2yDIfosvpcbhKj3liMHZov) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Dancing the twelve](https://open.spotify.com/album/2UTmoOVrkHOflkHZH7Nx6S) | 2:38 |
 | 100 | [Play You a Song](https://open.spotify.com/track/0uK4AAlSHrO037pClTccfp) | [Yichu Ann Chen](https://open.spotify.com/artist/6ZKZfb4BMulwGKbB6XBcds) | [Play You a Song](https://open.spotify.com/album/4xjr0robvMhlBsvkmTorbN) | 1:56 |

@@ -197,10 +197,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 443800,
       "name": "BMW Track",
       "url": "https://open.spotify.com/track/0gpMU1RQvZdPLLp8wpJzBF"
+    },
+    {
+      "album": {
+        "name": "BMW Track",
+        "url": "https://open.spotify.com/album/5kCMzwAQ2IipDAYmUUt1Qn"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443800,
+      "name": "BMW Track",
+      "url": "https://open.spotify.com/track/1dkaug0lOb0SEd4H7jfTvl"
     },
     {
       "album": {

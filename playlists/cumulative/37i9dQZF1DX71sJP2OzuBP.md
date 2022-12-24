@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-478 songs - 1 day 7 hr 22 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
+479 songs - 1 day 7 hr 25 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [He Says, She Says](https://open.spotify.com/track/426lTZ051McVamaBnlbCaR) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [He Says, She Says](https://open.spotify.com/album/4J10tX4X1ygODR1tZraVeS) | 4:24 | 2022-11-21 |  |
 | [Hi](https://open.spotify.com/track/2kkndMBAsQJ50ZDRzB5YD5) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47), [麋先生 聖皓](https://open.spotify.com/artist/2f4KWRo28DeC9ejEfJdL5E) | [Hi](https://open.spotify.com/album/6EaSBcD0MOcWecMTWVgeol) | 4:48 | 2022-06-06 | 2022-07-26 |
 | [Hidden Pain \- "The Post\-Truth World"Theme Song](https://open.spotify.com/track/712hyUlf98lUI5ajbx5tO3) | [Edward Chen](https://open.spotify.com/artist/0dfSUAJNqVKUe9Zqs2gQoY) | [Hidden Pain \("The Post\-Truth World"Theme Song\)](https://open.spotify.com/album/4W4AVddVY0UFubgOKrmv0A) | 4:21 | 2022-10-31 | 2022-11-15 |
-| [Hit The Wall](https://open.spotify.com/track/21mOAEChaaPLdvEFHsQkDF) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF), [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [Hit the Wall](https://open.spotify.com/album/5TFeCd5Y78CtyiPoiMv7aA) | 3:07 | 2022-12-19 |  |
+| [Hit The Wall](https://open.spotify.com/track/21mOAEChaaPLdvEFHsQkDF) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF), [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [Hit the Wall](https://open.spotify.com/album/5TFeCd5Y78CtyiPoiMv7aA) | 3:07 | 2022-12-19 | 2022-12-24 |
+| [Hit The Wall](https://open.spotify.com/track/3I1VHUnCsxLDqzo9uQ6XYU) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF), [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [Get My Way Up](https://open.spotify.com/album/1DPew0YabfWxWx7yZbYVY7) | 3:08 | 2022-12-19 |  |
 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 | 2022-09-06 |
 | [Honey Honey](https://open.spotify.com/track/4cq105n8KcagpXoxvihMBo) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [Honey Honey](https://open.spotify.com/album/0qpZEg7VBqYfjZJE5BnMVE) | 3:27 | 2022-06-13 | 2022-06-28 |
 | [I Heard You](https://open.spotify.com/track/0AZk9y3RghBK7bCbW3jXkY) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [I Heard You](https://open.spotify.com/album/6DahZHcpYZYMghQwRWSiG2) | 4:05 | 2022-09-05 | 2022-11-18 |

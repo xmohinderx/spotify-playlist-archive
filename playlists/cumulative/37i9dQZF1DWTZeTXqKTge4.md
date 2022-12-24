@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Rymz
+> Le meilleur du hip\-hop québécois\. Photo: DawaMafia
 
-323 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+325 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Big boy](https://open.spotify.com/track/3evB6yurMLTf8UnKV3QrXX) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Big boy](https://open.spotify.com/album/1UvtLl4a9eOFUKcE6fhXw7) | 2:29 | 2022-10-14 | 2022-12-10 |
 | [Big Boy Things](https://open.spotify.com/track/6N19wBDJfylFojLYJ7hNfe) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Big Boy Things](https://open.spotify.com/album/44hF4hdSHeGdP5Tpz2FIQR) | 2:59 | 2022-01-07 | 2022-02-19 |
 | [Big Fax](https://open.spotify.com/track/2NWg71pvlmO2Md4NGNiY1p) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Vulgaire démonstration d'ignorance](https://open.spotify.com/album/4mCOFo6pAAnmNnPeILWhd0) | 3:59 | 2022-01-07 | 2022-04-02 |
+| [Billie](https://open.spotify.com/track/0AKpIDr4aCRTQY8ebSlbes) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Billie](https://open.spotify.com/album/2sorTEePV03yWplyfjgs8e) | 2:42 | 2022-12-23 |  |
 | [Bisou Létal](https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Bisou Létal](https://open.spotify.com/album/58RPzzvZJu8GS6FKyrkvNm) | 4:03 | 2022-12-02 |  |
 | [Bizarre](https://open.spotify.com/track/2IrTgjztzr7vjmVHQVeX36) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Bizarre](https://open.spotify.com/album/7MccU2BmWKV2ZdIuNLfSML) | 3:12 | 2022-07-22 | 2022-10-15 |
 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 | 2022-09-09 |  |
@@ -102,6 +103,7 @@
 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 | 2022-07-22 |  |
 | [Dangerous](https://open.spotify.com/track/5i3geg5F4TESsafrZe66tv) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:41 | 2022-07-22 |  |
 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 | 2022-01-07 | 2022-05-28 |
+| [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 | 2022-12-23 |  |
 | [Dans Mon Prime](https://open.spotify.com/track/0KfUo1t8ua38q9PNKEwRId) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [Dans Mon Prime](https://open.spotify.com/album/4NiIcLGYk7ej0l1M2eKEEI) | 2:22 | 2022-09-30 | 2022-12-03 |
 | [De l'autre côté](https://open.spotify.com/track/2Z0ObzjhgPxZ3UwNgCCCxb) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [De l'autre côté](https://open.spotify.com/album/1Vlp18zkHHRi1q85BBAnKb) | 2:49 | 2022-03-25 | 2022-04-23 |
 | [DEEP DAYS](https://open.spotify.com/track/6CuwozV7dcu1enmRuOIsTT) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:31 | 2022-11-25 | 2022-12-17 |
@@ -140,7 +142,7 @@
 | [Freestyle 445](https://open.spotify.com/track/2Nlq4s9oWESKTbiUXcU7tH) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg), [Bachiflow](https://open.spotify.com/artist/4QaFinNAPercXkfpYbU8Yi), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [Freestyle 445](https://open.spotify.com/album/6V37dvZfMDwxecbDNYL4Cx) | 3:38 | 2022-01-07 | 2022-02-05 |
 | [Fruit défendu](https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Fruit défendu](https://open.spotify.com/album/46hTeni6rzDZApaurPprXj) | 3:22 | 2022-10-21 |  |
 | [Fuck That](https://open.spotify.com/track/0aPy6slOERNdDUvz0HvGSl) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:34 | 2022-01-07 | 2022-01-15 |
-| [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 | 2022-09-02 |  |
+| [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 | 2022-09-02 | 2022-12-24 |
 | [Future Ex](https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Un jour de plus au paradis](https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd) | 3:01 | 2022-12-09 |  |
 | [G.O.A.T.S.](https://open.spotify.com/track/6uaVCeRwAK0esY2xPlKVby) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Couleurs primaires : Rouge](https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k) | 4:07 | 2022-01-07 | 2022-05-28 |
 | [Gang Way](https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable](https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu) | 3:24 | 2022-01-07 | 2022-06-18 |
@@ -270,7 +272,7 @@
 | [Rien de moins](https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Rien de moins](https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG) | 2:54 | 2022-03-18 | 2022-05-20 |
 | [Ring 3x](https://open.spotify.com/track/6w8joIVK7Bh4vD3QFq0959) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Ring 3x](https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG) | 2:44 | 2022-09-02 | 2022-10-01 |
 | [Risque](https://open.spotify.com/track/4jH3ztl0lHmltux05WwZTy) | [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Risque](https://open.spotify.com/album/3fUq3cuqBk7NPJROi9XzHo) | 3:03 | 2022-05-13 | 2022-11-26 |
-| [Risqué](https://open.spotify.com/track/5jtT4TQqdgBUTHuM9zPuAr) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Risqué](https://open.spotify.com/album/4NCssbQeT9blbPPK05AYX5) | 2:39 | 2022-05-20 |  |
+| [Risqué](https://open.spotify.com/track/5jtT4TQqdgBUTHuM9zPuAr) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Risqué](https://open.spotify.com/album/4NCssbQeT9blbPPK05AYX5) | 2:39 | 2022-05-20 | 2022-12-24 |
 | [Robinet](https://open.spotify.com/track/1hhauQb9OKmDwKTIgVc5Rb) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Pour le Plug](https://open.spotify.com/album/5GNxVamL0c9jskb9gUNOCm) | 3:18 | 2022-01-07 | 2022-01-29 |
 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 | 2022-02-25 | 2022-09-10 |
 | [Rose Noire](https://open.spotify.com/track/2iGj1Dgx5M5eYBjw7vgKsc) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Rose Noire](https://open.spotify.com/album/1RXI1kOEhiitv0f8lUENJj) | 3:22 | 2022-01-28 | 2022-06-18 |

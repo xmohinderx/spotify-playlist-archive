@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-265 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+267 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Frivolous](https://open.spotify.com/track/1fVj0isyvpOfiLYonUNnte) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Frivolous](https://open.spotify.com/album/0aRy2vynizabbfMoWyIHLC) | 3:18 | 2022-05-20 |  |
 | [Frizzante](https://open.spotify.com/track/4Z3LHseTfnS6ruxRdaamd4) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Frizzante](https://open.spotify.com/album/46dTeuPN4j59oS7Of3Pw0q) | 2:46 | 2022-05-20 | 2022-09-09 |
 | [Frozen Melon](https://open.spotify.com/track/4aDawTeN0gQDjEfnjOypys) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Frozen Melon](https://open.spotify.com/album/1rKg16pg1RinubPEpLoYzy) | 2:52 | 2022-08-12 |  |
+| [Funky Pants](https://open.spotify.com/track/4M3Ro7Zm7YwwOs0myAyNRX) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Funky Pants](https://open.spotify.com/album/5MH1eeTcdHLfVr9M6vYVdz) | 4:33 | 2022-12-23 |  |
 | [Gambia](https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gambia](https://open.spotify.com/album/6MBaL1snqhQFgwVM5SwaFT) | 3:57 | 2022-05-20 | 2022-09-09 |
 | [gazebo](https://open.spotify.com/track/3Qgy3QzMADRo7qaoxwat6t) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [gazebo](https://open.spotify.com/album/7lyb7WQmt4h3wr8rXm6nME) | 2:51 | 2022-10-14 |  |
 | [Gemini 4](https://open.spotify.com/track/37KOVFK6gSmgBTcDysJdSa) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gemini 4](https://open.spotify.com/album/7sSJF6N7CktJMLjBn8FWGo) | 2:57 | 2022-05-20 | 2022-09-09 |
@@ -269,6 +270,7 @@
 | [Wave Machine](https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [Wave Machine](https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic) | 2:41 | 2022-05-20 | 2022-09-02 |
 | [We Go Away](https://open.spotify.com/track/17o75NcuAZ7BkajsD9fUp4) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [We Go Away](https://open.spotify.com/album/3GnzsuiimsoskGd7ewgeC8) | 2:04 | 2022-09-02 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-05-20 |  |
+| [windy](https://open.spotify.com/track/66Zkukly3nhqjfMD3zt7iG) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [windy](https://open.spotify.com/album/4iGHvmJJwnvxpnBfDs0WT4) | 1:55 | 2022-12-23 |  |
 | [Wurk for the $](https://open.spotify.com/track/7a17r9HOHvn9L1ZfhWEsdi) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [A Taste of You](https://open.spotify.com/album/3H2aukbnHawy8sU83q4TtG) | 2:43 | 2022-10-28 |  |
 | [Yeesh Euphemism](https://open.spotify.com/track/5XE4be6dC1jBUIfVNceNxx) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [OMG Coffee](https://open.spotify.com/album/0VA0nwREAwUZ2QBdRoTPa5) | 3:05 | 2022-07-29 | 2022-09-17 |
 | [Young Guns](https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Young Guns](https://open.spotify.com/album/7yg546r9ibdZQXlDB3C8qr) | 3:03 | 2022-10-07 |  |

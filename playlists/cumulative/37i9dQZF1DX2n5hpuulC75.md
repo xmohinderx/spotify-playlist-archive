@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-124 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+125 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Every High](https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High](https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl) | 3:33 | 2018-12-11 |  |
 | [Every High](https://open.spotify.com/track/7vLqTNvm9cBl74CeiWmcId) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High / Clear Air](https://open.spotify.com/album/49QehWRE2HdUglkzcysZW9) | 3:33 | 2018-12-11 | 2022-07-29 |
 | [Faces](https://open.spotify.com/track/56pbX11yH6Ud2nuprJ111k) | [Mantis Hands](https://open.spotify.com/artist/1iqF9deWyPSHS48JzVFUk4), [Takkin](https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d) | [Faces](https://open.spotify.com/album/5z0nZiOFUEMlewHJXY3ot4) | 3:30 | 2019-03-18 | 2022-07-29 |
+| [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 | 2018-12-11 |  |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(The Remixes\)](https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1) | 3:14 | 2018-12-11 | 2022-12-19 |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(Medasin Remix\)](https://open.spotify.com/album/4zeRHgIHK8iRQ7vs3t1BJF) | 3:14 | 2018-12-11 | 2022-07-29 |
 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 | 2018-12-11 |  |
@@ -89,7 +90,7 @@
 | [Never Meant To Call](https://open.spotify.com/track/5b5wCUEao71E5iME5fPl93) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant To Call](https://open.spotify.com/album/3TZUFqDwQsrmzY5d7cXYdy) | 2:57 | 2019-03-18 | 2022-06-03 |
 | [Never Meant To Call](https://open.spotify.com/track/6EsqBwYeOSZt70H8DAvPNZ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/6cHSPyCfHzEGfieuGuqFhz) | 2:57 | 2019-03-18 | 2022-10-28 |
 | [Nylon](https://open.spotify.com/track/4PfP4WMGO1ltuffPS27Bll) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Nylon](https://open.spotify.com/album/3F5itcyJtIPXSaMjrY0jao) | 4:14 | 2018-12-11 | 2022-07-29 |
-| [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 | 2018-12-11 |  |
+| [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 | 2018-12-11 | 2022-12-24 |
 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 | 2018-12-11 |  |
 | [Our Story](https://open.spotify.com/track/7maiE63ONZi5yNKrOgDM5N) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/4OXuwBr50gwiaYgjBnUiOj) | 2:25 | 2018-12-11 | 2022-07-25 |
 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 | 2019-06-07 |  |

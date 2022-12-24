@@ -2324,6 +2324,40 @@
     },
     {
       "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3JtrsZzAxhjO8n9YDz0Fw5"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "BOOGEY VOXX",
+          "url": "https://open.spotify.com/artist/3VAdXfwUyM3Z1KvtnPlllq"
+        },
+        {
+          "name": "D.watt(IOSYS)",
+          "url": "https://open.spotify.com/artist/0t8quIImGrrY7TD7uW2twd"
+        },
+        {
+          "name": "\u65e5\u9ad8\u96f6\u5948 (CV: \u8500 \u7950\u4f73)",
+          "url": "https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz"
+        },
+        {
+          "name": "D.watt",
+          "url": "https://open.spotify.com/artist/7jEjiWsuWaoWwNS9I8CtJr"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327586,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/42c2s0zb9FT06MvOeQJrSS"
+    },
+    {
+      "album": {
         "name": "Sweet Illusion",
         "url": "https://open.spotify.com/album/5UkeLvWAFmmCo4ogCKQ2ZL"
       },

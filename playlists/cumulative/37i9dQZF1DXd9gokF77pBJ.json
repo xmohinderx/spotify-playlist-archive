@@ -470,24 +470,6 @@
     },
     {
       "album": {
-        "name": "I'm Coming on the Scene",
-        "url": "https://open.spotify.com/album/4o03e5C0jhzgRwLwls7gBV"
-      },
-      "artists": [
-        {
-          "name": "Mary Hubert \u200e",
-          "url": "https://open.spotify.com/artist/5Go8NXGC6mzMUWj7frJgvJ"
-        }
-      ],
-      "date_added": "2022-07-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 333933,
-      "name": "I'm Coming on the Scene - Dance Mix",
-      "url": "https://open.spotify.com/track/03D5kL0VCxprd9Whxs0GUl"
-    },
-    {
-      "album": {
         "name": "Italiana Vol. 2",
         "url": "https://open.spotify.com/album/7ednEENmMOClNIW1g3BBGK"
       },
@@ -1079,6 +1061,24 @@
       "duration_ms": 443093,
       "name": "Watch Out - Remix",
       "url": "https://open.spotify.com/track/5ftOo80c8NVs7Hf0q7zyFY"
+    },
+    {
+      "album": {
+        "name": "I'm Coming on the Scene",
+        "url": "https://open.spotify.com/album/4o03e5C0jhzgRwLwls7gBV"
+      },
+      "artists": [
+        {
+          "name": "Mary Hubert \u200e",
+          "url": "https://open.spotify.com/artist/5Go8NXGC6mzMUWj7frJgvJ"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333933,
+      "name": "Why Can't We Live Together - Dance Mix",
+      "url": "https://open.spotify.com/track/03D5kL0VCxprd9Whxs0GUl"
     },
     {
       "album": {

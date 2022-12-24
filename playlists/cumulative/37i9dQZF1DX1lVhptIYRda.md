@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Gabby Barrett
+> Today's top country hits of the week, worldwide! Cover: Kane Brown
 
 578 songs - 1 day 7 hr 10 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 

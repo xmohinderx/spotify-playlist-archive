@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 | 2022-12-22 |
+| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 |  |
 | [4\-U](https://open.spotify.com/track/3rOzx4VaqWIUmeod4k6Nc9) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Talk to Me When I'm Sober](https://open.spotify.com/album/4yKXpjNgwKMszBOUXYEFiv) | 3:45 | 2021-04-02 | 2022-04-21 |
 | [49 Years](https://open.spotify.com/track/0D0qXcu6qTrrVls156VipG) | [Club Kuru](https://open.spotify.com/artist/1AdQnmF6taa106PwtUBK6O) | [49 Years](https://open.spotify.com/album/2iuyzz6hPfbEBJEgikgoi6) | 3:56 | 2021-04-02 | 2022-04-21 |
 | [A Heavy Drug](https://open.spotify.com/track/0ZrT7h8W04PDhxTSBgsdrU) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Whatever & Ever](https://open.spotify.com/album/4EX14bfjBceEPyq5a3LAKI) | 5:26 | 2021-06-04 | 2022-04-18 |
@@ -355,7 +355,7 @@
 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 | 2022-10-24 |  |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-02 |  |
 | [Magician's Success](https://open.spotify.com/track/3vSXiWYvRzOEmo1oVY3aRi) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Magician's Success](https://open.spotify.com/album/0EayMatCBa2FqZMHSJdqmu) | 3:55 | 2021-04-02 | 2022-04-20 |
-| [Magma](https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3) | [Scrimmage](https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6) | [Magma](https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z) | 2:18 | 2022-11-10 |  |
+| [Magma](https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3) | [Scrimmage](https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6) | [Magma](https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z) | 2:18 | 2022-11-10 | 2022-12-24 |
 | [MAMA](https://open.spotify.com/track/1aux5x0f4A3D7yFTtMXoAy) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [MAMA](https://open.spotify.com/album/1Qa8QAD33hHiC9WzDTZD8W) | 4:05 | 2021-06-11 | 2022-04-21 |
 | [Maps](https://open.spotify.com/track/0zWyIZOIBPtSEpAIfNiCb8) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/2Atz9f2tBNGwjQEuOsYayk) | 4:36 | 2022-07-11 | 2022-07-29 |
 | [Maps](https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z) | 4:36 | 2022-10-24 |  |

@@ -200,6 +200,24 @@
     },
     {
       "album": {
+        "name": "A Long Drive",
+        "url": "https://open.spotify.com/album/08NROFnr3Sc5Qm8SgJKiJy"
+      },
+      "artists": [
+        {
+          "name": "Poof Tricks",
+          "url": "https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "A Long Drive",
+      "url": "https://open.spotify.com/track/1fRbfvESFZvhmCyxHLibqJ"
+    },
+    {
+      "album": {
         "name": "Afternoon",
         "url": "https://open.spotify.com/album/39En3GzypUKMVJ3DVn2En8"
       },
@@ -973,6 +991,24 @@
       "duration_ms": 153600,
       "name": "Coleiro - Instrumental",
       "url": "https://open.spotify.com/track/4RXhpLWyXaR8sR8I8bognS"
+    },
+    {
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/5QGZaA2Qjnt4BXq4H7Qk1r"
+      },
+      "artists": [
+        {
+          "name": "Willis.",
+          "url": "https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153077,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/3SJaPZuiVpXs2FTWkPTlBP"
     },
     {
       "album": {
@@ -2229,6 +2265,32 @@
       "duration_ms": 108672,
       "name": "Head Nod",
       "url": "https://open.spotify.com/track/28nvmtm4Bzo7hrg3oxo9aZ"
+    },
+    {
+      "album": {
+        "name": "Heads Up, Future Is Up Ahead",
+        "url": "https://open.spotify.com/album/34txE8mNOt12VwtuWObIAU"
+      },
+      "artists": [
+        {
+          "name": "Funky Fella",
+          "url": "https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA"
+        },
+        {
+          "name": "Hush Puppy",
+          "url": "https://open.spotify.com/artist/7xYwUK1Ht37MUfe5XES2QZ"
+        },
+        {
+          "name": "Mortal K.O. Lab",
+          "url": "https://open.spotify.com/artist/7K4mechJNIRVfDwzNDgCFl"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156081,
+      "name": "Heads Up, Future Is Up Ahead",
+      "url": "https://open.spotify.com/track/180M46xtw5OpCKtP6s8Nyc"
     },
     {
       "album": {
@@ -4817,6 +4879,24 @@
       "duration_ms": 144859,
       "name": "So Ready",
       "url": "https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp"
+    },
+    {
+      "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/0hFvJWCitJZox4A8xlAhhW"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/1tsO1DsOGpK7D831Zc9NBi"
     },
     {
       "album": {

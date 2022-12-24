@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 42308,
+  "num_followers": 42526,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxODQ5NSwwMDAwMDAwMDgyMzQ3MGU4NzViNTRiOGZlYWM3MmY2NjA1YWFkYmIy",
+  "snapshot_id": "MTY3MDQxODQ5NSwwMDAwMDAwMDcyMDFlOGMxMDIyN2EwZTg0Yjk3ZDE1Y2MxY2Q0OWU3",
   "tracks": [
     {
       "added_at": "2022-12-01 13:54:19",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 354666,
-      "name": "Young And Foolish",
-      "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
+      "duration_ms": 235760,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -295,18 +295,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 235760,
-      "name": "If I Should Lose You",
-      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
+      "duration_ms": 354666,
+      "name": "Young And Foolish",
+      "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -667,6 +667,26 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 315773,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 287973,
       "name": "There's No You",
       "url": "https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 315773,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
+        "name": "All For You (A Dedication To The Nat King Cole Trio)",
+        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
       },
       "artists": [
         {
-          "name": "Beverly Kenney",
-          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 211906,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
+      "duration_ms": 297173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "All For You (A Dedication To The Nat King Cole Trio)",
-        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Beverly Kenney",
+          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
         }
       ],
-      "duration_ms": 297173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
+      "duration_ms": 211906,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Somewhere over the Rainbow",
-        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Say It Isn't So",
-      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "It's All Over But The Swingin'",
         "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 280093,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Somewhere over the Rainbow",
+        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Say It Isn't So",
+      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 184253,
       "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
       "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Roulette Sessions In Love",
-        "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Somebody Else Is Taking My Place",
-      "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Jazz Noir",
         "url": "https://open.spotify.com/album/7CgE3mxQpB67UZRv6zYQlv"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/1iIwa1EUHXhImSJlfPUAci"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Roulette Sessions In Love",
+        "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Somebody Else Is Taking My Place",
+      "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
     },
     {
       "added_at": "2022-12-01 13:54:19",

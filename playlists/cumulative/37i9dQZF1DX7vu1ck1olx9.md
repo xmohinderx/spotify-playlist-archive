@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-146 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+147 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [BUS RIDE](https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:13 | 2020-11-12 |  |
 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 | 2020-11-12 |  |
 | [cat's meow](https://open.spotify.com/track/21SuoiM0AgOCdQmt2umHuP) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6tSQljcscqaCqsCBetZbHP) | 1:33 | 2020-11-12 | 2022-07-29 |
+| [cat's meow](https://open.spotify.com/track/47I0dFqnJ6V5P04YW1u96z) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6NsmYIRCoHNEo6bVx89K0E) | 1:33 | 2020-11-12 |  |
 | [cat's meow](https://open.spotify.com/track/7bfwBbrYKFEreVQnFwbWPs) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/7ycvSoIBz8FRbnbcVlTJFM) | 1:33 | 2020-11-12 | 2022-12-15 |
 | [Cloud Dance](https://open.spotify.com/track/4DIQbr7iqFaHsw8KkKl47l) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/2Y3eYq0lYHd3VdiuFuAUOb) | 2:58 | 2020-11-12 | 2022-07-29 |
 | [Cloud Dance](https://open.spotify.com/track/7cq4lZVXYxv9HsjhF62AZt) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/5wtHowEK9MeJW7dqzGdWrm) | 2:58 | 2020-11-12 |  |
@@ -89,7 +90,7 @@
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2020-11-12 |  |
 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 | 2020-11-12 |  |
 | [mochus](https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Chillhop Essentials Fall 2018](https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl) | 2:12 | 2020-11-12 |  |
-| [Moments](https://open.spotify.com/track/3r5R3UBhe7Cdgywozq4zKz) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Flow](https://open.spotify.com/album/598S5qbw2Q9pj4kjVS2sqw) | 3:15 | 2022-03-18 |  |
+| [Moments](https://open.spotify.com/track/3r5R3UBhe7Cdgywozq4zKz) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Flow](https://open.spotify.com/album/598S5qbw2Q9pj4kjVS2sqw) | 3:15 | 2022-03-18 | 2022-12-24 |
 | [Motor City 17](https://open.spotify.com/track/3edrFaXc7OHQoLU22n4ThT) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Motor City](https://open.spotify.com/album/0v9TomxoVagPyvVNGhDbyB) | 2:12 | 2020-11-12 | 2022-09-21 |
 | [Motor City 17](https://open.spotify.com/track/1AtiYbyttcLHmI9wJS51QG) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Motor City](https://open.spotify.com/album/7L7QkmT3PIgU37NKAO6xnQ) | 2:16 | 2020-11-12 |  |
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2022-05-06 |  |

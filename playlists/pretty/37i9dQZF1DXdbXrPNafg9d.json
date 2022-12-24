@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks every week. Cover: Barrie\n",
-  "num_followers": 1254847,
+  "num_followers": 1254839,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY2MzE2OCwwMDAwMDAwMGIxOTFjZGMxMDMzYzI5ZjY1OGQzMDhhOTZlYjE3ZDdm",
+  "snapshot_id": "MTY3MTgyNDA2OSwwMDAwMDAwMDcyM2RlNDUxOWE1MWRlYjI4NmM0NGUwNGU4OGM0ODYx",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -41,36 +41,40 @@
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-12-23 04:00:00",
       "album": {
-        "name": "My Skin",
-        "url": "https://open.spotify.com/album/11tNCuEkGs5ipafdDiUOTs"
+        "name": "Wet Cement (Live from Harlem - Take One)",
+        "url": "https://open.spotify.com/album/0Rpc3fQexSfegjqzzmG7nv"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 170826,
-      "name": "My Skin",
-      "url": "https://open.spotify.com/track/4Ezw6WOStpZON6GrbVxLyu"
+      "duration_ms": 279000,
+      "name": "Wet Cement - Live from Harlem - Take One",
+      "url": "https://open.spotify.com/track/0ZPBCHwfNlYQ3FptzH4nnp"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-12-23 19:34:29",
       "album": {
-        "name": "Catch Your Eye",
-        "url": "https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00"
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Catch Your Eye",
-      "url": "https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq"
+      "duration_ms": 187788,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -87,6 +91,70 @@
       "duration_ms": 252631,
       "name": "Today (can't help but cry)",
       "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "innerdialogue",
+        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
+      },
+      "artists": [
+        {
+          "name": "caaaaseyyyy",
+          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
+        }
+      ],
+      "duration_ms": 296151,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "My Skin",
+        "url": "https://open.spotify.com/album/11tNCuEkGs5ipafdDiUOTs"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "My Skin",
+      "url": "https://open.spotify.com/track/4Ezw6WOStpZON6GrbVxLyu"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "You Won't",
+        "url": "https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2"
+      },
+      "artists": [
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "You Won't",
+      "url": "https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Catch Your Eye",
+        "url": "https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq"
     },
     {
       "added_at": "2022-12-21 22:52:48",
@@ -127,6 +195,38 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "sorry it's december",
+        "url": "https://open.spotify.com/album/78R3ypvc7HzPLf35YkUJh6"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "duration_ms": 171893,
+      "name": "sorry it's december",
+      "url": "https://open.spotify.com/track/7oReofzcCaync7NIOx4gnA"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Abalone",
         "url": "https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT"
       },
@@ -157,6 +257,22 @@
       "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Welcome Change",
+        "url": "https://open.spotify.com/album/76uvZpZOt6dwlkxx2drSju"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 294143,
+      "name": "Welcome Change",
+      "url": "https://open.spotify.com/track/2quiwMMUFiAwGqN54rOADl"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Thunderhead",
@@ -171,22 +287,6 @@
       "duration_ms": 218857,
       "name": "How to Love You",
       "url": "https://open.spotify.com/track/4atLOQrFe6NrSP4aSk8XvT"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2097,7 +2197,7 @@
         }
       ],
       "duration_ms": 196902,
-      "name": "AIIWO",
+      "name": "Stay And Run",
       "url": "https://open.spotify.com/track/4HBNn1sMNTRF0MS4RDHO04"
     },
     {
@@ -2603,22 +2703,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Todai",
-        "url": "https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Todai",
-      "url": "https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Man-Made Sunshine",
         "url": "https://open.spotify.com/album/5lkUMCGnOAsAZvPjjQy6nZ"
       },
@@ -2665,22 +2749,6 @@
       "url": "https://open.spotify.com/track/3LNa80ozLYLxSyEW1G2vsw"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Lady Luck",
-        "url": "https://open.spotify.com/album/5v6p29qDlKco2PN1GfOmnI"
-      },
-      "artists": [
-        {
-          "name": "Nana Lourdes",
-          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
-        }
-      ],
-      "duration_ms": 206719,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/6pQiyXrsF52SxKhOgrmz4I"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Alpha Zulu",
@@ -2711,22 +2779,6 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Palomino",
-      "url": "https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2859,54 +2911,6 @@
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "rainbow music",
-        "url": "https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J"
-      },
-      "artists": [
-        {
-          "name": "ghost orchard",
-          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
-        }
-      ],
-      "duration_ms": 133441,
-      "name": "cursive",
-      "url": "https://open.spotify.com/track/6pckcHCsndTKLy8Y1TPuq8"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Myself in the Way",
-        "url": "https://open.spotify.com/album/3hnuFFEOHQ4X1KGNx1HlLh"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 276170,
-      "name": "People That We Know",
-      "url": "https://open.spotify.com/track/4VRGGsMkPv5mNwKLvjDgDN"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Not There",
-        "url": "https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 202076,
-      "name": "Not There",
-      "url": "https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG"
     }
   ],
   "unique_name": "All New Indie",

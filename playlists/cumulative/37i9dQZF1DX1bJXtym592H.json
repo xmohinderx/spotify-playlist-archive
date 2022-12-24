@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "u need a light?",
+        "url": "https://open.spotify.com/album/6LROFFR1pIhCt2DLcGzw8P"
+      },
+      "artists": [
+        {
+          "name": "Eluzai",
+          "url": "https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176094,
+      "name": "a higher power!",
+      "url": "https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9"
+    },
+    {
+      "album": {
         "name": "A Trip for You",
         "url": "https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR"
       },
@@ -693,6 +711,28 @@
       "duration_ms": 151860,
       "name": "Fromage Frais",
       "url": "https://open.spotify.com/track/6VhMdls0mTxYlMj62ZVGK8"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5Lki7frY0xFmTvsVoCn4qy"
+      },
+      "artists": [
+        {
+          "name": "sword",
+          "url": "https://open.spotify.com/artist/7aVAHmMUBvA8a8yKFv8NkC"
+        },
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176510,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/15968lAfJgoIt0nYPBZTfc"
     },
     {
       "album": {

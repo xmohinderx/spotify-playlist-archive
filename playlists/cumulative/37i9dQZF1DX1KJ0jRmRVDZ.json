@@ -2351,7 +2351,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 125771,
       "name": "PAKU",
       "url": "https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV"
@@ -2535,7 +2535,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 178064,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
@@ -2709,6 +2709,24 @@
       "duration_ms": 200820,
       "name": "Seishunnofuriwoshita",
       "url": "https://open.spotify.com/track/3xxI0EKXVS1hDXlaSBA81L"
+    },
+    {
+      "album": {
+        "name": "senseitoseito",
+        "url": "https://open.spotify.com/album/5HJWeNHZYnyTnk4QKABNpF"
+      },
+      "artists": [
+        {
+          "name": "Kashitaro Ito",
+          "url": "https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284289,
+      "name": "senseitoseito",
+      "url": "https://open.spotify.com/track/11m22iJYquBJPsZNZG28mN"
     },
     {
       "album": {
@@ -4831,7 +4849,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 174613,
       "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
       "url": "https://open.spotify.com/track/4MlLArk7t8WzNgJWP58yUy"

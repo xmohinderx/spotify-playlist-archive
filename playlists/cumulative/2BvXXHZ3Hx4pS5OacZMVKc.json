@@ -410,6 +410,28 @@
     },
     {
       "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/1ZRJhmMnwd7PZh3WJ0xOrl"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147433,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/3yjKGtGhLesxTVJ9HaRa1i"
+    },
+    {
+      "album": {
         "name": "Bot Fight",
         "url": "https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg"
       },

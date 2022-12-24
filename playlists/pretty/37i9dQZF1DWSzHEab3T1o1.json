@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7356,
+  "num_followers": 7355,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMGZkMTU5YzkxMjFiODg1NWM2ZTdhZGM2YWJlOTBlZGM3",
+  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDBiOWZlNjMwZGI2NWE1NDhkNTU1MjkwY2Y0MjhkZGU3",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -787,26 +787,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/3nsJwTzE4qc9aOLEi6zMZN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
-        }
-      ],
-      "duration_ms": 251718,
-      "name": "Suavemente - Edm",
-      "url": "https://open.spotify.com/track/7rZem2rwrj9IbcDymBJX2L"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/6VDoSX37HjE1QnFP18Ooe3"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 176000,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/5qEDMy4lkVZ93et8y1VP99"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/3nsJwTzE4qc9aOLEi6zMZN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "duration_ms": 251718,
+      "name": "Suavemente - Edm",
+      "url": "https://open.spotify.com/track/7rZem2rwrj9IbcDymBJX2L"
     },
     {
       "added_at": "2021-12-31 04:31:13",

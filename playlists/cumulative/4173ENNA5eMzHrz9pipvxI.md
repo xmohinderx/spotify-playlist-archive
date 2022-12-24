@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x Tungevaag
 
-452 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/5y4MrJJ7gKnIUTSID8FBc6)
+453 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/5y4MrJJ7gKnIUTSID8FBc6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [SUPERNOVA](https://open.spotify.com/track/4bufrvJtfN9UKAsXitfro3) | [GUMMiBEAR](https://open.spotify.com/artist/5hMewFhywS8hP4kcpVYySW) | [SUPERNOVA](https://open.spotify.com/album/0y6JlhZDfMmg5SzLva1hOZ) | 2:26 | 2022-07-22 | 2022-08-06 |
 | [Supernova](https://open.spotify.com/track/6lDWtYf106yyTHH1egFSAg) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Supernova](https://open.spotify.com/album/3UzxBGgASI2Ic7kmk1pO5I) | 2:18 | 2022-10-07 | 2022-10-21 |
 | [Supersized](https://open.spotify.com/track/0wf7CoS7wZ7ioivLZuyFYZ) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Supersized](https://open.spotify.com/album/1pOONF2wxB8MYRN6g5PEQe) | 2:34 | 2022-10-14 | 2022-10-28 |
+| [Surrender \(feat\. YOU\)](https://open.spotify.com/track/4v0SRIKcYUkNYhK2zLA6nf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ÜHÜ](https://open.spotify.com/artist/0kX81k87cBgYN7KffDI3fC), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Surrender \(feat\. YOU\)](https://open.spotify.com/album/6CeALTTb9SCKKEIzaQC8xl) | 3:33 | 2022-12-23 |  |
 | [sweet escape](https://open.spotify.com/track/4wrsZKDowF7AFJGfSrFSsa) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [MGRD](https://open.spotify.com/artist/4YUE2tJ9FiSdHrlyiRnxQN) | [sweet escape](https://open.spotify.com/album/4V5Av9ksFYTRqL4jO4cpEb) | 4:02 | 2022-06-03 | 2022-06-20 |
 | [Tainted Love](https://open.spotify.com/track/3Mfx6W0pmOBw7UQO0mrD47) | [Declain](https://open.spotify.com/artist/5TGKxlRZwHSZKWPGiZAR43) | [Tainted Love](https://open.spotify.com/album/6VP3q7oc8ZtBNr7ZA5qZBk) | 3:15 | 2022-08-19 | 2022-09-03 |
 | [Take Me Away \(Into The Night\)](https://open.spotify.com/track/5luQZ72hkZ7Y3tpDzbeZ7E) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Melody Mane](https://open.spotify.com/artist/48gbf4ARAxb4gb6dsQrSF7) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/4KRBdJXmN50QXMq76FC5fc) | 2:33 | 2022-06-03 | 2022-06-11 |
@@ -456,7 +457,7 @@
 | [YOU](https://open.spotify.com/track/6HJ4OjaIGlqvemigb7WzBF) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [YOU](https://open.spotify.com/album/2uvFX9ZjatLh7a53xiJAPm) | 2:55 | 2022-06-03 | 2022-06-20 |
 | [YOU \- Remix](https://open.spotify.com/track/0R9CSoQix3XaF5bI3LBzww) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [YOU \(Remix\)](https://open.spotify.com/album/4HKeYtrdKrNGP11feqUCOZ) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [You And Me](https://open.spotify.com/track/16DVBIrhbbmFi5Mj56sLIe) | [Capsm](https://open.spotify.com/artist/1ye1tViQhcSJN3j7Z5gdsU) | [You And Me](https://open.spotify.com/album/7qHQRUBuyy6BDDsvCXld3D) | 3:43 | 2022-06-24 | 2022-07-09 |
-| [You Are](https://open.spotify.com/track/3smSBKf1rot6aY2ScAMO8p) | [Lost Capital](https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t) | [Overture EP](https://open.spotify.com/album/0fA7O4H8tEI6NBk4U9jqsm) | 2:23 | 2022-12-16 |  |
+| [You Are](https://open.spotify.com/track/3smSBKf1rot6aY2ScAMO8p) | [Lost Capital](https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t) | [Overture EP](https://open.spotify.com/album/0fA7O4H8tEI6NBk4U9jqsm) | 2:23 | 2022-12-16 | 2022-12-24 |
 | [You Are A Danger](https://open.spotify.com/track/34bDBmzjRFp687olZS62CT) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [You Are A Danger](https://open.spotify.com/album/7K7g0WcV5RkxUqqYjteIZ1) | 2:28 | 2022-11-10 | 2022-11-25 |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2022-11-03 | 2022-11-18 |
 | [You're Makin Me High](https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ) | [Hi\_Tack](https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN) | [You're Makin Me High](https://open.spotify.com/album/1FbZJC14ukWYQcPGo6zggH) | 2:27 | 2022-12-08 |  |

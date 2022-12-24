@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 1123,
+  "num_followers": 1127,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzOTUzMCwwMDAwMDAwMDdiYTg4YWI5MjU5N2YwNGRhMzk3ZmExOTY5YTkxZjdi",
+  "snapshot_id": "MTY3MTQzOTUzMCwwMDAwMDAwMDcwZjNhODFiMDI1ZTc0NjI5ZTMzYzExMzdkYTUwMDYw",
   "tracks": [
     {
       "added_at": "2022-11-30 10:57:15",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Run Away to Mars",
-        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 139226,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Raconteur",
-        "url": "https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T"
-      },
-      "artists": [
-        {
-          "name": "Dean Demir",
-          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
-        }
-      ],
-      "duration_ms": 107717,
-      "name": "Raconteur",
-      "url": "https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "The Water Floats",
         "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "Raconteur",
+        "url": "https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "duration_ms": 107717,
+      "name": "Raconteur",
+      "url": "https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Pensierino",
         "url": "https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 149500,
       "name": "Pensierino",
       "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "On the Stairs",
-        "url": "https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "On the Stairs",
-      "url": "https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "The Grass",
         "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 157000,
       "name": "The Grass",
       "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "On the Stairs",
+        "url": "https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "On the Stairs",
+      "url": "https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Appalachian Hike",
-        "url": "https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX"
-      },
-      "artists": [
-        {
-          "name": "Paolo Capello",
-          "url": "https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Appalachian Hike",
-      "url": "https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
+        "name": "Appalachian Hike",
+        "url": "https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX"
+      },
+      "artists": [
+        {
+          "name": "Paolo Capello",
+          "url": "https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Appalachian Hike",
+      "url": "https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 145898,
       "name": "Space And Time",
       "url": "https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
-        "name": "Flavor",
-        "url": "https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy"
-      },
-      "artists": [
-        {
-          "name": "Summerfields",
-          "url": "https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Weightless Again",
-        "url": "https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG"
-      },
-      "artists": [
-        {
-          "name": "Rannar Sillard",
-          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
-        }
-      ],
-      "duration_ms": 119946,
-      "name": "On a Clear Day",
-      "url": "https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Finding Solitude",
         "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
       },
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
+        "name": "Weightless Again",
+        "url": "https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG"
+      },
+      "artists": [
+        {
+          "name": "Rannar Sillard",
+          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
+        }
+      ],
+      "duration_ms": 119946,
+      "name": "On a Clear Day",
+      "url": "https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
         "name": "Zadar",
         "url": "https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 123250,
       "name": "Zadar",
       "url": "https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "Flavor",
+        "url": "https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy"
+      },
+      "artists": [
+        {
+          "name": "Summerfields",
+          "url": "https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q"
     },
     {
       "added_at": "2022-11-30 10:57:15",

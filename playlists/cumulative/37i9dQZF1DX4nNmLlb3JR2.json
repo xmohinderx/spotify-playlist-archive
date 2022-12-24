@@ -1550,6 +1550,28 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/24GISvJXpqwFbUjifnZBOW"
+      },
+      "artists": [
+        {
+          "name": "DJ Garlik",
+          "url": "https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF"
+        },
+        {
+          "name": "Noomz",
+          "url": "https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123197,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/5PCMHyeDn6cGSO2Tukf0Dr"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY"
       },

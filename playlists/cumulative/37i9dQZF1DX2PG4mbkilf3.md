@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with Diddy & PARTYNEXTDOOR.
 
-476 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+478 songs - 1 day 1 hr 2 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [On the Loose](https://open.spotify.com/track/5pzrKZK6GeF7yG9si4fw9E) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Angelina](https://open.spotify.com/artist/0wLwZxokRA4z8mGngLVKUp) | [On the Loose](https://open.spotify.com/album/6mvjCZd2xuAlNneoJKBN3w) | 2:18 | 2022-05-20 | 2022-06-11 |
 | [ON VENUS](https://open.spotify.com/track/3y5DngFE3QJEc6TSuW0hSv) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [ON VENUS](https://open.spotify.com/album/5PI4hnyqYDTyTTlwDLqvVA) | 3:39 | 2022-06-03 | 2022-07-09 |
 | [One 4 U](https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [One 4 U](https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX) | 2:28 | 2022-09-16 | 2022-10-01 |
+| [One of a Kind](https://open.spotify.com/track/3H2QWiGkf3TPUdpJ5mWC1i) | [Samalong](https://open.spotify.com/artist/4yOkiVMHxAhibnNCjD7C7j) | [One of a Kind](https://open.spotify.com/album/13KAvyHqU9jpuH3qCQhLZn) | 3:53 | 2022-12-23 |  |
 | [One Plus One](https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [One Plus One](https://open.spotify.com/album/10gGLGbjwOaOwGnDPN6RV2) | 3:09 | 2022-03-18 | 2022-05-28 |
 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2022-09-16 | 2022-11-05 |
 | [Only Want You](https://open.spotify.com/track/24BE8f0DdJxgtHDjsN9FA7) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Only Want You](https://open.spotify.com/album/5jdmLkQQ1fX8cC0du4H8Va) | 3:50 | 2022-07-01 |  |
@@ -334,7 +335,7 @@
 | [Perfect by Design](https://open.spotify.com/track/7peZkgbL1ifNIRLvashgIz) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Perfect by Design](https://open.spotify.com/album/1RPyUCPXm3MfjSBWdYrmIa) | 2:33 | 2022-11-25 |  |
 | [Perfect Timing](https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [In The Meantime...](https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX) | 2:10 | 2022-09-30 |  |
 | [Petty Lies](https://open.spotify.com/track/50DNIT0PO1We8arXPXGQw9) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [If Anything,](https://open.spotify.com/album/5RVI4s2DuHs0GVdCiLt0YX) | 2:05 | 2022-04-22 | 2022-07-16 |
-| [Phone Call](https://open.spotify.com/track/3KRV5HVG1OUq5DLzc13Qfe) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n), [Dylan Joshua](https://open.spotify.com/artist/5OD01TkUU33QB6NqdrMf3O) | [Phone Call](https://open.spotify.com/album/28vzfrjf6pmtpY3KHh7GsH) | 2:30 | 2022-11-25 |  |
+| [Phone Call](https://open.spotify.com/track/3KRV5HVG1OUq5DLzc13Qfe) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n), [Dylan Joshua](https://open.spotify.com/artist/5OD01TkUU33QB6NqdrMf3O) | [Phone Call](https://open.spotify.com/album/28vzfrjf6pmtpY3KHh7GsH) | 2:30 | 2022-11-25 | 2022-12-24 |
 | [Pink Plant](https://open.spotify.com/track/0LQNGpCxdcgX5MXWuN0zKZ) | [julzzz](https://open.spotify.com/artist/5s6ML4YfMRUp54Elm8D4w8) | [Pink Plant](https://open.spotify.com/album/481wzxLsScQqamkWiRaJek) | 3:33 | 2022-02-18 | 2022-06-18 |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-04-22 | 2022-05-28 |
 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 | 2022-03-11 | 2022-04-16 |
@@ -402,6 +403,7 @@
 | [Soul N Me](https://open.spotify.com/track/5THyG13rOAd20KQurY6DM6) | [AHSIA](https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH) | [Soul N Me](https://open.spotify.com/album/7LXW20e37U6bYVWlNzQkSj) | 3:07 | 2022-02-18 |  |
 | [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 | 2022-08-26 | 2022-11-05 |
 | [Spell on Me](https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq), [Hunter Yerrell](https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI) | [Spell on Me](https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S) | 2:42 | 2022-03-11 | 2022-07-02 |
+| [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-12-23 |  |
 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 |  |
 | [Stages](https://open.spotify.com/track/2k7Xg0C7DkioPHtbB77rLA) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Every Lie is Two Lies](https://open.spotify.com/album/3bfxgzdQ84efmbinTHGali) | 2:57 | 2022-10-07 | 2022-11-05 |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-02-18 | 2022-03-18 |
@@ -430,7 +432,7 @@
 | [The Hearse](https://open.spotify.com/track/19RXOH7xG0Po5NaWkNo9AX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/7rkN6aKoETjoXjtvOUCh0Z) | 2:04 | 2022-02-18 | 2022-03-05 |
 | [The Price of Freedom](https://open.spotify.com/track/6DsHgYc75ada8IYSHMFaA1) | [Kaeyae Alo](https://open.spotify.com/artist/0cKNVzcCoRHwbRPBsAGDYI) | [17times](https://open.spotify.com/album/1YKUvtffCi6eitGdDDsU2Z) | 2:59 | 2022-08-12 |  |
 | [The Reproach](https://open.spotify.com/track/01cZlSFtaZMmdujNjVpgdX) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Je Sais](https://open.spotify.com/album/4jmw5Q6kxTnkLyY5mCY6Fv) | 2:09 | 2022-07-15 | 2022-10-15 |
-| [The Vow](https://open.spotify.com/track/1YKleWikAbtenkNgS4Ls6Y) | [Harman](https://open.spotify.com/artist/7E2SCkykx5uOljc7dpISHI) | [The Vow](https://open.spotify.com/album/6DNnZN3G2rh0KqZL9HPdXM) | 2:58 | 2022-10-21 |  |
+| [The Vow](https://open.spotify.com/track/1YKleWikAbtenkNgS4Ls6Y) | [Harman](https://open.spotify.com/artist/7E2SCkykx5uOljc7dpISHI) | [The Vow](https://open.spotify.com/album/6DNnZN3G2rh0KqZL9HPdXM) | 2:58 | 2022-10-21 | 2022-12-24 |
 | [The Weekend](https://open.spotify.com/track/191jsr03UEBewGCdP325ti) | [DION IV](https://open.spotify.com/artist/2MNprX16TszQOuCL8s5F38), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [The Weekend](https://open.spotify.com/album/0CFjaXZV8OekVYHsniBOKr) | 3:16 | 2022-07-22 |  |
 | [Therapeudick](https://open.spotify.com/track/4Z2ZV7xJlWXiep1zH6jD30) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [Therapeudick](https://open.spotify.com/album/69E778IiHF9vIavIJPNLbx) | 2:54 | 2022-09-23 |  |
 | [THOUGHT THAT YOU LOVED ME](https://open.spotify.com/track/2msh6MUodxPDwm0yzY7m4v) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [THOUGHT THAT YOU LOVED ME](https://open.spotify.com/album/1f7FP7teRA5WcPYWCfcWXw) | 3:04 | 2022-02-18 | 2022-03-05 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 神谷浩史 ⒸKiramune Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,697 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,706 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [希望の渦](https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg) | [神谷浩史](https://open.spotify.com/artist/7iYyPaQU75oIHPrsf9EUbu) | [appside](https://open.spotify.com/album/4Z4kkAn5NioiF0xl7aCroa) | 3:39 |
+| 1 | [希望の渦](https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg) | [Hiroshi Kamiya](https://open.spotify.com/artist/3vf0sytS69HHOURI4Ze3gD) | [appside](https://open.spotify.com/album/4Z4kkAn5NioiF0xl7aCroa) | 3:39 |
 | 2 | [行こう!](https://open.spotify.com/track/7sd91SE4lECAqoDNg4eKKU) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9) | 4:17 |
 | 3 | [Issen Mankai Hug Nanda](https://open.spotify.com/track/470YNERPfTa62WU5Kc2KKm) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Issen Mankai Hug Nanda](https://open.spotify.com/album/1trzpISQxHdfKvwzTx5zU3) | 4:24 |
 | 4 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 |

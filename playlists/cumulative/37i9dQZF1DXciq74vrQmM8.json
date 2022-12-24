@@ -6716,6 +6716,24 @@
     },
     {
       "album": {
+        "name": "The Industry (don't care)",
+        "url": "https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR"
+      },
+      "artists": [
+        {
+          "name": "PROP",
+          "url": "https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "The Industry (don't care)",
+      "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
+    },
+    {
+      "album": {
         "name": "THE OUTSiDE",
         "url": "https://open.spotify.com/album/2fmiqcpr7yDQSuy3aUz9KY"
       },

@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-201 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+203 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 | 2022-05-23 | 2022-12-22 |
 | [Down Here On The Ground](https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Let's Get Away](https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD) | 3:25 | 2022-07-11 | 2022-07-25 |
 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 | 2022-04-11 | 2022-04-21 |
+| [Driftin'](https://open.spotify.com/track/55lgoqbpgD5cdCfms3MEC2) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/0PSCIKNXpjCmTqUr76NdHx) | 3:48 | 2022-12-22 |  |
 | [Echoes of the Heart](https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 3:58 | 2022-05-23 |  |
 | [Echoes of the Heart](https://open.spotify.com/track/5O5Aa0k1p5fjXmBMDkjTVp) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/4PVrOH383N97LMbLNJCTAy) | 3:58 | 2021-12-27 | 2022-07-16 |
 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 | 2022-04-11 |  |
@@ -101,6 +102,7 @@
 | [It's On Now](https://open.spotify.com/track/7qXLWmM1TzvksNaXOpjkB5) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's On Now](https://open.spotify.com/album/2HeoztjYZv8uZ1Vpsv9ZZG) | 3:47 | 2021-12-27 | 2022-07-29 |
 | [It's On Now \(feat\. Ragan Whiteside\)](https://open.spotify.com/track/4kP4fo9eEjsx5DocPSu3YV) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's My Time](https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ) | 3:48 | 2022-10-03 |  |
 | [It's Too Late](https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Song For You](https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil) | 4:41 | 2022-01-03 |  |
+| [I’m All Ears](https://open.spotify.com/track/6P41vUr7mSHjAxkmY844g6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:59 | 2022-12-22 |  |
 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 | 2021-12-27 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-07-18 |  |
 | [Just Between us](https://open.spotify.com/track/0RfOHjujKeLVlUuUwfXxJ8) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [The Very Best Of Smooth Jazz Guitar](https://open.spotify.com/album/0gc1Dw2arZYdTZdZbnfLsw) | 5:11 | 2022-04-11 | 2022-04-20 |
@@ -173,7 +175,7 @@
 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 | 2021-12-27 |  |
 | [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 | 2022-08-29 |  |
 | [Spray Bay](https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk) | [Jeremy Sean Hector](https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR) | [Ascension](https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi) | 4:47 | 2022-04-11 | 2022-04-20 |
-| [Static in the Attic](https://open.spotify.com/track/69cpqIccenZsg4tO3lYgrK) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Sunlight](https://open.spotify.com/album/0kx7WayUflfeiYpDKhsbnB) | 4:49 | 2022-04-11 |  |
+| [Static in the Attic](https://open.spotify.com/track/69cpqIccenZsg4tO3lYgrK) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Sunlight](https://open.spotify.com/album/0kx7WayUflfeiYpDKhsbnB) | 4:49 | 2022-04-11 | 2022-12-24 |
 | [Steppin' Out](https://open.spotify.com/track/1TQEe8NQLc3ml4p23ueRzq) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/2DmMf1bOCZniiHjBNPlTyt) | 4:05 | 2021-12-27 | 2022-07-28 |
 | [Steppin' Out](https://open.spotify.com/track/2vw0o63DPh9SEAtWN3kRgM) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/13krE6l2QQwdBpjbPA5FwE) | 4:05 | 2022-07-18 |  |
 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 | 2022-04-11 |  |
@@ -187,7 +189,7 @@
 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 | 2021-12-27 |  |
 | [Sundance](https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:49 | 2022-01-17 |  |
 | [Sweet Kisses](https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Limitless](https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL) | 4:54 | 2021-12-27 |  |
-| [Sweetest Somebody I Know](https://open.spotify.com/track/5eB67ISqWfSnL5JJ9nd9kK) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Blue](https://open.spotify.com/album/1tDXepai7d5pHIclDq1nFY) | 6:47 | 2022-04-11 |  |
+| [Sweetest Somebody I Know](https://open.spotify.com/track/5eB67ISqWfSnL5JJ9nd9kK) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Blue](https://open.spotify.com/album/1tDXepai7d5pHIclDq1nFY) | 6:47 | 2022-04-11 | 2022-12-24 |
 | [Swing City](https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [Soulmate](https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd) | 4:05 | 2022-01-10 |  |
 | [Tequila Moon](https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5) | 4:36 | 2022-07-18 |  |
 | [Tequila Moon](https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH) | 4:36 | 2022-04-11 | 2022-04-21 |

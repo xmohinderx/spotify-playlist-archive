@@ -360,6 +360,28 @@
     },
     {
       "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/1ZRJhmMnwd7PZh3WJ0xOrl"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147433,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/3yjKGtGhLesxTVJ9HaRa1i"
+    },
+    {
+      "album": {
         "name": "Bot Fight",
         "url": "https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg"
       },
@@ -397,6 +419,28 @@
       "duration_ms": 150857,
       "name": "BOUNCE!",
       "url": "https://open.spotify.com/track/0tDQdGzAuoz7H21SYlAyCj"
+    },
+    {
+      "album": {
+        "name": "Bring Me The Christmas Light",
+        "url": "https://open.spotify.com/album/1BbVSrRnQoLZxH5tZkhiDt"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Mara Necia",
+          "url": "https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "Bring Me The Christmas Light",
+      "url": "https://open.spotify.com/track/4umzhAz6dEmAyqKC4WXiwc"
     },
     {
       "album": {
@@ -1699,8 +1743,8 @@
       },
       "artists": [
         {
-          "name": "SIIK",
-          "url": "https://open.spotify.com/artist/6rMC9UIrHZJgx8u2HO8GH1"
+          "name": "Siik",
+          "url": "https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf"
         },
         {
           "name": "Alenn",
@@ -3259,6 +3303,32 @@
       "duration_ms": 236160,
       "name": "Wings",
       "url": "https://open.spotify.com/track/18IhZkRfALANBQeaWfOVuk"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/36VVorl4pqN1wGFxI1qIki"
+      },
+      "artists": [
+        {
+          "name": "32Stitches",
+          "url": "https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ"
+        },
+        {
+          "name": "GNDHI",
+          "url": "https://open.spotify.com/artist/0KTBRZ4b1Ah8HqBH9AtBix"
+        },
+        {
+          "name": "J Fitz",
+          "url": "https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/4aRIkmQcFWLDYT2J4SdXdr"
     },
     {
       "album": {

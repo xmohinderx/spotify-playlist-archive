@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-216 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+217 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Different Kinds Of Cry](https://open.spotify.com/track/0MPFNeTFeGL6JEQxl7KWcf) | [Alexis Grapsas](https://open.spotify.com/artist/3dkswBquw5Ss899vAX7DP6) | [Trigonometry \(Original Series Soundtrack\)](https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70) | 3:33 | 2021-12-20 | 2022-07-09 |
 | [Dirt Music Theme](https://open.spotify.com/track/20zApfduWjF2ixzykYAtsf) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Dirt Music \(Original Motion Picture Score\)](https://open.spotify.com/album/2l3DKmI917n0fzgDy0C0yz) | 5:36 | 2021-12-20 | 2022-07-09 |
 | [Djinn Theme](https://open.spotify.com/track/48SFgH7DBhSJ1G4bN2uYVS) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Three Thousand Years of Longing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/53YwItUiceECIImcxDFSPf) | 1:32 | 2022-09-23 |  |
+| [Doing Nothing With Friends](https://open.spotify.com/track/7aik1FI7t1PUka7u6zwDEh) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [The Boy, the Mole, the Fox and the Horse \(Official Short Film Soundtrack\)](https://open.spotify.com/album/3DAsjqarjzBKn8JYxrlVtq) | 2:42 | 2022-12-23 |  |
 | [Don't Look Up \- Main Title Theme](https://open.spotify.com/track/46Ykbossnav7MND8qCJcGR) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 0:51 | 2022-01-07 |  |
 | [Doug](https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Inez & Doug & Kira \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HwPJRFbqGPu9bw4z0FKze) | 1:53 | 2021-12-20 | 2022-08-20 |
 | [Dreams](https://open.spotify.com/track/2egNpOad1kRNG32VE5uHtF) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Slumberland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/77qpAPLvKnFn8IpB53401F) | 1:03 | 2022-11-18 |  |

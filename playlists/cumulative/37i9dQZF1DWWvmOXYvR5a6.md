@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: ZENE THE ZILLA\(제네 더 질라\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: CRUCiAL STAR크루셜스타\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-558 songs - 1 day 6 hr 35 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+559 songs - 1 day 6 hr 38 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [RING RING](https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Ring Ring](https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH) | 3:26 | 2022-07-24 |  |
 | [Rise \(Feat\. DeVita\)](https://open.spotify.com/track/7CHL9j8YU687O6QgjP2DRA) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 | 2022-04-21 | 2022-06-29 |
 | [RISK](https://open.spotify.com/track/6a3BLvHObViWUAyM2da3Xp) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [COMFY](https://open.spotify.com/album/0W4CJSly8XGaY4Bqlzudcf) | 2:58 | 2022-04-21 | 2022-07-19 |
-| [River Boy](https://open.spotify.com/track/0CZl8qZgyCBTRQASsiJx1k) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [River Boy](https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp) | 2:26 | 2022-12-13 |  |
+| [River Boy](https://open.spotify.com/track/0CZl8qZgyCBTRQASsiJx1k) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [River Boy](https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp) | 2:26 | 2022-12-13 | 2022-12-24 |
 | [RnB Ting](https://open.spotify.com/track/6QYlP3UKZPjqOy5QNgIXVo) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Share Feelings](https://open.spotify.com/album/1sGe4KUxrWI1Xtgo1R8UXd) | 3:04 | 2022-04-01 | 2022-04-21 |
 | [ROCK2DABEAT \(feat\. nafla\)](https://open.spotify.com/track/3jC91SiXyGAKUKH7ZcHtwL) | [outsocial](https://open.spotify.com/artist/5MU8raHkuvyPYYcmtk0rLh), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [ROCK2DABEAT](https://open.spotify.com/album/17yQ1HxqNEWOimgTn8aacP) | 3:51 | 2022-04-01 | 2022-05-08 |
 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 | 2022-06-20 |  |
@@ -509,6 +509,7 @@
 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2022-04-01 |  |
 | [Too Busy](https://open.spotify.com/track/1b2Hhx9a6ucAQFhZgjfLbb) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Too Busy](https://open.spotify.com/album/2IzEgyR7Up7Qtvl2KOSp2e) | 2:42 | 2022-04-01 | 2022-07-27 |
 | [Top Floor \(Feat\. MELOH, The Quiett\)](https://open.spotify.com/track/3bCwJtZtp1BQQ3ej1JVUXX) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Curtain Call](https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx) | 2:35 | 2022-04-01 | 2022-07-13 |
+| [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 |  |
 | [TRAMPLED](https://open.spotify.com/track/0dVof5Q6rzalmj2eqB9Dr2) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ) | [SPILLING](https://open.spotify.com/album/02JmyFcdizrK2jjhfLQ7J0) | 3:19 | 2022-05-11 | 2022-06-05 |
 | [Treasure \(Feat\. Kvsh, CHOILB\)](https://open.spotify.com/track/7icNK4lve2yPlM1NuN6cJ4) | [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Treasure](https://open.spotify.com/album/6PLYX18iZE3mVG7xFawuPV) | 3:26 | 2022-04-21 | 2022-07-26 |
 | [trouble](https://open.spotify.com/track/3kjITZTzIoKM929dACraW6) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 2:08 | 2022-04-01 | 2022-07-16 |

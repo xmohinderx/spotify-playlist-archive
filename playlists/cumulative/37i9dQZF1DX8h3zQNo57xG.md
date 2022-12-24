@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-105 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
+106 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Amber \(Delta Brainwave Version\)](https://open.spotify.com/track/0daPbQQ1cZWtQ0NPL2zIp1) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Delta Brainwaves](https://open.spotify.com/album/2XxJf2dDWmmrUCAYnpu2Lq) | 2:56 | 2021-12-22 |  |
 | [Awareness Delta Sinus 147Hz \- 150Hz](https://open.spotify.com/track/7jBc8kimjBFz2SNB6NZJ55) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:12 | 2021-12-22 |  |
 | [Bergruf Delta 83Hz \- 86Hz](https://open.spotify.com/track/5gytJm0G0FhSigCcYM1SEs) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 4:00 | 2021-12-22 |  |
+| [Binaural 1HZ Delta \- 87HZ \- 88HZ](https://open.spotify.com/track/0dkDiq6NzOTStndyEBdi6W) | [Healing Sines Binaural](https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms) | [Healing Sines Binaural](https://open.spotify.com/album/0AbJLoQG79vDi859ELxGJi) | 2:13 | 2022-12-22 |  |
 | [Binaural Delta 160 Hz \- 165 Hz](https://open.spotify.com/track/4op2Y7dhZqdCqW9sZ7JyDv) | [Qhol](https://open.spotify.com/artist/1hdHCi0RoW0eZN8LzyzzLY) | [Binaural Beats Delta](https://open.spotify.com/album/2QeKfVOzOWztD4nwJ1Jcwb) | 3:32 | 2021-12-22 | 2022-08-13 |
 | [Binaural Delta 1hz 123hz and 124hz](https://open.spotify.com/track/1n2HzVLCZSEZ2ME1AutT73) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:32 | 2021-12-22 |  |
 | [Binaural Delta 2 Hz](https://open.spotify.com/track/4HbRNPuvixnD5XDlIK6AnO) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2021-12-22 |  |
@@ -74,7 +75,7 @@
 | [Dreamless Sleep \- Delta Sinus 115Hz \- 117Hz](https://open.spotify.com/track/18MJgVKd0JPTw8eL8GSf2Z) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:09 | 2021-12-22 |  |
 | [Dreamless Sleep Delta 2Hz](https://open.spotify.com/track/1TX678iIWG02qd6BRdrJR2) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 6:50 | 2021-12-22 |  |
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2021-12-22 |  |
-| [Finally Reaching \(3 Hz Delta Wave\)](https://open.spotify.com/track/7LMGjCEVFqPsHCeRHu1YNV) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binarual Beats for Deep Sleep](https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up) | 4:57 | 2021-12-22 |  |
+| [Finally Reaching \(3 Hz Delta Wave\)](https://open.spotify.com/track/7LMGjCEVFqPsHCeRHu1YNV) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binarual Beats for Deep Sleep](https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up) | 4:57 | 2021-12-22 | 2022-12-24 |
 | [Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/track/5mWrcUdd6VebJRdvuRiXM9) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:16 | 2021-12-22 |  |
 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 | 2021-12-22 |  |
 | [Horizons \(Delta Brainwave Version\)](https://open.spotify.com/track/4BRqrr3nlJet7LjcK9gbxW) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Delta Brainwaves](https://open.spotify.com/album/2XxJf2dDWmmrUCAYnpu2Lq) | 3:12 | 2021-12-22 |  |

@@ -1175,10 +1175,28 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/41S3W52qwH0oEKOx9ByH5t"
+      },
+      "artists": [
+        {
+          "name": "Jericho Rosales",
+          "url": "https://open.spotify.com/artist/3RpJ6OyOnaXRFRXSirgQa6"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "Pusong Ligaw",
+      "url": "https://open.spotify.com/track/14pj36HKHd6c72njvGVPWU"
     },
     {
       "album": {

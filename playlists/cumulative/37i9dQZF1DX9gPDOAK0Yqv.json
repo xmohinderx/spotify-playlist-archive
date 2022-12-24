@@ -15,7 +15,7 @@
           "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
         }
       ],
-      "date_added": "2022-12-17",
+      "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 320000,
@@ -487,7 +487,7 @@
           "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
         }
       ],
-      "date_added": "2022-12-17",
+      "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 325744,
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 500080,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/7sO0E7yfhhLjWoKOt4aZ7j"
@@ -1413,7 +1413,7 @@
           "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
         }
       ],
-      "date_added": "2022-12-21",
+      "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 433170,
@@ -1583,6 +1583,24 @@
       "duration_ms": 402694,
       "name": "Something Unreal - Oliver Huntemann & Andr\u00e9 Winter Remix",
       "url": "https://open.spotify.com/track/052FRbHApjMoCKHxJfqPro"
+    },
+    {
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/6LNIOYA9aaIQEkFbeWnDaz"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433678,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/1bahTOTB0QovvsqnWYJYqm"
     },
     {
       "album": {
@@ -1825,7 +1843,7 @@
           "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         }
       ],
-      "date_added": "2022-12-17",
+      "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 270008,

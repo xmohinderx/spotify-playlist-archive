@@ -4,7 +4,7 @@
 
 > Yılın favori keşifleri\. Kapak: Beliz
 
-255 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+256 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Gerçek Mi?](https://open.spotify.com/track/2ly9EzPr29b9H0poFHy1u6) | [Yeri Yok](https://open.spotify.com/artist/5veJ9jbFRpoMMQ1aHVisen) | [Gerçek Mi?](https://open.spotify.com/album/5zXj5K6jTCbJW5OHDltzhF) | 3:10 | 2021-12-03 | 2022-01-20 |
 | [Gezemedim Evreni](https://open.spotify.com/track/2YLjbZZEAa7wEO0S1JfFho) | [Gezemedim Evreni](https://open.spotify.com/artist/7MQZhZNWsSncLvXey8gODV) | [Gezemedim Evreni](https://open.spotify.com/album/5OmqyN7tv80wmcNLXcbLJF) | 2:59 | 2022-09-20 | 2022-12-01 |
 | [Geçtik İçiçe](https://open.spotify.com/track/4Imtj2LVF0ZFBQDAq4vkLI) | [Alara](https://open.spotify.com/artist/73cy4QAQJslj4bVgTxN5bk) | [Geçtik İçiçe](https://open.spotify.com/album/4oE8w44Nd0QKrVoTFivxtZ) | 2:14 | 2022-11-30 |  |
-| [Gibi](https://open.spotify.com/track/0AuIs9cgT7uq7LvsPPFkIy) | [Nilay Özkara](https://open.spotify.com/artist/2fFg8fFM1FmytOAfosG8cZ) | [Gibi](https://open.spotify.com/album/6pPSTX56kGIeeWSBLDFNEF) | 4:15 | 2022-07-19 |  |
+| [Gibi](https://open.spotify.com/track/0AuIs9cgT7uq7LvsPPFkIy) | [Nilay Özkara](https://open.spotify.com/artist/2fFg8fFM1FmytOAfosG8cZ) | [Gibi](https://open.spotify.com/album/6pPSTX56kGIeeWSBLDFNEF) | 4:15 | 2022-07-19 | 2022-12-24 |
+| [Gibi](https://open.spotify.com/track/4ViuYoB5Gm8NMCKXpz6uXB) | [Nilay Özkara](https://open.spotify.com/artist/2fFg8fFM1FmytOAfosG8cZ) | [Gibi](https://open.spotify.com/album/6RMREvFW2a67l3HGiozgfv) | 4:15 | 2022-11-30 |  |
 | [Gideceksen Geleceksen](https://open.spotify.com/track/7m6LMiaZdHcsVK5c558taN) | [Osman Tuğsal](https://open.spotify.com/artist/7uYFKmODOjK48vXyNRgKmQ) | [Gideceksen Geleceksen](https://open.spotify.com/album/13UtbmVSa114PBH4dxCb1T) | 3:11 | 2021-12-03 | 2022-02-28 |
 | [Gitgide Küçülüyorum](https://open.spotify.com/track/6eH32L0EqVhgUtv7dUXfxQ) | [Mesra](https://open.spotify.com/artist/3PUodAqBgw4qOl7Ln91J1B) | [Gitgide Küçülüyorum](https://open.spotify.com/album/6tM6ecnqDcCrCKOhYKsZv1) | 2:44 | 2022-08-16 |  |
 | [Gnome Halayı](https://open.spotify.com/track/69AU1XN67Q8rZIfYiRIRXS) | [Deniz Aksakal](https://open.spotify.com/artist/740DhCog773p53cU52HGnV) | [İyi Köpekler Cennete Gider](https://open.spotify.com/album/3Xk3oYOK5PqI5cr7Sv3sIU) | 2:31 | 2022-04-19 |  |

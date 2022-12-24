@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Ella Langley
 
-975 songs - 2 day 4 hr 9 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+976 songs - 2 day 4 hr 12 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Gentleman](https://open.spotify.com/track/4MNBohv8Zt6IlCamRlsNmO) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Gentleman](https://open.spotify.com/album/1IgkSG82A35krB4kdL8OM9) | 3:05 | 2021-12-31 | 2022-03-18 |
 | [Get A Dog](https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Get A Dog](https://open.spotify.com/album/27GYFiztdGdz4Mh1zNiVgD) | 3:18 | 2022-09-02 | 2022-12-03 |
 | [Get Away With It](https://open.spotify.com/track/1nEsrpCsudRtG9zN8lrqzS) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Get Away With It](https://open.spotify.com/album/2XNlSznDbqo7ynw0u8MZhO) | 2:53 | 2022-02-25 | 2022-05-28 |
+| [Get to Gettin’ Gone](https://open.spotify.com/track/0Zp0Q7p94hUim8q07dXeN1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Get to Gettin’ Gone](https://open.spotify.com/album/3b13DQUYaS5PvsM58BYv6Q) | 3:02 | 2022-12-23 |  |
 | [Get What You Get](https://open.spotify.com/track/1fWguADdomR7VZ9s5hfwlA) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Get What You Get](https://open.spotify.com/album/1fXk3JulT5i10KleS1LcSm) | 3:43 | 2021-12-31 | 2022-01-29 |
 | [Get You](https://open.spotify.com/track/2ZwdntJcAbaQTdbivEpakc) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Get You](https://open.spotify.com/album/1SKv7ZfLbWUkhry74XrUXw) | 3:00 | 2021-12-31 | 2022-03-18 |
 | [Getting Over You](https://open.spotify.com/track/71DObvm49Az9eW6yodaS2n) | [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Getting Over You](https://open.spotify.com/album/3pQKR66G70kMEmbGwbGVze) | 3:03 | 2021-12-31 | 2022-02-26 |

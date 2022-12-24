@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-653 songs - 1 day 14 hr 1 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+656 songs - 1 day 14 hr 10 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-02-10 |  |
 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2022-05-20 | 2022-07-08 |
 | [Neon Planet](https://open.spotify.com/track/3uhoOiX55ZyrYAWI0IQ2uL) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [In Your World](https://open.spotify.com/album/6R3A0OtL1VcbzoJ8EI5A2h) | 3:51 | 2022-10-14 |  |
+| [New Beginning](https://open.spotify.com/track/7g9qLF2PaFjAt7aej8lKlk) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [New Beginning](https://open.spotify.com/album/7wzeqT9sjhtW46DxMmoXbb) | 2:14 | 2022-12-23 |  |
 | [New Creation](https://open.spotify.com/track/1yKDappVhFf05peEb9NFR8) | [Vertical Sight](https://open.spotify.com/artist/59fdBKobn0AP6yV1aI53W7) | [New Creation](https://open.spotify.com/album/4kV127M8gRdovkFwvwLGcA) | 2:42 | 2022-01-21 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-06-16 |  |
 | [Next To You](https://open.spotify.com/track/7CsOoJMd3gFKEJvX7nLhQ8) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:40 | 2021-02-19 | 2021-03-18 |
@@ -439,6 +440,7 @@
 | [Play Me](https://open.spotify.com/track/1rY7EbYAhsGQfSlV4Bi7Kz) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Play Me](https://open.spotify.com/album/22fUtAnCcO1YXREv81ilXX) | 3:55 | 2022-04-05 |  |
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2022-04-05 |  |
 | [Playthru](https://open.spotify.com/track/6gJmvaiNmOZWZoG7WRGJrO) | [Baron Grand](https://open.spotify.com/artist/1MmcsrLM2fdTjAf6tQu8SB) | [Remote Presence](https://open.spotify.com/album/3uZN27EbPINm5Pr8eHkA7F) | 3:07 | 2020-04-07 | 2020-11-19 |
+| [pleased as punch](https://open.spotify.com/track/5U4oJZhsOEDu4GNxv3LZ2L) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [pleased as punch](https://open.spotify.com/album/65ijOt7F7UB24RVOpELEXk) | 3:19 | 2022-12-23 |  |
 | [Pororoca \- Radio Edit](https://open.spotify.com/track/4fQewx3TWzldEKuTOGdXop) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Anissa Damali](https://open.spotify.com/artist/2f2hnF8xUwrKCFODnhCfns) | [Gager](https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y) | 3:46 | 2020-11-04 | 2020-11-11 |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-10 | 2021-09-09 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-09-09 |  |
@@ -539,6 +541,7 @@
 | [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2021-11-08 |  |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2021-07-08 | 2022-09-17 |
 | [Spirals](https://open.spotify.com/track/2iLCFMUPpBkrluLl55RxI6) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Drine](https://open.spotify.com/album/2gDEjivLQAHFzY7OdUgy5n) | 3:58 | 2020-08-11 | 2021-06-02 |
+| [Star Within A Star](https://open.spotify.com/track/4qK7Xqqb6HMyRDe9NsNSNT) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Star Within A Star](https://open.spotify.com/album/7FzoqegjrhV7Hn5DOdWNVt) | 3:11 | 2022-12-23 |  |
 | [Stay](https://open.spotify.com/track/5CGsQsVx661ZGuxsoNYu5Y) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:47 | 2021-01-05 | 2021-05-06 |
 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 | 2021-11-08 |  |
 | [Step By Step](https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Step By Step](https://open.spotify.com/album/488BJzweFOikT4WEI2PD0N) | 2:47 | 2020-04-03\* | 2021-03-25 |

@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=D6t3mgaNRoG34W61XJd0Qw">Lojay</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=KWN2MSIkRP2HPgX2t9QTMg">DJ Maphorisa</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=g31cPvUxRSGeNeezoaaKYg">Kabza De Small</a>
 
-99 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
+100 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Woman](https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Woman](https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v) | 3:58 | 2022-05-23 |  |
 | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \- Remix](https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i) | [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Preck](https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY), [Nelson Tivane](https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S) | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \[Remix\]](https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi) | 3:34 | 2022-05-23 |  |
 | [Ziya Khala](https://open.spotify.com/track/2rmAdvW1snyycYiCgSKsrp) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [Ziya Khala](https://open.spotify.com/album/5SJD74L6baR4ROiiVFMVYf) | 5:44 | 2022-08-11 |  |
-| [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 | 2022-10-31 |  |
+| [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 | 2022-10-31 | 2022-12-24 |
+| [Zukunft Pink \- ALLIANCE REMIX \(feat\. Focalistic, Kwam.E, ALBI X, Willy Will, Awa Khiwe, Benji Asare, Inéz\)](https://open.spotify.com/track/2gcuuCGQ9xU3fMsbChH6Sv) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Willy Will](https://open.spotify.com/artist/7COHnUQjxEVi5SggMxlu4E), [Kwam.E](https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56), [Awa Khiwe](https://open.spotify.com/artist/6MpRaR69eK9y4KZ7IGAAMH), [Benji Asare](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \- ALLIANCE REMIX \(feat\. Focalistic, Kwam.E, ALBI X, Willy Will, Awa Khiwe, Benji Asare, Inéz\)](https://open.spotify.com/album/0D1spdpLQGtL4JtqSz0qIK) | 5:10 | 2022-12-22 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

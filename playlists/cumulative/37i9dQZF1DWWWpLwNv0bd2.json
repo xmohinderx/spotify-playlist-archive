@@ -258,6 +258,44 @@
     },
     {
       "album": {
+        "name": "Pathaan - Tamil",
+        "url": "https://open.spotify.com/album/6F4MQdnwoPa8VlEG1J2G9f"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Caralisa Monteiro",
+          "url": "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258472,
+      "name": "Azhaiyaa Mazhai",
+      "url": "https://open.spotify.com/track/1G58YeBzb8AcneUaDArhBv"
+    },
+    {
+      "album": {
         "name": "Baby (From \"Madhil Mel Kaadhal\")",
         "url": "https://open.spotify.com/album/1lbLfuJjIfjOMA21icZGzw"
       },

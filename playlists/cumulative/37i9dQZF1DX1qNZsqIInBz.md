@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-114 songs - 5 hr 10 min - not published yet
+116 songs - 5 hr 15 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blow With The Hoe](https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Blow With The Hoe](https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk) | 1:31 | 2022-10-10 |  |
 | [Born to Fly](https://open.spotify.com/track/4o0g3KtUbz0nxSmH93RggE) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Born to Fly](https://open.spotify.com/album/7wexoMstoDoA7fGuifYBbK) | 2:52 | 2022-10-10 |  |
 | [Butterfly](https://open.spotify.com/track/58oi0OWV0fHLsnJWFv5VQe) | [Jidanofu](https://open.spotify.com/artist/6JwHgPzxWOKHVH6aWoHuxm) | [Butterfly](https://open.spotify.com/album/1Agg5sCbo8mvH4GBDjTpb7) | 2:19 | 2022-10-10 |  |
-| [CAMELLIA](https://open.spotify.com/track/47M4KLl1G1Yq48hZgbN42j) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [SLXEPING TOKYO](https://open.spotify.com/artist/1fA3zdJing6RF5bIQ2lSve) | [CAMELLIA](https://open.spotify.com/album/1L1zeMNmufamRAl0PTfwkd) | 2:46 | 2022-10-10 |  |
+| [CAMELLIA](https://open.spotify.com/track/47M4KLl1G1Yq48hZgbN42j) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [SLXEPING TOKYO](https://open.spotify.com/artist/1fA3zdJing6RF5bIQ2lSve) | [CAMELLIA](https://open.spotify.com/album/1L1zeMNmufamRAl0PTfwkd) | 2:46 | 2022-10-10 | 2022-12-24 |
 | [Chill Phonk](https://open.spotify.com/track/5E69AASuENCXbP1PHO74F5) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Chill Phonk](https://open.spotify.com/album/4XIUu4JcbGI0z9BKSqYXxL) | 1:25 | 2022-10-10 |  |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-10-10 | 2022-12-17 |
 | [CLOUD](https://open.spotify.com/track/6ZbpaHInXckaSUDiGDCwHX) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Night Show](https://open.spotify.com/album/52mLSslJpI3vsoIgi1KSA6) | 2:54 | 2022-10-10 |  |
@@ -34,7 +34,7 @@
 | [Dream Road](https://open.spotify.com/track/006xxgBdSswgtgXOks59u4) | [81an](https://open.spotify.com/artist/2jQ3SyqsblMmflFJCRr5dn), [ALan](https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma), [ISHNLV](https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3) | [Dream Road](https://open.spotify.com/album/0tpavY1s1hchFwtCC93tHN) | 3:03 | 2022-11-18 |  |
 | [Dream Space](https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Dream Space](https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X) | 2:51 | 2022-10-10 |  |
 | [Eclipse](https://open.spotify.com/track/6nnmaoO5YcqsmSHjgNZG86) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 2:53 | 2022-10-10 | 2022-12-10 |
-| [EMPHASIS](https://open.spotify.com/track/33wy9ENUVmxzSVUuMFCKD3) | [Lxght ライト](https://open.spotify.com/artist/1jRut00RsTU5L8nJ7imTr9), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [EMPHASIS](https://open.spotify.com/album/5uc8aObzf0BH3nkv9wbSy1) | 3:14 | 2022-12-16 |  |
+| [EMPHASIS](https://open.spotify.com/track/33wy9ENUVmxzSVUuMFCKD3) | [Lxght ライト](https://open.spotify.com/artist/1jRut00RsTU5L8nJ7imTr9), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [EMPHASIS](https://open.spotify.com/album/5uc8aObzf0BH3nkv9wbSy1) | 3:14 | 2022-12-16 | 2022-12-24 |
 | [End of the World](https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World](https://open.spotify.com/album/4EBa1AFntytE0kwgUes6n6) | 2:44 | 2022-10-10 |  |
 | [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 | 2022-10-10 |  |
 | [ENDLESS VOID](https://open.spotify.com/track/1ZzxutGot8uQzdvtwZnqhz) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [ENDLESS VOID](https://open.spotify.com/album/5PsqDyjDE9FPUkQgWNwv56) | 2:22 | 2022-10-10 |  |
@@ -95,8 +95,10 @@
 | [Rain](https://open.spotify.com/track/6mOAG0zui8izScIIgvWFDH) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [Rain](https://open.spotify.com/album/3YdkmgnxDrKj2MK7dXgQD7) | 3:06 | 2022-10-10 |  |
 | [Rainy Night Drive](https://open.spotify.com/track/5gbzQN044AiB69UiVuc6qZ) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [Rainy Night Drive](https://open.spotify.com/album/2VTQ3wglK5i3Lm6TK0ns6J) | 2:39 | 2022-10-10 |  |
 | [RENEGADE](https://open.spotify.com/track/6Yap10AMYjIDgRXLUcH1pt) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [RENEGADE](https://open.spotify.com/album/5N93SkOr64iOa2bwsf5oyr) | 3:28 | 2022-10-10 | 2022-12-17 |
+| [Ridge Crest](https://open.spotify.com/track/4wQG1yyeTSoDCppLzBXJ9m) | [dxprxsslve](https://open.spotify.com/artist/61QWo0cPeQFZt2U1gEjyl9) | [Ridge Crest](https://open.spotify.com/album/4Rp8x8ZeJjVX0aQAnCGYNy) | 2:52 | 2022-12-23 |  |
 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-10-10 |  |
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-10-10 |  |
+| [SEE U IN WINTER](https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL) | [winternarnia](https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [SEE U IN WINTER](https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9) | 2:31 | 2022-12-23 |  |
 | [Shiver](https://open.spotify.com/track/3fZfQWOg4xv8YUPAvnPaty) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [Shiver](https://open.spotify.com/album/3dT2NMs4X8OUay4JJ2weY7) | 2:25 | 2022-10-10 |  |
 | [Silence](https://open.spotify.com/track/6y3VTYZgLPVARFbC5dw8Py) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/7op6zDji4CCSGJc21Hrfzt) | 3:26 | 2022-10-10 |  |
 | [Silent Night](https://open.spotify.com/track/1EapFpXRLVRnK3PXUoJtTh) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi), [XVNNDRO](https://open.spotify.com/artist/5sSge1Liv1eU8WJPDH1dI5) | [Silent Night](https://open.spotify.com/album/4adqBewUGNtWm6p5gfCEnY) | 2:33 | 2022-10-10 |  |

@@ -1698,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "celebrate",
+        "url": "https://open.spotify.com/album/4JLEEIia5nQtLSTNBvIUXk"
+      },
+      "artists": [
+        {
+          "name": "Misako Uno",
+          "url": "https://open.spotify.com/artist/7GZ4sfSqYerIzoy01IiBBI"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200495,
+      "name": "celebrate",
+      "url": "https://open.spotify.com/track/6wPkoM3r031thhfr0sWl4t"
+    },
+    {
+      "album": {
         "name": "Center Of My Heart",
         "url": "https://open.spotify.com/album/38dg1OjYJM7AamTL5uUdor"
       },
@@ -1731,6 +1749,24 @@
       "duration_ms": 204334,
       "name": "Change",
       "url": "https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm"
+    },
+    {
+      "album": {
+        "name": "Change my future (\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ae\u30fc\u30c4\u00d7\u30ea\u30d0\u30a4\u30b9 MOVIE\u30d0\u30c8\u30eb\u30ed\u30ef\u30a4\u30e4\u30eb\u300f\u4e3b\u984c\u6b4c)",
+        "url": "https://open.spotify.com/album/0denY30U0VQUrwsRuybua0"
+      },
+      "artists": [
+        {
+          "name": "Kumi Koda",
+          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Change my future - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ae\u30fc\u30c4\u00d7\u30ea\u30d0\u30a4\u30b9 MOVIE\u30d0\u30c8\u30eb\u30ed\u30ef\u30a4\u30e4\u30eb\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/0EqJxTa17RgujcNET5uIvz"
     },
     {
       "album": {
@@ -3068,6 +3104,24 @@
     },
     {
       "album": {
+        "name": "friday",
+        "url": "https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169185,
+      "name": "friday",
+      "url": "https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u"
+    },
+    {
+      "album": {
         "name": "FRIDAY KIDS CHINA TOWN",
         "url": "https://open.spotify.com/album/5ZV3AWQv944HTPZznYh6KA"
       },
@@ -3707,7 +3761,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 202856,
       "name": "Hurricanes",
       "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
@@ -4723,7 +4777,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 220103,
       "name": "Ladder",
       "url": "https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx"
@@ -4987,6 +5041,10 @@
         {
           "name": "Sincere",
           "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        },
+        {
+          "name": "Chocoholic",
+          "url": "https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1"
         }
       ],
       "date_added": "2022-12-06",
@@ -6031,7 +6089,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 236933,
       "name": "My Vision",
       "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
@@ -7177,6 +7235,24 @@
       "duration_ms": 270146,
       "name": "Satsuki",
       "url": "https://open.spotify.com/track/2tiex0oWYiAR9UWZ9SlFW3"
+    },
+    {
+      "album": {
+        "name": "Snowdome",
+        "url": "https://open.spotify.com/album/37SUGkacnP6YHLqUivxrGY"
+      },
+      "artists": [
+        {
+          "name": "\u7532\u7530\u307e\u3072\u308b",
+          "url": "https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132324,
+      "name": "SECM (Sausage Egg & Cheese Muffin)",
+      "url": "https://open.spotify.com/track/3Aup2ONzQh3oG2jvrpaOtX"
     },
     {
       "album": {
@@ -12788,6 +12864,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
+        "url": "https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198014,
+      "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30fc\u30c9\u30c7\u30a4\u30ba\u30ca\u30a4\u30c8",
         "url": "https://open.spotify.com/album/6pptEGfGViIMBEQc9TRdq3"
       },
@@ -12969,7 +13063,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 264954,
       "name": "\u30d6\u30ec\u30b9",
       "url": "https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC"
@@ -15683,7 +15777,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 170666,
       "name": "\u611b\u306e\u3057\u308b\u3057",
       "url": "https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA"

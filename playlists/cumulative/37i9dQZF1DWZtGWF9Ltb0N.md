@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-418 songs - 1 day 7 hr 50 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+419 songs - 1 day 7 hr 54 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1/500](https://open.spotify.com/track/1i9t7kJgDkSKDr64JAxzlg) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [OCCUPIED DETECTIVE Vol.5 Stalker](https://open.spotify.com/album/3DWWNrtbZQpTPaofhNnKQB) | 4:06 | 2022-06-10 | 2022-06-30 |
 | [37 Surrey Street](https://open.spotify.com/track/0jCwKvfyosti2lDoTrDV0Y) | [Sir Hiss](https://open.spotify.com/artist/5eUlRqUYUY2rsuw7ZWTXTK) | [Selenki](https://open.spotify.com/album/0hPxl3pfPkxIpjMwfnT3Ei) | 4:27 | 2022-05-06 | 2022-06-11 |
 | [3Klane](https://open.spotify.com/track/3ZaMplHfMrKQytFSeufC6Z) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7), [Jakes & Joker](https://open.spotify.com/artist/39gojVmCwgRtsvX5PwpYuN), [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [3Klane / Modem](https://open.spotify.com/album/19YUY4lY16JltlJV9ndRE5) | 4:14 | 2022-02-17 | 2022-04-07 |
-| [Abandon](https://open.spotify.com/track/3RvUGLlLgNyzFvmj1JnrYU) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Sweetheart EP](https://open.spotify.com/album/2fNA6vsduau3pyqjzNQsmX) | 5:11 | 2022-06-10 |  |
+| [Abandon](https://open.spotify.com/track/3RvUGLlLgNyzFvmj1JnrYU) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Sweetheart EP](https://open.spotify.com/album/2fNA6vsduau3pyqjzNQsmX) | 5:11 | 2022-06-10 | 2022-12-24 |
 | [Abattoir](https://open.spotify.com/track/2PUBfBWV7FUM3tFqt28pO7) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/2b1HN0avZHrA8vNL0vP1Gw) | 5:05 | 2022-02-17 | 2022-05-25 |
 | [Accuracy](https://open.spotify.com/track/5rGtVYFXJPD3YcsMtyfEYP) | [Bunzer0](https://open.spotify.com/artist/7JkiA7yMXj4IHiST0UG1wy) | [We Are Not Looking For Accuracy EP](https://open.spotify.com/album/1t81UiEP5MihnQMViaT1Ut) | 4:40 | 2022-02-17 | 2022-04-09 |
 | [Afterlife](https://open.spotify.com/track/2uX9JzpZxul4FNnk87z1zQ) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Afterlife](https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu) | 4:44 | 2022-07-01 |  |
@@ -378,6 +378,7 @@
 | [The Beez](https://open.spotify.com/track/4W1esPFRUVXBd8TQnIEJ3g) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [The Beez / Eye2Eye](https://open.spotify.com/album/3PSQYHwiwkljes7cC3h0za) | 4:32 | 2022-02-17 | 2022-07-22 |
 | [The Boxer \- Kromestar’s Southpaw Mix](https://open.spotify.com/track/12FMwQAwDtfKnrG8RmQdo0) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW), [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [The Boxer / Swish \(Kromestar Remixes\)](https://open.spotify.com/album/2TmTOGesWGTAcEdfybwrmo) | 5:36 | 2022-02-17 | 2022-07-08 |
 | [The Damned](https://open.spotify.com/track/5kFJdv7Y9hnvsNL2Pupppv) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Breaker of Chains EP](https://open.spotify.com/album/7qQ8QiQGIPlznXlRaWKRoz) | 3:53 | 2022-02-17 | 2022-07-30 |
+| [The Insider](https://open.spotify.com/track/4POD1Ir5sArXd1EzkntC5E) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [The Insider](https://open.spotify.com/album/7gYxfavNEV31JRSrkxwv6a) | 3:42 | 2022-12-23 |  |
 | [The Main Rule](https://open.spotify.com/track/1B462XFyDg7Qi5O7CLVFTu) | [Bukez Finezt](https://open.spotify.com/artist/7lpT19TLWJN0pPEmUF9FTH) | [The Main Rule / Unknown Force](https://open.spotify.com/album/34CPw35X2P1E7Q54TniCKO) | 4:09 | 2022-07-08 | 2022-09-03 |
 | [The Main Rule](https://open.spotify.com/track/1rRx7qRyUddDtPg1C9lo1n) | [Bukez Finezt](https://open.spotify.com/artist/7lpT19TLWJN0pPEmUF9FTH) | [The Main Rule](https://open.spotify.com/album/7z1McxL6uPoHrXCbYTuiG5) | 4:09 | 2022-02-17 | 2022-07-29 |
 | [The March Of The Ants](https://open.spotify.com/track/7ppgToYjRurMz3AVsIqpMS) | [p0gman](https://open.spotify.com/artist/3cw7SynPNBpGg16PRXJI2I) | [Subterranea](https://open.spotify.com/album/0UbZsriAgsJ7uBcBidE1ks) | 3:09 | 2022-02-17 | 2022-08-05 |

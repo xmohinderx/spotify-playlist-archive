@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: J Jelly
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Gwenji
 
-340 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+344 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Magnetism of Hades Remix](https://open.spotify.com/track/2Bp5WUDxtrbF5hUwJrCfoF) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [DylanHing](https://open.spotify.com/artist/0fJGSPa3GA3WshZq490glo) | [Magnetism of Hades Remix](https://open.spotify.com/album/41uGtFXeAgO78jm5QwzBsF) | 3:30 | 2022-05-26 | 2022-09-09 |
 | [Meteor \(ft\. XTIE\)](https://open.spotify.com/track/6gVWfhKoyqo6og7at367jo) | [Kepatime](https://open.spotify.com/artist/3iy22x5OmyJo3fR8C830u4), [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Meteor \(ft\. XTIE\)](https://open.spotify.com/album/0mJh1ggPbCmtI7FdiH3RXT) | 3:44 | 2022-08-11 | 2022-11-04 |
 | [Milk Tea](https://open.spotify.com/track/1253emKVUpxXPWB7Cltapk) | [嚴駿祺](https://open.spotify.com/artist/38m0kCZDDi22UDW0MgRhbx) | [Milk Tea](https://open.spotify.com/album/2yeerOJhWhJzEBCYXwECJC) | 4:06 | 2022-05-26 | 2022-07-29 |
+| [Mini Christmas Song](https://open.spotify.com/track/2Q0dy2I3dGGLoCYGLqDnx2) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Mini Christmas Song](https://open.spotify.com/album/3nWk4rKZpnWwerFvx1yG7W) | 2:09 | 2022-12-22 |  |
 | [MISTRESS](https://open.spotify.com/track/4iDwZYGMHF30Nh12OUHtcD) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [MISTRESS](https://open.spotify.com/album/5Z11m001u3WTHH5sDxLXFC) | 3:01 | 2022-11-03 |  |
 | [MK Nose](https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [Qqbbg](https://open.spotify.com/artist/6ZmrXLpXLuqQRvZNvgHg1O) | [MK Nose](https://open.spotify.com/album/7aprLIUrc6j6iq3jtaveA4) | 2:29 | 2022-09-08 |  |
 | [Monsoon](https://open.spotify.com/track/4fKsTs4EEVirWN9NNswks8) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [黃浩琳](https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH) | [Monsoon](https://open.spotify.com/album/0ctCyFo8GsF9mXbc9EehCg) | 3:24 | 2022-10-13 |  |
@@ -171,6 +172,7 @@
 | [So Deep!](https://open.spotify.com/track/6pcFkRhg2X2nr4Wpexo02r) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [So Deep!](https://open.spotify.com/album/3yOeb9vjEp2rF4Ea9hiYwE) | 3:50 | 2022-06-02 | 2022-09-09 |
 | [So Far Away](https://open.spotify.com/track/21kQdblL7CTYzOjlFlD3lV) | [ANDREAH](https://open.spotify.com/artist/02yssJvjMJdJ3nueVhig4j) | [So Far Away](https://open.spotify.com/album/0TVRdGCGcyJ1Uj34ZdEmEO) | 4:03 | 2022-09-22 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 | 2022-07-29 |
+| [sorry it's december](https://open.spotify.com/track/7oReofzcCaync7NIOx4gnA) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [sorry it's december](https://open.spotify.com/album/78R3ypvc7HzPLf35YkUJh6) | 2:51 | 2022-12-22 |  |
 | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/track/7BCMGPexL5U99IY3pBrxog) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71), [sunshine blvd.](https://open.spotify.com/artist/0hqb9YnV2YAr2lPHwn5rKe) | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6) | 2:53 | 2022-05-26 | 2022-07-29 |
 | [Spaceship](https://open.spotify.com/track/3w6VSyZ1isHJ53YHDdT2CE) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/7qXjSLSvngusEgkvX7m5uU) | 3:23 | 2022-10-13 | 2022-11-04 |
 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 | 2022-07-07 | 2022-10-19 |
@@ -240,6 +242,7 @@
 | [倒數16日](https://open.spotify.com/track/5iMs7SrutkqdLExe8qtikM) | [Cy Leo 何卓彥](https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG) | [倒數16日](https://open.spotify.com/album/3kNlI4beTgOMTeWSXY8lXF) | 2:59 | 2022-07-07 | 2022-11-04 |
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-17 |  |
 | [做人一定要養貓](https://open.spotify.com/track/7xws2xMDZivp8H4Vezqx1W) | [陳祖](https://open.spotify.com/artist/0OQ3SXHIjoWmRAEX2qwRog) | [做人一定要養貓](https://open.spotify.com/album/4NJ2bVCzDjV8zTFQQUTGz5) | 2:43 | 2022-05-26 | 2022-07-29 |
+| [健康 HEALTHY](https://open.spotify.com/track/2Btcaum5kNbqbmEeNXL1mj) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [健康 HEALTHY](https://open.spotify.com/album/4n3a4YvzpSLPwJUacZjLJ4) | 1:51 | 2022-12-22 |  |
 | [光](https://open.spotify.com/track/1FaWHaqHzNag0AGkM2lPXO) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Callous Room](https://open.spotify.com/album/6f7w2CEVF64paCqtEtXsOe) | 2:45 | 2022-12-08 |  |
 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 | 2022-09-08 |  |
 | [其實咩關係唔緊](https://open.spotify.com/track/0dCROcDt5hH5snFfdrwQQ0) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [其實咩關係唔緊](https://open.spotify.com/album/1NqxwlCp0NIuNa5w3OsIoD) | 2:52 | 2022-05-26 | 2022-06-10 |
@@ -264,6 +267,7 @@
 | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/track/2t5nL7RagGw1jJGy0Bve76) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Teriver Cheung](https://open.spotify.com/artist/4vPd1Ln6Xn65TCTvhT6ARy) | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/album/65MVSKnupszlQDM48dTzqr) | 4:06 | 2022-05-26 | 2022-07-29 |
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-13 |  |
 | [平行線上](https://open.spotify.com/track/1ceXW7hLxqfaINttNnq4Ug) | [DEZ余宗遙](https://open.spotify.com/artist/0gO6exxCesSGRThkEHTk2Z) | [平行線上](https://open.spotify.com/album/1Ayd6fJ3cu4CVRfh0Xs57y) | 4:00 | 2022-09-08 |  |
+| [平行線上 \- 幽光 Version](https://open.spotify.com/track/7yH6VqhjvI8NrJLJUaHZX1) | [DEZ余宗遙](https://open.spotify.com/artist/0gO6exxCesSGRThkEHTk2Z), [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [平行線上 \(幽光 Version\)](https://open.spotify.com/album/1DHzTV9Fx8QdNPI6rSXxr4) | 4:00 | 2022-12-22 |  |
 | [康泰旅行團](https://open.spotify.com/track/7vOtPVVGW1vmrPbHcu20gp) | [Ernest Poon](https://open.spotify.com/artist/7L6kkriuakfeQmORdXFDQ0), [康泰旅行團](https://open.spotify.com/artist/51t1USWSiw0lgT3COvxjsy) | [康泰旅行團](https://open.spotify.com/album/2RAiaA2aitVPHBp1cNV5yD) | 3:35 | 2022-10-27 |  |
 | [廢人](https://open.spotify.com/track/3oQyBul5XtDGNTP0mvcCWQ) | [Kylis Hung](https://open.spotify.com/artist/6N5J0PO9Rs8eFR33yM0F3M) | [廢人](https://open.spotify.com/album/2cpw6vOtyuzwDgLlXpqgcZ) | 3:32 | 2022-07-28 | 2022-09-09 |
 | [慢慢滲](https://open.spotify.com/track/2QIFXAEdrsftSCwM9AyV7k) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [慢慢滲](https://open.spotify.com/album/3obTF7CHZr21LVcClNhHIC) | 2:19 | 2022-06-09 | 2022-09-09 |

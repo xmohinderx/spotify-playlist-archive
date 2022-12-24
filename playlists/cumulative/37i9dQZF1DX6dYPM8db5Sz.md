@@ -2,7 +2,7 @@
 
 ### [SAlt](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The freshest South African indie music\. Cover: <a href="https://open.spotify.com/artist/4F67Td1MFg10RECDJz3YU6?si=lGQUfiV\-S6Ocjg6FaU8pgg">Valley Sixteen</a>
+> The freshest South African indie music\. Cover: <a href="https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=kKwhOTwZSb67txT6pxokGg">Nakhane</a>
 
 112 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/725N8DiCOBrEyrBxUeYOar)
 

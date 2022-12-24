@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDI1ZmRkZDhmN2RkNjFjMDliMWExYTUwNDg2NTkwYjQ2",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDc3M2YxZGRlOTQyMWQ5MmQ4M2U1NTA5OWFjZTY3MDZl",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "No Effort",
-        "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "No Effort",
-      "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "El Derecho de Vivir en Paz",
         "url": "https://open.spotify.com/album/72TMw0zavcWwbzU8j2gOmg"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 227444,
       "name": "El Derecho de Vivir en Paz",
       "url": "https://open.spotify.com/track/2xuYcmQW7sFoVHygnyP2k1"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "No Effort",
+        "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "No Effort",
+      "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "50ft.",
-        "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 185910,
-      "name": "50ft.",
-      "url": "https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "50ft.",
+        "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 185910,
+      "name": "50ft.",
+      "url": "https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Electrica",
-        "url": "https://open.spotify.com/album/2lj326xftmGNvaG0sEwX0U"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "rosmailin wa",
-          "url": "https://open.spotify.com/artist/3XlmlCduqAlfsTPNAR0zIK"
-        }
-      ],
-      "duration_ms": 125666,
-      "name": "Electrica",
-      "url": "https://open.spotify.com/track/37rWH6oWKMq8JTadyzmbNG"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
         "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 174988,
       "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
       "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Electrica",
+        "url": "https://open.spotify.com/album/2lj326xftmGNvaG0sEwX0U"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "rosmailin wa",
+          "url": "https://open.spotify.com/artist/3XlmlCduqAlfsTPNAR0zIK"
+        }
+      ],
+      "duration_ms": 125666,
+      "name": "Electrica",
+      "url": "https://open.spotify.com/track/37rWH6oWKMq8JTadyzmbNG"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Mi Regalo, Mis N\u00famero 1...",
-        "url": "https://open.spotify.com/album/5emmvRD2uuSJAn12txkj7W"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 219680,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/64zeBVnG4AnN4gnNrKQEvX"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Mi Regalo, Mis N\u00famero 1...",
+        "url": "https://open.spotify.com/album/5emmvRD2uuSJAn12txkj7W"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Jap\u00f3n",
-        "url": "https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU"
-      },
-      "artists": [
-        {
-          "name": "Carlos Zaur",
-          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Jap\u00f3n",
-      "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 216000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Jap\u00f3n",
+        "url": "https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Jap\u00f3n",
+      "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Toy en la calle 90'",
-        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 167385,
-      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "J\u00c1J\u00c1 \u00c9Q\u00da\u00cdSD\u00c9 (Distop\u00eda Aburrida)",
         "url": "https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 233500,
       "name": "Rubberhand",
       "url": "https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Toy en la calle 90'",
+        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        }
+      ],
+      "duration_ms": 167385,
+      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 193340,
-      "name": "Buena Suerte Muchacha",
-      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Como un Drag\u00f3n",
         "url": "https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 168734,
       "name": "Como un Drag\u00f3n",
       "url": "https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 193340,
+      "name": "Buena Suerte Muchacha",
+      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "MANLY FRESA",
+        "url": "https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm"
+      },
+      "artists": [
+        {
+          "name": "Kuinvi",
+          "url": "https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr"
+        }
+      ],
+      "duration_ms": 95121,
+      "name": "MANLY FRESA",
+      "url": "https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/7b93aISs275w7pbYyEKvNA"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 195000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6phOWuwDjzWnFAaUVUpOdo"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "MANLY FRESA",
-        "url": "https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm"
-      },
-      "artists": [
-        {
-          "name": "Kuinvi",
-          "url": "https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr"
-        }
-      ],
-      "duration_ms": 95121,
-      "name": "MANLY FRESA",
-      "url": "https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u"
     },
     {
       "added_at": "2022-07-05 19:20:04",

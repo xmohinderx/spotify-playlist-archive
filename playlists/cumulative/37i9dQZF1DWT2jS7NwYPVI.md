@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Liily
 
-1,034 songs - 2 day 6 hr 53 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+1,035 songs - 2 day 6 hr 55 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 | 2022-06-10 | 2022-09-03 |
 | [Dangerous State of Mind](https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Dangerous State of Mind](https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD) | 1:55 | 2022-07-08 | 2022-09-24 |
 | [Dark Days \(feat\. Jeris Johnson\)](https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Dark Days \(feat\. Jeris Johnson\)](https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO) | 2:50 | 2022-03-04 | 2022-05-28 |
+| [Dark Enough to See the Stars](https://open.spotify.com/track/2qp9ar5F0369WhoBgEZfZF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Winter](https://open.spotify.com/album/2WJsNhU7H0rZQzWdMVQ4NV) | 2:36 | 2022-12-23 |  |
 | [Dark Sun](https://open.spotify.com/track/1buf7Tdujh2fdJ0MogqwI4) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:38 | 2022-11-04 | 2022-11-12 |
 | [Darker Shade of Blue](https://open.spotify.com/track/3fAzdolicRXWH8eCVBr9Ne) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/5caQqUhzcKdkbZKlIOJson) | 3:18 | 2022-10-14 | 2022-11-12 |
 | [Dead](https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Dead](https://open.spotify.com/album/3QutVC0xl9EKHyHeUhUV21) | 3:39 | 2022-07-01 | 2022-07-30 |

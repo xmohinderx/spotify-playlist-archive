@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-475 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+477 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Ladder to the Stars](https://open.spotify.com/track/1SAux0dXdZBJphTIr6zg6p) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ladder to the Stars](https://open.spotify.com/album/25UuqndPirVvQoJxONlsMw) | 2:53 | 2022-09-09 |  |
 | [Laid Back](https://open.spotify.com/track/4RSqg42O3PdvhC7NWWDgi7) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Laid Back](https://open.spotify.com/album/4aPS6xJ3NI4AMUpzxq7gYQ) | 2:08 | 2022-06-24 |  |
 | [Lambretta](https://open.spotify.com/track/2p1kUy8Ctpf9SoLYBV8kU4) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Lambretta](https://open.spotify.com/album/1eQv325I08qzMQcdaW5nPj) | 2:07 | 2022-07-01 |  |
+| [Landscapes](https://open.spotify.com/track/2tiS22ZNe7hQXlXV9tbC2b) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Landscapes](https://open.spotify.com/album/663gCPIce9BBNGuHmixOvM) | 2:58 | 2022-12-23 |  |
 | [Laponia](https://open.spotify.com/track/1UWszS2YSzYNxUNv14e2x4) | [J&Mock](https://open.spotify.com/artist/1YXxp9FBi4cEJSvFgU4ydk) | [Laponia](https://open.spotify.com/album/6d6UbXOpNqgyJ8AE8P5TRP) | 2:32 | 2021-11-10 |  |
 | [Last Summer](https://open.spotify.com/track/6Bqz6Yl5ZjMgR4AUVCIL77) | [Ajiro](https://open.spotify.com/artist/33DMJIaq5YdW41SvVQPk1w) | [A Great Place](https://open.spotify.com/album/0dJcjVO6bnDHyUyuLuGrBw) | 1:34 | 2022-05-13 | 2022-07-01 |
 | [Legends of the Windwalker Prince](https://open.spotify.com/track/4xVzuqZOPhJDOBuD7lOQTe) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 2:38 | 2021-11-10 | 2022-01-22 |
@@ -274,6 +275,7 @@
 | [Moving Sidewalks](https://open.spotify.com/track/5mU0aCoAfVlxsRRyQyz5v9) | [The Samplers](https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40) | [Moving Sidewalks](https://open.spotify.com/album/4w6kOiFn2YqnH22UwL5ivc) | 1:37 | 2022-07-01 |  |
 | [My Guitar Gently Beeps](https://open.spotify.com/track/5cCU1vF7kwZDveCsSeEFSO) | [Leandi](https://open.spotify.com/artist/6s4kY85iUHP3nFjmuMbxUH) | [Paradise Sub](https://open.spotify.com/album/2KdzvnbDgx3hAfHpk2UJAn) | 1:36 | 2021-11-10 | 2022-04-15 |
 | [Nacho Mood](https://open.spotify.com/track/0B8XQw5W2ao2EBLJmMVTPv) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Nacho Mood](https://open.spotify.com/album/6ArCIZSl8U33dboMdtB3t9) | 2:27 | 2022-11-25 |  |
+| [Namibia](https://open.spotify.com/track/5EJ5DJZZvMUTCUERZPlBzk) | [Trp70](https://open.spotify.com/artist/5369sNvemS3EcFFUYAJO7H) | [Namibia](https://open.spotify.com/album/17W4zrdrvtIlfmizfuTqTg) | 3:26 | 2022-12-23 |  |
 | [Napoli Back Alleys](https://open.spotify.com/track/6NZMz8XyEGKmVc7ngRBlkt) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Napoli Back Alleys](https://open.spotify.com/album/7JhraTphMLQA2lSzEnWvrd) | 1:49 | 2021-11-10 | 2022-04-15 |
 | [Neblina](https://open.spotify.com/track/7DR02Su5fawrNTh03YVRib) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Neblina](https://open.spotify.com/album/42aiAWmDEGvkWUgpcDqkTF) | 3:16 | 2021-11-10 | 2022-05-11 |
 | [Neon Avenue](https://open.spotify.com/track/7mse3o5ozkyUJsRSuNCdrP) | [Dreams in Sound](https://open.spotify.com/artist/6rmp8PvZMALINoXP9b30uN) | [Neon Avenue](https://open.spotify.com/album/4mwhPlCMv6pt8Yy6xEk2WR) | 2:50 | 2021-11-10 | 2022-07-01 |

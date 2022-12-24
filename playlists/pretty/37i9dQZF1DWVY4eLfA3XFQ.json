@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Kyle Watson.",
-  "num_followers": 570972,
+  "num_followers": 571249,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGYxMWIxMDM2MmJiNWI3YmEwYzVjNmNjMzIwOTFhZjFl",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGQ3N2U3YTRmMzI2NmU0YzZiNGUxN2JhYTg2YjBlYWJi",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -37,7 +37,7 @@
         }
       ],
       "duration_ms": 169652,
-      "name": "Roller Coaster - Radio Edit",
+      "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/2j9Cp1haqQMOtpxwaoUn2e"
     },
     {
@@ -427,6 +427,22 @@
       "duration_ms": 169523,
       "name": "Only You",
       "url": "https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Cuando Vengas",
+        "url": "https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Cuando Vengas",
+      "url": "https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1537,22 +1553,6 @@
       "url": "https://open.spotify.com/track/13WOWmxe7qKZT3apaJaVLs"
     },
     {
-      "added_at": "2022-07-15 18:14:48",
-      "album": {
-        "name": "Que Lo Que",
-        "url": "https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE"
-      },
-      "artists": [
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Que Lo Que",
-      "url": "https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Two Caps",
@@ -1799,26 +1799,6 @@
       "duration_ms": 256614,
       "name": "Drummers Mind - Original Edit",
       "url": "https://open.spotify.com/track/0iq6bJBeZYstW81rYEY5yT"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Run It Back (feat. Kid Enigma)",
-        "url": "https://open.spotify.com/album/1kwtrdI6tXhYIM48KPZ1YF"
-      },
-      "artists": [
-        {
-          "name": "Return Of The Jaded",
-          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
-        },
-        {
-          "name": "Kid Enigma",
-          "url": "https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE"
-        }
-      ],
-      "duration_ms": 182598,
-      "name": "Run It Back (feat. Kid Enigma)",
-      "url": "https://open.spotify.com/track/4dDpTrqAAddlGRpgBCsuaS"
     },
     {
       "added_at": "2022-10-07 04:00:00",

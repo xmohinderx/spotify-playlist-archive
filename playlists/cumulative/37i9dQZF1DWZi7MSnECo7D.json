@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 200086,
       "name": "Boca Aberta",
       "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
@@ -1809,6 +1809,24 @@
       "duration_ms": 240370,
       "name": "Essa Garoa",
       "url": "https://open.spotify.com/track/4671UclmP4TO0I8ps2YgW9"
+    },
+    {
+      "album": {
+        "name": "Essa Pessoa Esquisita",
+        "url": "https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv"
+      },
+      "artists": [
+        {
+          "name": "Adriano Cintra",
+          "url": "https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296821,
+      "name": "Essa Pessoa Esquisita",
+      "url": "https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v"
     },
     {
       "album": {
@@ -5275,7 +5293,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 126514,
       "name": "Todo Mundo (Menos Eu)",
       "url": "https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT"
@@ -5297,6 +5315,24 @@
       "duration_ms": 199580,
       "name": "Transtornos",
       "url": "https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW"
+    },
+    {
+      "album": {
+        "name": "Trap Triste",
+        "url": "https://open.spotify.com/album/1A5g9AosXCIwwTUT8Z25dm"
+      },
+      "artists": [
+        {
+          "name": "Biltre",
+          "url": "https://open.spotify.com/artist/2mQmDB0JpRnx5MsU6RBeev"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181532,
+      "name": "Trap Triste",
+      "url": "https://open.spotify.com/track/4wEWy4TSZbRj7EqjBHyVUc"
     },
     {
       "album": {

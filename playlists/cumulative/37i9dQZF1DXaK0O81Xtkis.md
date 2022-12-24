@@ -4,7 +4,7 @@
 
 > make it pop! cover: The 1975
 
-506 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+510 songs - 1 day 1 hr 56 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [How A Man Dies](https://open.spotify.com/track/0MiKxRkGK127P3liLJ8qYt) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [How A Man Dies](https://open.spotify.com/album/1lToLshywdyoNMqRqUWDHg) | 3:34 | 2022-01-28 | 2022-02-26 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2022-09-17 |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-01-21 | 2022-02-26 |
+| [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-12-23 |  |
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-04 | 2022-05-07 |
 | [Hurt My Feelings](https://open.spotify.com/track/5VuJUyQa6doN53RMjjNo65) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Hurt My Feelings](https://open.spotify.com/album/5FRAelEQwWoSJgZ6liCJzs) | 2:56 | 2022-06-10 | 2022-08-06 |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 |  |
@@ -371,7 +372,7 @@
 | [Riptide](https://open.spotify.com/track/7dDQ7tGCVaqOfng9dwSCM2) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Riptide](https://open.spotify.com/album/1FjvRCNvO3ZFJp6OlTY7d0) | 3:00 | 2022-01-07 | 2022-02-26 |
 | [rock music](https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [luca](https://open.spotify.com/album/5sHVvoJi5rV8L5rgEVc18o) | 3:42 | 2022-02-25 | 2022-03-18 |
 | [rocket science](https://open.spotify.com/track/55cwGtYrExG7slEAor5jeR) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [rocket science](https://open.spotify.com/album/2AnbP606iCAadKQyqfxq32) | 2:32 | 2021-11-12 | 2022-03-18 |
-| [ROLLIN DICE](https://open.spotify.com/track/2CQU7ZryOFVcFUVFMXCL3C) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [ROLLIN DICE](https://open.spotify.com/album/3nRxmVSbUJuvpZ0vQEeoXT) | 3:05 | 2022-11-18 |  |
+| [ROLLIN DICE](https://open.spotify.com/track/2CQU7ZryOFVcFUVFMXCL3C) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [ROLLIN DICE](https://open.spotify.com/album/3nRxmVSbUJuvpZ0vQEeoXT) | 3:05 | 2022-11-18 | 2022-12-24 |
 | [Room 421](https://open.spotify.com/track/4R4Ha6DCyGFP30FjWwrkZl) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Room 421](https://open.spotify.com/album/1ezYtPUMHwEnlcgGbkN7v1) | 2:40 | 2022-04-22 | 2022-07-30 |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 |  |
 | [Run For Your Money](https://open.spotify.com/track/0pn8aJZkNWO9kOfQRnCQmc) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Run For Your Money](https://open.spotify.com/album/0uAuIL6x1xZLWGnuyg4Hbq) | 2:39 | 2021-10-29 | 2021-12-25 |
@@ -430,7 +431,7 @@
 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 |  |
 | [Stupid Song](https://open.spotify.com/track/109p6uZX2HZOaPGUGdzwYI) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Stupid Song](https://open.spotify.com/album/3XFQ1yrmUFcqWodP3MTfMf) | 3:19 | 2022-03-04 | 2022-04-29 |
 | [Summertime](https://open.spotify.com/track/6uSU3s6JZOZDxowW4Fragc) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Summertime](https://open.spotify.com/album/2NnIGE6mh0IlHhcCJ8zFPu) | 3:07 | 2022-08-26 | 2022-10-01 |
-| [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-08-26 |  |
+| [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-08-26 | 2022-12-24 |
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-04-29 | 2022-07-23 |
 | [Sunburn](https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Banish The Banshee](https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk) | 2:50 | 2022-05-27 | 2022-08-13 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-12-10 | 2022-03-18 |
@@ -498,7 +499,9 @@
 | [WHO HURT YOU?](https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [WHO HURT YOU?](https://open.spotify.com/album/3DFbl7qb3fUiZ91kDNyf3p) | 2:22 | 2022-04-29 | 2022-06-25 |
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/track/7CRThl2cGDh1o9p3ivaLbG) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/album/18I1ughAhwfDLtaU9eX3uW) | 2:23 | 2022-08-19 | 2022-11-12 |
+| [Wild Things](https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Wild Things](https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj) | 3:39 | 2022-12-23 |  |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-24 | 2022-02-26 |
+| [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-12-23 |  |
 | [Wish You the Worst](https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ) | 2:23 | 2022-05-20 | 2022-08-19 |
 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-06-10 | 2022-08-27 |
 | [Wish You Were Here](https://open.spotify.com/track/5HH4smD2ZGTGx0H7rHTutW) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Wish You Were Here](https://open.spotify.com/album/4RlftpZGhEgnraSN2vUV2h) | 2:10 | 2022-06-17 | 2022-08-27 |
@@ -511,6 +514,7 @@
 | [y can’t we b friends?](https://open.spotify.com/track/0RU3WmtsA8oUpgbH3XxTpj) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [y can’t we b friends?](https://open.spotify.com/album/6HAp1zaGP4uL7IxXKAI5K8) | 2:35 | 2022-05-27 | 2022-07-09 |
 | [You Make Me Mad](https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/2Bn7ms5tZRXGvZOOT55OOf) | 3:06 | 2021-10-29 | 2022-01-08 |
 | [You Shaped Hole](https://open.spotify.com/track/5AoSpWbDyhpHvB6RwjM2c7) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 2:59 | 2021-10-29 | 2022-01-08 |
+| [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 | 2022-12-23 |  |
 | [YOUR GHOST](https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [LOSS ANGELES: OVERDOSE](https://open.spotify.com/album/4J0gMzK8BpoGaNtHdTbH2W) | 2:53 | 2022-03-25 | 2022-04-29 |
 | [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-04 | 2022-03-18 |
 | [Your Mom](https://open.spotify.com/track/4XpOw6STEFTNIpHeF1nXrI) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:08 | 2022-04-01 | 2022-04-09 |

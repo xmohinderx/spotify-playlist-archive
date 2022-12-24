@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 513101,
+  "num_followers": 513703,
   "original_name": "ROCK 'N' RUN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA2NDA5NCwwMDAwMDAwMDJkODdjMTBiZTQ5NWQ3MGZmMGNkZmQ1ZjdmMjdkOGVm",
+  "snapshot_id": "MTY2OTA2NDA5NCwwMDAwMDAwMDMzYzMyOWM3MDYwZWYxMTVkODNlNDgxYzYzNTlmN2Q1",
   "tracks": [
     {
       "added_at": "2022-11-21 20:54:53",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-21 20:54:53",
       "album": {
-        "name": "With Confidence",
-        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 177220,
-      "name": "What You Make It",
-      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
-    },
-    {
-      "added_at": "2022-11-21 20:54:53",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
+    },
+    {
+      "added_at": "2022-11-21 20:54:53",
+      "album": {
+        "name": "With Confidence",
+        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 177220,
+      "name": "What You Make It",
+      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
     },
     {
       "added_at": "2022-11-21 20:54:53",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-11-21 20:54:53",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 332413,
-      "name": "The Borders",
-      "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
-    },
-    {
-      "added_at": "2022-11-21 20:54:53",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195680,
       "name": "The River",
       "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
+    },
+    {
+      "added_at": "2022-11-21 20:54:53",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 332413,
+      "name": "The Borders",
+      "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
     },
     {
       "added_at": "2022-11-21 20:54:53",

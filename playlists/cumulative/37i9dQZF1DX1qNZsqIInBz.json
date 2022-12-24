@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 166486,
       "name": "CAMELLIA",
       "url": "https://open.spotify.com/track/47M4KLl1G1Yq48hZgbN42j"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 194787,
       "name": "EMPHASIS",
       "url": "https://open.spotify.com/track/33wy9ENUVmxzSVUuMFCKD3"
@@ -1700,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Ridge Crest",
+        "url": "https://open.spotify.com/album/4Rp8x8ZeJjVX0aQAnCGYNy"
+      },
+      "artists": [
+        {
+          "name": "dxprxsslve",
+          "url": "https://open.spotify.com/artist/61QWo0cPeQFZt2U1gEjyl9"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172486,
+      "name": "Ridge Crest",
+      "url": "https://open.spotify.com/track/4wQG1yyeTSoDCppLzBXJ9m"
+    },
+    {
+      "album": {
         "name": "seaside",
         "url": "https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts"
       },
@@ -1737,6 +1755,28 @@
       "duration_ms": 170887,
       "name": "See U",
       "url": "https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ"
+    },
+    {
+      "album": {
+        "name": "SEE U IN WINTER",
+        "url": "https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9"
+      },
+      "artists": [
+        {
+          "name": "winternarnia",
+          "url": "https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3"
+        },
+        {
+          "name": "NONTHENSE",
+          "url": "https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151630,
+      "name": "SEE U IN WINTER",
+      "url": "https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL"
     },
     {
       "album": {

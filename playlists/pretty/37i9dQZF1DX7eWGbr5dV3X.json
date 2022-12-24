@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7399,
+  "num_followers": 7409,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDIxMTU5NDJhNTA1ODEzYmE4Mzg5MjRmZjA3YTcyNzAz",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGJiMmNjZTVlODI5NmM4YzNjNzhjOTk2MzQ1MTljYmUx",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Mess",
-        "url": "https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
         "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 273080,
       "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
       "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "K I'm Mortal",
-        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
-      },
-      "artists": [
-        {
-          "name": "Kimmortal",
-          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "K I'm Mortal",
-      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 191684,
       "name": "Abide",
       "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "K I'm Mortal",
+        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
+      },
+      "artists": [
+        {
+          "name": "Kimmortal",
+          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "K I'm Mortal",
+      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
     },
     {
       "added_at": "2022-08-25 15:45:44",

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-998 songs - 2 day 3 hr 15 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+1,000 songs - 2 day 3 hr 21 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,7 @@
 | [ok bye](https://open.spotify.com/track/1O1T7oQUQ9jS7gADehnoIv) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [ok bye](https://open.spotify.com/album/1m6kdOef5MVsu2I5iu31YO) | 3:00 | 2022-05-13 |  |
 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/3VPYvUpoIyBTormdQdVAkW) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s) | 3:28 | 2020-10-29\* | 2021-01-15 |
 | [Oldest Teenager](https://open.spotify.com/track/0PNVMcb2Y6q4SHnKQLl4b5) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [Oldest Teenager](https://open.spotify.com/album/4Moa9v6iF62W4410haXRJp) | 3:16 | 2020-10-29\* | 2021-02-13 |
-| [on fridays](https://open.spotify.com/track/7aNXk8TsrtAoNHRXg9DHwq) | [Colin Carbonera](https://open.spotify.com/artist/730ZZ5nFuueEYwTdNhn0eS) | [on fridays](https://open.spotify.com/album/1vU3U4pczRtIZfuYiVRpUq) | 3:42 | 2022-08-05 |  |
+| [on fridays](https://open.spotify.com/track/7aNXk8TsrtAoNHRXg9DHwq) | [Colin Carbonera](https://open.spotify.com/artist/730ZZ5nFuueEYwTdNhn0eS) | [on fridays](https://open.spotify.com/album/1vU3U4pczRtIZfuYiVRpUq) | 3:42 | 2022-08-05 | 2022-12-24 |
 | [On Repeat \(feat\. Cigarettes After Sex & Lexi Jayde\)](https://open.spotify.com/track/76y9kdLOsF0g2uMpQKdJk7) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj), [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 | 2021-02-27 | 2021-05-08 |
 | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/track/3kYd839jswPw1go3Sd6nvf) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/album/3Pa9zmTEmVn16bzR0DWibl) | 3:49 | 2020-10-29\* | 2020-11-04 |
 | [On Your Side](https://open.spotify.com/track/4QaNcBEEzo8iTetgnZ1PUj) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [On Your Side](https://open.spotify.com/album/03lh3gqeP8wvvqe2ou9jW3) | 4:08 | 2021-06-19 | 2021-08-14 |
@@ -782,6 +782,7 @@
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-12 | 2021-06-19 |
 | [Solitary Mess](https://open.spotify.com/track/6qAYpZ3EmW1isIRGjsW6Tx) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [i'm not afraid of heights](https://open.spotify.com/album/79mPAVTqZ4R86YnmvGN9n0) | 2:58 | 2021-07-31 | 2021-10-23 |
 | [Solo Night](https://open.spotify.com/track/3uBsKpfduBQH3urCb4Z05y) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:12 | 2022-05-20 |  |
+| [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 | 2022-12-23 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/3la1J2DCliJL4t1QmmF2JE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Somebody That I Used To Know](https://open.spotify.com/album/6Bvt9VOWArLCq7n5aqIJEU) | 4:56 | 2021-10-16 | 2021-11-27 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-23 | 2021-04-17 |
 | [Someone Special](https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Someone Special](https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj) | 4:16 | 2020-10-29\* | 2021-01-15 |
@@ -990,6 +991,7 @@
 | [You Want Everyone To Love You](https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i’ve lived](https://open.spotify.com/album/5upABJYpPbI6bGWI4UlaEM) | 4:04 | 2021-10-02 | 2022-04-02 |
 | [you were in my dream](https://open.spotify.com/track/0Lg3v086REgQTLexgvfWDE) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [you were in my dream](https://open.spotify.com/album/3Kq9ayCMlcTr6dpm77qNwM) | 3:26 | 2022-05-20 | 2022-07-02 |
 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 | 2021-02-19 | 2021-04-17 |
+| [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 | 2022-12-23 |  |
 | [You're in the Way](https://open.spotify.com/track/3DVhLbfqydZoui3oL8kfti) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [You're in the Way](https://open.spotify.com/album/3M5T4rxlIzbGvlQfToUkKJ) | 2:47 | 2022-11-11 |  |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2020-10-29\* | 2021-02-13 |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-01-16 | 2021-02-13 |

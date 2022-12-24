@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 100452,
+  "num_followers": 100637,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDUyNTVlM2E1MmY5YzA5ZTBiY2NhMjhiNTVhZmExNDRh",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDVjNjNkYzRlM2Y5Y2JjNTk2YmRmMzUyNTU1OGI5OTQw",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -803,6 +803,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Magic Love (Remixes)",
+        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
+      },
+      "artists": [
+        {
+          "name": "Bent",
+          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Magic Love - Radio Edit",
+      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Magic Love (Remixes)",
-        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
-      },
-      "artists": [
-        {
-          "name": "Bent",
-          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Magic Love - Radio Edit",
-      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Permutation",
         "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 282573,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 426614,
-      "name": "La femme d'argent",
-      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -899,6 +883,22 @@
       "duration_ms": 290840,
       "name": "Purrfect",
       "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 426614,
+      "name": "La femme d'argent",
+      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -967,38 +967,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 458666,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Felt Mountain",
-        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Satta",
         "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
       },
@@ -1015,18 +983,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
       "artists": [
         {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         }
       ],
-      "duration_ms": 401333,
-      "name": "In The Bath",
-      "url": "https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP"
+      "duration_ms": 458666,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1051,6 +1019,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Supermodified",
         "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 337506,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 401333,
+      "name": "In The Bath",
+      "url": "https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Suzuki",
         "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 272613,
       "name": "Ocean Beat",
       "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2020-09-04 01:12:56",

@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-306 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+307 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [siesta session](https://open.spotify.com/track/3bG8hQQ9BwBgp8GkADPNJH) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [siesta session](https://open.spotify.com/album/7yuhXY4W2AFov0rqKqIGk7) | 3:04 | 2022-11-25 |  |
 | [Sleep Online](https://open.spotify.com/track/4njORatgD4DQOZsgio3Wiq) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Sungaze](https://open.spotify.com/album/1qHZRhAkC4JTXgYVi8LUXT) | 4:06 | 2022-02-11 |  |
 | [sleep palace](https://open.spotify.com/track/4bDnBDaDdc9k3Hr1TNc7zP) | [Ramen Police](https://open.spotify.com/artist/0knrIAATZf0t428Hx8qmS9) | [sleep palace](https://open.spotify.com/album/1vXsP7xiL2Je9NuPFkn9Wa) | 3:06 | 2021-10-12 | 2022-02-12 |
+| [Slip N Slide](https://open.spotify.com/track/3TOtSGvIYxvtMihDlt7BXm) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Luxe](https://open.spotify.com/album/2uSZqQyCiSEUs4IIuPCMn8) | 3:07 | 2022-12-23 |  |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-02-11 |  |
 | [Sneeze](https://open.spotify.com/track/74481nLSrNAlMH2kgh84uj) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Sneeze](https://open.spotify.com/album/6xRxDeAhqPA4rqEFfCqCTP) | 2:42 | 2019-10-04 | 2022-02-12 |
 | [Soft Touch](https://open.spotify.com/track/0SqV6u3HBoMfje0k2CkB3d) | [Need For Speed](https://open.spotify.com/artist/1Dtses9ARjOholLUpr0rMN) | [Soft Touch](https://open.spotify.com/album/0gYTUadKK0rPk94tHBmxVq) | 4:05 | 2019-10-04 | 2022-02-12 |

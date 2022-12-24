@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,272 likes - 1,167 songs - 3 day 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,424 likes - 1,167 songs - 3 day 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 27 | [Ou\-Ou\-Ta](https://open.spotify.com/track/4Nmg8CI6dCfaTN2pV49fwt) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [The Walias](https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2) | [Tezeta](https://open.spotify.com/album/7l6cwZjSOsaOYD20YaFODd) | 3:23 |
 | 28 | [Exchange No Robbery](https://open.spotify.com/track/5DnTKViBDbm0J2yHo8ZoPG) | [Mighty Dougla](https://open.spotify.com/artist/7fcrtzZf5rD5ntxSLH9WXW) | [Jamaica Is The Place To Go](https://open.spotify.com/album/3QyzPEVKOMeDgrYg4sYHKO) | 4:08 |
 | 29 | [Jean Fouille, Pie Fouille](https://open.spotify.com/track/59J3fKAE0ZSEIEnxZ13q7u) | [Robert Loison](https://open.spotify.com/artist/7tLSBwXVdIm5XVX1KpoBf6) | [Tumbélé! Biguine, Afro & Latin Sounds from the French Caribbean, 1963\-77](https://open.spotify.com/album/5qeuKbLhfZi3ReBAw0R8bV) | 5:08 |
-| 30 | [Nossos Dias São Outros](https://open.spotify.com/track/5hbrpMT3pC50Gxfrc6lMkX) | [Mário Lúcio](https://open.spotify.com/artist/0l0E5CN1nDzWU8hwwareoI) | [Nossos Dias São Outros](https://open.spotify.com/album/243y5PspCdl6ZhXZzNP2SF) | 2:50 |
+| 30 | [Nossos Dias São Outros](https://open.spotify.com/track/5hbrpMT3pC50Gxfrc6lMkX) | [Mário Lúcio](https://open.spotify.com/artist/6N3oaT6ko0how8LS769KNc) | [Nossos Dias São Outros](https://open.spotify.com/album/243y5PspCdl6ZhXZzNP2SF) | 2:50 |
 | 31 | [The Little You Say](https://open.spotify.com/track/6ie42luBgDftoUzAUFQWkZ) | [The Revolution Of St\. Vincent](https://open.spotify.com/artist/6qjEgK3xXMCBbTcfM5gxlF) | [Tropical funk Holy Grail 45](https://open.spotify.com/album/14JE9leVuRZ9npvvFSPV7J) | 3:43 |
 | 32 | [Like a Ship](https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz) | 4:38 |
 | 33 | [Bassa Bassa](https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Bassa Bassa](https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj) | 5:01 |
@@ -528,7 +528,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 518 | [Dalkavuk \- Barış K Edit](https://open.spotify.com/track/0vNFCqtFXELQ7k9N8xHUUL) | [Şenay](https://open.spotify.com/artist/70C9Hem4LtSZElO9GTp42g), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.5](https://open.spotify.com/album/3cTxSyG6EOTTkzcOE3XQS2) | 5:27 |
 | 519 | [Ecology](https://open.spotify.com/track/0xilsk1U8P0bEgoYKfI43H) | [Anubis](https://open.spotify.com/artist/4fhyQnc4W80p5HEIxD6InR) | [Ecology](https://open.spotify.com/album/4PSuRfE6I4iCoH1qD5GABM) | 3:58 |
 | 520 | [I Know You Rider](https://open.spotify.com/track/3v85BrHUuCDd7Xwp04vMzB) | [Gale Garnett](https://open.spotify.com/artist/5cJgEhhKGk7kiSA6O8Qzyc) | [My Kind of Folk Songs](https://open.spotify.com/album/6oOUyNNmvvz3jwp7QRGbrt) | 2:23 |
-| 521 | [54\-46 That's My Number](https://open.spotify.com/track/5UDsHnUvshUv5EuPhDTRqb) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:23 |
+| 521 | [54\-46 That's My Number](https://open.spotify.com/track/5UDsHnUvshUv5EuPhDTRqb) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:21 |
 | 522 | [Desire](https://open.spotify.com/track/4C2DQyqluqcHe3mHXI6TWC) | [Eboni Band](https://open.spotify.com/artist/3XcXlwC6wpiGDPHNTz6L99) | [Beach Diggin', Vol\. 5](https://open.spotify.com/album/02vc1cQFePDzOSzt2YeFhh) | 5:16 |
 | 523 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:34 |
 | 524 | [Rudy, A Message To You](https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf) | 2:48 |

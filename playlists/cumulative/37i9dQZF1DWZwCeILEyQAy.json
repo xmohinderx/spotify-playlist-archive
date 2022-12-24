@@ -1218,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Dangerous Freestyle",
+        "url": "https://open.spotify.com/album/6wkGbQOtWNtbn3KLuYgyRI"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174765,
+      "name": "Dangerous Freestyle",
+      "url": "https://open.spotify.com/track/7jxAphH9y4g88DSZQGSMYr"
+    },
+    {
+      "album": {
         "name": "Decisions",
         "url": "https://open.spotify.com/album/4PRL3MHDIs9P72UOSs6Skr"
       },
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 119040,
       "name": "Ice Age",
       "url": "https://open.spotify.com/track/7pdgrwGIXAFnimqidxR3eV"
@@ -3626,6 +3644,24 @@
     },
     {
       "album": {
+        "name": "Raised In Memphis",
+        "url": "https://open.spotify.com/album/3pJHIhucJv21752L6wYSwe"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "Raised In Memphis",
+      "url": "https://open.spotify.com/track/0jiiCreJo7AbZS0IGOgilc"
+    },
+    {
+      "album": {
         "name": "Rap Freaks",
         "url": "https://open.spotify.com/album/1UKJRFSWbzO0IcBKLoXxka"
       },
@@ -4297,7 +4333,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 126066,
       "name": "Switch",
       "url": "https://open.spotify.com/track/5D4s8L8HQ1kh2YGbczUonD"

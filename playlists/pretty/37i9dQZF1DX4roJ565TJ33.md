@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,266 likes - 104 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,278 likes - 104 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 30 | [Jag älskar smärtan av sten och is](https://open.spotify.com/track/4C5zpkuDSxSW7lefVQYoaB) | [Björn Petersson Kvartett](https://open.spotify.com/artist/6B5GdoKe61ry7kQByyknGF) | [Jag älskar smärtan av sten och is](https://open.spotify.com/album/1dlpWrgwT3j5tG2vJwENG8) | 3:05 |
 | 31 | [I Fall in Love Too Easily](https://open.spotify.com/track/0a8LOrGltmx7rWvK5ex8Nb) | [Svante Henryson](https://open.spotify.com/artist/5gD2IIwhFa7qrXTWCmvMPn), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [I Fall in Love Too Easily](https://open.spotify.com/album/1ARNBkNhtWFb7hdnBuXcM0) | 5:19 |
 | 32 | [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 |
-| 33 | [Figures and Movement](https://open.spotify.com/track/42VN1BbimFSSSVXx7s7hkH) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [Figures and Movement](https://open.spotify.com/album/2dPa0t0VcGGikfDexOunqy) | 4:03 |
+| 33 | [Figures and Movement](https://open.spotify.com/track/28nXpyO1xCeMmy3T06x7sS) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [Figures and Movement](https://open.spotify.com/album/4X7gbUVbwFh3C9hjayeY89) | 4:03 |
 | 34 | [Walk and Talk](https://open.spotify.com/track/0V41B4y5ttrA7QqyKzJ9oM) | [Karl Olandersson](https://open.spotify.com/artist/4Sx4xZbzOfZm3aXJ3icVe7) | [Walk and Talk](https://open.spotify.com/album/0g1u4YLCnzvakanT4ZJllC) | 4:20 |
 | 35 | [Sun Bleached](https://open.spotify.com/track/7u0T1Y4e9u4UsJwD9eimgC) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Dolores: Two](https://open.spotify.com/album/13L16PToAgJGkypGuFLo9a) | 4:14 |
 | 36 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 103 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 104 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMDkxYWY1NTg0OWRlNTBkOWNjN2M4OTQ0YjljY2YzM2E1`
+Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGU0MDVjMTY1NjI0NzkwMTZkYTcyMmEwOTRlZjAyZDE0`

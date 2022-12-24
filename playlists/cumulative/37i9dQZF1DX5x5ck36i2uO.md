@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-156 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
+157 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Real Life](https://open.spotify.com/track/006YbmkMmR31jQTsHFeH4q) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Foundation, Vol\. 4](https://open.spotify.com/album/4Gvraz4H3ASYB9DL7PYgBO) | 4:05 | 2022-06-03 | 2022-06-06 |
 | [Relativity of Time \(Feat\. J.UNA, Meego\)](https://open.spotify.com/track/7bfUtySREIyXPoKuSRYxvY) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Research Daily 1](https://open.spotify.com/album/7u0x542RAwuZZcROvpSjKT) | 3:48 | 2022-05-11 | 2022-07-29 |
 | [ride or die \(feat\. Chancellor\)](https://open.spotify.com/track/3GnutzFK2ijPUogERjEgBZ) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 3:01 | 2022-05-11 | 2022-07-21 |
-| [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 | 2022-05-11 |  |
+| [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 | 2022-05-11 | 2022-12-24 |
 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 | 2022-05-11 |  |
 | [Say No](https://open.spotify.com/track/5GnEPhW06hDK8a9iqrdOo0) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [Master Wu](https://open.spotify.com/artist/3ljpwk0rqWS3ByrUDMNuUV) | [WALKIN', Vol.2](https://open.spotify.com/album/0w3HKEdCt5hUS9TBB8mt3H) | 3:52 | 2022-06-13 | 2022-07-09 |
 | [she like caffeine](https://open.spotify.com/track/5wC2fb5odceHwkQOBKI6Im) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [MALKEY](https://open.spotify.com/artist/1Yitdnv50GqF4mA1exC34C) | [she like caffeine](https://open.spotify.com/album/1ja5SqjYpLd2hPAOEkOxF1) | 2:59 | 2022-05-11 | 2022-07-29 |
@@ -145,6 +145,7 @@
 | [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 | 2022-05-11 |  |
 | [Too Far](https://open.spotify.com/track/4mO0TyLjh8skRzvTZdZI08) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers Pt.2](https://open.spotify.com/album/1icDrJd1dd2WGo7LUCMqCl) | 4:07 | 2022-05-11 | 2022-07-29 |
 | [Too Far](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 | 2022-07-22 |  |
+| [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 |  |
 | [u kno](https://open.spotify.com/track/2s9TnaBJLDU9Q9MKvsvNaY) | [JJK](https://open.spotify.com/artist/1tN10ObeLZVfnzfpSaT73O), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [The Angel Wakes Hell's Morning](https://open.spotify.com/album/6jBp4T0NBQwJ9cnp1yXrgb) | 4:05 | 2022-05-11 | 2022-07-23 |
 | [under the ground](https://open.spotify.com/track/3916BVDlNYrxllaSbWcC4h) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [under the ground](https://open.spotify.com/album/40HFDiXdKGexV81Fwdwke9) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [under the ground \(feat\. Dean\)](https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [u n u, Pt\. 2](https://open.spotify.com/album/4R3JUAwCwCLp4vUDK5TLrZ) | 3:42 | 2022-07-22 |  |

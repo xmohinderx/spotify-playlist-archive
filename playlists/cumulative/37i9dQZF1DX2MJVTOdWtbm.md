@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-216 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
+217 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alumnos](https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Alumnos](https://open.spotify.com/album/224WofhHqF6PuYTGd63baR) | 3:18 | 2022-09-23 |  |
 | [Amanecer](https://open.spotify.com/track/1hfA56vqCGk6SZzVSaOxSm) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Amanecer](https://open.spotify.com/album/7rjVDURaXjRbN21QQtwXY5) | 3:05 | 2022-02-11 | 2022-09-07 |
 | [Amor de red social](https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor de red social](https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz) | 3:50 | 2022-02-11 | 2022-09-07 |
+| [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 | 2022-12-22 |  |
 | [Amores de droga](https://open.spotify.com/track/33jkxCQQNrwQrXuHhVdhjh) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:07 | 2022-05-06 | 2022-05-20 |
 | [Andrómeda](https://open.spotify.com/track/0QXXxijmUVmJB18nSjyHhn) | [Zheit](https://open.spotify.com/artist/2wa9XNQ6RvXwD2WBKpLFsz), [Manu Oliva](https://open.spotify.com/artist/5VEOXoMPXBZNibIUOh7i1P) | [Andrómeda](https://open.spotify.com/album/2oPtH9e4lcdfI7yh5Vslnw) | 3:34 | 2022-02-11 | 2022-07-29 |
 | [Antes](https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Antes](https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6) | 2:29 | 2022-02-11 | 2022-08-06 |
@@ -223,6 +224,6 @@
 | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/track/71E5TGusp7CNoO3hkjiIUx) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/album/0GvWRr1JW2cuHUwApYoJIn) | 3:15 | 2022-09-06 |  |
 | [Ámate](https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ámate](https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3) | 3:09 | 2022-02-11 | 2022-09-07 |
 | [Única](https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [De Uno a Otro](https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms) | 2:17 | 2022-02-11 | 2022-09-07 |
-| [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 | 2022-09-06 |  |
+| [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 | 2022-09-06 | 2022-12-24 |
 
 \*This playlist was first scraped on 2022-02-24. Prior content cannot be recovered.

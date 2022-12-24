@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Ten Kills the Pack
 
-267 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+268 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [The Sweetest Lie](https://open.spotify.com/track/3M0hEMN4OZSet5nnh1PKGZ) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Sweetest Lie](https://open.spotify.com/album/6tGjHzgMwiHP7oVKzFofVF) | 2:33 | 2022-08-05 |  |
 | [The Well Has Run Dry](https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [The Well Has Run Dry](https://open.spotify.com/album/5Op8BG0Ex8C3BHvRQvKE6H) | 5:17 | 2022-05-13 | 2022-11-12 |
 | [Theo](https://open.spotify.com/track/0WxS5uFVLkMr0ec0GDGjjl) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Theo](https://open.spotify.com/album/0Xc6PR0sa5zkk8t8uraJSa) | 3:31 | 2022-08-05 | 2022-09-17 |
-| [These Days](https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [These Days](https://open.spotify.com/album/404DH5KgWamwVcCincjRJE) | 3:05 | 2022-08-26 |  |
+| [These Days](https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [These Days](https://open.spotify.com/album/404DH5KgWamwVcCincjRJE) | 3:05 | 2022-08-26 | 2022-12-24 |
 | [This Ain't the Night](https://open.spotify.com/track/0L0yuDW8ob26KpwDA0YKEt) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [This Ain't the Night](https://open.spotify.com/album/2eZ3FXceppcpEkhlRj7CVb) | 3:27 | 2022-05-13 | 2022-07-09 |
 | [This Book](https://open.spotify.com/track/5TC1Fufom6S1e0GgwwLij1) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [This Book](https://open.spotify.com/album/5tUfKq4zkyyWAiC1LNGNkG) | 4:01 | 2022-05-13 |  |
 | [This City](https://open.spotify.com/track/6r794TiASWZgXGleR2425l) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [This City](https://open.spotify.com/album/4mIj6C6X8wflQ3HP9nfIhm) | 3:20 | 2022-12-09 |  |
@@ -274,6 +274,7 @@
 | [You](https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [You](https://open.spotify.com/album/6NSPHXtgNOP1nUiSP5d9NS) | 4:03 | 2022-05-13 | 2022-06-11 |
 | [You Could Be Free](https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Could Be Free](https://open.spotify.com/album/4Bog6J0ArjOtPH9mPAqHnl) | 3:07 | 2022-09-23 |  |
 | [You'll Never Get To Heaven With That Attitude](https://open.spotify.com/track/69ayK3fANIcCgiiF05xRsr) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [You'll Never Get to Heaven With That Attitude](https://open.spotify.com/album/57WeEXLDRuasGenvl7ljv8) | 3:41 | 2022-06-03 | 2022-11-26 |
+| [You're My Winter](https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wish I Wrote](https://open.spotify.com/album/7nkoBpcjx1dmXS8yRCqMUS) | 3:36 | 2022-12-23 |  |
 | [You’d Like to Believe](https://open.spotify.com/track/6yEMIk1gWqatcZm2bSGEeM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [You'd Like to Believe](https://open.spotify.com/album/6jAsIfTjQWYzrDHab7f1Eb) | 3:15 | 2022-12-16 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

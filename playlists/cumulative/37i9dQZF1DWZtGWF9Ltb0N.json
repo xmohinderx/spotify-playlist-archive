@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 311000,
       "name": "Abandon",
       "url": "https://open.spotify.com/track/3RvUGLlLgNyzFvmj1JnrYU"
@@ -7141,6 +7141,24 @@
       "duration_ms": 233214,
       "name": "The Damned",
       "url": "https://open.spotify.com/track/5kFJdv7Y9hnvsNL2Pupppv"
+    },
+    {
+      "album": {
+        "name": "The Insider",
+        "url": "https://open.spotify.com/album/7gYxfavNEV31JRSrkxwv6a"
+      },
+      "artists": [
+        {
+          "name": "Hebbe",
+          "url": "https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "The Insider",
+      "url": "https://open.spotify.com/track/4POD1Ir5sArXd1EzkntC5E"
     },
     {
       "album": {

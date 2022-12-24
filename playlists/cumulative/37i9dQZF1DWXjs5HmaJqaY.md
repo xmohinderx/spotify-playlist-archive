@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
+100 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,12 +34,13 @@
 | [Fata Morgana](https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Fata Morgana](https://open.spotify.com/album/1DkEi6XopdxU3NGXYmYdAu) | 3:09 | 2022-09-16 | 2022-10-08 |
 | [Fire](https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Fire](https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv) | 4:25 | 2022-09-16 |  |
 | [Flight Number](https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK) | [Shift Sequence](https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn) | 5:56 | 2022-09-16 |  |
+| [Fly](https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Fly](https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA) | 3:48 | 2022-12-22 |  |
 | [Follow The Lead](https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV) | [Patrick Podage](https://open.spotify.com/artist/7iuZjXDugV2YunAMWauN0F) | [Follow The Lead](https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz) | 7:27 | 2022-12-09 |  |
 | [Freedom \- Breitenstein Remix](https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Freedom Remixes](https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv) | 7:02 | 2022-09-16 |  |
 | [Für die Seele feat\. Haexxa](https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [IAM ALFRED HEINRICHS feat\. Haexxa](https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N) | 5:59 | 2022-11-11 |  |
 | [Good Life \- Inner City Edit of Carl Craig Remix](https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [30 Years EP](https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ) | 3:15 | 2022-09-16 |  |
 | [Hot Dance \- David Morales Red Zone Mix](https://open.spotify.com/track/43yw8iDqEh75DUvk8pwXWz) | [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Hot Dance](https://open.spotify.com/album/5yMkfxICTfooagFb48dMUX) | 5:18 | 2022-09-16 |  |
-| [Human Element](https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Human Element](https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx) | 3:04 | 2022-09-16 |  |
+| [Human Element](https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Human Element](https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx) | 3:04 | 2022-09-16 | 2022-12-24 |
 | [I Want You \- Edit](https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [I Want You](https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y) | 3:27 | 2022-09-16 | 2022-10-28 |
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-10-27 | 2022-12-03 |
 | [Inescapable \- Moritz Sachse Remix](https://open.spotify.com/track/2wb3Sf2Py8y4Ak05f8b7ka) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [Moonslip](https://open.spotify.com/artist/12z16EX06TdZpzkwOte7eg), [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [Telluric](https://open.spotify.com/album/76Nl2NpAkxHJrKUH2Jb7DJ) | 6:23 | 2022-09-16 |  |

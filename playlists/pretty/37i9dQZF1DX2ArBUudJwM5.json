@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Nicki Nicole en portada.",
-  "num_followers": 23426,
+  "num_followers": 24072,
   "original_name": "Lo mejor de EQUAL Argentina 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGZmYWY2MjdmYzVhMDVmYTg5NWY5ZDk5MDQ5YTUwMWY0",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGY2ZTI5YTAxZWI0YWY4YjA1NWI4MjAwNzljN2E2MWQ3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 135521,
+      "name": "Jefa",
+      "url": "https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 160149,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 135521,
-      "name": "Jefa",
-      "url": "https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Que Me Duela",
-        "url": "https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "\u00daltimo Intento",
-      "url": "https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Que Me Duela",
+        "url": "https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "\u00daltimo Intento",
+      "url": "https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Luna En Venus",
-        "url": "https://open.spotify.com/album/5fRgHLDuUsNGZ8vPdbBXn8"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Luna En Venus",
-      "url": "https://open.spotify.com/track/41bVvrQ3VwOPWg9Wkz7JLa"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/7c2v5ycSRINlH2yIi3oV85"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 208502,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/6Q5DAieR6UQ3bwMucBqHSX"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Luna En Venus",
+        "url": "https://open.spotify.com/album/5fRgHLDuUsNGZ8vPdbBXn8"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Luna En Venus",
+      "url": "https://open.spotify.com/track/41bVvrQ3VwOPWg9Wkz7JLa"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Sabor A Luis",
         "url": "https://open.spotify.com/album/3NCShsVe4IouPiB6VuQRp4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 177333,
       "name": "Sabor a M\u00ed (feat. Mar\u00eda Campos)",
       "url": "https://open.spotify.com/track/63QIJSFaLx6KDXvHjAkBmW"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR"
+      },
+      "artists": [
+        {
+          "name": "Valen Madanes",
+          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
+        }
+      ],
+      "duration_ms": 161247,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "Rota",
         "url": "https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 255720,
       "name": "Rota",
       "url": "https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR"
-      },
-      "artists": [
-        {
-          "name": "Valen Madanes",
-          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
-        }
-      ],
-      "duration_ms": 161247,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO"
     }
   ],
   "unique_name": "Lo mejor de EQUAL Argentina 2022",

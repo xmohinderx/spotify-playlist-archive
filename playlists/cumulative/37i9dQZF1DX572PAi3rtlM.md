@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-146 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+147 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [I Heard the Voice of Music Say](https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf) | [Sunbear](https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9) | [Sunbear](https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R) | 5:03 | 2021-09-01 | 2022-07-25 |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-09-01 |  |
 | [Industry \(Green Light/Fun Night Breaks Mix\) \- Edit](https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry \(Green Light/Fun Night Breaks Mix\)](https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd) | 3:43 | 2021-09-01 | 2022-07-28 |
-| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 |  |
+| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 | 2022-12-24 |
 | [It Feels Good](https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [It Feels Good](https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h) | 4:26 | 2021-09-01 | 2022-07-29 |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2021-09-01 |  |
 | [Jerky Rhythm](https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL) | [Erotic Drum Band](https://open.spotify.com/artist/3cziflTbMxH9cQY4RvhtVg) | [Action 78](https://open.spotify.com/album/3O0VpTEdahLcXgx6KJsQlI) | 9:10 | 2021-09-01 | 2022-07-28 |
@@ -94,6 +94,7 @@
 | [Nyame Ye](https://open.spotify.com/track/6ctHxfDxlMlXAIa3TG7uOe) | [Arp Frique](https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb), [Mariseya](https://open.spotify.com/artist/6CezXXzMXtPnjFvqu4kED1) | [Nyame Ye](https://open.spotify.com/album/6HWHgNy225PM3kFXXnuSnU) | 5:53 | 2021-09-01 | 2022-07-27 |
 | [Ocean 1](https://open.spotify.com/track/6hgEEpQqGOpWWaonSKZV6P) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 8:50 | 2021-09-01 | 2022-07-05 |
 | [Okay](https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD) | [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Okay](https://open.spotify.com/album/4AotBgSoOhRJuJkMLwgyHZ) | 5:52 | 2022-01-14 | 2022-11-20 |
+| [Okay](https://open.spotify.com/track/4at1ctwfMr2a1t8xEpmOzX) | [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Okay](https://open.spotify.com/album/1lZYSSKDM10kl2UIl2wXId) | 5:52 | 2022-01-14 |  |
 | [Okay Okay \- Remastered](https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Okay Okay / Hey Ciao Tu](https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8) | 4:18 | 2021-09-01 | 2022-12-16 |
 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/0gyO07e0f66Qaib1x3m5I7) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [On My Mind \(Purple Disco Machine Remix\)](https://open.spotify.com/album/2gNUrWdNTwimKCUF8s5euX) | 4:23 | 2021-09-01 | 2022-07-29 |
 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/64weGLgl76gsui1qXQatNa) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [On My Mind \(Remixes\)](https://open.spotify.com/album/4xYKqAYxXRQiCS8cICKq9S) | 4:23 | 2021-09-01 | 2022-08-11 |

@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-319 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+323 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Day's Work](https://open.spotify.com/track/0NU5gSlW7uQ4TA7x3Do4YC) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Neighbourhood](https://open.spotify.com/album/1HviRq9nPOlBT2d4EPB6Cj) | 3:15 | 2022-04-08 | 2022-12-10 |
 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 | 2022-02-17 |  |
 | [A Good Place To Start](https://open.spotify.com/track/6Q2poRW19b3n8NiBG5Kg5r) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [A Good Place To Start](https://open.spotify.com/album/7laxXMjnlr0v5nFNJrPeHP) | 2:44 | 2022-12-09 |  |
+| [A Long Drive](https://open.spotify.com/track/1fRbfvESFZvhmCyxHLibqJ) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [A Long Drive](https://open.spotify.com/album/08NROFnr3Sc5Qm8SgJKiJy) | 2:49 | 2022-12-23 |  |
 | [Afternoon](https://open.spotify.com/track/4KYhkTfdTgVetingzccu3Q) | [Lascko](https://open.spotify.com/artist/39QLKuMT0wuBYQ0A97K6tk) | [Afternoon](https://open.spotify.com/album/39En3GzypUKMVJ3DVn2En8) | 2:21 | 2022-07-22 |  |
 | [All About It](https://open.spotify.com/track/3cGsZfkkOS0qSmRsq4Ewte) | [Khrysis](https://open.spotify.com/artist/7GVhrE69ShzMSsX0DG4HHT) | [Khrysis On The Board](https://open.spotify.com/album/6njd5Ty1NjaRW9lkHkqy49) | 1:27 | 2021-11-11 | 2022-05-20 |
 | [All My Dreams](https://open.spotify.com/track/1yQu5K4a59paqG1JUAXJm6) | [Philth Spector](https://open.spotify.com/artist/6RHhMMjOiWOWIJpskj0xP3), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [All My Dreams](https://open.spotify.com/album/1hMWXMMH24Tp9rPVya04Tc) | 1:18 | 2022-11-25 |  |
@@ -56,6 +57,7 @@
 | [Chill Time](https://open.spotify.com/track/3K3YjTKY3StAiFjc0xDxt7) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Cassette Sound](https://open.spotify.com/album/4rvr89nsFSzdMyCrC1rMyg) | 1:41 | 2022-11-25 |  |
 | [Classic](https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5) | [Tony Bones The Producer](https://open.spotify.com/artist/3a9BCUwqB1bnRFuegvAFD7) | [Magic Roundabout](https://open.spotify.com/album/1znaGWauyGfsGRtOh3DK3Q) | 2:37 | 2021-11-11 | 2022-09-23 |
 | [Coleiro \- Instrumental](https://open.spotify.com/track/4RXhpLWyXaR8sR8I8bognS) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Coleiro \(Instrumental\)](https://open.spotify.com/album/2Pkmqg8S3AQInllyY1Cod4) | 2:33 | 2022-08-19 | 2022-10-29 |
+| [Colours](https://open.spotify.com/track/3SJaPZuiVpXs2FTWkPTlBP) | [Willis.](https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN) | [Colours](https://open.spotify.com/album/5QGZaA2Qjnt4BXq4H7Qk1r) | 2:33 | 2022-12-23 |  |
 | [Colours \- Instrumental](https://open.spotify.com/track/5mCZhBTtSRx1Ioy0F6rXDI) | [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [How Not to Make a Living \(Instrumentals\)](https://open.spotify.com/album/0RUwjgoghq5OHo5nqbMCxU) | 3:16 | 2021-11-11 | 2022-09-23 |
 | [Control & Shape](https://open.spotify.com/track/0tFj3BzYeuG31brvnQFkqA) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Control & Shape](https://open.spotify.com/album/2vmeoonFQgwYHDRQmMzRmn) | 2:26 | 2022-10-15 |  |
 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 | 2021-11-11 |  |
@@ -122,6 +124,7 @@
 | [Harm's Way](https://open.spotify.com/track/3bgX4bSODZ1ccFP9eNnZAw) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [Harm's Way](https://open.spotify.com/album/7rkIUoh4KcdAXEH4zPfz7k) | 3:12 | 2022-07-01 |  |
 | [Haruna Boy](https://open.spotify.com/track/6m7MQ4GMDIxlXwcDSqN3Az) | [Önigirisu](https://open.spotify.com/artist/2wrReMufBFCidJ3Sy1UzPe) | [Haruna Boy](https://open.spotify.com/album/7z7sKLV6sAmBkeF3PJfVn3) | 1:18 | 2022-10-15 |  |
 | [Head Nod](https://open.spotify.com/track/28nvmtm4Bzo7hrg3oxo9aZ) | [Leo Franciozi](https://open.spotify.com/artist/1gYlugboAAJJz7RfLquAHr), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Head Nod](https://open.spotify.com/album/1TNMj0sSWK5LlHspmjuwHw) | 1:48 | 2022-10-28 |  |
+| [Heads Up, Future Is Up Ahead](https://open.spotify.com/track/180M46xtw5OpCKtP6s8Nyc) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Hush Puppy](https://open.spotify.com/artist/7xYwUK1Ht37MUfe5XES2QZ), [Mortal K.O\. Lab](https://open.spotify.com/artist/7K4mechJNIRVfDwzNDgCFl) | [Heads Up, Future Is Up Ahead](https://open.spotify.com/album/34txE8mNOt12VwtuWObIAU) | 2:36 | 2022-12-23 |  |
 | [Healing Properties \(Instrumental\)](https://open.spotify.com/track/6rYn94cWqS5YrEcEkhPWoH) | [Dfonk](https://open.spotify.com/artist/3gB7Y7q2B1ei9XKXnOwRlW), [Craig G](https://open.spotify.com/artist/6PHq7gqoQmOD05QBJ69IC0) | [Healing Properties \(Instrumental\)](https://open.spotify.com/album/1UNOhQI7gKpvkA5nuaVc3Y) | 3:03 | 2022-06-17 | 2022-09-03 |
 | [Hear The Vibes](https://open.spotify.com/track/0VR0PrR3URSvUMrOo3MM3f) | [Mobsta Mane](https://open.spotify.com/artist/7xlFYuidFca4KP0IIReFTu), [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [Hear The Vibes](https://open.spotify.com/album/1OLWYenrB1gnk9a28KKOYi) | 2:56 | 2022-11-11 |  |
 | [HEAT HAZE](https://open.spotify.com/track/2HzBmH6HJMeHTWXAFcfm6T) | [trog'low](https://open.spotify.com/artist/10z5adFMMTwTKn9unto6QB), [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [HEAT HAZE](https://open.spotify.com/album/4tRiK4v0Lm3OTg3nJBS1LC) | 2:28 | 2022-08-12 |  |
@@ -256,6 +259,7 @@
 | [Slow Down](https://open.spotify.com/track/7m9L3LHhO1ALNXUJ7m9K04) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [Slow Down](https://open.spotify.com/album/2srbrMZXmGQskURfzFl3zx) | 3:07 | 2021-11-11 |  |
 | [Smeegoll](https://open.spotify.com/track/34G1g2Xo9Q9xbZMvsi2bBJ) | [Clush](https://open.spotify.com/artist/5tk5PQwf3VDXOuW2bDbbKj) | [Midnites](https://open.spotify.com/album/6Wg7fYktXfJoY87bwFBEn3) | 1:56 | 2021-11-11 | 2022-05-20 |
 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 | 2022-05-13 | 2022-08-19 |
+| [Something Special](https://open.spotify.com/track/1tsO1DsOGpK7D831Zc9NBi) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Something Special](https://open.spotify.com/album/0hFvJWCitJZox4A8xlAhhW) | 1:52 | 2022-12-23 |  |
 | [Spin Cycle](https://open.spotify.com/track/7IRafpsoM8i4OirXU4olje) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:25 | 2021-11-11 | 2022-07-15 |
 | [Spray Colors](https://open.spotify.com/track/5B2dAco4S0I8TAQuIW8p3L) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Spray Colors](https://open.spotify.com/album/3Uj1MaF7Fbm3vrnpg8M4ll) | 2:07 | 2022-10-15 |  |
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2021-11-11 |  |

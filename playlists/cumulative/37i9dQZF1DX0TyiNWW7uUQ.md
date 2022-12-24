@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Varisu
 
-114 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
+115 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Kannazhaga \- The Kiss of Love](https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:25 | 2022-01-04 | 2022-06-29 |
 | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3) | 3:45 | 2022-01-04 |  |
 | [Kannukkulle](https://open.spotify.com/track/2neYlVaQCfZfhbMPSmJjp1) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Sita Ramam \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9) | 3:52 | 2022-09-14 | 2022-10-01 |
+| [Kasethan Kadavulada \(From "Thunivu"\)](https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Manju Warrier](https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kasethan Kadavulada \(From "Thunivu"\)](https://open.spotify.com/album/4wbatnzqMwHfR7SOGzkJyi) | 3:08 | 2022-12-23 |  |
 | [Kurumugil](https://open.spotify.com/track/1xtlT8C62HToUvB0xmwvyi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Sita Ramam \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9) | 3:38 | 2022-09-14 |  |
 | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6A6mDExVoAEJmc5JyVSQeK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/5jZCyxy9WjBt4EjVaX6akb) | 3:54 | 2022-08-24 |  |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-13 |  |

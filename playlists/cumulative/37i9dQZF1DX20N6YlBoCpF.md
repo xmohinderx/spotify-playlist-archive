@@ -4,7 +4,7 @@
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG?si=c9OuKcphROy5gKDb49DkdA">Jakkie Louw</a>
 
-151 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
+152 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [EEN TWEE](https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [EEN TWEE](https://open.spotify.com/album/3MO3xOBykVnnbqOCXzg1JB) | 2:25 | 2022-08-11 | 2022-10-21 |
 | [Ek Is Daar](https://open.spotify.com/track/43t3KXhjckS3XWoglELKfx) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Ek Is Daar](https://open.spotify.com/album/2vVmvc6mx1a8Qme5By7nEK) | 2:51 | 2022-09-01 | 2022-10-14 |
 | [Ek Like Jou](https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ek Like Jou](https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp) | 3:24 | 2022-09-15 | 2022-12-02 |
+| [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 |  |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 |  |
 | [En Dan Dans Ons \- Radio Edit](https://open.spotify.com/track/5cbg8zoHpsqeKsufRqLGQc) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [En Dan Dans Ons \(Radio Edit\)](https://open.spotify.com/album/6Emf9iINTCZ9nWbYpFqH3r) | 3:25 | 2022-12-01 |  |
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 |  |
@@ -57,7 +58,7 @@
 | [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 | 2022-10-04 |
 | [Hartklop REMIX](https://open.spotify.com/track/29GFGVkl82QZXJHjdcDwGZ) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Hartklop REMIX](https://open.spotify.com/album/1QiiEeFLAM14do17g5PTpA) | 2:35 | 2022-11-04 | 2022-12-09 |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-12-02 |
-| [Hierdie Is Nie Liefde Nie](https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi), [Michelle Mountjoy](https://open.spotify.com/artist/6YOybZbTWxncOU07yDI6mz) | [Hierdie Is Nie Liefde Nie](https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm) | 2:49 | 2022-11-24 |  |
+| [Hierdie Is Nie Liefde Nie](https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi), [Michelle Mountjoy](https://open.spotify.com/artist/6YOybZbTWxncOU07yDI6mz) | [Hierdie Is Nie Liefde Nie](https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm) | 2:49 | 2022-11-24 | 2022-12-24 |
 | [Honeymoon\-gevoel](https://open.spotify.com/track/2643ylNVzFIUMxlIaS9g31) | [Khail West](https://open.spotify.com/artist/6WIYP1qpwG4xW3zOMFAUz2) | [Honeymoon\-gevoel](https://open.spotify.com/album/4GEXphU8yCdhXywnsm2zFm) | 3:15 | 2022-09-15 | 2022-11-11 |
 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-08-11 | 2022-11-05 |

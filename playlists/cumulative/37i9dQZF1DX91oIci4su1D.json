@@ -2989,7 +2989,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 204375,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/7a8bzyInoCja0iFe31uucM"
@@ -4055,7 +4055,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 184218,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/7xzDdyz0ImsSGN0W3G03Vr"
@@ -4231,7 +4231,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 239565,
       "name": "I Matter to You",
       "url": "https://open.spotify.com/track/05H8sjP3C42fwRV2gOPIaT"
@@ -6078,6 +6078,28 @@
     },
     {
       "album": {
+        "name": "Million Stars",
+        "url": "https://open.spotify.com/album/3WUx199WAQBeSOxSkPftCh"
+      },
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Clara Yates",
+          "url": "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216956,
+      "name": "Million Stars",
+      "url": "https://open.spotify.com/track/58LpK5TgVzFDounJPpBydQ"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/6nYgXiDGaYwWRvc16AIRPc"
       },
@@ -6195,7 +6217,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb"
@@ -8501,7 +8523,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 227493,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"

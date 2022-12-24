@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,192 likes - 122 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,621 likes - 122 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 103 | [Astrosat](https://open.spotify.com/track/6sfLKBnf6ZogXdpViAxEJP) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 5:00 |
 | 104 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 |
 | 105 | [Andromeda](https://open.spotify.com/track/6CKJ2QzsTscK6qzeYTuAqa) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 4:15 |
-| 106 | [Music for 18 Musicians: Pulses](https://open.spotify.com/track/3TBO0QhrrrOiAZIzRlTUfQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Ensemble Links](https://open.spotify.com/artist/4ONRsCP74pMfs2GAL8gf3Z), [Rémi Durupt](https://open.spotify.com/artist/3lSXsU3A9NTWoYT38Q9Vcn) | [Steve Reich: Music for 18 Musicians](https://open.spotify.com/album/7ndBYWWUQTM3i7if0upsPF) | 4:36 |
-| 107 | [Foil](https://open.spotify.com/track/07C2MiIIwVUEqcnwXpHO67) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:04 |
+| 106 | [Foil](https://open.spotify.com/track/07C2MiIIwVUEqcnwXpHO67) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:04 |
+| 107 | [Music for 18 Musicians: Pulses](https://open.spotify.com/track/3TBO0QhrrrOiAZIzRlTUfQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Ensemble Links](https://open.spotify.com/artist/4ONRsCP74pMfs2GAL8gf3Z), [Rémi Durupt](https://open.spotify.com/artist/3lSXsU3A9NTWoYT38Q9Vcn) | [Steve Reich: Music for 18 Musicians](https://open.spotify.com/album/7ndBYWWUQTM3i7if0upsPF) | 4:36 |
 | 108 | [Rasch Und Mäßig Bewegt](https://open.spotify.com/track/1BhNdKPskUFQVELGgqaHIH) | [Asmus Tietchens](https://open.spotify.com/artist/1VR7bz3EQSo38riLKO8oJK) | [Eisgang / Dämmerattacke](https://open.spotify.com/album/2cNBhp9Us7dF9R9ldFRmRa) | 19:53 |
 | 109 | [A Rainbow in the Curved Air \- Instrumental](https://open.spotify.com/track/0aGvcIUEdMq9PelZIGJOBU) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band](https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq) | 18:39 |
 | 110 | [Illusion Of Time \- Teodor Wolgers Rework](https://open.spotify.com/track/3svg12xf0NinRluooXoVfF) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Illusion Of Time \(Teodor Wolgers Rework\)](https://open.spotify.com/album/2gb12OlBnALWWT4tuNSfK9) | 3:35 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 121 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 122 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MTY2OTIwMjY0NSwwMDAwMDAwMGQ1NWRlNzU0ZDkzNjBiNTNmNjE3ZDI1NWZkNGI4NThk`
+Snapshot ID: `MTY3MTczMjI1NiwwMDAwMDAwMGI0Y2NmOTkwN2VlODBkNjM0MjU3YWE0YjU1MWY5NzFl`

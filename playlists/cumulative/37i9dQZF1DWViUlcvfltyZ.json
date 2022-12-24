@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "100 GIORNI",
+        "url": "https://open.spotify.com/album/6vQHAIf4uxsWItu8Gp9nNH"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76875,
+      "name": "100 GIORNI",
+      "url": "https://open.spotify.com/track/1XutSOW3HIb0oBiNwDINxL"
+    },
+    {
+      "album": {
         "name": "118 (feat. Claudio Santamaria)",
         "url": "https://open.spotify.com/album/4BL7Czy98tfrcBZMA9HVT9"
       },
@@ -754,6 +772,24 @@
     },
     {
       "album": {
+        "name": "CARTA, FORBICE, SESSO",
+        "url": "https://open.spotify.com/album/2JTtwkyyz75fQLPfDuiNXs"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169161,
+      "name": "CARTA, FORBICE, SESSO",
+      "url": "https://open.spotify.com/track/4o6mSmsoxIFaqutj77Ul6K"
+    },
+    {
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/48Kseq11LU065k91UeV3c3"
       },
@@ -787,6 +823,24 @@
       "duration_ms": 253400,
       "name": "Castelli in Aria",
       "url": "https://open.spotify.com/track/5N8gGAxV3wP56aTXiFpqO9"
+    },
+    {
+      "album": {
+        "name": "Cena di famiglia",
+        "url": "https://open.spotify.com/album/4xevKhQuT5IDAzl6X49djr"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9clame",
+          "url": "https://open.spotify.com/artist/2olteAWcog6K5LBMX77dpf"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207298,
+      "name": "Cena di famiglia",
+      "url": "https://open.spotify.com/track/1CwKHSfKqHywOxnuqbkcvA"
     },
     {
       "album": {
@@ -1963,7 +2017,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 156830,
       "name": "I wanna lie (in bed with you)",
       "url": "https://open.spotify.com/track/1mA8KzXJ0goaJZQBLW2zbw"
@@ -2119,7 +2173,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 166092,
       "name": "Il vento",
       "url": "https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV"
@@ -2601,7 +2655,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 212955,
       "name": "Lucida",
       "url": "https://open.spotify.com/track/4qR3eEUxdJWsV47UM1xlzs"
@@ -2879,7 +2933,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 200237,
       "name": "Noi, i cani, le pere",
       "url": "https://open.spotify.com/track/7aTvnIzo5nzneTH8fZbv1F"
@@ -2901,7 +2955,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 150366,
       "name": "Non ci avranno mai",
       "url": "https://open.spotify.com/track/69rYYzgRz9STrOZ7aARRLY"
@@ -3577,7 +3631,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 233760,
       "name": "RGRD",
       "url": "https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy"
@@ -3747,6 +3801,24 @@
       "duration_ms": 154405,
       "name": "SESSO & OPENBAR",
       "url": "https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ"
+    },
+    {
+      "album": {
+        "name": "SETTESATANICHE",
+        "url": "https://open.spotify.com/album/7mdSGcuQMbN0jsauoOnSpw"
+      },
+      "artists": [
+        {
+          "name": "MIVERGOGNO",
+          "url": "https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149719,
+      "name": "SETTESATANICHE",
+      "url": "https://open.spotify.com/track/2p3LzX6cbB8gm6DnUExMYb"
     },
     {
       "album": {
@@ -4105,7 +4177,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 199384,
       "name": "Strappati Lungo i Bordi",
       "url": "https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v"
@@ -4195,7 +4267,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 146113,
       "name": "Super Fluo",
       "url": "https://open.spotify.com/track/2fKq9TUqeqDftjxOaWI4eU"
@@ -4365,7 +4437,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 128879,
       "name": "TRACCIA 0",
       "url": "https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA"

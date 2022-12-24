@@ -2953,7 +2953,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 140571,
       "name": "Life on Hold",
       "url": "https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP"
@@ -4167,7 +4167,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 145945,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM"
@@ -4189,6 +4189,24 @@
       "duration_ms": 143606,
       "name": "Rivulet",
       "url": "https://open.spotify.com/track/1oR9gfWMz6KqwWRGnyEuyc"
+    },
+    {
+      "album": {
+        "name": "Rocio",
+        "url": "https://open.spotify.com/album/1aLbXKsbNs3ZIlN0ekPV92"
+      },
+      "artists": [
+        {
+          "name": "Polis Sitz",
+          "url": "https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186781,
+      "name": "Rocio",
+      "url": "https://open.spotify.com/track/4XSfKPQjnyDIysE98WfDEB"
     },
     {
       "album": {
@@ -5467,6 +5485,24 @@
       "duration_ms": 215806,
       "name": "Trippier",
       "url": "https://open.spotify.com/track/4bT3N5SidnYnydelbL3FVL"
+    },
+    {
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61"
+      },
+      "artists": [
+        {
+          "name": "Mooshy",
+          "url": "https://open.spotify.com/artist/25CodL66ToRkp4p6b86S5I"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Under Blue",
+      "url": "https://open.spotify.com/track/7CEycuhaJ8aR9fJlRIlt2u"
     },
     {
       "album": {

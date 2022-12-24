@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-870 songs - 1 day 23 hr 11 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+871 songs - 1 day 23 hr 14 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [F2020](https://open.spotify.com/track/3HZuxQ80VWOsBWws8XQdFB) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [F2020](https://open.spotify.com/album/0bwBpa7inaWZChPEOnVTIk) | 3:01 | 2020-07-11 | 2021-01-15 |
 | [Fading Into Memories](https://open.spotify.com/track/2Z5Dt4y1vjLI73I2ScmO5g) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [iamsimon](https://open.spotify.com/artist/7pcSKgv5UuVxHPVU61q6do) | [Fading Into Memories](https://open.spotify.com/album/2AhXbq8ME8Ax5X6Fzipzlz) | 2:38 | 2019-06-21 | 2020-01-16 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-17 | 2022-04-21 |
-| [Fake](https://open.spotify.com/track/1oz3gEoNWHAS3pjwThdSJb) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Fake](https://open.spotify.com/album/6UGVIMVaihtvkXRHsgQped) | 2:26 | 2022-11-03 |  |
+| [Fake](https://open.spotify.com/track/1oz3gEoNWHAS3pjwThdSJb) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Fake](https://open.spotify.com/album/6UGVIMVaihtvkXRHsgQped) | 2:26 | 2022-11-03 | 2022-12-24 |
 | [Fake](https://open.spotify.com/track/4Gt2kh3QbAGU6yquOWn4aW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Fake](https://open.spotify.com/album/6pbBHbkfs6i0JzhWjDmvb1) | 2:26 | 2020-10-16 | 2022-10-13 |
 | [Faking It](https://open.spotify.com/track/0olEV0xHPcpVOPZfg4MSgR) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Faking It](https://open.spotify.com/album/6ExmGLrRgsMUl5p32oxPZU) | 2:47 | 2019-05-25\* | 2019-09-29 |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2019-12-25 |  |
@@ -264,6 +264,7 @@
 | [Feeling for You](https://open.spotify.com/track/1y2zwV3npol6xxJHxnEdjE) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [BISHØP](https://open.spotify.com/artist/41EKhl03mtETZhMc3zAPt1) | [Feeling for You](https://open.spotify.com/album/1uHKqpfVawuSC7VgE89f2T) | 2:54 | 2019-06-24 | 2019-08-13 |
 | [Feelings](https://open.spotify.com/track/0y675KDleCZEudjoeL1sQQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Feelings](https://open.spotify.com/album/1MFxXAGWNIuz0X1hS9VRiS) | 3:09 | 2019-09-22 | 2022-07-29 |
 | [Feelings](https://open.spotify.com/track/0s26En1JoJhVj32vizElpA) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 | 2022-07-07 | 2022-11-17 |
+| [Feelings](https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:09 | 2022-12-08 |  |
 | [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 | 2021-03-15 | 2022-07-26 |
 | [Feels Like This](https://open.spotify.com/track/53Wsf11ElpPr1WAGtRQlcx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Dressed Too Nice For A Jacket](https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF) | 3:43 | 2019-05-25\* | 2020-02-28 |
 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 | 2020-10-30 | 2022-12-14 |

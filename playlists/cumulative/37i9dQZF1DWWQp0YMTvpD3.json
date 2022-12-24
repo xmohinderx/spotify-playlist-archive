@@ -3942,6 +3942,24 @@
     },
     {
       "album": {
+        "name": "Luxe",
+        "url": "https://open.spotify.com/album/2uSZqQyCiSEUs4IIuPCMn8"
+      },
+      "artists": [
+        {
+          "name": "Edinbrgh",
+          "url": "https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187710,
+      "name": "Slip N Slide",
+      "url": "https://open.spotify.com/track/3TOtSGvIYxvtMihDlt7BXm"
+    },
+    {
+      "album": {
         "name": "It's all clear now",
         "url": "https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA"
       },

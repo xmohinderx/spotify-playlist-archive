@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-157 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+159 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Fortified Heart](https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Fortified Heart](https://open.spotify.com/album/6QluqiIXnhbDfhsNd44AGk) | 3:21 | 2021-12-10 |  |
 | [Full Bloom](https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Soul Odyssey](https://open.spotify.com/album/655DVNIphpZShWuF9Ejmfc) | 2:42 | 2021-12-10 |  |
 | [Glasstein](https://open.spotify.com/track/07q8iSWZqva1YDK65LjDms) | [Hans Gomm](https://open.spotify.com/artist/07e4xZ71yEbqm5YGBae1gs) | [Glasstein](https://open.spotify.com/album/6xDVBjvLuvkM7mn99k79hz) | 2:56 | 2021-12-10 |  |
+| [Gone to seed](https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Gone to seed](https://open.spotify.com/album/7MvoXy4KLNxXMCBI6F3I8K) | 2:24 | 2022-12-23 |  |
 | [Hearts Entwined \(Ethereal Guitar\)](https://open.spotify.com/track/5OFG5SN0E8D0oQptaD9wTp) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Hearts Entwined \(Ethereal Guitar\)](https://open.spotify.com/album/3d5sBqzj7y36pGyGr39JnK) | 3:57 | 2022-07-22 | 2022-07-29 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-10 |  |
 | [Her Smoke Rose Up Forever](https://open.spotify.com/track/7Ko4so8MIU5HBwrCMcOI1c) | [James Blackshaw](https://open.spotify.com/artist/0v3A74qYtkL8Wjj1rzLe9Z) | [Love Is the Plan, The Plan Is Death](https://open.spotify.com/album/0Hs9ZPAGmekggdUCj4g6e9) | 7:06 | 2021-12-10 | 2022-04-22 |
@@ -164,6 +165,7 @@
 | [When Sarah Returned](https://open.spotify.com/track/2OJk9I2pmnYKB9zQzrodK6) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [A Letter from the Caspian Sea](https://open.spotify.com/album/7mfyhobbOqeqqtf9JH3ssk) | 2:36 | 2021-12-10 |  |
 | [When She Was There](https://open.spotify.com/track/5rOfd0ZqNPDzFWEgROvIdz) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:20 | 2021-12-10 |  |
 | [When You Hold Me](https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:10 | 2022-03-03 |  |
+| [Winter Blues](https://open.spotify.com/track/2s2gJ5xHJcVfiJ6GnvRk0m) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [Winter Blues](https://open.spotify.com/album/2f8eOYEG4ftkAniFWAUBDV) | 2:07 | 2022-12-23 |  |
 | [You](https://open.spotify.com/track/3zEaOi0tey7BFPnr2lPtzL) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI) | [Snow](https://open.spotify.com/album/47LYgd993iWAisa3vGEPMu) | 1:13 | 2022-09-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

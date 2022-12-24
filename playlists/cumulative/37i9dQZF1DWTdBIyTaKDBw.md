@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-182 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/4JM95H8vsjsz2KMA6pkYt7)
+184 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/4JM95H8vsjsz2KMA6pkYt7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,9 +40,9 @@
 | [Darling You](https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [ADAMAS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k) | 2:29 | 2022-08-12 |  |
 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-09 |  |
 | [Don't be sad](https://open.spotify.com/track/6w6lBuPSEwyv2i5x5eu8On) | [Jungyoon and Hyunseo](https://open.spotify.com/artist/74VZH0ylIeQ9CiLAgPdYqu) | [Don't be sad](https://open.spotify.com/album/4HWHzQGYvQa6EbK3K8rs2I) | 4:35 | 2022-05-03 | 2022-07-22 |
-| [Dream](https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [When It Loves](https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z) | 4:15 | 2022-05-03 |  |
+| [Dream](https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [When It Loves](https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z) | 4:15 | 2022-05-03 | 2022-12-24 |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2022-05-03 |  |
-| [Dreamy Alarm](https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 3:32 | 2022-05-03 |  |
+| [Dreamy Alarm](https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 3:32 | 2022-05-03 | 2022-12-24 |
 | [Drunken Blues](https://open.spotify.com/track/04TxhkvnPHsq8WJXltMzXK) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [9X9th](https://open.spotify.com/album/2hDuNdZj6kdZMU4SnJSu7s) | 3:27 | 2022-07-04 | 2022-07-16 |
 | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/track/0mvmY9ih1yrIRH8tgRIejD) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Lee Joon](https://open.spotify.com/artist/122DvZ07Rzf2ZNyCA6hCQM) | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/album/1OsF77dJxBQ32ZcG3BoI09) | 5:34 | 2022-05-03 | 2022-07-29 |
 | [Even Though My Heart Breaks](https://open.spotify.com/track/6oUnqotL3a95tbuMTmafPj) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:23 | 2022-05-03 | 2022-09-09 |
@@ -108,6 +108,7 @@
 | [One Day](https://open.spotify.com/track/4GyHQOpfrElhvKjIfXSEf3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:13 | 2022-05-03 | 2022-09-09 |
 | [Only we know](https://open.spotify.com/track/4LHIbkYLKKdyprbcnISj6m) | [YONGZOO](https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb) | [THE FAN 2ROUND Part.2](https://open.spotify.com/album/5e5G38kHDIZvygpIoOnbLf) | 4:09 | 2022-05-03 | 2022-07-29 |
 | [Only you](https://open.spotify.com/track/5hzZl2FVuN2auomlHFV47r) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [9X9th](https://open.spotify.com/album/2hDuNdZj6kdZMU4SnJSu7s) | 4:30 | 2022-05-03 | 2022-07-25 |
+| [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-24 |  |
 | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/track/5ZDyD7L5khCYry5X8JAb9s) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/album/1xn2D8pK6x33cOM8jXKlzS) | 3:21 | 2022-05-03 | 2022-07-20 |
 | [Our Cinema \#2 \- Dancing](https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#2 \- Dancing](https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC) | 3:30 | 2022-05-03 |  |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-06-30 | 2022-09-09 |
@@ -163,6 +164,7 @@
 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 | 2022-05-03 |  |
 | [When You Come To My Heart](https://open.spotify.com/track/11Qfz94iFMV0CJ8yapbYZN) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Vol.8\] You Hee yul's Sketchbook 10th Anniversary Project : 4th Voice 'Sketchbook X Hwa Sa'](https://open.spotify.com/album/5l820EUqNJRBTvpsJlTp1n) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [Wind](https://open.spotify.com/track/0oPiNXJVKFp3T5wo6S0nUw) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [OUTRO](https://open.spotify.com/album/6GcK8UwZU9cNBlG5pIWwjS) | 3:11 | 2022-05-03 | 2022-12-10 |
+| [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2022-12-24 |  |
 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 | 2022-07-22 |  |
 | [Wish 바람](https://open.spotify.com/track/6Bp3075Pu73PpyCYRhHQbB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:59 | 2022-05-03 | 2022-07-29 |
 | [With all my heart](https://open.spotify.com/track/5zhOr1qGlSEHhv5XEuzi0j) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/6o6gPj3oOu3ueWm30egKg3) | 3:05 | 2022-09-07 | 2022-12-10 |

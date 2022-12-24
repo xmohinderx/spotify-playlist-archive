@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-456 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+458 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ainda](https://open.spotify.com/track/5iJePbYGvnp583umPcXfBW) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [ERNESTO](https://open.spotify.com/artist/5ItCBuMBw4vavU0TImZgf1) | [Ainda](https://open.spotify.com/album/7wQLYuo4cNcHQJQq3DMRtP) | 3:06 | 2022-09-23 |  |
 | [Alone Again](https://open.spotify.com/track/1I5LzwQzflf3ZoNuIwLnBq) | [Aarly](https://open.spotify.com/artist/23n9NAhdmQvss3ZyP7UMaj) | [Alone Again](https://open.spotify.com/album/2PmKJoMUa2vd4keMvlO7xS) | 2:24 | 2022-10-14 |  |
 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 | 2022-05-20 |  |
+| [Amber Rhythm](https://open.spotify.com/track/6uclwbIDxtwjnEOeLsIV7v) | [Teddy Rose](https://open.spotify.com/artist/5sBRa2tGNtY4YzYGQ30p99) | [Amber Rhythm](https://open.spotify.com/album/6lvGDz8Fr23NQyVccVo84A) | 2:10 | 2022-12-23 |  |
 | [Amor na Praia](https://open.spotify.com/track/4DAkqKqpLl7KaFwQxxeHA0) | [De la Plante](https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD) | [Amor na Praia](https://open.spotify.com/album/0Bke9cR7fyutIivRHIbQZB) | 2:24 | 2022-09-02 |  |
 | [Amore](https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Amore](https://open.spotify.com/album/5MEA9XtnI9AUg1axr8m8Gr) | 3:06 | 2022-10-14 |  |
 | [And All That Jazz](https://open.spotify.com/track/0FeZHrVcF4dJ664G38Qfb8) | [Sonic Park](https://open.spotify.com/artist/2y2VQ20ZdNjceBkKPaDF6B) | [Change Of Plans](https://open.spotify.com/album/4tMdzi2HQUG1lFtnfcmACK) | 2:38 | 2022-05-20 | 2022-07-01 |
@@ -343,6 +344,7 @@
 | [Set the Sky on Fire](https://open.spotify.com/track/3jZ6PpHPQuON6Bt2PYl7Vs) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Set the Sky on Fire](https://open.spotify.com/album/2B5IYKmqCNKbUAouQeWf8L) | 2:22 | 2022-05-20 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-05-20 |  |
 | [Shaken Stir](https://open.spotify.com/track/20bxpthQ6s3G9OMJTVJZVA) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [A Trip Downtown](https://open.spotify.com/album/7hE3MCzDJt5u0QufCEV4sI) | 3:13 | 2022-11-11 |  |
+| [Siesta](https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Siesta](https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW) | 2:04 | 2022-12-23 |  |
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-05-20 |  |
 | [Skating the Lake](https://open.spotify.com/track/5IKNbO4WNxnw6JYqyov0zD) | [David North](https://open.spotify.com/artist/2MoOvRAcAFdqZuArPg6qae) | [A Night in Hightown District](https://open.spotify.com/album/6NB7zKzxXcg8KoLk4a0fLk) | 2:11 | 2022-05-20 |  |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 42586,
+  "num_followers": 42715,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMGVlN2E0MjkyNjA2YTQyYTM4YzZkMzgyOWU1ZWJiN2Vm",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDRmYjAyZTY0MGU1OTU0ZDA1Y2EyMWUwY2RlNzEzODll",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Albricias",
-      "url": "https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Las 2 Grandes Orquestas de Venezuela",
         "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 247906,
       "name": "Flores Negras - Fichas Negras",
       "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Albricias",
+      "url": "https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Pedro Infante y Jorge Negrete",
-        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
+        "name": "Bohemios en la Cantina",
+        "url": "https://open.spotify.com/album/5UKpJ5e1dDKFimvugQpOtF"
       },
       "artists": [
         {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
         }
       ],
-      "duration_ms": 205740,
-      "name": "Flor de Azalea",
-      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
+      "duration_ms": 209920,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/5ftXrxbLYz9iTmtokjyEvw"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Bohemios en la Cantina",
-        "url": "https://open.spotify.com/album/5UKpJ5e1dDKFimvugQpOtF"
+        "name": "Pedro Infante y Jorge Negrete",
+        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/5ftXrxbLYz9iTmtokjyEvw"
+      "duration_ms": 205740,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
     },
     {
       "added_at": "2021-12-26 12:28:38",

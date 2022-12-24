@@ -4,7 +4,7 @@
 
 > Al cien con los corridos ¡Para un buen ejercicio!
 
-368 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/1DOweYuVVKrE9ujdDdWPfp)
+369 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/1DOweYuVVKrE9ujdDdWPfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [El Toro de Jalisco](https://open.spotify.com/track/4cpqvZXUBLCL4Na9FuO0Sn) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54) | [El Toro de Jalisco](https://open.spotify.com/album/4ziCqETCHwKygkOIrLMEkX) | 2:16 | 2022-06-10 | 2022-08-10 |
 | [El Toro de Jalisco \- Banda](https://open.spotify.com/track/2lxQBOLXgOR2ZDGQLXTu5E) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [El Toro de Jalisco \(Banda\)](https://open.spotify.com/album/0a3s34R7WCEQXhEELXi37w) | 2:19 | 2022-05-27 | 2022-07-28 |
 | [El Trébol de la Suerte](https://open.spotify.com/track/5O8ldmYB4pDLtEGwttnS6V) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Trébol de la Suerte](https://open.spotify.com/album/4tTABLflOnratxanByfHFA) | 3:56 | 2022-02-14 | 2022-12-08 |
+| [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 | 2022-06-10 |  |
 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-02-14 | 2022-12-14 |
 | [El Valor De Un Varón](https://open.spotify.com/track/5gLD1OoBB5fLNlDWY3mrlP) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/4eWWlUpqJlgTbsb36yTQZj) | 3:31 | 2022-05-27 | 2022-07-29 |
 | [El Zoológico](https://open.spotify.com/track/0BIpn82Dpo4EdCwHnwoapp) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:40 | 2022-02-14 | 2022-12-08 |
@@ -261,7 +262,7 @@
 | [Los Mitotes](https://open.spotify.com/track/4XhjEwjPhK30lJO5f9bQkU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes de las Madres](https://open.spotify.com/album/2etqy6hrli7GLhrCNrbLeY) | 3:28 | 2022-05-27 | 2022-12-08 |
 | [Lujos Y Placeres](https://open.spotify.com/track/3duWakNiVCqyZl1PvEHsMo) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Lujos Y Placeres](https://open.spotify.com/album/20GaEdRDKz5Vy4bHN2MKUQ) | 3:17 | 2022-06-10 | 2022-07-20 |
 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 | 2022-02-14 | 2022-07-29 |
-| [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 | 2022-12-08 |  |
+| [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 | 2022-12-08 | 2022-12-24 |
 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2022-12-08 |  |
 | [Malditas Ganas](https://open.spotify.com/track/3skC4mUK23HjA5AaJV0fMw) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/1Vly14LQAZX1sW50JRV8dN) | 2:36 | 2022-05-27 | 2022-07-29 |
 | [Malditas Ganas](https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:36 | 2022-06-10 | 2022-12-08 |

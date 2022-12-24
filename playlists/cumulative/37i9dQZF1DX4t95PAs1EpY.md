@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-334 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+336 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2021-12-07 | 2022-09-03 |
 | [Open Skies](https://open.spotify.com/track/5lP90jpZwrWDr9KoFmNQux) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Open Skies](https://open.spotify.com/album/7GzoQgQRZiLz14ByYZOIPN) | 2:06 | 2022-07-15 |  |
 | [Orchards](https://open.spotify.com/track/4NNojnTmAd2ayvXOl13t6m) | [ghost talk](https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB) | [Orchards](https://open.spotify.com/album/6Xjkk8rEdbP6LhrWp5uofy) | 2:13 | 2022-05-13 | 2022-09-03 |
+| [outdoors](https://open.spotify.com/track/5fEU8VYP1yto7mugwoPqvi) | [GM Nanashi](https://open.spotify.com/artist/3UGhltIiwrExCxs5CjJQFh) | [outdoors](https://open.spotify.com/album/6B0e6J5jSyFryQ9TiPAlYI) | 2:19 | 2022-12-23 |  |
 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 | 2021-12-07 |  |
 | [Pacific Ave](https://open.spotify.com/track/6G0L1J6Vg2kY2HHjdvKJ8E) | [Peaches & Boo](https://open.spotify.com/artist/0jts2tk2AOzVPENYEBK4TT) | [Pacific Ave](https://open.spotify.com/album/0N8NoIShc8iKKuLeaIEeEc) | 1:26 | 2021-12-07 | 2022-05-20 |
 | [park stroll](https://open.spotify.com/track/1lm9DJDac6sVS6PyhDMMTv) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [park stroll & pathways](https://open.spotify.com/album/7azzpnzNfYqZQR3bCmuqYn) | 2:50 | 2021-12-07 | 2022-09-03 |
@@ -240,6 +241,7 @@
 | [Perfect Dark](https://open.spotify.com/track/6rMfRzs0lpnKY8gVk8dh6W) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Midnight Sun](https://open.spotify.com/album/61ggX6ltMrTBy7fv96Bbip) | 2:14 | 2021-12-07 |  |
 | [perspectives](https://open.spotify.com/track/0LmvYj2kBwhthoRghRt1RK) | [Jens Nirme](https://open.spotify.com/artist/3illAmiJoox5u3D7qhkO6t) | [perspectives](https://open.spotify.com/album/65DlzFrL661lJGLZT9A0hJ) | 1:46 | 2022-08-19 | 2022-09-30 |
 | [picnic blanket](https://open.spotify.com/track/3gcHdJFeWqf8xXjlwxbatl) | [feathered friend](https://open.spotify.com/artist/2UKCPn2w6i8etI4ZyIcAwu) | [picnic blanket](https://open.spotify.com/album/5Lt3o5YQ5PfF6bqtwSV0Pw) | 2:30 | 2022-08-05 |  |
+| [Piece Of Mind](https://open.spotify.com/track/5OSf4uYa3fNUghwbZoGg7W) | [Botram](https://open.spotify.com/artist/0k2TLULCjH6fGrGHa83yTu), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Piece Of Mind](https://open.spotify.com/album/5v7xOzrMsvse3qcKqDr4Iy) | 2:23 | 2022-12-23 |  |
 | [Pink Aesthetics](https://open.spotify.com/track/6oNoF20vd0ySvNR9S7QwFJ) | [Chill Beats Music](https://open.spotify.com/artist/46d1ndWtnYj9kxd3IlQykV), [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Lofi Exposure 1](https://open.spotify.com/album/113el5njSu4Ss6CzuolyM3) | 2:22 | 2021-12-07 | 2022-05-27 |
 | [Pizogi](https://open.spotify.com/track/13VfNj6MtlTyqEOsm3LWBq) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:42 | 2021-12-07 |  |
 | [plastic flowers](https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [plastic flowers](https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6) | 3:36 | 2022-09-02 |  |
@@ -264,7 +266,7 @@
 | [Relief](https://open.spotify.com/track/5Rg5XBTCLryJt7WWG0SVte) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [Relief](https://open.spotify.com/album/7b09B1KnppJi7xeEbck2Id) | 2:14 | 2022-10-28 |  |
 | [reverbations](https://open.spotify.com/track/0cIBQbGzdlSAR7O6v2qpfs) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [reverbations](https://open.spotify.com/album/73lR9oJZi5dXILKm8uBYrW) | 2:17 | 2021-12-07 | 2022-10-14 |
 | [Rio, 7AM](https://open.spotify.com/track/0ytvdsvP3vIMiBUIwgNLJl) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Rio, 7AM](https://open.spotify.com/album/0SKqCe58cIS8zkBSoWDAP1) | 2:01 | 2021-12-07 | 2022-05-27 |
-| [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-12-07 |  |
+| [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-12-07 | 2022-12-24 |
 | [roadtripp](https://open.spotify.com/track/6DbwIh4zCLn1POZXjXaubt) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [roadtripp](https://open.spotify.com/album/7EM5p1WI1wpBPUrG46eTXe) | 2:21 | 2021-12-07 |  |
 | [Running Away](https://open.spotify.com/track/1oOVp3mUoS6CSjdYsdjaAi) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Lohbe](https://open.spotify.com/artist/1gkQWhf8PQlIaXgZVohf0z) | [Running Away](https://open.spotify.com/album/0Of7eQQhGZhZsv9GRhttax) | 1:40 | 2022-06-24 | 2022-08-19 |
 | [Safest Place On Earth](https://open.spotify.com/track/0UbNd2SiCac2XutEQPc1zZ) | [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Safest Place On Earth](https://open.spotify.com/album/6Ui1YWXoHUDcXbhaJ76rlE) | 2:52 | 2022-08-19 | 2022-10-14 |
@@ -293,7 +295,7 @@
 | [Special People](https://open.spotify.com/track/2DxdM8ajYipInrUhm6wGqp) | [Phonedown](https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q) | [Special People](https://open.spotify.com/album/45uoXchSEQuMKvJxNn4l1N) | 2:41 | 2022-09-16 |  |
 | [Spicy Brew](https://open.spotify.com/track/4Yd7O28WGsuZnKFX6wJ0CI) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Spicy Brew](https://open.spotify.com/album/3vBCdnuk05v7LLU2Y9RCyn) | 1:47 | 2022-12-16 |  |
 | [Spring Will Come](https://open.spotify.com/track/198mh66rFz5fQJ6CpHaxfQ) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Spring Will Come](https://open.spotify.com/album/78KWlT8JwxvWcBDo3omln7) | 2:49 | 2022-12-09 |  |
-| [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2021-12-07 |  |
+| [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2021-12-07 | 2022-12-24 |
 | [stay \- lofi](https://open.spotify.com/track/2ljxDp3RcVh3PG7DuRScCZ) | [zxch.](https://open.spotify.com/artist/1zuECMB24HSnqEHB6j8nDG) | [stay \(lofi\)](https://open.spotify.com/album/5DuyGUzCm8lwoZSqPq1FUp) | 2:48 | 2022-06-10 | 2022-08-19 |
 | [Stay at the Hotel](https://open.spotify.com/track/0EOgh8Si2DiYd1qjBUY66A) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Stay at the Hotel](https://open.spotify.com/album/6rCbBExCHAeMNd9PD7mQS8) | 2:35 | 2022-11-11 |  |
 | [Steady Somewhere](https://open.spotify.com/track/7J0jAsnZ1VKTizaSaOYtLM) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:36 | 2021-12-07 | 2022-09-17 |

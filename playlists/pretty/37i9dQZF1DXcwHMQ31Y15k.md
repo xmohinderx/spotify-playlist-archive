@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Wandra Restusiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,615 likes - 76 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,924 likes - 76 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-188 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+189 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Sorry, Jorge](https://open.spotify.com/track/5b0Opn1XtWaqN70sXm8uJk) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:06 | 2022-04-08 |  |
 | [Spraytan](https://open.spotify.com/track/73fwCt5oobtmrRsUgGESNk) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Spraytan](https://open.spotify.com/album/2f5Su2fNCqu1gzHH4YK61J) | 2:00 | 2022-04-08 |  |
 | [Steady Rock Stop](https://open.spotify.com/track/0ZEArBcEXkKuHsNYle8TDb) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [Steady Rock Stop](https://open.spotify.com/album/5Nw6pdLEZEWzP94sRCJlkr) | 2:36 | 2022-04-08 |  |
+| [Still Here](https://open.spotify.com/track/2jKbNIrnY3seJn6e32jQvK) | [El Jon](https://open.spotify.com/artist/16Uz21dDhTHs8iIMKKFx4X) | [Still Here](https://open.spotify.com/album/3xEseHRhzns0PdAhdyHZ0g) | 1:58 | 2022-12-23 |  |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-04-08 |  |
 | [style loop](https://open.spotify.com/track/1RaynSnzgRBH0dSRwaEdFs) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:25 | 2022-04-08 |  |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-08 |  |

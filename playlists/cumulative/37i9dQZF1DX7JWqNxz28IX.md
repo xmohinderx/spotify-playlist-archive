@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, chiello\)
 
-170 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+171 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Io non voglio più soffrire](https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Io non voglio più soffrire](https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1) | 2:36 | 2022-05-24 |  |
 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 | 2022-04-21 |  |
 | [La cura, non sei te](https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT) | [Chanoir Hdn](https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O) | [La cura, non sei te](https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz) | 2:08 | 2022-12-15 |  |
+| [La stella più bella di sempre](https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [La stella più bella di sempre](https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW) | 2:06 | 2022-12-22 |  |
 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 | 2022-04-21 |  |
 | [LE PAROLE GIUSTE](https://open.spotify.com/track/2rJAaSQeYsM4j8eHFyCyZQ) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/5Ni8ww2nX4bG6h6WXWq3tG) | 2:47 | 2022-12-05 |  |
 | [Le Tue Insicurezze](https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Koaku](https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK), [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:18 | 2022-07-16 |  |

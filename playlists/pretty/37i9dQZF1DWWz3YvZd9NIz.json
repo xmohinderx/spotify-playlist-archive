@@ -1,15 +1,55 @@
 {
   "description": "The best remixes of popular tracks!",
-  "num_followers": 1216,
+  "num_followers": 1393,
   "original_name": "Hardstyle Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3NDQyMSwwMDAwMDAwMGQwNWNiMGI1YTNiYjgzYjhiZjliOTNjMjRlMWMxYzY1",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGEyN2FmZGZkODI0MzQ0NWNiYmQ3MDc3Y2EyYTk3ZGM0",
   "tracks": [
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Miss You (Remix)",
+        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Miss You - Remix",
+      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Ecuador (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        }
+      ],
+      "duration_ms": 130016,
+      "name": "Ecuador (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Can Can (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
@@ -29,51 +69,7 @@
       "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "The Crystal Winter",
-        "url": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/4x2onqROU58WR516xPqqWO"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Hardstyle Girl (Harris & Ford Remix)",
-        "url": "https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L"
-      },
-      "artists": [
-        {
-          "name": "Hard But Crazy",
-          "url": "https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hardstyle Girl (Harris & Ford Remix)",
-      "url": "https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Make Some Noise",
         "url": "https://open.spotify.com/album/4c1QAsOQnZBVFuthKRbkN3"
@@ -89,7 +85,43 @@
       "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Pianoman (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/7IAIcE7jVRC1enFK7f6Um4"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "De Sfeermakers",
+          "url": "https://open.spotify.com/artist/4ziSTKIdIX5tP8y0EZ4LLA"
+        }
+      ],
+      "duration_ms": 198045,
+      "name": "Pianoman (Hardstyle Remix)",
+      "url": "https://open.spotify.com/track/3HipQ7QxF3QD4uqvGnl1p3"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Crystal Winter",
+        "url": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "99 Luftballons",
+      "url": "https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "The Game (Dr. Rude & Lunaticz Remix)",
         "url": "https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG"
@@ -113,23 +145,67 @@
       "url": "https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "The Crystal Winter",
         "url": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 126000,
-      "name": "99 Luftballons",
-      "url": "https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO"
+      "duration_ms": 210853,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/4x2onqROU58WR516xPqqWO"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Crystal Winter",
+        "url": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 230412,
+      "name": "Mr Brightside",
+      "url": "https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme"
@@ -149,23 +225,103 @@
       "url": "https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Firework",
-        "url": "https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w"
+        "name": "Bonkerz",
+        "url": "https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs"
       },
       "artists": [
         {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
         }
       ],
-      "duration_ms": 128274,
-      "name": "Firework",
-      "url": "https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16"
+      "duration_ms": 190503,
+      "name": "Bonkerz",
+      "url": "https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Hardstyle Girl (Harris & Ford Remix)",
+        "url": "https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L"
+      },
+      "artists": [
+        {
+          "name": "Hard But Crazy",
+          "url": "https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hardstyle Girl (Harris & Ford Remix)",
+      "url": "https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/39IKOXzpy4tr6KwcVTsIOD"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "Da Rick",
+          "url": "https://open.spotify.com/artist/7H7x1AnDoiPSwiEOXZP6Ls"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/5TQZ9gl4c5WLP5RWx6kkr6"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "I Follow Rivers (Deep Sea Baby)",
+        "url": "https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Hixxy",
+          "url": "https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN"
+        },
+        {
+          "name": "Jelle van Dael",
+          "url": "https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "I Follow Rivers (Deep Sea Baby)",
+      "url": "https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Gimme Bass",
+        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Gimme Bass",
+      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Middle Of The Night",
         "url": "https://open.spotify.com/album/2poXFyU38a94TRDrzL7jgx"
@@ -181,23 +337,67 @@
       "url": "https://open.spotify.com/track/6xUlEWtTKrkyxUxO7nPVYq"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Firework",
+        "url": "https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "duration_ms": 128274,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Shotgun (The Remixes)",
+        "url": "https://open.spotify.com/album/0tKVMaya0qTMQFf7yQHMvC"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Rochelle",
+          "url": "https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 285663,
+      "name": "Shotgun - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/2O2KEWEBaccAdliGrUs4Qr"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "The Crystal Winter",
         "url": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj"
       },
       "artists": [
         {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 230412,
-      "name": "Mr Brightside",
-      "url": "https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp"
+      "duration_ms": 201330,
+      "name": "Because The Night",
+      "url": "https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "All the Things She Said 2020 (Sub Sonik Remix)",
         "url": "https://open.spotify.com/album/3jq4Nwfz3kIAK1N2bfbRnz"
@@ -221,23 +421,7 @@
       "url": "https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Gimme Bass",
-        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "Gimme Bass",
-      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
@@ -261,27 +445,7 @@
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Maniac",
-        "url": "https://open.spotify.com/album/39IKOXzpy4tr6KwcVTsIOD"
-      },
-      "artists": [
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        },
-        {
-          "name": "Da Rick",
-          "url": "https://open.spotify.com/artist/7H7x1AnDoiPSwiEOXZP6Ls"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/5TQZ9gl4c5WLP5RWx6kkr6"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Around the World (La la La)",
         "url": "https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj"
@@ -297,7 +461,7 @@
       "url": "https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Creep (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92"
@@ -321,7 +485,7 @@
       "url": "https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
@@ -345,7 +509,7 @@
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Don't Let Me Down (feat. Daya) [Hardwell & Sephyx Remix]",
         "url": "https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5"
@@ -373,7 +537,7 @@
       "url": "https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Everytime We Touch (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj"
@@ -393,27 +557,7 @@
       "url": "https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "The Crystal Winter",
-        "url": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 201330,
-      "name": "Because The Night",
-      "url": "https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Lambada (Your Love)",
         "url": "https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6"
@@ -437,7 +581,7 @@
       "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Stereo Love (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/55h8R7IM7uL5IvHYoWDpKo"
@@ -461,7 +605,7 @@
       "url": "https://open.spotify.com/track/5dBvUkplYBBBb3sJ2VORQy"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "L'Amour Toujours (Hardstyle Version)",
         "url": "https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5"
@@ -477,7 +621,7 @@
       "url": "https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Died In Your Arms (Reloaded)",
         "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
@@ -497,7 +641,7 @@
       "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH"
@@ -513,7 +657,7 @@
       "url": "https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Heaven (Remixes)",
         "url": "https://open.spotify.com/album/7FamurxHc0oaPYDoQ6F3jF"
@@ -537,7 +681,7 @@
       "url": "https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Country Roads",
         "url": "https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf"
@@ -557,7 +701,23 @@
       "url": "https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Just Dance (Hardstyle)",
+        "url": "https://open.spotify.com/album/5iMaejRpMPquOG2YXVRPJ7"
+      },
+      "artists": [
+        {
+          "name": "puremind",
+          "url": "https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX"
+        }
+      ],
+      "duration_ms": 150427,
+      "name": "Just Dance (Hardstyle)",
+      "url": "https://open.spotify.com/track/3O5nmXfS7o6FuEEmiNTWDz"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Only Girl (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9"
@@ -565,7 +725,7 @@
       "artists": [
         {
           "name": "Kratos",
-          "url": "https://open.spotify.com/artist/71qT5j7wRWsMuqvcNmQ7mN"
+          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
         },
         {
           "name": "Hardstyle Gym Bro",
@@ -577,7 +737,7 @@
       "url": "https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Jackie Chan (Remixes, Vol. 2)",
         "url": "https://open.spotify.com/album/2LfHj3QvCGowIeeSYWXLuA"
@@ -609,7 +769,7 @@
       "url": "https://open.spotify.com/track/0NtJLfcKJcZpGrguDWCuga"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Libert\u00e9 (Sefa & Outsiders Remix)",
         "url": "https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO"
@@ -633,27 +793,7 @@
       "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Running up That Hill",
-        "url": "https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS"
-      },
-      "artists": [
-        {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        }
-      ],
-      "duration_ms": 223659,
-      "name": "Running up That Hill",
-      "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Axel F (Hardstyle Version)",
         "url": "https://open.spotify.com/album/3s0sRHXF2NM37B2bs236qG"
@@ -669,7 +809,7 @@
       "url": "https://open.spotify.com/track/1C1LUNAqsWNFPCO72KGZNp"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
@@ -693,23 +833,27 @@
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Just Dance (Hardstyle)",
-        "url": "https://open.spotify.com/album/5iMaejRpMPquOG2YXVRPJ7"
+        "name": "Running up That Hill",
+        "url": "https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS"
       },
       "artists": [
         {
-          "name": "puremind",
-          "url": "https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX"
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
         }
       ],
-      "duration_ms": 150427,
-      "name": "Just Dance (Hardstyle)",
-      "url": "https://open.spotify.com/track/3O5nmXfS7o6FuEEmiNTWDz"
+      "duration_ms": 223659,
+      "name": "Running up That Hill",
+      "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu"
@@ -729,23 +873,7 @@
       "url": "https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Bonkerz",
-        "url": "https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 190503,
-      "name": "Bonkerz",
-      "url": "https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Instagram (The Remixes)",
         "url": "https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1"
@@ -785,7 +913,7 @@
       "url": "https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Blah Blah Blah (Remixes)",
         "url": "https://open.spotify.com/album/2JMGLki9XYrFTCJEBM6VoG"
@@ -805,7 +933,7 @@
       "url": "https://open.spotify.com/track/6Q9tqkD827DTEsAySwW0og"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS"
@@ -825,7 +953,7 @@
       "url": "https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE"
@@ -841,7 +969,7 @@
       "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Superstring (Aftershock Remix)",
         "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
@@ -861,7 +989,7 @@
       "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Bella Ciao",
         "url": "https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY"
@@ -877,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "La Colegiala",
         "url": "https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO"
@@ -897,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv"
     },
     {
-      "added_at": "2022-12-16 07:07:01",
+      "added_at": "2022-12-22 23:00:00",
       "album": {
         "name": "Your Love (Atmozfears & Sound Rush Remix)",
         "url": "https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4"
@@ -919,114 +1047,6 @@
       "duration_ms": 202929,
       "name": "Your Love (Atmozfears & Sound Rush Remix)",
       "url": "https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "The Wellerman (Sea Shanty)",
-        "url": "https://open.spotify.com/album/1c5f9Qa41aKzuko7bNsxJW"
-      },
-      "artists": [
-        {
-          "name": "NIVIRO",
-          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
-        }
-      ],
-      "duration_ms": 216049,
-      "name": "The Wellerman (Sea Shanty)",
-      "url": "https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Rainbow In The Sky",
-        "url": "https://open.spotify.com/album/53SIt0wrmoBP4wCBGciGQ7"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        },
-        {
-          "name": "Ingrid Simons",
-          "url": "https://open.spotify.com/artist/5nMlO8ar6S3oqX1ncLombX"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Rainbow In The Sky",
-      "url": "https://open.spotify.com/track/0clMW4mz5QaPXURDwkmKJA"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv"
-      },
-      "artists": [
-        {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "The Ketchup Song (Aserej\u00e9)",
-        "url": "https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ"
-      },
-      "artists": [
-        {
-          "name": "NoooN",
-          "url": "https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X"
-        }
-      ],
-      "duration_ms": 170217,
-      "name": "The Ketchup Song (Aserej\u00e9)",
-      "url": "https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Africa (The Remixes)",
-        "url": "https://open.spotify.com/album/339hhBU7RbxyYhXVfXBagi"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Nick Skitz",
-          "url": "https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx"
-        },
-        {
-          "name": "Shinzo",
-          "url": "https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv"
-        }
-      ],
-      "duration_ms": 251097,
-      "name": "Africa (Shinzo Radio Edit)",
-      "url": "https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj"
-    },
-    {
-      "added_at": "2022-12-16 07:07:01",
-      "album": {
-        "name": "Shirt Off & Twist It",
-        "url": "https://open.spotify.com/album/2vPItAIuH8LxOlkxmbXMVo"
-      },
-      "artists": [
-        {
-          "name": "Villain",
-          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
-        }
-      ],
-      "duration_ms": 165643,
-      "name": "Shirt Off & Twist It",
-      "url": "https://open.spotify.com/track/0G3wGKSz3Anx87GsRh0xJu"
     }
   ],
   "unique_name": "Hardstyle Remixes",

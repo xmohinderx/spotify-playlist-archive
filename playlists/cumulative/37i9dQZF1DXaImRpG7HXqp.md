@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-391 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+393 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-01-19 |  |
 | [Filtered Memories](https://open.spotify.com/track/1FLkGNK408TKdrnvB5cjn9) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Filtered Memories](https://open.spotify.com/album/5KHso3zphlK86NbZR3E0cK) | 1:44 | 2021-12-08 | 2022-06-10 |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2021-12-08 | 2022-04-06 |
+| [Fortuna](https://open.spotify.com/track/1fS0WaFOKGsQLebNWmQa4S) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Fortuna](https://open.spotify.com/album/2yidMLuUYkRSagU7epmtc1) | 3:25 | 2022-12-23 |  |
 | [Fruits Of Your Love](https://open.spotify.com/track/5tFzaUHt0gfePUY36hyuJK) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Fruits Of Your Love](https://open.spotify.com/album/4uCgZuDva75T2F80XW4qNZ) | 2:01 | 2022-09-23 | 2022-12-10 |
 | [früh am morgen](https://open.spotify.com/track/4I0R6yaNa5s7EqDTvsivoe) | [Arno Berg](https://open.spotify.com/artist/6z7AH3tqSNFOR1lQloX8tg) | [früh am morgen](https://open.spotify.com/album/4OTtxvGW6Rm5qrSS4JYzUT) | 3:44 | 2021-12-08 | 2022-07-08 |
 | [Fuchstal](https://open.spotify.com/track/1iDuHUgdqs4uhp91u1h7D4) | [Rachel Haywood](https://open.spotify.com/artist/1c8NbpnMOQaVg5oW8ImdmS) | [Marlene](https://open.spotify.com/album/7rCNr0Dwz0Y0Wwl1KuPLUP) | 2:34 | 2021-12-08 | 2022-09-09 |
@@ -303,6 +304,7 @@
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2021-12-08 | 2022-04-06 |
 | [Shift Of Focus](https://open.spotify.com/track/7MYziA9LrwwtlYlRGqTOTE) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Shift Of Focus](https://open.spotify.com/album/2atrHCFeptmvfEK8Q8qVBh) | 2:33 | 2021-12-08 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
+| [Simmer Down](https://open.spotify.com/track/3RW2g8eTVmmzIITKh4BBLO) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Simmer down](https://open.spotify.com/album/5DnoLzFxcbKOTBB8rHch6Y) | 3:04 | 2022-12-23 |  |
 | [Sine Qua Non](https://open.spotify.com/track/1O2iWnAVqXWYaOXCOTezfo) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Miracle Mountain](https://open.spotify.com/album/1H6xXlZDDFMpu9MIj4rPqT) | 2:42 | 2022-12-16 |  |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-09-17 |
 | [Slow Us Down](https://open.spotify.com/track/2pJVa3BEetPJLgBUCaVW7n) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Slow Us Down](https://open.spotify.com/album/3BUWNWluuCHelTAihZMTKB) | 3:51 | 2022-09-23 |  |

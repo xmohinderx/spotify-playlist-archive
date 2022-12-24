@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-129 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+130 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [As You Are \- Shy FX Remix](https://open.spotify.com/track/5LBsjW8qNjTpHFPeBoVwca) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [As You Are \(Remixes\)](https://open.spotify.com/album/5jl3bZodIYwlQKAolggKyG) | 3:25 | 2022-07-07 |  |
 | [Bad Habits](https://open.spotify.com/track/741vtogYZT2POD24ma6X7k) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4) | [Bad Habits](https://open.spotify.com/album/2Ofbih2q7WqJKrpubxr20H) | 3:46 | 2021-11-25 | 2022-08-27 |
 | [Baltimore](https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Baltimore](https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z) | 5:03 | 2021-11-25 |  |
+| [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 | 2022-12-22 |  |
 | [Beautiful Things](https://open.spotify.com/track/5f1ipolg7GbqPvU82RrPKW) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/5AHhfT944fJxDCAwXzSlHn) | 4:04 | 2021-11-25 | 2022-07-29 |
 | [Beautiful Things](https://open.spotify.com/track/5mxW7RsgYQ0wlhiK4qcpFI) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/3hlrDC42IzSM8B6qnFVuwW) | 4:04 | 2022-11-10 | 2022-11-14 |
 | [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 | 2022-07-07 |  |
@@ -36,7 +37,7 @@
 | [Don't Shoot \- Live at Reggae On The Mountain](https://open.spotify.com/track/6JA0WI55Zn7vfZDgSvDJid) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Don't Shoot \(Live at Reggae On The Mountain 2019\)](https://open.spotify.com/album/1KAFkFeFWWaErrHPAA4rns) | 3:34 | 2021-11-25 | 2022-04-29 |
 | [Don't Start Now](https://open.spotify.com/track/1jdOJBKLdLtSrV63ztyYdP) | [Bristol Love](https://open.spotify.com/artist/25w54ChZ90U3nrnC4SNjfp), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu) | [Don't Start Now](https://open.spotify.com/album/6r55H42Pcw4fpChqvB5oZN) | 3:44 | 2021-11-25 |  |
 | [Down About It](https://open.spotify.com/track/2p2FhZgzt7XVWcG14hvzte) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Anthology](https://open.spotify.com/album/7caIHqOdEIG5iaxjdRHoD9) | 3:28 | 2021-11-25 | 2022-04-29 |
-| [Eiffel Tower](https://open.spotify.com/track/4CdAL878c5nQDM3htsy96Y) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [Eiffel Tower](https://open.spotify.com/album/4l3pEOsxVk3IgxuyRG3Io2) | 3:24 | 2022-10-28 |  |
+| [Eiffel Tower](https://open.spotify.com/track/4CdAL878c5nQDM3htsy96Y) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [Eiffel Tower](https://open.spotify.com/album/4l3pEOsxVk3IgxuyRG3Io2) | 3:24 | 2022-10-28 | 2022-12-24 |
 | [El Poder](https://open.spotify.com/track/7fVqTkbZBkLsgJJ5srFbAy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Poder](https://open.spotify.com/album/5PKSiSTU30fvmR40S2bFdc) | 4:28 | 2021-11-25 | 2022-02-26 |
 | [Every Day \(feat\. Romain Virgo & Fiji\)](https://open.spotify.com/track/2TDczXsQh4YjEo31TJtrN9) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Every Day \(feat\. Romain Virgo & Fiji\)](https://open.spotify.com/album/4O1zvZcR8dmqi5tub1lhBg) | 3:51 | 2022-03-03 |  |
 | [Fly High](https://open.spotify.com/track/1A0GQQTh59wxrM5OT4Dw0o) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Fly High](https://open.spotify.com/album/2P2mEfHVA713lsDSIs1Qkf) | 3:10 | 2021-11-25 | 2022-02-26 |

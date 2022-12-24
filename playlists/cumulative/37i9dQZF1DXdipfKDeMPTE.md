@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-418 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+423 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2022-05-20 | 2022-11-26 |
 | [Brainstorm](https://open.spotify.com/track/2Ia7BnMIQdFR7VBnLUTSyV) | [yourneighborsclassicbeats](https://open.spotify.com/artist/07YwFEZfj3G4ZRQ08iFDAM) | [Childhood](https://open.spotify.com/album/7c4IX4kVawxqxkYlLt1RRo) | 1:58 | 2022-09-09 |  |
 | [Break](https://open.spotify.com/track/0r9lZcq4khAYHolIT4IAGr) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [Break](https://open.spotify.com/album/0MBfs6wwiujJjBJvIFLuw6) | 1:55 | 2022-05-20 | 2022-07-08 |
+| [Broken Guitar](https://open.spotify.com/track/5Ff8NqmOnCmaFuiuC1XSE6) | [Stratotune](https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0) | [Broken Guitar](https://open.spotify.com/album/7a4dFyQv07iHmk8hEGQo26) | 2:12 | 2022-12-23 |  |
 | [Bronco](https://open.spotify.com/track/6guKuoVFVI7s1VTZqjHk3K) | [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5) | [Bronco](https://open.spotify.com/album/6XqkrUjPorwLnmy3rEj0k1) | 1:36 | 2022-06-24 |  |
 | [Bubbles Around Me](https://open.spotify.com/track/6qrCkyPOQBFe2V0Aer2cWX) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Bubbles Around Me](https://open.spotify.com/album/4ox8valqKzDIg24FylVzXC) | 2:33 | 2022-08-05 |  |
 | [Buda Nights](https://open.spotify.com/track/27VtLMIpNopyAezShebYCF) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU), [deciseeo](https://open.spotify.com/artist/74j5kSzqn9oJohyTUMmGZB) | [Buda Nights](https://open.spotify.com/album/5j9EPMmck4PWNp7FsfoNdP) | 2:37 | 2022-05-20 |  |
@@ -93,6 +94,7 @@
 | [Coordinates](https://open.spotify.com/track/0HUp60k8bDWw8CHtEDq8qL) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Coordinates](https://open.spotify.com/album/1f2HZfMX8DhUtMHUPLP7j3) | 2:51 | 2022-05-20 |  |
 | [Cory](https://open.spotify.com/track/1yOuR4ax7jqvgROmSfkHm0) | [New London Flags](https://open.spotify.com/artist/1TZ6NyWonWgQDdEFFuhgQg) | [Hargrove](https://open.spotify.com/album/1UlXagzks52uCntrxoUfiU) | 3:53 | 2022-05-20 |  |
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2022-05-20 | 2022-09-09 |
+| [cozed up](https://open.spotify.com/track/0Vc5lqLOGTrnDUQWsp2fhh) | [longstar](https://open.spotify.com/artist/4v7r7XxcGpcuwcSJM9r2aG) | [cozed up](https://open.spotify.com/album/2A31tqc7gJrxb2cMbdxbff) | 2:49 | 2022-12-23 |  |
 | [Creamy Soul](https://open.spotify.com/track/6HS4Aphquj6BcKN4N1j89w) | [Olha Nyna](https://open.spotify.com/artist/5ushZ6X1DWVS8PN7DCfH1n) | [Sunday Tiramisu](https://open.spotify.com/album/3tfIR85PMjqcksnF3foe7U) | 2:15 | 2022-05-20 |  |
 | [CrO2](https://open.spotify.com/track/1safGkgdw1Grocn4MdwPFl) | [Kaizen 92](https://open.spotify.com/artist/4b3rKm8D3J3HWUggopMju9) | [Hypnotized](https://open.spotify.com/album/14sSxGjEEXKztcBVI3Y0Nc) | 1:28 | 2022-05-20 | 2022-06-10 |
 | [crosswalks](https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A) | [figgy](https://open.spotify.com/artist/58kPkxMwTdAjnkvlfjZuip) | [crosswalks](https://open.spotify.com/album/0GEeks82tp7zoDZ0FESXPM) | 2:25 | 2022-07-22 |  |
@@ -369,6 +371,7 @@
 | [sunday afternoon tea](https://open.spotify.com/track/6dFt13csMtXDuLqjZdEqk7) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [sunday afternoon tea](https://open.spotify.com/album/5F3u2s9zK0InbrDTAEmeIX) | 2:20 | 2022-05-20 |  |
 | [Sunday Sunset](https://open.spotify.com/track/6KI3tKEcW5NBMIWcHNlh0C) | [Mr\. Donsai](https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX) | [Sunday Sunset](https://open.spotify.com/album/5cLEuqhXzlO6z8reu4V2DD) | 1:40 | 2022-07-27 |  |
 | [Sunrise Express](https://open.spotify.com/track/2oAW3jN90nOCms2Igyxm02) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Sunrise Express](https://open.spotify.com/album/3Yn62GXWFekaczHeFi0p5m) | 2:51 | 2022-09-02 |  |
+| [Sunset Valley](https://open.spotify.com/track/1zIUzXcK4qTOykkoAeyE6L) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Sunset Valley](https://open.spotify.com/album/2uofibwmMXSV7rdlh5mpuJ) | 1:44 | 2022-12-23 |  |
 | [Sunshine](https://open.spotify.com/track/5h0n0jJhZm6zWuEciF0TrN) | [aki\_](https://open.spotify.com/artist/5ieQ7RZaGQqEoKspB6Ho5L) | [Blue Sky](https://open.spotify.com/album/5nlguCfIN0dqhs7Q2Ij0Eq) | 1:33 | 2022-09-02 |  |
 | [Supercalifragilistic](https://open.spotify.com/track/4GJSBizltiVQLwPwI3Q0CP) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [Supercalifragilistic](https://open.spotify.com/album/5ShNcVs7JPP5z9PbJRFrcm) | 2:13 | 2022-05-20 | 2022-06-10 |
 | [Sway](https://open.spotify.com/track/4JQXiDS4X6XG5u59BhaxIC) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Mortal K.O\. Lab](https://open.spotify.com/artist/7K4mechJNIRVfDwzNDgCFl) | [Sway](https://open.spotify.com/album/0PWsdhx7UbCYB4MR8Gd8hW) | 2:42 | 2022-12-09 |  |
@@ -393,7 +396,9 @@
 | [Till We Meet Again](https://open.spotify.com/track/7FO6HcOd00BjnCRJDj3Pk8) | [Skengybeatz](https://open.spotify.com/artist/4RKXfmC9klLXN3SzDxmXJ1) | [Reunion II](https://open.spotify.com/album/5VIbn1fHYuFUsHblxVQU6D) | 2:36 | 2022-10-28 |  |
 | [Title](https://open.spotify.com/track/3nWtSUDnGAPveynq1WgOQn) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [OneTwo](https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn) | 3:07 | 2022-05-20 |  |
 | [tokyo dawn](https://open.spotify.com/track/750DcJVuM2Av9P3V1Szm31) | [nippon soul](https://open.spotify.com/artist/3i8zJHfJYmUjEeE3UMIVTJ) | [tokyo dawn](https://open.spotify.com/album/2Ecakx8yoEoAYlWOUji03h) | 1:30 | 2022-05-20 | 2022-06-10 |
+| [Tone it Down A Little](https://open.spotify.com/track/1A1AIK26gc1C4becMyALgt) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Tone it Down A Little](https://open.spotify.com/album/4E1zvGg5wCya4DDac1mPlY) | 2:12 | 2022-12-23 |  |
 | [travellin'](https://open.spotify.com/track/3knnVvitAAU3ihiqdlxdXL) | [vibebu](https://open.spotify.com/artist/4nHafkXiQWBoAxY38PFUeY) | [travellin'](https://open.spotify.com/album/27wcF6gEMlknTF1D3kcDzd) | 2:25 | 2022-05-20 |  |
+| [Triangles](https://open.spotify.com/track/12f4ZvWlgShTp0Qbfxow4Y) | [Wizard Art](https://open.spotify.com/artist/5HcBOSrRqpqtGaDQkICYzY) | [Triangles](https://open.spotify.com/album/4bKMJN3wazmlZ5GzICQJPN) | 2:17 | 2022-12-23 |  |
 | [Trinkets](https://open.spotify.com/track/5wj256fcPNeauu0DtN4JOz) | [Emtee Beats](https://open.spotify.com/artist/29HYZQ5nVtKxmvfx18NdAH), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Trinkets](https://open.spotify.com/album/126X9Q3tfW2t8Li1vgQPmW) | 2:12 | 2022-07-22 | 2022-08-12 |
 | [Trip](https://open.spotify.com/track/09WxnQhYo3Ka5XjIeY48Y0) | [7 AiX](https://open.spotify.com/artist/0xLK99dzCH2gsJSrMea2fU), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Trip](https://open.spotify.com/album/5uzjNcOXqArSw9hiTtXymv) | 2:08 | 2022-05-20 | 2022-11-26 |
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2022-05-20 |  |

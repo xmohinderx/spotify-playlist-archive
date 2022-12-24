@@ -2,9 +2,9 @@
 
 ### [Bridge to Bombay](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Celebrating South Asian Heritage Month with Raja Kumari.
+> Catch the amazing South Asian artists with Raja Kumari.
 
-127 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+129 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2022-07-18 |  |
 | [Conversation](https://open.spotify.com/track/5YO3GNlT1YvOx4Lnqxtqkh) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Conversation](https://open.spotify.com/album/27RE1xF0cjFdDeCD6JQbQD) | 3:24 | 2022-07-18 |  |
 | [Daily](https://open.spotify.com/track/1YHQk3mvPu3CJediWgaiNa) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Daily](https://open.spotify.com/album/19ENjuaSWREwNmdVuP7ddA) | 2:58 | 2022-05-10 | 2022-07-19 |
+| [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2022-12-22 |  |
 | [DAMNSON](https://open.spotify.com/track/630ZXewu63FXyhoiKpO6tC) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [DAMNSON](https://open.spotify.com/album/0dYr6HaqEAALF0u2wx9XV2) | 2:30 | 2022-07-18 |  |
 | [Dance](https://open.spotify.com/track/7fWMvmH2YLxabiHfxH03CO) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Juggy D](https://open.spotify.com/artist/5Lt1YtQ7PK7ANlfAM9vqVj) | [Dance](https://open.spotify.com/album/4iVZa6nsYDb5XYA3gwBg1v) | 3:29 | 2021-11-11 | 2022-07-19 |
 | [Dark Knight](https://open.spotify.com/track/5flPNCDnZuil33Bpav6iFl) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Dark Knight](https://open.spotify.com/album/3VuCQ8Yj7HjGODQTePfvQq) | 2:21 | 2021-11-11 | 2022-07-19 |
@@ -43,6 +44,7 @@
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-07-18 |  |
 | [Falling](https://open.spotify.com/track/2TDCPIKujxVYzIWXPGbaGY) | [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Lyan](https://open.spotify.com/artist/4rxmalszfZZfX8CDccpTpf) | [Falling](https://open.spotify.com/album/1E9MlbCux498CZI8WPX1Sz) | 3:37 | 2021-11-11 | 2022-07-19 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 | 2022-07-18 |  |
+| [French Exchange](https://open.spotify.com/track/1HBnI45a7E4WB8n5zRGnHE) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [French Exchange](https://open.spotify.com/album/0xbaedIMdZ8JiasTRHbJAc) | 2:46 | 2022-12-22 |  |
 | [Fuck Dita Ni](https://open.spotify.com/track/4Szwh7jMyJxvK9IlS5Wns4) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [29 Summers](https://open.spotify.com/album/2nU4RgpGtF6rnSzcx9EJuC) | 2:59 | 2021-11-11 | 2022-07-19 |
 | [Gaah](https://open.spotify.com/track/63fa8l1URH9HmHADlsyd0D) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Gaah](https://open.spotify.com/album/0kvRleHz0jdcdYSGkEnKDX) | 2:58 | 2022-07-18 |  |
 | [Galat Hogeya](https://open.spotify.com/track/2bsBbQPyslcH2BcIQ667xK) | [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK) | [Galat Hogeya](https://open.spotify.com/album/3CqOBlEVakrdysJLwFhBUs) | 3:00 | 2021-11-11 | 2022-07-19 |

@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-303 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+305 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 | 2022-09-20 |
 | [Bicho Papão](https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Bicho Papão](https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG) | 3:31 | 2022-01-14 | 2022-02-12 |
 | [Blue Butterfly](https://open.spotify.com/track/5pxljqGTHVo2p4Y532ohQL) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [esqueci meu nome](https://open.spotify.com/album/6dyEbp6CRPnAMEdFZqgAvU) | 3:58 | 2022-09-09 | 2022-10-29 |
-| [Boca Aberta](https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Boca Aberta](https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl) | 3:20 | 2022-12-09 |  |
+| [Boca Aberta](https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Boca Aberta](https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl) | 3:20 | 2022-12-09 | 2022-12-24 |
 | [Bolero](https://open.spotify.com/track/3OkBD3fUCvAR8PKC14n1av) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG) | [Bolero](https://open.spotify.com/album/1vFlWGmTgzSQmoviObW7iY) | 3:57 | 2022-09-02 | 2022-12-10 |
 | [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 | 2022-09-02 | 2022-12-10 |
 | [Bonança](https://open.spotify.com/track/1oRT7e0Vye8UjUw1ceabPl) | [Esquimós](https://open.spotify.com/artist/6VVqkFB3MAmABN79OLFxnt), [Bruno Chaves](https://open.spotify.com/artist/4QKIVNqN2FLOqywERnKMac) | [E Mais um Corpo Caiu no Chão](https://open.spotify.com/album/7K1vGrpnTd09lDFPzBQDDN) | 3:37 | 2022-01-14 | 2022-01-29 |
@@ -102,6 +102,7 @@
 | [Espelho Infinito](https://open.spotify.com/track/2c035MzNnX6LbBAqqIY74L) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Espelho Infinito](https://open.spotify.com/album/2lVRPlfINLYMxUBanw9jpB) | 4:03 | 2022-05-13 | 2022-06-25 |
 | [espelho...](https://open.spotify.com/track/7yU2AHrWg5OGnicuu8cdVt) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Byusukii](https://open.spotify.com/artist/5pvTUpf1gd0VbNGPANCscY) | [espelho...](https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2) | 2:58 | 2022-01-14 | 2022-03-18 |
 | [Essa Garoa](https://open.spotify.com/track/4671UclmP4TO0I8ps2YgW9) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 2](https://open.spotify.com/album/1YiqHCOIxfRSVBKQ4wxqlu) | 4:00 | 2022-09-30 | 2022-11-05 |
+| [Essa Pessoa Esquisita](https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Essa Pessoa Esquisita](https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv) | 4:56 | 2022-12-23 |  |
 | [Estrago](https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Atenta](https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw) | 3:01 | 2022-03-11 | 2022-03-26 |
 | [Estrago](https://open.spotify.com/track/7guu5QTbzpxrt0jbKqF3X8) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Estrago](https://open.spotify.com/album/6n6ychgsjSX4AsAmPcyCT4) | 3:49 | 2022-04-08 | 2022-06-25 |
 | [Eu Ainda Te Quero](https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG) | [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Eu Ainda Te Quero](https://open.spotify.com/album/1EUsc7qQEy7vhYQtOhC4mc) | 2:41 | 2022-08-19 | 2022-10-22 |
@@ -278,8 +279,9 @@
 | [Tirem\-me daqui](https://open.spotify.com/track/3ysIWLVSEYXNqE82GqnV0L) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Papel de carta](https://open.spotify.com/album/3cT88RfZ2nA2hDrbTm3M9W) | 3:26 | 2022-05-13 | 2022-07-16 |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 | 2022-04-29 |
 | [Todo Dia](https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Todo Dia](https://open.spotify.com/album/13Y4BalYZL0tvk5I8dlqJP) | 2:36 | 2022-06-03 | 2022-06-18 |
-| [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 | 2022-09-09 |  |
+| [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 | 2022-09-09 | 2022-12-24 |
 | [Transtornos](https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW) | [Pedro Bala e Os Holofotes](https://open.spotify.com/artist/3IVu27tS3rMSVzmhaJcZO8) | [Transtornos](https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa) | 3:19 | 2022-04-01 | 2022-05-20 |
+| [Trap Triste](https://open.spotify.com/track/4wEWy4TSZbRj7EqjBHyVUc) | [Biltre](https://open.spotify.com/artist/2mQmDB0JpRnx5MsU6RBeev) | [Trap Triste](https://open.spotify.com/album/1A5g9AosXCIwwTUT8Z25dm) | 3:01 | 2022-12-23 |  |
 | [Traumas de Estimação](https://open.spotify.com/track/3b1Vaxhbj3Vmp5ORS4Pf0d) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Traumas de Estimação](https://open.spotify.com/album/29Ao0U6tuUUR9u8FUBaytS) | 5:07 | 2022-02-11 | 2022-03-12 |
 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 | 2022-01-14 | 2022-03-18 |
 | [Tudo](https://open.spotify.com/track/46XgW83pYCfzTbtDNqczDn) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Certas Idades](https://open.spotify.com/album/6ZF8pV2wIkHFAUOzyL4sbg) | 3:34 | 2022-08-19 | 2022-10-29 |

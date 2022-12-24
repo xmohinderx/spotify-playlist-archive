@@ -1,12 +1,12 @@
 {
   "description": "You're warm and cozy inside, listening to the sound of the rain outside. \nGet into the flow, there's nowhere else you need to go. ",
-  "num_followers": 471,
+  "num_followers": 538,
   "original_name": "Raindrops on the window",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4ODE2MSwwMDAwMDAwMGQ4ZDk4OWNmNGNkYmJiNzEzMWQyZjc0ODk2YzdkNjhm",
+  "snapshot_id": "MTY3MTE4ODE2MSwwMDAwMDAwMDVmZmE1MTFmMTczMWExYzcwMDUzMzg3MWExYjQ5MmM1",
   "tracks": [
     {
       "added_at": "2022-12-16 10:56:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Bajo el paraguas",
-        "url": "https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ"
-      },
-      "artists": [
-        {
-          "name": "Weather Modifier",
-          "url": "https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN"
-        }
-      ],
-      "duration_ms": 123344,
-      "name": "Bajo el paraguas",
-      "url": "https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
         "name": "Rain And Thunder (Vol. 3)",
         "url": "https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 175901,
       "name": "Mountain Thunderstorm",
       "url": "https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
+        "name": "Bajo el paraguas",
+        "url": "https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ"
+      },
+      "artists": [
+        {
+          "name": "Weather Modifier",
+          "url": "https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN"
+        }
+      ],
+      "duration_ms": 123344,
+      "name": "Bajo el paraguas",
+      "url": "https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Calmed By The Rain",
-        "url": "https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR"
-      },
-      "artists": [
-        {
-          "name": "naturae",
-          "url": "https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Calmed By The Rain",
-      "url": "https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
         "name": "Morning Wonder (Nature)",
         "url": "https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck"
       },
@@ -519,38 +503,6 @@
       "duration_ms": 196000,
       "name": "Light Steady Rain (Nature)",
       "url": "https://open.spotify.com/track/5a8pa3Jtnb3O8eaym8hZ7n"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
-        "name": "Thunderstorms (Vol. 3)",
-        "url": "https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU"
-      },
-      "artists": [
-        {
-          "name": "Baltic Thunderstorms",
-          "url": "https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0"
-        }
-      ],
-      "duration_ms": 97577,
-      "name": "Thunderstorm at Night",
-      "url": "https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/5KLu6QHGCznPcCB9GJvyMM"
-      },
-      "artists": [
-        {
-          "name": "Altostratus",
-          "url": "https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua"
-        }
-      ],
-      "duration_ms": 155081,
-      "name": "En Paz",
-      "url": "https://open.spotify.com/track/0LFxvRcHo2foS0n1zeFQvR"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -571,6 +523,38 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
+        "name": "Thunderstorms (Vol. 3)",
+        "url": "https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU"
+      },
+      "artists": [
+        {
+          "name": "Baltic Thunderstorms",
+          "url": "https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0"
+        }
+      ],
+      "duration_ms": 97577,
+      "name": "Thunderstorm at Night",
+      "url": "https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
+        "name": "Calmed By The Rain",
+        "url": "https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR"
+      },
+      "artists": [
+        {
+          "name": "naturae",
+          "url": "https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Calmed By The Rain",
+      "url": "https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
         "name": "Yugen (Nature)",
         "url": "https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 153000,
       "name": "Lombok (Rain)",
       "url": "https://open.spotify.com/track/6nPrZhXEtf5kMF0512mQJB"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5KLu6QHGCznPcCB9GJvyMM"
+      },
+      "artists": [
+        {
+          "name": "Altostratus",
+          "url": "https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua"
+        }
+      ],
+      "duration_ms": 155081,
+      "name": "En Paz",
+      "url": "https://open.spotify.com/track/0LFxvRcHo2foS0n1zeFQvR"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Regen \u00fcber Hamburg",
-        "url": "https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s"
+        "name": "Morning Wonder (Nature)",
+        "url": "https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck"
       },
       "artists": [
         {
-          "name": "BLITZ",
-          "url": "https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH"
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Regnerischer Tag",
-      "url": "https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J"
+      "duration_ms": 133250,
+      "name": "Patter (Rain)",
+      "url": "https://open.spotify.com/track/2GjZpbyFka2Ys04Ipe3ehi"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -683,18 +683,34 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Morning Wonder (Nature)",
-        "url": "https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck"
+        "name": "Gentle Drops",
+        "url": "https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7"
       },
       "artists": [
         {
-          "name": "NatuREM",
-          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+          "name": "The Rain Guru",
+          "url": "https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF"
         }
       ],
-      "duration_ms": 133250,
-      "name": "Patter (Rain)",
-      "url": "https://open.spotify.com/track/2GjZpbyFka2Ys04Ipe3ehi"
+      "duration_ms": 230000,
+      "name": "Soft Rain",
+      "url": "https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
+        "name": "Regen \u00fcber Hamburg",
+        "url": "https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s"
+      },
+      "artists": [
+        {
+          "name": "BLITZ",
+          "url": "https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Regnerischer Tag",
+      "url": "https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -715,22 +731,6 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Gentle Drops",
-        "url": "https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7"
-      },
-      "artists": [
-        {
-          "name": "The Rain Guru",
-          "url": "https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Soft Rain",
-      "url": "https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
         "name": "Thunderstorms (Vol. 3)",
         "url": "https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 145683,
       "name": "Peaceful Rain",
       "url": "https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
-        "name": "Even More Stormy Rain",
-        "url": "https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve"
-      },
-      "artists": [
-        {
-          "name": "Stormy Dreams (Rain)",
-          "url": "https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Mindful in Rain Forest",
-      "url": "https://open.spotify.com/track/40niuYLA6ulrd44iFW1SCU"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -795,6 +779,22 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
+        "name": "Gentle Drops",
+        "url": "https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7"
+      },
+      "artists": [
+        {
+          "name": "The Rain Guru",
+          "url": "https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Gentle Pour",
+      "url": "https://open.spotify.com/track/326CiwUuxd0LcLd3gwWy3N"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
         "name": "Rain And Thunder (Vol. 3)",
         "url": "https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 175304,
       "name": "Soothing Rainstorm",
       "url": "https://open.spotify.com/track/4yGdvX8sK6y8OMEQZZi9c7"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
+        "name": "Heavy Rain",
+        "url": "https://open.spotify.com/album/5wHrCh7SaGM0CqL0rLg1xY"
+      },
+      "artists": [
+        {
+          "name": "Peter Graham",
+          "url": "https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv"
+        }
+      ],
+      "duration_ms": 201061,
+      "name": "Rain Drops",
+      "url": "https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Gentle Drops",
-        "url": "https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7"
+        "name": "Even More Stormy Rain",
+        "url": "https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve"
       },
       "artists": [
         {
-          "name": "The Rain Guru",
-          "url": "https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF"
+          "name": "Stormy Dreams (Rain)",
+          "url": "https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Gentle Pour",
-      "url": "https://open.spotify.com/track/326CiwUuxd0LcLd3gwWy3N"
+      "duration_ms": 140500,
+      "name": "Mindful in Rain Forest",
+      "url": "https://open.spotify.com/track/40niuYLA6ulrd44iFW1SCU"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Heavy Rain",
-        "url": "https://open.spotify.com/album/5wHrCh7SaGM0CqL0rLg1xY"
-      },
-      "artists": [
-        {
-          "name": "Peter Graham",
-          "url": "https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Rain Drops",
-      "url": "https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
         "name": "Rain In April",
         "url": "https://open.spotify.com/album/06RODHgMWnkqDdWAT2cMkC"
       },
@@ -935,38 +935,6 @@
       "duration_ms": 212500,
       "name": "Rain in April",
       "url": "https://open.spotify.com/track/4sCp0NnDBe1jk65h6vaQ8E"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
-        "name": "Rain throughout the Day",
-        "url": "https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV"
-      },
-      "artists": [
-        {
-          "name": "Haya Sounds",
-          "url": "https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Rain throughout the Day",
-      "url": "https://open.spotify.com/track/2LdwiQegqzF99iBr0foZr0"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
-        "name": "Even More Stormy Rain",
-        "url": "https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve"
-      },
-      "artists": [
-        {
-          "name": "Stormy Dreams (Rain)",
-          "url": "https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Dripping Rain on Garden Stones",
-      "url": "https://open.spotify.com/track/7dp8pBAleE7jU3sxwif8Wm"
     },
     {
       "added_at": "2022-12-16 10:56:01",
@@ -1003,6 +971,22 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
+        "name": "Gentle Drops",
+        "url": "https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7"
+      },
+      "artists": [
+        {
+          "name": "The Rain Guru",
+          "url": "https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Hard Drops",
+      "url": "https://open.spotify.com/track/7ajQAfXxIO6mYtSEZKDTTM"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
         "name": "Kindred Forest",
         "url": "https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY"
       },
@@ -1035,38 +1019,6 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
-        "name": "Gentle Drops",
-        "url": "https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7"
-      },
-      "artists": [
-        {
-          "name": "The Rain Guru",
-          "url": "https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Hard Drops",
-      "url": "https://open.spotify.com/track/7ajQAfXxIO6mYtSEZKDTTM"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
-        "name": "lluvia y ruido",
-        "url": "https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3"
-      },
-      "artists": [
-        {
-          "name": "Selective Sounds PTA",
-          "url": "https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP"
-        }
-      ],
-      "duration_ms": 143406,
-      "name": "lluvia y ruido",
-      "url": "https://open.spotify.com/track/1uRlPh8z7ep69HkDpq7ZXH"
-    },
-    {
-      "added_at": "2022-12-16 10:56:01",
-      "album": {
         "name": "More Rain",
         "url": "https://open.spotify.com/album/0Q1B0Feeqyc8rwoDQ6CVK9"
       },
@@ -1083,6 +1035,38 @@
     {
       "added_at": "2022-12-16 10:56:01",
       "album": {
+        "name": "Rain throughout the Day",
+        "url": "https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV"
+      },
+      "artists": [
+        {
+          "name": "Haya Sounds",
+          "url": "https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Rain throughout the Day",
+      "url": "https://open.spotify.com/track/2LdwiQegqzF99iBr0foZr0"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
+        "name": "Even More Stormy Rain",
+        "url": "https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve"
+      },
+      "artists": [
+        {
+          "name": "Stormy Dreams (Rain)",
+          "url": "https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Dripping Rain on Garden Stones",
+      "url": "https://open.spotify.com/track/7dp8pBAleE7jU3sxwif8Wm"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
         "name": "Spirit Of Rain",
         "url": "https://open.spotify.com/album/54RLZfNtc05c5eWVsKocfL"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 234000,
       "name": "Spirit Of The Rainforest",
       "url": "https://open.spotify.com/track/5q5VEwBjy5gIeUO5fHhlMC"
+    },
+    {
+      "added_at": "2022-12-16 10:56:01",
+      "album": {
+        "name": "lluvia y ruido",
+        "url": "https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3"
+      },
+      "artists": [
+        {
+          "name": "Selective Sounds PTA",
+          "url": "https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP"
+        }
+      ],
+      "duration_ms": 143406,
+      "name": "lluvia y ruido",
+      "url": "https://open.spotify.com/track/1uRlPh8z7ep69HkDpq7ZXH"
     },
     {
       "added_at": "2022-12-16 10:56:01",

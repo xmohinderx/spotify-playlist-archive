@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-226 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+227 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Fallin' Rain](https://open.spotify.com/track/1OZjdODC1UMEVtqLXDtePS) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/3JUdmXZYmirAf9RQLwUktF) | 3:47 | 2021-12-13 | 2022-07-29 |
 | [Farewell Transmission](https://open.spotify.com/track/0qvmO0IgFQ1gRNfK2nItIq) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Farewell Transmission b/w The Dark Don’t Hide It](https://open.spotify.com/album/4mWSoX9xzod1bg8SdMei5w) | 6:57 | 2021-12-13 | 2022-07-29 |
 | [Farewell Transmission](https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Farewell Transmission b/w The Dark Don’t Hide It](https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF) | 6:57 | 2022-06-03 |  |
+| [Fix You](https://open.spotify.com/track/0QCZRTDJbGo40h7mWL8Pa2) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Jordan C\. Brown](https://open.spotify.com/artist/2Be71FORRclLcc097kl39G) | [Fix You](https://open.spotify.com/album/5e8eSj5xIgJxdmHMphwUcB) | 5:01 | 2022-10-14 |  |
 | [Fix You](https://open.spotify.com/track/7wyjYCzCk2SW9AhPgY9tPL) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Jordan C\. Brown](https://open.spotify.com/artist/2Be71FORRclLcc097kl39G) | [Fix You](https://open.spotify.com/album/3cMdt77MuhdXWZUBngNwNV) | 5:01 | 2021-12-13 | 2022-11-24 |
 | [For What It's Worth](https://open.spotify.com/track/0lXWPos2llF0n0zveBcBeR) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [For What It's Worth](https://open.spotify.com/album/2AQ1kijYhdcBmnPastkz3g) | 3:18 | 2021-12-13 | 2022-07-29 |
 | [For What It's Worth](https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [For What It's Worth](https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji) | 3:18 | 2022-06-03 |  |
@@ -109,7 +110,7 @@
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2022-01-21 | 2022-07-22 |
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 | 2021-12-13 |  |
 | [Hot Knife](https://open.spotify.com/track/4R4Ly8fyz89vGLr8dWfblY) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Fiona Apple](https://open.spotify.com/album/5vktfCTcDjO8o7fpQCUISC) | 2:23 | 2021-12-13 | 2022-07-29 |
-| [How Sweet It Is](https://open.spotify.com/track/69BNeK0GK76eo8qgIOw8AH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Justine](https://open.spotify.com/album/51gyYFmyu4KL0y6kxPiHrX) | 3:21 | 2022-06-03 |  |
+| [How Sweet It Is](https://open.spotify.com/track/69BNeK0GK76eo8qgIOw8AH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Justine](https://open.spotify.com/album/51gyYFmyu4KL0y6kxPiHrX) | 3:21 | 2022-06-03 | 2022-12-24 |
 | [How Sweet It Is](https://open.spotify.com/track/72obwZ3uN0QOg3FJrMVGWP) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Justine \- Single](https://open.spotify.com/album/4i5irdBDyQv50oAsCBf7BN) | 3:21 | 2021-12-13 | 2022-07-29 |
 | [I Envy the Wind](https://open.spotify.com/track/69pyWuhnQK8igKDY35UMbe) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [5 Covers & A Song](https://open.spotify.com/album/2V8YaOsCv3YQd01aVnVa1I) | 3:14 | 2021-12-13 | 2022-07-26 |
 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 | 2021-12-13 |  |

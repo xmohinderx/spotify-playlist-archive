@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Yaffle",
-  "num_followers": 667800,
+  "num_followers": 668054,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2MzIwMCwwMDAwMDAwMDVhMWYxNTlkYWNiY2YyMDQ5ZjNiZjExMmQ1MmZhYWQ3",
+  "snapshot_id": "MTY3MTc2ODAwMCwwMDAwMDAwMDZkNzdiNjQ0OGZkMThjNzA5ODYzMmYyNWZjMzQ1ZmJh",
   "tracks": [
     {
       "added_at": "2022-12-16 04:00:00",
@@ -67,6 +67,30 @@
       "duration_ms": 123786,
       "name": "Pi\u00e8ces de viole, Book 4, Suite in A Minor: VI. Musette",
       "url": "https://open.spotify.com/track/4ALNmOG3muJNlmMuhYq6qN"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/25epWltvymMMPvjbVvBwcL"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Arctic Philharmonic",
+          "url": "https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/77ms6I8UQQFNs6W9BkOFuZ"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -189,6 +213,30 @@
       "url": "https://open.spotify.com/track/5Dwz3DfVfFpMgGTHyx3x1m"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/5nBDDRUMaV93XQXi8LTyXl"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+        },
+        {
+          "name": "Ruben Jeyasundaram",
+          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
+        }
+      ],
+      "duration_ms": 238807,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/5QYQpSdZFk9dwrMw5VVXya"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Feliz Navidad (with The Simpsons)",
@@ -215,6 +263,26 @@
       "duration_ms": 122320,
       "name": "Feliz Navidad (with The Simpsons)",
       "url": "https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Ode to Joy Piano Variation (From Symphony No. 9, Op. 125, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/0dWAIVvOjFyjZ2hNvSqi6G"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "duration_ms": 115560,
+      "name": "Ode to Joy Piano Variation (From Symphony No. 9, Op. 125, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/3i4UjrjuJRGacijBSYXnmX"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -309,6 +377,26 @@
       "url": "https://open.spotify.com/track/673dDig75LkAHiYQor7tFA"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "John Ireland: The Holy Boy",
+        "url": "https://open.spotify.com/album/174rJJW2dIEYraMhUMek64"
+      },
+      "artists": [
+        {
+          "name": "John Ireland",
+          "url": "https://open.spotify.com/artist/0QzZLY6jZif9KbXnxaLIUV"
+        },
+        {
+          "name": "Piatti Quartet",
+          "url": "https://open.spotify.com/artist/4WdJdz5gtnka5sn1OhoF3h"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "The Holy Boy",
+      "url": "https://open.spotify.com/track/4n2CNz9oqsE99BlxTiPXvs"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "1923 Opus (from \"1923\" Original Series Soundtrack, Season 1, Vol. 1)",
@@ -323,6 +411,22 @@
       "duration_ms": 283213,
       "name": "1923 Opus (from \"1923\" Original Series Soundtrack, Season 1, Vol. 1)",
       "url": "https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Polaris",
+        "url": "https://open.spotify.com/album/3EZ4HEXTyGbTbSzql1wiq6"
+      },
+      "artists": [
+        {
+          "name": "Peter Sandberg",
+          "url": "https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai"
+        }
+      ],
+      "duration_ms": 215774,
+      "name": "Polaris IV",
+      "url": "https://open.spotify.com/track/05RtlYm7zb6tsfky3rREZ8"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -389,6 +493,30 @@
       "url": "https://open.spotify.com/track/1FLBMehaGC3JcHfUCF63Vs"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Faur\u00e9: Morceau de Concours",
+        "url": "https://open.spotify.com/album/285NGQU1EXKiXW65OXUl9A"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Stefan Hempel",
+          "url": "https://open.spotify.com/artist/6TGSGlzCgMh723Z7P98VyT"
+        },
+        {
+          "name": "Daniel Seroussi",
+          "url": "https://open.spotify.com/artist/7yvfTkU5JHkkUKZuk9GR2x"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Morceau de Concours",
+      "url": "https://open.spotify.com/track/4BuBxNWaL1atgWE07jFYDo"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Christmas Silence",
@@ -439,6 +567,22 @@
       "duration_ms": 120350,
       "name": "Asgard",
       "url": "https://open.spotify.com/track/2f5wZo3N3l3ICF8EqrIGYO"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Women Talking (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 137915,
+      "name": "Peace Of God",
+      "url": "https://open.spotify.com/track/0rjwfAoxHbUzEzQGx7VaO6"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -505,16 +649,28 @@
       "url": "https://open.spotify.com/track/61SBe9CwHXicGG7brm9N7Y"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "yuki (for 0226 contemporary dance in paris)",
+        "url": "https://open.spotify.com/album/3ekGdTHTBKTprIb53aa2bA"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 245448,
+      "name": "yuki (for 0226 contemporary dance in paris)",
+      "url": "https://open.spotify.com/track/1oI3wlLeiKc8FyVxFdKkJD"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Famous Blue Raincoat",
         "url": "https://open.spotify.com/album/0fglgUp44ebBqjgyWesz0s"
       },
       "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        },
         {
           "name": "Joel Frederiksen",
           "url": "https://open.spotify.com/artist/2dwEGrskkbGsMiDQw4rPzN"
@@ -585,6 +741,22 @@
       "url": "https://open.spotify.com/track/3Fhd3HqVnEHDyDIBubJamK"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "lumina",
+        "url": "https://open.spotify.com/album/3Jo8fggUV2h1U9puhXicxl"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "lumina",
+      "url": "https://open.spotify.com/track/2chguT5MNB67ujORKGn8kz"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "La voix humaine, FP 171: No. 21, \"Alors, voil\u00e0\u2026 J'allais dire machinalement : \u00e0 tout de suite\"",
@@ -633,6 +805,54 @@
       "url": "https://open.spotify.com/track/0tF0ALodn0IYeoInL74OgH"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Cessate, omai cessate, RV 684: II. Aria Ah ch'infelice sempre",
+        "url": "https://open.spotify.com/album/5kIlgRueArZfs1HVih0MO3"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Tim Mead",
+          "url": "https://open.spotify.com/artist/6JiH3j5nKt1zqHgGpeZ94P"
+        },
+        {
+          "name": "Arcangelo",
+          "url": "https://open.spotify.com/artist/7CZfCnmFRBPanhnBO1ZdMq"
+        },
+        {
+          "name": "Jonathan Cohen",
+          "url": "https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R"
+        }
+      ],
+      "duration_ms": 326600,
+      "name": "Cessate, omai cessate, RV 684: Cessate, omai cessate, RV 684: II. Aria Ah ch'infelice sempre",
+      "url": "https://open.spotify.com/track/5TnC1uKszAjGuN6c3zN4ZR"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Leo De Lorenzo: Suite Mythologique, Op. 38",
+        "url": "https://open.spotify.com/album/5EThpQuzuPITNlCbpjh81b"
+      },
+      "artists": [
+        {
+          "name": "Leonardo De Lorenzo",
+          "url": "https://open.spotify.com/artist/50xa9CCdnIhAT8DZ4SwCdx"
+        },
+        {
+          "name": "Haika L\u00fcbcke",
+          "url": "https://open.spotify.com/artist/7rc3H9jh1DDKrug8TIRHyz"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Suite Mythologique, Op. 38: I. Pan - Version for Piccolo",
+      "url": "https://open.spotify.com/track/18NYY2637p08C4c6oqoLZV"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Kein clag hab ich",
@@ -655,6 +875,46 @@
       "duration_ms": 252733,
       "name": "Kein clag hab ich",
       "url": "https://open.spotify.com/track/5Du9zXWQskKpdYPYbac1HJ"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Dumont: Bauyn Manuscript: Pavane de Mons. Dumont",
+        "url": "https://open.spotify.com/album/5fdVW7FLtb8Sz1Qse12iF7"
+      },
+      "artists": [
+        {
+          "name": "Henri Dumont",
+          "url": "https://open.spotify.com/artist/2vQgH4froLn4Yp5dU8KHAS"
+        },
+        {
+          "name": "Salom\u00e9 Gasselin",
+          "url": "https://open.spotify.com/artist/1l8xNnbYbCRNvBj1xMd9Nv"
+        },
+        {
+          "name": "Andr\u00e9as Linos",
+          "url": "https://open.spotify.com/artist/3MniShnC3VgTM239StRHKL"
+        },
+        {
+          "name": "Mathias Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/2TuxrvDOTW56GZif4Iw4V5"
+        },
+        {
+          "name": "Corinna Metz",
+          "url": "https://open.spotify.com/artist/2HLqtrZ14Zap3lWlQu6pMs"
+        },
+        {
+          "name": "Justin Taylor",
+          "url": "https://open.spotify.com/artist/5tkIvW05MneKOKtxgpQWo6"
+        },
+        {
+          "name": "Emmanuel Arak\u00e9lian",
+          "url": "https://open.spotify.com/artist/0QHIJa9P7pxgqOVOFxavwM"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Bauyn Manuscript, F-Pn R\u00e9s.Vm7 674\u2013675: Pavanne de Mons. Dumont",
+      "url": "https://open.spotify.com/track/17qUGKAxIMB1QVlja8GUpC"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -701,6 +961,50 @@
       "url": "https://open.spotify.com/track/54pqxXci3nkf99YDQqGx6e"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Ennio Morricone: Gabriel's Oboe",
+        "url": "https://open.spotify.com/album/3OkVR40e0Kfn6xhKofz4Nn"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        },
+        {
+          "name": "Laterna Magica",
+          "url": "https://open.spotify.com/artist/63Ck6mTBOD0wwB1DqXijBY"
+        }
+      ],
+      "duration_ms": 142693,
+      "name": "Gabriel's Oboe (From \"The Mission\") [Arr. for Recorders, Cello, Harpsichord & Organ by Laterna Magica]",
+      "url": "https://open.spotify.com/track/2NwNhejDNS1GMhbMc7wRed"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Georges Bizet: Les p\u00eacheurs de Perles: Je crois entendre encore",
+        "url": "https://open.spotify.com/album/7E0WMSN0SpbfEmEuAuGWun"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Cello8",
+          "url": "https://open.spotify.com/artist/0kwzW5qW8dLOSOZHDQ0CNf"
+        },
+        {
+          "name": "Raphael Pidoux",
+          "url": "https://open.spotify.com/artist/1jyzHU1tg8sOSmRuhLv5oY"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Les P\u00eacheurs de perles, GB. 4, WD. 13: Je crois entendre encore (Arr. for Cello Octet by Roland Pidoux)",
+      "url": "https://open.spotify.com/track/6fW8gN5nXkmvyk1p6Frcus"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Oh Christmas Tree (Yerrbill with Clarence) [Arr. Joseph Twist]",
@@ -729,6 +1033,54 @@
       "url": "https://open.spotify.com/track/3fP1wEp4vlxHplFQ5SyOOH"
     },
     {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Victoria: O Magnum Mysterium",
+        "url": "https://open.spotify.com/album/7bagytshwPTflSYtK6Dcsc"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+        },
+        {
+          "name": "Varanus Ensemble",
+          "url": "https://open.spotify.com/artist/2SJPihQN2hsqySWy1NzHBP"
+        },
+        {
+          "name": "Manuel Ruiz Del Corral",
+          "url": "https://open.spotify.com/artist/1dU22RKuSIY760v03NGKFw"
+        }
+      ],
+      "duration_ms": 334559,
+      "name": "O Magnum Mysterium - Transcription for String Quartet",
+      "url": "https://open.spotify.com/track/7yN8ZYPVcDodIwPJmpLCcx"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Duos, Op. 8 (Arr. for Classical Accordion & Piano by Milo\u0161 Milivojevi\u0107 & Simon Callaghan): V. Scherzo",
+        "url": "https://open.spotify.com/album/2WKVpcbizEx82VaIiLpgMQ"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Milo\u0161 Milivojevi\u0107",
+          "url": "https://open.spotify.com/artist/0V9RKZ8n7YcOVft0gqP2RZ"
+        },
+        {
+          "name": "Simon Callaghan",
+          "url": "https://open.spotify.com/artist/0jwIYV2OWha4xgIWDlAfrZ"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Duos, Op. 8 (arr. for classical accordion & piano by Milo\u0161 Milivojevi\u0107 & Simon Callaghan): V. Scherzo",
+      "url": "https://open.spotify.com/track/6ojL0tW6VhvreMkEBbAy6q"
+    },
+    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Beaux amants",
@@ -751,6 +1103,30 @@
       "duration_ms": 183200,
       "name": "Beaux amants",
       "url": "https://open.spotify.com/track/3u5diJVyeOL47sNlH6wvTV"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Clairi\u00e8res dans le ciel: No. 6, Si tout ceci n'est qu'un pauvre r\u00eave",
+        "url": "https://open.spotify.com/album/6lhmE0jdd0BTWnEwarUjHs"
+      },
+      "artists": [
+        {
+          "name": "Lili Boulanger",
+          "url": "https://open.spotify.com/artist/2ryY5UTorD1MXmnOcC7jCi"
+        },
+        {
+          "name": "Sandrine Piau",
+          "url": "https://open.spotify.com/artist/21ZrUwCPuok2HGHtuUVCGL"
+        },
+        {
+          "name": "David Kadouch",
+          "url": "https://open.spotify.com/artist/6pkRjdkwMEEJTILeBF45OC"
+        }
+      ],
+      "duration_ms": 127213,
+      "name": "Clairi\u00e8res dans le ciel: No. 6, Si tout ceci n'est qu'un pauvre r\u00eave",
+      "url": "https://open.spotify.com/track/3fPO23MTqH8wtcvwQ1KMXX"
     }
   ],
   "unique_name": "Classical New Releases",

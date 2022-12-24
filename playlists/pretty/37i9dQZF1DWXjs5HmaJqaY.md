@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,569 likes - 70 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,894 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 15 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 |
 | 16 | [The Girl In Black](https://open.spotify.com/track/07duf4WF7Djz1OF1zFZlXM) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [The Girl In Black](https://open.spotify.com/album/1OMSTG2Wn7ZEEA6ljPT5u1) | 7:10 |
 | 17 | [Moulin Rouge](https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6) | [Ira Ange](https://open.spotify.com/artist/647KkEJP83yUnc4oft2pPg), [Sunbios](https://open.spotify.com/artist/469Qwvynp9B15LJAEwouDk) | [Moulin Rouge](https://open.spotify.com/album/2so5MifEWb91gnz2YtQysq) | 6:23 |
-| 18 | [Human Element](https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Human Element](https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx) | 3:04 |
+| 18 | [Fly](https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Fly](https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA) | 3:48 |
 | 19 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
 | 20 | [On The Verge \- Radio Mix](https://open.spotify.com/track/4zsjBsKQEJhD0VivNDDXCq) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [Tony Mac](https://open.spotify.com/artist/4WO5mje9DtK4ACbNOMvbb4) | [On The Verge](https://open.spotify.com/album/2ItxgDNKdIqCuTDiDPr6ip) | 3:23 |
 | 21 | [Nahar](https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Nahar](https://open.spotify.com/album/49UofVTgrdjTpAW931oCix) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 |
 | 70 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `MTY3MTE5OTAyMywwMDAwMDAwMDVhNTllZmIzZGQzNmZiYTE0MjY0OGZmMDY3NzFjMjk3`
+Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMDc1ZjFhZjkyYWE2YTEwYmZjZmExZTU2OTExMjIyMmE3`

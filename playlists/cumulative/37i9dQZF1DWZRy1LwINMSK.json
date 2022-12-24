@@ -2102,6 +2102,32 @@
     },
     {
       "album": {
+        "name": "Seguimo Joseando",
+        "url": "https://open.spotify.com/album/6HHzPGjMBG81HSMb3g1u8L"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Benjita Montana",
+          "url": "https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Seguimo Joseando",
+      "url": "https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq"
+    },
+    {
+      "album": {
         "name": "SHISHI Mixtape",
         "url": "https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY"
       },

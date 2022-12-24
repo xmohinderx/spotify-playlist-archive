@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-396 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+398 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Butterfly Effect](https://open.spotify.com/track/1OjgvrmMnOHkOKChAZYV4H) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Butterfly Effect](https://open.spotify.com/album/7lneB2Lrh6GkVOUsvDGwtM) | 1:55 | 2021-11-11 | 2022-09-17 |
 | [Buzz](https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Buzz](https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw) | 2:34 | 2021-11-11 |  |
 | [Café Chino](https://open.spotify.com/track/1GcYL0osnHdo5j7PW3ufFs) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Café Chino](https://open.spotify.com/album/7K7gGn9H1kr2JAzpdHzhu5) | 2:24 | 2022-12-09 |  |
+| [California Sun](https://open.spotify.com/track/6dKese2lywLaaZkSgF5RV8) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [California Sun](https://open.spotify.com/album/6x5M0VCiOlD7pt0gy1Uhgp) | 2:14 | 2022-12-23 |  |
 | [Call Me](https://open.spotify.com/track/1hc4YKpgFFFbK6YMuDXTnu) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [Call Me](https://open.spotify.com/album/3NvSQrWzAMxGp8DABLyOy3) | 2:08 | 2022-09-16 |  |
 | [Calm Down For A Minute](https://open.spotify.com/track/0UaZdtHWKecTHVOXlg2iHT) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Calm Down For A Minute](https://open.spotify.com/album/4w1ANwrjtuDMnNLmmlt6XE) | 2:08 | 2022-12-09 |  |
 | [Cameo](https://open.spotify.com/track/30OXkzWR9otpCgUpAPrtPA) | [Jazzarama](https://open.spotify.com/artist/3yNVU8t50pOgeeaiEtGKMe) | [Vacation Plans](https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D) | 2:33 | 2021-11-11 |  |
@@ -355,6 +356,7 @@
 | [this wedding](https://open.spotify.com/track/26i9wgPx6AVjD2s4AgsJ5M) | [gnachos](https://open.spotify.com/artist/0zxfQpA423VZNWav1hgj8p) | [this wedding](https://open.spotify.com/album/4Mxl4KEcj1VOYG6P8CRxHz) | 2:43 | 2021-11-11 | 2022-08-19 |
 | [Tightrope Dancer](https://open.spotify.com/track/2KNjcNgghOZqNmfCGa5KuY) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Tightrope Dancer](https://open.spotify.com/album/3sHWJRv2zeA6aoc9Y5CeiH) | 2:22 | 2021-11-11 | 2022-11-26 |
 | [Times, Times](https://open.spotify.com/track/1CEeMld7h9WlsJBTobGPyu) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Times, Times](https://open.spotify.com/album/2PGffwBFMtFQqAOWPVERQj) | 2:13 | 2021-11-11 | 2022-10-15 |
+| [Tokio](https://open.spotify.com/track/4JfGX1IKhN1sUP9IvagzjH) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV), [Joo](https://open.spotify.com/artist/5SPZlBS37bxtXZH3mWcW1i), [Boke](https://open.spotify.com/artist/2hGFRC2gfQ5SR9FH6kDwzG) | [Tokio](https://open.spotify.com/album/1lEhLGzKDwcKrTHufuHkca) | 1:13 | 2022-12-23 |  |
 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 | 2022-07-29 | 2022-11-26 |
 | [Tokyo Trainspotting](https://open.spotify.com/track/5BytyiwDLVxJS1x4vgaeli) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:00 | 2022-10-28 | 2022-11-14 |
 | [Tokyo Trainspotting](https://open.spotify.com/track/71xDIzNBNBymTelTTUz3YC) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/0YMPRcQiUqkkWM6DHjUNRO) | 2:00 | 2021-11-11 | 2022-07-29 |
